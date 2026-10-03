@@ -1,0 +1,652 @@
+[
+ {
+  "fr": {
+   "q": "Capitale de l'Algérie ?",
+   "c": [
+    "Alger",
+    "Oran",
+    "Constantine",
+    "Annaba"
+   ]
+  },
+  "en": {
+   "q": "Capital of Algeria?",
+   "c": [
+    "Algiers",
+    "Oran",
+    "Constantine",
+    "Annaba"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هي عاصمة الجزائر؟",
+   "c": [
+    "الجزائر العاصمة",
+    "وهران",
+    "قسنطينة",
+    "عنابة"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Argelia?",
+   "c": [
+    "Argel",
+    "Orán",
+    "Constantina",
+    "Annaba"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital da Argélia?",
+   "c": [
+    "Argel",
+    "Orã",
+    "Constantina",
+    "Annaba"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Capitale du Japon ?",
+   "c": [
+    "Tokyo",
+    "Kyoto",
+    "Osaka",
+    "Séoul"
+   ]
+  },
+  "en": {
+   "q": "Capital of Japan?",
+   "c": [
+    "Tokyo",
+    "Kyoto",
+    "Osaka",
+    "Seoul"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هي عاصمة اليابان؟",
+   "c": [
+    "طوكيو",
+    "كيوتو",
+    "أوساكا",
+    "سيول"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Japón?",
+   "c": [
+    "Tokio",
+    "Kioto",
+    "Osaka",
+    "Seúl"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital do Japão?",
+   "c": [
+    "Tóquio",
+    "Quioto",
+    "Osaka",
+    "Seul"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Capitale de l'Italie ?",
+   "c": [
+    "Rome",
+    "Milan",
+    "Venise",
+    "Naples"
+   ]
+  },
+  "en": {
+   "q": "Capital of Italy?",
+   "c": [
+    "Rome",
+    "Milan",
+    "Venice",
+    "Naples"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هي عاصمة إيطاليا؟",
+   "c": [
+    "روما",
+    "ميلانو",
+    "البندقية",
+    "نابولي"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Italia?",
+   "c": [
+    "Roma",
+    "Milán",
+    "Venecia",
+    "Nápoles"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital da Itália?",
+   "c": [
+    "Roma",
+    "Milão",
+    "Veneza",
+    "Nápoles"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale de l'Australie ?",
+   "c": [
+    "Canberra",
+    "Sydney",
+    "Melbourne",
+    "Perth"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of Australia?",
+   "c": [
+    "Canberra",
+    "Sydney",
+    "Melbourne",
+    "Perth"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هي عاصمة أستراليا؟",
+   "c": [
+    "كانبرا",
+    "سيدني",
+    "ملبورن",
+    "بيرث"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Australia?",
+   "c": [
+    "Canberra",
+    "Sydney",
+    "Melbourne",
+    "Perth"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital da Austrália?",
+   "c": [
+    "Canberra",
+    "Sydney",
+    "Melbourne",
+    "Perth"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale du Canada ?",
+   "c": [
+    "Ottawa",
+    "Toronto",
+    "Montréal",
+    "Vancouver"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of Canada?",
+   "c": [
+    "Ottawa",
+    "Toronto",
+    "Montreal",
+    "Vancouver"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هي عاصمة كندا؟",
+   "c": [
+    "أوتاوا",
+    "تورنتو",
+    "مونتريال",
+    "فانكوفر"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Canadá?",
+   "c": [
+    "Ottawa",
+    "Toronto",
+    "Montreal",
+    "Vancouver"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital do Canadá?",
+   "c": [
+    "Ottawa",
+    "Toronto",
+    "Montreal",
+    "Vancouver"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale de la Turquie ?",
+   "c": [
+    "Ankara",
+    "Istanbul",
+    "Izmir",
+    "Bursa"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of Turkey?",
+   "c": [
+    "Ankara",
+    "Istanbul",
+    "Izmir",
+    "Bursa"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هي عاصمة تركيا؟",
+   "c": [
+    "أنقرة",
+    "إسطنبول",
+    "إزمير",
+    "بورصة"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Turquía?",
+   "c": [
+    "Ankara",
+    "Estambul",
+    "Esmirna",
+    "Bursa"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital da Turquia?",
+   "c": [
+    "Ancara",
+    "Istambul",
+    "Esmirna",
+    "Bursa"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale du Kazakhstan ?",
+   "c": [
+    "Astana",
+    "Almaty",
+    "Tachkent",
+    "Bichkek"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of Kazakhstan?",
+   "c": [
+    "Astana",
+    "Almaty",
+    "Tashkent",
+    "Bishkek"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هي عاصمة كازاخستان؟",
+   "c": [
+    "أستانا",
+    "ألماتي",
+    "طشقند",
+    "بيشكيك"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Kazajistán?",
+   "c": [
+    "Astaná",
+    "Almaty",
+    "Taskent",
+    "Biskek"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital do Cazaquistão?",
+   "c": [
+    "Astana",
+    "Almaty",
+    "Tashkent",
+    "Bishkek"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "What is the capital of Spain?",
+   "c": [
+    "Madrid",
+    "Barcelona",
+    "Seville",
+    "Valencia"
+   ]
+  },
+  "fr": {
+   "q": "Quelle est la capitale de l'Espagne ?",
+   "c": [
+    "Madrid",
+    "Barcelone",
+    "Séville",
+    "Valence"
+   ]
+  },
+  "ar": {
+   "q": "ما هي عاصمة إسبانيا؟",
+   "c": [
+    "مدريد",
+    "برشلونة",
+    "إشبيلية",
+    "فالنسيا"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de España?",
+   "c": [
+    "Madrid",
+    "Barcelona",
+    "Sevilla",
+    "Valencia"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital da Espanha?",
+   "c": [
+    "Madrid",
+    "Barcelona",
+    "Sevilha",
+    "Valência"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "What is the capital of Egypt?",
+   "c": [
+    "Cairo",
+    "Alexandria",
+    "Giza",
+    "Luxor"
+   ]
+  },
+  "fr": {
+   "q": "Quelle est la capitale de l'Égypte ?",
+   "c": [
+    "Le Caire",
+    "Alexandrie",
+    "Gizeh",
+    "Louxor"
+   ]
+  },
+  "ar": {
+   "q": "ما هي عاصمة مصر؟",
+   "c": [
+    "القاهرة",
+    "الإسكندرية",
+    "الجيزة",
+    "الأقصر"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Egipto?",
+   "c": [
+    "El Cairo",
+    "Alejandría",
+    "Guiza",
+    "Luxor"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital do Egito?",
+   "c": [
+    "O Cairo",
+    "Alexandria",
+    "Gizé",
+    "Luxor"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "In which city is the Eiffel Tower?",
+   "c": [
+    "Paris",
+    "London",
+    "Rome",
+    "Berlin"
+   ]
+  },
+  "fr": {
+   "q": "Dans quelle ville se trouve la tour Eiffel ?",
+   "c": [
+    "Paris",
+    "Londres",
+    "Rome",
+    "Berlin"
+   ]
+  },
+  "ar": {
+   "q": "في أي مدينة يقع برج إيفل؟",
+   "c": [
+    "باريس",
+    "لندن",
+    "روما",
+    "برلين"
+   ]
+  },
+  "es": {
+   "q": "¿En qué ciudad está la Torre Eiffel?",
+   "c": [
+    "París",
+    "Londres",
+    "Roma",
+    "Berlín"
+   ]
+  },
+  "pt": {
+   "q": "Em que cidade fica a Torre Eiffel?",
+   "c": [
+    "Paris",
+    "Londres",
+    "Roma",
+    "Berlim"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "What is the capital of Brazil?",
+   "c": [
+    "Brasília",
+    "Rio de Janeiro",
+    "São Paulo",
+    "Salvador"
+   ]
+  },
+  "fr": {
+   "q": "Quelle est la capitale du Brésil ?",
+   "c": [
+    "Brasilia",
+    "Rio de Janeiro",
+    "São Paulo",
+    "Salvador"
+   ]
+  },
+  "ar": {
+   "q": "ما هي عاصمة البرازيل؟",
+   "c": [
+    "برازيليا",
+    "ريو دي جانيرو",
+    "ساو باولو",
+    "سلفادور"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Brasil?",
+   "c": [
+    "Brasilia",
+    "Río de Janeiro",
+    "São Paulo",
+    "Salvador"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital do Brasil?",
+   "c": [
+    "Brasília",
+    "Rio de Janeiro",
+    "São Paulo",
+    "Salvador"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "What is the capital of Morocco?",
+   "c": [
+    "Rabat",
+    "Casablanca",
+    "Marrakesh",
+    "Fez"
+   ]
+  },
+  "fr": {
+   "q": "Quelle est la capitale du Maroc ?",
+   "c": [
+    "Rabat",
+    "Casablanca",
+    "Marrakech",
+    "Fès"
+   ]
+  },
+  "ar": {
+   "q": "ما هي عاصمة المغرب؟",
+   "c": [
+    "الرباط",
+    "الدار البيضاء",
+    "مراكش",
+    "فاس"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Marruecos?",
+   "c": [
+    "Rabat",
+    "Casablanca",
+    "Marrakech",
+    "Fez"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital do Marrocos?",
+   "c": [
+    "Rabat",
+    "Casablanca",
+    "Marrakech",
+    "Fez"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "What is the capital of Switzerland?",
+   "c": [
+    "Bern",
+    "Zurich",
+    "Geneva",
+    "Basel"
+   ]
+  },
+  "fr": {
+   "q": "Quelle est la capitale de la Suisse ?",
+   "c": [
+    "Berne",
+    "Zurich",
+    "Genève",
+    "Bâle"
+   ]
+  },
+  "ar": {
+   "q": "ما هي عاصمة سويسرا؟",
+   "c": [
+    "برن",
+    "زيورخ",
+    "جنيف",
+    "بازل"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Suiza?",
+   "c": [
+    "Berna",
+    "Zúrich",
+    "Ginebra",
+    "Basilea"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital da Suíça?",
+   "c": [
+    "Berna",
+    "Zurique",
+    "Genebra",
+    "Basileia"
+   ]
+  },
+  "d": 2
+ }
+]

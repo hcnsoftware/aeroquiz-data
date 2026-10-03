@@ -1,0 +1,602 @@
+[
+ {
+  "fr": {
+   "q": "Combien de joueurs par équipe sur le terrain au football ?",
+   "c": [
+    "9",
+    "10",
+    "11",
+    "12"
+   ]
+  },
+  "en": {
+   "q": "How many players per team are on the pitch in football?",
+   "c": [
+    "9",
+    "10",
+    "11",
+    "12"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "ar": {
+   "q": "كم عدد اللاعبين في كل فريق داخل الملعب في كرة القدم؟",
+   "c": [
+    "9",
+    "10",
+    "11",
+    "12"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos jugadores por equipo hay en el campo en el fútbol?",
+   "c": [
+    "9",
+    "10",
+    "11",
+    "12"
+   ]
+  },
+  "pt": {
+   "q": "Quantos jogadores por equipe há em campo no futebol?",
+   "c": [
+    "9",
+    "10",
+    "11",
+    "12"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Qui a gagné la Coupe du monde de football 2022 ?",
+   "c": [
+    "L'Argentine",
+    "La France",
+    "Le Brésil",
+    "La Croatie"
+   ]
+  },
+  "en": {
+   "q": "Who won the 2022 football World Cup?",
+   "c": [
+    "Argentina",
+    "France",
+    "Brazil",
+    "Croatia"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "من فاز بكأس العالم لكرة القدم 2022؟",
+   "c": [
+    "الأرجنتين",
+    "فرنسا",
+    "البرازيل",
+    "كرواتيا"
+   ]
+  },
+  "es": {
+   "q": "¿Quién ganó el Mundial de fútbol de 2022?",
+   "c": [
+    "Argentina",
+    "Francia",
+    "Brasil",
+    "Croacia"
+   ]
+  },
+  "pt": {
+   "q": "Quem ganhou a Copa do Mundo de 2022?",
+   "c": [
+    "Argentina",
+    "França",
+    "Brasil",
+    "Croácia"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "a": 1,
+  "image": null,
+  "en": {
+   "q": "How many players of a basketball team are on the court?",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ]
+  },
+  "fr": {
+   "q": "Combien de joueurs d'une équipe de basket sont sur le terrain ?",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد لاعبي فريق كرة السلة داخل الملعب؟",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos jugadores de un equipo de baloncesto hay en la cancha?",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ]
+  },
+  "pt": {
+   "q": "Quantos jogadores de uma equipe de basquete ficam em quadra?",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "In which sport do you use a racket and a shuttlecock?",
+   "c": [
+    "Badminton",
+    "Tennis",
+    "Squash",
+    "Table tennis"
+   ]
+  },
+  "fr": {
+   "q": "Dans quel sport utilise-t-on une raquette et un volant ?",
+   "c": [
+    "Le badminton",
+    "Le tennis",
+    "Le squash",
+    "Le tennis de table"
+   ]
+  },
+  "ar": {
+   "q": "في أي رياضة تُستخدم المضرب والريشة؟",
+   "c": [
+    "الريشة الطائرة",
+    "التنس",
+    "الاسكواش",
+    "كرة الطاولة"
+   ]
+  },
+  "es": {
+   "q": "¿En qué deporte se usa una raqueta y un volante?",
+   "c": [
+    "Bádminton",
+    "Tenis",
+    "Squash",
+    "Tenis de mesa"
+   ]
+  },
+  "pt": {
+   "q": "Em que esporte se usam raquete e volante?",
+   "c": [
+    "Badminton",
+    "Tênis",
+    "Squash",
+    "Tênis de mesa"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "a": 2,
+  "image": null,
+  "en": {
+   "q": "How many rings are on the Olympic flag?",
+   "c": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ]
+  },
+  "fr": {
+   "q": "Combien d'anneaux y a-t-il sur le drapeau olympique ?",
+   "c": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد الحلقات على العلم الأولمبي؟",
+   "c": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos aros tiene la bandera olímpica?",
+   "c": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ]
+  },
+  "pt": {
+   "q": "Quantos anéis tem a bandeira olímpica?",
+   "c": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "Which sport is played at Wimbledon?",
+   "c": [
+    "Tennis",
+    "Golf",
+    "Cricket",
+    "Rugby"
+   ]
+  },
+  "fr": {
+   "q": "Quel sport se joue à Wimbledon ?",
+   "c": [
+    "Le tennis",
+    "Le golf",
+    "Le cricket",
+    "Le rugby"
+   ]
+  },
+  "ar": {
+   "q": "أي رياضة تُلعب في ويمبلدون؟",
+   "c": [
+    "التنس",
+    "الغولف",
+    "الكريكيت",
+    "الرغبي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué deporte se juega en Wimbledon?",
+   "c": [
+    "Tenis",
+    "Golf",
+    "Críquet",
+    "Rugby"
+   ]
+  },
+  "pt": {
+   "q": "Qual esporte é disputado em Wimbledon?",
+   "c": [
+    "Tênis",
+    "Golfe",
+    "Críquete",
+    "Rúgbi"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "How long is a football match (without extra time)?",
+   "c": [
+    "90 minutes",
+    "60 minutes",
+    "80 minutes",
+    "120 minutes"
+   ]
+  },
+  "fr": {
+   "q": "Combien de temps dure un match de football (sans prolongations) ?",
+   "c": [
+    "90 minutes",
+    "60 minutes",
+    "80 minutes",
+    "120 minutes"
+   ]
+  },
+  "ar": {
+   "q": "كم تستغرق مباراة كرة القدم (دون وقت إضافي)؟",
+   "c": [
+    "90 دقيقة",
+    "60 دقيقة",
+    "80 دقيقة",
+    "120 دقيقة"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto dura un partido de fútbol (sin prórroga)?",
+   "c": [
+    "90 minutos",
+    "60 minutos",
+    "80 minutos",
+    "120 minutos"
+   ]
+  },
+  "pt": {
+   "q": "Quanto dura uma partida de futebol (sem prorrogação)?",
+   "c": [
+    "90 minutos",
+    "60 minutos",
+    "80 minutos",
+    "120 minutos"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "Which country hosted the 2016 Summer Olympics?",
+   "c": [
+    "Brazil",
+    "China",
+    "United Kingdom",
+    "Greece"
+   ]
+  },
+  "fr": {
+   "q": "Quel pays a accueilli les Jeux olympiques d'été de 2016 ?",
+   "c": [
+    "Le Brésil",
+    "La Chine",
+    "Le Royaume-Uni",
+    "La Grèce"
+   ]
+  },
+  "ar": {
+   "q": "أي دولة استضافت الألعاب الأولمبية الصيفية 2016؟",
+   "c": [
+    "البرازيل",
+    "الصين",
+    "المملكة المتحدة",
+    "اليونان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país organizó los Juegos Olímpicos de verano de 2016?",
+   "c": [
+    "Brasil",
+    "China",
+    "Reino Unido",
+    "Grecia"
+   ]
+  },
+  "pt": {
+   "q": "Qual país sediou os Jogos Olímpicos de verão de 2016?",
+   "c": [
+    "Brasil",
+    "China",
+    "Reino Unido",
+    "Grécia"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "a": 2,
+  "image": null,
+  "en": {
+   "q": "How many Grand Slam tournaments are there each year in tennis?",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  "fr": {
+   "q": "Combien de tournois du Grand Chelem y a-t-il chaque année au tennis ?",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد بطولات الغراند سلام في التنس كل عام؟",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos torneos de Grand Slam hay cada año en el tenis?",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  "pt": {
+   "q": "Quantos torneios de Grand Slam existem por ano no tênis?",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "Which country has won the most men's FIFA World Cups?",
+   "c": [
+    "Brazil",
+    "Germany",
+    "Italy",
+    "Argentina"
+   ]
+  },
+  "fr": {
+   "q": "Quel pays a remporté le plus de Coupes du monde masculines de football ?",
+   "c": [
+    "Le Brésil",
+    "L'Allemagne",
+    "L'Italie",
+    "L'Argentine"
+   ]
+  },
+  "ar": {
+   "q": "أي دولة فازت بأكبر عدد من كؤوس العالم للرجال؟",
+   "c": [
+    "البرازيل",
+    "ألمانيا",
+    "إيطاليا",
+    "الأرجنتين"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país ha ganado más Mundiales masculinos de fútbol?",
+   "c": [
+    "Brasil",
+    "Alemania",
+    "Italia",
+    "Argentina"
+   ]
+  },
+  "pt": {
+   "q": "Qual país venceu mais Copas do Mundo masculinas de futebol?",
+   "c": [
+    "Brasil",
+    "Alemanha",
+    "Itália",
+    "Argentina"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "In which sport do you score a hole-in-one?",
+   "c": [
+    "Golf",
+    "Bowling",
+    "Archery",
+    "Snooker"
+   ]
+  },
+  "fr": {
+   "q": "Dans quel sport réalise-t-on un « trou en un » ?",
+   "c": [
+    "Le golf",
+    "Le bowling",
+    "Le tir à l'arc",
+    "Le snooker"
+   ]
+  },
+  "ar": {
+   "q": "في أي رياضة يُحرز اللاعب «هول إن وان»؟",
+   "c": [
+    "الغولف",
+    "البولينغ",
+    "الرماية",
+    "السنوكر"
+   ]
+  },
+  "es": {
+   "q": "¿En qué deporte se logra un «hoyo en uno»?",
+   "c": [
+    "Golf",
+    "Bolos",
+    "Tiro con arco",
+    "Snooker"
+   ]
+  },
+  "pt": {
+   "q": "Em qual esporte se faz um «buraco em um»?",
+   "c": [
+    "Golfe",
+    "Boliche",
+    "Tiro com arco",
+    "Sinuca"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "What is the distance of a marathon (approximately)?",
+   "c": [
+    "42 km",
+    "21 km",
+    "50 km",
+    "100 km"
+   ]
+  },
+  "fr": {
+   "q": "Quelle est la distance d'un marathon (environ) ?",
+   "c": [
+    "42 km",
+    "21 km",
+    "50 km",
+    "100 km"
+   ]
+  },
+  "ar": {
+   "q": "ما هي مسافة سباق الماراثون تقريبًا؟",
+   "c": [
+    "42 كم",
+    "21 كم",
+    "50 كم",
+    "100 كم"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la distancia de un maratón (aproximadamente)?",
+   "c": [
+    "42 km",
+    "21 km",
+    "50 km",
+    "100 km"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a distância de uma maratona (aproximadamente)?",
+   "c": [
+    "42 km",
+    "21 km",
+    "50 km",
+    "100 km"
+   ]
+  },
+  "d": 2
+ }
+]

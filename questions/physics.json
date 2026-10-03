@@ -1,0 +1,602 @@
+[
+ {
+  "fr": {
+   "q": "Qu'est-ce qui va le plus vite ?",
+   "c": [
+    "La lumière",
+    "Le son",
+    "Le vent",
+    "Une voiture"
+   ]
+  },
+  "en": {
+   "q": "Which travels fastest?",
+   "c": [
+    "Light",
+    "Sound",
+    "Wind",
+    "A car"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "أيّ مما يلي هو الأسرع؟",
+   "c": [
+    "الضوء",
+    "الصوت",
+    "الرياح",
+    "سيارة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué viaja más rápido?",
+   "c": [
+    "La luz",
+    "El sonido",
+    "El viento",
+    "Un coche"
+   ]
+  },
+  "pt": {
+   "q": "O que viaja mais rápido?",
+   "c": [
+    "A luz",
+    "O som",
+    "O vento",
+    "Um carro"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Qui a formulé la théorie de la relativité ?",
+   "c": [
+    "Albert Einstein",
+    "Isaac Newton",
+    "Niels Bohr",
+    "Galilée"
+   ]
+  },
+  "en": {
+   "q": "Who developed the theory of relativity?",
+   "c": [
+    "Albert Einstein",
+    "Isaac Newton",
+    "Niels Bohr",
+    "Galileo"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "من صاغ نظرية النسبية؟",
+   "c": [
+    "ألبرت أينشتاين",
+    "إسحاق نيوتن",
+    "نيلز بور",
+    "غاليليو"
+   ]
+  },
+  "es": {
+   "q": "¿Quién formuló la teoría de la relatividad?",
+   "c": [
+    "Albert Einstein",
+    "Isaac Newton",
+    "Niels Bohr",
+    "Galileo"
+   ]
+  },
+  "pt": {
+   "q": "Quem formulou a teoria da relatividade?",
+   "c": [
+    "Albert Einstein",
+    "Isaac Newton",
+    "Niels Bohr",
+    "Galileu"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle est la vitesse de la lumière (environ) ?",
+   "c": [
+    "30 000 km/s",
+    "150 000 km/s",
+    "300 000 km/s",
+    "1 000 000 km/s"
+   ]
+  },
+  "en": {
+   "q": "What is the speed of light (approximately)?",
+   "c": [
+    "30,000 km/s",
+    "150,000 km/s",
+    "300,000 km/s",
+    "1,000,000 km/s"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "ar": {
+   "q": "ما هي سرعة الضوء تقريبًا؟",
+   "c": [
+    "30 ألف كم/ث",
+    "150 ألف كم/ث",
+    "300 ألف كم/ث",
+    "مليون كم/ث"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la velocidad de la luz (aproximadamente)?",
+   "c": [
+    "30 000 km/s",
+    "150 000 km/s",
+    "300 000 km/s",
+    "1 000 000 km/s"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a velocidade da luz (aproximadamente)?",
+   "c": [
+    "30 000 km/s",
+    "150 000 km/s",
+    "300 000 km/s",
+    "1 000 000 km/s"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Quel est le numéro atomique de l'oxygène ?",
+   "c": [
+    "6",
+    "7",
+    "8",
+    "16"
+   ]
+  },
+  "en": {
+   "q": "What is the atomic number of oxygen?",
+   "c": [
+    "6",
+    "7",
+    "8",
+    "16"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "ar": {
+   "q": "ما هو العدد الذري للأكسجين؟",
+   "c": [
+    "6",
+    "7",
+    "8",
+    "16"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el número atómico del oxígeno?",
+   "c": [
+    "6",
+    "7",
+    "8",
+    "16"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o número atômico do oxigênio?",
+   "c": [
+    "6",
+    "7",
+    "8",
+    "16"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Qui a découvert la radioactivité naturelle en 1896 ?",
+   "c": [
+    "Henri Becquerel",
+    "Marie Curie",
+    "Ernest Rutherford",
+    "Wilhelm Röntgen"
+   ]
+  },
+  "en": {
+   "q": "Who discovered natural radioactivity in 1896?",
+   "c": [
+    "Henri Becquerel",
+    "Marie Curie",
+    "Ernest Rutherford",
+    "Wilhelm Röntgen"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "من اكتشف النشاط الإشعاعي الطبيعي عام 1896؟",
+   "c": [
+    "هنري بيكريل",
+    "ماري كوري",
+    "إرنست رذرفورد",
+    "فيلهلم رونتغن"
+   ]
+  },
+  "es": {
+   "q": "¿Quién descubrió la radiactividad natural en 1896?",
+   "c": [
+    "Henri Becquerel",
+    "Marie Curie",
+    "Ernest Rutherford",
+    "Wilhelm Röntgen"
+   ]
+  },
+  "pt": {
+   "q": "Quem descobriu a radioatividade natural em 1896?",
+   "c": [
+    "Henri Becquerel",
+    "Marie Curie",
+    "Ernest Rutherford",
+    "Wilhelm Röntgen"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "What force pulls objects toward the Earth?",
+   "c": [
+    "Gravity",
+    "Magnetism",
+    "Friction",
+    "Inertia"
+   ]
+  },
+  "fr": {
+   "q": "Quelle force attire les objets vers la Terre ?",
+   "c": [
+    "La gravité",
+    "Le magnétisme",
+    "Le frottement",
+    "L'inertie"
+   ]
+  },
+  "ar": {
+   "q": "ما القوة التي تجذب الأجسام نحو الأرض؟",
+   "c": [
+    "الجاذبية",
+    "المغناطيسية",
+    "الاحتكاك",
+    "القصور الذاتي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué fuerza atrae los objetos hacia la Tierra?",
+   "c": [
+    "La gravedad",
+    "El magnetismo",
+    "La fricción",
+    "La inercia"
+   ]
+  },
+  "pt": {
+   "q": "Que força atrai os objetos para a Terra?",
+   "c": [
+    "A gravidade",
+    "O magnetismo",
+    "O atrito",
+    "A inércia"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "At what temperature does water freeze?",
+   "c": [
+    "0 °C",
+    "10 °C",
+    "-10 °C",
+    "100 °C"
+   ]
+  },
+  "fr": {
+   "q": "À quelle température l'eau gèle-t-elle ?",
+   "c": [
+    "0 °C",
+    "10 °C",
+    "-10 °C",
+    "100 °C"
+   ]
+  },
+  "ar": {
+   "q": "عند أي درجة حرارة يتجمد الماء؟",
+   "c": [
+    "0 °C",
+    "10 °C",
+    "-10 °C",
+    "100 °C"
+   ]
+  },
+  "es": {
+   "q": "¿A qué temperatura se congela el agua?",
+   "c": [
+    "0 °C",
+    "10 °C",
+    "-10 °C",
+    "100 °C"
+   ]
+  },
+  "pt": {
+   "q": "A que temperatura a água congela?",
+   "c": [
+    "0 °C",
+    "10 °C",
+    "-10 °C",
+    "100 °C"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "What energy does a moving object have?",
+   "c": [
+    "Kinetic",
+    "Potential",
+    "Thermal",
+    "Chemical"
+   ]
+  },
+  "fr": {
+   "q": "Quelle énergie possède un objet en mouvement ?",
+   "c": [
+    "Cinétique",
+    "Potentielle",
+    "Thermique",
+    "Chimique"
+   ]
+  },
+  "ar": {
+   "q": "ما نوع الطاقة التي يمتلكها جسم متحرك؟",
+   "c": [
+    "الطاقة الحركية",
+    "طاقة الوضع",
+    "الطاقة الحرارية",
+    "الطاقة الكيميائية"
+   ]
+  },
+  "es": {
+   "q": "¿Qué energía tiene un objeto en movimiento?",
+   "c": [
+    "Cinética",
+    "Potencial",
+    "Térmica",
+    "Química"
+   ]
+  },
+  "pt": {
+   "q": "Que energia tem um objeto em movimento?",
+   "c": [
+    "Cinética",
+    "Potencial",
+    "Térmica",
+    "Química"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "What does a thermometer measure?",
+   "c": [
+    "Temperature",
+    "Pressure",
+    "Speed",
+    "Weight"
+   ]
+  },
+  "fr": {
+   "q": "Que mesure un thermomètre ?",
+   "c": [
+    "La température",
+    "La pression",
+    "La vitesse",
+    "Le poids"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يقيس الترمومتر؟",
+   "c": [
+    "درجة الحرارة",
+    "الضغط",
+    "السرعة",
+    "الوزن"
+   ]
+  },
+  "es": {
+   "q": "¿Qué mide un termómetro?",
+   "c": [
+    "La temperatura",
+    "La presión",
+    "La velocidad",
+    "El peso"
+   ]
+  },
+  "pt": {
+   "q": "O que um termômetro mede?",
+   "c": [
+    "A temperatura",
+    "A pressão",
+    "A velocidade",
+    "O peso"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "At what temperature does water boil at sea level?",
+   "c": [
+    "100 °C",
+    "90 °C",
+    "80 °C",
+    "120 °C"
+   ]
+  },
+  "fr": {
+   "q": "À quelle température l'eau bout-elle au niveau de la mer ?",
+   "c": [
+    "100 °C",
+    "90 °C",
+    "80 °C",
+    "120 °C"
+   ]
+  },
+  "ar": {
+   "q": "عند أي درجة حرارة يغلي الماء عند مستوى سطح البحر؟",
+   "c": [
+    "100 °C",
+    "90 °C",
+    "80 °C",
+    "120 °C"
+   ]
+  },
+  "es": {
+   "q": "¿A qué temperatura hierve el agua a nivel del mar?",
+   "c": [
+    "100 °C",
+    "90 °C",
+    "80 °C",
+    "120 °C"
+   ]
+  },
+  "pt": {
+   "q": "A que temperatura a água ferve ao nível do mar?",
+   "c": [
+    "100 °C",
+    "90 °C",
+    "80 °C",
+    "120 °C"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "What is the SI unit of electric current?",
+   "c": [
+    "Ampere",
+    "Volt",
+    "Watt",
+    "Ohm"
+   ]
+  },
+  "fr": {
+   "q": "Quelle est l'unité de courant électrique dans le Système international ?",
+   "c": [
+    "L'ampère",
+    "Le volt",
+    "Le watt",
+    "L'ohm"
+   ]
+  },
+  "ar": {
+   "q": "ما وحدة قياس التيار الكهربائي في النظام الدولي؟",
+   "c": [
+    "الأمبير",
+    "الفولت",
+    "الواط",
+    "الأوم"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la unidad de corriente eléctrica en el Sistema Internacional?",
+   "c": [
+    "El amperio",
+    "El voltio",
+    "El vatio",
+    "El ohmio"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a unidade de corrente elétrica no Sistema Internacional?",
+   "c": [
+    "O ampère",
+    "O volt",
+    "O watt",
+    "O ohm"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "Who formulated the law of universal gravitation?",
+   "c": [
+    "Isaac Newton",
+    "Galileo Galilei",
+    "Albert Einstein",
+    "Johannes Kepler"
+   ]
+  },
+  "fr": {
+   "q": "Qui a formulé la loi de la gravitation universelle ?",
+   "c": [
+    "Isaac Newton",
+    "Galilée",
+    "Albert Einstein",
+    "Johannes Kepler"
+   ]
+  },
+  "ar": {
+   "q": "من صاغ قانون الجذب العام؟",
+   "c": [
+    "إسحاق نيوتن",
+    "غاليليو غاليلي",
+    "ألبرت أينشتاين",
+    "يوهانس كبلر"
+   ]
+  },
+  "es": {
+   "q": "¿Quién formuló la ley de la gravitación universal?",
+   "c": [
+    "Isaac Newton",
+    "Galileo Galilei",
+    "Albert Einstein",
+    "Johannes Kepler"
+   ]
+  },
+  "pt": {
+   "q": "Quem formulou a lei da gravitação universal?",
+   "c": [
+    "Isaac Newton",
+    "Galileu Galilei",
+    "Albert Einstein",
+    "Johannes Kepler"
+   ]
+  },
+  "d": 2
+ }
+]

@@ -1,0 +1,1452 @@
+[
+ {
+  "fr": {
+   "q": "Combien y a-t-il de continents ?",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "en": {
+   "q": "How many continents are there?",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "ar": {
+   "q": "كم عدد القارات؟",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos continentes hay?",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "pt": {
+   "q": "Quantos continentes existem?",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle est la formule chimique de l'eau ?",
+   "c": [
+    "H2O",
+    "CO2",
+    "O2",
+    "NaCl"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical formula of water?",
+   "c": [
+    "H2O",
+    "CO2",
+    "O2",
+    "NaCl"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هي الصيغة الكيميائية للماء؟",
+   "c": [
+    "H2O",
+    "CO2",
+    "O2",
+    "NaCl"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la fórmula química del agua?",
+   "c": [
+    "H2O",
+    "CO2",
+    "O2",
+    "NaCl"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a fórmula química da água?",
+   "c": [
+    "H2O",
+    "CO2",
+    "O2",
+    "NaCl"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus long fleuve d'Afrique ?",
+   "c": [
+    "Le Nil",
+    "Le Congo",
+    "Le Niger",
+    "Le Zambèze"
+   ]
+  },
+  "en": {
+   "q": "What is the longest river in Africa?",
+   "c": [
+    "The Nile",
+    "The Congo",
+    "The Niger",
+    "The Zambezi"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هو أطول نهر في أفريقيا؟",
+   "c": [
+    "نهر النيل",
+    "نهر الكونغو",
+    "نهر النيجر",
+    "نهر زامبيزي"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el río más largo de África?",
+   "c": [
+    "El Nilo",
+    "El Congo",
+    "El Níger",
+    "El Zambeze"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o rio mais longo da África?",
+   "c": [
+    "O Nilo",
+    "O Congo",
+    "O Níger",
+    "O Zambeze"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus petit pays du monde ?",
+   "c": [
+    "Le Vatican",
+    "Monaco",
+    "Malte",
+    "Saint-Marin"
+   ]
+  },
+  "en": {
+   "q": "What is the smallest country in the world?",
+   "c": [
+    "Vatican City",
+    "Monaco",
+    "Malta",
+    "San Marino"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هي أصغر دولة في العالم؟",
+   "c": [
+    "الفاتيكان",
+    "موناكو",
+    "مالطا",
+    "سان مارينو"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el país más pequeño del mundo?",
+   "c": [
+    "Ciudad del Vaticano",
+    "Mónaco",
+    "Malta",
+    "San Marino"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o menor país do mundo?",
+   "c": [
+    "Cidade do Vaticano",
+    "Mônaco",
+    "Malta",
+    "San Marino"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel gaz est le plus présent dans l'air ?",
+   "c": [
+    "L'azote",
+    "L'oxygène",
+    "Le CO2",
+    "L'hydrogène"
+   ]
+  },
+  "en": {
+   "q": "Which gas is most abundant in the air?",
+   "c": [
+    "Nitrogen",
+    "Oxygen",
+    "CO2",
+    "Hydrogen"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هو الغاز الأكثر وفرة في الهواء؟",
+   "c": [
+    "النيتروجين",
+    "الأكسجين",
+    "ثاني أكسيد الكربون",
+    "الهيدروجين"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el gas más abundante del aire?",
+   "c": [
+    "Nitrógeno",
+    "Oxígeno",
+    "CO2",
+    "Hidrógeno"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o gás mais abundante no ar?",
+   "c": [
+    "Nitrogênio",
+    "Oxigênio",
+    "CO2",
+    "Hidrogênio"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand océan ?",
+   "c": [
+    "Pacifique",
+    "Atlantique",
+    "Indien",
+    "Arctique"
+   ]
+  },
+  "en": {
+   "q": "Which is the largest ocean?",
+   "c": [
+    "Pacific",
+    "Atlantic",
+    "Indian",
+    "Arctic"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هو أكبر محيط في العالم؟",
+   "c": [
+    "المحيط الهادئ",
+    "المحيط الأطلسي",
+    "المحيط الهندي",
+    "المحيط المتجمد الشمالي"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el océano más grande?",
+   "c": [
+    "Pacífico",
+    "Atlántico",
+    "Índico",
+    "Ártico"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior oceano?",
+   "c": [
+    "Pacífico",
+    "Atlântico",
+    "Índico",
+    "Ártico"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Combien d'os a un adulte (environ) ?",
+   "c": [
+    "106",
+    "206",
+    "306",
+    "406"
+   ]
+  },
+  "en": {
+   "q": "About how many bones does an adult have?",
+   "c": [
+    "106",
+    "206",
+    "306",
+    "406"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "ar": {
+   "q": "كم عدد عظام الإنسان البالغ تقريبًا؟",
+   "c": [
+    "106",
+    "206",
+    "306",
+    "406"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos huesos tiene un adulto, aproximadamente?",
+   "c": [
+    "106",
+    "206",
+    "306",
+    "406"
+   ]
+  },
+  "pt": {
+   "q": "Quantos ossos tem um adulto, aproximadamente?",
+   "c": [
+    "106",
+    "206",
+    "306",
+    "406"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle est la plus haute montagne du monde ?",
+   "c": [
+    "L'Everest",
+    "Le K2",
+    "Le Kilimandjaro",
+    "Le Mont Blanc"
+   ]
+  },
+  "en": {
+   "q": "What is the highest mountain in the world?",
+   "c": [
+    "Everest",
+    "K2",
+    "Kilimanjaro",
+    "Mont Blanc"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هو أعلى جبل في العالم؟",
+   "c": [
+    "إيفرست",
+    "كيه 2",
+    "كليمنجارو",
+    "مون بلان"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la montaña más alta del mundo?",
+   "c": [
+    "Everest",
+    "K2",
+    "Kilimanjaro",
+    "Mont Blanc"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a montanha mais alta do mundo?",
+   "c": [
+    "Everest",
+    "K2",
+    "Kilimanjaro",
+    "Monte Branco"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel est l'animal terrestre le plus rapide ?",
+   "c": [
+    "Le guépard",
+    "Le lion",
+    "L'antilope",
+    "Le cheval"
+   ]
+  },
+  "en": {
+   "q": "What is the fastest land animal?",
+   "c": [
+    "Cheetah",
+    "Lion",
+    "Antelope",
+    "Horse"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هو أسرع حيوان بري؟",
+   "c": [
+    "الفهد",
+    "الأسد",
+    "الظبي",
+    "الحصان"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el animal terrestre más rápido?",
+   "c": [
+    "El guepardo",
+    "El león",
+    "El antílope",
+    "El caballo"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o animal terrestre mais rápido?",
+   "c": [
+    "O guepardo",
+    "O leão",
+    "O antílope",
+    "O cavalo"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand désert chaud du monde ?",
+   "c": [
+    "Le Sahara",
+    "Le Gobi",
+    "Le Kalahari",
+    "Le désert d'Arabie"
+   ]
+  },
+  "en": {
+   "q": "What is the largest hot desert in the world?",
+   "c": [
+    "Sahara",
+    "Gobi",
+    "Kalahari",
+    "Arabian Desert"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هي أكبر صحراء حارة في العالم؟",
+   "c": [
+    "الصحراء الكبرى",
+    "صحراء غوبي",
+    "صحراء كالاهاري",
+    "الصحراء العربية"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el desierto cálido más grande del mundo?",
+   "c": [
+    "El Sahara",
+    "El Gobi",
+    "El Kalahari",
+    "El desierto de Arabia"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior deserto quente do mundo?",
+   "c": [
+    "O Saara",
+    "O Gobi",
+    "O Kalahari",
+    "O deserto da Arábia"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Combien de couleurs dans l'arc-en-ciel ?",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "en": {
+   "q": "How many colours are in a rainbow?",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "ar": {
+   "q": "كم لونًا في قوس قزح؟",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos colores tiene el arcoíris?",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "pt": {
+   "q": "Quantas cores tem o arco-íris?",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle est la monnaie du Japon ?",
+   "c": [
+    "Le yen",
+    "Le won",
+    "Le yuan",
+    "Le dollar"
+   ]
+  },
+  "en": {
+   "q": "What is the currency of Japan?",
+   "c": [
+    "Yen",
+    "Won",
+    "Yuan",
+    "Dollar"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هي عملة اليابان؟",
+   "c": [
+    "الين",
+    "الوون",
+    "اليوان",
+    "الدولار"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la moneda de Japón?",
+   "c": [
+    "El yen",
+    "El won",
+    "El yuan",
+    "El dólar"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a moeda do Japão?",
+   "c": [
+    "O iene",
+    "O won",
+    "O yuan",
+    "O dólar"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel organe pompe le sang ?",
+   "c": [
+    "Le cœur",
+    "Le foie",
+    "Les poumons",
+    "Le rein"
+   ]
+  },
+  "en": {
+   "q": "Which organ pumps blood?",
+   "c": [
+    "The heart",
+    "The liver",
+    "The lungs",
+    "The kidney"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "أي عضو يضخ الدم؟",
+   "c": [
+    "القلب",
+    "الكبد",
+    "الرئتان",
+    "الكلية"
+   ]
+  },
+  "es": {
+   "q": "¿Qué órgano bombea la sangre?",
+   "c": [
+    "El corazón",
+    "El hígado",
+    "Los pulmones",
+    "El riñón"
+   ]
+  },
+  "pt": {
+   "q": "Qual órgão bombeia o sangue?",
+   "c": [
+    "O coração",
+    "O fígado",
+    "Os pulmões",
+    "O rim"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand mammifère ?",
+   "c": [
+    "La baleine bleue",
+    "L'éléphant",
+    "La girafe",
+    "Le requin-baleine"
+   ]
+  },
+  "en": {
+   "q": "What is the largest mammal?",
+   "c": [
+    "Blue whale",
+    "Elephant",
+    "Giraffe",
+    "Whale shark"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هو أكبر حيوان ثديي؟",
+   "c": [
+    "الحوت الأزرق",
+    "الفيل",
+    "الزرافة",
+    "القرش الحوتي"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el mamífero más grande?",
+   "c": [
+    "La ballena azul",
+    "El elefante",
+    "La jirafa",
+    "El tiburón ballena"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior mamífero?",
+   "c": [
+    "A baleia-azul",
+    "O elefante",
+    "A girafa",
+    "O tubarão-baleia"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle est la langue officielle du Brésil ?",
+   "c": [
+    "Le portugais",
+    "L'espagnol",
+    "L'anglais",
+    "Le français"
+   ]
+  },
+  "en": {
+   "q": "What is the official language of Brazil?",
+   "c": [
+    "Portuguese",
+    "Spanish",
+    "English",
+    "French"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هي اللغة الرسمية في البرازيل؟",
+   "c": [
+    "البرتغالية",
+    "الإسبانية",
+    "الإنجليزية",
+    "الفرنسية"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el idioma oficial de Brasil?",
+   "c": [
+    "Portugués",
+    "Español",
+    "Inglés",
+    "Francés"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a língua oficial do Brasil?",
+   "c": [
+    "Português",
+    "Espanhol",
+    "Inglês",
+    "Francês"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel métal est liquide à température ambiante ?",
+   "c": [
+    "Le mercure",
+    "Le fer",
+    "L'or",
+    "L'aluminium"
+   ]
+  },
+  "en": {
+   "q": "Which metal is liquid at room temperature?",
+   "c": [
+    "Mercury",
+    "Iron",
+    "Gold",
+    "Aluminium"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "أي فلز يكون سائلًا في درجة حرارة الغرفة؟",
+   "c": [
+    "الزئبق",
+    "الحديد",
+    "الذهب",
+    "الألمنيوم"
+   ]
+  },
+  "es": {
+   "q": "¿Qué metal es líquido a temperatura ambiente?",
+   "c": [
+    "Mercurio",
+    "Hierro",
+    "Oro",
+    "Aluminio"
+   ]
+  },
+  "pt": {
+   "q": "Qual metal é líquido à temperatura ambiente?",
+   "c": [
+    "Mercúrio",
+    "Ferro",
+    "Ouro",
+    "Alumínio"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Combien de cœurs possède une pieuvre ?",
+   "c": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "en": {
+   "q": "How many hearts does an octopus have?",
+   "c": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "ar": {
+   "q": "كم عدد قلوب الأخطبوط؟",
+   "c": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos corazones tiene un pulpo?",
+   "c": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "pt": {
+   "q": "Quantos corações tem um polvo?",
+   "c": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Quel est le symbole chimique de l'or ?",
+   "c": [
+    "Au",
+    "Ag",
+    "Fe",
+    "Pb"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical symbol for gold?",
+   "c": [
+    "Au",
+    "Ag",
+    "Fe",
+    "Pb"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هو الرمز الكيميائي للذهب؟",
+   "c": [
+    "Au",
+    "Ag",
+    "Fe",
+    "Pb"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el símbolo químico del oro?",
+   "c": [
+    "Au",
+    "Ag",
+    "Fe",
+    "Pb"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o símbolo químico do ouro?",
+   "c": [
+    "Au",
+    "Ag",
+    "Fe",
+    "Pb"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus long fleuve d'Europe ?",
+   "c": [
+    "La Volga",
+    "Le Danube",
+    "Le Rhin",
+    "La Seine"
+   ]
+  },
+  "en": {
+   "q": "What is the longest river in Europe?",
+   "c": [
+    "The Volga",
+    "The Danube",
+    "The Rhine",
+    "The Seine"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هو أطول نهر في أوروبا؟",
+   "c": [
+    "نهر الفولغا",
+    "نهر الدانوب",
+    "نهر الراين",
+    "نهر السين"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el río más largo de Europa?",
+   "c": [
+    "El Volga",
+    "El Danubio",
+    "El Rin",
+    "El Sena"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o rio mais longo da Europa?",
+   "c": [
+    "O Volga",
+    "O Danúbio",
+    "O Reno",
+    "O Sena"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand lac d'Afrique ?",
+   "c": [
+    "Le lac Victoria",
+    "Le lac Tanganyika",
+    "Le lac Tchad",
+    "Le lac Malawi"
+   ]
+  },
+  "en": {
+   "q": "What is the largest lake in Africa?",
+   "c": [
+    "Lake Victoria",
+    "Lake Tanganyika",
+    "Lake Chad",
+    "Lake Malawi"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هي أكبر بحيرة في أفريقيا؟",
+   "c": [
+    "بحيرة فيكتوريا",
+    "بحيرة تنجانيقا",
+    "بحيرة تشاد",
+    "بحيرة مالاوي"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el lago más grande de África?",
+   "c": [
+    "Lago Victoria",
+    "Lago Tanganica",
+    "Lago Chad",
+    "Lago Malaui"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior lago da África?",
+   "c": [
+    "Lago Vitória",
+    "Lago Tanganica",
+    "Lago Chade",
+    "Lago Malawi"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Combien de dents a un adulte (dents de sagesse incluses) ?",
+   "c": [
+    "28",
+    "30",
+    "32",
+    "36"
+   ]
+  },
+  "en": {
+   "q": "How many teeth does an adult have (wisdom teeth included)?",
+   "c": [
+    "28",
+    "30",
+    "32",
+    "36"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "ar": {
+   "q": "كم عدد أسنان الشخص البالغ (مع ضرس العقل)؟",
+   "c": [
+    "28",
+    "30",
+    "32",
+    "36"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos dientes tiene un adulto (con las muelas del juicio)?",
+   "c": [
+    "28",
+    "30",
+    "32",
+    "36"
+   ]
+  },
+  "pt": {
+   "q": "Quantos dentes tem um adulto (com os sisos)?",
+   "c": [
+    "28",
+    "30",
+    "32",
+    "36"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Quel pays est le plus peuplé du monde ?",
+   "c": [
+    "L'Inde",
+    "La Chine",
+    "Les États-Unis",
+    "L'Indonésie"
+   ]
+  },
+  "en": {
+   "q": "Which country has the largest population?",
+   "c": [
+    "India",
+    "China",
+    "United States",
+    "Indonesia"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هي أكثر دولة في العالم من حيث عدد السكان؟",
+   "c": [
+    "الهند",
+    "الصين",
+    "الولايات المتحدة",
+    "إندونيسيا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país tiene más habitantes del mundo?",
+   "c": [
+    "India",
+    "China",
+    "Estados Unidos",
+    "Indonesia"
+   ]
+  },
+  "pt": {
+   "q": "Qual país tem a maior população do mundo?",
+   "c": [
+    "Índia",
+    "China",
+    "Estados Unidos",
+    "Indonésia"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Qui a découvert la pénicilline ?",
+   "c": [
+    "Alexander Fleming",
+    "Louis Pasteur",
+    "Marie Curie",
+    "Robert Koch"
+   ]
+  },
+  "en": {
+   "q": "Who discovered penicillin?",
+   "c": [
+    "Alexander Fleming",
+    "Louis Pasteur",
+    "Marie Curie",
+    "Robert Koch"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "من اكتشف البنسلين؟",
+   "c": [
+    "ألكسندر فلمنغ",
+    "لويس باستور",
+    "ماري كوري",
+    "روبرت كوخ"
+   ]
+  },
+  "es": {
+   "q": "¿Quién descubrió la penicilina?",
+   "c": [
+    "Alexander Fleming",
+    "Louis Pasteur",
+    "Marie Curie",
+    "Robert Koch"
+   ]
+  },
+  "pt": {
+   "q": "Quem descobriu a penicilina?",
+   "c": [
+    "Alexander Fleming",
+    "Louis Pasteur",
+    "Marie Curie",
+    "Robert Koch"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand pays du monde par superficie ?",
+   "c": [
+    "La Russie",
+    "Le Canada",
+    "La Chine",
+    "Les États-Unis"
+   ]
+  },
+  "en": {
+   "q": "Which is the largest country by area?",
+   "c": [
+    "Russia",
+    "Canada",
+    "China",
+    "United States"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هي أكبر دولة في العالم من حيث المساحة؟",
+   "c": [
+    "روسيا",
+    "كندا",
+    "الصين",
+    "الولايات المتحدة"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el país más grande del mundo por superficie?",
+   "c": [
+    "Rusia",
+    "Canadá",
+    "China",
+    "Estados Unidos"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior país do mundo em área?",
+   "c": [
+    "Rússia",
+    "Canadá",
+    "China",
+    "Estados Unidos"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand pays d'Afrique par superficie ?",
+   "c": [
+    "L'Algérie",
+    "La RD Congo",
+    "Le Soudan",
+    "La Libye"
+   ]
+  },
+  "en": {
+   "q": "Which is the largest country in Africa by area?",
+   "c": [
+    "Algeria",
+    "DR Congo",
+    "Sudan",
+    "Libya"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هي أكبر دولة في أفريقيا من حيث المساحة؟",
+   "c": [
+    "الجزائر",
+    "الكونغو الديمقراطية",
+    "السودان",
+    "ليبيا"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el país más grande de África por superficie?",
+   "c": [
+    "Argelia",
+    "RD del Congo",
+    "Sudán",
+    "Libia"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior país da África em área?",
+   "c": [
+    "Argélia",
+    "RD Congo",
+    "Sudão",
+    "Líbia"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Combien de chromosomes possède une cellule humaine ?",
+   "c": [
+    "23",
+    "44",
+    "46",
+    "48"
+   ]
+  },
+  "en": {
+   "q": "How many chromosomes does a human cell have?",
+   "c": [
+    "23",
+    "44",
+    "46",
+    "48"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "ar": {
+   "q": "كم عدد الكروموسومات في الخلية البشرية؟",
+   "c": [
+    "23",
+    "44",
+    "46",
+    "48"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos cromosomas tiene una célula humana?",
+   "c": [
+    "23",
+    "44",
+    "46",
+    "48"
+   ]
+  },
+  "pt": {
+   "q": "Quantos cromossomos tem uma célula humana?",
+   "c": [
+    "23",
+    "44",
+    "46",
+    "48"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Quel est le point culminant de l'Afrique ?",
+   "c": [
+    "Le Kilimandjaro",
+    "Le mont Kenya",
+    "Le Toubkal",
+    "Le Tahat"
+   ]
+  },
+  "en": {
+   "q": "What is the highest point in Africa?",
+   "c": [
+    "Kilimanjaro",
+    "Mount Kenya",
+    "Toubkal",
+    "Tahat"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هي أعلى قمة في أفريقيا؟",
+   "c": [
+    "كليمنجارو",
+    "جبل كينيا",
+    "توبقال",
+    "تاهات"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el punto más alto de África?",
+   "c": [
+    "El Kilimanjaro",
+    "El monte Kenia",
+    "El Toubkal",
+    "El Tahat"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o ponto mais alto da África?",
+   "c": [
+    "O Kilimanjaro",
+    "O monte Quênia",
+    "O Toubkal",
+    "O Tahat"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus petit os du corps humain ?",
+   "c": [
+    "L'étrier",
+    "Le marteau",
+    "L'enclume",
+    "Le radius"
+   ]
+  },
+  "en": {
+   "q": "What is the smallest bone in the human body?",
+   "c": [
+    "The stapes",
+    "The malleus",
+    "The incus",
+    "The radius"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هو أصغر عظم في جسم الإنسان؟",
+   "c": [
+    "عظم الركاب",
+    "المطرقة",
+    "السندان",
+    "الكعبرة"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el hueso más pequeño del cuerpo humano?",
+   "c": [
+    "El estribo",
+    "El martillo",
+    "El yunque",
+    "El radio"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o menor osso do corpo humano?",
+   "c": [
+    "O estribo",
+    "O martelo",
+    "A bigorna",
+    "O rádio"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand désert du monde, tous types confondus ?",
+   "c": [
+    "L'Antarctique",
+    "Le Sahara",
+    "Le Gobi",
+    "Le désert d'Arabie"
+   ]
+  },
+  "en": {
+   "q": "What is the largest desert in the world, of any type?",
+   "c": [
+    "Antarctica",
+    "Sahara",
+    "Gobi",
+    "Arabian Desert"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هي أكبر صحراء في العالم بجميع أنواعها؟",
+   "c": [
+    "القارة القطبية الجنوبية",
+    "الصحراء الكبرى",
+    "صحراء غوبي",
+    "الصحراء العربية"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el desierto más grande del mundo, de cualquier tipo?",
+   "c": [
+    "La Antártida",
+    "El Sahara",
+    "El Gobi",
+    "El desierto de Arabia"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior deserto do mundo, de qualquer tipo?",
+   "c": [
+    "A Antártida",
+    "O Saara",
+    "O Gobi",
+    "O deserto da Arábia"
+   ]
+  },
+  "d": 2
+ }
+]

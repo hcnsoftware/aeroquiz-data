@@ -1,0 +1,602 @@
+[
+ {
+  "fr": {
+   "q": "Quelle est la plus grande planète du système solaire ?",
+   "c": [
+    "Jupiter",
+    "Saturne",
+    "Terre",
+    "Mars"
+   ]
+  },
+  "en": {
+   "q": "Which is the largest planet in the solar system?",
+   "c": [
+    "Jupiter",
+    "Saturn",
+    "Earth",
+    "Mars"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هو أكبر كوكب في المجموعة الشمسية؟",
+   "c": [
+    "المشتري",
+    "زحل",
+    "الأرض",
+    "المريخ"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el planeta más grande del sistema solar?",
+   "c": [
+    "Júpiter",
+    "Saturno",
+    "La Tierra",
+    "Marte"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior planeta do sistema solar?",
+   "c": [
+    "Júpiter",
+    "Saturno",
+    "Terra",
+    "Marte"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Qui a marché le premier sur la Lune ?",
+   "c": [
+    "Neil Armstrong",
+    "Buzz Aldrin",
+    "Youri Gagarine",
+    "Michael Collins"
+   ]
+  },
+  "en": {
+   "q": "Who was the first person to walk on the Moon?",
+   "c": [
+    "Neil Armstrong",
+    "Buzz Aldrin",
+    "Yuri Gagarin",
+    "Michael Collins"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "من هو أول إنسان مشى على القمر؟",
+   "c": [
+    "نيل أرمسترونغ",
+    "باز ألدرين",
+    "يوري غاغارين",
+    "مايكل كولينز"
+   ]
+  },
+  "es": {
+   "q": "¿Quién fue la primera persona en caminar sobre la Luna?",
+   "c": [
+    "Neil Armstrong",
+    "Buzz Aldrin",
+    "Yuri Gagarin",
+    "Michael Collins"
+   ]
+  },
+  "pt": {
+   "q": "Quem foi a primeira pessoa a pisar na Lua?",
+   "c": [
+    "Neil Armstrong",
+    "Buzz Aldrin",
+    "Yuri Gagarin",
+    "Michael Collins"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle planète est surnommée la planète rouge ?",
+   "c": [
+    "Mars",
+    "Vénus",
+    "Mercure",
+    "Neptune"
+   ]
+  },
+  "en": {
+   "q": "Which planet is called the red planet?",
+   "c": [
+    "Mars",
+    "Venus",
+    "Mercury",
+    "Neptune"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "أي كوكب يُلقَّب بالكوكب الأحمر؟",
+   "c": [
+    "المريخ",
+    "الزهرة",
+    "عطارد",
+    "نبتون"
+   ]
+  },
+  "es": {
+   "q": "¿Qué planeta se llama el planeta rojo?",
+   "c": [
+    "Marte",
+    "Venus",
+    "Mercurio",
+    "Neptuno"
+   ]
+  },
+  "pt": {
+   "q": "Qual planeta é chamado de planeta vermelho?",
+   "c": [
+    "Marte",
+    "Vênus",
+    "Mercúrio",
+    "Netuno"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Combien de planètes dans le système solaire ?",
+   "c": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "en": {
+   "q": "How many planets are in the solar system?",
+   "c": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "ar": {
+   "q": "كم عدد كواكب المجموعة الشمسية؟",
+   "c": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos planetas hay en el sistema solar?",
+   "c": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "pt": {
+   "q": "Quantos planetas há no sistema solar?",
+   "c": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "En quelle année l'homme a-t-il marché sur la Lune ?",
+   "c": [
+    "1959",
+    "1965",
+    "1969",
+    "1972"
+   ]
+  },
+  "en": {
+   "q": "In which year did humans first walk on the Moon?",
+   "c": [
+    "1959",
+    "1965",
+    "1969",
+    "1972"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "ar": {
+   "q": "في أي عام مشى الإنسان على القمر لأول مرة؟",
+   "c": [
+    "1959",
+    "1965",
+    "1969",
+    "1972"
+   ]
+  },
+  "es": {
+   "q": "¿En qué año pisó el ser humano la Luna por primera vez?",
+   "c": [
+    "1959",
+    "1965",
+    "1969",
+    "1972"
+   ]
+  },
+  "pt": {
+   "q": "Em que ano o ser humano pisou na Lua pela primeira vez?",
+   "c": [
+    "1959",
+    "1965",
+    "1969",
+    "1972"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Quel est l'élément le plus abondant de l'univers ?",
+   "c": [
+    "L'hydrogène",
+    "L'hélium",
+    "L'oxygène",
+    "Le carbone"
+   ]
+  },
+  "en": {
+   "q": "What is the most abundant element in the universe?",
+   "c": [
+    "Hydrogen",
+    "Helium",
+    "Oxygen",
+    "Carbon"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هو العنصر الأكثر وفرة في الكون؟",
+   "c": [
+    "الهيدروجين",
+    "الهيليوم",
+    "الأكسجين",
+    "الكربون"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el elemento más abundante del universo?",
+   "c": [
+    "Hidrógeno",
+    "Helio",
+    "Oxígeno",
+    "Carbono"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o elemento mais abundante do universo?",
+   "c": [
+    "Hidrogênio",
+    "Hélio",
+    "Oxigênio",
+    "Carbono"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle est la plus petite planète du système solaire ?",
+   "c": [
+    "Mercure",
+    "Mars",
+    "Vénus",
+    "Neptune"
+   ]
+  },
+  "en": {
+   "q": "What is the smallest planet in the solar system?",
+   "c": [
+    "Mercury",
+    "Mars",
+    "Venus",
+    "Neptune"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هو أصغر كوكب في المجموعة الشمسية؟",
+   "c": [
+    "عطارد",
+    "المريخ",
+    "الزهرة",
+    "نبتون"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el planeta más pequeño del sistema solar?",
+   "c": [
+    "Mercurio",
+    "Marte",
+    "Venus",
+    "Neptuno"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o menor planeta do sistema solar?",
+   "c": [
+    "Mercúrio",
+    "Marte",
+    "Vênus",
+    "Netuno"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle est la plus grande lune de Saturne ?",
+   "c": [
+    "Titan",
+    "Europe",
+    "Encelade",
+    "Triton"
+   ]
+  },
+  "en": {
+   "q": "What is Saturn's largest moon?",
+   "c": [
+    "Titan",
+    "Europa",
+    "Enceladus",
+    "Triton"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هو أكبر أقمار زحل؟",
+   "c": [
+    "تيتان",
+    "أوروبا",
+    "إنسيلادوس",
+    "تريتون"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la luna más grande de Saturno?",
+   "c": [
+    "Titán",
+    "Europa",
+    "Encélado",
+    "Tritón"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a maior lua de Saturno?",
+   "c": [
+    "Titã",
+    "Europa",
+    "Encélado",
+    "Tritão"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "What is the name of our galaxy?",
+   "c": [
+    "The Milky Way",
+    "Andromeda",
+    "Triangulum",
+    "Sombrero"
+   ]
+  },
+  "fr": {
+   "q": "Comment s'appelle notre galaxie ?",
+   "c": [
+    "La Voie lactée",
+    "Andromède",
+    "Le Triangle",
+    "Le Sombrero"
+   ]
+  },
+  "ar": {
+   "q": "ما اسم مجرتنا؟",
+   "c": [
+    "درب التبانة",
+    "المرأة المسلسلة",
+    "المثلث",
+    "السومبريرو"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama nuestra galaxia?",
+   "c": [
+    "La Vía Láctea",
+    "Andrómeda",
+    "Triángulo",
+    "Sombrero"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o nome da nossa galáxia?",
+   "c": [
+    "A Via Láctea",
+    "Andrômeda",
+    "Triângulo",
+    "Sombreiro"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "What is the closest star to Earth?",
+   "c": [
+    "The Sun",
+    "Proxima Centauri",
+    "Sirius",
+    "Polaris"
+   ]
+  },
+  "fr": {
+   "q": "Quelle est l'étoile la plus proche de la Terre ?",
+   "c": [
+    "Le Soleil",
+    "Proxima du Centaure",
+    "Sirius",
+    "L'étoile Polaire"
+   ]
+  },
+  "ar": {
+   "q": "ما هو أقرب نجم إلى الأرض؟",
+   "c": [
+    "الشمس",
+    "قنطورس الأقرب",
+    "الشعرى اليمانية",
+    "النجم القطبي"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la estrella más cercana a la Tierra?",
+   "c": [
+    "El Sol",
+    "Próxima Centauri",
+    "Sirio",
+    "La Estrella Polar"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a estrela mais próxima da Terra?",
+   "c": [
+    "O Sol",
+    "Próxima Centauri",
+    "Sírius",
+    "A Estrela Polar"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "What was the first artificial satellite, launched in 1957?",
+   "c": [
+    "Sputnik 1",
+    "Explorer 1",
+    "Vostok 1",
+    "Apollo 11"
+   ]
+  },
+  "fr": {
+   "q": "Comment s'appelait le premier satellite artificiel, lancé en 1957 ?",
+   "c": [
+    "Spoutnik 1",
+    "Explorer 1",
+    "Vostok 1",
+    "Apollo 11"
+   ]
+  },
+  "ar": {
+   "q": "ما اسم أول قمر صناعي أُطلق عام 1957؟",
+   "c": [
+    "سبوتنيك 1",
+    "إكسبلورر 1",
+    "فوستوك 1",
+    "أبولو 11"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llamó el primer satélite artificial, lanzado en 1957?",
+   "c": [
+    "Sputnik 1",
+    "Explorer 1",
+    "Vostok 1",
+    "Apolo 11"
+   ]
+  },
+  "pt": {
+   "q": "Qual foi o primeiro satélite artificial, lançado em 1957?",
+   "c": [
+    "Sputnik 1",
+    "Explorer 1",
+    "Vostok 1",
+    "Apollo 11"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "How long does sunlight take to reach Earth?",
+   "c": [
+    "About 8 minutes",
+    "About 8 seconds",
+    "About 8 hours",
+    "About 1 day"
+   ]
+  },
+  "fr": {
+   "q": "Combien de temps la lumière du Soleil met-elle pour atteindre la Terre ?",
+   "c": [
+    "Environ 8 minutes",
+    "Environ 8 secondes",
+    "Environ 8 heures",
+    "Environ 1 jour"
+   ]
+  },
+  "ar": {
+   "q": "كم تستغرق إضاءة الشمس للوصول إلى الأرض تقريبًا؟",
+   "c": [
+    "نحو 8 دقائق",
+    "نحو 8 ثوانٍ",
+    "نحو 8 ساعات",
+    "نحو يوم واحد"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto tarda la luz del Sol en llegar a la Tierra?",
+   "c": [
+    "Unos 8 minutos",
+    "Unos 8 segundos",
+    "Unas 8 horas",
+    "Aproximadamente 1 día"
+   ]
+  },
+  "pt": {
+   "q": "Quanto tempo a luz do Sol leva para chegar à Terra?",
+   "c": [
+    "Cerca de 8 minutos",
+    "Cerca de 8 segundos",
+    "Cerca de 8 horas",
+    "Cerca de 1 dia"
+   ]
+  },
+  "d": 2
+ }
+]

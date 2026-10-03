@@ -1,0 +1,602 @@
+[
+ {
+  "fr": {
+   "q": "En quelle année le mur de Berlin est-il tombé ?",
+   "c": [
+    "1985",
+    "1989",
+    "1991",
+    "1995"
+   ]
+  },
+  "en": {
+   "q": "In which year did the Berlin Wall fall?",
+   "c": [
+    "1985",
+    "1989",
+    "1991",
+    "1995"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "ar": {
+   "q": "في أي عام سقط جدار برلين؟",
+   "c": [
+    "1985",
+    "1989",
+    "1991",
+    "1995"
+   ]
+  },
+  "es": {
+   "q": "¿En qué año cayó el Muro de Berlín?",
+   "c": [
+    "1985",
+    "1989",
+    "1991",
+    "1995"
+   ]
+  },
+  "pt": {
+   "q": "Em que ano caiu o Muro de Berlim?",
+   "c": [
+    "1985",
+    "1989",
+    "1991",
+    "1995"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "En quelle année a commencé la Première Guerre mondiale ?",
+   "c": [
+    "1912",
+    "1914",
+    "1916",
+    "1918"
+   ]
+  },
+  "en": {
+   "q": "In which year did World War I begin?",
+   "c": [
+    "1912",
+    "1914",
+    "1916",
+    "1918"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "ar": {
+   "q": "في أي عام بدأت الحرب العالمية الأولى؟",
+   "c": [
+    "1912",
+    "1914",
+    "1916",
+    "1918"
+   ]
+  },
+  "es": {
+   "q": "¿En qué año empezó la Primera Guerra Mundial?",
+   "c": [
+    "1912",
+    "1914",
+    "1916",
+    "1918"
+   ]
+  },
+  "pt": {
+   "q": "Em que ano começou a Primeira Guerra Mundial?",
+   "c": [
+    "1912",
+    "1914",
+    "1916",
+    "1918"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "Which ancient civilization built the pyramids of Giza?",
+   "c": [
+    "The Egyptians",
+    "The Romans",
+    "The Greeks",
+    "The Persians"
+   ]
+  },
+  "fr": {
+   "q": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
+   "c": [
+    "Les Égyptiens",
+    "Les Romains",
+    "Les Grecs",
+    "Les Perses"
+   ]
+  },
+  "ar": {
+   "q": "أي حضارة قديمة بنت أهرامات الجيزة؟",
+   "c": [
+    "المصريون القدماء",
+    "الرومان",
+    "الإغريق",
+    "الفرس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué civilización antigua construyó las pirámides de Guiza?",
+   "c": [
+    "Los egipcios",
+    "Los romanos",
+    "Los griegos",
+    "Los persas"
+   ]
+  },
+  "pt": {
+   "q": "Qual civilização antiga construiu as pirâmides de Gizé?",
+   "c": [
+    "Os egípcios",
+    "Os romanos",
+    "Os gregos",
+    "Os persas"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "Who was the first President of the United States?",
+   "c": [
+    "George Washington",
+    "Abraham Lincoln",
+    "Thomas Jefferson",
+    "John Adams"
+   ]
+  },
+  "fr": {
+   "q": "Qui fut le premier président des États-Unis ?",
+   "c": [
+    "George Washington",
+    "Abraham Lincoln",
+    "Thomas Jefferson",
+    "John Adams"
+   ]
+  },
+  "ar": {
+   "q": "من كان أول رئيس للولايات المتحدة؟",
+   "c": [
+    "جورج واشنطن",
+    "أبراهام لينكولن",
+    "توماس جيفرسون",
+    "جون آدامز"
+   ]
+  },
+  "es": {
+   "q": "¿Quién fue el primer presidente de Estados Unidos?",
+   "c": [
+    "George Washington",
+    "Abraham Lincoln",
+    "Thomas Jefferson",
+    "John Adams"
+   ]
+  },
+  "pt": {
+   "q": "Quem foi o primeiro presidente dos Estados Unidos?",
+   "c": [
+    "George Washington",
+    "Abraham Lincoln",
+    "Thomas Jefferson",
+    "John Adams"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "a": 1,
+  "image": null,
+  "en": {
+   "q": "In which year did World War II end?",
+   "c": [
+    "1939",
+    "1945",
+    "1950",
+    "1918"
+   ]
+  },
+  "fr": {
+   "q": "En quelle année s'est terminée la Seconde Guerre mondiale ?",
+   "c": [
+    "1939",
+    "1945",
+    "1950",
+    "1918"
+   ]
+  },
+  "ar": {
+   "q": "في أي عام انتهت الحرب العالمية الثانية؟",
+   "c": [
+    "1939",
+    "1945",
+    "1950",
+    "1918"
+   ]
+  },
+  "es": {
+   "q": "¿En qué año terminó la Segunda Guerra Mundial?",
+   "c": [
+    "1939",
+    "1945",
+    "1950",
+    "1918"
+   ]
+  },
+  "pt": {
+   "q": "Em que ano terminou a Segunda Guerra Mundial?",
+   "c": [
+    "1939",
+    "1945",
+    "1950",
+    "1918"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "Julius Caesar was a leader of which civilization?",
+   "c": [
+    "Ancient Rome",
+    "Ancient Greece",
+    "Ancient Egypt",
+    "Persia"
+   ]
+  },
+  "fr": {
+   "q": "Jules César était un dirigeant de quelle civilisation ?",
+   "c": [
+    "Rome antique",
+    "Grèce antique",
+    "Égypte antique",
+    "Perse"
+   ]
+  },
+  "ar": {
+   "q": "إلى أي حضارة ينتمي يوليوس قيصر؟",
+   "c": [
+    "روما القديمة",
+    "اليونان القديمة",
+    "مصر القديمة",
+    "بلاد فارس"
+   ]
+  },
+  "es": {
+   "q": "¿A qué civilización pertenecía Julio César?",
+   "c": [
+    "La antigua Roma",
+    "La antigua Grecia",
+    "El antiguo Egipto",
+    "Persia"
+   ]
+  },
+  "pt": {
+   "q": "A qual civilização pertencia Júlio César?",
+   "c": [
+    "A Roma Antiga",
+    "A Grécia Antiga",
+    "O Egito Antigo",
+    "A Pérsia"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "Who crossed the Atlantic in 1492 and reached the Americas?",
+   "c": [
+    "Christopher Columbus",
+    "Vasco da Gama",
+    "Ferdinand Magellan",
+    "Marco Polo"
+   ]
+  },
+  "fr": {
+   "q": "Qui a traversé l'Atlantique en 1492 et atteint les Amériques ?",
+   "c": [
+    "Christophe Colomb",
+    "Vasco de Gama",
+    "Magellan",
+    "Marco Polo"
+   ]
+  },
+  "ar": {
+   "q": "من عبر المحيط الأطلسي عام 1492 ووصل إلى الأمريكتين؟",
+   "c": [
+    "كريستوفر كولومبوس",
+    "فاسكو دا غاما",
+    "ماجلان",
+    "ماركو بولو"
+   ]
+  },
+  "es": {
+   "q": "¿Quién cruzó el Atlántico en 1492 y llegó a América?",
+   "c": [
+    "Cristóbal Colón",
+    "Vasco da Gama",
+    "Magallanes",
+    "Marco Polo"
+   ]
+  },
+  "pt": {
+   "q": "Quem atravessou o Atlântico em 1492 e chegou às Américas?",
+   "c": [
+    "Cristóvão Colombo",
+    "Vasco da Gama",
+    "Fernão de Magalhães",
+    "Marco Polo"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "Which country gave the Statue of Liberty to the United States?",
+   "c": [
+    "France",
+    "United Kingdom",
+    "Spain",
+    "Italy"
+   ]
+  },
+  "fr": {
+   "q": "Quel pays a offert la statue de la Liberté aux États-Unis ?",
+   "c": [
+    "La France",
+    "Le Royaume-Uni",
+    "L'Espagne",
+    "L'Italie"
+   ]
+  },
+  "ar": {
+   "q": "أي دولة أهدت تمثال الحرية إلى الولايات المتحدة؟",
+   "c": [
+    "فرنسا",
+    "المملكة المتحدة",
+    "إسبانيا",
+    "إيطاليا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país regaló la Estatua de la Libertad a Estados Unidos?",
+   "c": [
+    "Francia",
+    "Reino Unido",
+    "España",
+    "Italia"
+   ]
+  },
+  "pt": {
+   "q": "Qual país deu a Estátua da Liberdade aos Estados Unidos?",
+   "c": [
+    "França",
+    "Reino Unido",
+    "Espanha",
+    "Itália"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "a": 1,
+  "image": null,
+  "en": {
+   "q": "In which year did the French Revolution begin?",
+   "c": [
+    "1776",
+    "1789",
+    "1804",
+    "1815"
+   ]
+  },
+  "fr": {
+   "q": "En quelle année a commencé la Révolution française ?",
+   "c": [
+    "1776",
+    "1789",
+    "1804",
+    "1815"
+   ]
+  },
+  "ar": {
+   "q": "في أي عام بدأت الثورة الفرنسية؟",
+   "c": [
+    "1776",
+    "1789",
+    "1804",
+    "1815"
+   ]
+  },
+  "es": {
+   "q": "¿En qué año comenzó la Revolución francesa?",
+   "c": [
+    "1776",
+    "1789",
+    "1804",
+    "1815"
+   ]
+  },
+  "pt": {
+   "q": "Em que ano começou a Revolução Francesa?",
+   "c": [
+    "1776",
+    "1789",
+    "1804",
+    "1815"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "a": 2,
+  "image": null,
+  "en": {
+   "q": "In which year did Algeria gain its independence?",
+   "c": [
+    "1954",
+    "1958",
+    "1962",
+    "1965"
+   ]
+  },
+  "fr": {
+   "q": "En quelle année l'Algérie a-t-elle obtenu son indépendance ?",
+   "c": [
+    "1954",
+    "1958",
+    "1962",
+    "1965"
+   ]
+  },
+  "ar": {
+   "q": "في أي عام حصلت الجزائر على استقلالها؟",
+   "c": [
+    "1954",
+    "1958",
+    "1962",
+    "1965"
+   ]
+  },
+  "es": {
+   "q": "¿En qué año obtuvo Argelia su independencia?",
+   "c": [
+    "1954",
+    "1958",
+    "1962",
+    "1965"
+   ]
+  },
+  "pt": {
+   "q": "Em que ano a Argélia conquistou a independência?",
+   "c": [
+    "1954",
+    "1958",
+    "1962",
+    "1965"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "Who was the first emperor of unified China?",
+   "c": [
+    "Qin Shi Huang",
+    "Kublai Khan",
+    "Confucius",
+    "Sun Yat-sen"
+   ]
+  },
+  "fr": {
+   "q": "Qui fut le premier empereur de la Chine unifiée ?",
+   "c": [
+    "Qin Shi Huang",
+    "Kubilaï Khan",
+    "Confucius",
+    "Sun Yat-sen"
+   ]
+  },
+  "ar": {
+   "q": "من كان أول إمبراطور للصين الموحدة؟",
+   "c": [
+    "تشين شي هوانغ",
+    "قوبلاي خان",
+    "كونفوشيوس",
+    "صن يات صن"
+   ]
+  },
+  "es": {
+   "q": "¿Quién fue el primer emperador de la China unificada?",
+   "c": [
+    "Qin Shi Huang",
+    "Kublai Kan",
+    "Confucio",
+    "Sun Yat-sen"
+   ]
+  },
+  "pt": {
+   "q": "Quem foi o primeiro imperador da China unificada?",
+   "c": [
+    "Qin Shi Huang",
+    "Kublai Khan",
+    "Confúcio",
+    "Sun Yat-sen"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "a": 0,
+  "image": null,
+  "en": {
+   "q": "Which battle in 1815 ended Napoleon's rule?",
+   "c": [
+    "Waterloo",
+    "Austerlitz",
+    "Trafalgar",
+    "Verdun"
+   ]
+  },
+  "fr": {
+   "q": "Quelle bataille de 1815 a mis fin au règne de Napoléon ?",
+   "c": [
+    "Waterloo",
+    "Austerlitz",
+    "Trafalgar",
+    "Verdun"
+   ]
+  },
+  "ar": {
+   "q": "أي معركة عام 1815 أنهت حكم نابليون؟",
+   "c": [
+    "واترلو",
+    "أوسترليتز",
+    "ترافالغار",
+    "فردان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué batalla de 1815 puso fin al dominio de Napoleón?",
+   "c": [
+    "Waterloo",
+    "Austerlitz",
+    "Trafalgar",
+    "Verdún"
+   ]
+  },
+  "pt": {
+   "q": "Qual batalha de 1815 pôs fim ao domínio de Napoleão?",
+   "c": [
+    "Waterloo",
+    "Austerlitz",
+    "Trafalgar",
+    "Verdun"
+   ]
+  },
+  "d": 2
+ }
+]
