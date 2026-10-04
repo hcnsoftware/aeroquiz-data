@@ -2898,7 +2898,511 @@
       "explanation": "Nemo é o corajoso peixe-palhaço cuja história conquistou o mundo."
     },
     "d": 2
-  }
+  },
+  [
+ {
+  "fr": {
+   "q": "Quel artiste est l'un des principaux fondateurs du mouvement cubiste aux côtés de Pablo Picasso ?",
+   "c": [
+    "Henri Matisse",
+    "Georges Braque",
+    "Claude Monet",
+    "Salvador Dalí"
+   ]
+  },
+  "en": {
+   "q": "Which artist is one of the main founders of the Cubist movement alongside Pablo Picasso?",
+   "c": [
+    "Henri Matisse",
+    "Georges Braque",
+    "Claude Monet",
+    "Salvador Dalí"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "ar": {
+   "q": "أي فنان يعد أحد المؤسسين الرئيسيين للحركة التكعيبية إلى جانب بابلو بيكاسو؟",
+   "c": [
+    "هنري ماتيس",
+    "جورج براك",
+    "كلود مونيه",
+    "سلفادور دالي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué artista es uno de los principales fundadores del movimiento cubista junto a Pablo Picasso?",
+   "c": [
+    "Henri Matisse",
+    "Georges Braque",
+    "Claude Monet",
+    "Salvador Dalí"
+   ]
+  },
+  "pt": {
+   "q": "Qual artista é um dos principais fundadores do movimento cubista ao lado de Pablo Picasso?",
+   "c": [
+    "Henri Matisse",
+    "Georges Braque",
+    "Claude Monet",
+    "Salvador Dalí"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Quel mouvement artistique du début du XXe siècle, initié notamment par André Breton, explore l'inconscient et le rêve ?",
+   "c": [
+    "L'impressionnisme",
+    "Le surréalisme",
+    "Le fauvisme",
+    "Le futurisme"
+   ]
+  },
+  "en": {
+   "q": "Which early 20th-century art movement, notably initiated by André Breton, explores the unconscious and dreams?",
+   "c": [
+    "Impressionism",
+    "Surrealism",
+    "Fauvism",
+    "Futurism"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "ar": {
+   "q": "ما هي الحركة الفنية في أوائل القرن العشرين، التي أطلقها بشكل بارز أندريه بريتون، والتي تستكشف اللاوعي والأحلام؟",
+   "c": [
+    "الانطباعية",
+    "السريالية",
+    "التوحش (الفوڤية)",
+    "المستقبلية"
+   ]
+  },
+  "es": {
+   "q": "¿Qué movimiento artístico de principios del siglo XX, iniciado notablemente por André Breton, explora el inconsciente y el sueño?",
+   "c": [
+    "Impresionismo",
+    "Surrealismo",
+    "Fauvismo",
+    "Futurismo"
+   ]
+  },
+  "pt": {
+   "q": "Qual movimento artístico do início do século XX, iniciado notadamente por André Breton, explora o inconsciente e o sonho?",
+   "c": [
+    "Impressionismo",
+    "Surrealismo",
+    "Fauvismo",
+    "Futurismo"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Quel film de science-fiction réalisé par Christopher Nolan explore les voyages à travers les trous de ver et la dilatation du temps ?",
+   "c": [
+    "Blade Runner 2049",
+    "Interstellar",
+    "Seul sur Mars",
+    "Premier Contact"
+   ]
+  },
+  "en": {
+   "q": "Which sci-fi film directed by Christopher Nolan explores wormhole travel and time dilation?",
+   "c": [
+    "Blade Runner 2049",
+    "Interstellar",
+    "The Martian",
+    "Arrival"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "ar": {
+   "q": "أي فيلم خيال علمي من إخراج كريستوفر نولان يستكشف السفر عبر الثقوب الدودية وتمدد الزمن؟",
+   "c": [
+    "Blade Runner 2049",
+    "Interstellar",
+    "المريخي",
+    "Arrival"
+   ]
+  },
+  "es": {
+   "q": "¿Qué película de ciencia ficción dirigida por Christopher Nolan explora los viajes a través de agujeros de gusano y la dilatación del tiempo?",
+   "c": [
+    "Blade Runner 2049",
+    "Interstellar",
+    "Marte",
+    "La llegada"
+   ]
+  },
+  "pt": {
+   "q": "Qual filme de ficção científica dirigido por Christopher Nolan explora viagens por buracos de minhoca e dilatação do tempo?",
+   "c": [
+    "Blade Runner 2049",
+    "Interstellar",
+    "Perdido em Marte",
+    "A Chegada"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Dans la série télévisée 'Breaking Bad', quel est le véritable métier de Walter White avant qu'il ne commence à fabriquer de la méthamphétamine ?",
+   "c": [
+    "Avocat",
+    "Professeur de chimie au lycée",
+    "Médecin",
+    "Policier"
+   ]
+  },
+  "en": {
+   "q": "In the TV series 'Breaking Bad', what is Walter White's real profession before he starts manufacturing methamphetamine?",
+   "c": [
+    "Lawyer",
+    "High school chemistry teacher",
+    "Doctor",
+    "Police officer"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "ar": {
+   "q": "في المسلسل التلفزيوني 'Breaking Bad'، ما هي مهنة والتر وايت الحقيقية قبل أن يبدأ في صنع الميثامفيتامين؟",
+   "c": [
+    "محامٍ",
+    "معلم كيمياء في المدرسة الثانوية",
+    "طبيب",
+    "ضابط شرطة"
+   ]
+  },
+  "es": {
+   "q": "En la serie de televisión 'Breaking Bad', ¿cuál es la verdadera profesión de Walter White antes de empezar a fabricar metanfetamina?",
+   "c": [
+    "Abogado",
+    "Profesor de química de secundaria",
+    "Médico",
+    "Policía"
+   ]
+  },
+  "pt": {
+   "q": "Na série de TV 'Breaking Bad', qual é a verdadeira profissão de Walter White antes de começar a fabricar metanfetamina?",
+   "c": [
+    "Advogado",
+    "Professor de química do ensino médio",
+    "Médico",
+    "Policial"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel réalisateur est connu pour ses films d'animation fantastiques et poétiques tels que 'Le Voyage de Chihiro' et 'Mon voisin Totoro' ?",
+   "c": [
+    "Makoto Shinkai",
+    "Hayao Miyazaki",
+    "Mamoru Hosoda",
+    "Satoshi Kon"
+   ]
+  },
+  "en": {
+   "q": "Which director is known for his fantastic and poetic animated films such as 'Spirited Away' and 'My Neighbor Totoro'?",
+   "c": [
+    "Makoto Shinkai",
+    "Hayao Miyazaki",
+    "Mamoru Hosoda",
+    "Satoshi Kon"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "ar": {
+   "q": "من هو المخرج المعروف بأفلام الرسوم المتحركة الخيالية والشاعرية مثل 'المخطوفة' (Spirited Away) و'جاري توتورو'؟",
+   "c": [
+    "ماكوتو شينكاي",
+    "هاياو ميازاكي",
+    "مامورو هوسودا",
+    "ساتوشي كون"
+   ]
+  },
+  "es": {
+   "q": "¿Qué director es conocido por sus películas de animación fantásticas y poéticas como 'El viaje de Chihiro' y 'Mi vecino Totoro'?",
+   "c": [
+    "Makoto Shinkai",
+    "Hayao Miyazaki",
+    "Mamoru Hosoda",
+    "Satoshi Kon"
+   ]
+  },
+  "pt": {
+   "q": "Qual diretor é conhecido por seus filmes de animação fantásticos e poéticos, como 'A Viagem de Chihiro' e 'Meu Vizinho Totoro'?",
+   "c": [
+    "Makoto Shinkai",
+    "Hayao Miyazaki",
+    "Mamoru Hosoda",
+    "Satoshi Kon"
+   ]
+  },
+  "d": 1
+ },
+    [
+ {
+  "fr": {
+   "q": "Dans la saga de films 'Harry Potter', dans quelle maison de l'école de Poudlard le héros est-il réparti ?",
+   "c": [
+    "Serpentard",
+    "Gryffondor",
+    "Poufsouffle",
+    "Serdaigle"
+   ]
+  },
+  "en": {
+   "q": "In the 'Harry Potter' film series, which Hogwarts house is the hero sorted into?",
+   "c": [
+    "Slytherin",
+    "Gryffindor",
+    "Hufflepuff",
+    "Ravenclaw"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "ar": {
+   "q": "في سلسلة أفلام 'هاري بوتر'، إلى أي منزل في مدرسة هوغوورتس يتم فرز البطل؟",
+   "c": [
+    "سليذيرين",
+    "غريفيندور",
+    "هافلباف",
+    "رافينكلو"
+   ]
+  },
+  "es": {
+   "q": "En la saga de películas de 'Harry Potter', ¿en qué casa de la escuela Hogwarts es asignado el héroe?",
+   "c": [
+    "Slytherin",
+    "Gryffindor",
+    "Hufflepuff",
+    "Ravenclaw"
+   ]
+  },
+  "pt": {
+   "q": "Na série de filmes 'Harry Potter', em qual casa da escola Hogwarts o herói é colocado?",
+   "c": [
+    "Sonserina",
+    "Grifinória",
+    "Lufa-Lufa",
+    "Corvinal"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel super-héros au costume rouge et bleu s'élance de gratte-ciel en gratte-ciel en lançant des toiles d'araignée ?",
+   "c": [
+    "Batman",
+    "Superman",
+    "Spider-Man",
+    "Iron Man"
+   ]
+  },
+  "en": {
+   "q": "Which red-and-blue costumed superhero swings from skyscraper to skyscraper using webs?",
+   "c": [
+    "Batman",
+    "Superman",
+    "Spider-Man",
+    "Iron Man"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "ar": {
+   "q": "أي بطل خارق يرتدي زيًا أحمر وأزرق يتنقل بين ناطحات السحاب باستخدام خيوط العنكبوت؟",
+   "c": [
+    "باتمان",
+    "سوبرمان",
+    "سبايدر مان",
+    "آيرون مان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué superhéroe con traje rojo y azul se balancea de rascacielos en rascacielos lanzando telarañas?",
+   "c": [
+    "Batman",
+    "Superman",
+    "Spider-Man",
+    "Iron Man"
+   ]
+  },
+  "pt": {
+   "q": "Qual super-herói de traje vermelho e azul balança de arranha-céu em arranha-céu usando teias de aranha?",
+   "c": [
+    "Batman",
+    "Superman",
+    "Spider-Man",
+    "Homem de Ferro"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Dans la série animée 'Le Roi Lion', quel est le nom du jeune lion qui doit reprendre le trône après son père Mufasa ?",
+   "c": [
+    "Simba",
+    "Scar",
+    "Timon",
+    "Pumbaa"
+   ]
+  },
+  "en": {
+   "q": "In the animated film 'The Lion King', what is the name of the young lion who must take the throne after his father Mufasa?",
+   "c": [
+    "Simba",
+    "Scar",
+    "Timon",
+    "Pumbaa"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "في فيلم الرسوم المتحركة 'الأسد الملك'، ما هو اسم الأسد الصغير الذي يجب أن يتولى العرش بعد أبيه موفاسا؟",
+   "c": [
+    "سيمبا",
+    "سكار",
+    "تيمون",
+    "بومبا"
+   ]
+  },
+  "es": {
+   "q": "En la película animada 'El Rey León', ¿cómo se llama el joven león que debe tomar el trono después de su padre Mufasa?",
+   "c": [
+    "Simba",
+    "Scar",
+    "Timón",
+    "Pumba"
+   ]
+  },
+  "pt": {
+   "q": "No filme animado 'O Rei Leão', qual é o nome do jovem leão que deve assumir o trono após seu pai Mufasa?",
+   "c": [
+    "Simba",
+    "Scar",
+    "Timão",
+    "Pumba"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel célèbre détective privé et magicien du monde des sorciers possède une cicatrice en forme d'éclair sur le front ?",
+   "c": [
+    "Ron Weasley",
+    "Harry Potter",
+    "Drago Malefoy",
+    "Neville Londubat"
+   ]
+  },
+  "en": {
+   "q": "Which famous young wizard in the wizarding world has a lightning-bolt scar on his forehead?",
+   "c": [
+    "Ron Weasley",
+    "Harry Potter",
+    "Draco Malfoy",
+    "Neville Longbottom"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "ar": {
+   "q": "من هو الساحر الشاب الشهير في عالم السحرة الذي يحمل ندبة على شكل برق على جبهته؟",
+   "c": [
+    "رون ويزلي",
+    "هاري بوتر",
+    "دراكو مالفوي",
+    "نيفيل لونجبوتوم"
+   ]
+  },
+  "es": {
+   "q": "¿Qué famoso joven mago del mundo mágico tiene una cicatriz en forma de rayo en la frente?",
+   "c": [
+    "Ron Weasley",
+    "Harry Potter",
+    "Draco Malfoy",
+    "Neville Longbottom"
+   ]
+  },
+  "pt": {
+   "q": "Qual famoso jovem bruxo do mundo mágico tem uma cicatriz em forma de raio na testa?",
+   "c": [
+    "Ron Weasley",
+    "Harry Potter",
+    "Draco Malfoy",
+    "Neville Longbottom"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Dans la série 'Stranger Things', comment s'appelle la mystérieuse fillette dotée de pouvoirs télékinétiques ?",
+   "c": [
+    "Max",
+    "Eleven (Onze)",
+    "Nancy",
+    "Robin"
+   ]
+  },
+  "en": {
+   "q": "In the series 'Stranger Things', what is the name of the mysterious young girl with telekinetic powers?",
+   "c": [
+    "Max",
+    "Eleven",
+    "Nancy",
+    "Robin"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "ar": {
+   "q": "في مسلسل 'Stranger Things'، ما هو اسم الفتاة الصغيرة الغامضة التي تمتلك قوى تحريك الأجسام عن بعد؟",
+   "c": [
+    "ماكس",
+    "إلفين (Eleven)",
+    "نانسي",
+    "روبين"
+   ]
+  },
+  "es": {
+   "q": "En la serie 'Stranger Things', ¿cómo se llama la misteriosa niña con poderes telequinéticos?",
+   "c": [
+    "Max",
+    "Eleven",
+    "Nancy",
+    "Robin"
+   ]
+  },
+  "pt": {
+   "q": "Na série 'Stranger Things', qual é o nome da misteriosa garota com poderes telecinéticos?",
+   "c": [
+    "Max",
+    "Eleven",
+    "Nancy",
+    "Robin"
+   ]
+  },
+  "d": 1
+ }
+
+
 
 
 ]
