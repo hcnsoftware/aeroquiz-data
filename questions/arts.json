@@ -798,5 +798,2107 @@
       ]
     },
     "d": 3
+  },
+  {
+    "fr": {
+      "q": "Qui a écrit le recueil de poèmes « Les Fleurs du mal » ?",
+      "c": [
+        "Charles Baudelaire",
+        "Arthur Rimbaud",
+        "Paul Verlaine",
+        "Victor Hugo"
+      ]
+    },
+    "en": {
+      "q": "Who wrote the poetry collection 'Les Fleurs du mal'?",
+      "c": [
+        "Charles Baudelaire",
+        "Arthur Rimbaud",
+        "Paul Verlaine",
+        "Victor Hugo"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "من كتب ديوان «أزهار الشر»؟",
+      "c": [
+        "شارل بودلير",
+        "آرثر رامبو",
+        "بول فيرلين",
+        "فيكتور هوغو"
+      ]
+    },
+    "es": {
+      "q": "¿Quién escribió el poemario 'Las flores del mal'?",
+      "c": [
+        "Charles Baudelaire",
+        "Arthur Rimbaud",
+        "Paul Verlaine",
+        "Victor Hugo"
+      ]
+    },
+    "pt": {
+      "q": "Quem escreveu a coletânea de poemas 'As Flores do Mal'?",
+      "c": [
+        "Charles Baudelaire",
+        "Arthur Rimbaud",
+        "Paul Verlaine",
+        "Victor Hugo"
+      ]
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Qui a peint la fresque « La Cène » ?",
+      "c": [
+        "Léonard de Vinci",
+        "Michel-Ange",
+        "Raphaël",
+        "Caravage"
+      ]
+    },
+    "en": {
+      "q": "Who painted the mural 'The Last Supper'?",
+      "c": [
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Raphael",
+        "Caravaggio"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "من رسم جدارية «العشاء الأخير»؟",
+      "c": [
+        "ليوناردو دا فينشي",
+        "مايكل أنجلو",
+        "رافائيل",
+        "كارافاجيو"
+      ]
+    },
+    "es": {
+      "q": "¿Quién pintó el mural 'La Última Cena'?",
+      "c": [
+        "Leonardo da Vinci",
+        "Miguel Ángel",
+        "Rafael",
+        "Caravaggio"
+      ]
+    },
+    "pt": {
+      "q": "Quem pintou o mural 'A Última Ceia'?",
+      "c": [
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Rafael",
+        "Caravaggio"
+      ]
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Qui est l'auteur du roman « À la recherche du temps perdu » ?",
+      "c": [
+        "Marcel Proust",
+        "Albert Camus",
+        "Jean-Paul Sartre",
+        "Émile Zola"
+      ]
+    },
+    "en": {
+      "q": "Who is the author of the novel 'In Search of Lost Time'?",
+      "c": [
+        "Marcel Proust",
+        "Albert Camus",
+        "Jean-Paul Sartre",
+        "Émile Zola"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "من هو مؤلف رواية «بحثاً عن الزمن المفقود»؟",
+      "c": [
+        "مارسيل بروست",
+        "ألبير كامو",
+        "جان بول سارتر",
+        "إميل زولا"
+      ]
+    },
+    "es": {
+      "q": "¿Quién es el autor de la novela 'En busca del tiempo perdido'?",
+      "c": [
+        "Marcel Proust",
+        "Albert Camus",
+        "Jean-Paul Sartre",
+        "Émile Zola"
+      ]
+    },
+    "pt": {
+      "q": "Quem é o autor do romance 'Em Busca do Tempo Perdido'?",
+      "c": [
+        "Marcel Proust",
+        "Albert Camus",
+        "Jean-Paul Sartre",
+        "Émile Zola"
+      ]
+    },
+    "d": 3
+  },
+  {
+    "fr": {
+      "q": "Quel artiste surréaliste a peint « La Persistance de la mémoire » (les montres molles) ?",
+      "c": [
+        "Salvador Dalí",
+        "René Magritte",
+        "Joan Miró",
+        "Max Ernst"
+      ]
+    },
+    "en": {
+      "q": "Which surrealist artist painted 'The Persistence of Memory' (the melting clocks)?",
+      "c": [
+        "Salvador Dalí",
+        "René Magritte",
+        "Joan Miró",
+        "Max Ernst"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "أي فنان سريالي رسم «إصرار الذاكرة» (الساعات الذائبة)؟",
+      "c": [
+        "سلفادور دالي",
+        "رينيه ماغريت",
+        "جوان ميرو",
+        "ماكس إرنست"
+      ]
+    },
+    "es": {
+      "q": "¿Qué artista surrealista pintó 'La persistencia de la memoria' (los relojes blandos)?",
+      "c": [
+        "Salvador Dalí",
+        "René Magritte",
+        "Joan Miró",
+        "Max Ernst"
+      ]
+    },
+    "pt": {
+      "q": "Qual artista surrealista pintou 'A Persistência da Memória' (os relógios derretidos)?",
+      "c": [
+        "Salvador Dalí",
+        "René Magritte",
+        "Joan Miró",
+        "Max Ernst"
+      ]
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Qui a écrit le roman dystopique « 1984 » ?",
+      "c": [
+        "George Orwell",
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "H.G. Wells"
+      ]
+    },
+    "en": {
+      "q": "Who wrote the dystopian novel '1984'?",
+      "c": [
+        "George Orwell",
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "H.G. Wells"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "من كتب رواية الديستوبيا «1984»؟",
+      "c": [
+        "جورج أوروويل",
+        "ألدوس هكسلي",
+        "راي برادبري",
+        "إتش جي ويلز"
+      ]
+    },
+    "es": {
+      "q": "¿Quién escribió la novela distópica '1984'?",
+      "c": [
+        "George Orwell",
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "H.G. Wells"
+      ]
+    },
+    "pt": {
+      "q": "Quem escreveu o romance distópico '1984'?",
+      "c": [
+        "George Orwell",
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "H.G. Wells"
+      ]
+    },
+    "d": 1
+  },
+  {
+    "fr": {
+      "q": "Quel compositeur russe a écrit la musique du ballet « Le Lac des cygnes » ?",
+      "c": [
+        "Piotr Ilitch Tchaïkovski",
+        "Igor Stravinsky",
+        "Serge Rachmaninov",
+        "Dimitri Chostakovich"
+      ]
+    },
+    "en": {
+      "q": "Which Russian composer wrote the music for the ballet 'Swan Lake'?",
+      "c": [
+        "Pyotr Ilyich Tchaikovsky",
+        "Igor Stravinsky",
+        "Sergei Rachmaninoff",
+        "Dmitri Shostakovich"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "أي مؤلف موسيقي روسي كتب موسيقا باليه «بحيرة البجع»؟",
+      "c": [
+        "بيوتر إيليتش تشايكوفسكي",
+        "إيغور سترافينسكي",
+        "سيرغي رحمانينوف",
+        "ديميتري شوستاكوفيتش"
+      ]
+    },
+    "es": {
+      "q": "¿Qué compositor ruso escribió la música para el ballet 'El lago de los cisnes'?",
+      "c": [
+        "Piotr Ilich Chaikovski",
+        "Igor Stravinski",
+        "Serguéi Rajmáninov",
+        "Dmitri Shostakóvich"
+      ]
+    },
+    "pt": {
+      "q": "Qual compositor russo escreveu a música para o balé 'O Lago dos Cisnes'?",
+      "c": [
+        "Pyotr Ilyich Tchaikovsky",
+        "Igor Stravinsky",
+        "Sergei Rachmaninoff",
+        "Dmitri Shostakovich"
+      ]
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Qui a écrit le célèbre roman espagnol « Don Quichotte » ?",
+      "c": [
+        "Miguel de Cervantes",
+        "Lope de Vega",
+        "Federico García Lorca",
+        "Gabriel García Márquez"
+      ]
+    },
+    "en": {
+      "q": "Who wrote the famous Spanish novel 'Don Quixote'?",
+      "c": [
+        "Miguel de Cervantes",
+        "Lope de Vega",
+        "Federico García Lorca",
+        "Gabriel García Márquez"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "من كتب الرواية الإسبانية الشهيرة «دون كيخوطي»؟",
+      "c": [
+        "ميغيل دي ثيربانتس",
+        "لوبي دي فيغا",
+        "فيديريكو غارسيا لوركا",
+        "غابرييل غارسيا ماركيز"
+      ]
+    },
+    "es": {
+      "q": "¿Quién escribió la famosa novela española 'Don Quijote de la Mancha'?",
+      "c": [
+        "Miguel de Cervantes",
+        "Lope de Vega",
+        "Federico García Lorca",
+        "Gabriel García Márquez"
+      ]
+    },
+    "pt": {
+      "q": "Quem escreveu o famoso romance espanhol 'Dom Quixote'?",
+      "c": [
+        "Miguel de Cervantes",
+        "Lope de Vega",
+        "Federico García Lorca",
+        "Gabriel García Márquez"
+      ]
+    },
+    "d": 1
+  },
+  {
+    "fr": {
+      "q": "Quel peintre expressionniste norvégien est l'auteur du tableau « Le Cri » ?",
+      "c": [
+        "Edvard Munch",
+        "Gustav Klimt",
+        "Egon Schiele",
+        "Emil Nolde"
+      ]
+    },
+    "en": {
+      "q": "Which Norwegian expressionist painter created the painting 'The Scream'?",
+      "c": [
+        "Edvard Munch",
+        "Gustav Klimt",
+        "Egon Schiele",
+        "Emil Nolde"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "أي رسام تعبيري نرويجي هو مؤلف لوحة «الصرخة»؟",
+      "c": [
+        "إدفارد مونك",
+        "غوستاف كليمت",
+        "إغون شيلي",
+        "إميل نولده"
+      ]
+    },
+    "es": {
+      "q": "¿Qué pintor expresionista noruego creó el cuadro 'El grito'?",
+      "c": [
+        "Edvard Munch",
+        "Gustav Klimt",
+        "Egon Schiele",
+        "Emil Nolde"
+      ]
+    },
+    "pt": {
+      "q": "Qual pintor expressionista norueguês criou a pintura 'O Grito'?",
+      "c": [
+        "Edvard Munch",
+        "Gustav Klimt",
+        "Egon Schiele",
+        "Emil Nolde"
+      ]
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Qui a écrit le roman philosophique « L'Étranger » ?",
+      "c": [
+        "Albert Camus",
+        "Jean-Paul Sartre",
+        "Simone de Beauvoir",
+        "André Malraux"
+      ]
+    },
+    "en": {
+      "q": "Who wrote the philosophical novel 'The Stranger'?",
+      "c": [
+        "Albert Camus",
+        "Jean-Paul Sartre",
+        "Simone de Beauvoir",
+        "André Malraux"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "من كتب الرواية الفلسفية «الغريب»؟",
+      "c": [
+        "ألبير كامو",
+        "جان بول سارتر",
+        "سيمون دي بفوار",
+        "أندريه مالرو"
+      ]
+    },
+    "es": {
+      "q": "¿Quién escribió la novela filosófica 'El extranjero'?",
+      "c": [
+        "Albert Camus",
+        "Jean-Paul Sartre",
+        "Simone de Beauvoir",
+        "André Malraux"
+      ]
+    },
+    "pt": {
+      "q": "Quem escreveu o romance filosófico 'O Estrangeiro'?",
+      "c": [
+        "Albert Camus",
+        "Jean-Paul Sartre",
+        "Simone de Beauvoir",
+        "André Malraux"
+      ]
+    },
+    "d": 1
+  },
+  {
+    "fr": {
+      "q": "Quel poète italien du Moyen Âge a écrit « La Divine Comédie » ?",
+      "c": [
+        "Dante Alighieri",
+        "Pétrarque",
+        "Boccace",
+        "Machiavel"
+      ]
+    },
+    "en": {
+      "q": "Which medieval Italian poet wrote 'The Divine Comedy'?",
+      "c": [
+        "Dante Alighieri",
+        "Petrarch",
+        "Boccaccio",
+        "Machiavelli"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "أي شاعر إيطالي من العصور الوسطى كتب «الكوميديا الإلهية»؟",
+      "c": [
+        "دانتي أليغييري",
+        "فرانشيسكو بتراركا",
+        "بوكاكو",
+        "ميكيافيلي"
+      ]
+    },
+    "es": {
+      "q": "¿Qué poeta italiano de la Edad Media escribió 'La Divina Comedia'?",
+      "c": [
+        "Dante Alighieri",
+        "Petrarca",
+        "Boccaccio",
+        "Maquiavelo"
+      ]
+    },
+    "pt": {
+      "q": "Qual poeta italiano da Idade Média escreveu 'A Divina Comédia'?",
+      "c": [
+        "Dante Alighieri",
+        "Petrarca",
+        "Boccaccio",
+        "Maquiavel"
+      ]
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Qui a peint « La Naissance de Vénus » ?",
+      "c": [
+        "Sandro Botticelli",
+        "Léonard de Vinci",
+        "Raphaël",
+        "Le Caravage"
+      ]
+    },
+    "en": {
+      "q": "Who painted 'The Birth of Venus'?",
+      "c": [
+        "Sandro Botticelli",
+        "Leonardo da Vinci",
+        "Raphael",
+        "Caravaggio"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "من رسم لوحة «ولادة فينوس»؟",
+      "c": [
+        "ساندرو بوتيتشيلي",
+        "ليوناردو دا فينشي",
+        "رافائيل",
+        "كارافاجيو"
+      ]
+    },
+    "es": {
+      "q": "¿Quién pintó 'El nacimiento de Venus'?",
+      "c": [
+        "Sandro Botticelli",
+        "Leonardo da Vinci",
+        "Rafael",
+        "Caravaggio"
+      ]
+    },
+    "pt": {
+      "q": "Quem pintou 'O Nascimento de Vênus'?",
+      "c": [
+        "Sandro Botticelli",
+        "Leonardo da Vinci",
+        "Rafael",
+        "Caravaggio"
+      ]
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Qui a écrit le monumental roman « Guerre et Paix » ?",
+      "c": [
+        "Léon Tolstoï",
+        "Fiodor Dostoïevski",
+        "Anton Tchekhov",
+        "Alexandre Pouchkine"
+      ]
+    },
+    "en": {
+      "q": "Who wrote the monumental novel 'War and Peace'?",
+      "c": [
+        "Leo Tolstoy",
+        "Fyodor Dostoevsky",
+        "Anton Chekhov",
+        "Alexander Pushkin"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "من كتب الرواية الضخمة «الحرب والسلام»؟",
+      "c": [
+        "لئو تولستوي",
+        "فيودور دوستويفسكي",
+        "أنطون تشيخوف",
+        "ألكسندر بوشكين"
+      ]
+    },
+    "es": {
+      "q": "¿Quién escribió la monumental novela 'Guerra y paz'?",
+      "c": [
+        "León Tolstói",
+        "Fiódor Dostoyevski",
+        "Antón Chéjov",
+        "Aleksandr Pushkin"
+      ]
+    },
+    "pt": {
+      "q": "Quem escreveu o monumental romance 'Guerra e Paz'?",
+      "c": [
+        "Leo Tolstoy",
+        "Fyodor Dostoevsky",
+        "Anton Chekhov",
+        "Alexander Pushkin"
+      ]
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Quel célèbre sculpteur de la Renaissance a réalisé la statue du « David » conservée à Florence ?",
+      "c": [
+        "Michel-Ange",
+        "Donatello",
+        "Le Bernin",
+        "Verrocchio"
+      ]
+    },
+    "en": {
+      "q": "Which famous Renaissance sculptor created the statue of 'David' housed in Florence?",
+      "c": [
+        "Michelangelo",
+        "Donatello",
+        "Gian Lorenzo Bernini",
+        "Verrocchio"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "أي نحات شهير من عصر النهضة أنجز تمثال «داود» الموجود في فلورنسا؟",
+      "c": [
+        "مايكل أنجلو",
+        "دوناتيلو",
+        "جيان لورينزو بيرنيني",
+        "فيروكيو"
+      ]
+    },
+    "es": {
+      "q": "¿Qué famoso escultor del Renacimiento creó la estatua de 'David' en Florencia?",
+      "c": [
+        "Miguel Ángel",
+        "Donatello",
+        "Gian Lorenzo Bernini",
+        "Verrocchio"
+      ]
+    },
+    "pt": {
+      "q": "Qual famoso escultor renascentista criou a estátua de 'David' em Florença?",
+      "c": [
+        "Michelangelo",
+        "Donatello",
+        "Gian Lorenzo Bernini",
+        "Verrocchio"
+      ]
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Quel grand auteur allemand a écrit la tragédie dramatique « Faust » ?",
+      "c": [
+        "Johann Wolfgang von Goethe",
+        "Friedrich Schiller",
+        "Heinrich Heine",
+        "Thomas Mann"
+      ]
+    },
+    "en": {
+      "q": "Which great German author wrote the dramatic tragedy 'Faust'?",
+      "c": [
+        "Johann Wolfgang von Goethe",
+        "Friedrich Schiller",
+        "Heinrich Heine",
+        "Thomas Mann"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "أي مؤلف ألماني كبير كتب المأساة الدرامية «فاوست»؟",
+      "c": [
+        "يوهان فولفغانغ فون غوته",
+        "فريدريش شيلر",
+        "هاينريش هاينه",
+        "توماس مان"
+      ]
+    },
+    "es": {
+      "q": "¿Qué gran autor alemán escribió la tragedia dramática 'Fausto'?",
+      "c": [
+        "Johann Wolfgang von Goethe",
+        "Friedrich Schiller",
+        "Heinrich Heine",
+        "Thomas Mann"
+      ]
+    },
+    "pt": {
+      "q": "Qual grande autor alemão escreveu a tragédia dramática 'Fausto'?",
+      "c": [
+        "Johann Wolfgang von Goethe",
+        "Friedrich Schiller",
+        "Heinrich Heine",
+        "Thomas Mann"
+      ]
+    },
+    "d": 3
+  },
+  {
+    "fr": {
+      "q": "Quel artiste impressionniste est célèbre pour sa série de peintures des « Nymphéas » à Giverny ?",
+      "c": [
+        "Claude Monet",
+        "Édouard Manet",
+        "Auguste Renoir",
+        "Camille Pissarro"
+      ]
+    },
+    "en": {
+      "q": "Which Impressionist artist is famous for his series of 'Water Lilies' (Nymphéas) paintings in Giverny?",
+      "c": [
+        "Claude Monet",
+        "Édouard Manet",
+        "Auguste Renoir",
+        "Camille Pissarro"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "أي فنان انطباعي تشتهر سلسلته الفنية «زنابق الماء» (النيفيا) في جيفرني؟",
+      "c": [
+        "كلود مونيه",
+        "إدوارد مانيه",
+        "أوغست رينوار",
+        "كاميل بيسارو"
+      ]
+    },
+    "es": {
+      "q": "¿Qué artista impresionista es famoso por su serie de pinturas de 'Nenúfares' en Giverny?",
+      "c": [
+        "Claude Monet",
+        "Édouard Manet",
+        "Auguste Renoir",
+        "Camille Pissarro"
+      ]
+    },
+    "pt": {
+      "q": "Qual artista impressionista é famoso por sua série de pinturas de 'Nenúfares' em Giverny?",
+      "c": [
+        "Claude Monet",
+        "Édouard Manet",
+        "Auguste Renoir",
+        "Camille Pissarro"
+      ]
+    },
+    "d": 1
+  },
+  {
+    "fr": {
+      "q": "Qui a écrit le célèbre roman réaliste français « Madame Bovary » ?",
+      "c": [
+        "Gustave Flaubert",
+        "Stendhal",
+        "Honoré de Balzac",
+        "Guy de Maupassant"
+      ]
+    },
+    "en": {
+      "q": "Who wrote the famous French realist novel 'Madame Bovary'?",
+      "c": [
+        "Gustave Flaubert",
+        "Stendhal",
+        "Honoré de Balzac",
+        "Guy de Maupassant"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "من كتب الرواية الواقعية الفرنسية الشهيرة «مدام بوفاري»؟",
+      "c": [
+        "غوستاف فلوبير",
+        "ستاندال",
+        "ونوريه دي بلزاك",
+        "غي دي موباسان"
+      ]
+    },
+    "es": {
+      "q": "¿Quién escribió la famosa novela realista francesa 'Madame Bovary'?",
+      "c": [
+        "Gustave Flaubert",
+        "Stendhal",
+        "Honoré de Balzac",
+        "Guy de Maupassant"
+      ]
+    },
+    "pt": {
+      "q": "Quem escreveu o famoso romance realista francês 'Madame Bovary'?",
+      "c": [
+        "Gustave Flaubert",
+        "Stendhal",
+        "Honoré de Balzac",
+        "Guy de Maupassant"
+      ]
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Quel compositeur classique a écrit l'opéra « La Flûte enchantée » ?",
+      "c": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Joseph Haydn",
+        "Antonio Vivaldi"
+      ]
+    },
+    "en": {
+      "q": "Which classical composer wrote the opera 'The Magic Flute'?",
+      "c": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Joseph Haydn",
+        "Antonio Vivaldi"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "أي مؤلف موسيقي كلاسيكي كتب أوبرا «الناي السحري»؟",
+      "c": [
+        "فولفغانغ أماديوس موتسارت",
+        "لودفيغ فان بيتهوفن",
+        "جوزيف هايدن",
+        "أنطونيو فيفالدي"
+      ]
+    },
+    "es": {
+      "q": "¿Qué compositor clásico escribió la ópera 'La flauta mágica'?",
+      "c": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Joseph Haydn",
+        "Antonio Vivaldi"
+      ]
+    },
+    "pt": {
+      "q": "Qual compositor clássico escreveu a ópera 'A Flauta Mágica'?",
+      "c": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Joseph Haydn",
+        "Antonio Vivaldi"
+      ]
+    },
+    "d": 1
+  },
+  {
+    "fr": {
+      "q": "Qui est l'auteur du célèbre roman d'aventures « Le Comte de Monte-Cristo » ?",
+      "c": [
+        "Alexandre Dumas",
+        "Jules Verne",
+        "Victor Hugo",
+        "Émile Zola"
+      ]
+    },
+    "en": {
+      "q": "Who is the author of the famous adventure novel 'The Count of Monte Cristo'?",
+      "c": [
+        "Alexandre Dumas",
+        "Jules Verne",
+        "Victor Hugo",
+        "Émile Zola"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "من هو مؤلف رواية المغامرات الشهيرة «كونت مونت كريستو»؟",
+      "c": [
+        "ألكسندر دوماس",
+        "جول فيرن",
+        "فيكتور هوغو",
+        "إميل زولا"
+      ]
+    },
+    "es": {
+      "q": "¿Quién es el autor de la famosa novela de aventuras 'El conde de Montecristo'?",
+      "c": [
+        "Alexandre Dumas",
+        "Jules Verne",
+        "Victor Hugo",
+        "Émile Zola"
+      ]
+    },
+    "pt": {
+      "q": "Quem é o autor do famoso romance de aventura 'O Conde de Monte Cristo'?",
+      "c": [
+        "Alexandre Dumas",
+        "Jules Verne",
+        "Victor Hugo",
+        "Émile Zola"
+      ]
+    },
+    "d": 1
+  },
+  {
+    "fr": {
+      "q": "Quel peintre néerlandais a réalisé le célèbre tableau « La Jeune Fille à la perle » ?",
+      "c": [
+        "Johannes Vermeer",
+        "Rembrandt van Rijn",
+        "Vincent van Gogh",
+        "Frans Hals"
+      ]
+    },
+    "en": {
+      "q": "Which Dutch painter created the famous painting 'Girl with a Pearl Earring'?",
+      "c": [
+        "Johannes Vermeer",
+        "Rembrandt van Rijn",
+        "Vincent van Gogh",
+        "Frans Hals"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "أي رسام هولندي أنجز اللوحة الشهيرة «فتاة بقراط اللؤلؤ»؟",
+      "c": [
+        "يوهانس فيرمير",
+        "رمبرانت فان راين",
+        "فينسنت فان غوخ",
+        "فرانس هالس"
+      ]
+    },
+    "es": {
+      "q": "¿Qué pintor holandés creó el famoso cuadro 'La joven de la perla'?",
+      "c": [
+        "Johannes Vermeer",
+        "Rembrandt van Rijn",
+        "Vincent van Gogh",
+        "Frans Hals"
+      ]
+    },
+    "pt": {
+      "q": "Qual pintor holandês criou a famosa pintura 'Moça com Brinco de Pérola'?",
+      "c": [
+        "Johannes Vermeer",
+        "Rembrandt van Rijn",
+        "Vincent van Gogh",
+        "Frans Hals"
+      ]
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Qui a écrit le chef-d'œuvre psychologique « Crime et Châtiment » ?",
+      "c": [
+        "Fiodor Dostoïevski",
+        "Léon Tolstoï",
+        "Anton Tchekhov",
+        "Nikolaï Gogol"
+      ]
+    },
+    "en": {
+      "q": "Who wrote the psychological masterpiece 'Crime and Punishment'?",
+      "c": [
+        "Fyodor Dostoevsky",
+        "Leo Tolstoy",
+        "Anton Chekhov",
+        "Nikolai Gogol"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "من كتب التحفة النفسية «الجريمة والعقاب»؟",
+      "c": [
+        "فيودور دوستويفسكي",
+        "لئو تولستوي",
+        "أنطون تشيخوف",
+        "نيكولاي غوغل"
+      ]
+    },
+    "es": {
+      "q": "¿Quién escribió la obra maestra psicológica 'Crimen y castigo'?",
+      "c": [
+        "Fiódor Dostoyevski",
+        "León Tolstói",
+        "Antón Chéjov",
+        "Nikolái Gógol"
+      ]
+    },
+    "pt": {
+      "q": "Quem escreveu a obra-prima psicológica 'Crime e Castigo'?",
+      "c": [
+        "Fyodor Dostoevsky",
+        "Leo Tolstoy",
+        "Anton Chekhov",
+        "Nikolai Gogol"
+      ]
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Quel auteur a écrit « Le Comte de Monte-Cristo » ?",
+      "choices": [
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Honoré de Balzac",
+        "Émile Zola"
+      ],
+      "explanation": "« Le Comte de Monte-Cristo » est un roman d'Alexandre Dumas publié en 1844."
+    },
+    "en": {
+      "q": "Which author wrote 'The Count of Monte Cristo'?",
+      "choices": [
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Honoré de Balzac",
+        "Émile Zola"
+      ],
+      "explanation": "'The Count of Monte Cristo' is a novel by Alexandre Dumas published in 1844."
+    },
+    "a": 1,
+    "image": null,
+    "ar": {
+      "q": "من هو المؤلف الذي كتب رواية «كونت مونت كريستو»؟",
+      "choices": [
+        "فيكتور هوغو",
+        "ألكسندر دوما",
+        "أونوريه دي بلزاك",
+        "إيميل زولا"
+      ],
+      "explanation": "«كونت مونت كريستو» هي رواية لألكسندر دوما نُشرت عام 1844."
+    },
+    "es": {
+      "q": "¿Qué autor escribió «El conde de Montecristo»?",
+      "choices": [
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Honoré de Balzac",
+        "Émile Zola"
+      ],
+      "explanation": "«El conde de Montecristo» es una novela de Alexandre Dumas publicada en 1844."
+    },
+    "pt": {
+      "q": "Qual autor escreveu «O Conde de Monte Cristo»?",
+      "choices": [
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Honoré de Balzac",
+        "Émile Zola"
+      ],
+      "explanation": "«O Conde de Monte Cristo» é um romance de Alexandre Dumas publicado em 1844."
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Quel dramaturge est l'auteur de la pièce « Le Misanthrope » ?",
+      "choices": [
+        "Molière",
+        "Jean Racine",
+        "Pierre Corneille",
+        "Voltaire"
+      ],
+      "explanation": "« Le Misanthrope » est une comédie de Molière créée en 1666."
+    },
+    "en": {
+      "q": "Which playwright is the author of the play 'The Misanthrope'?",
+      "choices": [
+        "Molière",
+        "Jean Racine",
+        "Pierre Corneille",
+        "Voltaire"
+      ],
+      "explanation": "'The Misanthrope' is a comedy by Molière premiered in 1666."
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "من هو الكاتب المسرحي مؤلف مسرحية «الكره للبشر» (أنسة كاره البشر)؟",
+      "choices": [
+        "مولير",
+        "جان راسين",
+        "بيير كورناي",
+        "فولتير"
+      ],
+      "explanation": "«الكره للبشر» هي كوميديا لمولير عُرضت لأول مرة عام 1666."
+    },
+    "es": {
+      "q": "¿Qué dramaturgo es el autor de la obra «El misántropo»?",
+      "choices": [
+        "Molière",
+        "Jean Racine",
+        "Pierre Corneille",
+        "Voltaire"
+      ],
+      "explanation": "«El misántropo» es una comedia de Molière estrenada en 1666."
+    },
+    "pt": {
+      "q": "Qual dramaturgo é o autor da peça «O Misantropo»?",
+      "choices": [
+        "Molière",
+        "Jean Racine",
+        "Pierre Corneille",
+        "Voltaire"
+      ],
+      "explanation": "«O Misantropo» é uma comédia de Molière estreada em 1666."
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Quel roman célèbre de Victor Hugo met en scène le personnage de Quasimodo ?",
+      "choices": [
+        "Les Misérables",
+        "Notre-Dame de Paris",
+        "L'Homme qui rit",
+        "Quatre-vingt-treize"
+      ],
+      "explanation": "Quasimodo est le célèbre sonneur de cloches bossu de « Notre-Dame de Paris » (1831)."
+    },
+    "en": {
+      "q": "Which famous novel by Victor Hugo features the character Quasimodo?",
+      "choices": [
+        "Les Misérables",
+        "The Hunchback of Notre-Dame",
+        "The Man Who Laughs",
+        "Ninety-Three"
+      ],
+      "explanation": "Quasimodo is the famous hunchbacked bell-ringer in 'The Hunchback of Notre-Dame' (1831)."
+    },
+    "a": 1,
+    "image": null,
+    "ar": {
+      "q": "ما هي الرواية الشهيرة لفيكتور هوغو التي تضم شخصية كوازيمودو؟",
+      "choices": [
+        "البؤساء",
+        "أحدب نوتردام",
+        "الرجل الذي يضحك",
+        "فترة التسعين"
+      ],
+      "explanation": "كوازيمودو هو ناقوس الأجراس الأحدب الشهير في رواية «أحدب نوتردام» (1831)."
+    },
+    "es": {
+      "q": "¿Qué famosa novela de Victor Hugo presenta al personaje de Quasimodo?",
+      "choices": [
+        "Los miserables",
+        "Nuestra Señora de París",
+        "El hombre que ríe",
+        "Noventa y tres"
+      ],
+      "explanation": "Quasimodo es el famoso campanero jorobado de «Nuestra Señora de París» (1831)."
+    },
+    "pt": {
+      "q": "Qual famoso romance de Victor Hugo apresenta o personagem Quasímodo?",
+      "choices": [
+        "Os Miseráveis",
+        "O Corcunda de Notre-Dame",
+        "O Homem que Ri",
+        "Noventa e Três"
+      ],
+      "explanation": "Quasímodo é o famoso sineiro corcunda de «O Corcunda de Notre-Dame» (1831)."
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Qui a écrit le recueil de contes philosophiques « Candide » ?",
+      "choices": [
+        "Jean-Jacques Rousseau",
+        "Denis Diderot",
+        "Voltaire",
+        "Montesquieu"
+      ],
+      "explanation": "« Candide ou l'Optimisme » est un conte philosophique de Voltaire publié en 1759."
+    },
+    "en": {
+      "q": "Who wrote the philosophical tale collection 'Candide'?",
+      "choices": [
+        "Jean-Jacques Rousseau",
+        "Denis Diderot",
+        "Voltaire",
+        "Montesquieu"
+      ],
+      "explanation": "'Candide' is a philosophical tale by Voltaire published in 1759."
+    },
+    "a": 2,
+    "image": null,
+    "ar": {
+      "q": "من كتب مجموعة الحكايات الفلسفية «كانديد»؟",
+      "choices": [
+        "جان جاك روسو",
+        "دينيس ديدرو",
+        "فولتير",
+        "مونتسكيو"
+      ],
+      "explanation": "«كانديد أو التفاؤل» هي حكاية فلسفية لفولتير نُشرت عام 1759."
+    },
+    "es": {
+      "q": "¿Quién escribió el cuento filosófico «Cándido»?",
+      "choices": [
+        "Jean-Jacques Rousseau",
+        "Denis Diderot",
+        "Voltaire",
+        "Montesquieu"
+      ],
+      "explanation": "«Cándido, o el optimismo» es un cuento filosófico de Voltaire publicado en 1759."
+    },
+    "pt": {
+      "q": "Quem escreveu o conto filosófico «Cândido»?",
+      "choices": [
+        "Jean-Jacques Rousseau",
+        "Denis Diderot",
+        "Voltaire",
+        "Montesquieu"
+      ],
+      "explanation": "«Cândido ou o Otimismo» é um conto filosófico de Voltaire publicado em 1759."
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Quel poète français est l'auteur du recueil « Alcools » (1913) ?",
+      "choices": [
+        "Paul Verlaine",
+        "Guillaume Apollinaire",
+        "Arthur Rimbaud",
+        "Charles Baudelaire"
+      ],
+      "explanation": "« Alcools » est un recueil de poèmes de Guillaume Apollinaire marqué par la modernité."
+    },
+    "en": {
+      "q": "Which French poet is the author of the collection 'Alcools' (1913)?",
+      "choices": [
+        "Paul Verlaine",
+        "Guillaume Apollinaire",
+        "Arthur Rimbaud",
+        "Charles Baudelaire"
+      ],
+      "explanation": "'Alcools' is a poetry collection by Guillaume Apollinaire marked by modernity."
+    },
+    "a": 1,
+    "image": null,
+    "ar": {
+      "q": "من هو الشاعر الفرنسي مؤلف ديوان «كحول» (1913)؟",
+      "choices": [
+        "بول فيرلين",
+        "غيوم أبولينير",
+        "آرثر رامبو",
+        "شارل بودلير"
+      ],
+      "explanation": "«كحول» هو ديوان شعري لغيوم أبولينير يتسم بالحداثة."
+    },
+    "es": {
+      "q": "¿Qué poeta francés es el autor del poemario «Alcoholes» (1913)?",
+      "choices": [
+        "Paul Verlaine",
+        "Guillaume Apollinaire",
+        "Arthur Rimbaud",
+        "Charles Baudelaire"
+      ],
+      "explanation": "«Alcoholes» es un poemario de Guillaume Apollinaire caracterizado por la modernidad."
+    },
+    "pt": {
+      "q": "Qual poeta francês é o autor da coletânea «Alcoóis» (1913)?",
+      "choices": [
+        "Paul Verlaine",
+        "Guillaume Apollinaire",
+        "Arthur Rimbaud",
+        "Charles Baudelaire"
+      ],
+      "explanation": "«Alcoóis» é uma coletânea de poemas de Guillaume Apollinaire marcada pela modernidade."
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Quel auteur a écrit le roman « Madame Bovary » ?",
+      "choices": [
+        "Gustave Flaubert",
+        "Stendhal",
+        "Guy de Maupassant",
+        "Émile Zola"
+      ],
+      "explanation": "« Madame Bovary » est un chef-d'œuvre réaliste de Gustave Flaubert publié en 1857."
+    },
+    "en": {
+      "q": "Which author wrote the novel 'Madame Bovary'?",
+      "choices": [
+        "Gustave Flaubert",
+        "Stendhal",
+        "Guy de Maupassant",
+        "Émile Zola"
+      ],
+      "explanation": "'Madame Bovary' is a realist masterpiece by Gustave Flaubert published in 1857."
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "من هو المؤلف الذي كتب رواية «مدام بوفاري»؟",
+      "choices": [
+        "غوستاف فلوبير",
+        "ستاندال",
+        "غي دي موباسان",
+        "إيميل زولا"
+      ],
+      "explanation": "«مدام بوفاري» هي تحفة واقعية لغوستاف فلوبير نُشرت عام 1857."
+    },
+    "es": {
+      "q": "¿Qué autor escribió la novela «Madame Bovary»?",
+      "choices": [
+        "Gustave Flaubert",
+        "Stendhal",
+        "Guy de Maupassant",
+        "Émile Zola"
+      ],
+      "explanation": "«Madame Bovary» es una obra maestra realista de Gustave Flaubert publicada en 1857."
+    },
+    "pt": {
+      "q": "Qual autor escreveu o romance «Madame Bovary»?",
+      "choices": [
+        "Gustave Flaubert",
+        "Stendhal",
+        "Guy de Maupassant",
+        "Émile Zola"
+      ],
+      "explanation": "«Madame Bovary» é uma obra-prima realista de Gustave Flaubert publicada em 1857."
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Quel écrivain est le chef de file du mouvement naturaliste avec sa fresque « Les Rougon-Macquart » ?",
+      "choices": [
+        "Alphonse Daudet",
+        "Émile Zola",
+        "Honoré de Balzac",
+        "Jules Verne"
+      ],
+      "explanation": "Émile Zola a écrit la série de 20 romans « Les Rougon-Macquart » pour illustrer le naturalisme."
+    },
+    "en": {
+      "q": "Which writer is the leader of the naturalist movement with his series 'The Rougon-Macquart'?",
+      "choices": [
+        "Alphonse Daudet",
+        "Émile Zola",
+        "Honoré de Balzac",
+        "Jules Verne"
+      ],
+      "explanation": "Émile Zola wrote the 20-novel series 'The Rougon-Macquart' to illustrate naturalism."
+    },
+    "a": 1,
+    "image": null,
+    "ar": {
+      "q": "من هو الكاتب الذي يعتبر رائد الحركة الطبيعية بسلسلته الروائية «الروغون ماكار»؟",
+      "choices": [
+        "ألفونس دوديه",
+        "إيميل زولا",
+        "أونوريه دي بلزاك",
+        "جول فيرن"
+      ],
+      "explanation": "كتب إيميل زولا سلسلة مكونة من 20 رواية بعنوان «الروغون ماكار» لتجسيد المذهب الطبيعي."
+    },
+    "es": {
+      "q": "¿Qué escritor es el líder del movimiento naturalista con su serie «Los Rougon-Macquart»?",
+      "choices": [
+        "Alphonse Daudet",
+        "Émile Zola",
+        "Honoré de Balzac",
+        "Jules Verne"
+      ],
+      "explanation": "Émile Zola escribió la serie de 20 novelas «Los Rougon-Macquart» para ilustrar el naturalismo."
+    },
+    "pt": {
+      "q": "Qual escritor é o líder do movimento naturalista com sua série «Os Rougon-Macquart»?",
+      "choices": [
+        "Alphonse Daudet",
+        "Émile Zola",
+        "Honoré de Balzac",
+        "Jules Verne"
+      ],
+      "explanation": "Émile Zola escreveu a série de 20 romances «Os Rougon-Macquart» para ilustrar o naturalismo."
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Quel poète est l'auteur du célèbre sonnet « Voyelles » ?",
+      "choices": [
+        "Charles Baudelaire",
+        "Paul Verlaine",
+        "Arthur Rimbaud",
+        "Stéphane Mallarmé"
+      ],
+      "explanation": "« Voyelles » est un célèbre sonnet écrit par Arthur Rimbaud qui associe des couleurs aux voyelles."
+    },
+    "en": {
+      "q": "Which poet is the author of the famous sonnet 'Vowels' (Voyelles)?",
+      "choices": [
+        "Charles Baudelaire",
+        "Paul Verlaine",
+        "Arthur Rimbaud",
+        "Stéphane Mallarmé"
+      ],
+      "explanation": "'Vowels' is a famous sonnet written by Arthur Rimbaud associating colors with vowels."
+    },
+    "a": 2,
+    "image": null,
+    "ar": {
+      "q": "من هو الشاعر مؤلف القصيدة الشهيرة «حروف العلة» (Voyelles)؟",
+      "choices": [
+        "شارل بودلير",
+        "بول فيرلين",
+        "آرثر رامبو",
+        "ستيفان مالارميه"
+      ],
+      "explanation": "«حروف العلة» هي قصيدة شهيرة كتبها آرثر رامبو تربط بين الألوان وحروف العلة."
+    },
+    "es": {
+      "q": "¿Qué poeta es el autor del famoso soneto «Vocales»?",
+      "choices": [
+        "Charles Baudelaire",
+        "Paul Verlaine",
+        "Arthur Rimbaud",
+        "Stéphane Mallarmé"
+      ],
+      "explanation": "«Vocales» es un famoso soneto escrito por Arthur Rimbaud que asocia colores con las vocales."
+    },
+    "pt": {
+      "q": "Qual poeta é o autor do famoso soneto «Vogais»?",
+      "choices": [
+        "Charles Baudelaire",
+        "Paul Verlaine",
+        "Arthur Rimbaud",
+        "Stéphane Mallarmé"
+      ],
+      "explanation": "«Vogais» é um famoso soneto escrito por Arthur Rimbaud que associa cores às vogais."
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Quel auteur a écrit « Le Petit Prince », l'un des livres les plus luttés et traduits au monde ?",
+      "choices": [
+        "Antoine de Saint-Exupéry",
+        "Jules Verne",
+        "Albert Camus",
+        "Marcel Pagnol"
+      ],
+      "explanation": "« Le Petit Prince » a été écrit et illustré par Antoine de Saint-Exupéry et publié en 1943."
+    },
+    "en": {
+      "q": "Which author wrote 'The Little Prince', one of the most read and translated books in the world?",
+      "choices": [
+        "Antoine de Saint-Exupéry",
+        "Jules Verne",
+        "Albert Camus",
+        "Marcel Pagnol"
+      ],
+      "explanation": "'The Little Prince' was written and illustrated by Antoine de Saint-Exupéry and published in 1943."
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "من هو المؤلف الذي كتب «الأمير الصغير»، أحد أكثر الكتب قراءة وترجمة في العالم؟",
+      "choices": [
+        "أنطوان دو سانت إكزوبيري",
+        "جول فيرن",
+        "ألبير كامو",
+        "مارسيل بانيول"
+      ],
+      "explanation": "كتب ورسم «الأمير الصغير» أنطوان دو سانت إكزوبيري ونُشر عام 1943."
+    },
+    "es": {
+      "q": "¿Qué autor escribió «El principito», uno de los libros más leídos y traducidos del mundo?",
+      "choices": [
+        "Antoine de Saint-Exupéry",
+        "Jules Verne",
+        "Albert Camus",
+        "Marcel Pagnol"
+      ],
+      "explanation": "«El principito» fue escrito e ilustrado por Antoine de Saint-Exupéry y publicado en 1943."
+    },
+    "pt": {
+      "q": "Qual autor escreveu «O Pequeno Príncipe», um dos livros mais lidos e traduzidos do mundo?",
+      "choices": [
+        "Antoine de Saint-Exupéry",
+        "Jules Verne",
+        "Albert Camus",
+        "Marcel Pagnol"
+      ],
+      "explanation": "«O Pequeno Príncipe» foi escrito e ilustrado por Antoine de Saint-Exupéry e publicado em 1943."
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Quel philosophe et écrivain est l'auteur de « L'Étranger » (1942) ?",
+      "choices": [
+        "Jean-Paul Sartre",
+        "Albert Camus",
+        "Simone de Beauvoir",
+        "Maurice Merleau-Ponty"
+      ],
+      "explanation": "« L'Étranger » est un roman emblématique de l'absurde écrit par Albert Camus."
+    },
+    "en": {
+      "q": "Which philosopher and writer is the author of 'The Stranger' (1942)?",
+      "choices": [
+        "Jean-Paul Sartre",
+        "Albert Camus",
+        "Simone de Beauvoir",
+        "Maurice Merleau-Ponty"
+      ],
+      "explanation": "'The Stranger' is an iconic novel of the absurd written by Albert Camus."
+    },
+    "a": 1,
+    "image": null,
+    "ar": {
+      "q": "من هو الفيلسوف والكاتب مؤلف رواية «الغريب» (1942)؟",
+      "choices": [
+        "جان بول سارتر",
+        "ألبير كامو",
+        "سيمون دي بفوار",
+        "موريس ميرلوبونتي"
+      ],
+      "explanation": "«الغريب» هي رواية رمزية عن العبث كتبها ألبير كامو."
+    },
+    "es": {
+      "q": "¿Qué filósofo y escritor es el autor de «El extranjero» (1942)?",
+      "choices": [
+        "Jean-Paul Sartre",
+        "Albert Camus",
+        "Simone de Beauvoir",
+        "Maurice Merleau-Ponty"
+      ],
+      "explanation": "«El extranjero» es una novela emblemática del absurdo escrita por Albert Camus."
+    },
+    "pt": {
+      "q": "Qual filósofo e escritor é o autor de «O Estrangeiro» (1942)?",
+      "choices": [
+        "Jean-Paul Sartre",
+        "Albert Camus",
+        "Simone de Beauvoir",
+        "Maurice Merleau-Ponty"
+      ],
+      "explanation": "«O Estrangeiro» é um romance emblemático do absurdo escrito por Albert Camus."
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Dans le dessin animé de Disney, quelle princesse perd sa pantoufle de verre en s'enfuyant du bal ?",
+      "choices": [
+        "Blanche-Neige",
+        "Cendrillon",
+        "La Belle au bois dormant",
+        "Ariel"
+      ],
+      "explanation": "Cendrillon perd sa célèbre pantoufle de verre en fuyant le palais à minuit."
+    },
+    "en": {
+      "q": "In the Disney cartoon, which princess loses her glass slipper while fleeing the ball?",
+      "choices": [
+        "Snow White",
+        "Cinderella",
+        "Sleeping Beauty",
+        "Ariel"
+      ],
+      "explanation": "Cinderella loses her famous glass slipper when fleeing the palace at midnight."
+    },
+    "a": 1,
+    "image": null,
+    "ar": {
+      "q": "في رسوم ديزني المتحركة، أي أميرة تفقد حذاءها الزجاجي أثناء هربها من الحفلة؟",
+      "choices": [
+        "سنو وايت (بياض الثلج)",
+        "سندريلا",
+        "الجميلة النائمة",
+        "أرييل"
+      ],
+      "explanation": "تفقد سندريلا حذاءها الزجاجي الشهير وهي تهرب من القصر عند منتصف الليل."
+    },
+    "es": {
+      "q": "En los dibujos animados de Disney, ¿qué princesa pierde su zapato de cristal al huir del baile?",
+      "choices": [
+        "Blancanieves",
+        "Cenicienta",
+        "La Bella Durmiente",
+        "Ariel"
+      ],
+      "explanation": "Cenicienta pierde su famoso zapato de cristal al huir del palacio a medianoche."
+    },
+    "pt": {
+      "q": "No desenho animado da Disney, qual princesa perde seu sapatinho de cristal ao fugir do baile?",
+      "choices": [
+        "Branca de Neve",
+        "Cinderela",
+        "A Bela Adormecida",
+        "Ariel"
+      ],
+      "explanation": "Cinderela perde seu famoso sapatinho de cristal ao fugir do palácio à meia-noite."
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Quel animal espiègle et farceur est le héros du dessin animé « Tom et Jerry » avec la souris Jerry ?",
+      "choices": [
+        "Un chien",
+        "Un chat",
+        "Un lapin",
+        "Un canard"
+      ],
+      "explanation": "Tom est le chat qui essaie constamment d'attraper la souris Jerry."
+    },
+    "en": {
+      "q": "What playful and mischievous animal is the hero of the cartoon 'Tom and Jerry' along with Jerry the mouse?",
+      "choices": [
+        "A dog",
+        "A cat",
+        "A rabbit",
+        "A duck"
+      ],
+      "explanation": "Tom is the cat who constantly tries to catch Jerry the mouse."
+    },
+    "a": 1,
+    "image": null,
+    "ar": {
+      "q": "ما هو الحيوان المشاغب بطل رسوم «توم وجيري» إلى جانب الفأر جيري؟",
+      "choices": [
+        "كلب",
+        "قط",
+        "أرنب",
+        "بطة"
+      ],
+      "explanation": "توم هو القط الذي يحاول دائماً الإمساك بالفأر جيري."
+    },
+    "es": {
+      "q": "¿Qué animal juguetón y travieso es el héroe del dibujo animado «Tom y Jerry» junto con el ratón Jerry?",
+      "choices": [
+        "Un perro",
+        "Un gato",
+        "Un conejo",
+        "Un pato"
+      ],
+      "explanation": "Tom es el gato que intenta constantemente atrapar al ratón Jerry."
+    },
+    "pt": {
+      "q": "Qual animal brincalhão e travesso é o herói do desenho «Tom e Jerry» junto com o ratinho Jerry?",
+      "choices": [
+        "Um cachorro",
+        "Um gato",
+        "Um coelho",
+        "Um pato"
+      ],
+      "explanation": "Tom é o gato que tenta constantemente pegar o ratinho Jerry."
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Dans le conte, quel personnage a un long nez qui s'allonge chaque fois qu'il ment ?",
+      "choices": [
+        "Peter Pan",
+        "Aladin",
+        "Pinocchio",
+        "Tarzan"
+      ],
+      "explanation": "Pinocchio est la marionnette de bois dont le nez grandit quand il dit des mensonges."
+    },
+    "en": {
+      "q": "In the tale, which character has a long nose that grows every time he tells a lie?",
+      "choices": [
+        "Peter Pan",
+        "Aladdin",
+        "Pinocchio",
+        "Tarzan"
+      ],
+      "explanation": "Pinocchio is the wooden puppet whose nose grows when he tells lies."
+    },
+    "a": 2,
+    "image": null,
+    "ar": {
+      "q": "في القصة، من هي الشخصية التي يطول أنفها كلما كذبت؟",
+      "choices": [
+        "بيتر بان",
+        "علاء الدين",
+        "بينوكيو",
+        "طرزان"
+      ],
+      "explanation": "بينوكيو هو الدمية الخشبية التي يطول أنفها عندما تقول أكاذيب."
+    },
+    "es": {
+      "q": "En el cuento, ¿qué personaje tiene una nariz larga que crece cada vez que dice una mentira?",
+      "choices": [
+        "Peter Pan",
+        "Aladdín",
+        "Pinocho",
+        "Tarzán"
+      ],
+      "explanation": "Pinocho es el títere de madera cuya nariz crece cuando dice mentiras."
+    },
+    "pt": {
+      "q": "No conto, qual personagem tem um nariz comprido que cresce toda vez que ele conta uma mentira?",
+      "choices": [
+        "Peter Pan",
+        "Aladim",
+        "Pinocchio",
+        "Tarzan"
+      ],
+      "explanation": "Pinóquio é o boneco de madeira cujo nariz cresce quando ele conta mentiras."
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Quelle petite fille aux cheveux blonds entre dans la maison des Trois Ours ?",
+      "choices": [
+        "Alice au pays des merveilles",
+        "Boucles d'or",
+        "Le Chaperon rouge",
+        "Cendrillon"
+      ],
+      "explanation": "Il s'agit du conte classique « Boucles d'or et les Trois Ours »."
+    },
+    "en": {
+      "q": "What little blonde girl enters the house of the Three Bears?",
+      "choices": [
+        "Alice in Wonderland",
+        "Goldilocks",
+        "Little Red Riding Hood",
+        "Cinderella"
+      ],
+      "explanation": "This is from the classic tale 'Goldilocks and the Three Bears'."
+    },
+    "a": 1,
+    "image": null,
+    "ar": {
+      "q": "من هي الفتاة الصغيرة ذات الشعر الأشقر التي دخلت منزل الدببة الثلاثة؟",
+      "choices": [
+        "أليس في بلاد العجائب",
+        "غولديلوكس (الذهبية / ذات الشعر الذهبي)",
+        "ذات الرداء الأحمر",
+        "سندريلا"
+      ],
+      "explanation": "هذه القصة مأخوذة من الحكاية الكلاسيكية «الذهبية والدببة الثلاثة»."
+    },
+    "es": {
+      "q": "¿Qué niña rubia entra en la casa de los Tres Osos?",
+      "choices": [
+        "Alicia en el país de las maravillas",
+        "Ricitos de Oro",
+        "Caperucita Roja",
+        "Cenicienta"
+      ],
+      "explanation": "Se trata del cuento clásico «Ricitos de Oro y los tres osos»."
+    },
+    "pt": {
+      "q": "Qual loirinha entra na casa dos Três Ursos?",
+      "choices": [
+        "Alice no País das Maravilhas",
+        "Cachinhos Dourados",
+        "Chapeuzinho Vermelho",
+        "Cinderela"
+      ],
+      "explanation": "Trata-se do conto clássico «Cachinhos Dourados e os Três Ursos»."
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "De quelle couleur est le célèbre Pokémon Pikachu ?",
+      "choices": [
+        "Bleu",
+        "Rouge",
+        "Jaune",
+        "Vert"
+      ],
+      "explanation": "Pikachu est une petite créature électrique de couleur jaune."
+    },
+    "en": {
+      "q": "What color is the famous Pokémon Pikachu?",
+      "choices": [
+        "Blue",
+        "Red",
+        "Yellow",
+        "Green"
+      ],
+      "explanation": "Pikachu is a small yellow electric creature."
+    },
+    "a": 2,
+    "image": null,
+    "ar": {
+      "q": "ما هو لون بوكيمون بيكاتشو الشهير؟",
+      "choices": [
+        "أزرق",
+        "أحمر",
+        "أصفر",
+        "أخضر"
+      ],
+      "explanation": "بيكاتشو هو مخلوق كهربائي صغير لونه أصفر."
+    },
+    "es": {
+      "q": "¿De qué color es el famoso Pokémon Pikachu?",
+      "choices": [
+        "Azul",
+        "Rojo",
+        "Amarillo",
+        "Verde"
+      ],
+      "explanation": "Pikachu es una pequeña criatura eléctrica de color amarillo."
+    },
+    "pt": {
+      "q": "Qual é a cor do famoso Pokémon Pikachu?",
+      "choices": [
+        "Azul",
+        "Vermelho",
+        "Amarelo",
+        "Verde"
+      ],
+      "explanation": "Pikachu é uma pequena criatura elétrica de cor amarela."
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Quel super-héros porte un costume rouge et bleu avec une toile d'araignée ?",
+      "choices": [
+        "Batman",
+        "Superman",
+        "Spider-Man",
+        "Iron Man"
+      ],
+      "explanation": "Spider-Man (L'Homme-Araignée) est connu pour son costume rouge et bleu et ses toiles."
+    },
+    "en": {
+      "q": "Which superhero wears a red and blue costume with a spiderweb pattern?",
+      "choices": [
+        "Batman",
+        "Superman",
+        "Spider-Man",
+        "Iron Man"
+      ],
+      "explanation": "Spider-Man is known for his red and blue suit and web-slinging abilities."
+    },
+    "a": 2,
+    "image": null,
+    "ar": {
+      "q": "من هو البطل الخارق الذي يرتدي زياً أحمر وأزرق مرسوماً عليه شبكة عنكبوت؟",
+      "choices": [
+        "باتمان (الرجل الوطواط)",
+        "سوبرمان",
+        "سبايدر مان (رجل العنكبوت)",
+        "آيرون مان (الرجل الحديدي)"
+      ],
+      "explanation": "سبايدر مان معروف بزيّه الأحمر والأزرق وقدرته على إطلاق الشباك."
+    },
+    "es": {
+      "q": "¿Qué superhéroe viste un traje rojo y azul con un patrón de telaraña?",
+      "choices": [
+        "Batman",
+        "Superman",
+        "Spider-Man",
+        "Iron Man"
+      ],
+      "explanation": "Spider-Man es conocido por su traje rojo y azul y sus telarañas."
+    },
+    "pt": {
+      "q": "Qual super-herói usa um traje vermelho e azul com um padrão de teia de aranha?",
+      "choices": [
+        "Batman",
+        "Superman",
+        "Homem-Aranha",
+        "Homem de Ferro"
+      ],
+      "explanation": "O Homem-Aranha é conhecido por seu traje vermelho e azul e suas teias."
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Dans le film d'animation « Le Roi Lion », quel est le nom du jeune lionceau héros de l'histoire ?",
+      "choices": [
+        "Mufasa",
+        "Simba",
+        "Scar",
+        "Timon"
+      ],
+      "explanation": "Simba est le jeune lionceau qui grandit pour devenir le roi de la savane."
+    },
+    "en": {
+      "q": "In the animated film 'The Lion King', what is the name of the young lion cub hero of the story?",
+      "choices": [
+        "Mufasa",
+        "Simba",
+        "Scar",
+        "Timon"
+      ],
+      "explanation": "Simba is the young lion cub who grows up to become king of the savannah."
+    },
+    "a": 1,
+    "image": null,
+    "ar": {
+      "q": "في فيلم الرسوم المتحركة «الأسد الملك»، ما هو اسم شبل الأسد الصغير بطل القصة؟",
+      "choices": [
+        "موفاسا",
+        "سيمبا",
+        "سكار",
+        "تيمون"
+      ],
+      "explanation": "سيمبا هو شبل الأسد الصغير الذي يكبر ليصبح ملك السافانا."
+    },
+    "es": {
+      "q": "En la película de animación «El rey león», ¿cómo se llama el joven cachorro de león protagonista de la historia?",
+      "choices": [
+        "Mufasa",
+        "Simba",
+        "Scar",
+        "Timon"
+      ],
+      "explanation": "Simba es el joven cachorro de león que crece para convertirse en el rey de la sabana."
+    },
+    "pt": {
+      "q": "No filme de animação «O Rei Leão», qual é o nome do jovem filhote de leão herói da história?",
+      "choices": [
+        "Mufasa",
+        "Simba",
+        "Scar",
+        "Timon"
+      ],
+      "explanation": "Simba é o jovem filhote de leão que cresce para se tornar o rei da savana."
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Quel bonhomme de neige attachant et rigolo prend vie dans le dessin animé de Disney « La Reine des neiges » ?",
+      "choices": [
+        "Kristoff",
+        "Olaf",
+        "Sven",
+        "Hans"
+      ],
+      "explanation": "Olaf est le bonhomme de neige fan d'été créé par la magie d'Elsa."
+    },
+    "en": {
+      "q": "What endearing and funny snowman comes to life in the Disney cartoon 'Frozen'?",
+      "choices": [
+        "Kristoff",
+        "Olaf",
+        "Sven",
+        "Hans"
+      ],
+      "explanation": "Olaf is the summer-loving snowman brought to life by Elsa's magic."
+    },
+    "a": 1,
+    "image": null,
+    "ar": {
+      "q": "ما هو اسم رجل الثلج المحبوب والمضحك الذي يدب فيه الحياة في رسوم ديزني «ملكة الثلج» (Frozen)؟",
+      "choices": [
+        "كريستوف",
+        "أولاف",
+        "سفين",
+        "هانس"
+      ],
+      "explanation": "أولاف هو رجل الثلج المحب للصيف والذي صنعته سحر إلسا."
+    },
+    "es": {
+      "q": "¿Qué muñeco de nieve entrañable y divertido cobra vida en la película de Disney «Frozen: El reino del hielo»?",
+      "choices": [
+        "Kristoff",
+        "Olaf",
+        "Sven",
+        "Hans"
+      ],
+      "explanation": "Olaf es el muñeco de nieve amante del verano creado por la magia de Elsa."
+    },
+    "pt": {
+      "q": "Qual boneco de neve fofo e engraçado ganha vida no desenho da Disney «Frozen»?",
+      "choices": [
+        "Kristoff",
+        "Olaf",
+        "Sven",
+        "Hans"
+      ],
+      "explanation": "Olaf é o boneco de neve fã do verão criado pela magia de Elsa."
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Dans le conte des Frères Grimm, de quelle couleur est le petit chaperon que porte la fillette ?",
+      "choices": [
+        "Bleu",
+        "Vert",
+        "Rouge",
+        "Jaune"
+      ],
+      "explanation": "Elle est connue sous le nom du « Petit Chaperon rouge » en raison de sa cape rouge."
+    },
+    "en": {
+      "q": "In the Brothers Grimm tale, what color is the little hood worn by the young girl?",
+      "choices": [
+        "Blue",
+        "Green",
+        "Red",
+        "Yellow"
+      ],
+      "explanation": "She is known as 'Little Red Riding Hood' because of her red cape."
+    },
+    "a": 2,
+    "image": null,
+    "ar": {
+      "q": "في قصة الأخوان غريم، ما هو لون الغطاء (الرداء) الذي ترتديه الفتاة الصغيرة؟",
+      "choices": [
+        "أزرق",
+        "أخضر",
+        "أحمر",
+        "أصفر"
+      ],
+      "explanation": "تُعرف بـ «ذات الرداء الأحمر» بسبب عباءتها الحمراء."
+    },
+    "es": {
+      "q": "En el cuento de los hermanos Grimm, ¿de qué color es la pequeña capa que lleva la niña?",
+      "choices": [
+        "Azul",
+        "Verde",
+        "Rojo",
+        "Amarillo"
+      ],
+      "explanation": "Se le conoce como «Caperucita Roja» debido a su capa roja."
+    },
+    "pt": {
+      "q": "No conto dos Irmãos Grimm, qual é a cor do capuz que a menina usa?",
+      "choices": [
+        "Azul",
+        "Verde",
+        "Vermelho",
+        "Amarelo"
+      ],
+      "explanation": "Ela é conhecida como «Chapeuzinho Vermelho» por causa de sua capa vermelha."
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Quel célèbre petit poisson orange aux nageoires inégales est le héros du film d'animation de Pixar « Le Monde de Nemo » ?",
+      "choices": [
+        "Dory",
+        "Nemo",
+        "Marin",
+        "الملك لوي"
+      ],
+      "explanation": "Nemo est le petit poisson-clown intrépide dont l'histoire a conquis le monde."
+    },
+    "en": {
+      "q": "What famous little orange fish with unequal fins is the hero of the Pixar animated film 'Finding Nemo'?",
+      "choices": [
+        "Dory",
+        "Nemo",
+        "Marlin",
+        "Gill"
+      ],
+      "explanation": "Nemo is the fearless little clownfish whose story captivated the world."
+    },
+    "a": 1,
+    "image": null,
+    "ar": {
+      "q": "من هو السمكة البرتقالية الصغيرة الشهيرة ذات الزعانف غير المتساوية وبطل فيلم بيكسار «البحث عن نيمو»؟",
+      "choices": [
+        "دوري",
+        "نيمو",
+        "مارلين (الأب)",
+        "جيل"
+      ],
+      "explanation": "نيمو هو سمكة المهرج الصغيرة والشجاعة التي أسرت قصتها العالم."
+    },
+    "es": {
+      "q": "¿Qué famoso pececito naranja con aletas desiguales es el héroe de la película de animación de Pixar «Buscando a Nemo»?",
+      "choices": [
+        "Dory",
+        "Nemo",
+        "Marlin",
+        "Gill"
+      ],
+      "explanation": "Nemo es el intrépido pez payaso cuya historia cautivó al mundo."
+    },
+    "pt": {
+      "q": "Qual famoso peixinho laranja com nadadeiras desiguais é o herói do filme de animação da Pixar «Procurando Nemo»?",
+      "choices": [
+        "Dory",
+        "Nemo",
+        "Marlin",
+        "Gill"
+      ],
+      "explanation": "Nemo é o corajoso peixe-palhaço cuja história conquistou o mundo."
+    },
+    "d": 2
   }
+
+
 ]
