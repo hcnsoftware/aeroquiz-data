@@ -1,605 +1,605 @@
 [
- {
-  "fr": {
-   "q": "Qui a peint la Joconde ?",
-   "c": [
-    "Léonard de Vinci",
-    "Picasso",
-    "Van Gogh",
-    "Monet"
-   ]
+  {
+    "fr": {
+      "q": "Qui a peint la Joconde ?",
+      "c": [
+        "Léonard de Vinci",
+        "Picasso",
+        "Van Gogh",
+        "Monet"
+      ]
+    },
+    "en": {
+      "q": "Who painted the Mona Lisa?",
+      "c": [
+        "Leonardo da Vinci",
+        "Picasso",
+        "Van Gogh",
+        "Monet"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "من رسم الموناليزا؟",
+      "c": [
+        "ليوناردو دا فينشي",
+        "بيكاسو",
+        "فان غوخ",
+        "مونيه"
+      ]
+    },
+    "es": {
+      "q": "¿Quién pintó la Mona Lisa?",
+      "c": [
+        "Leonardo da Vinci",
+        "Picasso",
+        "Van Gogh",
+        "Monet"
+      ]
+    },
+    "pt": {
+      "q": "Quem pintou a Mona Lisa?",
+      "c": [
+        "Leonardo da Vinci",
+        "Picasso",
+        "Van Gogh",
+        "Monet"
+      ]
+    },
+    "d": 1
   },
-  "en": {
-   "q": "Who painted the Mona Lisa?",
-   "c": [
-    "Leonardo da Vinci",
-    "Picasso",
-    "Van Gogh",
-    "Monet"
-   ]
+  {
+    "fr": {
+      "q": "Qui a écrit Les Misérables ?",
+      "c": [
+        "Victor Hugo",
+        "Émile Zola",
+        "Balzac",
+        "Molière"
+      ]
+    },
+    "en": {
+      "q": "Who wrote Les Misérables?",
+      "c": [
+        "Victor Hugo",
+        "Émile Zola",
+        "Balzac",
+        "Molière"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "من كتب «البؤساء»؟",
+      "c": [
+        "فيكتور هوغو",
+        "إميل زولا",
+        "بلزاك",
+        "موليير"
+      ]
+    },
+    "es": {
+      "q": "¿Quién escribió Los miserables?",
+      "c": [
+        "Victor Hugo",
+        "Émile Zola",
+        "Balzac",
+        "Molière"
+      ]
+    },
+    "pt": {
+      "q": "Quem escreveu Os Miseráveis?",
+      "c": [
+        "Victor Hugo",
+        "Émile Zola",
+        "Balzac",
+        "Molière"
+      ]
+    },
+    "d": 2
   },
-  "a": 0,
-  "image": null,
-  "ar": {
-   "q": "من رسم الموناليزا؟",
-   "c": [
-    "ليوناردو دا فينشي",
-    "بيكاسو",
-    "فان غوخ",
-    "مونيه"
-   ]
+  {
+    "fr": {
+      "q": "Qui a écrit « Roméo et Juliette » ?",
+      "c": [
+        "Shakespeare",
+        "Molière",
+        "Victor Hugo",
+        "Dickens"
+      ]
+    },
+    "en": {
+      "q": "Who wrote Romeo and Juliet?",
+      "c": [
+        "Shakespeare",
+        "Molière",
+        "Victor Hugo",
+        "Dickens"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "من كتب «روميو وجولييت»؟",
+      "c": [
+        "شكسبير",
+        "موليير",
+        "فيكتور هوغو",
+        "ديكنز"
+      ]
+    },
+    "es": {
+      "q": "¿Quién escribió Romeo y Julieta?",
+      "c": [
+        "Shakespeare",
+        "Molière",
+        "Victor Hugo",
+        "Dickens"
+      ]
+    },
+    "pt": {
+      "q": "Quem escreveu Romeu e Julieta?",
+      "c": [
+        "Shakespeare",
+        "Molière",
+        "Victor Hugo",
+        "Dickens"
+      ]
+    },
+    "d": 1
   },
-  "es": {
-   "q": "¿Quién pintó la Mona Lisa?",
-   "c": [
-    "Leonardo da Vinci",
-    "Picasso",
-    "Van Gogh",
-    "Monet"
-   ]
+  {
+    "fr": {
+      "q": "Qui a peint « La Nuit étoilée » ?",
+      "c": [
+        "Van Gogh",
+        "Monet",
+        "Munch",
+        "Dalí"
+      ]
+    },
+    "en": {
+      "q": "Who painted The Starry Night?",
+      "c": [
+        "Van Gogh",
+        "Monet",
+        "Munch",
+        "Dalí"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "من رسم «ليلة النجوم»؟",
+      "c": [
+        "فان غوخ",
+        "مونيه",
+        "مونش",
+        "دالي"
+      ]
+    },
+    "es": {
+      "q": "¿Quién pintó La noche estrellada?",
+      "c": [
+        "Van Gogh",
+        "Monet",
+        "Munch",
+        "Dalí"
+      ]
+    },
+    "pt": {
+      "q": "Quem pintou A Noite Estrelada?",
+      "c": [
+        "Van Gogh",
+        "Monet",
+        "Munch",
+        "Dalí"
+      ]
+    },
+    "d": 1
   },
-  "pt": {
-   "q": "Quem pintou a Mona Lisa?",
-   "c": [
-    "Leonardo da Vinci",
-    "Picasso",
-    "Van Gogh",
-    "Monet"
-   ]
+  {
+    "fr": {
+      "q": "Qui a peint « Guernica » ?",
+      "c": [
+        "Picasso",
+        "Dalí",
+        "Miró",
+        "Goya"
+      ]
+    },
+    "en": {
+      "q": "Who painted Guernica?",
+      "c": [
+        "Picasso",
+        "Dalí",
+        "Miró",
+        "Goya"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "من رسم «غرنيكا»؟",
+      "c": [
+        "بيكاسو",
+        "دالي",
+        "ميرو",
+        "غويا"
+      ]
+    },
+    "es": {
+      "q": "¿Quién pintó el Guernica?",
+      "c": [
+        "Picasso",
+        "Dalí",
+        "Miró",
+        "Goya"
+      ]
+    },
+    "pt": {
+      "q": "Quem pintou Guernica?",
+      "c": [
+        "Picasso",
+        "Dalí",
+        "Miró",
+        "Goya"
+      ]
+    },
+    "d": 2
   },
-  "d": 1
- },
- {
-  "fr": {
-   "q": "Qui a écrit Les Misérables ?",
-   "c": [
-    "Victor Hugo",
-    "Émile Zola",
-    "Balzac",
-    "Molière"
-   ]
+  {
+    "a": 2,
+    "image": null,
+    "en": {
+      "q": "How many strings does a standard guitar have?",
+      "c": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "fr": {
+      "q": "Combien de cordes a une guitare classique ?",
+      "c": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "ar": {
+      "q": "كم عدد أوتار الغيتار القياسي؟",
+      "c": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "es": {
+      "q": "¿Cuántas cuerdas tiene una guitarra estándar?",
+      "c": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "pt": {
+      "q": "Quantas cordas tem um violão padrão?",
+      "c": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "d": 1
   },
-  "en": {
-   "q": "Who wrote Les Misérables?",
-   "c": [
-    "Victor Hugo",
-    "Émile Zola",
-    "Balzac",
-    "Molière"
-   ]
+  {
+    "a": 0,
+    "image": null,
+    "en": {
+      "q": "Which instrument has black and white keys?",
+      "c": [
+        "Piano",
+        "Violin",
+        "Flute",
+        "Drums"
+      ]
+    },
+    "fr": {
+      "q": "Quel instrument a des touches noires et blanches ?",
+      "c": [
+        "Le piano",
+        "Le violon",
+        "La flûte",
+        "La batterie"
+      ]
+    },
+    "ar": {
+      "q": "أي آلة موسيقية لها مفاتيح سوداء وبيضاء؟",
+      "c": [
+        "البيانو",
+        "الكمان",
+        "الناي",
+        "الطبول"
+      ]
+    },
+    "es": {
+      "q": "¿Qué instrumento tiene teclas blancas y negras?",
+      "c": [
+        "El piano",
+        "El violín",
+        "La flauta",
+        "La batería"
+      ]
+    },
+    "pt": {
+      "q": "Qual instrumento tem teclas pretas e brancas?",
+      "c": [
+        "O piano",
+        "O violino",
+        "A flauta",
+        "A bateria"
+      ]
+    },
+    "d": 1
   },
-  "a": 0,
-  "image": null,
-  "ar": {
-   "q": "من كتب «البؤساء»؟",
-   "c": [
-    "فيكتور هوغو",
-    "إميل زولا",
-    "بلزاك",
-    "موليير"
-   ]
+  {
+    "a": 0,
+    "image": null,
+    "en": {
+      "q": "Which two colors mix to make green?",
+      "c": [
+        "Blue and yellow",
+        "Red and yellow",
+        "Red and blue",
+        "Blue and white"
+      ]
+    },
+    "fr": {
+      "q": "Quelles deux couleurs mélange-t-on pour obtenir du vert ?",
+      "c": [
+        "Bleu et jaune",
+        "Rouge et jaune",
+        "Rouge et bleu",
+        "Bleu et blanc"
+      ]
+    },
+    "ar": {
+      "q": "أي لونين نمزجهما للحصول على الأخضر؟",
+      "c": [
+        "الأزرق والأصفر",
+        "الأحمر والأصفر",
+        "الأحمر والأزرق",
+        "الأزرق والأبيض"
+      ]
+    },
+    "es": {
+      "q": "¿Qué dos colores se mezclan para obtener verde?",
+      "c": [
+        "Azul y amarillo",
+        "Rojo y amarillo",
+        "Rojo y azul",
+        "Azul y blanco"
+      ]
+    },
+    "pt": {
+      "q": "Quais duas cores se misturam para obter verde?",
+      "c": [
+        "Azul e amarelo",
+        "Vermelho e amarelo",
+        "Vermelho e azul",
+        "Azul e branco"
+      ]
+    },
+    "d": 1
   },
-  "es": {
-   "q": "¿Quién escribió Los miserables?",
-   "c": [
-    "Victor Hugo",
-    "Émile Zola",
-    "Balzac",
-    "Molière"
-   ]
+  {
+    "a": 0,
+    "image": null,
+    "en": {
+      "q": "Who composed The Four Seasons?",
+      "c": [
+        "Vivaldi",
+        "Mozart",
+        "Beethoven",
+        "Bach"
+      ]
+    },
+    "fr": {
+      "q": "Qui a composé « Les Quatre Saisons » ?",
+      "c": [
+        "Vivaldi",
+        "Mozart",
+        "Beethoven",
+        "Bach"
+      ]
+    },
+    "ar": {
+      "q": "من ألّف «الفصول الأربعة»؟",
+      "c": [
+        "فيفالدي",
+        "موتسارت",
+        "بيتهوفن",
+        "باخ"
+      ]
+    },
+    "es": {
+      "q": "¿Quién compuso Las cuatro estaciones?",
+      "c": [
+        "Vivaldi",
+        "Mozart",
+        "Beethoven",
+        "Bach"
+      ]
+    },
+    "pt": {
+      "q": "Quem compôs As Quatro Estações?",
+      "c": [
+        "Vivaldi",
+        "Mozart",
+        "Beethoven",
+        "Bach"
+      ]
+    },
+    "d": 2
   },
-  "pt": {
-   "q": "Quem escreveu Os Miseráveis?",
-   "c": [
-    "Victor Hugo",
-    "Émile Zola",
-    "Balzac",
-    "Molière"
-   ]
+  {
+    "a": 0,
+    "image": null,
+    "en": {
+      "q": "Who painted the ceiling of the Sistine Chapel?",
+      "c": [
+        "Michelangelo",
+        "Raphael",
+        "Donatello",
+        "Leonardo da Vinci"
+      ]
+    },
+    "fr": {
+      "q": "Qui a peint le plafond de la chapelle Sixtine ?",
+      "c": [
+        "Michel-Ange",
+        "Raphaël",
+        "Donatello",
+        "Léonard de Vinci"
+      ]
+    },
+    "ar": {
+      "q": "من رسم سقف كنيسة سيستين؟",
+      "c": [
+        "مايكل أنجلو",
+        "رافائيل",
+        "دوناتيلو",
+        "ليوناردو دا فينشي"
+      ]
+    },
+    "es": {
+      "q": "¿Quién pintó el techo de la Capilla Sixtina?",
+      "c": [
+        "Miguel Ángel",
+        "Rafael",
+        "Donatello",
+        "Leonardo da Vinci"
+      ]
+    },
+    "pt": {
+      "q": "Quem pintou o teto da Capela Sistina?",
+      "c": [
+        "Michelangelo",
+        "Rafael",
+        "Donatello",
+        "Leonardo da Vinci"
+      ]
+    },
+    "d": 2
   },
-  "d": 2
- },
- {
-  "fr": {
-   "q": "Qui a écrit « Roméo et Juliette » ?",
-   "c": [
-    "Shakespeare",
-    "Molière",
-    "Victor Hugo",
-    "Dickens"
-   ]
+  {
+    "a": 0,
+    "image": null,
+    "en": {
+      "q": "Who composed the Ninth Symphony, with the Ode to Joy?",
+      "c": [
+        "Beethoven",
+        "Mozart",
+        "Bach",
+        "Chopin"
+      ]
+    },
+    "fr": {
+      "q": "Qui a composé la Neuvième Symphonie, avec l'Ode à la joie ?",
+      "c": [
+        "Beethoven",
+        "Mozart",
+        "Bach",
+        "Chopin"
+      ]
+    },
+    "ar": {
+      "q": "من ألّف السيمفونية التاسعة التي تتضمن «نشيد الفرح»؟",
+      "c": [
+        "بيتهوفن",
+        "موتسارت",
+        "باخ",
+        "شوبان"
+      ]
+    },
+    "es": {
+      "q": "¿Quién compuso la Novena Sinfonía, con la Oda a la alegría?",
+      "c": [
+        "Beethoven",
+        "Mozart",
+        "Bach",
+        "Chopin"
+      ]
+    },
+    "pt": {
+      "q": "Quem compôs a Nona Sinfonia, com a Ode à Alegria?",
+      "c": [
+        "Beethoven",
+        "Mozart",
+        "Bach",
+        "Chopin"
+      ]
+    },
+    "d": 2
   },
-  "en": {
-   "q": "Who wrote Romeo and Juliet?",
-   "c": [
-    "Shakespeare",
-    "Molière",
-    "Victor Hugo",
-    "Dickens"
-   ]
+  {
+    "a": 0,
+    "image": null,
+    "en": {
+      "q": "In which museum is the Mona Lisa displayed?",
+      "c": [
+        "The Louvre",
+        "The Prado",
+        "The Uffizi",
+        "The British Museum"
+      ]
+    },
+    "fr": {
+      "q": "Dans quel musée la Joconde est-elle exposée ?",
+      "c": [
+        "Le Louvre",
+        "Le Prado",
+        "Les Offices",
+        "Le British Museum"
+      ]
+    },
+    "ar": {
+      "q": "في أي متحف تُعرض الموناليزا؟",
+      "c": [
+        "اللوفر",
+        "البرادو",
+        "أوفيزي",
+        "المتحف البريطاني"
+      ]
+    },
+    "es": {
+      "q": "¿En qué museo se exhibe la Mona Lisa?",
+      "c": [
+        "El Louvre",
+        "El Prado",
+        "Los Uffizi",
+        "El Museo Británico"
+      ]
+    },
+    "pt": {
+      "q": "Em que museu a Mona Lisa está exposta?",
+      "c": [
+        "O Louvre",
+        "O Prado",
+        "A Galeria Uffizi",
+        "O Museu Britânico"
+      ]
+    },
+    "d": 2
   },
-  "a": 0,
-  "image": null,
-  "ar": {
-   "q": "من كتب «روميو وجولييت»؟",
-   "c": [
-    "شكسبير",
-    "موليير",
-    "فيكتور هوغو",
-    "ديكنز"
-   ]
-  },
-  "es": {
-   "q": "¿Quién escribió Romeo y Julieta?",
-   "c": [
-    "Shakespeare",
-    "Molière",
-    "Victor Hugo",
-    "Dickens"
-   ]
-  },
-  "pt": {
-   "q": "Quem escreveu Romeu e Julieta?",
-   "c": [
-    "Shakespeare",
-    "Molière",
-    "Victor Hugo",
-    "Dickens"
-   ]
-  },
-  "d": 1
- },
- {
-  "fr": {
-   "q": "Qui a peint « La Nuit étoilée » ?",
-   "c": [
-    "Van Gogh",
-    "Monet",
-    "Munch",
-    "Dalí"
-   ]
-  },
-  "en": {
-   "q": "Who painted The Starry Night?",
-   "c": [
-    "Van Gogh",
-    "Monet",
-    "Munch",
-    "Dalí"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "ar": {
-   "q": "من رسم «ليلة النجوم»؟",
-   "c": [
-    "فان غوخ",
-    "مونيه",
-    "مونش",
-    "دالي"
-   ]
-  },
-  "es": {
-   "q": "¿Quién pintó La noche estrellada?",
-   "c": [
-    "Van Gogh",
-    "Monet",
-    "Munch",
-    "Dalí"
-   ]
-  },
-  "pt": {
-   "q": "Quem pintou A Noite Estrelada?",
-   "c": [
-    "Van Gogh",
-    "Monet",
-    "Munch",
-    "Dalí"
-   ]
-  },
-  "d": 1
- },
- {
-  "fr": {
-   "q": "Qui a peint « Guernica » ?",
-   "c": [
-    "Picasso",
-    "Dalí",
-    "Miró",
-    "Goya"
-   ]
-  },
-  "en": {
-   "q": "Who painted Guernica?",
-   "c": [
-    "Picasso",
-    "Dalí",
-    "Miró",
-    "Goya"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "ar": {
-   "q": "من رسم «غرنيكا»؟",
-   "c": [
-    "بيكاسو",
-    "دالي",
-    "ميرو",
-    "غويا"
-   ]
-  },
-  "es": {
-   "q": "¿Quién pintó el Guernica?",
-   "c": [
-    "Picasso",
-    "Dalí",
-    "Miró",
-    "Goya"
-   ]
-  },
-  "pt": {
-   "q": "Quem pintou Guernica?",
-   "c": [
-    "Picasso",
-    "Dalí",
-    "Miró",
-    "Goya"
-   ]
-  },
-  "d": 2
- },
- {
-  "a": 2,
-  "image": null,
-  "en": {
-   "q": "How many strings does a standard guitar have?",
-   "c": [
-    "4",
-    "5",
-    "6",
-    "7"
-   ]
-  },
-  "fr": {
-   "q": "Combien de cordes a une guitare classique ?",
-   "c": [
-    "4",
-    "5",
-    "6",
-    "7"
-   ]
-  },
-  "ar": {
-   "q": "كم عدد أوتار الغيتار القياسي؟",
-   "c": [
-    "4",
-    "5",
-    "6",
-    "7"
-   ]
-  },
-  "es": {
-   "q": "¿Cuántas cuerdas tiene una guitarra estándar?",
-   "c": [
-    "4",
-    "5",
-    "6",
-    "7"
-   ]
-  },
-  "pt": {
-   "q": "Quantas cordas tem um violão padrão?",
-   "c": [
-    "4",
-    "5",
-    "6",
-    "7"
-   ]
-  },
-  "d": 1
- },
- {
-  "a": 0,
-  "image": null,
-  "en": {
-   "q": "Which instrument has black and white keys?",
-   "c": [
-    "Piano",
-    "Violin",
-    "Flute",
-    "Drums"
-   ]
-  },
-  "fr": {
-   "q": "Quel instrument a des touches noires et blanches ?",
-   "c": [
-    "Le piano",
-    "Le violon",
-    "La flûte",
-    "La batterie"
-   ]
-  },
-  "ar": {
-   "q": "أي آلة موسيقية لها مفاتيح سوداء وبيضاء؟",
-   "c": [
-    "البيانو",
-    "الكمان",
-    "الناي",
-    "الطبول"
-   ]
-  },
-  "es": {
-   "q": "¿Qué instrumento tiene teclas blancas y negras?",
-   "c": [
-    "El piano",
-    "El violín",
-    "La flauta",
-    "La batería"
-   ]
-  },
-  "pt": {
-   "q": "Qual instrumento tem teclas pretas e brancas?",
-   "c": [
-    "O piano",
-    "O violino",
-    "A flauta",
-    "A bateria"
-   ]
-  },
-  "d": 1
- },
- {
-  "a": 0,
-  "image": null,
-  "en": {
-   "q": "Which two colors mix to make green?",
-   "c": [
-    "Blue and yellow",
-    "Red and yellow",
-    "Red and blue",
-    "Blue and white"
-   ]
-  },
-  "fr": {
-   "q": "Quelles deux couleurs mélange-t-on pour obtenir du vert ?",
-   "c": [
-    "Bleu et jaune",
-    "Rouge et jaune",
-    "Rouge et bleu",
-    "Bleu et blanc"
-   ]
-  },
-  "ar": {
-   "q": "أي لونين نمزجهما للحصول على الأخضر؟",
-   "c": [
-    "الأزرق والأصفر",
-    "الأحمر والأصفر",
-    "الأحمر والأزرق",
-    "الأزرق والأبيض"
-   ]
-  },
-  "es": {
-   "q": "¿Qué dos colores se mezclan para obtener verde?",
-   "c": [
-    "Azul y amarillo",
-    "Rojo y amarillo",
-    "Rojo y azul",
-    "Azul y blanco"
-   ]
-  },
-  "pt": {
-   "q": "Quais duas cores se misturam para obter verde?",
-   "c": [
-    "Azul e amarelo",
-    "Vermelho e amarelo",
-    "Vermelho e azul",
-    "Azul e branco"
-   ]
-  },
-  "d": 1
- },
- {
-  "a": 0,
-  "image": null,
-  "en": {
-   "q": "Who composed The Four Seasons?",
-   "c": [
-    "Vivaldi",
-    "Mozart",
-    "Beethoven",
-    "Bach"
-   ]
-  },
-  "fr": {
-   "q": "Qui a composé « Les Quatre Saisons » ?",
-   "c": [
-    "Vivaldi",
-    "Mozart",
-    "Beethoven",
-    "Bach"
-   ]
-  },
-  "ar": {
-   "q": "من ألّف «الفصول الأربعة»؟",
-   "c": [
-    "فيفالدي",
-    "موتسارت",
-    "بيتهوفن",
-    "باخ"
-   ]
-  },
-  "es": {
-   "q": "¿Quién compuso Las cuatro estaciones?",
-   "c": [
-    "Vivaldi",
-    "Mozart",
-    "Beethoven",
-    "Bach"
-   ]
-  },
-  "pt": {
-   "q": "Quem compôs As Quatro Estações?",
-   "c": [
-    "Vivaldi",
-    "Mozart",
-    "Beethoven",
-    "Bach"
-   ]
-  },
-  "d": 2
- },
- {
-  "a": 0,
-  "image": null,
-  "en": {
-   "q": "Who painted the ceiling of the Sistine Chapel?",
-   "c": [
-    "Michelangelo",
-    "Raphael",
-    "Donatello",
-    "Leonardo da Vinci"
-   ]
-  },
-  "fr": {
-   "q": "Qui a peint le plafond de la chapelle Sixtine ?",
-   "c": [
-    "Michel-Ange",
-    "Raphaël",
-    "Donatello",
-    "Léonard de Vinci"
-   ]
-  },
-  "ar": {
-   "q": "من رسم سقف كنيسة سيستين؟",
-   "c": [
-    "مايكل أنجلو",
-    "رافائيل",
-    "دوناتيلو",
-    "ليوناردو دا فينشي"
-   ]
-  },
-  "es": {
-   "q": "¿Quién pintó el techo de la Capilla Sixtina?",
-   "c": [
-    "Miguel Ángel",
-    "Rafael",
-    "Donatello",
-    "Leonardo da Vinci"
-   ]
-  },
-  "pt": {
-   "q": "Quem pintou o teto da Capela Sistina?",
-   "c": [
-    "Michelangelo",
-    "Rafael",
-    "Donatello",
-    "Leonardo da Vinci"
-   ]
-  },
-  "d": 2
- },
- {
-  "a": 0,
-  "image": null,
-  "en": {
-   "q": "Who composed the Ninth Symphony, with the Ode to Joy?",
-   "c": [
-    "Beethoven",
-    "Mozart",
-    "Bach",
-    "Chopin"
-   ]
-  },
-  "fr": {
-   "q": "Qui a composé la Neuvième Symphonie, avec l'Ode à la joie ?",
-   "c": [
-    "Beethoven",
-    "Mozart",
-    "Bach",
-    "Chopin"
-   ]
-  },
-  "ar": {
-   "q": "من ألّف السيمفونية التاسعة التي تتضمن «نشيد الفرح»؟",
-   "c": [
-    "بيتهوفن",
-    "موتسارت",
-    "باخ",
-    "شوبان"
-   ]
-  },
-  "es": {
-   "q": "¿Quién compuso la Novena Sinfonía, con la Oda a la alegría?",
-   "c": [
-    "Beethoven",
-    "Mozart",
-    "Bach",
-    "Chopin"
-   ]
-  },
-  "pt": {
-   "q": "Quem compôs a Nona Sinfonia, com a Ode à Alegria?",
-   "c": [
-    "Beethoven",
-    "Mozart",
-    "Bach",
-    "Chopin"
-   ]
-  },
-  "d": 2
- },
- {
-  "a": 0,
-  "image": null,
-  "en": {
-   "q": "In which museum is the Mona Lisa displayed?",
-   "c": [
-    "The Louvre",
-    "The Prado",
-    "The Uffizi",
-    "The British Museum"
-   ]
-  },
-  "fr": {
-   "q": "Dans quel musée la Joconde est-elle exposée ?",
-   "c": [
-    "Le Louvre",
-    "Le Prado",
-    "Les Offices",
-    "Le British Museum"
-   ]
-  },
-  "ar": {
-   "q": "في أي متحف تُعرض الموناليزا؟",
-   "c": [
-    "اللوفر",
-    "البرادو",
-    "أوفيزي",
-    "المتحف البريطاني"
-   ]
-  },
-  "es": {
-   "q": "¿En qué museo se exhibe la Mona Lisa?",
-   "c": [
-    "El Louvre",
-    "El Prado",
-    "Los Uffizi",
-    "El Museo Británico"
-   ]
-  },
-  "pt": {
-   "q": "Em que museu a Mona Lisa está exposta?",
-   "c": [
-    "O Louvre",
-    "O Prado",
-    "A Galeria Uffizi",
-    "O Museu Britânico"
-   ]
-  },
-  "d": 2
- }
- {
+  {
     "fr": {
       "q": "Quel sculpteur a créé l'œuvre « Le Penseur » ?",
       "c": [
@@ -721,7 +721,7 @@
     "a": 0,
     "image": null,
     "ar": {
-      "q": "أي مؤلف موسيقي اصم أصم في أواخر حياته لكنه استمر في التأليف؟",
+      "q": "أي مؤلف موسيقي أصيب بالصمم في أواخر حياته لكنه استمر في التأليف؟",
       "c": [
         "بيتهوفن",
         "موتسارت",
