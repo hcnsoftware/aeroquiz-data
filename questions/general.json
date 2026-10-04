@@ -1448,5 +1448,1009 @@
    ]
   },
   "d": 2
+ },
+ [
+ {
+  "fr": {
+   "q": "Quel pays a la forme d'une botte sur la carte ?",
+   "c": [
+    "L'Italie",
+    "L'Espagne",
+    "La Grèce",
+    "Le Portugal"
+   ]
+  },
+  "en": {
+   "q": "Which country is shaped like a boot on the map?",
+   "c": [
+    "Italy",
+    "Spain",
+    "Greece",
+    "Portugal"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هي الدولة التي تشبه شكل الحذاء على الخريطة؟",
+   "c": [
+    "إيطاليا",
+    "إسبانيا",
+    "اليونان",
+    "البرتغال"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país tiene forma de bota en el mapa?",
+   "c": [
+    "Italia",
+    "España",
+    "Grecia",
+    "Portugal"
+   ]
+  },
+  "pt": {
+   "q": "Qual país tem o formato de uma bota no mapa?",
+   "c": [
+    "Itália",
+    "Espanha",
+    "Grécia",
+    "Portugal"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Combien de côtés a un triangle ?",
+   "c": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ]
+  },
+  "en": {
+   "q": "How many sides does a triangle have?",
+   "c": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "كم عدد أضلع المثلث؟",
+   "c": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos lados tiene un triángulo?",
+   "c": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ]
+  },
+  "pt": {
+   "q": "Quantos lados tem um triângulo?",
+   "c": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel fruit est connu pour être jaune, courbé et apprécié des singes ?",
+   "c": [
+    "La banane",
+    "La pomme",
+    "L'orange",
+    "La fraise"
+   ]
+  },
+  "en": {
+   "q": "Which fruit is known for being yellow, curved, and liked by monkeys?",
+   "c": [
+    "Banana",
+    "Apple",
+    "Orange",
+    "Strawberry"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هي الفاكهة المعروفة بأنها صفراء ومقوسة ويحبها القرود؟",
+   "c": [
+    "الموز",
+    "التفاح",
+    "البرتقال",
+    "الفراولة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué fruta es conocida por ser amarilla, curvada y gustar a los monos?",
+   "c": [
+    "Plátano",
+    "Manzana",
+    "Naranja",
+    "Fresa"
+   ]
+  },
+  "pt": {
+   "q": "Qual fruta é conhecida por ser amarela, curvada e apreciada por macacos?",
+   "c": [
+    "Banana",
+    "Maçã",
+    "Laranja",
+    "Morango"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle est la couleur principale d'un panneau d'interdiction (stop ou sens interdit) ?",
+   "c": [
+    "Le rouge",
+    "Le vert",
+    "Le bleu",
+    "Le jaune"
+   ]
+  },
+  "en": {
+   "q": "What is the main color of a prohibition sign (like a stop sign)?",
+   "c": [
+    "Red",
+    "Green",
+    "Blue",
+    "Yellow"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هو اللون الرئيسي لعلامات المرور الخاصة بالمنع (مثل قف)؟",
+   "c": [
+    "الأحمر",
+    "الأخضر",
+    "الأزرق",
+    "الأصفر"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el color principal de una señal de prohibición (como el ceda el paso o stop)?",
+   "c": [
+    "Rojo",
+    "Verde",
+    "Azul",
+    "Amarillo"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a cor principal de um sinal de proibição (como o de pare)?",
+   "c": [
+    "Vermelho",
+    "Verde",
+    "Azul",
+    "Amarelo"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "De quelle couleur obtient-on en mélangeant du bleu et du jaune ?",
+   "c": [
+    "Du vert",
+    "Du orange",
+    "Du violet",
+    "Du marron"
+   ]
+  },
+  "en": {
+   "q": "What color do you get when you mix blue and yellow?",
+   "c": [
+    "Green",
+    "Orange",
+    "Purple",
+    "Brown"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هو اللون الناتج عن خلط اللونين الأزرق والأصفر؟",
+   "c": [
+    "الأخضر",
+    "البرتقالي",
+    "البنفسجي",
+    "البني"
+   ]
+  },
+  "es": {
+   "q": "¿Qué color se obtiene al mezclar azul y amarillo?",
+   "c": [
+    "Verde",
+    "Naranja",
+    "Morado",
+    "Marrón"
+   ]
+  },
+  "pt": {
+   "q": "Qual cor você obtém ao misturar azul e amarelo?",
+   "c": [
+    "Verde",
+    "Laranja",
+    "Roxo",
+    "Marrom"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel animal miaule ?",
+   "c": [
+    "Le chat",
+    "Le chien",
+    "La vache",
+    "Le mouton"
+   ]
+  },
+  "en": {
+   "q": "Which animal meows?",
+   "c": [
+    "Cat",
+    "Dog",
+    "Cow",
+    "Sheep"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هو الحيوان الذي يصدر صوت المواء؟",
+   "c": [
+    "القط",
+    "الكلب",
+    "البقرة",
+    "الخروف"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal maúlla?",
+   "c": [
+    "El gato",
+    "El perro",
+    "La vaca",
+    "La oveja"
+   ]
+  },
+  "pt": {
+   "q": "Qual animal mia?",
+   "c": [
+    "O gato",
+    "O cachorro",
+    "A vaca",
+    "A ovelha"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Combien de jours y a-t-il dans une année non bissextile ?",
+   "c": [
+    "365",
+    "366",
+    "360",
+    "370"
+   ]
+  },
+  "en": {
+   "q": "How many days are there in a standard (non-leap) year?",
+   "c": [
+    "365",
+    "366",
+    "360",
+    "370"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "كم عدد الأيام في السنة البسيطة (غير الكبيسة)؟",
+   "c": [
+    "365",
+    "366",
+    "360",
+    "370"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos días hay en un año no bisiesto?",
+   "c": [
+    "365",
+    "366",
+    "360",
+    "370"
+   ]
+  },
+  "pt": {
+   "q": "Quantos dias há em um ano comum (não bissexto)?",
+   "c": [
+    "365",
+    "366",
+    "360",
+    "370"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel est l'état de l'eau lorsqu'elle est sous forme de glace ?",
+   "c": [
+    "Solide",
+    "Liquide",
+    "Gazeux",
+    "Plasma"
+   ]
+  },
+  "en": {
+   "q": "What is the state of water when it is in the form of ice?",
+   "c": [
+    "Solid",
+    "Liquid",
+    "Gas",
+    "Plasma"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هي حالة الماء عندما يكون على شكل ثلج؟",
+   "c": [
+    "صلبة",
+    "سائلة",
+    "غازية",
+    "بلازما"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el estado del agua cuando está en forma de hielo?",
+   "c": [
+    "Sólido",
+    "Líquido",
+    "Gaseoso",
+    "Plasma"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o estado da água quando está na forma de gelo?",
+   "c": [
+    "Sólido",
+    "Líquido",
+    "Gasoso",
+    "Plasma"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle planète est surnommée la 'planète rouge' ?",
+   "c": [
+    "Mars",
+    "Vénus",
+    "Jupiter",
+    "Saturne"
+   ]
+  },
+  "en": {
+   "q": "Which planet is nicknamed the 'red planet'?",
+   "c": [
+    "Mars",
+    "Venus",
+    "Jupiter",
+    "Saturn"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هو الكوكب الملقب بـ 'الكوكب الأحمر'؟",
+   "c": [
+    "المريخ",
+    "الزهرة",
+    "المشتري",
+    "زحل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué planeta es conocido como el 'planeta rojo'?",
+   "c": [
+    "Marte",
+    "Venus",
+    "Júpiter",
+    "Saturno"
+   ]
+  },
+  "pt": {
+   "q": "Qual planeta é apelidado de 'planeta vermelho'?",
+   "c": [
+    "Marte",
+    "Vênus",
+    "Júpiter",
+    "Saturno"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel insecte fabrique le miel ?",
+   "c": [
+    "L'abeille",
+    "La guêpe",
+    "La fourmi",
+    "La mouche"
+   ]
+  },
+  "en": {
+   "q": "Which insect makes honey?",
+   "c": [
+    "Bee",
+    "Wasp",
+    "Ant",
+    "Fly"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هي الحشرة التي تنتج العسل؟",
+   "c": [
+    "النحلة",
+    "الدبور",
+    "النملة",
+    "الذباب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué insecto produce la miel?",
+   "c": [
+    "La abeja",
+    "La avispa",
+    "La hormiga",
+    "La mosca"
+   ]
+  },
+  "pt": {
+   "q": "Qual inseto produz mel?",
+   "c": [
+    "A abelha",
+    "A vespa",
+    "A formiga",
+    "A mosca"
+   ]
+  },
+  "d": 1
+ },
+ [
+ {
+  "fr": {
+   "q": "Quel est le plus grand océan de la Terre ?",
+   "c": [
+    "L'océan Pacifique",
+    "L'océan Atlantique",
+    "L'océan Indien",
+    "L'océan Arctique"
+   ]
+  },
+  "en": {
+   "q": "What is the largest ocean on Earth?",
+   "c": [
+    "Pacific Ocean",
+    "Atlantic Ocean",
+    "Indian Ocean",
+    "Arctic Ocean"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هو أكبر محيط على سطح الأرض؟",
+   "c": [
+    "المحيط الهادئ",
+    "المحيط الأطلسي",
+    "المحيط الهندي",
+    "المحيط المتجمد الشمالي"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el océano más grande de la Tierra?",
+   "c": [
+    "Océano Pacífico",
+    "Océano Atlántico",
+    "Océano Índico",
+    "Océano Ártico"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior oceano da Terra?",
+   "c": [
+    "Oceano Pacífico",
+    "Oceano Atlântico",
+    "Oceano Índico",
+    "Oceano Ártico"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel organe du corps humain pompe le sang ?",
+   "c": [
+    "Le cœur",
+    "Les poumons",
+    "Le cerveau",
+    "Le foie"
+   ]
+  },
+  "en": {
+   "q": "Which organ in the human body pumps blood?",
+   "c": [
+    "Heart",
+    "Lungs",
+    "Brain",
+    "Liver"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هو العضو في جسم الإنسان الذي يضخ الدم؟",
+   "c": [
+    "القلب",
+    "الرئتان",
+    "الدماغ",
+    "الكبد"
+   ]
+  },
+  "es": {
+   "q": "¿Qué órgano del cuerpo humano bombea la sangre?",
+   "c": [
+    "El corazón",
+    "Los pulmones",
+    "El cerebro",
+    "El hígado"
+   ]
+  },
+  "pt": {
+   "q": "Qual órgão do corpo humano bombeia o sangue?",
+   "c": [
+    "O coração",
+    "Os pulmões",
+    "O cérebro",
+    "O fígado"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Combien font 7 multiplié par 8 ?",
+   "c": [
+    "56",
+    "54",
+    "64",
+    "49"
+   ]
+  },
+  "en": {
+   "q": "What is 7 multiplied by 8?",
+   "c": [
+    "56",
+    "54",
+    "64",
+    "49"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "كم ناتج ضرب 7 في 8؟",
+   "c": [
+    "56",
+    "54",
+    "64",
+    "49"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 7 multiplicado por 8?",
+   "c": [
+    "56",
+    "54",
+    "64",
+    "49"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 7 multiplicado por 8?",
+   "c": [
+    "56",
+    "54",
+    "64",
+    "49"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel gaz les plantes absorbent-elles principalement pour la photosynthèse ?",
+   "c": [
+    "Le dioxyde de carbone",
+    "L'oxygène",
+    "L'azote",
+    "L'hydrogène"
+   ]
+  },
+  "en": {
+   "q": "What gas do plants primarily absorb for photosynthesis?",
+   "c": [
+    "Carbon dioxide",
+    "Oxygen",
+    "Nitrogen",
+    "Hydrogen"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هو الغاز الذي تمتصه النباتات بشكل أساسي من أجل عملية البناء الضوئي؟",
+   "c": [
+    "ثاني أكسيد الكربون",
+    "الأكسجين",
+    "النيتروجين",
+    "الهيدروجين"
+   ]
+  },
+  "es": {
+   "q": "¿Qué gas absorben principalmente las plantas para la fotosíntesis?",
+   "c": [
+    "Dióxido de carbono",
+    "Oxígeno",
+    "Nitrógeno",
+    "Hidrógeno"
+   ]
+  },
+  "pt": {
+   "q": "Qual gás as plantas absorvem principalmente para a fotossíntese?",
+   "c": [
+    "Dióxido de carbono",
+    "Oxigênio",
+    "Nitrogênio",
+    "Hidrogênio"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel est l'élément chimique dont le symbole est 'O' ?",
+   "c": [
+    "L'oxygène",
+    "L'or",
+    "L'osmium",
+    "L'oganesson"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical element whose symbol is 'O'?",
+   "c": [
+    "Oxygen",
+    "Gold",
+    "Osmium",
+    "Oganesson"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هو العنصر الكيميائي الذي رمزه 'O'؟",
+   "c": [
+    "الأكسجين",
+    "الذهب",
+    "الأوسميوم",
+    "الأوغانيسون"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el elemento químico cuyo símbolo es 'O'?",
+   "c": [
+    "Oxígeno",
+    "Oro",
+    "Osmio",
+    "Oganesón"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o elemento químico cujo símbolo é 'O'?",
+   "c": [
+    "Oxigênio",
+    "Ouro",
+    "Ósmio",
+    "Oganessônio"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve la tour Eiffel ?",
+   "c": [
+    "La France",
+    "L'Italie",
+    "L'Espagne",
+    "Le Royaume-Uni"
+   ]
+  },
+  "en": {
+   "q": "In which country is the Eiffel Tower located?",
+   "c": [
+    "France",
+    "Italy",
+    "Spain",
+    "United Kingdom"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "في اي دولة تقع برج إيفل؟",
+   "c": [
+    "فرنسا",
+    "إيطاليا",
+    "إسبانيا",
+    "المملكة المتحدة"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país se encuentra la torre Eiffel?",
+   "c": [
+    "Francia",
+    "Italia",
+    "España",
+    "Reino Unido"
+   ]
+  },
+  "pt": {
+   "q": "Em qual país fica a Torre Eiffel?",
+   "c": [
+    "França",
+    "Itália",
+    "Espanha",
+    "Reino Unido"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand mammifère terrestre ?",
+   "c": [
+    "L'éléphant d'Afrique",
+    "La baleine bleue",
+    "La girafe",
+    "L'hippopotame"
+   ]
+  },
+  "en": {
+   "q": "What is the largest land mammal?",
+   "c": [
+    "African bush elephant",
+    "Blue whale",
+    "Giraffe",
+    "Hippopotamus"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هو أكبر حيوان ثديي بري؟",
+   "c": [
+    "الفيل الأفريقي",
+    "الحوت الأزرق",
+    "الزرافة",
+    "فرس النهر"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el mamífero terrestre más grande?",
+   "c": [
+    "Elefante africano",
+    "Ballena azul",
+    "Jirafa",
+    "Hipopótamo"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior mamífero terrestre?",
+   "c": [
+    "Elefante africano",
+    "Baleia azul",
+    "Girafa",
+    "Hipopótamo"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale de l'Australie ?",
+   "c": [
+    "Canberra",
+    "Sydney",
+    "Melbourne",
+    "Brisbane"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of Australia?",
+   "c": [
+    "Canberra",
+    "Sydney",
+    "Melbourne",
+    "Brisbane"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هي عاصمة أستراليا؟",
+   "c": [
+    "كانبرا",
+    "سيدني",
+    "ملبورن",
+    "بريزبان"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Australia?",
+   "c": [
+    "Canberra",
+    "Sídney",
+    "Melbourne",
+    "Brisbane"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital da Austrália?",
+   "c": [
+    "Canberra",
+    "Sydney",
+    "Melbourne",
+    "Brisbane"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel auteur a écrit 'Les Misérables' ?",
+   "c": [
+    "Victor Hugo",
+    "Émile Zola",
+    "Albert Camus",
+    "Molière"
+   ]
+  },
+  "en": {
+   "q": "Which author wrote 'Les Misérables'?",
+   "c": [
+    "Victor Hugo",
+    "Émile Zola",
+    "Albert Camus",
+    "Molière"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "من هو المؤلف الذي كتب رواية 'البؤساء'؟",
+   "c": [
+    "فيكتور هوغو",
+    "إميل زولا",
+    "ألبير كامو",
+    "مولير"
+   ]
+  },
+  "es": {
+   "q": "¿Qué autor escribió 'Los Miserables'?",
+   "c": [
+    "Victor Hugo",
+    "Émile Zola",
+    "Albert Camus",
+    "Molière"
+   ]
+  },
+  "pt": {
+   "q": "Qual autor escreveu 'Os Miseráveis'?",
+   "c": [
+    "Victor Hugo",
+    "Émile Zola",
+    "Albert Camus",
+    "Molière"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel est l'élément chimique le plus abondant dans l'univers ?",
+   "c": [
+    "L'hydrogène",
+    "L'hélium",
+    "L'oxygène",
+    "Le carbone"
+   ]
+  },
+  "en": {
+   "q": "What is the most abundant chemical element in the universe?",
+   "c": [
+    "Hydrogen",
+    "Helium",
+    "Oxygen",
+    "Carbon"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "ar": {
+   "q": "ما هو العنصر الكيميائي الأكثر وفراً في الكون؟",
+   "c": [
+    "الهيدروجين",
+    "الهيليوم",
+    "الأكسجين",
+    "الكربون"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el elemento químico más abundante en el universo?",
+   "c": [
+    "Hidrógeno",
+    "Helio",
+    "Oxígeno",
+    "Carbono"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o elemento químico mais abundante no universo?",
+   "c": [
+    "Hidrogênio",
+    "Hélio",
+    "Oxigênio",
+    "Carbono"
+   ]
+  },
+  "d": 1
  }
+]
+
 ]
