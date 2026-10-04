@@ -599,4 +599,204 @@
   },
   "d": 2
  }
+ {
+    "fr": {
+      "q": "Quel sculpteur a créé l'œuvre « Le Penseur » ?",
+      "c": [
+        "Auguste Rodin",
+        "Camille Claudel",
+        "Michel-Ange",
+        "Alberto Giacometti"
+      ]
+    },
+    "en": {
+      "q": "Which sculptor created the artwork 'The Thinker'?",
+      "c": [
+        "Auguste Rodin",
+        "Camille Claudel",
+        "Michelangelo",
+        "Alberto Giacometti"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "أي نحات صمم تمثال «المفكر»؟",
+      "c": [
+        "أوغست رودان",
+        "كاميل كلوديل",
+        "مايكل أنجلو",
+        "ألبرتو جياكوميتي"
+      ]
+    },
+    "es": {
+      "q": "¿Qué escultor creó la obra 'El pensador'?",
+      "c": [
+        "Auguste Rodin",
+        "Camille Claudel",
+        "Miguel Ángel",
+        "Alberto Giacometti"
+      ]
+    },
+    "pt": {
+      "q": "Qual escultor criou a obra 'O Pensador'?",
+      "c": [
+        "Auguste Rodin",
+        "Camille Claudel",
+        "Michelangelo",
+        "Alberto Giacometti"
+      ]
+    },
+    "d": 2
+  },
+  {
+    "fr": {
+      "q": "Qui a écrit le roman « Le Petit Prince » ?",
+      "c": [
+        "Antoine de Saint-Exupéry",
+        "Jules Verne",
+        "Albert Camus",
+        "Victor Hugo"
+      ]
+    },
+    "en": {
+      "q": "Who wrote the novel 'The Little Prince'?",
+      "c": [
+        "Antoine de Saint-Exupéry",
+        "Jules Verne",
+        "Albert Camus",
+        "Victor Hugo"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "من كتب رواية «الأمير الصغير»؟",
+      "c": [
+        "أنطوان دو سانت إيكزوبري",
+        "جول فيرن",
+        "ألبير كامو",
+        "فيكتور هوغو"
+      ]
+    },
+    "es": {
+      "q": "¿Quién escribió la novela 'El Principito'?",
+      "c": [
+        "Antoine de Saint-Exupéry",
+        "Jules Verne",
+        "Albert Camus",
+        "Victor Hugo"
+      ]
+    },
+    "pt": {
+      "q": "Quem escreveu o romance 'O Pequeno Príncipe'?",
+      "c": [
+        "Antoine de Saint-Exupéry",
+        "Jules Verne",
+        "Albert Camus",
+        "Victor Hugo"
+      ]
+    },
+    "d": 1
+  },
+  {
+    "fr": {
+      "q": "Quel compositeur est devenu sourd au cours de sa vie tout en continuant à composer ?",
+      "c": [
+        "Beethoven",
+        "Mozart",
+        "Vivaldi",
+        "Chopin"
+      ]
+    },
+    "en": {
+      "q": "Which composer became deaf later in life while continuing to compose?",
+      "c": [
+        "Beethoven",
+        "Mozart",
+        "Vivaldi",
+        "Chopin"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "أي مؤلف موسيقي اصم أصم في أواخر حياته لكنه استمر في التأليف؟",
+      "c": [
+        "بيتهوفن",
+        "موتسارت",
+        "فيفالدي",
+        "شوبان"
+      ]
+    },
+    "es": {
+      "q": "¿Qué compositor se quedó sordo más tarde en la vida mientras seguía componiendo?",
+      "c": [
+        "Beethoven",
+        "Mozart",
+        "Vivaldi",
+        "Chopin"
+      ]
+    },
+    "pt": {
+      "q": "Qual compositor ficou surdo mais tarde na vida, mas continuou compondo?",
+      "c": [
+        "Beethoven",
+        "Mozart",
+        "Vivaldi",
+        "Chopin"
+      ]
+    },
+    "d": 1
+  },
+  {
+    "fr": {
+      "q": "Quel artiste est l'un des principaux fondateurs du mouvement cubiste avec Picasso ?",
+      "c": [
+        "Georges Braque",
+        "Claude Monet",
+        "Henri Matisse",
+        "Paul Cézanne"
+      ]
+    },
+    "en": {
+      "q": "Which artist is one of the main founders of the Cubist movement alongside Picasso?",
+      "c": [
+        "Georges Braque",
+        "Claude Monet",
+        "Henri Matisse",
+        "Paul Cézanne"
+      ]
+    },
+    "a": 0,
+    "image": null,
+    "ar": {
+      "q": "أي فنان يُعد أحد المؤسسين الرئيسيين للحركة التكعيبية إلى جانب بيكاسو؟",
+      "c": [
+        "جورج براك",
+        "كلود مونيه",
+        "هنري ماتيس",
+        "بول سيزان"
+      ]
+    },
+    "es": {
+      "q": "¿Qué artista es uno de los principales fundadores del movimiento cubista junto con Picasso?",
+      "c": [
+        "Georges Braque",
+        "Claude Monet",
+        "Henri Matisse",
+        "Paul Cézanne"
+      ]
+    },
+    "pt": {
+      "q": "Qual artista é um dos principais fundadores do movimento cubista ao lado de Picasso?",
+      "c": [
+        "Georges Braque",
+        "Claude Monet",
+        "Henri Matisse",
+        "Paul Cézanne"
+      ]
+    },
+    "d": 3
+  }
 ]
