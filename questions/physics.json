@@ -598,5 +598,760 @@
    ]
   },
   "d": 2
+ },
+ [
+ {
+  "fr": {
+   "q": "Quel est le symbole chimique de l'or ?",
+   "c": [
+    "Ag",
+    "Au",
+    "Pb",
+    "Fe"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical symbol for gold?",
+   "c": [
+    "Ag",
+    "Au",
+    "Pb",
+    "Fe"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "ar": {
+   "q": "ما هو الرمز الكيميائي للذهب؟",
+   "c": [
+    "Ag",
+    "Au",
+    "Pb",
+    "Fe"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el símbolo químico del oro?",
+   "c": [
+    "Ag",
+    "Au",
+    "Pb",
+    "Fe"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o símbolo químico do ouro?",
+   "c": [
+    "Ag",
+    "Au",
+    "Pb",
+    "Fe"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle est la formule chimique de l'eau ?",
+   "c": [
+    "CO2",
+    "H2O",
+    "O2",
+    "NaCl"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical formula for water?",
+   "c": [
+    "CO2",
+    "H2O",
+    "O2",
+    "NaCl"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "ar": {
+   "q": "ما هي الصيغة الكيميائية للماء؟",
+   "c": [
+    "CO2",
+    "H2O",
+    "O2",
+    "NaCl"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la fórmula química del agua?",
+   "c": [
+    "CO2",
+    "H2O",
+    "O2",
+    "NaCl"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a fórmula química da água?",
+   "c": [
+    "CO2",
+    "H2O",
+    "O2",
+    "NaCl"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel instrument mesure la pression atmosphérique ?",
+   "c": [
+    "Le thermomètre",
+    "Le baromètre",
+    "L'anémomètre",
+    "L'hygromètre"
+   ]
+  },
+  "en": {
+   "q": "Which instrument measures atmospheric pressure?",
+   "c": [
+    "Thermometer",
+    "Barometer",
+    "Anemometer",
+    "Hygrometer"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "ar": {
+   "q": "ما هو الأداة التي تقيس الضغط الجوي؟",
+   "c": [
+    "الترمومتر",
+    "البارومتر",
+    "الأنيمومتر",
+    "الهيجرومتر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué instrumento mide la presión atmosférica?",
+   "c": [
+    "Termómetro",
+    "Barómetro",
+    "Anemómetro",
+    "Higrómetro"
+   ]
+  },
+  "pt": {
+   "q": "Qual instrumento mede a pressão atmosférica?",
+   "c": [
+    "Termômetro",
+    "Barômetro",
+    "Anemômetro",
+    "Higrômetro"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Quel gaz compose la majeure partie de l'atmosphère terrestre ?",
+   "c": [
+    "L'oxygène",
+    "L'azote",
+    "Le dioxyde de carbone",
+    "L'hydrogène"
+   ]
+  },
+  "en": {
+   "q": "Which gas makes up the majority of Earth's atmosphere?",
+   "c": [
+    "Oxygen",
+    "Nitrogen",
+    "Carbon dioxide",
+    "Hydrogen"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "ar": {
+   "q": "ما الغاز الذي يشكل النسبة الأكبر من غلاف الأرض الجوي؟",
+   "c": [
+    "الأكسجين",
+    "النيتروجين",
+    "ثاني أكسيد الكربون",
+    "الهيدروجين"
+   ]
+  },
+  "es": {
+   "q": "¿Qué gas constituye la mayor parte de la atmósfera terrestre?",
+   "c": [
+    "Oxígeno",
+    "Nitrógeno",
+    "Dióxido de carbono",
+    "Hidrógeno"
+   ]
+  },
+  "pt": {
+   "q": "Qual gás compõe a maior parte da atmosfera da Terra?",
+   "c": [
+    "Oxigênio",
+    "Nitrogênio",
+    "Dióxido de carbono",
+    "Hidrogênio"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle est l'unité de la force dans le Système international (SI) ?",
+   "c": [
+    "Le joule",
+    "Le watt",
+    "Le newton",
+    "Le pascal"
+   ]
+  },
+  "en": {
+   "q": "What is the unit of force in the International System of Units (SI)?",
+   "c": [
+    "Joule",
+    "Watt",
+    "Newton",
+    "Pascal"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "ar": {
+   "q": "ما هي وحدة قياس القوة في النظام الدولي للوحدات (SI)؟",
+   "c": [
+    "الجول",
+    "الواط",
+    "النيوتن",
+    "الباسكال"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la unidad de fuerza en el Sistema Internacional (SI)?",
+   "c": [
+    "Julio",
+    "Vatio",
+    "Newton",
+    "Pascal"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a unidade de força no Sistema Internacional (SI)?",
+   "c": [
+    "Joule",
+    "Watt",
+    "Newton",
+    "Pascal"
+   ]
+  },
+  "d": 2
+ },
+  [
+ {
+  "fr": {
+   "q": "Quel est le symbole chimique du sodium ?",
+   "c": [
+    "S",
+    "Na",
+    "Sd",
+    "N"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical symbol for sodium?",
+   "c": [
+    "S",
+    "Na",
+    "Sd",
+    "N"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "ar": {
+   "q": "ما هو الرمز الكيميائي للصوديوم؟",
+   "c": [
+    "S",
+    "Na",
+    "Sd",
+    "N"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el símbolo químico del sodio?",
+   "c": [
+    "S",
+    "Na",
+    "Sd",
+    "N"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o símbolo químico do sódio?",
+   "c": [
+    "S",
+    "Na",
+    "Sd",
+    "N"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel est le pH d'une solution neutre à 25 °C ?",
+   "c": [
+    "0",
+    "7",
+    "14",
+    "10"
+   ]
+  },
+  "en": {
+   "q": "What is the pH of a neutral solution at 25 °C?",
+   "c": [
+    "0",
+    "7",
+    "14",
+    "10"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "ar": {
+   "q": "ما هو الرقم الهيدروجيني (pH) للمحلول المتعادل عند 25 درجة مئوية؟",
+   "c": [
+    "0",
+    "7",
+    "14",
+    "10"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el pH de una solución neutra a 25 °C?",
+   "c": [
+    "0",
+    "7",
+    "14",
+    "10"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o pH de uma solução neutra a 25 °C?",
+   "c": [
+    "0",
+    "7",
+    "14",
+    "10"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle est l'unité de la résistance électrique (dans le SI) ?",
+   "c": [
+    "Le volt",
+    "L'ampère",
+    "L'ohm",
+    "Le watt"
+   ]
+  },
+  "en": {
+   "q": "What is the unit of electrical resistance (in the SI)?",
+   "c": [
+    "Volt",
+    "Ampere",
+    "Ohm",
+    "Watt"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "ar": {
+   "q": "ما هي وحدة قياس المقاومة الكهربائية (في النظام الدولي)؟",
+   "c": [
+    "الفولت",
+    "الأمبير",
+    "الأوم",
+    "الواط"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la unidad de resistencia eléctrica (en el SI)?",
+   "c": [
+    "Voltio",
+    "Amperio",
+    "Ohmio",
+    "Vatio"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a unidade de resistência elétrica (no SI)?",
+   "c": [
+    "Volt",
+    "Ampère",
+    "Ohm",
+    "Watt"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on le passage de l'état solide à l'état gazeux directement ?",
+   "c": [
+    "La fusion",
+    "La sublimation",
+    "La vaporisation",
+    "La condensation"
+   ]
+  },
+  "en": {
+   "q": "What is the direct transition from a solid state to a gas state called?",
+   "c": [
+    "Fusion",
+    "Sublimation",
+    "Vaporization",
+    "Condensation"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "ar": {
+   "q": "ماذا يسمى التحول المباشر من الحالة الصلبة إلى الحالة الغازية؟",
+   "c": [
+    "الانصهار",
+    "التسامي",
+    "التبخر",
+    "التكاثف"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama el paso directo del estado sólido al estado gaseoso?",
+   "c": [
+    "Fusión",
+    "Sublimación",
+    "Vaporización",
+    "Condensación"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama a passagem direta do estado sólido para o estado gasoso?",
+   "c": [
+    "Fusão",
+    "Sublimação",
+    "Vaporação",
+    "Condensação"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle est la formule de l'énergie cinétique d'un objet de masse m et de vitesse v ?",
+   "c": [
+    "E = m × g × h",
+    "E = 1/2 × m × v²",
+    "E = m × v",
+    "E = 1/2 × m² × v"
+   ]
+  },
+  "en": {
+   "q": "What is the formula for the kinetic energy of an object with mass m and velocity v?",
+   "c": [
+    "E = m × g × h",
+    "E = 1/2 × m × v²",
+    "E = m × v",
+    "E = 1/2 × m² × v"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "ar": {
+   "q": "ما هي صيغة الطاقة الحركية لجسم كتلته m وسرعته v؟",
+   "c": [
+    "E = m × g × h",
+    "E = 1/2 × m × v²",
+    "E = m × v",
+    "E = 1/2 × m² × v"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la fórmula de la energía cinética de un objeto de masa m y velocidad v?",
+   "c": [
+    "E = m × g × h",
+    "E = 1/2 × m × v²",
+    "E = m × v",
+    "E = 1/2 × m² × v"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a fórmula da energia cinética de um objeto de massa m e velocidade v?",
+   "c": [
+    "E = m × g × h",
+    "E = 1/2 × m × v²",
+    "E = m × v",
+    "E = 1/2 × m² × v"
+   ]
+  },
+  "d": 2
+ },
+   [
+ {
+  "fr": {
+   "q": "Quel est le symbole chimique du fer ?",
+   "c": [
+    "F",
+    "Fe",
+    "Fr",
+    "Fi"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical symbol for iron?",
+   "c": [
+    "F",
+    "Fe",
+    "Fr",
+    "Fi"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "ar": {
+   "q": "ما هو الرمز الكيميائي للحديد؟",
+   "c": [
+    "F",
+    "Fe",
+    "Fr",
+    "Fi"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el símbolo químico del hierro?",
+   "c": [
+    "F",
+    "Fe",
+    "Fr",
+    "Fi"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o símbolo químico do ferro?",
+   "c": [
+    "F",
+    "Fe",
+    "Fr",
+    "Fi"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle particule subatomique possède une charge électrique négative ?",
+   "c": [
+    "Le proton",
+    "Le neutron",
+    "L'électron",
+    "Le positron"
+   ]
+  },
+  "en": {
+   "q": "Which subatomic particle carries a negative electrical charge?",
+   "c": [
+    "Proton",
+    "Neutron",
+    "Electron",
+    "Positron"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "ar": {
+   "q": "ما هو الجسيم دون الذري الذي يحمل شحنة كهربائية سالبة؟",
+   "c": [
+    "البروتون",
+    "النيوترون",
+    "الإلكترون",
+    "البوزيترون"
+   ]
+  },
+  "es": {
+   "q": "¿Qué partícula subatómica tiene carga eléctrica negativa?",
+   "c": [
+    "Protón",
+    "Neutrón",
+    "Electrón",
+    "Positrón"
+   ]
+  },
+  "pt": {
+   "q": "Qual partícula subatômica possui carga elétrica negativa?",
+   "c": [
+    "Próton",
+    "Nêutron",
+    "Elétron",
+    "Pósitron"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle est l'unité de la puissance électrique dans le Système international ?",
+   "c": [
+    "Le joule",
+    "Le volt",
+    "Le watt",
+    "L'ampère"
+   ]
+  },
+  "en": {
+   "q": "What is the unit of electric power in the International System of Units?",
+   "c": [
+    "Joule",
+    "Volt",
+    "Watt",
+    "Ampere"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "ar": {
+   "q": "ما هي وحدة قياس القدرة الكهربائية في النظام الدولي؟",
+   "c": [
+    "الجول",
+    "الفولت",
+    "الواط",
+    "الأمبير"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la unidad de potencia eléctrica en el Sistema Internacional?",
+   "c": [
+    "Julio",
+    "Voltio",
+    "Vatio",
+    "Amperio"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a unidade de potência elétrica no Sistema Internacional?",
+   "c": [
+    "Joule",
+    "Volt",
+    "Watt",
+    "Ampère"
+   ]
+  },
+  "d": 1
+ },
+ {
+  "fr": {
+   "q": "Quel scientifique a proposé le modèle atomique planétaire semblable à un système solaire miniature ?",
+   "c": [
+    "J.J. Thomson",
+    "Ernest Rutherford",
+    "John Dalton",
+    "Dimitri Mendeleïev"
+   ]
+  },
+  "en": {
+   "q": "Which scientist proposed the planetary atomic model resembling a miniature solar system?",
+   "c": [
+    "J.J. Thomson",
+    "Ernest Rutherford",
+    "John Dalton",
+    "Dmitri Mendeleev"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "ar": {
+   "q": "أي عالم اقترح نموذج الذرة الكوكبي الذي يشبه نظاماً شمسياً مصغراً؟",
+   "c": [
+    "ج. ج. طومسون",
+    "إرنست رذرفورد",
+    "جون دالتون",
+    "ديمتري مندلييف"
+   ]
+  },
+  "es": {
+   "q": "¿Qué científico propuso el modelo atómico planetario similar a un sistema solar en miniatura?",
+   "c": [
+    "J.J. Thomson",
+    "Ernest Rutherford",
+    "John Dalton",
+    "Dmitri Mendeléyev"
+   ]
+  },
+  "pt": {
+   "q": "Qual cientista propôs o modelo atômico planetário semelhante a um sistema solar em miniatura?",
+   "c": [
+    "J.J. Thomson",
+    "Ernest Rutherford",
+    "John Dalton",
+    "Dmitri Mendeleev"
+   ]
+  },
+  "d": 2
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on une solution dont le pH est supérieur à 7 ?",
+   "c": [
+    "Une solution acide",
+    "Une solution neutre",
+    "Une solution basique (ou alcaline)",
+    "Une solution saturée"
+   ]
+  },
+  "en": {
+   "q": "What is a solution with a pH greater than 7 called?",
+   "c": [
+    "Acidic solution",
+    "Neutral solution",
+    "Basic (or alkaline) solution",
+    "Saturated solution"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "ar": {
+   "q": "ماذا يسمى المحلول الذي الرقم الهيدروجيني له أكبر من 7؟",
+   "c": [
+    "محلول حمضي",
+    "محلول متعادل",
+    "محلول قاعدي (قلوي)",
+    "محلول مشبع"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama una solución cuyo pH es superior a 7?",
+   "c": [
+    "Solución ácida",
+    "Solución neutra",
+    "Solución básica (o alcalina)",
+    "Solución saturada"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama uma solução cujo pH é superior a 7?",
+   "c": [
+    "Solução ácida",
+    "Solução neutra",
+    "Solução básica (ou alcalina)",
+    "Solução saturada"
+   ]
+  },
+  "d": 2
  }
+]
+
 ]
