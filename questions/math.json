@@ -18,8 +18,6 @@
     "8"
    ]
   },
-  "a": 1,
-  "image": null,
   "ar": {
    "q": "كم ضلعًا للشكل السداسي؟",
    "c": [
@@ -47,63 +45,13 @@
     "8"
    ]
   },
-  "d": 1
+  "a": 1,
+  "image": null,
+  "level": 1
  },
  {
   "fr": {
-   "q": "Quelle est la valeur approchée du nombre e ?",
-   "c": [
-    "2,71",
-    "3,14",
-    "1,62",
-    "1,41"
-   ]
-  },
-  "en": {
-   "q": "What is the approximate value of the number e?",
-   "c": [
-    "2.71",
-    "3.14",
-    "1.62",
-    "1.41"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "ar": {
-   "q": "ما القيمة التقريبية للعدد e؟",
-   "c": [
-    "2.71",
-    "3.14",
-    "1.62",
-    "1.41"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el valor aproximado del número e?",
-   "c": [
-    "2,71",
-    "3,14",
-    "1,62",
-    "1,41"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o valor aproximado do número e?",
-   "c": [
-    "2,71",
-    "3,14",
-    "1,62",
-    "1,41"
-   ]
-  },
-  "d": 2
- },
- {
-  "a": 1,
-  "image": null,
-  "en": {
-   "q": "What is 7 × 8?",
+   "q": "Combien font 7 × 8 ?",
    "c": [
     "54",
     "56",
@@ -111,8 +59,8 @@
     "64"
    ]
   },
-  "fr": {
-   "q": "Combien font 7 × 8 ?",
+  "en": {
+   "q": "What is 7 × 8?",
    "c": [
     "54",
     "56",
@@ -147,13 +95,13 @@
     "64"
    ]
   },
-  "d": 1
+  "a": 1,
+  "image": null,
+  "level": 1
  },
  {
-  "a": 2,
-  "image": null,
-  "en": {
-   "q": "What is the square root of 81?",
+  "fr": {
+   "q": "Quelle est la racine carrée de 81 ?",
    "c": [
     "7",
     "8",
@@ -161,8 +109,8 @@
     "10"
    ]
   },
-  "fr": {
-   "q": "Quelle est la racine carrée de 81 ?",
+  "en": {
+   "q": "What is the square root of 81?",
    "c": [
     "7",
     "8",
@@ -197,13 +145,13 @@
     "10"
    ]
   },
-  "d": 1
+  "a": 2,
+  "image": null,
+  "level": 1
  },
  {
-  "a": 1,
-  "image": null,
-  "en": {
-   "q": "How many degrees are in a right angle?",
+  "fr": {
+   "q": "Combien de degrés mesure un angle droit ?",
    "c": [
     "45",
     "90",
@@ -211,8 +159,8 @@
     "360"
    ]
   },
-  "fr": {
-   "q": "Combien de degrés mesure un angle droit ?",
+  "en": {
+   "q": "How many degrees are in a right angle?",
    "c": [
     "45",
     "90",
@@ -247,13 +195,13 @@
     "360"
    ]
   },
-  "d": 1
+  "a": 1,
+  "image": null,
+  "level": 1
  },
  {
-  "a": 2,
-  "image": null,
-  "en": {
-   "q": "What is 15% of 200?",
+  "fr": {
+   "q": "Combien font 15 % de 200 ?",
    "c": [
     "20",
     "25",
@@ -261,8 +209,8 @@
     "35"
    ]
   },
-  "fr": {
-   "q": "Combien font 15 % de 200 ?",
+  "en": {
+   "q": "What is 15% of 200?",
    "c": [
     "20",
     "25",
@@ -297,13 +245,13 @@
     "35"
    ]
   },
-  "d": 1
- },
- {
   "a": 2,
   "image": null,
-  "en": {
-   "q": "Which of these numbers is prime?",
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel nombre est premier ?",
    "c": [
     "9",
     "15",
@@ -311,8 +259,8 @@
     "21"
    ]
   },
-  "fr": {
-   "q": "Quel nombre est premier ?",
+  "en": {
+   "q": "Which of these numbers is prime?",
    "c": [
     "9",
     "15",
@@ -347,20 +295,711 @@
     "21"
    ]
   },
-  "d": 1
+  "a": 2,
+  "image": null,
+  "level": 1
  },
  {
-  "a": 0,
-  "image": null,
-  "en": {
-   "q": "What is π (pi) rounded to two decimals?",
+  "fr": {
+   "q": "Quel est le résultat de 45 divisé par 5 ?",
    "c": [
-    "3.14",
-    "3.41",
-    "3.12",
-    "3.16"
+    "7",
+    "8",
+    "9",
+    "10"
    ]
   },
+  "en": {
+   "q": "What is the result of 45 divided by 5?",
+   "c": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "ar": {
+   "q": "ما ناتج قسمة 45 على 5؟",
+   "c": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el resultado de 45 dividido por 5?",
+   "c": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o resultado de 45 dividido por 5?",
+   "c": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel est le périmètre d'un carré de 5 cm de côté ?",
+   "c": [
+    "15 cm",
+    "20 cm",
+    "25 cm",
+    "30 cm"
+   ]
+  },
+  "en": {
+   "q": "What is the perimeter of a square with a side length of 5 cm?",
+   "c": [
+    "15 cm",
+    "20 cm",
+    "25 cm",
+    "30 cm"
+   ]
+  },
+  "ar": {
+   "q": "ما محيط مربع طول ضلعه 5 سم؟",
+   "c": [
+    "15 سم",
+    "20 سم",
+    "25 سم",
+    "30 سم"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el perímetro de un cuadrado de 5 cm de lado?",
+   "c": [
+    "15 cm",
+    "20 cm",
+    "25 cm",
+    "30 cm"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o perímetro de um quadrado com 5 cm de lado?",
+   "c": [
+    "15 cm",
+    "20 cm",
+    "25 cm",
+    "30 cm"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle fraction est équivalente à 1/2 ?",
+   "c": [
+    "2/4",
+    "1/3",
+    "3/4",
+    "2/3"
+   ]
+  },
+  "en": {
+   "q": "Which fraction is equivalent to 1/2?",
+   "c": [
+    "2/4",
+    "1/3",
+    "3/4",
+    "2/3"
+   ]
+  },
+  "ar": {
+   "q": "أي كسر يوافق أو يعادل الكسر 1/2؟",
+   "c": [
+    "2/4",
+    "1/3",
+    "3/4",
+    "2/3"
+   ]
+  },
+  "es": {
+   "q": "¿Qué fracción es equivalente a 1/2?",
+   "c": [
+    "2/4",
+    "1/3",
+    "3/4",
+    "2/3"
+   ]
+  },
+  "pt": {
+   "q": "Qual fração é equivalente a 1/2?",
+   "c": [
+    "2/4",
+    "1/3",
+    "3/4",
+    "2/3"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Si x + 5 = 12, quelle est la valeur de x ?",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "en": {
+   "q": "If x + 5 = 12, what is the value of x?",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "ar": {
+   "q": "إذا كانت x + 5 = 12، فما قيمة x؟",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "es": {
+   "q": "Si x + 5 = 12, ¿cuál es el valor de x?",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "pt": {
+   "q": "Se x + 5 = 12, qual é o valor de x?",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel est le résultat de 3/4 + 1/4 ?",
+   "c": [
+    "1",
+    "4/8",
+    "3/8",
+    "1/2"
+   ]
+  },
+  "en": {
+   "q": "What is the result of 3/4 + 1/4?",
+   "c": [
+    "1",
+    "4/8",
+    "3/8",
+    "1/2"
+   ]
+  },
+  "ar": {
+   "q": "ما ناتج جمع 3/4 + 1/4؟",
+   "c": [
+    "1",
+    "4/8",
+    "3/8",
+    "1/2"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el resultado de 3/4 + 1/4?",
+   "c": [
+    "1",
+    "4/8",
+    "3/8",
+    "1/2"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o resultado de 3/4 + 1/4?",
+   "c": [
+    "1",
+    "4/8",
+    "3/8",
+    "1/2"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Combien font 12 multiplié par 4 ?",
+   "c": [
+    "36",
+    "42",
+    "48",
+    "52"
+   ]
+  },
+  "en": {
+   "q": "What is 12 multiplied by 4?",
+   "c": [
+    "36",
+    "42",
+    "48",
+    "52"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي 12 مضروبًا في 4؟",
+   "c": [
+    "36",
+    "42",
+    "48",
+    "52"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 12 multiplicado por 4?",
+   "c": [
+    "36",
+    "42",
+    "48",
+    "52"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 12 multiplicado por 4?",
+   "c": [
+    "36",
+    "42",
+    "48",
+    "52"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel est le double de 37 ?",
+   "c": [
+    "64",
+    "72",
+    "74",
+    "84"
+   ]
+  },
+  "en": {
+   "q": "What is double 37?",
+   "c": [
+    "64",
+    "72",
+    "74",
+    "84"
+   ]
+  },
+  "ar": {
+   "q": "ما هو ضعف العدد 37؟",
+   "c": [
+    "64",
+    "72",
+    "74",
+    "84"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el doble de 37?",
+   "c": [
+    "64",
+    "72",
+    "74",
+    "84"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o dobro de 37?",
+   "c": [
+    "64",
+    "72",
+    "74",
+    "84"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Si le périmètre d'un carré est de 36 cm, quelle est la longueur d'un côté ?",
+   "c": [
+    "6 cm",
+    "9 cm",
+    "12 cm",
+    "18 cm"
+   ]
+  },
+  "en": {
+   "q": "If the perimeter of a square is 36 cm, what is the length of one side?",
+   "c": [
+    "6 cm",
+    "9 cm",
+    "12 cm",
+    "18 cm"
+   ]
+  },
+  "ar": {
+   "q": "إذا كان محيط مربع يساوي 36 سم، فما طول ضلعه؟",
+   "c": [
+    "6 سم",
+    "9 سم",
+    "12 سم",
+    "18 سم"
+   ]
+  },
+  "es": {
+   "q": "Si el perímetro de un cuadrado es de 36 cm, ¿cuál es la longitud de un lado?",
+   "c": [
+    "6 cm",
+    "9 cm",
+    "12 cm",
+    "18 cm"
+   ]
+  },
+  "pt": {
+   "q": "Se o perímetro de um quadrado é 36 cm, qual é o comprimento de um lado?",
+   "c": [
+    "6 cm",
+    "9 cm",
+    "12 cm",
+    "18 cm"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Combien font 8 multiplié par 6 ?",
+   "c": [
+    "42",
+    "48",
+    "54",
+    "56"
+   ]
+  },
+  "en": {
+   "q": "What is 8 multiplied by 6?",
+   "c": [
+    "42",
+    "48",
+    "54",
+    "56"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي 8 مضروبًا في 6؟",
+   "c": [
+    "42",
+    "48",
+    "54",
+    "56"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 8 multiplicado por 6?",
+   "c": [
+    "42",
+    "48",
+    "54",
+    "56"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 8 multiplicado por 6?",
+   "c": [
+    "42",
+    "48",
+    "54",
+    "56"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle est la moitié de 150 ?",
+   "c": [
+    "65",
+    "70",
+    "75",
+    "80"
+   ]
+  },
+  "en": {
+   "q": "What is half of 150?",
+   "c": [
+    "65",
+    "70",
+    "75",
+    "80"
+   ]
+  },
+  "ar": {
+   "q": "ما هو نصف العدد 150؟",
+   "c": [
+    "65",
+    "70",
+    "75",
+    "80"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la mitad de 150?",
+   "c": [
+    "65",
+    "70",
+    "75",
+    "80"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a metade de 150?",
+   "c": [
+    "65",
+    "70",
+    "75",
+    "80"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Combien y a-t-il de minutes dans 2 heures ?",
+   "c": [
+    "60",
+    "90",
+    "120",
+    "180"
+   ]
+  },
+  "en": {
+   "q": "How many minutes are there in 2 hours?",
+   "c": [
+    "60",
+    "90",
+    "120",
+    "180"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد الدقائق في ساعتين؟",
+   "c": [
+    "60",
+    "90",
+    "120",
+    "180"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos minutos hay en 2 horas?",
+   "c": [
+    "60",
+    "90",
+    "120",
+    "180"
+   ]
+  },
+  "pt": {
+   "q": "Quantos minutos há em 2 horas?",
+   "c": [
+    "60",
+    "90",
+    "120",
+    "180"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel est le résultat de 50 - 17 ?",
+   "c": [
+    "23",
+    "33",
+    "37",
+    "43"
+   ]
+  },
+  "en": {
+   "q": "What is the result of 50 - 17?",
+   "c": [
+    "23",
+    "33",
+    "37",
+    "43"
+   ]
+  },
+  "ar": {
+   "q": "ما ناتج 50 - 17؟",
+   "c": [
+    "23",
+    "33",
+    "37",
+    "43"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el resultado de 50 - 17?",
+   "c": [
+    "23",
+    "33",
+    "37",
+    "43"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o resultado de 50 - 17?",
+   "c": [
+    "23",
+    "33",
+    "37",
+    "43"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Combien de côtés a un pentagone ?",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ]
+  },
+  "en": {
+   "q": "How many sides does a pentagon have?",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ]
+  },
+  "ar": {
+   "q": "كم ضلعًا للشكل الخماسي؟",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos lados tiene un pentágono?",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ]
+  },
+  "pt": {
+   "q": "Quantos lados tem um pentágono?",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle est la valeur approchée du nombre e ?",
+   "c": [
+    "2,71",
+    "3,14",
+    "1,62",
+    "1,41"
+   ]
+  },
+  "en": {
+   "q": "What is the approximate value of the number e?",
+   "c": [
+    "2.71",
+    "3.14",
+    "1.62",
+    "1.41"
+   ]
+  },
+  "ar": {
+   "q": "ما القيمة التقريبية للعدد e؟",
+   "c": [
+    "2.71",
+    "3.14",
+    "1.62",
+    "1.41"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el valor aproximado del número e?",
+   "c": [
+    "2,71",
+    "3,14",
+    "1,62",
+    "1,41"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o valor aproximado do número e?",
+   "c": [
+    "2,71",
+    "3,14",
+    "1,62",
+    "1,41"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
   "fr": {
    "q": "Quelle est la valeur de π arrondie à deux décimales ?",
    "c": [
@@ -368,6 +1007,15 @@
     "3,41",
     "3,12",
     "3,16"
+   ]
+  },
+  "en": {
+   "q": "What is π (pi) rounded to two decimals?",
+   "c": [
+    "3.14",
+    "3.41",
+    "3.12",
+    "3.16"
    ]
   },
   "ar": {
@@ -397,13 +1045,13 @@
     "3,16"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 3
  },
  {
-  "a": 1,
-  "image": null,
-  "en": {
-   "q": "What is the sum of the angles of a triangle?",
+  "fr": {
+   "q": "Quelle est la somme des angles d'un triangle ?",
    "c": [
     "90°",
     "180°",
@@ -411,8 +1059,8 @@
     "360°"
    ]
   },
-  "fr": {
-   "q": "Quelle est la somme des angles d'un triangle ?",
+  "en": {
+   "q": "What is the sum of the angles of a triangle?",
    "c": [
     "90°",
     "180°",
@@ -447,13 +1095,13 @@
     "360°"
    ]
   },
-  "d": 2
- },
- {
   "a": 1,
   "image": null,
-  "en": {
-   "q": "What is 2 to the power of 10?",
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Combien font 2 puissance 10 ?",
    "c": [
     "512",
     "1024",
@@ -461,8 +1109,8 @@
     "1000"
    ]
   },
-  "fr": {
-   "q": "Combien font 2 puissance 10 ?",
+  "en": {
+   "q": "What is 2 to the power of 10?",
    "c": [
     "512",
     "1024",
@@ -497,13 +1145,13 @@
     "1000"
    ]
   },
-  "d": 2
+  "a": 1,
+  "image": null,
+  "level": 3
  },
  {
-  "a": 2,
-  "image": null,
-  "en": {
-   "q": "What is the next number in the sequence 1, 1, 2, 3, 5, 8?",
+  "fr": {
+   "q": "Quel est le nombre suivant dans la suite 1, 1, 2, 3, 5, 8 ?",
    "c": [
     "11",
     "12",
@@ -511,8 +1159,8 @@
     "15"
    ]
   },
-  "fr": {
-   "q": "Quel est le nombre suivant dans la suite 1, 1, 2, 3, 5, 8 ?",
+  "en": {
+   "q": "What is the next number in the sequence 1, 1, 2, 3, 5, 8?",
    "c": [
     "11",
     "12",
@@ -547,13 +1195,13 @@
     "15"
    ]
   },
-  "d": 2
+  "a": 2,
+  "image": null,
+  "level": 3
  },
  {
-  "a": 1,
-  "image": null,
-  "en": {
-   "q": "What is the area of a 6 m by 4 m rectangle?",
+  "fr": {
+   "q": "Quelle est l'aire d'un rectangle de 6 m sur 4 m ?",
    "c": [
     "20 m²",
     "24 m²",
@@ -561,8 +1209,8 @@
     "28 m²"
    ]
   },
-  "fr": {
-   "q": "Quelle est l'aire d'un rectangle de 6 m sur 4 m ?",
+  "en": {
+   "q": "What is the area of a 6 m by 4 m rectangle?",
    "c": [
     "20 m²",
     "24 m²",
@@ -597,107 +1245,9 @@
     "28 m²"
    ]
   },
-  "d": 2
- },[
- {
-  "fr": {
-   "q": "Quel est le résultat de 45 divisé par 5 ?",
-   "c": [
-    "7",
-    "8",
-    "9",
-    "10"
-   ]
-  },
-  "en": {
-   "q": "What is the result of 45 divided by 5?",
-   "c": [
-    "7",
-    "8",
-    "9",
-    "10"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "ar": {
-   "q": "ما ناتج قسمة 45 على 5؟",
-   "c": [
-    "7",
-    "8",
-    "9",
-    "10"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el resultado de 45 dividido por 5?",
-   "c": [
-    "7",
-    "8",
-    "9",
-    "10"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o resultado de 45 dividido por 5?",
-   "c": [
-    "7",
-    "8",
-    "9",
-    "10"
-   ]
-  },
-  "d": 1
- },
- {
-  "fr": {
-   "q": "Quel est le périmètre d'un carré de 5 cm de côté ?",
-   "c": [
-    "15 cm",
-    "20 cm",
-    "25 cm",
-    "30 cm"
-   ]
-  },
-  "en": {
-   "q": "What is the perimeter of a square with a side length of 5 cm?",
-   "c": [
-    "15 cm",
-    "20 cm",
-    "25 cm",
-    "30 cm"
-   ]
-  },
   "a": 1,
   "image": null,
-  "ar": {
-   "q": "ما محيط مربع طول ضلعه 5 سم؟",
-   "c": [
-    "15 سم",
-    "20 سم",
-    "25 سم",
-    "30 سم"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el perímetro de un cuadrado de 5 cm de lado?",
-   "c": [
-    "15 cm",
-    "20 cm",
-    "25 cm",
-    "30 cm"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o perímetro de um quadrado com 5 cm de lado?",
-   "c": [
-    "15 cm",
-    "20 cm",
-    "25 cm",
-    "30 cm"
-   ]
-  },
-  "d": 1
+  "level": 3
  },
  {
   "fr": {
@@ -718,8 +1268,6 @@
     "81"
    ]
   },
-  "a": 2,
-  "image": null,
   "ar": {
    "q": "كم يساوي مكعب العدد 3 (3³)؟",
    "c": [
@@ -747,109 +1295,10 @@
     "81"
    ]
   },
-  "d": 2
- },
- {
-  "fr": {
-   "q": "Quelle fraction est équivalente à 1/2 ?",
-   "c": [
-    "2/4",
-    "1/3",
-    "3/4",
-    "2/3"
-   ]
-  },
-  "en": {
-   "q": "Which fraction is equivalent to 1/2?",
-   "c": [
-    "2/4",
-    "1/3",
-    "3/4",
-    "2/3"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "ar": {
-   "q": "أي كسر يوافق أو يعادل الكسر 1/2؟",
-   "c": [
-    "2/4",
-    "1/3",
-    "3/4",
-    "2/3"
-   ]
-  },
-  "es": {
-   "q": "¿Qué fracción es equivalente a 1/2?",
-   "c": [
-    "2/4",
-    "1/3",
-    "3/4",
-    "2/3"
-   ]
-  },
-  "pt": {
-   "q": "Qual fração é equivalente a 1/2?",
-   "c": [
-    "2/4",
-    "1/3",
-    "3/4",
-    "2/3"
-   ]
-  },
-  "d": 1
- },
- {
-  "fr": {
-   "q": "Si x + 5 = 12, quelle est la valeur de x ?",
-   "c": [
-    "5",
-    "6",
-    "7",
-    "8"
-   ]
-  },
-  "en": {
-   "q": "If x + 5 = 12, what is the value of x?",
-   "c": [
-    "5",
-    "6",
-    "7",
-    "8"
-   ]
-  },
   "a": 2,
   "image": null,
-  "ar": {
-   "q": "إذا كانت x + 5 = 12، فما قيمة x؟",
-   "c": [
-    "5",
-    "6",
-    "7",
-    "8"
-   ]
-  },
-  "es": {
-   "q": "Si x + 5 = 12, ¿cuál es el valor de x?",
-   "c": [
-    "5",
-    "6",
-    "7",
-    "8"
-   ]
-  },
-  "pt": {
-   "q": "Se x + 5 = 12, qual é o valor de x?",
-   "c": [
-    "5",
-    "6",
-    "7",
-    "8"
-   ]
-  },
-  "d": 1
+  "level": 3
  },
-  [
  {
   "fr": {
    "q": "Quel est le plus grand commun diviseur (PGCD) de 12 et 18 ?",
@@ -869,10 +1318,8 @@
     "2"
    ]
   },
-  "a": 1,
-  "image": null,
   "ar": {
-   "q": "ما هو القواسم المشتركة الأكبر (القاسم المشترك الأعظم) للعددين 12 و 18؟",
+   "q": "ما هو القاسم المشترك الأكبر (PGCD) للعددين 12 و 18؟",
    "c": [
     "3",
     "6",
@@ -898,57 +1345,9 @@
     "2"
    ]
   },
-  "d": 2
- },
- {
-  "fr": {
-   "q": "Quel est le résultat de 3/4 + 1/4 ?",
-   "c": [
-    "1",
-    "4/8",
-    "3/8",
-    "1/2"
-   ]
-  },
-  "en": {
-   "q": "What is the result of 3/4 + 1/4?",
-   "c": [
-    "1",
-    "4/8",
-    "3/8",
-    "1/2"
-   ]
-  },
-  "a": 0,
+  "a": 1,
   "image": null,
-  "ar": {
-   "q": "ما ناتج جمع 3/4 + 1/4؟",
-   "c": [
-    "1",
-    "4/8",
-    "3/8",
-    "1/2"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el resultado de 3/4 + 1/4?",
-   "c": [
-    "1",
-    "4/8",
-    "3/8",
-    "1/2"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o resultado de 3/4 + 1/4?",
-   "c": [
-    "1",
-    "4/8",
-    "3/8",
-    "1/2"
-   ]
-  },
-  "d": 1
+  "level": 3
  },
  {
   "fr": {
@@ -969,8 +1368,6 @@
     "400"
    ]
   },
-  "a": 3,
-  "image": null,
   "ar": {
    "q": "كم يساوي ناتج قسمة 100 على 0.25؟",
    "c": [
@@ -998,7 +1395,9 @@
     "400"
    ]
   },
-  "d": 2
+  "a": 3,
+  "image": null,
+  "level": 3
  },
  {
   "fr": {
@@ -1019,8 +1418,6 @@
     "€72"
    ]
   },
-  "a": 1,
-  "image": null,
   "ar": {
    "q": "إذا كان سعر سلعة 80 يورو وتم تطبيق تخفيض بنسبة 20٪، فما هو سعرها الجديد؟",
    "c": [
@@ -1048,7 +1445,9 @@
     "72 €"
    ]
   },
-  "d": 2
+  "a": 1,
+  "image": null,
+  "level": 3
  },
  {
   "fr": {
@@ -1069,8 +1468,6 @@
     "37.68 cm²"
    ]
   },
-  "a": 1,
-  "image": null,
   "ar": {
    "q": "ما مساحة دائرة نصف قطرها 3 سم (باستخدام π ≈ 3.14)؟",
    "c": [
@@ -1098,108 +1495,9 @@
     "37,68 cm²"
    ]
   },
-  "d": 2
- },
-   [
- {
-  "fr": {
-   "q": "Combien font 12 multiplié par 4 ?",
-   "c": [
-    "36",
-    "42",
-    "48",
-    "52"
-   ]
-  },
-  "en": {
-   "q": "What is 12 multiplied by 4?",
-   "c": [
-    "36",
-    "42",
-    "48",
-    "52"
-   ]
-  },
-  "a": 2,
+  "a": 1,
   "image": null,
-  "ar": {
-   "q": "كم يساوي 12 مضروبًا في 4؟",
-   "c": [
-    "36",
-    "42",
-    "48",
-    "52"
-   ]
-  },
-  "es": {
-   "q": "¿Cuánto es 12 multiplicado por 4?",
-   "c": [
-    "36",
-    "42",
-    "48",
-    "52"
-   ]
-  },
-  "pt": {
-   "q": "Quanto é 12 multiplicado por 4?",
-   "c": [
-    "36",
-    "42",
-    "48",
-    "52"
-   ]
-  },
-  "d": 1
- },
- {
-  "fr": {
-   "q": "Quel est le double de 37 ?",
-   "c": [
-    "64",
-    "72",
-    "74",
-    "84"
-   ]
-  },
-  "en": {
-   "q": "What is double 37?",
-   "c": [
-    "64",
-    "72",
-    "74",
-    "84"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "ar": {
-   "q": "ما هو ضعف العدد 37؟",
-   "c": [
-    "64",
-    "72",
-    "74",
-    "84"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el doble de 37?",
-   "c": [
-    "64",
-    "72",
-    "74",
-    "84"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o dobro de 37?",
-   "c": [
-    "64",
-    "72",
-    "74",
-    "84"
-   ]
-  },
-  "d": 1
+  "level": 3
  },
  {
   "fr": {
@@ -1220,8 +1518,6 @@
     "0.75"
    ]
   },
-  "a": 2,
-  "image": null,
   "ar": {
    "q": "ما هو الكسر 3/5 مكتوبًا على هيئة عدد عشري؟",
    "c": [
@@ -1249,57 +1545,9 @@
     "0,75"
    ]
   },
-  "d": 2
- },
- {
-  "fr": {
-   "q": "Si le périmètre d'un carré est de 36 cm, quelle est la longueur d'un côté ?",
-   "c": [
-    "6 cm",
-    "9 cm",
-    "12 cm",
-    "18 cm"
-   ]
-  },
-  "en": {
-   "q": "If the perimeter of a square is 36 cm, what is the length of one side?",
-   "c": [
-    "6 cm",
-    "9 cm",
-    "12 cm",
-    "18 cm"
-   ]
-  },
-  "a": 1,
+  "a": 2,
   "image": null,
-  "ar": {
-   "q": "إذا كان محيط مربع يساوي 36 سم، فما طول ضلعه؟",
-   "c": [
-    "6 سم",
-    "9 سم",
-    "12 سم",
-    "18 سم"
-   ]
-  },
-  "es": {
-   "q": "Si el perímetro de un cuadrado es de 36 cm, ¿cuál es la longitud de un lado?",
-   "c": [
-    "6 cm",
-    "9 cm",
-    "12 cm",
-    "18 cm"
-   ]
-  },
-  "pt": {
-   "q": "Se o perímetro de um quadrado é 36 cm, qual é o comprimento de um lado?",
-   "c": [
-    "6 cm",
-    "9 cm",
-    "12 cm",
-    "18 cm"
-   ]
-  },
-  "d": 1
+  "level": 4
  },
  {
   "fr": {
@@ -1320,8 +1568,6 @@
     "0"
    ]
   },
-  "a": 2,
-  "image": null,
   "ar": {
    "q": "ما ناتج العملية الحسابية 25 - 5 × 3؟",
    "c": [
@@ -1349,261 +1595,10 @@
     "0"
    ]
   },
-  "d": 2
- },
-    [
- {
-  "fr": {
-   "q": "Combien font 8 multiplié par 6 ?",
-   "c": [
-    "42",
-    "48",
-    "54",
-    "56"
-   ]
-  },
-  "en": {
-   "q": "What is 8 multiplied by 6?",
-   "c": [
-    "42",
-    "48",
-    "54",
-    "56"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "ar": {
-   "q": "كم يساوي 8 مضروبًا في 6؟",
-   "c": [
-    "42",
-    "48",
-    "54",
-    "56"
-   ]
-  },
-  "es": {
-   "q": "¿Cuánto es 8 multiplicado por 6?",
-   "c": [
-    "42",
-    "48",
-    "54",
-    "56"
-   ]
-  },
-  "pt": {
-   "q": "Quanto é 8 multiplicado por 6?",
-   "c": [
-    "42",
-    "48",
-    "54",
-    "56"
-   ]
-  },
-  "d": 1
- },
- {
-  "fr": {
-   "q": "Quelle est la moitié de 150 ?",
-   "c": [
-    "65",
-    "70",
-    "75",
-    "80"
-   ]
-  },
-  "en": {
-   "q": "What is half of 150?",
-   "c": [
-    "65",
-    "70",
-    "75",
-    "80"
-   ]
-  },
   "a": 2,
   "image": null,
-  "ar": {
-   "q": "ما هو نصف العدد 150؟",
-   "c": [
-    "65",
-    "70",
-    "75",
-    "80"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es la mitad de 150?",
-   "c": [
-    "65",
-    "70",
-    "75",
-    "80"
-   ]
-  },
-  "pt": {
-   "q": "Qual é a metade de 150?",
-   "c": [
-    "65",
-    "70",
-    "75",
-    "80"
-   ]
-  },
-  "d": 1
+  "level": 4
  },
- {
-  "fr": {
-   "q": "Combien y a-t-il de minutes dans 2 heures ?",
-   "c": [
-    "60",
-    "90",
-    "120",
-    "180"
-   ]
-  },
-  "en": {
-   "q": "How many minutes are there in 2 hours?",
-   "c": [
-    "60",
-    "90",
-    "120",
-    "180"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "ar": {
-   "q": "كم عدد الدقائق في ساعتين؟",
-   "c": [
-    "60",
-    "90",
-    "120",
-    "180"
-   ]
-  },
-  "es": {
-   "q": "¿Cuántos minutos hay en 2 horas?",
-   "c": [
-    "60",
-    "90",
-    "120",
-    "180"
-   ]
-  },
-  "pt": {
-   "q": "Quantos minutos há em 2 horas?",
-   "c": [
-    "60",
-    "90",
-    "120",
-    "180"
-   ]
-  },
-  "d": 1
- },
- {
-  "fr": {
-   "q": "Quel est le résultat de 50 - 17 ?",
-   "c": [
-    "23",
-    "33",
-    "37",
-    "43"
-   ]
-  },
-  "en": {
-   "q": "What is the result of 50 - 17?",
-   "c": [
-    "23",
-    "33",
-    "37",
-    "43"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "ar": {
-   "q": "ما ناتج 50 - 17؟",
-   "c": [
-    "23",
-    "33",
-    "37",
-    "43"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el resultado de 50 - 17?",
-   "c": [
-    "23",
-    "33",
-    "37",
-    "43"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o resultado de 50 - 17?",
-   "c": [
-    "23",
-    "33",
-    "37",
-    "43"
-   ]
-  },
-  "d": 1
- },
- {
-  "fr": {
-   "q": "Combien de côtés a un pentagone ?",
-   "c": [
-    "4",
-    "5",
-    "6",
-    "7"
-   ]
-  },
-  "en": {
-   "q": "How many sides does a pentagon have?",
-   "c": [
-    "4",
-    "5",
-    "6",
-    "7"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "ar": {
-   "q": "كم ضلعًا للشكل الخماسي؟",
-   "c": [
-    "4",
-    "5",
-    "6",
-    "7"
-   ]
-  },
-  "es": {
-   "q": "¿Cuántos lados tiene un pentágono?",
-   "c": [
-    "4",
-    "5",
-    "6",
-    "7"
-   ]
-  },
-  "pt": {
-   "q": "Quantos lados tem um pentágono?",
-   "c": [
-    "4",
-    "5",
-    "6",
-    "7"
-   ]
-  },
-  "d": 1
- },
-     
-[
  {
   "fr": {
    "q": "Quel est le périmètre d'un rectangle de 8 cm de longueur et de 5 cm de largeur ?",
@@ -1623,8 +1618,6 @@
     "30 cm"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "ما محيط مستطيل طوله 8 سم وعرضه 5 سم؟",
    "c": [
@@ -1652,7 +1645,9 @@
     "30 cm"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 4
  },
  {
   "fr": {
@@ -1673,8 +1668,6 @@
     "€5.00"
    ]
   },
-  "a": 1,
-  "image": null,
   "ar": {
    "q": "إذا كانت 3 تفاحات تكلف 2.40 يورو، فكم تكلف 5 تفاحات؟",
    "c": [
@@ -1702,7 +1695,9 @@
     "5,00 €"
    ]
   },
-  "d": 2
+  "a": 1,
+  "image": null,
+  "level": 4
  },
  {
   "fr": {
@@ -1723,8 +1718,6 @@
     "48 cm³"
    ]
   },
-  "a": 2,
-  "image": null,
   "ar": {
    "q": "ما حجم مكعب طول ضلعه 4 سم؟",
    "c": [
@@ -1752,7 +1745,9 @@
     "48 cm³"
    ]
   },
-  "d": 2
+  "a": 2,
+  "image": null,
+  "level": 4
  },
  {
   "fr": {
@@ -1773,8 +1768,6 @@
     "6"
    ]
   },
-  "a": 2,
-  "image": null,
   "ar": {
    "q": "حل المعادلة: 3x - 4 = 11. ما قيمة x؟",
    "c": [
@@ -1802,7 +1795,9 @@
     "6"
    ]
   },
-  "d": 2
+  "a": 2,
+  "image": null,
+  "level": 4
  },
  {
   "fr": {
@@ -1823,8 +1818,6 @@
     "18"
    ]
   },
-  "a": 2,
-  "image": null,
   "ar": {
    "q": "ما هو متوسط الأعداد التالية: 12، 15، 18 و 23؟",
    "c": [
@@ -1852,7 +1845,8 @@
     "18"
    ]
   },
-  "d": 2
+  "a": 2,
+  "image": null,
+  "level": 4
  }
-]
 ]
