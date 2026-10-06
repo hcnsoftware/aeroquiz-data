@@ -46,107 +46,7 @@
    ]
   },
   "a": 0,
-  "image": "arts_mona_lisa.jpg",
-  "level": 1
- },
- {
-  "fr": {
-   "q": "Qui a écrit « Roméo et Juliette » ?",
-   "c": [
-    "Shakespeare",
-    "Molière",
-    "Victor Hugo",
-    "Dickens"
-   ]
-  },
-  "en": {
-   "q": "Who wrote Romeo and Juliet?",
-   "c": [
-    "Shakespeare",
-    "Molière",
-    "Victor Hugo",
-    "Dickens"
-   ]
-  },
-  "ar": {
-   "q": "من كتب «روميو وجولييت»؟",
-   "c": [
-    "شكسبير",
-    "موليير",
-    "فيكتور هوغو",
-    "ديكنز"
-   ]
-  },
-  "es": {
-   "q": "¿Quién escribió Romeo y Julieta?",
-   "c": [
-    "Shakespeare",
-    "Molière",
-    "Victor Hugo",
-    "Dickens"
-   ]
-  },
-  "pt": {
-   "q": "Quem escreveu Romeu e Julieta?",
-   "c": [
-    "Shakespeare",
-    "Molière",
-    "Victor Hugo",
-    "Dickens"
-   ]
-  },
-  "a": 0,
   "image": null,
-  "level": 1
- },
- {
-  "fr": {
-   "q": "Qui a peint « La Nuit étoilée » ?",
-   "c": [
-    "Van Gogh",
-    "Monet",
-    "Munch",
-    "Dalí"
-   ]
-  },
-  "en": {
-   "q": "Who painted The Starry Night?",
-   "c": [
-    "Van Gogh",
-    "Monet",
-    "Munch",
-    "Dalí"
-   ]
-  },
-  "ar": {
-   "q": "من رسم «ليلة النجوم»؟",
-   "c": [
-    "فان غوخ",
-    "مونيه",
-    "مونش",
-    "دالي"
-   ]
-  },
-  "es": {
-   "q": "¿Quién pintó La noche estrellada?",
-   "c": [
-    "Van Gogh",
-    "Monet",
-    "Munch",
-    "Dalí"
-   ]
-  },
-  "pt": {
-   "q": "Quem pintou A Noite Estrelada?",
-   "c": [
-    "Van Gogh",
-    "Monet",
-    "Munch",
-    "Dalí"
-   ]
-  },
-  "a": 0,
-  "image": "arts_starry_night.jpg",
   "level": 1
  },
  {
@@ -201,51 +101,51 @@
  },
  {
   "fr": {
-   "q": "Quel instrument a des touches noires et blanches ?",
+   "q": "Dans quel film d'animation apparaissent les petits Minions jaunes ?",
    "c": [
-    "Le piano",
-    "Le violon",
-    "La flûte",
-    "La batterie"
+    "Shrek",
+    "Madagascar",
+    "L'Âge de glace",
+    "Moi, moche et méchant"
    ]
   },
   "en": {
-   "q": "Which instrument has black and white keys?",
+   "q": "Which animated film features the little yellow Minions?",
    "c": [
-    "Piano",
-    "Violin",
-    "Flute",
-    "Drums"
+    "Shrek",
+    "Madagascar",
+    "Ice Age",
+    "Despicable Me"
    ]
   },
   "ar": {
-   "q": "أي آلة موسيقية لها مفاتيح سوداء وبيضاء؟",
+   "q": "في أي فيلم رسوم متحركة تظهر المينيونز الصفراء الصغيرة؟",
    "c": [
-    "البيانو",
-    "الكمان",
-    "الناي",
-    "الطبول"
+    "شريك",
+    "مدغشقر",
+    "العصر الجليدي",
+    "أنا الحقير"
    ]
   },
   "es": {
-   "q": "¿Qué instrumento tiene teclas blancas y negras?",
+   "q": "¿En qué película de animación aparecen los pequeños Minions amarillos?",
    "c": [
-    "El piano",
-    "El violín",
-    "La flauta",
-    "La batería"
+    "Shrek",
+    "Madagascar",
+    "Ice Age",
+    "Gru, mi villano favorito"
    ]
   },
   "pt": {
-   "q": "Qual instrumento tem teclas pretas e brancas?",
+   "q": "Em qual animação aparecem os pequenos Minions amarelos?",
    "c": [
-    "O piano",
-    "O violino",
-    "A flauta",
-    "A bateria"
+    "Shrek",
+    "Madagascar",
+    "A Era do Gelo",
+    "Meu Malvado Favorito"
    ]
   },
-  "a": 0,
+  "a": 3,
   "image": null,
   "level": 1
  },
@@ -301,598 +201,348 @@
  },
  {
   "fr": {
-   "q": "Qui a écrit le roman « Le Petit Prince » ?",
+   "q": "Dans quel film les Na'vi, êtres à la peau bleue, vivent-ils sur la planète Pandora ?",
    "c": [
-    "Antoine de Saint-Exupéry",
-    "Jules Verne",
-    "Albert Camus",
-    "Victor Hugo"
+    "Dune",
+    "Matrix",
+    "Star Wars",
+    "Avatar"
    ]
   },
   "en": {
-   "q": "Who wrote the novel 'The Little Prince'?",
+   "q": "In which film do the blue-skinned Na'vi live on the planet Pandora?",
    "c": [
-    "Antoine de Saint-Exupéry",
-    "Jules Verne",
-    "Albert Camus",
-    "Victor Hugo"
+    "Dune",
+    "The Matrix",
+    "Star Wars",
+    "Avatar"
    ]
   },
   "ar": {
-   "q": "من كتب رواية «الأمير الصغير»؟",
+   "q": "في أي فيلم يعيش شعب النافي ذو البشرة الزرقاء على كوكب باندورا؟",
    "c": [
-    "أنطوان دو سانت إيكزوبري",
-    "جول فيرن",
-    "ألبير كامو",
-    "فيكتور هوغو"
+    "الكثيب",
+    "ماتريكس",
+    "حرب النجوم",
+    "أفاتار"
    ]
   },
   "es": {
-   "q": "¿Quién escribió la novela 'El Principito'?",
+   "q": "¿En qué película viven los na'vi, seres de piel azul, en el planeta Pandora?",
    "c": [
-    "Antoine de Saint-Exupéry",
-    "Jules Verne",
-    "Albert Camus",
-    "Victor Hugo"
+    "Dune",
+    "Matrix",
+    "Star Wars",
+    "Avatar"
    ]
   },
   "pt": {
-   "q": "Quem escreveu o romance 'O Pequeno Príncipe'?",
+   "q": "Em qual filme os na'vi, seres de pele azul, vivem no planeta Pandora?",
    "c": [
-    "Antoine de Saint-Exupéry",
-    "Jules Verne",
-    "Albert Camus",
-    "Victor Hugo"
+    "Duna",
+    "Matrix",
+    "Star Wars",
+    "Avatar"
    ]
   },
-  "a": 0,
+  "a": 3,
   "image": null,
   "level": 1
  },
  {
   "fr": {
-   "q": "Quel compositeur est devenu sourd au cours de sa vie tout en continuant à composer ?",
+   "q": "Dans quel film Jack et Rose tombent-ils amoureux à bord d'un navire qui va sombrer ?",
    "c": [
-    "Beethoven",
-    "Mozart",
-    "Vivaldi",
-    "Chopin"
+    "Avatar",
+    "Titanic",
+    "Poseidon",
+    "Pearl Harbor"
    ]
   },
   "en": {
-   "q": "Which composer became deaf later in life while continuing to compose?",
+   "q": "In which film do Jack and Rose fall in love aboard a ship that is about to sink?",
    "c": [
-    "Beethoven",
-    "Mozart",
-    "Vivaldi",
-    "Chopin"
+    "Avatar",
+    "Titanic",
+    "Poseidon",
+    "Pearl Harbor"
    ]
   },
   "ar": {
-   "q": "أي مؤلف موسيقي أصيب بالصمم في أواخر حياته لكنه استمر في التأليف؟",
+   "q": "في أي فيلم يقع جاك وروز في الحب على متن سفينة توشك أن تغرق؟",
    "c": [
-    "بيتهوفن",
-    "موتسارت",
-    "فيفالدي",
-    "شوبان"
+    "أفاتار",
+    "تيتانيك",
+    "بوسيدون",
+    "بيرل هاربر"
    ]
   },
   "es": {
-   "q": "¿Qué compositor se quedó sordo más tarde en la vida mientras seguía componiendo?",
+   "q": "¿En qué película se enamoran Jack y Rose a bordo de un barco que está a punto de hundirse?",
    "c": [
-    "Beethoven",
-    "Mozart",
-    "Vivaldi",
-    "Chopin"
+    "Avatar",
+    "Titanic",
+    "Poseidon",
+    "Pearl Harbor"
    ]
   },
   "pt": {
-   "q": "Qual compositor ficou surdo mais tarde na vida, mas continuou compondo?",
+   "q": "Em qual filme Jack e Rose se apaixonam a bordo de um navio prestes a afundar?",
    "c": [
-    "Beethoven",
-    "Mozart",
-    "Vivaldi",
-    "Chopin"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 1
- },
- {
-  "fr": {
-   "q": "Qui a écrit le roman dystopique « 1984 » ?",
-   "c": [
-    "George Orwell",
-    "Aldous Huxley",
-    "Ray Bradbury",
-    "H.G. Wells"
-   ]
-  },
-  "en": {
-   "q": "Who wrote the dystopian novel '1984'?",
-   "c": [
-    "George Orwell",
-    "Aldous Huxley",
-    "Ray Bradbury",
-    "H.G. Wells"
-   ]
-  },
-  "ar": {
-   "q": "من كتب رواية الديستوبيا «1984»؟",
-   "c": [
-    "جورج أوروويل",
-    "ألدوس هكسلي",
-    "راي برادبري",
-    "إتش جي ويلز"
-   ]
-  },
-  "es": {
-   "q": "¿Quién escribió la novela distópica '1984'?",
-   "c": [
-    "George Orwell",
-    "Aldous Huxley",
-    "Ray Bradbury",
-    "H.G. Wells"
-   ]
-  },
-  "pt": {
-   "q": "Quem escreveu o romance distópico '1984'?",
-   "c": [
-    "George Orwell",
-    "Aldous Huxley",
-    "Ray Bradbury",
-    "H.G. Wells"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 1
- },
- {
-  "fr": {
-   "q": "Qui a écrit le célèbre roman espagnol « Don Quichotte » ?",
-   "c": [
-    "Miguel de Cervantes",
-    "Lope de Vega",
-    "Federico García Lorca",
-    "Gabriel García Márquez"
-   ]
-  },
-  "en": {
-   "q": "Who wrote the famous Spanish novel 'Don Quixote'?",
-   "c": [
-    "Miguel de Cervantes",
-    "Lope de Vega",
-    "Federico García Lorca",
-    "Gabriel García Márquez"
-   ]
-  },
-  "ar": {
-   "q": "من كتب الرواية الإسبانية الشهيرة «دون كيخوطي»؟",
-   "c": [
-    "ميغيل دي ثيربانتس",
-    "لوبي دي فيغا",
-    "فيديريكو غارسيا لوركا",
-    "غابرييل غارسيا ماركيز"
-   ]
-  },
-  "es": {
-   "q": "¿Quién escribió la famosa novela española 'Don Quijote de la Mancha'?",
-   "c": [
-    "Miguel de Cervantes",
-    "Lope de Vega",
-    "Federico García Lorca",
-    "Gabriel García Márquez"
-   ]
-  },
-  "pt": {
-   "q": "Quem escreveu o famoso romance espanhol 'Dom Quixote'?",
-   "c": [
-    "Miguel de Cervantes",
-    "Lope de Vega",
-    "Federico García Lorca",
-    "Gabriel García Márquez"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 1
- },
- {
-  "fr": {
-   "q": "Qui a écrit le roman philosophique « L'Étranger » ?",
-   "c": [
-    "Albert Camus",
-    "Jean-Paul Sartre",
-    "Simone de Beauvoir",
-    "André Malraux"
-   ]
-  },
-  "en": {
-   "q": "Who wrote the philosophical novel 'The Stranger'?",
-   "c": [
-    "Albert Camus",
-    "Jean-Paul Sartre",
-    "Simone de Beauvoir",
-    "André Malraux"
-   ]
-  },
-  "ar": {
-   "q": "من كتب الرواية الفلسفية «الغريب»؟",
-   "c": [
-    "ألبير كامو",
-    "جان بول سارتر",
-    "سيمون دي بفوار",
-    "أندريه مالرو"
-   ]
-  },
-  "es": {
-   "q": "¿Quién escribió la novela filosófica 'El extranjero'?",
-   "c": [
-    "Albert Camus",
-    "Jean-Paul Sartre",
-    "Simone de Beauvoir",
-    "André Malraux"
-   ]
-  },
-  "pt": {
-   "q": "Quem escreveu o romance filosófico 'O Estrangeiro'?",
-   "c": [
-    "Albert Camus",
-    "Jean-Paul Sartre",
-    "Simone de Beauvoir",
-    "André Malraux"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 2
- },
- {
-  "fr": {
-   "q": "Quel artiste impressionniste est célèbre pour sa série de peintures des « Nymphéas » à Giverny ?",
-   "c": [
-    "Claude Monet",
-    "Édouard Manet",
-    "Auguste Renoir",
-    "Camille Pissarro"
-   ]
-  },
-  "en": {
-   "q": "Which Impressionist artist is famous for his series of 'Water Lilies' (Nymphéas) paintings in Giverny?",
-   "c": [
-    "Claude Monet",
-    "Édouard Manet",
-    "Auguste Renoir",
-    "Camille Pissarro"
-   ]
-  },
-  "ar": {
-   "q": "أي فنان انطباعي تشتهر سلسلته الفنية «زنابق الماء» (النيفيا) في جيفرني؟",
-   "c": [
-    "كلود مونيه",
-    "إدوارد مانيه",
-    "أوغست رينوار",
-    "كاميل بيسارو"
-   ]
-  },
-  "es": {
-   "q": "¿Qué artista impresionista es famoso por su serie de pinturas de 'Nenúfares' en Giverny?",
-   "c": [
-    "Claude Monet",
-    "Édouard Manet",
-    "Auguste Renoir",
-    "Camille Pissarro"
-   ]
-  },
-  "pt": {
-   "q": "Qual artista impressionista é famoso por sua série de pinturas de 'Nenúfares' em Giverny?",
-   "c": [
-    "Claude Monet",
-    "Édouard Manet",
-    "Auguste Renoir",
-    "Camille Pissarro"
-   ]
-  },
-  "a": 0,
-  "image": "arts_water_lilies.jpg",
-  "level": 2
- },
- {
-  "fr": {
-   "q": "Quel compositeur classique a écrit l'opéra « La Flûte enchantée » ?",
-   "c": [
-    "Wolfgang Amadeus Mozart",
-    "Ludwig van Beethoven",
-    "Joseph Haydn",
-    "Antonio Vivaldi"
-   ]
-  },
-  "en": {
-   "q": "Which classical composer wrote the opera 'The Magic Flute'?",
-   "c": [
-    "Wolfgang Amadeus Mozart",
-    "Ludwig van Beethoven",
-    "Joseph Haydn",
-    "Antonio Vivaldi"
-   ]
-  },
-  "ar": {
-   "q": "أي مؤلف موسيقي كلاسيكي كتب أوبرا «الناي السحري»؟",
-   "c": [
-    "فولفغانغ أماديوس موتسارت",
-    "لودفيغ فان بيتهوفن",
-    "جوزيف هايدن",
-    "أنطونيو فيفالدي"
-   ]
-  },
-  "es": {
-   "q": "¿Qué compositor clásico escribió la ópera 'La flauta mágica'?",
-   "c": [
-    "Wolfgang Amadeus Mozart",
-    "Ludwig van Beethoven",
-    "Joseph Haydn",
-    "Antonio Vivaldi"
-   ]
-  },
-  "pt": {
-   "q": "Qual compositor clássico escreveu a ópera 'A Flauta Mágica'?",
-   "c": [
-    "Wolfgang Amadeus Mozart",
-    "Ludwig van Beethoven",
-    "Joseph Haydn",
-    "Antonio Vivaldi"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 2
- },
- {
-  "fr": {
-   "q": "Qui est l'auteur du célèbre roman d'aventures « Le Comte de Monte-Cristo » ?",
-   "c": [
-    "Alexandre Dumas",
-    "Jules Verne",
-    "Victor Hugo",
-    "Émile Zola"
-   ]
-  },
-  "en": {
-   "q": "Who is the author of the famous adventure novel 'The Count of Monte Cristo'?",
-   "c": [
-    "Alexandre Dumas",
-    "Jules Verne",
-    "Victor Hugo",
-    "Émile Zola"
-   ]
-  },
-  "ar": {
-   "q": "من هو مؤلف رواية المغامرات الشهيرة «كونت مونت كريستو»؟",
-   "c": [
-    "ألكسندر دوماس",
-    "جول فيرن",
-    "فيكتور هوغو",
-    "إميل زولا"
-   ]
-  },
-  "es": {
-   "q": "¿Quién es el autor de la famosa novela de aventuras 'El conde de Montecristo'?",
-   "c": [
-    "Alexandre Dumas",
-    "Jules Verne",
-    "Victor Hugo",
-    "Émile Zola"
-   ]
-  },
-  "pt": {
-   "q": "Quem é o autor do famoso romance de aventura 'O Conde de Monte Cristo'?",
-   "c": [
-    "Alexandre Dumas",
-    "Jules Verne",
-    "Victor Hugo",
-    "Émile Zola"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 2
- },
- {
-  "fr": {
-   "q": "Quel film de science-fiction réalisé par Christopher Nolan explore les voyages à travers les trous de ver et la dilatation du temps ?",
-   "c": [
-    "Blade Runner 2049",
-    "Interstellar",
-    "Seul sur Mars",
-    "Premier Contact"
-   ]
-  },
-  "en": {
-   "q": "Which sci-fi film directed by Christopher Nolan explores wormhole travel and time dilation?",
-   "c": [
-    "Blade Runner 2049",
-    "Interstellar",
-    "The Martian",
-    "Arrival"
-   ]
-  },
-  "ar": {
-   "q": "أي فيلم خيال علمي من إخراج كريستوفر نولان يستكشف السفر عبر الثقوب الدودية وتمدد الزمن؟",
-   "c": [
-    "Blade Runner 2049",
-    "Interstellar",
-    "المريخي",
-    "Arrival"
-   ]
-  },
-  "es": {
-   "q": "¿Qué película de ciencia ficción dirigida por Christopher Nolan explora los viajes a través de agujeros de gusano y la dilatación del tiempo?",
-   "c": [
-    "Blade Runner 2049",
-    "Interstellar",
-    "Marte",
-    "La llegada"
-   ]
-  },
-  "pt": {
-   "q": "Qual filme de ficção científica dirigido por Christopher Nolan explora viagens por buracos de minhoca e dilatação do tempo?",
-   "c": [
-    "Blade Runner 2049",
-    "Interstellar",
-    "Perdido em Marte",
-    "A Chegada"
+    "Avatar",
+    "Titanic",
+    "Poseidon",
+    "Pearl Harbor"
    ]
   },
   "a": 1,
   "image": null,
-  "level": 2
+  "level": 1
  },
  {
   "fr": {
-   "q": "Dans la série télévisée 'Breaking Bad', quel est le véritable métier de Walter White avant qu'il ne commence à fabriquer de la méthamphétamine ?",
+   "q": "Quel ogre vert vit dans un marais et sauve la princesse Fiona ?",
    "c": [
-    "Avocat",
-    "Professeur de chimie au lycée",
-    "Médecin",
-    "Policier"
+    "Yoda",
+    "Le Grinch",
+    "Hulk",
+    "Shrek"
    ]
   },
   "en": {
-   "q": "In the TV series 'Breaking Bad', what is Walter White's real profession before he starts manufacturing methamphetamine?",
+   "q": "Which green ogre lives in a swamp and rescues Princess Fiona?",
    "c": [
-    "Lawyer",
-    "High school chemistry teacher",
-    "Doctor",
-    "Police officer"
+    "Yoda",
+    "The Grinch",
+    "Hulk",
+    "Shrek"
    ]
   },
   "ar": {
-   "q": "في المسلسل التلفزيوني 'Breaking Bad'، ما هي مهنة والتر وايت الحقيقية قبل أن يبدأ في صنع الميثامفيتامين؟",
+   "q": "أي غول أخضر يعيش في مستنقع وينقذ الأميرة فيونا؟",
    "c": [
-    "محامٍ",
-    "معلم كيمياء في المدرسة الثانوية",
-    "طبيب",
-    "ضابط شرطة"
+    "يودا",
+    "الغرينش",
+    "هالك",
+    "شريك"
    ]
   },
   "es": {
-   "q": "En la serie de televisión 'Breaking Bad', ¿cuál es la verdadera profesión de Walter White antes de empezar a fabricar metanfetamina?",
+   "q": "¿Qué ogro verde vive en un pantano y rescata a la princesa Fiona?",
    "c": [
-    "Abogado",
-    "Profesor de química de secundaria",
-    "Médico",
-    "Policía"
+    "Yoda",
+    "El Grinch",
+    "Hulk",
+    "Shrek"
    ]
   },
   "pt": {
-   "q": "Na série de TV 'Breaking Bad', qual é a verdadeira profissão de Walter White antes de começar a fabricar metanfetamina?",
+   "q": "Qual ogro verde vive em um pântano e resgata a princesa Fiona?",
    "c": [
-    "Advogado",
-    "Professor de química do ensino médio",
-    "Médico",
-    "Policial"
+    "Yoda",
+    "O Grinch",
+    "Hulk",
+    "Shrek"
    ]
   },
-  "a": 1,
+  "a": 3,
   "image": null,
-  "level": 2
+  "level": 1
  },
  {
   "fr": {
-   "q": "Quel réalisateur est connu pour ses films d'animation fantastiques et poétiques tels que 'Le Voyage de Chihiro' et 'Mon voisin Totoro' ?",
+   "q": "Quel personnage de dessin animé vit dans un ananas au fond de la mer ?",
    "c": [
-    "Makoto Shinkai",
-    "Hayao Miyazaki",
-    "Mamoru Hosoda",
-    "Satoshi Kon"
+    "Patrick l'étoile de mer",
+    "Carlo",
+    "Bob l'éponge",
+    "Monsieur Krabs"
    ]
   },
   "en": {
-   "q": "Which director is known for his fantastic and poetic animated films such as 'Spirited Away' and 'My Neighbor Totoro'?",
+   "q": "Which cartoon character lives in a pineapple under the sea?",
    "c": [
-    "Makoto Shinkai",
-    "Hayao Miyazaki",
-    "Mamoru Hosoda",
-    "Satoshi Kon"
+    "Patrick Star",
+    "Squidward",
+    "SpongeBob SquarePants",
+    "Mr. Krabs"
    ]
   },
   "ar": {
-   "q": "من هو المخرج المعروف بأفلام الرسوم المتحركة الخيالية والشاعرية مثل 'المخطوفة' (Spirited Away) و'جاري توتورو'؟",
+   "q": "أي شخصية كرتونية تعيش في أناناس تحت البحر؟",
    "c": [
-    "ماكوتو شينكاي",
-    "هاياو ميازاكي",
-    "مامورو هوسودا",
-    "ساتوشي كون"
+    "باتريك ستار",
+    "سكويدوورد",
+    "سبونج بوب",
+    "السيد كرابس"
    ]
   },
   "es": {
-   "q": "¿Qué director es conocido por sus películas de animación fantásticas y poéticas como 'El viaje de Chihiro' y 'Mi vecino Totoro'?",
+   "q": "¿Qué personaje de dibujos animados vive en una piña bajo el mar?",
    "c": [
-    "Makoto Shinkai",
-    "Hayao Miyazaki",
-    "Mamoru Hosoda",
-    "Satoshi Kon"
+    "Patricio Estrella",
+    "Calamardo",
+    "Bob Esponja",
+    "Don Cangrejo"
    ]
   },
   "pt": {
-   "q": "Qual diretor é conhecido por seus filmes de animação fantásticos e poéticos, como 'A Viagem de Chihiro' e 'Meu Vizinho Totoro'?",
+   "q": "Qual personagem de desenho animado mora em um abacaxi no fundo do mar?",
    "c": [
-    "Makoto Shinkai",
-    "Hayao Miyazaki",
-    "Mamoru Hosoda",
-    "Satoshi Kon"
+    "Patrick Estrela",
+    "Lula Molusco",
+    "Bob Esponja",
+    "Seu Sirigueijo"
    ]
   },
-  "a": 1,
+  "a": 2,
   "image": null,
-  "level": 2
+  "level": 1
  },
  {
   "fr": {
-   "q": "Dans la saga de films 'Harry Potter', dans quelle maison de l'école de Poudlard le héros est-il réparti ?",
+   "q": "Quelle chanteuse est surnommée la « Reine de la pop » ?",
    "c": [
-    "Serpentard",
-    "Gryffondor",
-    "Poufsouffle",
-    "Serdaigle"
+    "Madonna",
+    "Beyoncé",
+    "Adele",
+    "Rihanna"
    ]
   },
   "en": {
-   "q": "In the 'Harry Potter' film series, which Hogwarts house is the hero sorted into?",
+   "q": "Which singer is nicknamed the 'Queen of Pop'?",
    "c": [
-    "Slytherin",
-    "Gryffindor",
-    "Hufflepuff",
-    "Ravenclaw"
+    "Madonna",
+    "Beyoncé",
+    "Adele",
+    "Rihanna"
    ]
   },
   "ar": {
-   "q": "في سلسلة أفلام 'هاري بوتر'، إلى أي منزل في مدرسة هوغوورتس يتم فرز البطل؟",
+   "q": "أي مغنية تُلقَّب بـ«ملكة البوب»؟",
    "c": [
-    "سليذيرين",
-    "غريفيندور",
-    "هافلباف",
-    "رافينكلو"
+    "مادونا",
+    "بيونسيه",
+    "أديل",
+    "ريهانا"
    ]
   },
   "es": {
-   "q": "En la saga de películas de 'Harry Potter', ¿en qué casa de la escuela Hogwarts es asignado el héroe?",
+   "q": "¿Qué cantante es conocida como la «Reina del pop»?",
    "c": [
-    "Slytherin",
-    "Gryffindor",
-    "Hufflepuff",
-    "Ravenclaw"
+    "Madonna",
+    "Beyoncé",
+    "Adele",
+    "Rihanna"
    ]
   },
   "pt": {
-   "q": "Na série de filmes 'Harry Potter', em qual casa da escola Hogwarts o herói é colocado?",
+   "q": "Qual cantora é conhecida como a «Rainha do Pop»?",
    "c": [
-    "Sonserina",
-    "Grifinória",
-    "Lufa-Lufa",
-    "Corvinal"
+    "Madonna",
+    "Beyoncé",
+    "Adele",
+    "Rihanna"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "De quelle couleur est le célèbre Pokémon Pikachu ?",
+   "c": [
+    "Bleu",
+    "Rouge",
+    "Jaune",
+    "Vert"
+   ]
+  },
+  "en": {
+   "q": "What color is the famous Pokémon Pikachu?",
+   "c": [
+    "Blue",
+    "Red",
+    "Yellow",
+    "Green"
+   ]
+  },
+  "ar": {
+   "q": "ما هو لون بوكيمون بيكاتشو الشهير؟",
+   "c": [
+    "أزرق",
+    "أحمر",
+    "أصفر",
+    "أخضر"
+   ]
+  },
+  "es": {
+   "q": "¿De qué color es el famoso Pokémon Pikachu?",
+   "c": [
+    "Azul",
+    "Rojo",
+    "Amarillo",
+    "Verde"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a cor do famoso Pokémon Pikachu?",
+   "c": [
+    "Azul",
+    "Vermelho",
+    "Amarelo",
+    "Verde"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel bonhomme de neige attachant et rigolo prend vie dans le dessin animé de Disney « La Reine des neiges » ?",
+   "c": [
+    "Kristoff",
+    "Olaf",
+    "Sven",
+    "Hans"
+   ]
+  },
+  "en": {
+   "q": "What endearing and funny snowman comes to life in the Disney cartoon 'Frozen'?",
+   "c": [
+    "Kristoff",
+    "Olaf",
+    "Sven",
+    "Hans"
+   ]
+  },
+  "ar": {
+   "q": "ما هو اسم رجل الثلج المحبوب والمضحك الذي يدب فيه الحياة في رسوم ديزني «ملكة الثلج» (Frozen)؟",
+   "c": [
+    "كريستوف",
+    "أولاف",
+    "سفين",
+    "هانس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué muñeco de nieve entrañable y divertido cobra vida en la película de Disney «Frozen: El reino del hielo»?",
+   "c": [
+    "Kristoff",
+    "Olaf",
+    "Sven",
+    "Hans"
+   ]
+  },
+  "pt": {
+   "q": "Qual boneco de neve fofo e engraçado ganha vida no desenho da Disney «Frozen»?",
+   "c": [
+    "Kristoff",
+    "Olaf",
+    "Sven",
+    "Hans"
    ]
   },
   "a": 1,
@@ -951,1653 +601,203 @@
  },
  {
   "fr": {
-   "q": "Dans la série animée 'Le Roi Lion', quel est le nom du jeune lion qui doit reprendre le trône après son père Mufasa ?",
+   "q": "Quel hérisson bleu est célèbre pour sa vitesse incroyable ?",
    "c": [
-    "Simba",
-    "Scar",
-    "Timon",
-    "Pumbaa"
+    "Crash Bandicoot",
+    "Mario",
+    "Rayman",
+    "Sonic"
    ]
   },
   "en": {
-   "q": "In the animated film 'The Lion King', what is the name of the young lion who must take the throne after his father Mufasa?",
+   "q": "Which blue hedgehog is famous for his incredible speed?",
    "c": [
-    "Simba",
-    "Scar",
-    "Timon",
-    "Pumbaa"
+    "Crash Bandicoot",
+    "Mario",
+    "Rayman",
+    "Sonic"
    ]
   },
   "ar": {
-   "q": "في فيلم الرسوم المتحركة 'الأسد الملك'، ما هو اسم الأسد الصغير الذي يجب أن يتولى العرش بعد أبيه موفاسا؟",
+   "q": "أي قنفذ أزرق اشتهر بسرعته الخارقة؟",
    "c": [
-    "سيمبا",
-    "سكار",
-    "تيمون",
-    "بومبا"
+    "كراش بانديكوت",
+    "ماريو",
+    "رايمان",
+    "سونيك"
    ]
   },
   "es": {
-   "q": "En la película animada 'El Rey León', ¿cómo se llama el joven león que debe tomar el trono después de su padre Mufasa?",
+   "q": "¿Qué erizo azul es famoso por su velocidad increíble?",
    "c": [
-    "Simba",
-    "Scar",
-    "Timón",
-    "Pumba"
+    "Crash Bandicoot",
+    "Mario",
+    "Rayman",
+    "Sonic"
    ]
   },
   "pt": {
-   "q": "No filme animado 'O Rei Leão', qual é o nome do jovem leão que deve assumir o trono após seu pai Mufasa?",
+   "q": "Qual ouriço azul é famoso por sua velocidade incrível?",
    "c": [
-    "Simba",
-    "Scar",
-    "Timão",
-    "Pumba"
+    "Crash Bandicoot",
+    "Mario",
+    "Rayman",
+    "Sonic"
    ]
   },
-  "a": 0,
+  "a": 3,
   "image": null,
   "level": 2
  },
  {
   "fr": {
-   "q": "Quel célèbre détective privé et magicien du monde des sorciers possède une cicatrice en forme d'éclair sur le front ?",
+   "q": "Quel super-héros est l'identité secrète de Bruce Wayne ?",
    "c": [
-    "Ron Weasley",
-    "Harry Potter",
-    "Drago Malefoy",
-    "Neville Londubat"
+    "Spider-Man",
+    "Iron Man",
+    "Superman",
+    "Batman"
    ]
   },
   "en": {
-   "q": "Which famous young wizard in the wizarding world has a lightning-bolt scar on his forehead?",
+   "q": "Which superhero is the secret identity of Bruce Wayne?",
    "c": [
-    "Ron Weasley",
-    "Harry Potter",
-    "Draco Malfoy",
-    "Neville Longbottom"
+    "Spider-Man",
+    "Iron Man",
+    "Superman",
+    "Batman"
    ]
   },
   "ar": {
-   "q": "من هو الساحر الشاب الشهير في عالم السحرة الذي يحمل ندبة على شكل برق على جبهته؟",
+   "q": "أي بطل خارق هو الهوية السرية لبروس واين؟",
    "c": [
-    "رون ويزلي",
+    "سبايدرمان",
+    "الرجل الحديدي",
+    "سوبرمان",
+    "باتمان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué superhéroe es la identidad secreta de Bruce Wayne?",
+   "c": [
+    "Spider-Man",
+    "Iron Man",
+    "Superman",
+    "Batman"
+   ]
+  },
+  "pt": {
+   "q": "Qual super-herói é a identidade secreta de Bruce Wayne?",
+   "c": [
+    "Spider-Man",
+    "Iron Man",
+    "Superman",
+    "Batman"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Dans quelle saga les héros se battent-ils avec des sabres laser en disant « Que la Force soit avec toi » ?",
+   "c": [
+    "Star Trek",
+    "Harry Potter",
+    "Matrix",
+    "Star Wars"
+   ]
+  },
+  "en": {
+   "q": "In which saga do heroes fight with lightsabers and say 'May the Force be with you'?",
+   "c": [
+    "Star Trek",
+    "Harry Potter",
+    "The Matrix",
+    "Star Wars"
+   ]
+  },
+  "ar": {
+   "q": "في أي سلسلة يتقاتل الأبطال بالسيوف الضوئية ويقولون «لتكن القوة معك»؟",
+   "c": [
+    "ستار تريك",
     "هاري بوتر",
-    "دراكو مالفوي",
-    "نيفيل لونجبوتوم"
+    "ماتريكس",
+    "حرب النجوم"
    ]
   },
   "es": {
-   "q": "¿Qué famoso joven mago del mundo mágico tiene una cicatriz en forma de rayo en la frente?",
+   "q": "¿En qué saga los héroes luchan con sables de luz y dicen «Que la Fuerza te acompañe»?",
    "c": [
-    "Ron Weasley",
+    "Star Trek",
     "Harry Potter",
-    "Draco Malfoy",
-    "Neville Longbottom"
+    "Matrix",
+    "Star Wars"
    ]
   },
   "pt": {
-   "q": "Qual famoso jovem bruxo do mundo mágico tem uma cicatriz em forma de raio na testa?",
+   "q": "Em qual saga os heróis lutam com sabres de luz e dizem «Que a Força esteja com você»?",
    "c": [
-    "Ron Weasley",
+    "Star Trek",
     "Harry Potter",
-    "Draco Malfoy",
-    "Neville Longbottom"
+    "Matrix",
+    "Star Wars"
    ]
   },
-  "a": 1,
+  "a": 3,
   "image": null,
-  "level": 3
+  "level": 2
  },
  {
   "fr": {
-   "q": "Dans la série 'Stranger Things', comment s'appelle la mystérieuse fillette dotée de pouvoirs télékinétiques ?",
+   "q": "Quelle série de jeux consiste à capturer des créatures avec des Poké Balls ?",
    "c": [
-    "Max",
-    "Eleven (Onze)",
-    "Nancy",
-    "Robin"
+    "Animal Crossing",
+    "Digimon",
+    "Pokémon",
+    "Zelda"
    ]
   },
   "en": {
-   "q": "In the series 'Stranger Things', what is the name of the mysterious young girl with telekinetic powers?",
+   "q": "Which game series is about catching creatures with Poké Balls?",
    "c": [
-    "Max",
-    "Eleven",
-    "Nancy",
-    "Robin"
+    "Animal Crossing",
+    "Digimon",
+    "Pokémon",
+    "Zelda"
    ]
   },
   "ar": {
-   "q": "في مسلسل 'Stranger Things'، ما هو اسم الفتاة الصغيرة الغامضة التي تمتلك قوى تحريك الأجسام عن بعد؟",
+   "q": "أي سلسلة ألعاب تقوم على اصطياد المخلوقات بكرات البوكيبول؟",
    "c": [
-    "ماكس",
-    "إلفين (Eleven)",
-    "نانسي",
-    "روبين"
+    "أنيمال كروسينغ",
+    "ديجيمون",
+    "بوكيمون",
+    "زيلدا"
    ]
   },
   "es": {
-   "q": "En la serie 'Stranger Things', ¿cómo se llama la misteriosa niña con poderes telequinéticos?",
+   "q": "¿Qué saga de videojuegos trata de capturar criaturas con Poké Balls?",
    "c": [
-    "Max",
-    "Eleven",
-    "Nancy",
-    "Robin"
+    "Animal Crossing",
+    "Digimon",
+    "Pokémon",
+    "Zelda"
    ]
   },
   "pt": {
-   "q": "Na série 'Stranger Things', qual é o nome da misteriosa garota com poderes telecinéticos?",
-   "c": [
-    "Max",
-    "Eleven",
-    "Nancy",
-    "Robin"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 3
- },
- {
-  "fr": {
-   "q": "Qui a écrit Les Misérables ?",
-   "c": [
-    "Victor Hugo",
-    "Émile Zola",
-    "Balzac",
-    "Molière"
-   ]
-  },
-  "en": {
-   "q": "Who wrote Les Misérables?",
-   "c": [
-    "Victor Hugo",
-    "Émile Zola",
-    "Balzac",
-    "Molière"
-   ]
-  },
-  "ar": {
-   "q": "من كتب «البؤساء»؟",
-   "c": [
-    "فيكتور هوغو",
-    "إميل زولا",
-    "بلزاك",
-    "موليير"
-   ]
-  },
-  "es": {
-   "q": "¿Quién escribió Los miserables?",
-   "c": [
-    "Victor Hugo",
-    "Émile Zola",
-    "Balzac",
-    "Molière"
-   ]
-  },
-  "pt": {
-   "q": "Quem escreveu Os Miseráveis?",
-   "c": [
-    "Victor Hugo",
-    "Émile Zola",
-    "Balzac",
-    "Molière"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 3
- },
- {
-  "fr": {
-   "q": "Qui a peint « Guernica » ?",
-   "c": [
-    "Picasso",
-    "Dalí",
-    "Miró",
-    "Goya"
-   ]
-  },
-  "en": {
-   "q": "Who painted Guernica?",
-   "c": [
-    "Picasso",
-    "Dalí",
-    "Miró",
-    "Goya"
-   ]
-  },
-  "ar": {
-   "q": "من رسم «غرنيكا»؟",
-   "c": [
-    "بيكاسو",
-    "دالي",
-    "ميرو",
-    "غويا"
-   ]
-  },
-  "es": {
-   "q": "¿Quién pintó el Guernica?",
-   "c": [
-    "Picasso",
-    "Dalí",
-    "Miró",
-    "Goya"
-   ]
-  },
-  "pt": {
-   "q": "Quem pintou Guernica?",
-   "c": [
-    "Picasso",
-    "Dalí",
-    "Miró",
-    "Goya"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 3
- },
- {
-  "fr": {
-   "q": "Qui a composé « Les Quatre Saisons » ?",
-   "c": [
-    "Vivaldi",
-    "Mozart",
-    "Beethoven",
-    "Bach"
-   ]
-  },
-  "en": {
-   "q": "Who composed The Four Seasons?",
-   "c": [
-    "Vivaldi",
-    "Mozart",
-    "Beethoven",
-    "Bach"
-   ]
-  },
-  "ar": {
-   "q": "من ألّف «الفصول الأربعة»؟",
-   "c": [
-    "فيفالدي",
-    "موتسارت",
-    "بيتهوفن",
-    "باخ"
-   ]
-  },
-  "es": {
-   "q": "¿Quién compuso Las cuatro estaciones?",
-   "c": [
-    "Vivaldi",
-    "Mozart",
-    "Beethoven",
-    "Bach"
-   ]
-  },
-  "pt": {
-   "q": "Quem compôs As Quatro Estações?",
-   "c": [
-    "Vivaldi",
-    "Mozart",
-    "Beethoven",
-    "Bach"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 3
- },
- {
-  "fr": {
-   "q": "Qui a peint le plafond de la chapelle Sixtine ?",
-   "c": [
-    "Michel-Ange",
-    "Raphaël",
-    "Donatello",
-    "Léonard de Vinci"
-   ]
-  },
-  "en": {
-   "q": "Who painted the ceiling of the Sistine Chapel?",
-   "c": [
-    "Michelangelo",
-    "Raphael",
-    "Donatello",
-    "Leonardo da Vinci"
-   ]
-  },
-  "ar": {
-   "q": "من رسم سقف كنيسة سيستين؟",
-   "c": [
-    "مايكل أنجلو",
-    "رافائيل",
-    "دوناتيلو",
-    "ليوناردو دا فينشي"
-   ]
-  },
-  "es": {
-   "q": "¿Quién pintó el techo de la Capilla Sixtina?",
-   "c": [
-    "Miguel Ángel",
-    "Rafael",
-    "Donatello",
-    "Leonardo da Vinci"
-   ]
-  },
-  "pt": {
-   "q": "Quem pintou o teto da Capela Sistina?",
-   "c": [
-    "Michelangelo",
-    "Rafael",
-    "Donatello",
-    "Leonardo da Vinci"
-   ]
-  },
-  "a": 0,
-  "image": "arts_sistine_chapel_ceiling.jpg",
-  "level": 3
- },
- {
-  "fr": {
-   "q": "Qui a composé la Neuvième Symphonie, avec l'Ode à la joie ?",
-   "c": [
-    "Beethoven",
-    "Mozart",
-    "Bach",
-    "Chopin"
-   ]
-  },
-  "en": {
-   "q": "Who composed the Ninth Symphony, with the Ode to Joy?",
-   "c": [
-    "Beethoven",
-    "Mozart",
-    "Bach",
-    "Chopin"
-   ]
-  },
-  "ar": {
-   "q": "من ألّف السيمفونية التاسعة التي تتضمن «نشيد الفرح»؟",
-   "c": [
-    "بيتهوفن",
-    "موتسارت",
-    "باخ",
-    "شوبان"
-   ]
-  },
-  "es": {
-   "q": "¿Quién compuso la Novena Sinfonía, con la Oda a la alegría?",
-   "c": [
-    "Beethoven",
-    "Mozart",
-    "Bach",
-    "Chopin"
-   ]
-  },
-  "pt": {
-   "q": "Quem compôs a Nona Sinfonia, com a Ode à Alegria?",
-   "c": [
-    "Beethoven",
-    "Mozart",
-    "Bach",
-    "Chopin"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 3
- },
- {
-  "fr": {
-   "q": "Dans quel musée la Joconde est-elle exposée ?",
-   "c": [
-    "Le Louvre",
-    "Le Prado",
-    "Les Offices",
-    "Le British Museum"
-   ]
-  },
-  "en": {
-   "q": "In which museum is the Mona Lisa displayed?",
-   "c": [
-    "The Louvre",
-    "The Prado",
-    "The Uffizi",
-    "The British Museum"
-   ]
-  },
-  "ar": {
-   "q": "في أي متحف تُعرض الموناليزا؟",
-   "c": [
-    "اللوفر",
-    "البرادو",
-    "أوفيزي",
-    "المتحف البريطاني"
-   ]
-  },
-  "es": {
-   "q": "¿En qué museo se exhibe la Mona Lisa?",
-   "c": [
-    "El Louvre",
-    "El Prado",
-    "Los Uffizi",
-    "El Museo Británico"
-   ]
-  },
-  "pt": {
-   "q": "Em que museu a Mona Lisa está exposta?",
-   "c": [
-    "O Louvre",
-    "O Prado",
-    "A Galeria Uffizi",
-    "O Museu Britânico"
-   ]
-  },
-  "a": 0,
-  "image": "arts_mona_lisa.jpg",
-  "level": 3
- },
- {
-  "fr": {
-   "q": "Quel sculpteur a créé l'œuvre « Le Penseur » ?",
-   "c": [
-    "Auguste Rodin",
-    "Camille Claudel",
-    "Michel-Ange",
-    "Alberto Giacometti"
-   ]
-  },
-  "en": {
-   "q": "Which sculptor created the artwork 'The Thinker'?",
-   "c": [
-    "Auguste Rodin",
-    "Camille Claudel",
-    "Michelangelo",
-    "Alberto Giacometti"
-   ]
-  },
-  "ar": {
-   "q": "أي نحات صمم تمثال «المفكر»؟",
-   "c": [
-    "أوغست رودان",
-    "كاميل كلوديل",
-    "مايكل أنجلو",
-    "ألبرتو جياكوميتي"
-   ]
-  },
-  "es": {
-   "q": "¿Qué escultor creó la obra 'El pensador'?",
-   "c": [
-    "Auguste Rodin",
-    "Camille Claudel",
-    "Miguel Ángel",
-    "Alberto Giacometti"
-   ]
-  },
-  "pt": {
-   "q": "Qual escultor criou a obra 'O Pensador'?",
-   "c": [
-    "Auguste Rodin",
-    "Camille Claudel",
-    "Michelangelo",
-    "Alberto Giacometti"
-   ]
-  },
-  "a": 0,
-  "image": "arts_the_thinker.jpg",
-  "level": 3
- },
- {
-  "fr": {
-   "q": "Qui a écrit le recueil de poèmes « Les Fleurs du mal » ?",
-   "c": [
-    "Charles Baudelaire",
-    "Arthur Rimbaud",
-    "Paul Verlaine",
-    "Victor Hugo"
-   ]
-  },
-  "en": {
-   "q": "Who wrote the poetry collection 'Les Fleurs du mal'?",
-   "c": [
-    "Charles Baudelaire",
-    "Arthur Rimbaud",
-    "Paul Verlaine",
-    "Victor Hugo"
-   ]
-  },
-  "ar": {
-   "q": "من كتب ديوان «أزهار الشر»؟",
-   "c": [
-    "شارل بودلير",
-    "آرثر رامبو",
-    "بول فيرلين",
-    "فيكتور هوغو"
-   ]
-  },
-  "es": {
-   "q": "¿Quién escribió el poemario 'Las flores del mal'?",
-   "c": [
-    "Charles Baudelaire",
-    "Arthur Rimbaud",
-    "Paul Verlaine",
-    "Victor Hugo"
-   ]
-  },
-  "pt": {
-   "q": "Quem escreveu a coletânea de poemas 'As Flores do Mal'?",
-   "c": [
-    "Charles Baudelaire",
-    "Arthur Rimbaud",
-    "Paul Verlaine",
-    "Victor Hugo"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 3
- },
- {
-  "fr": {
-   "q": "Qui a peint la fresque « La Cène » ?",
-   "c": [
-    "Léonard de Vinci",
-    "Michel-Ange",
-    "Raphaël",
-    "Caravage"
-   ]
-  },
-  "en": {
-   "q": "Who painted the mural 'The Last Supper'?",
-   "c": [
-    "Leonardo da Vinci",
-    "Michelangelo",
-    "Raphael",
-    "Caravaggio"
-   ]
-  },
-  "ar": {
-   "q": "من رسم جدارية «العشاء الأخير»؟",
-   "c": [
-    "ليوناردو دا فينشي",
-    "مايكل أنجلو",
-    "رافائيل",
-    "كارافاجيو"
-   ]
-  },
-  "es": {
-   "q": "¿Quién pintó el mural 'La Última Cena'?",
-   "c": [
-    "Leonardo da Vinci",
-    "Miguel Ángel",
-    "Rafael",
-    "Caravaggio"
-   ]
-  },
-  "pt": {
-   "q": "Quem pintou o mural 'A Última Ceia'?",
-   "c": [
-    "Leonardo da Vinci",
-    "Michelangelo",
-    "Rafael",
-    "Caravaggio"
-   ]
-  },
-  "a": 0,
-  "image": "arts_last_supper.jpg",
-  "level": 4
- },
- {
-  "fr": {
-   "q": "Quel artiste surréaliste a peint « La Persistance de la mémoire » (les montres molles) ?",
-   "c": [
-    "Salvador Dalí",
-    "René Magritte",
-    "Joan Miró",
-    "Max Ernst"
-   ]
-  },
-  "en": {
-   "q": "Which surrealist artist painted 'The Persistence of Memory' (the melting clocks)?",
-   "c": [
-    "Salvador Dalí",
-    "René Magritte",
-    "Joan Miró",
-    "Max Ernst"
-   ]
-  },
-  "ar": {
-   "q": "أي فنان سريالي رسم «إصرار الذاكرة» (الساعات الذائبة)؟",
-   "c": [
-    "سلفادور دالي",
-    "رينيه ماغريت",
-    "جوان ميرو",
-    "ماكس إرنست"
-   ]
-  },
-  "es": {
-   "q": "¿Qué artista surrealista pintó 'La persistencia de la memoria' (los relojes blandos)?",
-   "c": [
-    "Salvador Dalí",
-    "René Magritte",
-    "Joan Miró",
-    "Max Ernst"
-   ]
-  },
-  "pt": {
-   "q": "Qual artista surrealista pintou 'A Persistência da Memória' (os relógios derretidos)?",
-   "c": [
-    "Salvador Dalí",
-    "René Magritte",
-    "Joan Miró",
-    "Max Ernst"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 4
- },
- {
-  "fr": {
-   "q": "Quel compositeur russe a écrit la musique du ballet « Le Lac des cygnes » ?",
-   "c": [
-    "Piotr Ilitch Tchaïkovski",
-    "Igor Stravinsky",
-    "Serge Rachmaninov",
-    "Dimitri Chostakovich"
-   ]
-  },
-  "en": {
-   "q": "Which Russian composer wrote the music for the ballet 'Swan Lake'?",
-   "c": [
-    "Pyotr Ilyich Tchaikovsky",
-    "Igor Stravinsky",
-    "Sergei Rachmaninoff",
-    "Dmitri Shostakovich"
-   ]
-  },
-  "ar": {
-   "q": "أي مؤلف موسيقي روسي كتب موسيقا باليه «بحيرة البجع»؟",
-   "c": [
-    "بيوتر إيليتش تشايكوفسكي",
-    "إيغور سترافينسكي",
-    "سيرغي رحمانينوف",
-    "ديميتري شوستاكوفيتش"
-   ]
-  },
-  "es": {
-   "q": "¿Qué compositor ruso escribió la música para el ballet 'El lago de los cisnes'?",
-   "c": [
-    "Piotr Ilich Chaikovski",
-    "Igor Stravinski",
-    "Serguéi Rajmáninov",
-    "Dmitri Shostakóvich"
-   ]
-  },
-  "pt": {
-   "q": "Qual compositor russo escreveu a música para o balé 'O Lago dos Cisnes'?",
-   "c": [
-    "Pyotr Ilyich Tchaikovsky",
-    "Igor Stravinsky",
-    "Sergei Rachmaninoff",
-    "Dmitri Shostakovich"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 4
- },
- {
-  "fr": {
-   "q": "Quel peintre expressionniste norvégien est l'auteur du tableau « Le Cri » ?",
-   "c": [
-    "Edvard Munch",
-    "Gustav Klimt",
-    "Egon Schiele",
-    "Emil Nolde"
-   ]
-  },
-  "en": {
-   "q": "Which Norwegian expressionist painter created the painting 'The Scream'?",
-   "c": [
-    "Edvard Munch",
-    "Gustav Klimt",
-    "Egon Schiele",
-    "Emil Nolde"
-   ]
-  },
-  "ar": {
-   "q": "أي رسام تعبيري نرويجي هو مؤلف لوحة «الصرخة»؟",
-   "c": [
-    "إدفارد مونك",
-    "غوستاف كليمت",
-    "إغون شيلي",
-    "إميل نولده"
-   ]
-  },
-  "es": {
-   "q": "¿Qué pintor expresionista noruego creó el cuadro 'El grito'?",
-   "c": [
-    "Edvard Munch",
-    "Gustav Klimt",
-    "Egon Schiele",
-    "Emil Nolde"
-   ]
-  },
-  "pt": {
-   "q": "Qual pintor expressionista norueguês criou a pintura 'O Grito'?",
-   "c": [
-    "Edvard Munch",
-    "Gustav Klimt",
-    "Egon Schiele",
-    "Emil Nolde"
-   ]
-  },
-  "a": 0,
-  "image": "arts_the_scream.jpg",
-  "level": 4
- },
- {
-  "fr": {
-   "q": "Quel poète italien du Moyen Âge a écrit « La Divine Comédie » ?",
-   "c": [
-    "Dante Alighieri",
-    "Pétrarque",
-    "Boccace",
-    "Machiavel"
-   ]
-  },
-  "en": {
-   "q": "Which medieval Italian poet wrote 'The Divine Comedy'?",
-   "c": [
-    "Dante Alighieri",
-    "Petrarch",
-    "Boccaccio",
-    "Machiavelli"
-   ]
-  },
-  "ar": {
-   "q": "أي شاعر إيطالي من العصور الوسطى كتب «الكوميديا الإلهية»؟",
-   "c": [
-    "دانتي أليغييري",
-    "فرانشيسكو بتراركا",
-    "بوكاكو",
-    "ميكيافيلي"
-   ]
-  },
-  "es": {
-   "q": "¿Qué poeta italiano de la Edad Media escribió 'La Divina Comedia'?",
-   "c": [
-    "Dante Alighieri",
-    "Petrarca",
-    "Boccaccio",
-    "Maquiavelo"
-   ]
-  },
-  "pt": {
-   "q": "Qual poeta italiano da Idade Média escreveu 'A Divina Comédia'?",
-   "c": [
-    "Dante Alighieri",
-    "Petrarca",
-    "Boccaccio",
-    "Maquiavel"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 4
- },
- {
-  "fr": {
-   "q": "Qui a peint « La Naissance de Vénus » ?",
-   "c": [
-    "Sandro Botticelli",
-    "Léonard de Vinci",
-    "Raphaël",
-    "Le Caravage"
-   ]
-  },
-  "en": {
-   "q": "Who painted 'The Birth of Venus'?",
-   "c": [
-    "Sandro Botticelli",
-    "Leonardo da Vinci",
-    "Raphael",
-    "Caravaggio"
-   ]
-  },
-  "ar": {
-   "q": "من رسم لوحة «ولادة فينوس»؟",
-   "c": [
-    "ساندرو بوتيتشيلي",
-    "ليوناردو دا فينشي",
-    "رافائيل",
-    "كارافاجيو"
-   ]
-  },
-  "es": {
-   "q": "¿Quién pintó 'El nacimiento de Venus'?",
-   "c": [
-    "Sandro Botticelli",
-    "Leonardo da Vinci",
-    "Rafael",
-    "Caravaggio"
-   ]
-  },
-  "pt": {
-   "q": "Quem pintou 'O Nascimento de Vênus'?",
-   "c": [
-    "Sandro Botticelli",
-    "Leonardo da Vinci",
-    "Rafael",
-    "Caravaggio"
-   ]
-  },
-  "a": 0,
-  "image": "arts_birth_of_venus.jpg",
-  "level": 4
- },
- {
-  "fr": {
-   "q": "Qui a écrit le monumental roman « Guerre et Paix » ?",
-   "c": [
-    "Léon Tolstoï",
-    "Fiodor Dostoïevski",
-    "Anton Tchekhov",
-    "Alexandre Pouchkine"
-   ]
-  },
-  "en": {
-   "q": "Who wrote the monumental novel 'War and Peace'?",
-   "c": [
-    "Leo Tolstoy",
-    "Fyodor Dostoevsky",
-    "Anton Chekhov",
-    "Alexander Pushkin"
-   ]
-  },
-  "ar": {
-   "q": "من كتب الرواية الضخمة «الحرب والسلام»؟",
-   "c": [
-    "لئو تولستوي",
-    "فيودور دوستويفسكي",
-    "أنطون تشيخوف",
-    "ألكسندر بوشكين"
-   ]
-  },
-  "es": {
-   "q": "¿Quién escribió la monumental novela 'Guerra y paz'?",
-   "c": [
-    "León Tolstói",
-    "Fiódor Dostoyevski",
-    "Antón Chéjov",
-    "Aleksandr Pushkin"
-   ]
-  },
-  "pt": {
-   "q": "Quem escreveu o monumental romance 'Guerra e Paz'?",
-   "c": [
-    "Leo Tolstoy",
-    "Fyodor Dostoevsky",
-    "Anton Chekhov",
-    "Alexander Pushkin"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 4
- },
- {
-  "fr": {
-   "q": "Quel célèbre sculpteur de la Renaissance a réalisé la statue du « David » conservée à Florence ?",
-   "c": [
-    "Michel-Ange",
-    "Donatello",
-    "Le Bernin",
-    "Verrocchio"
-   ]
-  },
-  "en": {
-   "q": "Which famous Renaissance sculptor created the statue of 'David' housed in Florence?",
-   "c": [
-    "Michelangelo",
-    "Donatello",
-    "Gian Lorenzo Bernini",
-    "Verrocchio"
-   ]
-  },
-  "ar": {
-   "q": "أي نحات شهير من عصر النهضة أنجز تمثال «داود» الموجود في فلورنسا؟",
-   "c": [
-    "مايكل أنجلو",
-    "دوناتيلو",
-    "جيان لورينزو بيرنيني",
-    "فيروكيو"
-   ]
-  },
-  "es": {
-   "q": "¿Qué famoso escultor del Renacimiento creó la estatua de 'David' en Florencia?",
-   "c": [
-    "Miguel Ángel",
-    "Donatello",
-    "Gian Lorenzo Bernini",
-    "Verrocchio"
-   ]
-  },
-  "pt": {
-   "q": "Qual famoso escultor renascentista criou a estátua de 'David' em Florença?",
-   "c": [
-    "Michelangelo",
-    "Donatello",
-    "Gian Lorenzo Bernini",
-    "Verrocchio"
-   ]
-  },
-  "a": 0,
-  "image": "arts_david_michelangelo.jpg",
-  "level": 4
- },
- {
-  "fr": {
-   "q": "Qui a écrit le célèbre roman réaliste français « Madame Bovary » ?",
-   "c": [
-    "Gustave Flaubert",
-    "Stendhal",
-    "Honoré de Balzac",
-    "Guy de Maupassant"
-   ]
-  },
-  "en": {
-   "q": "Who wrote the famous French realist novel 'Madame Bovary'?",
-   "c": [
-    "Gustave Flaubert",
-    "Stendhal",
-    "Honoré de Balzac",
-    "Guy de Maupassant"
-   ]
-  },
-  "ar": {
-   "q": "من كتب الرواية الواقعية الفرنسية الشهيرة «مدام بوفاري»؟",
-   "c": [
-    "غوستاف فلوبير",
-    "ستاندال",
-    "ونوريه دي بلزاك",
-    "غي دي موباسان"
-   ]
-  },
-  "es": {
-   "q": "¿Quién escribió la famosa novela realista francesa 'Madame Bovary'?",
-   "c": [
-    "Gustave Flaubert",
-    "Stendhal",
-    "Honoré de Balzac",
-    "Guy de Maupassant"
-   ]
-  },
-  "pt": {
-   "q": "Quem escreveu o famoso romance realista francês 'Madame Bovary'?",
-   "c": [
-    "Gustave Flaubert",
-    "Stendhal",
-    "Honoré de Balzac",
-    "Guy de Maupassant"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 4
- },
- {
-  "fr": {
-   "q": "Quel peintre néerlandais a réalisé le célèbre tableau « La Jeune Fille à la perle » ?",
-   "c": [
-    "Johannes Vermeer",
-    "Rembrandt van Rijn",
-    "Vincent van Gogh",
-    "Frans Hals"
-   ]
-  },
-  "en": {
-   "q": "Which Dutch painter created the famous painting 'Girl with a Pearl Earring'?",
-   "c": [
-    "Johannes Vermeer",
-    "Rembrandt van Rijn",
-    "Vincent van Gogh",
-    "Frans Hals"
-   ]
-  },
-  "ar": {
-   "q": "أي رسام هولندي أنجز اللوحة الشهيرة «فتاة بقراط اللؤلؤ»؟",
-   "c": [
-    "يوهانس فيرمير",
-    "رمبرانت فان راين",
-    "فينسنت فان غوخ",
-    "فرانس هالس"
-   ]
-  },
-  "es": {
-   "q": "¿Qué pintor holandés creó el famoso cuadro 'La joven de la perla'?",
-   "c": [
-    "Johannes Vermeer",
-    "Rembrandt van Rijn",
-    "Vincent van Gogh",
-    "Frans Hals"
-   ]
-  },
-  "pt": {
-   "q": "Qual pintor holandês criou a famosa pintura 'Moça com Brinco de Pérola'?",
-   "c": [
-    "Johannes Vermeer",
-    "Rembrandt van Rijn",
-    "Vincent van Gogh",
-    "Frans Hals"
-   ]
-  },
-  "a": 0,
-  "image": "arts_girl_pearl_earring.jpg",
-  "level": 4
- },
- {
-  "fr": {
-   "q": "Qui a écrit le chef-d'œuvre psychologique « Crime et Châtiment » ?",
-   "c": [
-    "Fiodor Dostoïevski",
-    "Léon Tolstoï",
-    "Anton Tchekhov",
-    "Nikolaï Gogol"
-   ]
-  },
-  "en": {
-   "q": "Who wrote the psychological masterpiece 'Crime and Punishment'?",
-   "c": [
-    "Fyodor Dostoevsky",
-    "Leo Tolstoy",
-    "Anton Chekhov",
-    "Nikolai Gogol"
-   ]
-  },
-  "ar": {
-   "q": "من كتب التحفة النفسية «الجريمة والعقاب»؟",
-   "c": [
-    "فيودور دوستويفسكي",
-    "لئو تولستوي",
-    "أنطون تشيخوف",
-    "نيكولاي غوغل"
-   ]
-  },
-  "es": {
-   "q": "¿Quién escribió la obra maestra psicológica 'Crimen y castigo'?",
-   "c": [
-    "Fiódor Dostoyevski",
-    "León Tolstói",
-    "Antón Chéjov",
-    "Nikolái Gógol"
-   ]
-  },
-  "pt": {
-   "q": "Quem escreveu a obra-prima psicológica 'Crime e Castigo'?",
-   "c": [
-    "Fyodor Dostoevsky",
-    "Leo Tolstoy",
-    "Anton Chekhov",
-    "Nikolai Gogol"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 5
- },
- {
-  "fr": {
-   "q": "Quel auteur a écrit « Le Comte de Monte-Cristo » ?",
-   "c": [
-    "Victor Hugo",
-    "Alexandre Dumas",
-    "Honoré de Balzac",
-    "Émile Zola"
-   ]
-  },
-  "en": {
-   "q": "Which author wrote 'The Count of Monte Cristo'?",
-   "c": [
-    "Victor Hugo",
-    "Alexandre Dumas",
-    "Honoré de Balzac",
-    "Émile Zola"
-   ]
-  },
-  "ar": {
-   "q": "من هو المؤلف الذي كتب رواية «كونت مونت كريستو»؟",
-   "c": [
-    "فيكتور هوغو",
-    "ألكسندر دوما",
-    "أونوريه دي بلزاك",
-    "إيميل زولا"
-   ]
-  },
-  "es": {
-   "q": "¿Qué autor escribió «El conde de Montecristo»?",
-   "c": [
-    "Victor Hugo",
-    "Alexandre Dumas",
-    "Honoré de Balzac",
-    "Émile Zola"
-   ]
-  },
-  "pt": {
-   "q": "Qual autor escreveu «O Conde de Monte Cristo»?",
-   "c": [
-    "Victor Hugo",
-    "Alexandre Dumas",
-    "Honoré de Balzac",
-    "Émile Zola"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 5
- },
- {
-  "fr": {
-   "q": "Quel dramaturge est l'auteur de la pièce « Le Misanthrope » ?",
-   "c": [
-    "Molière",
-    "Jean Racine",
-    "Pierre Corneille",
-    "Voltaire"
-   ]
-  },
-  "en": {
-   "q": "Which playwright is the author of the play 'The Misanthrope'?",
-   "c": [
-    "Molière",
-    "Jean Racine",
-    "Pierre Corneille",
-    "Voltaire"
-   ]
-  },
-  "ar": {
-   "q": "من هو الكاتب المسرحي مؤلف مسرحية «الكره للبشر» (أنسة كاره البشر)؟",
-   "c": [
-    "مولير",
-    "جان راسين",
-    "بيير كورناي",
-    "فولتير"
-   ]
-  },
-  "es": {
-   "q": "¿Qué dramaturgo es el autor de la obra «El misántropo»?",
-   "c": [
-    "Molière",
-    "Jean Racine",
-    "Pierre Corneille",
-    "Voltaire"
-   ]
-  },
-  "pt": {
-   "q": "Qual dramaturgo é o autor da peça «O Misantropo»?",
-   "c": [
-    "Molière",
-    "Jean Racine",
-    "Pierre Corneille",
-    "Voltaire"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 5
- },
- {
-  "fr": {
-   "q": "Quel roman célèbre de Victor Hugo met en scène le personnage de Quasimodo ?",
-   "c": [
-    "Les Misérables",
-    "Notre-Dame de Paris",
-    "L'Homme qui rit",
-    "Quatre-vingt-treize"
-   ]
-  },
-  "en": {
-   "q": "Which famous novel by Victor Hugo features the character Quasimodo?",
-   "c": [
-    "Les Misérables",
-    "The Hunchback of Notre-Dame",
-    "The Man Who Laughs",
-    "Ninety-Three"
-   ]
-  },
-  "ar": {
-   "q": "ما هي الرواية الشهيرة لفيكتور هوغو التي تضم شخصية كوازيمودو؟",
-   "c": [
-    "البؤساء",
-    "أحدب نوتردام",
-    "الرجل الذي يضحك",
-    "فترة التسعين"
-   ]
-  },
-  "es": {
-   "q": "¿Qué famosa novela de Victor Hugo presenta al personaje de Quasimodo?",
-   "c": [
-    "Los miserables",
-    "Nuestra Señora de París",
-    "El hombre que ríe",
-    "Noventa y tres"
-   ]
-  },
-  "pt": {
-   "q": "Qual famoso romance de Victor Hugo apresenta o personagem Quasímodo?",
-   "c": [
-    "Os Miseráveis",
-    "O Corcunda de Notre-Dame",
-    "O Homem que Ri",
-    "Noventa e Três"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 5
- },
- {
-  "fr": {
-   "q": "Qui a écrit le recueil de contes philosophiques « Candide » ?",
-   "c": [
-    "Jean-Jacques Rousseau",
-    "Denis Diderot",
-    "Voltaire",
-    "Montesquieu"
-   ]
-  },
-  "en": {
-   "q": "Who wrote the philosophical tale collection 'Candide'?",
-   "c": [
-    "Jean-Jacques Rousseau",
-    "Denis Diderot",
-    "Voltaire",
-    "Montesquieu"
-   ]
-  },
-  "ar": {
-   "q": "من كتب مجموعة الحكايات الفلسفية «كانديد»؟",
-   "c": [
-    "جان جاك روسو",
-    "دينيس ديدرو",
-    "فولتير",
-    "مونتسكيو"
-   ]
-  },
-  "es": {
-   "q": "¿Quién escribió el cuento filosófico «Cándido»?",
-   "c": [
-    "Jean-Jacques Rousseau",
-    "Denis Diderot",
-    "Voltaire",
-    "Montesquieu"
-   ]
-  },
-  "pt": {
-   "q": "Quem escreveu o conto filosófico «Cândido»?",
-   "c": [
-    "Jean-Jacques Rousseau",
-    "Denis Diderot",
-    "Voltaire",
-    "Montesquieu"
+   "q": "Qual série de jogos é sobre capturar criaturas com Poké Bolas?",
+   "c": [
+    "Animal Crossing",
+    "Digimon",
+    "Pokémon",
+    "Zelda"
    ]
   },
   "a": 2,
   "image": null,
-  "level": 5
- },
- {
-  "fr": {
-   "q": "Quel poète français est l'auteur du recueil « Alcools » (1913) ?",
-   "c": [
-    "Paul Verlaine",
-    "Guillaume Apollinaire",
-    "Arthur Rimbaud",
-    "Charles Baudelaire"
-   ]
-  },
-  "en": {
-   "q": "Which French poet is the author of the collection 'Alcools' (1913)?",
-   "c": [
-    "Paul Verlaine",
-    "Guillaume Apollinaire",
-    "Arthur Rimbaud",
-    "Charles Baudelaire"
-   ]
-  },
-  "ar": {
-   "q": "من هو الشاعر الفرنسي مؤلف ديوان «كحول» (1913)؟",
-   "c": [
-    "بول فيرلين",
-    "غيوم أبولينير",
-    "آرثر رامبو",
-    "شارل بودلير"
-   ]
-  },
-  "es": {
-   "q": "¿Qué poeta francés es el autor del poemario «Alcoholes» (1913)?",
-   "c": [
-    "Paul Verlaine",
-    "Guillaume Apollinaire",
-    "Arthur Rimbaud",
-    "Charles Baudelaire"
-   ]
-  },
-  "pt": {
-   "q": "Qual poeta francês é o autor da coletânea «Alcoóis» (1913)?",
-   "c": [
-    "Paul Verlaine",
-    "Guillaume Apollinaire",
-    "Arthur Rimbaud",
-    "Charles Baudelaire"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 5
- },
- {
-  "fr": {
-   "q": "Quel auteur a écrit le roman « Madame Bovary » ?",
-   "c": [
-    "Gustave Flaubert",
-    "Stendhal",
-    "Guy de Maupassant",
-    "Émile Zola"
-   ]
-  },
-  "en": {
-   "q": "Which author wrote the novel 'Madame Bovary'?",
-   "c": [
-    "Gustave Flaubert",
-    "Stendhal",
-    "Guy de Maupassant",
-    "Émile Zola"
-   ]
-  },
-  "ar": {
-   "q": "من هو المؤلف الذي كتب رواية «مدام بوفاري»؟",
-   "c": [
-    "غوستاف فلوبير",
-    "ستاندال",
-    "غي دي موباسان",
-    "إيميل زولا"
-   ]
-  },
-  "es": {
-   "q": "¿Qué autor escribió la novela «Madame Bovary»?",
-   "c": [
-    "Gustave Flaubert",
-    "Stendhal",
-    "Guy de Maupassant",
-    "Émile Zola"
-   ]
-  },
-  "pt": {
-   "q": "Qual autor escreveu o romance «Madame Bovary»?",
-   "c": [
-    "Gustave Flaubert",
-    "Stendhal",
-    "Guy de Maupassant",
-    "Émile Zola"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 5
- },
- {
-  "fr": {
-   "q": "Quel écrivain est le chef de file du mouvement naturaliste avec sa fresque « Les Rougon-Macquart » ?",
-   "c": [
-    "Alphonse Daudet",
-    "Émile Zola",
-    "Honoré de Balzac",
-    "Jules Verne"
-   ]
-  },
-  "en": {
-   "q": "Which writer is the leader of the naturalist movement with his series 'The Rougon-Macquart'?",
-   "c": [
-    "Alphonse Daudet",
-    "Émile Zola",
-    "Honoré de Balzac",
-    "Jules Verne"
-   ]
-  },
-  "ar": {
-   "q": "من هو الكاتب الذي يعتبر رائد الحركة الطبيعية بسلسلته الروائية «الروغون ماكار»؟",
-   "c": [
-    "ألفونس دوديه",
-    "إيميل زولا",
-    "أونوريه دي بلزاك",
-    "جول فيرن"
-   ]
-  },
-  "es": {
-   "q": "¿Qué escritor es el líder del movimiento naturalista con su serie «Los Rougon-Macquart»?",
-   "c": [
-    "Alphonse Daudet",
-    "Émile Zola",
-    "Honoré de Balzac",
-    "Jules Verne"
-   ]
-  },
-  "pt": {
-   "q": "Qual escritor é o líder do movimento naturalista com sua série «Os Rougon-Macquart»?",
-   "c": [
-    "Alphonse Daudet",
-    "Émile Zola",
-    "Honoré de Balzac",
-    "Jules Verne"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 5
- },
- {
-  "fr": {
-   "q": "Quel poète est l'auteur du célèbre sonnet « Voyelles » ?",
-   "c": [
-    "Charles Baudelaire",
-    "Paul Verlaine",
-    "Arthur Rimbaud",
-    "Stéphane Mallarmé"
-   ]
-  },
-  "en": {
-   "q": "Which poet is the author of the famous sonnet 'Vowels' (Voyelles)?",
-   "c": [
-    "Charles Baudelaire",
-    "Paul Verlaine",
-    "Arthur Rimbaud",
-    "Stéphane Mallarmé"
-   ]
-  },
-  "ar": {
-   "q": "من هو الشاعر مؤلف القصيدة الشهيرة «حروف العلة» (Voyelles)؟",
-   "c": [
-    "شارل بودلير",
-    "بول فيرلين",
-    "آرثر رامبو",
-    "ستيفان مالارميه"
-   ]
-  },
-  "es": {
-   "q": "¿Qué poeta es el autor del famoso soneto «Vocales»?",
-   "c": [
-    "Charles Baudelaire",
-    "Paul Verlaine",
-    "Arthur Rimbaud",
-    "Stéphane Mallarmé"
-   ]
-  },
-  "pt": {
-   "q": "Qual poeta é o autor do famoso soneto «Vogais»?",
-   "c": [
-    "Charles Baudelaire",
-    "Paul Verlaine",
-    "Arthur Rimbaud",
-    "Stéphane Mallarmé"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "level": 5
- },
- {
-  "fr": {
-   "q": "Quel auteur a écrit « Le Petit Prince », l'un des livres les plus luttés et traduits au monde ?",
-   "c": [
-    "Antoine de Saint-Exupéry",
-    "Jules Verne",
-    "Albert Camus",
-    "Marcel Pagnol"
-   ]
-  },
-  "en": {
-   "q": "Which author wrote 'The Little Prince', one of the most read and translated books in the world?",
-   "c": [
-    "Antoine de Saint-Exupéry",
-    "Jules Verne",
-    "Albert Camus",
-    "Marcel Pagnol"
-   ]
-  },
-  "ar": {
-   "q": "من هو المؤلف الذي كتب «الأمير الصغير»، أحد أكثر الكتب قراءة وترجمة في العالم؟",
-   "c": [
-    "أنطوان دو سانت إكزوبيري",
-    "جول فيرن",
-    "ألبير كامو",
-    "مارسيل بانيول"
-   ]
-  },
-  "es": {
-   "q": "¿Qué autor escribió «El principito», uno de los libros más leídos y traducidos del mundo?",
-   "c": [
-    "Antoine de Saint-Exupéry",
-    "Jules Verne",
-    "Albert Camus",
-    "Marcel Pagnol"
-   ]
-  },
-  "pt": {
-   "q": "Qual autor escreveu «O Pequeno Príncipe», um dos livros mais lidos e traduzidos do mundo?",
-   "c": [
-    "Antoine de Saint-Exupéry",
-    "Jules Verne",
-    "Albert Camus",
-    "Marcel Pagnol"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 5
- },
- {
-  "fr": {
-   "q": "Quel philosophe et écrivain est l'auteur de « L'Étranger » (1942) ?",
-   "c": [
-    "Jean-Paul Sartre",
-    "Albert Camus",
-    "Simone de Beauvoir",
-    "Maurice Merleau-Ponty"
-   ]
-  },
-  "en": {
-   "q": "Which philosopher and writer is the author of 'The Stranger' (1942)?",
-   "c": [
-    "Jean-Paul Sartre",
-    "Albert Camus",
-    "Simone de Beauvoir",
-    "Maurice Merleau-Ponty"
-   ]
-  },
-  "ar": {
-   "q": "من هو الفيلسوف والكاتب مؤلف رواية «الغريب» (1942)؟",
-   "c": [
-    "جان بول سارتر",
-    "ألبير كامو",
-    "سيمون دي بفوار",
-    "موريس ميرلوبونتي"
-   ]
-  },
-  "es": {
-   "q": "¿Qué filósofo y escritor es el autor de «El extranjero» (1942)?",
-   "c": [
-    "Jean-Paul Sartre",
-    "Albert Camus",
-    "Simone de Beauvoir",
-    "Maurice Merleau-Ponty"
-   ]
-  },
-  "pt": {
-   "q": "Qual filósofo e escritor é o autor de «O Estrangeiro» (1942)?",
-   "c": [
-    "Jean-Paul Sartre",
-    "Albert Camus",
-    "Simone de Beauvoir",
-    "Maurice Merleau-Ponty"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 6
- },
- {
-  "fr": {
-   "q": "Dans le dessin animé de Disney, quelle princesse perd sa pantoufle de verre en s'enfuyant du bal ?",
-   "c": [
-    "Blanche-Neige",
-    "Cendrillon",
-    "La Belle au bois dormant",
-    "Ariel"
-   ]
-  },
-  "en": {
-   "q": "In the Disney cartoon, which princess loses her glass slipper while fleeing the ball?",
-   "c": [
-    "Snow White",
-    "Cinderella",
-    "Sleeping Beauty",
-    "Ariel"
-   ]
-  },
-  "ar": {
-   "q": "في رسوم ديزني المتحركة، أي أميرة تفقد حذاءها الزجاجي أثناء هربها من الحفلة؟",
-   "c": [
-    "سنو وايت (بياض الثلج)",
-    "سندريلا",
-    "الجميلة النائمة",
-    "أرييل"
-   ]
-  },
-  "es": {
-   "q": "En los dibujos animados de Disney, ¿qué princesa pierde su zapato de cristal al huir del baile?",
-   "c": [
-    "Blancanieves",
-    "Cenicienta",
-    "La Bella Durmiente",
-    "Ariel"
-   ]
-  },
-  "pt": {
-   "q": "No desenho animado da Disney, qual princesa perde seu sapatinho de cristal ao fugir do baile?",
-   "c": [
-    "Branca de Neve",
-    "Cinderela",
-    "A Bela Adormecida",
-    "Ariel"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 6
+  "level": 2
  },
  {
   "fr": {
@@ -2647,7 +847,757 @@
   },
   "a": 1,
   "image": null,
-  "level": 6
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel chanteur est surnommé le « Roi de la pop » ?",
+   "c": [
+    "Justin Bieber",
+    "Prince",
+    "Elvis Presley",
+    "Michael Jackson"
+   ]
+  },
+  "en": {
+   "q": "Which singer is nicknamed the 'King of Pop'?",
+   "c": [
+    "Justin Bieber",
+    "Prince",
+    "Elvis Presley",
+    "Michael Jackson"
+   ]
+  },
+  "ar": {
+   "q": "أي مغنٍّ يُلقَّب بـ«ملك البوب»؟",
+   "c": [
+    "جاستن بيبر",
+    "برينس",
+    "إلفيس بريسلي",
+    "مايكل جاكسون"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cantante es conocido como el «Rey del pop»?",
+   "c": [
+    "Justin Bieber",
+    "Prince",
+    "Elvis Presley",
+    "Michael Jackson"
+   ]
+  },
+  "pt": {
+   "q": "Qual cantor é conhecido como o «Rei do Pop»?",
+   "c": [
+    "Justin Bieber",
+    "Prince",
+    "Elvis Presley",
+    "Michael Jackson"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle famille de dessin animé habite à Springfield ?",
+   "c": [
+    "Les Simpson",
+    "Les Griffin",
+    "Les Pierrafeu",
+    "South Park"
+   ]
+  },
+  "en": {
+   "q": "Which cartoon family lives in the town of Springfield?",
+   "c": [
+    "The Simpsons",
+    "Family Guy",
+    "The Flintstones",
+    "South Park"
+   ]
+  },
+  "ar": {
+   "q": "أي عائلة كرتونية تعيش في بلدة سبرينغفيلد؟",
+   "c": [
+    "آل سمبسون",
+    "عائلة غريفين",
+    "عائلة فلينستون",
+    "ساوث بارك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué familia de dibujos animados vive en la ciudad de Springfield?",
+   "c": [
+    "Los Simpson",
+    "Padre de familia",
+    "Los Picapiedra",
+    "South Park"
+   ]
+  },
+  "pt": {
+   "q": "Qual família de desenho animado mora na cidade de Springfield?",
+   "c": [
+    "Os Simpsons",
+    "Uma Família da Pesada",
+    "Os Flintstones",
+    "South Park"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle chanteuse colombienne est célèbre pour « Hips Don't Lie » et « Waka Waka » ?",
+   "c": [
+    "Rihanna",
+    "Shakira",
+    "Jennifer Lopez",
+    "Beyoncé"
+   ]
+  },
+  "en": {
+   "q": "Which Colombian singer is famous for 'Hips Don't Lie' and 'Waka Waka'?",
+   "c": [
+    "Rihanna",
+    "Shakira",
+    "Jennifer Lopez",
+    "Beyoncé"
+   ]
+  },
+  "ar": {
+   "q": "أي مغنية كولومبية اشتهرت بأغنيتي «Hips Don't Lie» و«Waka Waka»؟",
+   "c": [
+    "ريهانا",
+    "شاكيرا",
+    "جينيفر لوبيز",
+    "بيونسيه"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cantante colombiana es famosa por «Hips Don't Lie» y «Waka Waka»?",
+   "c": [
+    "Rihanna",
+    "Shakira",
+    "Jennifer Lopez",
+    "Beyoncé"
+   ]
+  },
+  "pt": {
+   "q": "Qual cantora colombiana é famosa por «Hips Don't Lie» e «Waka Waka»?",
+   "c": [
+    "Rihanna",
+    "Shakira",
+    "Jennifer Lopez",
+    "Beyoncé"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel groupe de rock avait pour chanteur Freddie Mercury ?",
+   "c": [
+    "Queen",
+    "Coldplay",
+    "The Beatles",
+    "U2"
+   ]
+  },
+  "en": {
+   "q": "Which rock band was led by the singer Freddie Mercury?",
+   "c": [
+    "Queen",
+    "Coldplay",
+    "The Beatles",
+    "U2"
+   ]
+  },
+  "ar": {
+   "q": "أي فرقة روك كان مغنيها فريدي ميركوري؟",
+   "c": [
+    "كوين",
+    "كولدبلاي",
+    "البيتلز",
+    "يو تو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué banda de rock tenía como cantante a Freddie Mercury?",
+   "c": [
+    "Queen",
+    "Coldplay",
+    "The Beatles",
+    "U2"
+   ]
+  },
+  "pt": {
+   "q": "Qual banda de rock tinha como vocalista Freddie Mercury?",
+   "c": [
+    "Queen",
+    "Coldplay",
+    "The Beatles",
+    "U2"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel acteur joue le capitaine Jack Sparrow dans « Pirates des Caraïbes » ?",
+   "c": [
+    "Orlando Bloom",
+    "Brad Pitt",
+    "Johnny Depp",
+    "Tom Cruise"
+   ]
+  },
+  "en": {
+   "q": "Which actor plays Captain Jack Sparrow in 'Pirates of the Caribbean'?",
+   "c": [
+    "Orlando Bloom",
+    "Brad Pitt",
+    "Johnny Depp",
+    "Tom Cruise"
+   ]
+  },
+  "ar": {
+   "q": "أي ممثل يؤدي دور القبطان جاك سبارو في «قراصنة الكاريبي»؟",
+   "c": [
+    "أورلاندو بلوم",
+    "براد بيت",
+    "جوني ديب",
+    "توم كروز"
+   ]
+  },
+  "es": {
+   "q": "¿Qué actor interpreta al capitán Jack Sparrow en «Piratas del Caribe»?",
+   "c": [
+    "Orlando Bloom",
+    "Brad Pitt",
+    "Johnny Depp",
+    "Tom Cruise"
+   ]
+  },
+  "pt": {
+   "q": "Qual ator interpreta o capitão Jack Sparrow em «Piratas do Caribe»?",
+   "c": [
+    "Orlando Bloom",
+    "Brad Pitt",
+    "Johnny Depp",
+    "Tom Cruise"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Dans quel film des dinosaures reviennent-ils à la vie dans un parc sur une île ?",
+   "c": [
+    "King Kong",
+    "Godzilla",
+    "Avatar",
+    "Jurassic Park"
+   ]
+  },
+  "en": {
+   "q": "In which film do dinosaurs come back to life in an island theme park?",
+   "c": [
+    "King Kong",
+    "Godzilla",
+    "Avatar",
+    "Jurassic Park"
+   ]
+  },
+  "ar": {
+   "q": "في أي فيلم تعود الديناصورات إلى الحياة في متنزه على جزيرة؟",
+   "c": [
+    "كينغ كونغ",
+    "غودزيلا",
+    "أفاتار",
+    "جوراسيك بارك"
+   ]
+  },
+  "es": {
+   "q": "¿En qué película reviven los dinosaurios en un parque temático en una isla?",
+   "c": [
+    "King Kong",
+    "Godzilla",
+    "Avatar",
+    "Jurassic Park"
+   ]
+  },
+  "pt": {
+   "q": "Em qual filme os dinossauros voltam à vida em um parque em uma ilha?",
+   "c": [
+    "King Kong",
+    "Godzilla",
+    "Avatar",
+    "Jurassic Park"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel chanteur est l'auteur du tube « Shape of You » ?",
+   "c": [
+    "Harry Styles",
+    "Bruno Mars",
+    "Justin Bieber",
+    "Ed Sheeran"
+   ]
+  },
+  "en": {
+   "q": "Which singer released the hit 'Shape of You'?",
+   "c": [
+    "Harry Styles",
+    "Bruno Mars",
+    "Justin Bieber",
+    "Ed Sheeran"
+   ]
+  },
+  "ar": {
+   "q": "أي مغنٍّ أصدر أغنية «Shape of You»؟",
+   "c": [
+    "هاري ستايلز",
+    "برونو مارس",
+    "جاستن بيبر",
+    "إد شيران"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cantante lanzó el éxito «Shape of You»?",
+   "c": [
+    "Harry Styles",
+    "Bruno Mars",
+    "Justin Bieber",
+    "Ed Sheeran"
+   ]
+  },
+  "pt": {
+   "q": "Qual cantor lançou o sucesso «Shape of You»?",
+   "c": [
+    "Harry Styles",
+    "Bruno Mars",
+    "Justin Bieber",
+    "Ed Sheeran"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Dans le dessin animé de Disney, quelle princesse perd sa pantoufle de verre en s'enfuyant du bal ?",
+   "c": [
+    "Blanche-Neige",
+    "Cendrillon",
+    "La Belle au bois dormant",
+    "Ariel"
+   ]
+  },
+  "en": {
+   "q": "In the Disney cartoon, which princess loses her glass slipper while fleeing the ball?",
+   "c": [
+    "Snow White",
+    "Cinderella",
+    "Sleeping Beauty",
+    "Ariel"
+   ]
+  },
+  "ar": {
+   "q": "في رسوم ديزني المتحركة، أي أميرة تفقد حذاءها الزجاجي أثناء هربها من الحفلة؟",
+   "c": [
+    "سنو وايت (بياض الثلج)",
+    "سندريلا",
+    "الجميلة النائمة",
+    "أرييل"
+   ]
+  },
+  "es": {
+   "q": "En los dibujos animados de Disney, ¿qué princesa pierde su zapato de cristal al huir del baile?",
+   "c": [
+    "Blancanieves",
+    "Cenicienta",
+    "La Bella Durmiente",
+    "Ariel"
+   ]
+  },
+  "pt": {
+   "q": "No desenho animado da Disney, qual princesa perde seu sapatinho de cristal ao fugir do baile?",
+   "c": [
+    "Branca de Neve",
+    "Cinderela",
+    "A Bela Adormecida",
+    "Ariel"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel plombier à casquette rouge sauve la princesse Peach ?",
+   "c": [
+    "Mario",
+    "Luigi",
+    "Sonic",
+    "Link"
+   ]
+  },
+  "en": {
+   "q": "Which plumber with a red cap rescues Princess Peach?",
+   "c": [
+    "Mario",
+    "Luigi",
+    "Sonic",
+    "Link"
+   ]
+  },
+  "ar": {
+   "q": "أي سبّاك يرتدي قبعة حمراء ينقذ الأميرة بيتش؟",
+   "c": [
+    "ماريو",
+    "لويجي",
+    "سونيك",
+    "لينك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué fontanero de gorra roja rescata a la princesa Peach?",
+   "c": [
+    "Mario",
+    "Luigi",
+    "Sonic",
+    "Link"
+   ]
+  },
+  "pt": {
+   "q": "Qual encanador de boné vermelho resgata a princesa Peach?",
+   "c": [
+    "Mario",
+    "Luigi",
+    "Sonic",
+    "Link"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Dans quel jeu vidéo construit-on avec des blocs en évitant les creepers ?",
+   "c": [
+    "Minecraft",
+    "Fortnite",
+    "Roblox",
+    "Terraria"
+   ]
+  },
+  "en": {
+   "q": "In which video game do you build with blocks and avoid creepers?",
+   "c": [
+    "Minecraft",
+    "Fortnite",
+    "Roblox",
+    "Terraria"
+   ]
+  },
+  "ar": {
+   "q": "في أي لعبة فيديو تبني بالمكعبات وتتجنب الكريبرز؟",
+   "c": [
+    "ماينكرافت",
+    "فورتنايت",
+    "روبلوكس",
+    "تيرايا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué videojuego se construye con bloques y hay que evitar a los creepers?",
+   "c": [
+    "Minecraft",
+    "Fortnite",
+    "Roblox",
+    "Terraria"
+   ]
+  },
+  "pt": {
+   "q": "Em qual videogame você constrói com blocos e foge dos creepers?",
+   "c": [
+    "Minecraft",
+    "Fortnite",
+    "Roblox",
+    "Terraria"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel film Disney raconte l'histoire de la sirène Ariel ?",
+   "c": [
+    "Aladdin",
+    "La Petite Sirène",
+    "La Reine des neiges",
+    "Vaiana"
+   ]
+  },
+  "en": {
+   "q": "Which Disney film tells the story of the mermaid Ariel?",
+   "c": [
+    "Aladdin",
+    "The Little Mermaid",
+    "Frozen",
+    "Moana"
+   ]
+  },
+  "ar": {
+   "q": "أي فيلم من ديزني يحكي قصة حورية البحر آريال؟",
+   "c": [
+    "علاء الدين",
+    "حورية البحر الصغيرة",
+    "ملكة الثلج",
+    "موانا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué película de Disney cuenta la historia de la sirena Ariel?",
+   "c": [
+    "Aladdín",
+    "La sirenita",
+    "Frozen",
+    "Moana"
+   ]
+  },
+  "pt": {
+   "q": "Qual filme da Disney conta a história da sereia Ariel?",
+   "c": [
+    "Aladdin",
+    "A Pequena Sereia",
+    "Frozen",
+    "Moana"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Dans quel film Disney un génie sort-il d'une lampe magique ?",
+   "c": [
+    "Tarzan",
+    "Hercule",
+    "Aladdin",
+    "Mulan"
+   ]
+  },
+  "en": {
+   "q": "In which Disney film does a genie come out of a magic lamp?",
+   "c": [
+    "Tarzan",
+    "Hercules",
+    "Aladdin",
+    "Mulan"
+   ]
+  },
+  "ar": {
+   "q": "في أي فيلم من ديزني يخرج مارد من مصباح سحري؟",
+   "c": [
+    "طرزان",
+    "هرقل",
+    "علاء الدين",
+    "مولان"
+   ]
+  },
+  "es": {
+   "q": "¿En qué película de Disney sale un genio de una lámpara mágica?",
+   "c": [
+    "Tarzán",
+    "Hércules",
+    "Aladdín",
+    "Mulán"
+   ]
+  },
+  "pt": {
+   "q": "Em qual filme da Disney um gênio sai de uma lâmpada mágica?",
+   "c": [
+    "Tarzan",
+    "Hércules",
+    "Aladdin",
+    "Mulan"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel instrument a des touches noires et blanches ?",
+   "c": [
+    "Le piano",
+    "Le violon",
+    "La flûte",
+    "La batterie"
+   ]
+  },
+  "en": {
+   "q": "Which instrument has black and white keys?",
+   "c": [
+    "Piano",
+    "Violin",
+    "Flute",
+    "Drums"
+   ]
+  },
+  "ar": {
+   "q": "أي آلة موسيقية لها مفاتيح سوداء وبيضاء؟",
+   "c": [
+    "البيانو",
+    "الكمان",
+    "الناي",
+    "الطبول"
+   ]
+  },
+  "es": {
+   "q": "¿Qué instrumento tiene teclas blancas y negras?",
+   "c": [
+    "El piano",
+    "El violín",
+    "La flauta",
+    "La batería"
+   ]
+  },
+  "pt": {
+   "q": "Qual instrumento tem teclas pretas e brancas?",
+   "c": [
+    "O piano",
+    "O violino",
+    "A flauta",
+    "A bateria"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel instrument se joue avec des baguettes ?",
+   "c": [
+    "La flûte",
+    "Le violon",
+    "La trompette",
+    "La batterie"
+   ]
+  },
+  "en": {
+   "q": "Which instrument is played with drumsticks?",
+   "c": [
+    "Flute",
+    "Violin",
+    "Trumpet",
+    "Drums"
+   ]
+  },
+  "ar": {
+   "q": "أي آلة موسيقية تُعزف بعصيّ الطبل؟",
+   "c": [
+    "الناي",
+    "الكمان",
+    "البوق",
+    "الطبول"
+   ]
+  },
+  "es": {
+   "q": "¿Qué instrumento se toca con baquetas?",
+   "c": [
+    "La flauta",
+    "El violín",
+    "La trompeta",
+    "La batería"
+   ]
+  },
+  "pt": {
+   "q": "Qual instrumento é tocado com baquetas?",
+   "c": [
+    "A flauta",
+    "O violino",
+    "O trompete",
+    "A bateria"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Dans quel film d'animation des jouets comme Woody et Buzz l'Éclair prennent-ils vie ?",
+   "c": [
+    "Toy Story",
+    "Cars",
+    "Le Roi lion",
+    "Shrek"
+   ]
+  },
+  "en": {
+   "q": "In which animated film do toys like Woody and Buzz Lightyear come to life?",
+   "c": [
+    "Toy Story",
+    "Cars",
+    "The Lion King",
+    "Shrek"
+   ]
+  },
+  "ar": {
+   "q": "في أي فيلم رسوم متحركة تنبض الألعاب مثل وودي وباز لايتيير بالحياة؟",
+   "c": [
+    "قصة لعبة",
+    "سيارات",
+    "الأسد الملك",
+    "شريك"
+   ]
+  },
+  "es": {
+   "q": "¿En qué película de animación cobran vida juguetes como Woody y Buzz Lightyear?",
+   "c": [
+    "Toy Story",
+    "Cars",
+    "El rey león",
+    "Shrek"
+   ]
+  },
+  "pt": {
+   "q": "Em qual animação brinquedos como Woody e Buzz Lightyear ganham vida?",
+   "c": [
+    "Toy Story",
+    "Carros",
+    "O Rei Leão",
+    "Shrek"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
  },
  {
   "fr": {
@@ -2697,307 +1647,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
- },
- {
-  "fr": {
-   "q": "Quelle petite fille aux cheveux blonds entre dans la maison des Trois Ours ?",
-   "c": [
-    "Alice au pays des merveilles",
-    "Boucles d'or",
-    "Le Chaperon rouge",
-    "Cendrillon"
-   ]
-  },
-  "en": {
-   "q": "What little blonde girl enters the house of the Three Bears?",
-   "c": [
-    "Alice in Wonderland",
-    "Goldilocks",
-    "Little Red Riding Hood",
-    "Cinderella"
-   ]
-  },
-  "ar": {
-   "q": "من هي الفتاة الصغيرة ذات الشعر الأشقر التي دخلت منزل الدببة الثلاثة؟",
-   "c": [
-    "أليس في بلاد العجائب",
-    "غولديلوكس (الذهبية / ذات الشعر الذهبي)",
-    "ذات الرداء الأحمر",
-    "سندريلا"
-   ]
-  },
-  "es": {
-   "q": "¿Qué niña rubia entra en la casa de los Tres Osos?",
-   "c": [
-    "Alicia en el país de las maravillas",
-    "Ricitos de Oro",
-    "Caperucita Roja",
-    "Cenicienta"
-   ]
-  },
-  "pt": {
-   "q": "Qual loirinha entra na casa dos Três Ursos?",
-   "c": [
-    "Alice no País das Maravilhas",
-    "Cachinhos Dourados",
-    "Chapeuzinho Vermelho",
-    "Cinderela"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 6
- },
- {
-  "fr": {
-   "q": "De quelle couleur est le célèbre Pokémon Pikachu ?",
-   "c": [
-    "Bleu",
-    "Rouge",
-    "Jaune",
-    "Vert"
-   ]
-  },
-  "en": {
-   "q": "What color is the famous Pokémon Pikachu?",
-   "c": [
-    "Blue",
-    "Red",
-    "Yellow",
-    "Green"
-   ]
-  },
-  "ar": {
-   "q": "ما هو لون بوكيمون بيكاتشو الشهير؟",
-   "c": [
-    "أزرق",
-    "أحمر",
-    "أصفر",
-    "أخضر"
-   ]
-  },
-  "es": {
-   "q": "¿De qué color es el famoso Pokémon Pikachu?",
-   "c": [
-    "Azul",
-    "Rojo",
-    "Amarillo",
-    "Verde"
-   ]
-  },
-  "pt": {
-   "q": "Qual é a cor do famoso Pokémon Pikachu?",
-   "c": [
-    "Azul",
-    "Vermelho",
-    "Amarelo",
-    "Verde"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "level": 6
- },
- {
-  "fr": {
-   "q": "Quel super-héros porte un costume rouge et bleu avec une toile d'araignée ?",
-   "c": [
-    "Batman",
-    "Superman",
-    "Spider-Man",
-    "Iron Man"
-   ]
-  },
-  "en": {
-   "q": "Which superhero wears a red and blue costume with a spiderweb pattern?",
-   "c": [
-    "Batman",
-    "Superman",
-    "Spider-Man",
-    "Iron Man"
-   ]
-  },
-  "ar": {
-   "q": "من هو البطل الخارق الذي يرتدي زياً أحمر وأزرق مرسوماً عليه شبكة عنكبوت؟",
-   "c": [
-    "باتمان (الرجل الوطواط)",
-    "سوبرمان",
-    "سبايدر مان (رجل العنكبوت)",
-    "آيرون مان (الرجل الحديدي)"
-   ]
-  },
-  "es": {
-   "q": "¿Qué superhéroe viste un traje rojo y azul con un patrón de telaraña?",
-   "c": [
-    "Batman",
-    "Superman",
-    "Spider-Man",
-    "Iron Man"
-   ]
-  },
-  "pt": {
-   "q": "Qual super-herói usa um traje vermelho e azul com um padrão de teia de aranha?",
-   "c": [
-    "Batman",
-    "Superman",
-    "Homem-Aranha",
-    "Homem de Ferro"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "level": 6
- },
- {
-  "fr": {
-   "q": "Dans le film d'animation « Le Roi Lion », quel est le nom du jeune lionceau héros de l'histoire ?",
-   "c": [
-    "Mufasa",
-    "Simba",
-    "Scar",
-    "Timon"
-   ]
-  },
-  "en": {
-   "q": "In the animated film 'The Lion King', what is the name of the young lion cub hero of the story?",
-   "c": [
-    "Mufasa",
-    "Simba",
-    "Scar",
-    "Timon"
-   ]
-  },
-  "ar": {
-   "q": "في فيلم الرسوم المتحركة «الأسد الملك»، ما هو اسم شبل الأسد الصغير بطل القصة؟",
-   "c": [
-    "موفاسا",
-    "سيمبا",
-    "سكار",
-    "تيمون"
-   ]
-  },
-  "es": {
-   "q": "En la película de animación «El rey león», ¿cómo se llama el joven cachorro de león protagonista de la historia?",
-   "c": [
-    "Mufasa",
-    "Simba",
-    "Scar",
-    "Timon"
-   ]
-  },
-  "pt": {
-   "q": "No filme de animação «O Rei Leão», qual é o nome do jovem filhote de leão herói da história?",
-   "c": [
-    "Mufasa",
-    "Simba",
-    "Scar",
-    "Timon"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 6
- },
- {
-  "fr": {
-   "q": "Quel bonhomme de neige attachant et rigolo prend vie dans le dessin animé de Disney « La Reine des neiges » ?",
-   "c": [
-    "Kristoff",
-    "Olaf",
-    "Sven",
-    "Hans"
-   ]
-  },
-  "en": {
-   "q": "What endearing and funny snowman comes to life in the Disney cartoon 'Frozen'?",
-   "c": [
-    "Kristoff",
-    "Olaf",
-    "Sven",
-    "Hans"
-   ]
-  },
-  "ar": {
-   "q": "ما هو اسم رجل الثلج المحبوب والمضحك الذي يدب فيه الحياة في رسوم ديزني «ملكة الثلج» (Frozen)؟",
-   "c": [
-    "كريستوف",
-    "أولاف",
-    "سفين",
-    "هانس"
-   ]
-  },
-  "es": {
-   "q": "¿Qué muñeco de nieve entrañable y divertido cobra vida en la película de Disney «Frozen: El reino del hielo»?",
-   "c": [
-    "Kristoff",
-    "Olaf",
-    "Sven",
-    "Hans"
-   ]
-  },
-  "pt": {
-   "q": "Qual boneco de neve fofo e engraçado ganha vida no desenho da Disney «Frozen»?",
-   "c": [
-    "Kristoff",
-    "Olaf",
-    "Sven",
-    "Hans"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 6
- },
- {
-  "fr": {
-   "q": "Dans le conte des Frères Grimm, de quelle couleur est le petit chaperon que porte la fillette ?",
-   "c": [
-    "Bleu",
-    "Vert",
-    "Rouge",
-    "Jaune"
-   ]
-  },
-  "en": {
-   "q": "In the Brothers Grimm tale, what color is the little hood worn by the young girl?",
-   "c": [
-    "Blue",
-    "Green",
-    "Red",
-    "Yellow"
-   ]
-  },
-  "ar": {
-   "q": "في قصة الأخوان غريم، ما هو لون الغطاء (الرداء) الذي ترتديه الفتاة الصغيرة؟",
-   "c": [
-    "أزرق",
-    "أخضر",
-    "أحمر",
-    "أصفر"
-   ]
-  },
-  "es": {
-   "q": "En el cuento de los hermanos Grimm, ¿de qué color es la pequeña capa que lleva la niña?",
-   "c": [
-    "Azul",
-    "Verde",
-    "Rojo",
-    "Amarillo"
-   ]
-  },
-  "pt": {
-   "q": "No conto dos Irmãos Grimm, qual é a cor do capuz que a menina usa?",
-   "c": [
-    "Azul",
-    "Verde",
-    "Vermelho",
-    "Amarelo"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "level": 6
+  "level": 4
  },
  {
   "fr": {
@@ -3047,256 +1697,1306 @@
   },
   "a": 1,
   "image": null,
-  "level": 7
+  "level": 4
  },
  {
   "fr": {
-   "q": "Quel artiste est l'un des principaux fondateurs du mouvement cubiste aux côtés de Pablo Picasso ?",
+   "q": "Quel célèbre détective privé et magicien du monde des sorciers possède une cicatrice en forme d'éclair sur le front ?",
    "c": [
-    "Henri Matisse",
-    "Georges Braque",
-    "Claude Monet",
-    "Salvador Dalí"
+    "Ron Weasley",
+    "Harry Potter",
+    "Drago Malefoy",
+    "Neville Londubat"
    ]
   },
   "en": {
-   "q": "Which artist is one of the main founders of the Cubist movement alongside Pablo Picasso?",
+   "q": "Which famous young wizard in the wizarding world has a lightning-bolt scar on his forehead?",
    "c": [
-    "Henri Matisse",
-    "Georges Braque",
-    "Claude Monet",
-    "Salvador Dalí"
+    "Ron Weasley",
+    "Harry Potter",
+    "Draco Malfoy",
+    "Neville Longbottom"
    ]
   },
   "ar": {
-   "q": "أي فنان يعد أحد المؤسسين الرئيسيين للحركة التكعيبية إلى جانب بابلو بيكاسو؟",
+   "q": "من هو الساحر الشاب الشهير في عالم السحرة الذي يحمل ندبة على شكل برق على جبهته؟",
    "c": [
-    "هنري ماتيس",
-    "جورج براك",
-    "كلود مونيه",
-    "سلفادور دالي"
+    "رون ويزلي",
+    "هاري بوتر",
+    "دراكو مالفوي",
+    "نيفيل لونجبوتوم"
    ]
   },
   "es": {
-   "q": "¿Qué artista es uno de los principales fundadores del movimiento cubista junto a Pablo Picasso?",
+   "q": "¿Qué famoso joven mago del mundo mágico tiene una cicatriz en forma de rayo en la frente?",
    "c": [
-    "Henri Matisse",
-    "Georges Braque",
-    "Claude Monet",
-    "Salvador Dalí"
+    "Ron Weasley",
+    "Harry Potter",
+    "Draco Malfoy",
+    "Neville Longbottom"
    ]
   },
   "pt": {
-   "q": "Qual artista é um dos principais fundadores do movimento cubista ao lado de Pablo Picasso?",
+   "q": "Qual famoso jovem bruxo do mundo mágico tem uma cicatriz em forma de raio na testa?",
    "c": [
-    "Henri Matisse",
-    "Georges Braque",
-    "Claude Monet",
-    "Salvador Dalí"
+    "Ron Weasley",
+    "Harry Potter",
+    "Draco Malfoy",
+    "Neville Longbottom"
    ]
   },
   "a": 1,
   "image": null,
-  "level": 7
+  "level": 4
  },
  {
   "fr": {
-   "q": "Quel mouvement artistique du début du XXe siècle, initié notamment par André Breton, explore l'inconscient et le rêve ?",
+   "q": "Dans le conte des Frères Grimm, de quelle couleur est le petit chaperon que porte la fillette ?",
    "c": [
-    "L'impressionnisme",
-    "Le surréalisme",
-    "Le fauvisme",
-    "Le futurisme"
+    "Bleu",
+    "Vert",
+    "Rouge",
+    "Jaune"
    ]
   },
   "en": {
-   "q": "Which early 20th-century art movement, notably initiated by André Breton, explores the unconscious and dreams?",
+   "q": "In the Brothers Grimm tale, what color is the little hood worn by the young girl?",
    "c": [
-    "Impressionism",
-    "Surrealism",
-    "Fauvism",
-    "Futurism"
+    "Blue",
+    "Green",
+    "Red",
+    "Yellow"
    ]
   },
   "ar": {
-   "q": "ما هي الحركة الفنية في أوائل القرن العشرين، التي أطلقها بشكل بارز أندريه بريتون، والتي تستكشف اللاوعي والأحلام؟",
+   "q": "في قصة الأخوان غريم، ما هو لون الغطاء (الرداء) الذي ترتديه الفتاة الصغيرة؟",
    "c": [
-    "الانطباعية",
-    "السريالية",
-    "التوحش (الفوڤية)",
-    "المستقبلية"
+    "أزرق",
+    "أخضر",
+    "أحمر",
+    "أصفر"
    ]
   },
   "es": {
-   "q": "¿Qué movimiento artístico de principios del siglo XX, iniciado notablemente por André Breton, explora el inconsciente y el sueño?",
+   "q": "En el cuento de los hermanos Grimm, ¿de qué color es la pequeña capa que lleva la niña?",
    "c": [
-    "Impresionismo",
-    "Surrealismo",
-    "Fauvismo",
-    "Futurismo"
+    "Azul",
+    "Verde",
+    "Rojo",
+    "Amarillo"
    ]
   },
   "pt": {
-   "q": "Qual movimento artístico do início do século XX, iniciado notadamente por André Breton, explora o inconsciente e o sonho?",
+   "q": "No conto dos Irmãos Grimm, qual é a cor do capuz que a menina usa?",
    "c": [
-    "Impressionismo",
-    "Surrealismo",
-    "Fauvismo",
-    "Futurismo"
+    "Azul",
+    "Verde",
+    "Vermelho",
+    "Amarelo"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Dans la série animée 'Le Roi Lion', quel est le nom du jeune lion qui doit reprendre le trône après son père Mufasa ?",
+   "c": [
+    "Simba",
+    "Scar",
+    "Timon",
+    "Pumbaa"
+   ]
+  },
+  "en": {
+   "q": "In the animated film 'The Lion King', what is the name of the young lion who must take the throne after his father Mufasa?",
+   "c": [
+    "Simba",
+    "Scar",
+    "Timon",
+    "Pumbaa"
+   ]
+  },
+  "ar": {
+   "q": "في فيلم الرسوم المتحركة 'الأسد الملك'، ما هو اسم الأسد الصغير الذي يجب أن يتولى العرش بعد أبيه موفاسا؟",
+   "c": [
+    "سيمبا",
+    "سكار",
+    "تيمون",
+    "بومبا"
+   ]
+  },
+  "es": {
+   "q": "En la película animada 'El Rey León', ¿cómo se llama el joven león que debe tomar el trono después de su padre Mufasa?",
+   "c": [
+    "Simba",
+    "Scar",
+    "Timón",
+    "Pumba"
+   ]
+  },
+  "pt": {
+   "q": "No filme animado 'O Rei Leão', qual é o nome do jovem leão que deve assumir o trono após seu pai Mufasa?",
+   "c": [
+    "Simba",
+    "Scar",
+    "Timão",
+    "Pumba"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel film d'animation se déroule pendant la fête des Morts au Mexique ?",
+   "c": [
+    "Vaiana",
+    "Coco",
+    "Soul",
+    "Encanto"
+   ]
+  },
+  "en": {
+   "q": "Which animated film takes place during the Day of the Dead in Mexico?",
+   "c": [
+    "Moana",
+    "Coco",
+    "Soul",
+    "Encanto"
+   ]
+  },
+  "ar": {
+   "q": "أي فيلم رسوم متحركة تدور أحداثه خلال عيد الموتى في المكسيك؟",
+   "c": [
+    "موانا",
+    "كوكو",
+    "سول",
+    "إنكانتو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué película de animación transcurre durante el Día de Muertos en México?",
+   "c": [
+    "Moana",
+    "Coco",
+    "Soul",
+    "Encanto"
+   ]
+  },
+  "pt": {
+   "q": "Qual animação se passa durante o Dia dos Mortos no México?",
+   "c": [
+    "Moana",
+    "Viva – A Vida é uma Festa",
+    "Soul",
+    "Encanto"
    ]
   },
   "a": 1,
   "image": null,
-  "level": 7
+  "level": 4
  },
  {
   "fr": {
-   "q": "Quel artiste est l'un des principaux fondateurs du mouvement cubiste avec Picasso ?",
+   "q": "Quel chanteur jamaïcain, icône du reggae, a chanté « No Woman, No Cry » ?",
    "c": [
-    "Georges Braque",
-    "Claude Monet",
-    "Henri Matisse",
-    "Paul Cézanne"
+    "Jimmy Cliff",
+    "Bob Marley",
+    "Snoop Dogg",
+    "Shaggy"
    ]
   },
   "en": {
-   "q": "Which artist is one of the main founders of the Cubist movement alongside Picasso?",
+   "q": "Which Jamaican singer, a reggae icon, sang 'No Woman, No Cry'?",
    "c": [
-    "Georges Braque",
-    "Claude Monet",
-    "Henri Matisse",
-    "Paul Cézanne"
+    "Jimmy Cliff",
+    "Bob Marley",
+    "Snoop Dogg",
+    "Shaggy"
    ]
   },
   "ar": {
-   "q": "أي فنان يُعد أحد المؤسسين الرئيسيين للحركة التكعيبية إلى جانب بيكاسو؟",
+   "q": "أي مغنٍّ جامايكي، أيقونة الريغي، غنّى «No Woman, No Cry»؟",
    "c": [
-    "جورج براك",
-    "كلود مونيه",
-    "هنري ماتيس",
-    "بول سيزان"
+    "جيمي كليف",
+    "بوب مارلي",
+    "سنوب دوغ",
+    "شاغي"
    ]
   },
   "es": {
-   "q": "¿Qué artista es uno de los principales fundadores del movimiento cubista junto con Picasso?",
+   "q": "¿Qué cantante jamaiquino, icono del reggae, cantó «No Woman, No Cry»?",
    "c": [
-    "Georges Braque",
-    "Claude Monet",
-    "Henri Matisse",
-    "Paul Cézanne"
+    "Jimmy Cliff",
+    "Bob Marley",
+    "Snoop Dogg",
+    "Shaggy"
    ]
   },
   "pt": {
-   "q": "Qual artista é um dos principais fundadores do movimento cubista ao lado de Picasso?",
+   "q": "Qual cantor jamaicano, ícone do reggae, cantou «No Woman, No Cry»?",
    "c": [
-    "Georges Braque",
-    "Claude Monet",
-    "Henri Matisse",
-    "Paul Cézanne"
+    "Jimmy Cliff",
+    "Bob Marley",
+    "Snoop Dogg",
+    "Shaggy"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle série suit une bande en combinaisons rouges et masques de Dalí qui braque la Fabrique nationale de la monnaie d'Espagne ?",
+   "c": [
+    "Élite",
+    "Lupin",
+    "La Casa de Papel",
+    "Narcos"
+   ]
+  },
+  "en": {
+   "q": "Which series follows a gang in red jumpsuits and Dalí masks robbing the Royal Mint of Spain?",
+   "c": [
+    "Elite",
+    "Lupin",
+    "Money Heist",
+    "Narcos"
+   ]
+  },
+  "ar": {
+   "q": "أي مسلسل يتناول عصابة ترتدي بدلات حمراء وأقنعة دالي تسرق دار سك العملة الإسبانية؟",
+   "c": [
+    "إيليت",
+    "لوبين",
+    "لا كاسا دي بابيل",
+    "ناركوس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué serie sigue a una banda con monos rojos y máscaras de Dalí que atraca la Fábrica Nacional de Moneda y Timbre?",
+   "c": [
+    "Élite",
+    "Lupin",
+    "La casa de papel",
+    "Narcos"
+   ]
+  },
+  "pt": {
+   "q": "Qual série acompanha uma gangue de macacões vermelhos e máscaras de Dalí que assalta a Casa da Moeda da Espanha?",
+   "c": [
+    "Elite",
+    "Lupin",
+    "La Casa de Papel",
+    "Narcos"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Dans quel film Neo doit-il choisir entre la pilule rouge et la pilule bleue ?",
+   "c": [
+    "Inception",
+    "Matrix",
+    "Avatar",
+    "Tron"
+   ]
+  },
+  "en": {
+   "q": "In which film must Neo choose between the red pill and the blue pill?",
+   "c": [
+    "Inception",
+    "The Matrix",
+    "Avatar",
+    "Tron"
+   ]
+  },
+  "ar": {
+   "q": "في أي فيلم يجب على نيو أن يختار بين الحبة الحمراء والحبة الزرقاء؟",
+   "c": [
+    "إنسبشن",
+    "ماتريكس",
+    "أفاتار",
+    "ترون"
+   ]
+  },
+  "es": {
+   "q": "¿En qué película debe Neo elegir entre la pastilla roja y la azul?",
+   "c": [
+    "Inception",
+    "Matrix",
+    "Avatar",
+    "Tron"
+   ]
+  },
+  "pt": {
+   "q": "Em qual filme Neo precisa escolher entre a pílula vermelha e a azul?",
+   "c": [
+    "A Origem",
+    "Matrix",
+    "Avatar",
+    "Tron"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel chanteur est connu pour le tube mondial « Despacito » avec Daddy Yankee ?",
+   "c": [
+    "Maluma",
+    "Shakira",
+    "Luis Fonsi",
+    "Enrique Iglesias"
+   ]
+  },
+  "en": {
+   "q": "Which singer is known for the worldwide hit 'Despacito' with Daddy Yankee?",
+   "c": [
+    "Maluma",
+    "Shakira",
+    "Luis Fonsi",
+    "Enrique Iglesias"
+   ]
+  },
+  "ar": {
+   "q": "أي مغنٍّ اشتهر بالأغنية العالمية «Despacito» مع دادي يانكي؟",
+   "c": [
+    "مالوما",
+    "شاكيرا",
+    "لويس فونسي",
+    "إنريكي إغليسياس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cantante es conocido por el éxito mundial «Despacito» junto a Daddy Yankee?",
+   "c": [
+    "Maluma",
+    "Shakira",
+    "Luis Fonsi",
+    "Enrique Iglesias"
+   ]
+  },
+  "pt": {
+   "q": "Qual cantor é conhecido pelo sucesso mundial «Despacito» com Daddy Yankee?",
+   "c": [
+    "Maluma",
+    "Shakira",
+    "Luis Fonsi",
+    "Enrique Iglesias"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quelle chanteuse est célèbre pour « Umbrella » et « Diamonds » ?",
+   "c": [
+    "Ariana Grande",
+    "Katy Perry",
+    "Rihanna",
+    "Beyoncé"
+   ]
+  },
+  "en": {
+   "q": "Which singer is famous for 'Umbrella' and 'Diamonds'?",
+   "c": [
+    "Ariana Grande",
+    "Katy Perry",
+    "Rihanna",
+    "Beyoncé"
+   ]
+  },
+  "ar": {
+   "q": "أي مغنية اشتهرت بأغنيتي «Umbrella» و«Diamonds»؟",
+   "c": [
+    "أريانا غراندي",
+    "كيتي بيري",
+    "ريهانا",
+    "بيونسيه"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cantante es famosa por «Umbrella» y «Diamonds»?",
+   "c": [
+    "Ariana Grande",
+    "Katy Perry",
+    "Rihanna",
+    "Beyoncé"
+   ]
+  },
+  "pt": {
+   "q": "Qual cantora é famosa por «Umbrella» e «Diamonds»?",
+   "c": [
+    "Ariana Grande",
+    "Katy Perry",
+    "Rihanna",
+    "Beyoncé"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quelle chanteuse est connue pour le tube « Bad Guy » ?",
+   "c": [
+    "Ariana Grande",
+    "Olivia Rodrigo",
+    "Dua Lipa",
+    "Billie Eilish"
+   ]
+  },
+  "en": {
+   "q": "Which singer is known for the hit 'Bad Guy'?",
+   "c": [
+    "Ariana Grande",
+    "Olivia Rodrigo",
+    "Dua Lipa",
+    "Billie Eilish"
+   ]
+  },
+  "ar": {
+   "q": "أي مغنية اشتهرت بأغنية «Bad Guy»؟",
+   "c": [
+    "أريانا غراندي",
+    "أوليفيا رودريغو",
+    "دوا ليبا",
+    "بيلي إيليش"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cantante es conocida por el éxito «Bad Guy»?",
+   "c": [
+    "Ariana Grande",
+    "Olivia Rodrigo",
+    "Dua Lipa",
+    "Billie Eilish"
+   ]
+  },
+  "pt": {
+   "q": "Qual cantora é conhecida pelo sucesso «Bad Guy»?",
+   "c": [
+    "Ariana Grande",
+    "Olivia Rodrigo",
+    "Dua Lipa",
+    "Billie Eilish"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel héros Marvel manie un marteau magique appelé Mjöllnir ?",
+   "c": [
+    "Captain America",
+    "Iron Man",
+    "Hulk",
+    "Thor"
+   ]
+  },
+  "en": {
+   "q": "Which Marvel hero wields a magic hammer called Mjölnir?",
+   "c": [
+    "Captain America",
+    "Iron Man",
+    "Hulk",
+    "Thor"
+   ]
+  },
+  "ar": {
+   "q": "أي بطل من مارفل يحمل مطرقة سحرية اسمها مجولنير؟",
+   "c": [
+    "كابتن أمريكا",
+    "الرجل الحديدي",
+    "هالك",
+    "ثور"
+   ]
+  },
+  "es": {
+   "q": "¿Qué héroe de Marvel maneja un martillo mágico llamado Mjölnir?",
+   "c": [
+    "Captain America",
+    "Iron Man",
+    "Hulk",
+    "Thor"
+   ]
+  },
+  "pt": {
+   "q": "Qual herói da Marvel empunha um martelo mágico chamado Mjölnir?",
+   "c": [
+    "Captain America",
+    "Iron Man",
+    "Hulk",
+    "Thor"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel film de science-fiction réalisé par Christopher Nolan explore les voyages à travers les trous de ver et la dilatation du temps ?",
+   "c": [
+    "Blade Runner 2049",
+    "Interstellar",
+    "Seul sur Mars",
+    "Premier Contact"
+   ]
+  },
+  "en": {
+   "q": "Which sci-fi film directed by Christopher Nolan explores wormhole travel and time dilation?",
+   "c": [
+    "Blade Runner 2049",
+    "Interstellar",
+    "The Martian",
+    "Arrival"
+   ]
+  },
+  "ar": {
+   "q": "أي فيلم خيال علمي من إخراج كريستوفر نولان يستكشف السفر عبر الثقوب الدودية وتمدد الزمن؟",
+   "c": [
+    "Blade Runner 2049",
+    "Interstellar",
+    "المريخي",
+    "Arrival"
+   ]
+  },
+  "es": {
+   "q": "¿Qué película de ciencia ficción dirigida por Christopher Nolan explora los viajes a través de agujeros de gusano y la dilatación del tiempo?",
+   "c": [
+    "Blade Runner 2049",
+    "Interstellar",
+    "Marte",
+    "La llegada"
+   ]
+  },
+  "pt": {
+   "q": "Qual filme de ficção científica dirigido por Christopher Nolan explora viagens por buracos de minhoca e dilatação do tempo?",
+   "c": [
+    "Blade Runner 2049",
+    "Interstellar",
+    "Perdido em Marte",
+    "A Chegada"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel groupe de K-pop est célèbre pour le tube « Dynamite » ?",
+   "c": [
+    "BTS",
+    "BLACKPINK",
+    "EXO",
+    "TWICE"
+   ]
+  },
+  "en": {
+   "q": "Which K-pop band is famous for the hit 'Dynamite'?",
+   "c": [
+    "BTS",
+    "BLACKPINK",
+    "EXO",
+    "TWICE"
+   ]
+  },
+  "ar": {
+   "q": "أي فرقة كيبوب اشتهرت بأغنية «Dynamite»؟",
+   "c": [
+    "بي تي إس",
+    "بلاك بينك",
+    "إكسو",
+    "تويس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué grupo de K-pop es famoso por el éxito «Dynamite»?",
+   "c": [
+    "BTS",
+    "BLACKPINK",
+    "EXO",
+    "TWICE"
+   ]
+  },
+  "pt": {
+   "q": "Qual grupo de K-pop é famoso pelo sucesso «Dynamite»?",
+   "c": [
+    "BTS",
+    "BLACKPINK",
+    "EXO",
+    "TWICE"
    ]
   },
   "a": 0,
   "image": null,
-  "level": 7
+  "level": 5
  },
  {
   "fr": {
-   "q": "Qui est l'auteur du roman « À la recherche du temps perdu » ?",
+   "q": "Dans la série télévisée 'Breaking Bad', quel est le véritable métier de Walter White avant qu'il ne commence à fabriquer de la méthamphétamine ?",
    "c": [
-    "Marcel Proust",
-    "Albert Camus",
-    "Jean-Paul Sartre",
-    "Émile Zola"
+    "Avocat",
+    "Professeur de chimie au lycée",
+    "Médecin",
+    "Policier"
    ]
   },
   "en": {
-   "q": "Who is the author of the novel 'In Search of Lost Time'?",
+   "q": "In the TV series 'Breaking Bad', what is Walter White's real profession before he starts manufacturing methamphetamine?",
    "c": [
-    "Marcel Proust",
-    "Albert Camus",
-    "Jean-Paul Sartre",
-    "Émile Zola"
+    "Lawyer",
+    "High school chemistry teacher",
+    "Doctor",
+    "Police officer"
    ]
   },
   "ar": {
-   "q": "من هو مؤلف رواية «بحثاً عن الزمن المفقود»؟",
+   "q": "في المسلسل التلفزيوني 'Breaking Bad'، ما هي مهنة والتر وايت الحقيقية قبل أن يبدأ في صنع الميثامفيتامين؟",
    "c": [
-    "مارسيل بروست",
-    "ألبير كامو",
-    "جان بول سارتر",
-    "إميل زولا"
+    "محامٍ",
+    "معلم كيمياء في المدرسة الثانوية",
+    "طبيب",
+    "ضابط شرطة"
    ]
   },
   "es": {
-   "q": "¿Quién es el autor de la novela 'En busca del tiempo perdido'?",
+   "q": "En la serie de televisión 'Breaking Bad', ¿cuál es la verdadera profesión de Walter White antes de empezar a fabricar metanfetamina?",
    "c": [
-    "Marcel Proust",
-    "Albert Camus",
-    "Jean-Paul Sartre",
-    "Émile Zola"
+    "Abogado",
+    "Profesor de química de secundaria",
+    "Médico",
+    "Policía"
    ]
   },
   "pt": {
-   "q": "Quem é o autor do romance 'Em Busca do Tempo Perdido'?",
+   "q": "Na série de TV 'Breaking Bad', qual é a verdadeira profissão de Walter White antes de começar a fabricar metanfetamina?",
    "c": [
-    "Marcel Proust",
-    "Albert Camus",
-    "Jean-Paul Sartre",
-    "Émile Zola"
+    "Advogado",
+    "Professor de química do ensino médio",
+    "Médico",
+    "Policial"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quelle chanteuse est connue pour la chanson « Rolling in the Deep » ?",
+   "c": [
+    "Lady Gaga",
+    "Rihanna",
+    "Taylor Swift",
+    "Adele"
+   ]
+  },
+  "en": {
+   "q": "Which singer is known for the song 'Rolling in the Deep'?",
+   "c": [
+    "Lady Gaga",
+    "Rihanna",
+    "Taylor Swift",
+    "Adele"
+   ]
+  },
+  "ar": {
+   "q": "أي مغنية اشتهرت بأغنية «Rolling in the Deep»؟",
+   "c": [
+    "ليدي غاغا",
+    "ريهانا",
+    "تايلور سويفت",
+    "أديل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cantante es conocida por la canción «Rolling in the Deep»?",
+   "c": [
+    "Lady Gaga",
+    "Rihanna",
+    "Taylor Swift",
+    "Adele"
+   ]
+  },
+  "pt": {
+   "q": "Qual cantora é conhecida pela música «Rolling in the Deep»?",
+   "c": [
+    "Lady Gaga",
+    "Rihanna",
+    "Taylor Swift",
+    "Adele"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Dans la saga de films 'Harry Potter', dans quelle maison de l'école de Poudlard le héros est-il réparti ?",
+   "c": [
+    "Serpentard",
+    "Gryffondor",
+    "Poufsouffle",
+    "Serdaigle"
+   ]
+  },
+  "en": {
+   "q": "In the 'Harry Potter' film series, which Hogwarts house is the hero sorted into?",
+   "c": [
+    "Slytherin",
+    "Gryffindor",
+    "Hufflepuff",
+    "Ravenclaw"
+   ]
+  },
+  "ar": {
+   "q": "في سلسلة أفلام 'هاري بوتر'، إلى أي منزل في مدرسة هوغوورتس يتم فرز البطل؟",
+   "c": [
+    "سليذيرين",
+    "غريفيندور",
+    "هافلباف",
+    "رافينكلو"
+   ]
+  },
+  "es": {
+   "q": "En la saga de películas de 'Harry Potter', ¿en qué casa de la escuela Hogwarts es asignado el héroe?",
+   "c": [
+    "Slytherin",
+    "Gryffindor",
+    "Hufflepuff",
+    "Ravenclaw"
+   ]
+  },
+  "pt": {
+   "q": "Na série de filmes 'Harry Potter', em qual casa da escola Hogwarts o herói é colocado?",
+   "c": [
+    "Sonserina",
+    "Grifinória",
+    "Lufa-Lufa",
+    "Corvinal"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel groupe a chanté « Hey Jude » et « Yesterday » ?",
+   "c": [
+    "Queen",
+    "The Beatles",
+    "The Rolling Stones",
+    "ABBA"
+   ]
+  },
+  "en": {
+   "q": "Which band sang 'Hey Jude' and 'Yesterday'?",
+   "c": [
+    "Queen",
+    "The Beatles",
+    "The Rolling Stones",
+    "ABBA"
+   ]
+  },
+  "ar": {
+   "q": "أي فرقة غنّت «Hey Jude» و«Yesterday»؟",
+   "c": [
+    "كوين",
+    "البيتلز",
+    "رولينغ ستونز",
+    "آبا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué banda cantó «Hey Jude» y «Yesterday»?",
+   "c": [
+    "Queen",
+    "The Beatles",
+    "The Rolling Stones",
+    "ABBA"
+   ]
+  },
+  "pt": {
+   "q": "Qual banda cantou «Hey Jude» e «Yesterday»?",
+   "c": [
+    "Queen",
+    "The Beatles",
+    "The Rolling Stones",
+    "ABBA"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Quelle série suit six amis à New York qui se retrouvent souvent au café Central Perk ?",
+   "c": [
+    "Friends",
+    "The Office",
+    "How I Met Your Mother",
+    "Seinfeld"
+   ]
+  },
+  "en": {
+   "q": "Which TV series follows six friends in New York who often meet at the Central Perk café?",
+   "c": [
+    "Friends",
+    "The Office",
+    "How I Met Your Mother",
+    "Seinfeld"
+   ]
+  },
+  "ar": {
+   "q": "أي مسلسل يتابع ستة أصدقاء في نيويورك يلتقون غالبًا في مقهى سنترال بيرك؟",
+   "c": [
+    "فريندز",
+    "ذا أوفيس",
+    "كيف قابلت أمكم",
+    "سينفيلد"
+   ]
+  },
+  "es": {
+   "q": "¿Qué serie sigue a seis amigos en Nueva York que suelen reunirse en el café Central Perk?",
+   "c": [
+    "Friends",
+    "The Office",
+    "Cómo conocí a vuestra madre",
+    "Seinfeld"
+   ]
+  },
+  "pt": {
+   "q": "Qual série acompanha seis amigos em Nova York que costumam se encontrar no café Central Perk?",
+   "c": [
+    "Friends",
+    "The Office",
+    "How I Met Your Mother",
+    "Seinfeld"
    ]
   },
   "a": 0,
   "image": null,
-  "level": 7
+  "level": 6
  },
  {
   "fr": {
-   "q": "Quel grand auteur allemand a écrit la tragédie dramatique « Faust » ?",
+   "q": "Quel personnage de Star Wars dit à Luke Skywalker : « Je suis ton père » ?",
    "c": [
-    "Johann Wolfgang von Goethe",
-    "Friedrich Schiller",
-    "Heinrich Heine",
-    "Thomas Mann"
+    "Obi-Wan Kenobi",
+    "Dark Vador",
+    "Yoda",
+    "Han Solo"
    ]
   },
   "en": {
-   "q": "Which great German author wrote the dramatic tragedy 'Faust'?",
+   "q": "Which Star Wars character tells Luke Skywalker 'I am your father'?",
    "c": [
-    "Johann Wolfgang von Goethe",
-    "Friedrich Schiller",
-    "Heinrich Heine",
-    "Thomas Mann"
+    "Obi-Wan Kenobi",
+    "Darth Vader",
+    "Yoda",
+    "Han Solo"
    ]
   },
   "ar": {
-   "q": "أي مؤلف ألماني كبير كتب المأساة الدرامية «فاوست»؟",
+   "q": "أي شخصية في «حرب النجوم» تقول للوك سكاي ووكر: «أنا والدك»؟",
    "c": [
-    "يوهان فولفغانغ فون غوته",
-    "فريدريش شيلر",
-    "هاينريش هاينه",
-    "توماس مان"
+    "أوبي وان كينوبي",
+    "دارث فيدر",
+    "يودا",
+    "هان سولو"
    ]
   },
   "es": {
-   "q": "¿Qué gran autor alemán escribió la tragedia dramática 'Fausto'?",
+   "q": "¿Qué personaje de Star Wars le dice a Luke Skywalker «Yo soy tu padre»?",
    "c": [
-    "Johann Wolfgang von Goethe",
-    "Friedrich Schiller",
-    "Heinrich Heine",
-    "Thomas Mann"
+    "Obi-Wan Kenobi",
+    "Darth Vader",
+    "Yoda",
+    "Han Solo"
    ]
   },
   "pt": {
-   "q": "Qual grande autor alemão escreveu a tragédia dramática 'Fausto'?",
+   "q": "Qual personagem de Star Wars diz a Luke Skywalker «Eu sou seu pai»?",
    "c": [
-    "Johann Wolfgang von Goethe",
-    "Friedrich Schiller",
-    "Heinrich Heine",
-    "Thomas Mann"
+    "Obi-Wan Kenobi",
+    "Darth Vader",
+    "Yoda",
+    "Han Solo"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Quel chanteur est surnommé le « Roi du rock'n'roll » ?",
+   "c": [
+    "Chuck Berry",
+    "Elvis Presley",
+    "Johnny Cash",
+    "Little Richard"
+   ]
+  },
+  "en": {
+   "q": "Which singer is called 'The King of Rock and Roll'?",
+   "c": [
+    "Chuck Berry",
+    "Elvis Presley",
+    "Johnny Cash",
+    "Little Richard"
+   ]
+  },
+  "ar": {
+   "q": "أي مغنٍّ يُلقَّب بـ«ملك الروك أند رول»؟",
+   "c": [
+    "تشاك بيري",
+    "إلفيس بريسلي",
+    "جوني كاش",
+    "ليتل ريتشارد"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cantante es llamado el «Rey del rock and roll»?",
+   "c": [
+    "Chuck Berry",
+    "Elvis Presley",
+    "Johnny Cash",
+    "Little Richard"
+   ]
+  },
+  "pt": {
+   "q": "Qual cantor é chamado de «Rei do Rock and Roll»?",
+   "c": [
+    "Chuck Berry",
+    "Elvis Presley",
+    "Johnny Cash",
+    "Little Richard"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Quelle série met en scène des dragons, sept royaumes et le Trône de fer ?",
+   "c": [
+    "Vikings",
+    "Merlin",
+    "The Witcher",
+    "Game of Thrones"
+   ]
+  },
+  "en": {
+   "q": "Which TV series features dragons, seven kingdoms and the Iron Throne?",
+   "c": [
+    "Vikings",
+    "Merlin",
+    "The Witcher",
+    "Game of Thrones"
+   ]
+  },
+  "ar": {
+   "q": "أي مسلسل يضم التنانين والممالك السبع وعرش الحديد؟",
+   "c": [
+    "فايكنغز",
+    "ميرلين",
+    "ذا ويتشر",
+    "صراع العروش"
+   ]
+  },
+  "es": {
+   "q": "¿Qué serie presenta dragones, siete reinos y el Trono de Hierro?",
+   "c": [
+    "Vikingos",
+    "Merlín",
+    "The Witcher",
+    "Juego de tronos"
+   ]
+  },
+  "pt": {
+   "q": "Qual série tem dragões, sete reinos e o Trono de Ferro?",
+   "c": [
+    "Vikings",
+    "Merlin",
+    "The Witcher",
+    "Game of Thrones"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Quel chanteur canadien, découvert sur YouTube, a chanté « Baby » ?",
+   "c": [
+    "Shawn Mendes",
+    "Drake",
+    "The Weeknd",
+    "Justin Bieber"
+   ]
+  },
+  "en": {
+   "q": "Which Canadian singer, discovered on YouTube, sang 'Baby'?",
+   "c": [
+    "Shawn Mendes",
+    "Drake",
+    "The Weeknd",
+    "Justin Bieber"
+   ]
+  },
+  "ar": {
+   "q": "أي مغنٍّ كندي، اكتُشف عبر يوتيوب، غنّى «Baby»؟",
+   "c": [
+    "شون مينديز",
+    "درايك",
+    "ذا ويكند",
+    "جاستن بيبر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cantante canadiense, descubierto en YouTube, cantó «Baby»?",
+   "c": [
+    "Shawn Mendes",
+    "Drake",
+    "The Weeknd",
+    "Justin Bieber"
+   ]
+  },
+  "pt": {
+   "q": "Qual cantor canadense, descoberto no YouTube, cantou «Baby»?",
+   "c": [
+    "Shawn Mendes",
+    "Drake",
+    "The Weeknd",
+    "Justin Bieber"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Quel jeu de battle royale est connu pour l'expression « Victory Royale » ?",
+   "c": [
+    "PUBG",
+    "Free Fire",
+    "Apex Legends",
+    "Fortnite"
+   ]
+  },
+  "en": {
+   "q": "Which battle royale game is known for the phrase 'Victory Royale'?",
+   "c": [
+    "PUBG",
+    "Free Fire",
+    "Apex Legends",
+    "Fortnite"
+   ]
+  },
+  "ar": {
+   "q": "أي لعبة باتل رويال تشتهر بعبارة «Victory Royale»؟",
+   "c": [
+    "ببجي",
+    "فري فاير",
+    "أبكس ليجندز",
+    "فورتنايت"
+   ]
+  },
+  "es": {
+   "q": "¿Qué juego de battle royale es conocido por la frase «Victory Royale»?",
+   "c": [
+    "PUBG",
+    "Free Fire",
+    "Apex Legends",
+    "Fortnite"
+   ]
+  },
+  "pt": {
+   "q": "Qual jogo de battle royale é conhecido pela expressão «Victory Royale»?",
+   "c": [
+    "PUBG",
+    "Free Fire",
+    "Apex Legends",
+    "Fortnite"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Dans la série 'Stranger Things', comment s'appelle la mystérieuse fillette dotée de pouvoirs télékinétiques ?",
+   "c": [
+    "Max",
+    "Eleven (Onze)",
+    "Nancy",
+    "Robin"
+   ]
+  },
+  "en": {
+   "q": "In the series 'Stranger Things', what is the name of the mysterious young girl with telekinetic powers?",
+   "c": [
+    "Max",
+    "Eleven",
+    "Nancy",
+    "Robin"
+   ]
+  },
+  "ar": {
+   "q": "في مسلسل 'Stranger Things'، ما هو اسم الفتاة الصغيرة الغامضة التي تمتلك قوى تحريك الأجسام عن بعد؟",
+   "c": [
+    "ماكس",
+    "إلفين (Eleven)",
+    "نانسي",
+    "روبين"
+   ]
+  },
+  "es": {
+   "q": "En la serie 'Stranger Things', ¿cómo se llama la misteriosa niña con poderes telequinéticos?",
+   "c": [
+    "Max",
+    "Eleven",
+    "Nancy",
+    "Robin"
+   ]
+  },
+  "pt": {
+   "q": "Na série 'Stranger Things', qual é o nome da misteriosa garota com poderes telecinéticos?",
+   "c": [
+    "Max",
+    "Eleven",
+    "Nancy",
+    "Robin"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Quel super-héros Marvel se cache derrière Tony Stark ?",
+   "c": [
+    "Iron Man",
+    "Captain America",
+    "Thor",
+    "Hulk"
+   ]
+  },
+  "en": {
+   "q": "Which Marvel superhero is Tony Stark?",
+   "c": [
+    "Iron Man",
+    "Captain America",
+    "Thor",
+    "Hulk"
+   ]
+  },
+  "ar": {
+   "q": "أي بطل خارق من مارفل هو توني ستارك؟",
+   "c": [
+    "الرجل الحديدي",
+    "كابتن أمريكا",
+    "ثور",
+    "هالك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué superhéroe de Marvel es Tony Stark?",
+   "c": [
+    "Iron Man",
+    "Captain America",
+    "Thor",
+    "Hulk"
+   ]
+  },
+  "pt": {
+   "q": "Qual super-herói da Marvel é Tony Stark?",
+   "c": [
+    "Iron Man",
+    "Captain America",
+    "Thor",
+    "Hulk"
    ]
   },
   "a": 0,
   "image": null,
-  "level": 7
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Dans la série « Squid Game », quel jeu d'enfants est joué lors de la première épreuve ?",
+   "c": [
+    "La marelle",
+    "Chat perché",
+    "1, 2, 3, soleil",
+    "Cache-cache"
+   ]
+  },
+  "en": {
+   "q": "In the series 'Squid Game', which children's game is played in the first challenge?",
+   "c": [
+    "Hopscotch",
+    "Tag",
+    "Red Light, Green Light",
+    "Hide-and-seek"
+   ]
+  },
+  "ar": {
+   "q": "في مسلسل «لعبة الحبار»، أي لعبة أطفال تُلعب في التحدي الأول؟",
+   "c": [
+    "لعبة الحجلة",
+    "لعبة المطاردة",
+    "الضوء الأحمر والضوء الأخضر",
+    "الغميضة"
+   ]
+  },
+  "es": {
+   "q": "En la serie «El juego del calamar», ¿qué juego infantil se juega en la primera prueba?",
+   "c": [
+    "La rayuela",
+    "El pillapilla",
+    "Luz roja, luz verde",
+    "Escondite"
+   ]
+  },
+  "pt": {
+   "q": "Na série «Round 6», qual brincadeira infantil é jogada no primeiro desafio?",
+   "c": [
+    "Amarelinha",
+    "Pega-pega",
+    "Luz vermelha, luz verde",
+    "Esconde-esconde"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 6
  }
 ]
