@@ -18,8 +18,6 @@
     "A car"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أيّ مما يلي هو الأسرع؟",
    "c": [
@@ -47,220 +45,11 @@
     "Um carro"
    ]
   },
-  "d": 1
- },
- {
-  "fr": {
-   "q": "Qui a formulé la théorie de la relativité ?",
-   "c": [
-    "Albert Einstein",
-    "Isaac Newton",
-    "Niels Bohr",
-    "Galilée"
-   ]
-  },
-  "en": {
-   "q": "Who developed the theory of relativity?",
-   "c": [
-    "Albert Einstein",
-    "Isaac Newton",
-    "Niels Bohr",
-    "Galileo"
-   ]
-  },
   "a": 0,
   "image": null,
-  "ar": {
-   "q": "من صاغ نظرية النسبية؟",
-   "c": [
-    "ألبرت أينشتاين",
-    "إسحاق نيوتن",
-    "نيلز بور",
-    "غاليليو"
-   ]
-  },
-  "es": {
-   "q": "¿Quién formuló la teoría de la relatividad?",
-   "c": [
-    "Albert Einstein",
-    "Isaac Newton",
-    "Niels Bohr",
-    "Galileo"
-   ]
-  },
-  "pt": {
-   "q": "Quem formulou a teoria da relatividade?",
-   "c": [
-    "Albert Einstein",
-    "Isaac Newton",
-    "Niels Bohr",
-    "Galileu"
-   ]
-  },
-  "d": 2
+  "level": 1
  },
  {
-  "fr": {
-   "q": "Quelle est la vitesse de la lumière (environ) ?",
-   "c": [
-    "30 000 km/s",
-    "150 000 km/s",
-    "300 000 km/s",
-    "1 000 000 km/s"
-   ]
-  },
-  "en": {
-   "q": "What is the speed of light (approximately)?",
-   "c": [
-    "30,000 km/s",
-    "150,000 km/s",
-    "300,000 km/s",
-    "1,000,000 km/s"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "ar": {
-   "q": "ما هي سرعة الضوء تقريبًا؟",
-   "c": [
-    "30 ألف كم/ث",
-    "150 ألف كم/ث",
-    "300 ألف كم/ث",
-    "مليون كم/ث"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es la velocidad de la luz (aproximadamente)?",
-   "c": [
-    "30 000 km/s",
-    "150 000 km/s",
-    "300 000 km/s",
-    "1 000 000 km/s"
-   ]
-  },
-  "pt": {
-   "q": "Qual é a velocidade da luz (aproximadamente)?",
-   "c": [
-    "30 000 km/s",
-    "150 000 km/s",
-    "300 000 km/s",
-    "1 000 000 km/s"
-   ]
-  },
-  "d": 2
- },
- {
-  "fr": {
-   "q": "Quel est le numéro atomique de l'oxygène ?",
-   "c": [
-    "6",
-    "7",
-    "8",
-    "16"
-   ]
-  },
-  "en": {
-   "q": "What is the atomic number of oxygen?",
-   "c": [
-    "6",
-    "7",
-    "8",
-    "16"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "ar": {
-   "q": "ما هو العدد الذري للأكسجين؟",
-   "c": [
-    "6",
-    "7",
-    "8",
-    "16"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el número atómico del oxígeno?",
-   "c": [
-    "6",
-    "7",
-    "8",
-    "16"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o número atômico do oxigênio?",
-   "c": [
-    "6",
-    "7",
-    "8",
-    "16"
-   ]
-  },
-  "d": 2
- },
- {
-  "fr": {
-   "q": "Qui a découvert la radioactivité naturelle en 1896 ?",
-   "c": [
-    "Henri Becquerel",
-    "Marie Curie",
-    "Ernest Rutherford",
-    "Wilhelm Röntgen"
-   ]
-  },
-  "en": {
-   "q": "Who discovered natural radioactivity in 1896?",
-   "c": [
-    "Henri Becquerel",
-    "Marie Curie",
-    "Ernest Rutherford",
-    "Wilhelm Röntgen"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "ar": {
-   "q": "من اكتشف النشاط الإشعاعي الطبيعي عام 1896؟",
-   "c": [
-    "هنري بيكريل",
-    "ماري كوري",
-    "إرنست رذرفورد",
-    "فيلهلم رونتغن"
-   ]
-  },
-  "es": {
-   "q": "¿Quién descubrió la radiactividad natural en 1896?",
-   "c": [
-    "Henri Becquerel",
-    "Marie Curie",
-    "Ernest Rutherford",
-    "Wilhelm Röntgen"
-   ]
-  },
-  "pt": {
-   "q": "Quem descobriu a radioatividade natural em 1896?",
-   "c": [
-    "Henri Becquerel",
-    "Marie Curie",
-    "Ernest Rutherford",
-    "Wilhelm Röntgen"
-   ]
-  },
-  "d": 2
- },
- {
-  "a": 0,
-  "image": null,
-  "en": {
-   "q": "What force pulls objects toward the Earth?",
-   "c": [
-    "Gravity",
-    "Magnetism",
-    "Friction",
-    "Inertia"
-   ]
-  },
   "fr": {
    "q": "Quelle force attire les objets vers la Terre ?",
    "c": [
@@ -268,6 +57,15 @@
     "Le magnétisme",
     "Le frottement",
     "L'inertie"
+   ]
+  },
+  "en": {
+   "q": "What force pulls objects toward the Earth?",
+   "c": [
+    "Gravity",
+    "Magnetism",
+    "Friction",
+    "Inertia"
    ]
   },
   "ar": {
@@ -297,13 +95,13 @@
     "A inércia"
    ]
   },
-  "d": 1
- },
- {
   "a": 0,
   "image": null,
-  "en": {
-   "q": "At what temperature does water freeze?",
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "À quelle température l'eau gèle-t-elle ?",
    "c": [
     "0 °C",
     "10 °C",
@@ -311,8 +109,8 @@
     "100 °C"
    ]
   },
-  "fr": {
-   "q": "À quelle température l'eau gèle-t-elle ?",
+  "en": {
+   "q": "At what temperature does water freeze?",
    "c": [
     "0 °C",
     "10 °C",
@@ -347,20 +145,11 @@
     "100 °C"
    ]
   },
-  "d": 1
- },
- {
   "a": 0,
   "image": null,
-  "en": {
-   "q": "What energy does a moving object have?",
-   "c": [
-    "Kinetic",
-    "Potential",
-    "Thermal",
-    "Chemical"
-   ]
-  },
+  "level": 1
+ },
+ {
   "fr": {
    "q": "Quelle énergie possède un objet en mouvement ?",
    "c": [
@@ -368,6 +157,15 @@
     "Potentielle",
     "Thermique",
     "Chimique"
+   ]
+  },
+  "en": {
+   "q": "What energy does a moving object have?",
+   "c": [
+    "Kinetic",
+    "Potential",
+    "Thermal",
+    "Chemical"
    ]
   },
   "ar": {
@@ -397,20 +195,11 @@
     "Química"
    ]
   },
-  "d": 1
- },
- {
   "a": 0,
   "image": null,
-  "en": {
-   "q": "What does a thermometer measure?",
-   "c": [
-    "Temperature",
-    "Pressure",
-    "Speed",
-    "Weight"
-   ]
-  },
+  "level": 1
+ },
+ {
   "fr": {
    "q": "Que mesure un thermomètre ?",
    "c": [
@@ -418,6 +207,15 @@
     "La pression",
     "La vitesse",
     "Le poids"
+   ]
+  },
+  "en": {
+   "q": "What does a thermometer measure?",
+   "c": [
+    "Temperature",
+    "Pressure",
+    "Speed",
+    "Weight"
    ]
   },
   "ar": {
@@ -447,13 +245,13 @@
     "O peso"
    ]
   },
-  "d": 1
- },
- {
   "a": 0,
   "image": null,
-  "en": {
-   "q": "At what temperature does water boil at sea level?",
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "À quelle température l'eau bout-elle au niveau de la mer ?",
    "c": [
     "100 °C",
     "90 °C",
@@ -461,8 +259,8 @@
     "120 °C"
    ]
   },
-  "fr": {
-   "q": "À quelle température l'eau bout-elle au niveau de la mer ?",
+  "en": {
+   "q": "At what temperature does water boil at sea level?",
    "c": [
     "100 °C",
     "90 °C",
@@ -497,20 +295,611 @@
     "120 °C"
    ]
   },
-  "d": 1
- },
- {
   "a": 0,
   "image": null,
-  "en": {
-   "q": "What is the SI unit of electric current?",
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel est le symbole chimique de l'or ?",
    "c": [
-    "Ampere",
-    "Volt",
-    "Watt",
-    "Ohm"
+    "Ag",
+    "Au",
+    "Pb",
+    "Fe"
    ]
   },
+  "en": {
+   "q": "What is the chemical symbol for gold?",
+   "c": [
+    "Ag",
+    "Au",
+    "Pb",
+    "Fe"
+   ]
+  },
+  "ar": {
+   "q": "ما هو الرمز الكيميائي للذهب؟",
+   "c": [
+    "Ag",
+    "Au",
+    "Pb",
+    "Fe"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el símbolo químico del oro?",
+   "c": [
+    "Ag",
+    "Au",
+    "Pb",
+    "Fe"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o símbolo químico do ouro?",
+   "c": [
+    "Ag",
+    "Au",
+    "Pb",
+    "Fe"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle est la formule chimique de l'eau ?",
+   "c": [
+    "CO2",
+    "H2O",
+    "O2",
+    "NaCl"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical formula for water?",
+   "c": [
+    "CO2",
+    "H2O",
+    "O2",
+    "NaCl"
+   ]
+  },
+  "ar": {
+   "q": "ما هي الصيغة الكيميائية للماء؟",
+   "c": [
+    "CO2",
+    "H2O",
+    "O2",
+    "NaCl"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la fórmula química del agua?",
+   "c": [
+    "CO2",
+    "H2O",
+    "O2",
+    "NaCl"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a fórmula química da água?",
+   "c": [
+    "CO2",
+    "H2O",
+    "O2",
+    "NaCl"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel est le symbole chimique du sodium ?",
+   "c": [
+    "S",
+    "Na",
+    "Sd",
+    "N"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical symbol for sodium?",
+   "c": [
+    "S",
+    "Na",
+    "Sd",
+    "N"
+   ]
+  },
+  "ar": {
+   "q": "ما هو الرمز الكيميائي للصوديوم؟",
+   "c": [
+    "S",
+    "Na",
+    "Sd",
+    "N"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el símbolo químico del sodio?",
+   "c": [
+    "S",
+    "Na",
+    "Sd",
+    "N"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o símbolo químico do sódio?",
+   "c": [
+    "S",
+    "Na",
+    "Sd",
+    "N"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel est le pH d'une solution neutre à 25 °C ?",
+   "c": [
+    "0",
+    "7",
+    "14",
+    "10"
+   ]
+  },
+  "en": {
+   "q": "What is the pH of a neutral solution at 25 °C?",
+   "c": [
+    "0",
+    "7",
+    "14",
+    "10"
+   ]
+  },
+  "ar": {
+   "q": "ما هو الرقم الهيدروجيني (pH) للمحلول المتعادل عند 25 درجة مئوية؟",
+   "c": [
+    "0",
+    "7",
+    "14",
+    "10"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el pH de una solución neutra a 25 °C?",
+   "c": [
+    "0",
+    "7",
+    "14",
+    "10"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o pH de uma solução neutra a 25 °C?",
+   "c": [
+    "0",
+    "7",
+    "14",
+    "10"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle est l'unité de la résistance électrique (dans le SI) ?",
+   "c": [
+    "Le volt",
+    "L'ampère",
+    "L'ohm",
+    "Le watt"
+   ]
+  },
+  "en": {
+   "q": "What is the unit of electrical resistance (in the SI)?",
+   "c": [
+    "Volt",
+    "Ampere",
+    "Ohm",
+    "Watt"
+   ]
+  },
+  "ar": {
+   "q": "ما هي وحدة قياس المقاومة الكهربائية (في النظام الدولي)؟",
+   "c": [
+    "الفولت",
+    "الأمبير",
+    "الأوم",
+    "الواط"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la unidad de resistencia eléctrica (en el SI)?",
+   "c": [
+    "Voltio",
+    "Amperio",
+    "Ohmio",
+    "Vatio"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a unidade de resistência elétrica (no SI)?",
+   "c": [
+    "Volt",
+    "Ampère",
+    "Ohm",
+    "Watt"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel est le symbole chimique du fer ?",
+   "c": [
+    "F",
+    "Fe",
+    "Fr",
+    "Fi"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical symbol for iron?",
+   "c": [
+    "F",
+    "Fe",
+    "Fr",
+    "Fi"
+   ]
+  },
+  "ar": {
+   "q": "ما هو الرمز الكيميائي للحديد؟",
+   "c": [
+    "F",
+    "Fe",
+    "Fr",
+    "Fi"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el símbolo químico del hierro?",
+   "c": [
+    "F",
+    "Fe",
+    "Fr",
+    "Fi"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o símbolo químico do ferro?",
+   "c": [
+    "F",
+    "Fe",
+    "Fr",
+    "Fi"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle particule subatomique possède une charge électrique négative ?",
+   "c": [
+    "Le proton",
+    "Le neutron",
+    "L'électron",
+    "Le positron"
+   ]
+  },
+  "en": {
+   "q": "Which subatomic particle carries a negative electrical charge?",
+   "c": [
+    "Proton",
+    "Neutron",
+    "Electron",
+    "Positron"
+   ]
+  },
+  "ar": {
+   "q": "ما هو الجسيم دون الذري الذي يحمل شحنة كهربائية سالبة؟",
+   "c": [
+    "البروتون",
+    "النيوترون",
+    "الإلكترون",
+    "البوزيترون"
+   ]
+  },
+  "es": {
+   "q": "¿Qué partícula subatómica tiene carga eléctrica negativa?",
+   "c": [
+    "Protón",
+    "Neutrón",
+    "Electrón",
+    "Positrón"
+   ]
+  },
+  "pt": {
+   "q": "Qual partícula subatômica possui carga elétrica negativa?",
+   "c": [
+    "Próton",
+    "Nêutron",
+    "Elétron",
+    "Pósitron"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle est l'unité de la puissance électrique dans le Système international ?",
+   "c": [
+    "Le joule",
+    "Le volt",
+    "Le watt",
+    "L'ampère"
+   ]
+  },
+  "en": {
+   "q": "What is the unit of electric power in the International System of Units?",
+   "c": [
+    "Joule",
+    "Volt",
+    "Watt",
+    "Ampere"
+   ]
+  },
+  "ar": {
+   "q": "ما هي وحدة قياس القدرة الكهربائية في النظام الدولي؟",
+   "c": [
+    "الجول",
+    "الفولت",
+    "الواط",
+    "الأمبير"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la unidad de potencia eléctrica en el Sistema Internacional?",
+   "c": [
+    "Julio",
+    "Voltio",
+    "Vatio",
+    "Amperio"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a unidade de potência elétrica no Sistema Internacional?",
+   "c": [
+    "Joule",
+    "Volt",
+    "Watt",
+    "Ampère"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Qui a formulé la théorie de la relativité ?",
+   "c": [
+    "Albert Einstein",
+    "Isaac Newton",
+    "Niels Bohr",
+    "Galilée"
+   ]
+  },
+  "en": {
+   "q": "Who developed the theory of relativity?",
+   "c": [
+    "Albert Einstein",
+    "Isaac Newton",
+    "Niels Bohr",
+    "Galileo"
+   ]
+  },
+  "ar": {
+   "q": "من صاغ نظرية النسبية؟",
+   "c": [
+    "ألبرت أينشتاين",
+    "إسحاق نيوتن",
+    "نيلز بور",
+    "غاليليو"
+   ]
+  },
+  "es": {
+   "q": "¿Quién formuló la teoría de la relatividad?",
+   "c": [
+    "Albert Einstein",
+    "Isaac Newton",
+    "Niels Bohr",
+    "Galileo"
+   ]
+  },
+  "pt": {
+   "q": "Quem formulou a teoria da relatividade?",
+   "c": [
+    "Albert Einstein",
+    "Isaac Newton",
+    "Niels Bohr",
+    "Galileu"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle est la vitesse de la lumière (environ) ?",
+   "c": [
+    "30 000 km/s",
+    "150 000 km/s",
+    "300 000 km/s",
+    "1 000 000 km/s"
+   ]
+  },
+  "en": {
+   "q": "What is the speed of light (approximately)?",
+   "c": [
+    "30,000 km/s",
+    "150,000 km/s",
+    "300,000 km/s",
+    "1,000,000 km/s"
+   ]
+  },
+  "ar": {
+   "q": "ما هي سرعة الضوء تقريبًا؟",
+   "c": [
+    "30 ألف كم/ث",
+    "150 ألف كم/ث",
+    "300 ألف كم/ث",
+    "مليون كم/ث"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la velocidad de la luz (aproximadamente)?",
+   "c": [
+    "30 000 km/s",
+    "150 000 km/s",
+    "300 000 km/s",
+    "1 000 000 km/s"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a velocidade da luz (aproximadamente)?",
+   "c": [
+    "30 000 km/s",
+    "150 000 km/s",
+    "300 000 km/s",
+    "1 000 000 km/s"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel est le numéro atomique de l'oxygène ?",
+   "c": [
+    "6",
+    "7",
+    "8",
+    "16"
+   ]
+  },
+  "en": {
+   "q": "What is the atomic number of oxygen?",
+   "c": [
+    "6",
+    "7",
+    "8",
+    "16"
+   ]
+  },
+  "ar": {
+   "q": "ما هو العدد الذري للأكسجين؟",
+   "c": [
+    "6",
+    "7",
+    "8",
+    "16"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el número atómico del oxígeno?",
+   "c": [
+    "6",
+    "7",
+    "8",
+    "16"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o número atômico do oxigênio?",
+   "c": [
+    "6",
+    "7",
+    "8",
+    "16"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Qui a découvert la radioactivité naturelle en 1896 ?",
+   "c": [
+    "Henri Becquerel",
+    "Marie Curie",
+    "Ernest Rutherford",
+    "Wilhelm Röntgen"
+   ]
+  },
+  "en": {
+   "q": "Who discovered natural radioactivity in 1896?",
+   "c": [
+    "Henri Becquerel",
+    "Marie Curie",
+    "Ernest Rutherford",
+    "Wilhelm Röntgen"
+   ]
+  },
+  "ar": {
+   "q": "من اكتشف النشاط الإشعاعي الطبيعي عام 1896؟",
+   "c": [
+    "هنري بيكريل",
+    "ماري كوري",
+    "إرنست رذرفورد",
+    "فيلهلم رونتغن"
+   ]
+  },
+  "es": {
+   "q": "¿Quién descubrió la radiactividad natural en 1896?",
+   "c": [
+    "Henri Becquerel",
+    "Marie Curie",
+    "Ernest Rutherford",
+    "Wilhelm Röntgen"
+   ]
+  },
+  "pt": {
+   "q": "Quem descobriu a radioatividade natural em 1896?",
+   "c": [
+    "Henri Becquerel",
+    "Marie Curie",
+    "Ernest Rutherford",
+    "Wilhelm Röntgen"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
   "fr": {
    "q": "Quelle est l'unité de courant électrique dans le Système international ?",
    "c": [
@@ -518,6 +907,15 @@
     "Le volt",
     "Le watt",
     "L'ohm"
+   ]
+  },
+  "en": {
+   "q": "What is the SI unit of electric current?",
+   "c": [
+    "Ampere",
+    "Volt",
+    "Watt",
+    "Ohm"
    ]
   },
   "ar": {
@@ -547,25 +945,25 @@
     "O ohm"
    ]
   },
-  "d": 2
- },
- {
   "a": 0,
   "image": null,
-  "en": {
-   "q": "Who formulated the law of universal gravitation?",
-   "c": [
-    "Isaac Newton",
-    "Galileo Galilei",
-    "Albert Einstein",
-    "Johannes Kepler"
-   ]
-  },
+  "level": 2
+ },
+ {
   "fr": {
    "q": "Qui a formulé la loi de la gravitation universelle ?",
    "c": [
     "Isaac Newton",
     "Galilée",
+    "Albert Einstein",
+    "Johannes Kepler"
+   ]
+  },
+  "en": {
+   "q": "Who formulated the law of universal gravitation?",
+   "c": [
+    "Isaac Newton",
+    "Galileo Galilei",
     "Albert Einstein",
     "Johannes Kepler"
    ]
@@ -597,108 +995,9 @@
     "Johannes Kepler"
    ]
   },
-  "d": 2
- },
- [
- {
-  "fr": {
-   "q": "Quel est le symbole chimique de l'or ?",
-   "c": [
-    "Ag",
-    "Au",
-    "Pb",
-    "Fe"
-   ]
-  },
-  "en": {
-   "q": "What is the chemical symbol for gold?",
-   "c": [
-    "Ag",
-    "Au",
-    "Pb",
-    "Fe"
-   ]
-  },
-  "a": 1,
+  "a": 0,
   "image": null,
-  "ar": {
-   "q": "ما هو الرمز الكيميائي للذهب؟",
-   "c": [
-    "Ag",
-    "Au",
-    "Pb",
-    "Fe"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el símbolo químico del oro?",
-   "c": [
-    "Ag",
-    "Au",
-    "Pb",
-    "Fe"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o símbolo químico do ouro?",
-   "c": [
-    "Ag",
-    "Au",
-    "Pb",
-    "Fe"
-   ]
-  },
-  "d": 1
- },
- {
-  "fr": {
-   "q": "Quelle est la formule chimique de l'eau ?",
-   "c": [
-    "CO2",
-    "H2O",
-    "O2",
-    "NaCl"
-   ]
-  },
-  "en": {
-   "q": "What is the chemical formula for water?",
-   "c": [
-    "CO2",
-    "H2O",
-    "O2",
-    "NaCl"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "ar": {
-   "q": "ما هي الصيغة الكيميائية للماء؟",
-   "c": [
-    "CO2",
-    "H2O",
-    "O2",
-    "NaCl"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es la fórmula química del agua?",
-   "c": [
-    "CO2",
-    "H2O",
-    "O2",
-    "NaCl"
-   ]
-  },
-  "pt": {
-   "q": "Qual é a fórmula química da água?",
-   "c": [
-    "CO2",
-    "H2O",
-    "O2",
-    "NaCl"
-   ]
-  },
-  "d": 1
+  "level": 2
  },
  {
   "fr": {
@@ -719,8 +1018,6 @@
     "Hygrometer"
    ]
   },
-  "a": 1,
-  "image": null,
   "ar": {
    "q": "ما هو الأداة التي تقيس الضغط الجوي؟",
    "c": [
@@ -748,7 +1045,9 @@
     "Higrômetro"
    ]
   },
-  "d": 2
+  "a": 1,
+  "image": null,
+  "level": 3
  },
  {
   "fr": {
@@ -769,8 +1068,6 @@
     "Hydrogen"
    ]
   },
-  "a": 1,
-  "image": null,
   "ar": {
    "q": "ما الغاز الذي يشكل النسبة الأكبر من غلاف الأرض الجوي؟",
    "c": [
@@ -798,7 +1095,9 @@
     "Hidrogênio"
    ]
   },
-  "d": 2
+  "a": 1,
+  "image": null,
+  "level": 3
  },
  {
   "fr": {
@@ -819,8 +1118,6 @@
     "Pascal"
    ]
   },
-  "a": 2,
-  "image": null,
   "ar": {
    "q": "ما هي وحدة قياس القوة في النظام الدولي للوحدات (SI)؟",
    "c": [
@@ -848,158 +1145,9 @@
     "Pascal"
    ]
   },
-  "d": 2
- },
-  [
- {
-  "fr": {
-   "q": "Quel est le symbole chimique du sodium ?",
-   "c": [
-    "S",
-    "Na",
-    "Sd",
-    "N"
-   ]
-  },
-  "en": {
-   "q": "What is the chemical symbol for sodium?",
-   "c": [
-    "S",
-    "Na",
-    "Sd",
-    "N"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "ar": {
-   "q": "ما هو الرمز الكيميائي للصوديوم؟",
-   "c": [
-    "S",
-    "Na",
-    "Sd",
-    "N"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el símbolo químico del sodio?",
-   "c": [
-    "S",
-    "Na",
-    "Sd",
-    "N"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o símbolo químico do sódio?",
-   "c": [
-    "S",
-    "Na",
-    "Sd",
-    "N"
-   ]
-  },
-  "d": 1
- },
- {
-  "fr": {
-   "q": "Quel est le pH d'une solution neutre à 25 °C ?",
-   "c": [
-    "0",
-    "7",
-    "14",
-    "10"
-   ]
-  },
-  "en": {
-   "q": "What is the pH of a neutral solution at 25 °C?",
-   "c": [
-    "0",
-    "7",
-    "14",
-    "10"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "ar": {
-   "q": "ما هو الرقم الهيدروجيني (pH) للمحلول المتعادل عند 25 درجة مئوية؟",
-   "c": [
-    "0",
-    "7",
-    "14",
-    "10"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el pH de una solución neutra a 25 °C?",
-   "c": [
-    "0",
-    "7",
-    "14",
-    "10"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o pH de uma solução neutra a 25 °C?",
-   "c": [
-    "0",
-    "7",
-    "14",
-    "10"
-   ]
-  },
-  "d": 1
- },
- {
-  "fr": {
-   "q": "Quelle est l'unité de la résistance électrique (dans le SI) ?",
-   "c": [
-    "Le volt",
-    "L'ampère",
-    "L'ohm",
-    "Le watt"
-   ]
-  },
-  "en": {
-   "q": "What is the unit of electrical resistance (in the SI)?",
-   "c": [
-    "Volt",
-    "Ampere",
-    "Ohm",
-    "Watt"
-   ]
-  },
   "a": 2,
   "image": null,
-  "ar": {
-   "q": "ما هي وحدة قياس المقاومة الكهربائية (في النظام الدولي)؟",
-   "c": [
-    "الفولت",
-    "الأمبير",
-    "الأوم",
-    "الواط"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es la unidad de resistencia eléctrica (en el SI)?",
-   "c": [
-    "Voltio",
-    "Amperio",
-    "Ohmio",
-    "Vatio"
-   ]
-  },
-  "pt": {
-   "q": "Qual é a unidade de resistência elétrica (no SI)?",
-   "c": [
-    "Volt",
-    "Ampère",
-    "Ohm",
-    "Watt"
-   ]
-  },
-  "d": 1
+  "level": 3
  },
  {
   "fr": {
@@ -1020,8 +1168,6 @@
     "Condensation"
    ]
   },
-  "a": 1,
-  "image": null,
   "ar": {
    "q": "ماذا يسمى التحول المباشر من الحالة الصلبة إلى الحالة الغازية؟",
    "c": [
@@ -1049,7 +1195,9 @@
     "Condensação"
    ]
   },
-  "d": 2
+  "a": 1,
+  "image": null,
+  "level": 3
  },
  {
   "fr": {
@@ -1070,8 +1218,6 @@
     "E = 1/2 × m² × v"
    ]
   },
-  "a": 1,
-  "image": null,
   "ar": {
    "q": "ما هي صيغة الطاقة الحركية لجسم كتلته m وسرعته v؟",
    "c": [
@@ -1099,158 +1245,9 @@
     "E = 1/2 × m² × v"
    ]
   },
-  "d": 2
- },
-   [
- {
-  "fr": {
-   "q": "Quel est le symbole chimique du fer ?",
-   "c": [
-    "F",
-    "Fe",
-    "Fr",
-    "Fi"
-   ]
-  },
-  "en": {
-   "q": "What is the chemical symbol for iron?",
-   "c": [
-    "F",
-    "Fe",
-    "Fr",
-    "Fi"
-   ]
-  },
   "a": 1,
   "image": null,
-  "ar": {
-   "q": "ما هو الرمز الكيميائي للحديد؟",
-   "c": [
-    "F",
-    "Fe",
-    "Fr",
-    "Fi"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el símbolo químico del hierro?",
-   "c": [
-    "F",
-    "Fe",
-    "Fr",
-    "Fi"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o símbolo químico do ferro?",
-   "c": [
-    "F",
-    "Fe",
-    "Fr",
-    "Fi"
-   ]
-  },
-  "d": 1
- },
- {
-  "fr": {
-   "q": "Quelle particule subatomique possède une charge électrique négative ?",
-   "c": [
-    "Le proton",
-    "Le neutron",
-    "L'électron",
-    "Le positron"
-   ]
-  },
-  "en": {
-   "q": "Which subatomic particle carries a negative electrical charge?",
-   "c": [
-    "Proton",
-    "Neutron",
-    "Electron",
-    "Positron"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "ar": {
-   "q": "ما هو الجسيم دون الذري الذي يحمل شحنة كهربائية سالبة؟",
-   "c": [
-    "البروتون",
-    "النيوترون",
-    "الإلكترون",
-    "البوزيترون"
-   ]
-  },
-  "es": {
-   "q": "¿Qué partícula subatómica tiene carga eléctrica negativa?",
-   "c": [
-    "Protón",
-    "Neutrón",
-    "Electrón",
-    "Positrón"
-   ]
-  },
-  "pt": {
-   "q": "Qual partícula subatômica possui carga elétrica negativa?",
-   "c": [
-    "Próton",
-    "Nêutron",
-    "Elétron",
-    "Pósitron"
-   ]
-  },
-  "d": 1
- },
- {
-  "fr": {
-   "q": "Quelle est l'unité de la puissance électrique dans le Système international ?",
-   "c": [
-    "Le joule",
-    "Le volt",
-    "Le watt",
-    "L'ampère"
-   ]
-  },
-  "en": {
-   "q": "What is the unit of electric power in the International System of Units?",
-   "c": [
-    "Joule",
-    "Volt",
-    "Watt",
-    "Ampere"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "ar": {
-   "q": "ما هي وحدة قياس القدرة الكهربائية في النظام الدولي؟",
-   "c": [
-    "الجول",
-    "الفولت",
-    "الواط",
-    "الأمبير"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es la unidad de potencia eléctrica en el Sistema Internacional?",
-   "c": [
-    "Julio",
-    "Voltio",
-    "Vatio",
-    "Amperio"
-   ]
-  },
-  "pt": {
-   "q": "Qual é a unidade de potência elétrica no Sistema Internacional?",
-   "c": [
-    "Joule",
-    "Volt",
-    "Watt",
-    "Ampère"
-   ]
-  },
-  "d": 1
+  "level": 3
  },
  {
   "fr": {
@@ -1271,8 +1268,6 @@
     "Dmitri Mendeleev"
    ]
   },
-  "a": 1,
-  "image": null,
   "ar": {
    "q": "أي عالم اقترح نموذج الذرة الكوكبي الذي يشبه نظاماً شمسياً مصغراً؟",
    "c": [
@@ -1300,7 +1295,9 @@
     "Dmitri Mendeleev"
    ]
   },
-  "d": 2
+  "a": 1,
+  "image": null,
+  "level": 3
  },
  {
   "fr": {
@@ -1321,8 +1318,6 @@
     "Saturated solution"
    ]
   },
-  "a": 2,
-  "image": null,
   "ar": {
    "q": "ماذا يسمى المحلول الذي الرقم الهيدروجيني له أكبر من 7؟",
    "c": [
@@ -1350,8 +1345,8 @@
     "Solução saturada"
    ]
   },
-  "d": 2
+  "a": 2,
+  "image": null,
+  "level": 3
  }
-]
-
 ]

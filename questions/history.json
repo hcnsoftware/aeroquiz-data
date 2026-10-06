@@ -1,107 +1,14 @@
 [
  {
   "fr": {
-   "q": "En quelle année le mur de Berlin est-il tombé ?",
+   "q": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
    "c": [
-    "1985",
-    "1989",
-    "1991",
-    "1995"
+    "Les Égyptiens",
+    "Les Romains",
+    "Les Grecs",
+    "Les Perses"
    ]
   },
-  "en": {
-   "q": "In which year did the Berlin Wall fall?",
-   "c": [
-    "1985",
-    "1989",
-    "1991",
-    "1995"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "ar": {
-   "q": "في أي عام سقط جدار برلين؟",
-   "c": [
-    "1985",
-    "1989",
-    "1991",
-    "1995"
-   ]
-  },
-  "es": {
-   "q": "¿En qué año cayó el Muro de Berlín?",
-   "c": [
-    "1985",
-    "1989",
-    "1991",
-    "1995"
-   ]
-  },
-  "pt": {
-   "q": "Em que ano caiu o Muro de Berlim?",
-   "c": [
-    "1985",
-    "1989",
-    "1991",
-    "1995"
-   ]
-  },
-  "d": 2
- },
- {
-  "fr": {
-   "q": "En quelle année a commencé la Première Guerre mondiale ?",
-   "c": [
-    "1912",
-    "1914",
-    "1916",
-    "1918"
-   ]
-  },
-  "en": {
-   "q": "In which year did World War I begin?",
-   "c": [
-    "1912",
-    "1914",
-    "1916",
-    "1918"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "ar": {
-   "q": "في أي عام بدأت الحرب العالمية الأولى؟",
-   "c": [
-    "1912",
-    "1914",
-    "1916",
-    "1918"
-   ]
-  },
-  "es": {
-   "q": "¿En qué año empezó la Primera Guerra Mundial?",
-   "c": [
-    "1912",
-    "1914",
-    "1916",
-    "1918"
-   ]
-  },
-  "pt": {
-   "q": "Em que ano começou a Primeira Guerra Mundial?",
-   "c": [
-    "1912",
-    "1914",
-    "1916",
-    "1918"
-   ]
-  },
-  "d": 2
- },
- {
-  "a": 0,
-  "image": null,
   "en": {
    "q": "Which ancient civilization built the pyramids of Giza?",
    "c": [
@@ -109,15 +16,6 @@
     "The Romans",
     "The Greeks",
     "The Persians"
-   ]
-  },
-  "fr": {
-   "q": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
-   "c": [
-    "Les Égyptiens",
-    "Les Romains",
-    "Les Grecs",
-    "Les Perses"
    ]
   },
   "ar": {
@@ -147,13 +45,13 @@
     "Os persas"
    ]
   },
-  "d": 1
- },
- {
   "a": 0,
   "image": null,
-  "en": {
-   "q": "Who was the first President of the United States?",
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Qui fut le premier président des États-Unis ?",
    "c": [
     "George Washington",
     "Abraham Lincoln",
@@ -161,8 +59,8 @@
     "John Adams"
    ]
   },
-  "fr": {
-   "q": "Qui fut le premier président des États-Unis ?",
+  "en": {
+   "q": "Who was the first President of the United States?",
    "c": [
     "George Washington",
     "Abraham Lincoln",
@@ -197,13 +95,13 @@
     "John Adams"
    ]
   },
-  "d": 1
+  "a": 0,
+  "image": null,
+  "level": 1
  },
  {
-  "a": 1,
-  "image": null,
-  "en": {
-   "q": "In which year did World War II end?",
+  "fr": {
+   "q": "En quelle année s'est terminée la Seconde Guerre mondiale ?",
    "c": [
     "1939",
     "1945",
@@ -211,8 +109,8 @@
     "1918"
    ]
   },
-  "fr": {
-   "q": "En quelle année s'est terminée la Seconde Guerre mondiale ?",
+  "en": {
+   "q": "In which year did World War II end?",
    "c": [
     "1939",
     "1945",
@@ -247,20 +145,11 @@
     "1918"
    ]
   },
-  "d": 1
+  "a": 1,
+  "image": null,
+  "level": 1
  },
  {
-  "a": 0,
-  "image": null,
-  "en": {
-   "q": "Julius Caesar was a leader of which civilization?",
-   "c": [
-    "Ancient Rome",
-    "Ancient Greece",
-    "Ancient Egypt",
-    "Persia"
-   ]
-  },
   "fr": {
    "q": "Jules César était un dirigeant de quelle civilisation ?",
    "c": [
@@ -268,6 +157,15 @@
     "Grèce antique",
     "Égypte antique",
     "Perse"
+   ]
+  },
+  "en": {
+   "q": "Julius Caesar was a leader of which civilization?",
+   "c": [
+    "Ancient Rome",
+    "Ancient Greece",
+    "Ancient Egypt",
+    "Persia"
    ]
   },
   "ar": {
@@ -297,26 +195,26 @@
     "A Pérsia"
    ]
   },
-  "d": 1
- },
- {
   "a": 0,
   "image": null,
-  "en": {
-   "q": "Who crossed the Atlantic in 1492 and reached the Americas?",
-   "c": [
-    "Christopher Columbus",
-    "Vasco da Gama",
-    "Ferdinand Magellan",
-    "Marco Polo"
-   ]
-  },
+  "level": 1
+ },
+ {
   "fr": {
    "q": "Qui a traversé l'Atlantique en 1492 et atteint les Amériques ?",
    "c": [
     "Christophe Colomb",
     "Vasco de Gama",
     "Magellan",
+    "Marco Polo"
+   ]
+  },
+  "en": {
+   "q": "Who crossed the Atlantic in 1492 and reached the Americas?",
+   "c": [
+    "Christopher Columbus",
+    "Vasco da Gama",
+    "Ferdinand Magellan",
     "Marco Polo"
    ]
   },
@@ -347,20 +245,11 @@
     "Marco Polo"
    ]
   },
-  "d": 1
- },
- {
   "a": 0,
   "image": null,
-  "en": {
-   "q": "Which country gave the Statue of Liberty to the United States?",
-   "c": [
-    "France",
-    "United Kingdom",
-    "Spain",
-    "Italy"
-   ]
-  },
+  "level": 1
+ },
+ {
   "fr": {
    "q": "Quel pays a offert la statue de la Liberté aux États-Unis ?",
    "c": [
@@ -368,6 +257,15 @@
     "Le Royaume-Uni",
     "L'Espagne",
     "L'Italie"
+   ]
+  },
+  "en": {
+   "q": "Which country gave the Statue of Liberty to the United States?",
+   "c": [
+    "France",
+    "United Kingdom",
+    "Spain",
+    "Italy"
    ]
   },
   "ar": {
@@ -397,13 +295,113 @@
     "Itália"
    ]
   },
-  "d": 1
+  "a": 0,
+  "image": "capitals_statue_of_liberty.jpg",
+  "level": 1
  },
  {
+  "fr": {
+   "q": "En quelle année le mur de Berlin est-il tombé ?",
+   "c": [
+    "1985",
+    "1989",
+    "1991",
+    "1995"
+   ]
+  },
+  "en": {
+   "q": "In which year did the Berlin Wall fall?",
+   "c": [
+    "1985",
+    "1989",
+    "1991",
+    "1995"
+   ]
+  },
+  "ar": {
+   "q": "في أي عام سقط جدار برلين؟",
+   "c": [
+    "1985",
+    "1989",
+    "1991",
+    "1995"
+   ]
+  },
+  "es": {
+   "q": "¿En qué año cayó el Muro de Berlín?",
+   "c": [
+    "1985",
+    "1989",
+    "1991",
+    "1995"
+   ]
+  },
+  "pt": {
+   "q": "Em que ano caiu o Muro de Berlim?",
+   "c": [
+    "1985",
+    "1989",
+    "1991",
+    "1995"
+   ]
+  },
   "a": 1,
   "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "En quelle année a commencé la Première Guerre mondiale ?",
+   "c": [
+    "1912",
+    "1914",
+    "1916",
+    "1918"
+   ]
+  },
   "en": {
-   "q": "In which year did the French Revolution begin?",
+   "q": "In which year did World War I begin?",
+   "c": [
+    "1912",
+    "1914",
+    "1916",
+    "1918"
+   ]
+  },
+  "ar": {
+   "q": "في أي عام بدأت الحرب العالمية الأولى؟",
+   "c": [
+    "1912",
+    "1914",
+    "1916",
+    "1918"
+   ]
+  },
+  "es": {
+   "q": "¿En qué año empezó la Primera Guerra Mundial?",
+   "c": [
+    "1912",
+    "1914",
+    "1916",
+    "1918"
+   ]
+  },
+  "pt": {
+   "q": "Em que ano começou a Primeira Guerra Mundial?",
+   "c": [
+    "1912",
+    "1914",
+    "1916",
+    "1918"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "En quelle année a commencé la Révolution française ?",
    "c": [
     "1776",
     "1789",
@@ -411,8 +409,8 @@
     "1815"
    ]
   },
-  "fr": {
-   "q": "En quelle année a commencé la Révolution française ?",
+  "en": {
+   "q": "In which year did the French Revolution begin?",
    "c": [
     "1776",
     "1789",
@@ -447,13 +445,13 @@
     "1815"
    ]
   },
-  "d": 2
+  "a": 1,
+  "image": null,
+  "level": 1
  },
  {
-  "a": 2,
-  "image": null,
-  "en": {
-   "q": "In which year did Algeria gain its independence?",
+  "fr": {
+   "q": "En quelle année l'Algérie a-t-elle obtenu son indépendance ?",
    "c": [
     "1954",
     "1958",
@@ -461,8 +459,8 @@
     "1965"
    ]
   },
-  "fr": {
-   "q": "En quelle année l'Algérie a-t-elle obtenu son indépendance ?",
+  "en": {
+   "q": "In which year did Algeria gain its independence?",
    "c": [
     "1954",
     "1958",
@@ -497,25 +495,25 @@
     "1965"
    ]
   },
-  "d": 2
+  "a": 2,
+  "image": null,
+  "level": 1
  },
  {
-  "a": 0,
-  "image": null,
-  "en": {
-   "q": "Who was the first emperor of unified China?",
-   "c": [
-    "Qin Shi Huang",
-    "Kublai Khan",
-    "Confucius",
-    "Sun Yat-sen"
-   ]
-  },
   "fr": {
    "q": "Qui fut le premier empereur de la Chine unifiée ?",
    "c": [
     "Qin Shi Huang",
     "Kubilaï Khan",
+    "Confucius",
+    "Sun Yat-sen"
+   ]
+  },
+  "en": {
+   "q": "Who was the first emperor of unified China?",
+   "c": [
+    "Qin Shi Huang",
+    "Kublai Khan",
     "Confucius",
     "Sun Yat-sen"
    ]
@@ -547,13 +545,13 @@
     "Sun Yat-sen"
    ]
   },
-  "d": 2
- },
- {
   "a": 0,
   "image": null,
-  "en": {
-   "q": "Which battle in 1815 ended Napoleon's rule?",
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle bataille de 1815 a mis fin au règne de Napoléon ?",
    "c": [
     "Waterloo",
     "Austerlitz",
@@ -561,8 +559,8 @@
     "Verdun"
    ]
   },
-  "fr": {
-   "q": "Quelle bataille de 1815 a mis fin au règne de Napoléon ?",
+  "en": {
+   "q": "Which battle in 1815 ended Napoleon's rule?",
    "c": [
     "Waterloo",
     "Austerlitz",
@@ -597,1511 +595,1508 @@
     "Verdun"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 2
  },
- [
-  {
-    "fr": {
-      "q": "Quel explorateur portugais a atteint l'Inde en contournant l'Afrique en 1498 ?",
-      "c": [
-        "Vasco de Gama",
-        "Bartolomeu Dias",
-        "Ferdinand Magellan",
-        "Pedro Álvares Cabral"
-      ]
-    },
-    "en": {
-      "q": "Which Portuguese explorer reached India by sailing around Africa in 1498?",
-      "c": [
-        "Vasco da Gama",
-        "Bartolomeu Dias",
-        "Ferdinand Magellan",
-        "Pedro Álvares Cabral"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "أي مستكشف برتغالي وصل إلى الهند بالدوران حول أفريقيا عام 1498؟",
-      "c": [
-        "فاسكو دا غاما",
-        "بارثلوميو دياز",
-        "فرديناند ماجلان",
-        "بيدرو ألفاريز كابرال"
-      ]
-    },
-    "es": {
-      "q": "¿Qué explorador portugués llegó a India bordeando África en 1498?",
-      "c": [
-        "Vasco da Gama",
-        "Bartolomeu Dias",
-        "Fernando de Magallanes",
-        "Pedro Álvares Cabral"
-      ]
-    },
-    "pt": {
-      "q": "Qual explorador português chegou à Índia contornando a África em 1498?",
-      "c": [
-        "Vasco da Gama",
-        "Bartolomeu Dias",
-        "Fernão de Magalhães",
-        "Pedro Álvares Cabral"
-      ]
-    },
-    "d": 2
+ {
+  "fr": {
+   "q": "Quel explorateur portugais a atteint l'Inde en contournant l'Afrique en 1498 ?",
+   "c": [
+    "Vasco de Gama",
+    "Bartolomeu Dias",
+    "Ferdinand Magellan",
+    "Pedro Álvares Cabral"
+   ]
   },
-  {
-    "fr": {
-      "q": "En quelle année a eu lieu la chute de Constantinople, marquant la fin de l'Empire romain d'Orient ?",
-      "c": [
-        "1453",
-        "1492",
-        "1389",
-        "1517"
-      ]
-    },
-    "en": {
-      "q": "In which year did the Fall of Constantinople take place, marking the end of the Byzantine Empire?",
-      "c": [
-        "1453",
-        "1492",
-        "1389",
-        "1517"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "في أي عام حدث سقوط القسطنطينية، مما يمثل نهاية الإمبراطورية البيزنطية؟",
-      "c": [
-        "1453",
-        "1492",
-        "1389",
-        "1517"
-      ]
-    },
-    "es": {
-      "q": "¿En qué año tuvo lugar la caída de Constantinopla, marcando el fin del Imperio romano de Oriente?",
-      "c": [
-        "1453",
-        "1492",
-        "1389",
-        "1517"
-      ]
-    },
-    "pt": {
-      "q": "Em que ano ocorreu a Queda de Constantinopla, marcando o fim do Império Romano do Oriente?",
-      "c": [
-        "1453",
-        "1492",
-        "1389",
-        "1517"
-      ]
-    },
-    "d": 2
+  "en": {
+   "q": "Which Portuguese explorer reached India by sailing around Africa in 1498?",
+   "c": [
+    "Vasco da Gama",
+    "Bartolomeu Dias",
+    "Ferdinand Magellan",
+    "Pedro Álvares Cabral"
+   ]
   },
-  {
-    "fr": {
-      "q": "Quel pharaon de l'Égypte ancienne a vu sa tombe découverte intacte par Howard Carter en 1922 ?",
-      "c": [
-        "Toutankhamon",
-        "Ramsès II",
-        "Akhénaton",
-        "Thoutmôsis III"
-      ]
-    },
-    "en": {
-      "q": "Which ancient Egyptian pharaoh's tomb was discovered intact by Howard Carter in 1922?",
-      "c": [
-        "Tutankhamun",
-        "Ramses II",
-        "Akhenaten",
-        "Thutmose III"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "ما هو فرعون مصر القديمة الذي اكتشف هوارد كارتر مقبرته سليمة عام 1922؟",
-      "c": [
-        "توت عنخ آمون",
-        "رمسيس الثاني",
-        "إخناتون",
-        "تحتمس الثالث"
-      ]
-    },
-    "es": {
-      "q": "¿Qué faraón del antiguo Egipto vio su tumba descubierta intacta por Howard Carter en 1922?",
-      "c": [
-        "Tutankamón",
-        "Ramsés II",
-        "Akenatón",
-        "Tutmosis III"
-      ]
-    },
-    "pt": {
-      "q": "Qual faraó do antigo Egito teve sua tumba descoberta intacta por Howard Carter em 1922?",
-      "c": [
-        "Tutancâmon",
-        "Ramsés II",
-        "Aquenáton",
-        "Tutemés III"
-      ]
-    },
-    "d": 2
+  "ar": {
+   "q": "أي مستكشف برتغالي وصل إلى الهند بالدوران حول أفريقيا عام 1498؟",
+   "c": [
+    "فاسكو دا غاما",
+    "بارثلوميو دياز",
+    "فرديناند ماجلان",
+    "بيدرو ألفاريز كابرال"
+   ]
   },
-  {
-    "fr": {
-      "q": "Quel traité de 1919 a officiellement mis fin à l'état de guerre entre l'Allemagne et les forces alliées ?",
-      "c": [
-        "Le traité de Versailles",
-        "Le traité de Trianon",
-        "Le traité de Sèvres",
-        "Le traité de Saint-Germain"
-      ]
-    },
-    "en": {
-      "q": "Which 1919 treaty officially ended the state of war between Germany and the Allied Powers?",
-      "c": [
-        "The Treaty of Versailles",
-        "The Treaty of Trianon",
-        "The Treaty of Sèvres",
-        "The Treaty of Saint-Germain"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "ما هي معاهدة عام 1919 التي أنهت رسمياً حالة الحرب بين ألمانيا والقوات الحليفة؟",
-      "c": [
-        "معاهدة فرساي",
-        "معاهدة تريانون",
-        "معاهدة سيفر",
-        "معاهدة سان جيرمان"
-      ]
-    },
-    "es": {
-      "q": "¿Qué tratado de 1919 puso fin oficialmente al estado de guerra entre Alemania y las potencias aliadas?",
-      "c": [
-        "El Tratado de Versalles",
-        "El Tratado de Trianon",
-        "El Tratado de Sèvres",
-        "El Tratado de Saint-Germain"
-      ]
-    },
-    "pt": {
-      "q": "Qual tratado de 1919 encerrou oficialmente o estado de guerra entre a Alemanha e as potências aliadas?",
-      "c": [
-        "O Tratado de Versalhes",
-        "O Tratado de Trianon",
-        "O Tratado de Sèvres",
-        "O Tratado de Saint-Germain"
-      ]
-    },
-    "d": 2
+  "es": {
+   "q": "¿Qué explorador portugués llegó a India bordeando África en 1498?",
+   "c": [
+    "Vasco da Gama",
+    "Bartolomeu Dias",
+    "Fernando de Magallanes",
+    "Pedro Álvares Cabral"
+   ]
   },
-  {
-    "fr": {
-      "q": "Quelle reine d'Égypte antique a été la dernière souveraine de la dynastie ptolémaïque ?",
-      "c": [
-        "Cléopâtre VII",
-        "Néfertiti",
-        "Hatchepsout",
-        "Ankhsenamon"
-      ]
-    },
-    "en": {
-      "q": "Which ancient Egyptian queen was the last active ruler of the Ptolemaic Kingdom?",
-      "c": [
-        "Cleopatra VII",
-        "Nefertiti",
-        "Hatshepsut",
-        "Ankhesenamun"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "أي ملكة من مصر القديمة كانت الحاكمة الأخيرة للأسرة البطلمية؟",
-      "c": [
-        "كليوباترا السابعة",
-        "نفرتيتي",
-        "حتشبسوت",
-        "عنخ إس إن آمون"
-      ]
-    },
-    "es": {
-      "q": "¿Qué reina del antiguo Egipto fue la última soberana de la dinastía ptolemaica?",
-      "c": [
-        "Cleopatra VII",
-        "Nefertiti",
-        "Hatshepsut",
-        "Ankesenamón"
-      ]
-    },
-    "pt": {
-      "q": "Qual rainha do antigo Egito foi a última soberana da dinastia ptolemaica?",
-      "c": [
-        "Cleópatra VII",
-        "Nefertiti",
-        "Hatshepsut",
-        "Anchesenamon"
-      ]
-    },
-    "d": 2
+  "pt": {
+   "q": "Qual explorador português chegou à Índia contornando a África em 1498?",
+   "c": [
+    "Vasco da Gama",
+    "Bartolomeu Dias",
+    "Fernão de Magalhães",
+    "Pedro Álvares Cabral"
+   ]
   },
-  {
-    "fr": {
-      "q": "Dans quelle ville s'est déroulé le débarquement des Alliés en Normandie le 6 juin 1944 (nommé opération Neptune) ?",
-      "c": [
-        "Sur les plages de Normandie",
-        "À Marseille",
-        "À Calais",
-        "À Bordeaux"
-      ]
-    },
-    "en": {
-      "q": "On which beaches did the Allied forces land in Normandy on June 6, 1944 (D-Day)?",
-      "c": [
-        "The beaches of Normandy",
-        "Marseille beaches",
-        "Calais beaches",
-        "Bordeaux beaches"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "على أي شواطئ نزلت قوات الحلفاء في نورماندي في 6 يونيو 1944 (يوم النصر)؟",
-      "c": [
-        "شواطئ نورماندي",
-        "شواطئ مرسيليا",
-        "شواطئ كاليه",
-        "شواطئ بوردو"
-      ]
-    },
-    "es": {
-      "q": "¿En qué playas desembarcaron las fuerzas aliadas en Normandía el 6 de junio de 1944?",
-      "c": [
-        "En las playas de Normandía",
-        "En Marsella",
-        "En Calais",
-        "En Burdeos"
-      ]
-    },
-    "pt": {
-      "q": "Em quais praias as forças Aliadas desembarcaram na Normandia em 6 de junho de 1944?",
-      "c": [
-        "Nas praias da Normandia",
-        "Em Marselha",
-        "Em Calais",
-        "Em Bordéus"
-      ]
-    },
-    "d": 2
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "En quelle année a eu lieu la chute de Constantinople, marquant la fin de l'Empire romain d'Orient ?",
+   "c": [
+    "1453",
+    "1492",
+    "1389",
+    "1517"
+   ]
   },
-  {
-    "fr": {
-      "q": "Quel chef militaire carolingien a stoppé l'avancée musulmane à la bataille de Poitiers en 732 ?",
-      "c": [
-        "Charles Martel",
-        "Charlemagne",
-        "Pépin le Bref",
-        "Clovis"
-      ]
-    },
-    "en": {
-      "q": "Which Frankish leader halted the Muslim advance at the Battle of Tours (Poitiers) in 732?",
-      "c": [
-        "Charles Martel",
-        "Charlemagne",
-        "Pepin the Short",
-        "Clovis"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "أي قائد عسكري فرنجي أوقف الزحف الإسلامي في معركة بواتييه عام 732؟",
-      "c": [
-        "شارل مارتل",
-        "كارلوس الكبير (شارلمان)",
-        "بيبان القصير",
-        "كلوفيس"
-      ]
-    },
-    "es": {
-      "q": "¿Qué líder militar franco detuvo el avance musulmán en la batalla de Poitiers en 732?",
-      "c": [
-        "Carlos Martel",
-        "Carlomagno",
-        "Pipino el Breve",
-        "Clodoveo"
-      ]
-    },
-    "pt": {
-      "q": "Qual líder militar franco deteve o avanço muçulmano na Batalha de Poitiers em 732?",
-      "c": [
-        "Carlos Martel",
-        "Carlos Magno",
-        "Pipino, o Breve",
-        "Clóvis"
-      ]
-    },
-    "d": 2
+  "en": {
+   "q": "In which year did the Fall of Constantinople take place, marking the end of the Byzantine Empire?",
+   "c": [
+    "1453",
+    "1492",
+    "1389",
+    "1517"
+   ]
   },
-  {
-    "fr": {
-      "q": "Quel empire mésoaméricain a été conquis par le conquistador espagnol Hernán Cortés au XVIe siècle ?",
-      "c": [
-        "L'Empire aztèque",
-        "L'Empire inca",
-        "La civilisation maya",
-        "La civilisation olmèque"
-      ]
-    },
-    "en": {
-      "q": "Which Mesoamerican empire was conquered by the Spanish conquistador Hernán Cortés in the 16th century?",
-      "c": [
-        "The Aztec Empire",
-        "The Inca Empire",
-        "The Mayan civilization",
-        "The Olmec civilization"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "أي إمبراطورية في أمريكا الوسطى غزاها الغازي الإسباني هيرنان كورتيس في القرن السادس عشر؟",
-      "c": [
-        "إمبراطورية الأستيك",
-        "إمبراطورية الإنكا",
-        "حضارة المايا",
-        "حضارة الأولمك"
-      ]
-    },
-    "es": {
-      "q": "¿Qué imperio mesoamericano fue conquistado por el conquistador español Hernán Cortés en el siglo XVI?",
-      "c": [
-        "El Imperio azteca",
-        "El Imperio inca",
-        "La civilización maya",
-        "La civilización olmeca"
-      ]
-    },
-    "pt": {
-      "q": "Qual império mesoamericano foi conquistado pelo conquistador espanhol Hernán Cortés no século XVI?",
-      "c": [
-        "O Império Asteca",
-        "O Império Inca",
-        "A civilização maia",
-        "A civilização olmeca"
-      ]
-    },
-    "d": 2
+  "ar": {
+   "q": "في أي عام حدث سقوط القسطنطينية، مما يمثل نهاية الإمبراطورية البيزنطية؟",
+   "c": [
+    "1453",
+    "1492",
+    "1389",
+    "1517"
+   ]
   },
-  {
-    "fr": {
-      "q": "Quel accord de paix, signé en 1978, a été négocié entre l'Égypte et Israël sous l'égide des États-Unis ?",
-      "c": [
-        "Les accords de Camp David",
-        "Les accords d'Oslo",
-        "Le traité de Washington",
-        "La conférence de Madrid"
-      ]
-    },
-    "en": {
-      "q": "Which 1978 peace agreement was negotiated between Egypt and Israel with U.S. mediation?",
-      "c": [
-        "The Camp David Accords",
-        "The Oslo Accords",
-        "The Washington Treaty",
-        "The Madrid Conference"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "ما هو اتفاق السلام المبرم عام 1978 بين مصر وإسرائيل برعاية الولايات المتحدة؟",
-      "c": [
-        "اتفاقية كامب ديفيد",
-        "اتفاقية أوسلو",
-        "معاهدة واشنطن",
-        "مؤتمر مدريد"
-      ]
-    },
-    "es": {
-      "q": "¿Qué acuerdo de paz de 1978 se negoció entre Egipto e Israel con la mediación de Estados Unidos?",
-      "c": [
-        "Los acuerdos de Camp David",
-        "Los acuerdos de Oslo",
-        "El tratado de Washington",
-        "La conferencia de Madrid"
-      ]
-    },
-    "pt": {
-      "q": "Qual acordo de paz de 1978 foi negociado entre o Egito e Israel com a mediação dos Estados Unidos?",
-      "c": [
-        "Os Acordos de Camp David",
-        "Os Acordos de Oslo",
-        "O Tratado de Washington",
-        "A Conferência de Madri"
-      ]
-    },
-    "d": 2
+  "es": {
+   "q": "¿En qué año tuvo lugar la caída de Constantinopla, marcando el fin del Imperio romano de Oriente?",
+   "c": [
+    "1453",
+    "1492",
+    "1389",
+    "1517"
+   ]
   },
-  {
-    "fr": {
-      "q": "Quel explorateur norvégien a atteint le pôle Sud pour la première fois en 1911 ?",
-      "c": [
-        "Roald Amundsen",
-        "Robert Falcon Scott",
-        "Ernest Shackleton",
-        "Fridtjof Nansen"
-      ]
-    },
-    "en": {
-      "q": "Which Norwegian explorer reached the South Pole for the first time in 1911?",
-      "c": [
-        "Roald Amundsen",
-        "Robert Falcon Scott",
-        "Ernest Shackleton",
-        "Fridtjof Nansen"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "أي مستكشف نرويجي وصل إلى القطب الجنوبي لأول مرة عام 1911؟",
-      "c": [
-        "رولد أموندسن",
-        "روبرت فالكون سكوت",
-        "إرنست شاكلتون",
-        "فريتيوف نانسين"
-      ]
-    },
-    "es": {
-      "q": "¿Qué explorador noruego llegó al Polo Sur por primera vez en 1911?",
-      "c": [
-        "Roald Amundsen",
-        "Robert Falcon Scott",
-        "Ernest Shackleton",
-        "Fridtjof Nansen"
-      ]
-    },
-    "pt": {
-      "q": "Qual explorador norueguês alcançou o Polo Sul pela primeira vez em 1911?",
-      "c": [
-        "Roald Amundsen",
-        "Robert Falcon Scott",
-        "Ernest Shackleton",
-        "Fridtjof Nansen"
-      ]
-    },
-    "d": 2
+  "pt": {
+   "q": "Em que ano ocorreu a Queda de Constantinopla, marcando o fim do Império Romano do Oriente?",
+   "c": [
+    "1453",
+    "1492",
+    "1389",
+    "1517"
+   ]
   },
-  [
-  {
-    "fr": {
-      "q": "Quel roi de Babylone est célèbre pour son code de lois gravé dans la pierre ?",
-      "c": [
-        "Hammurabi",
-        "Nabuchodonosor II",
-        "Sargon d'Akkad",
-        "Gilgamesh"
-      ]
-    },
-    "en": {
-      "q": "Which king of Babylon is famous for his code of laws engraved in stone?",
-      "c": [
-        "Hammurabi",
-        "Nebuchadnezzar II",
-        "Sargon of Akkad",
-        "Gilgamesh"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "أي ملك بابل مشهور بقانونه المنقوش على الحجر؟",
-      "c": [
-        "حمورابي",
-        "نبُوخذ نصر الثاني",
-        "سرجون الأكدي",
-        "جلجامش"
-      ]
-    },
-    "es": {
-      "q": "¿Qué rey de Babilonia es famoso por su código de leyes grabado en piedra?",
-      "c": [
-        "Hammurabi",
-        "Nabucodonosor II",
-        " Sargón de Acad",
-        "Gilgamesh"
-      ]
-    },
-    "pt": {
-      "q": "Qual rei da Babilônia é famoso pelo seu código de leis gravado em pedra?",
-      "c": [
-        "Hamurabi",
-        "Nabucodonosor II",
-        "Sargão da Acádia",
-        "Gilgamesh"
-      ]
-    },
-    "d": 2
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel pharaon de l'Égypte ancienne a vu sa tombe découverte intacte par Howard Carter en 1922 ?",
+   "c": [
+    "Toutankhamon",
+    "Ramsès II",
+    "Akhénaton",
+    "Thoutmôsis III"
+   ]
   },
-  {
-    "fr": {
-      "q": "En quelle année a eu lieu la signature du traité de paix de Westphalie, mettant fin à la guerre de Trente Ans ?",
-      "c": [
-        "1648",
-        "1515",
-        "1789",
-        "1815"
-      ]
-    },
-    "en": {
-      "q": "In which year was the Peace of Westphalia signed, ending the Thirty Years' War?",
-      "c": [
-        "1648",
-        "1515",
-        "1789",
-        "1815"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "في أي عام تم توقيع معاهدة سلام وستفاليا، التي أنهت حرب الثلاثين عاماً؟",
-      "c": [
-        "1648",
-        "1515",
-        "1789",
-        "1815"
-      ]
-    },
-    "es": {
-      "q": "¿En qué año se firmó la Paz de Westfalia, poniendo fin a la Guerra de los Treinta Años?",
-      "c": [
-        "1648",
-        "1515",
-        "1789",
-        "1815"
-      ]
-    },
-    "pt": {
-      "q": "Em que ano foi assinada a Paz de Vestfália, encerrando a Guerra dos Trinta Anos?",
-      "c": [
-        "1648",
-        "1515",
-        "1789",
-        "1815"
-      ]
-    },
-    "d": 2
+  "en": {
+   "q": "Which ancient Egyptian pharaoh's tomb was discovered intact by Howard Carter in 1922?",
+   "c": [
+    "Tutankhamun",
+    "Ramses II",
+    "Akhenaten",
+    "Thutmose III"
+   ]
   },
-  {
-    "fr": {
-      "q": "Quel explorateur vénitien a voyagé le long de la Route de la Soie jusqu'en Chine au XIIIe siècle ?",
-      "c": [
-        "Marco Polo",
-        "Amerigo Vespucci",
-        "Ibn Battuta",
-        "Jean de Mandeville"
-      ]
-    },
-    "en": {
-      "q": "Which Venetian explorer traveled along the Silk Road to China in the 13th century?",
-      "c": [
-        "Marco Polo",
-        "Amerigo Vespucci",
-        "Ibn Battuta",
-        "John of Mandeville"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "أي مستكشف فينيسي سافر على طول طريق الحرير إلى الصين في القرن الثالث عشر؟",
-      "c": [
-        "ماركو بولو",
-        "أمريجو فوسبوتشي",
-        "ابن بطوطة",
-        "جون من ماندفيل"
-      ]
-    },
-    "es": {
-      "q": "¿Qué explorador veneciano viajó por la Ruta de la Seda hasta China en el siglo XIII?",
-      "c": [
-        "Marco Polo",
-        "Américo Vespucio",
-        "Ibn Battuta",
-        "Juan de Mandeville"
-      ]
-    },
-    "pt": {
-      "q": "Qual explorador veneziano viajou ao longo da Rota da Seda para a China no século XIII?",
-      "c": [
-        "Marco Polo",
-        "Américo Vespúcio",
-        "Ibn Battuta",
-        "João de Mandeville"
-      ]
-    },
-    "d": 2
+  "ar": {
+   "q": "ما هو فرعون مصر القديمة الذي اكتشف هوارد كارتر مقبرته سليمة عام 1922؟",
+   "c": [
+    "توت عنخ آمون",
+    "رمسيس الثاني",
+    "إخناتون",
+    "تحتمس الثالث"
+   ]
   },
-  {
-    "fr": {
-      "q": "Quel événement du 16 décembre 1773 a contesté les taxes britanniques sur le thé dans les treize colonies ?",
-      "c": [
-        "La Boston Tea Party",
-        "Le massacre de Boston",
-        "Le premier Congrès continental",
-        "La bataille de Lexington"
-      ]
-    },
-    "en": {
-      "q": "Which event on December 16, 1773, protested British tea taxes in the thirteen colonies?",
-      "c": [
-        "The Boston Tea Party",
-        "The Boston Massacre",
-        "The First Continental Congress",
-        "The Battle of Lexington"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "ما هو الحدث الذي وقع في 16 ديسمبر 1773 احتج على الضرائب البريطانية على الشاي في المستعمرات الثلاث عشرة؟",
-      "c": [
-        "حفلة شاي بوسطن",
-        "مذبحة بوسطن",
-        "المؤتمر القاري الأول",
-        "معركة ليكسينغتون"
-      ]
-    },
-    "es": {
-      "q": "¿Qué acontecimiento del 16 de diciembre de 1773 protestó contra los impuestos británicos al té en las trece colonias?",
-      "c": [
-        "El Motín del té de Boston",
-        "La masacre de Boston",
-        "El Primer Congreso Continental",
-        "La batalla de Lexington"
-      ]
-    },
-    "pt": {
-      "q": "Qual evento de 16 de dezembro de 1773 protestou contra os impostos britânicos sobre o chá nas treze colônias?",
-      "c": [
-        "A Festa do Chá de Boston",
-        "O Massacre de Boston",
-        "O Primeiro Congresso Continental",
-        "A Batalha de Lexington"
-      ]
-    },
-    "d": 2
+  "es": {
+   "q": "¿Qué faraón del antiguo Egipto vio su tumba descubierta intacta por Howard Carter en 1922?",
+   "c": [
+    "Tutankamón",
+    "Ramsés II",
+    "Akenatón",
+    "Tutmosis III"
+   ]
   },
-  {
-    "fr": {
-      "q": "Quel empereur romain a officialisé la liberté du culte chrétien grâce à l'édit de Milan en 313 ?",
-      "c": [
-        "Constantin Ier",
-        "Dioclétien",
-        "Néron",
-        "Auguste"
-      ]
-    },
-    "en": {
-      "q": "Which Roman emperor legalized Christianity with the Edict of Milan in 313?",
-      "c": [
-        "Constantine the Great",
-        "Diocletian",
-        "Nero",
-        "Augustus"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "أي إمبراطور روماني أضفى الصفة القانونية على المسيحية بمرسوم ميلانو عام 313؟",
-      "c": [
-        "قسطنطين الكبير",
-        "دقلديانوس",
-        "نيرون",
-        "أغسطس"
-      ]
-    },
-    "es": {
-      "q": "¿Qué emperador romano legalizó el cristianismo con el Edicto de Milán en 313?",
-      "c": [
-        "Constantino I el Grande",
-        "Diocleciano",
-        "Nerón",
-        "Augusto"
-      ]
-    },
-    "pt": {
-      "q": "Qual imperador romano legalizou o cristianismo com o Édito de Milão em 313?",
-      "c": [
-        "Constantino, o Grande",
-        "Diocleciano",
-        "Nero",
-        "Augusto"
-      ]
-    },
-    "d": 2
+  "pt": {
+   "q": "Qual faraó do antigo Egito teve sua tumba descoberta intacta por Howard Carter em 1922?",
+   "c": [
+    "Tutancâmon",
+    "Ramsés II",
+    "Aquenáton",
+    "Tutemés III"
+   ]
   },
-  {
-    "fr": {
-      "q": "Quelle révolution russe de 1917 a conduit le parti bolchevique mené par Lénine au pouvoir ?",
-      "c": [
-        "La révolution d'Octobre",
-        "La révolution de Février",
-        "La révolution de 1905",
-        "Le soulèvement de Kornilov"
-      ]
-    },
-    "en": {
-      "q": "Which Russian revolution in 1917 brought the Bolshevik party led by Lenin to power?",
-      "c": [
-        "The October Revolution",
-        "The February Revolution",
-        "The 1905 Revolution",
-        "The Kornilov affair"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "أي ثورة روسية عام 1917 أصلت حزب البلشفية بقيادة لينين إلى السلطة؟",
-      "c": [
-        "ثورة أكتوبر",
-        "ثورة فبراير",
-        "ثورة 1905",
-        "محاولة كورنيلوف"
-      ]
-    },
-    "es": {
-      "q": "¿Qué revolución rusa de 1917 llevó al poder al partido bolchevique liderado por Lenin?",
-      "c": [
-        "La Revolución de Octubre",
-        "La Revolución de Febrero",
-        "La Revolución de 1905",
-        "El golpe de Kornílov"
-      ]
-    },
-    "pt": {
-      "q": "Qual revolução russa de 1917 levou ao poder o partido bolchevique liderado por Lênin?",
-      "c": [
-        "A Revolução de Outubro",
-        "A Revolução de Fevereiro",
-        "A Revolução de 1905",
-        "O caso Kornilov"
-      ]
-    },
-    "d": 2
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel traité de 1919 a officiellement mis fin à l'état de guerre entre l'Allemagne et les forces alliées ?",
+   "c": [
+    "Le traité de Versailles",
+    "Le traité de Trianon",
+    "Le traité de Sèvres",
+    "Le traité de Saint-Germain"
+   ]
   },
-  {
-    "fr": {
-      "q": "Quel grand accord de paix a mis fin à la guerre d'Algérie en mars 1962 ?",
-      "c": [
-        "Les accords d'Évian",
-        "Les accords de Genève",
-        "Les accords de San Francisco",
-        "Le traité de Paris"
-      ]
-    },
-    "en": {
-      "q": "Which major peace agreement ended the Algerian War in March 1962?",
-      "c": [
-        "The Évian Accords",
-        "The Geneva Accords",
-        "The San Francisco Conference",
-        "The Treaty of Paris"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "ما هو اتفاق السلام الرئيسي الذي أنهى حرب الجزائر في مارس 1962؟",
-      "c": [
-        "اتفاقيات إيفيان",
-        "اتفاقيات جنيف",
-        "مؤتمر سان فرانسيسكو",
-        "معاهدة باريس"
-      ]
-    },
-    "es": {
-      "q": "¿Qué gran acuerdo de paz puso fin a la guerra de Argelia en marzo de 1962?",
-      "c": [
-        "Los acuerdos de Évian",
-        "Los acuerdos de Ginebra",
-        "Los acuerdos de San Francisco",
-        "El Tratado de París"
-      ]
-    },
-    "pt": {
-      "q": "Qual grande acordo de paz encerrou a Guerra da Argélia em março de 1962?",
-      "c": [
-        "Os Acordos de Évian",
-        "Os Acordos de Genebra",
-        "Os Acordos de São Francisco",
-        "O Tratado de Paris"
-      ]
-    },
-    "d": 2
+  "en": {
+   "q": "Which 1919 treaty officially ended the state of war between Germany and the Allied Powers?",
+   "c": [
+    "The Treaty of Versailles",
+    "The Treaty of Trianon",
+    "The Treaty of Sèvres",
+    "The Treaty of Saint-Germain"
+   ]
   },
-  {
-    "fr": {
-      "q": "Quelle dynastie chinoise a construit la majeure partie de la Grande Muraille que nous connaissons aujourd'hui ?",
-      "c": [
-        "La dynastie Ming",
-        "La dynastie Han",
-        "La dynastie Tang",
-        "La dynastie Qing"
-      ]
-    },
-    "en": {
-      "q": "Which Chinese dynasty built the majority of the Great Wall of China that stands today?",
-      "c": [
-        "The Ming dynasty",
-        "The Han dynasty",
-        "The Tang dynasty",
-        "The Qing dynasty"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "أي سلالة صينية بنَت الجزء الأكبر من سور الصين العظيم الموجود اليوم؟",
-      "c": [
-        "سلالة مينغ",
-        "سلالة هان",
-        "سلالة تانغ",
-        "سلالة تشينغ"
-      ]
-    },
-    "es": {
-      "q": "¿Qué dinastía china construyó la mayor parte de la Gran Muralla que existe hoy en día?",
-      "c": [
-        "La dinastía Ming",
-        "La dinastía Han",
-        "La dinastía Tang",
-        "La dinastía Qing"
-      ]
-    },
-    "pt": {
-      "q": "Qual dinastia chinesa construiu a maior parte da Grande Muralha que existe hoje?",
-      "c": [
-        "A dinastia Ming",
-        "A dinastia Han",
-        "A dinastia Tang",
-        "A dinastia Qing"
-      ]
-    },
-    "d": 2
+  "ar": {
+   "q": "ما هي معاهدة عام 1919 التي أنهت رسمياً حالة الحرب بين ألمانيا والقوات الحليفة؟",
+   "c": [
+    "معاهدة فرساي",
+    "معاهدة تريانون",
+    "معاهدة سيفر",
+    "معاهدة سان جيرمان"
+   ]
   },
-  {
-    "fr": {
-      "q": "Qui fut le premier homme à effectuer un vol spatial habité autour de la Terre en 1961 ?",
-      "c": [
-        "Youri Gagarine",
-        "Neil Armstrong",
-        "Buzz Aldrin",
-        "John Glenn"
-      ]
-    },
-    "en": {
-      "q": "Who was the first man to complete a crewed spaceflight around the Earth in 1961?",
-      "c": [
-        "Yuri Gagarin",
-        "Neil Armstrong",
-        "Buzz Aldrin",
-        "John Glenn"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "من كان أول رجل يقوم برحلة فضائية مأهولة حول الأرض عام 1961؟",
-      "c": [
-        "يوري غاغارين",
-        "نيل آرمسترونغ",
-        "باز ألدرين",
-        "جون غلين"
-      ]
-    },
-    "es": {
-      "q": "¿Quién fue el primer hombre en realizar un vuelo espacial tripulado alrededor de la Tierra en 1961?",
-      "c": [
-        "Yuri Gagarin",
-        "Neil Armstrong",
-        "Buzz Aldrin",
-        "John Glenn"
-      ]
-    },
-    "pt": {
-      "q": "Quem foi o primeiro homem a realizar um voo espacial tripulado ao redor da Terra em 1961?",
-      "c": [
-        "Yuri Gagarin",
-        "Neil Armstrong",
-        "Buzz Aldrin",
-        "John Glenn"
-      ]
-    },
-    "d": 2
+  "es": {
+   "q": "¿Qué tratado de 1919 puso fin oficialmente al estado de guerra entre Alemania y las potencias aliadas?",
+   "c": [
+    "El Tratado de Versalles",
+    "El Tratado de Trianon",
+    "El Tratado de Sèvres",
+    "El Tratado de Saint-Germain"
+   ]
   },
-  {
-    "fr": {
-      "q": "Quelle reine d'Angleterre a régné pendant l'époque victorienne de 1837 à 1901 ?",
-      "c": [
-        "La reine Victoria",
-        "La reine Élisabeth Ire",
-        "La reine Marie Ire",
-        "La reine Anne"
-      ]
-    },
-    "en": {
-      "q": "Which Queen of England reigned during the Victorian era from 1837 to 1901?",
-      "c": [
-        "Queen Victoria",
-        "Queen Elizabeth I",
-        "Queen Mary I",
-        "Queen Anne"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "أي ملكة لإنجلترا حكمت خلال العصر الفيكتوري من 1837 إلى 1901؟",
-      "c": [
-        "الملكة فيكتوريا",
-        "الملكة إليزابيث الأولى",
-        "الملكة ماري الأولى",
-        "الملكة آن"
-      ]
-    },
-    "es": {
-      "q": "¿Qué reina de Inglaterra reinó durante la época victoriana de 1837 a 1901?",
-      "c": [
-        "La reina Victoria",
-        "La reina Isabel I",
-        "La reina María I",
-        "La reina Ana"
-      ]
-    },
-    "pt": {
-      "q": "Qual rainha da Inglaterra reinou durante a era vitoriana de 1837 a 1901?",
-      "c": [
-        "Rainha Vitória",
-        "Rainha Isabel I",
-        "Rainha Maria I",
-        "Rainha Ana"
-      ]
-    },
-    "d": 2
+  "pt": {
+   "q": "Qual tratado de 1919 encerrou oficialmente o estado de guerra entre a Alemanha e as potências aliadas?",
+   "c": [
+    "O Tratado de Versalhes",
+    "O Tratado de Trianon",
+    "O Tratado de Sèvres",
+    "O Tratado de Saint-Germain"
+   ]
   },
-  [
-  {
-    "fr": {
-      "q": "Quel dirigeant ottoman a conquis Constantinople en 1453, mettant fin à l'Empire romain d'Orient ?",
-      "c": [
-        "Mehmed II (Le Conquérant)",
-        "Soliman le Magnifique",
-        "Bayezid Ier",
-        "Selim Ier"
-      ]
-    },
-    "en": {
-      "q": "Which Ottoman ruler conquered Constantinople in 1453, ending the Byzantine Empire?",
-      "c": [
-        "Mehmed II (The Conqueror)",
-        "Suleiman the Magnificent",
-        "Bayezid I",
-        "Selim I"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "أي حاكم عثماني فتح القسطنطينية عام 1453، مما أنهى الإمبراطورية البيزنطية؟",
-      "c": [
-        "محمد الفاتح",
-        "سليمان القانوني",
-        "بايزيد الأول",
-        "سليم الأول"
-      ]
-    },
-    "es": {
-      "q": "¿Qué gobernante otomano conquistó Constantinopla en 1453, poniendo fin al Imperio bizantino?",
-      "c": [
-        "Mehmed II (El Conquistador)",
-        "Solimán el Magnífico",
-        "Bayezid I",
-        "Selim I"
-      ]
-    },
-    "pt": {
-      "q": "Qual governante otomano conquistou Constantinopla em 1453, pondo fim ao Império Bizantino?",
-      "c": [
-        "Mehmed II (O Conquistador)",
-        "Solimão, o Magnífico",
-        "Bayezid I",
-        "Selim I"
-      ]
-    },
-    "d": 2
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle reine d'Égypte antique a été la dernière souveraine de la dynastie ptolémaïque ?",
+   "c": [
+    "Cléopâtre VII",
+    "Néfertiti",
+    "Hatchepsout",
+    "Ankhsenamon"
+   ]
   },
-  {
-    "fr": {
-      "q": "Sous quel sultan l'Empire ottoman a-t-il atteint son apogée territorial et culturel au XVIe siècle ?",
-      "c": [
-        "Soliman le Magnifique",
-        "Osman Ier",
-        "Murad IV",
-        "Abdul Hamid II"
-      ]
-    },
-    "en": {
-      "q": "Under which sultan did the Ottoman Empire reach its territorial and cultural peak in the 16th century?",
-      "c": [
-        "Suleiman the Magnificent",
-        "Osman I",
-        "Murad IV",
-        "Abdul Hamid II"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "في عهد أي سلطان بلغ الإمبراطورية العثمانية ذروتها الإقليمية والثقافية في القرن السادس عشر؟",
-      "c": [
-        "سليمان القانوني",
-        "عثمان الأول",
-        "مراد الرابع",
-        "عبد الحميد الثاني"
-      ]
-    },
-    "es": {
-      "q": "¿Bajo qué sultán alcanzó el Imperio otomano su apogeo territorial y cultural en el siglo XVI?",
-      "c": [
-        "Solimán el Magnífico",
-        "Osman I",
-        "Murad IV",
-        "Abdul Hamid II"
-      ]
-    },
-    "pt": {
-      "q": "Sob qual sultão o Império Otomano atingiu seu auge territorial e cultural no século XVI?",
-      "c": [
-        "Solimão, o Magnífico",
-        "Osman I",
-        "Murad IV",
-        "Abdul Hamid II"
-      ]
-    },
-    "d": 2
+  "en": {
+   "q": "Which ancient Egyptian queen was the last active ruler of the Ptolemaic Kingdom?",
+   "c": [
+    "Cleopatra VII",
+    "Nefertiti",
+    "Hatshepsut",
+    "Ankhesenamun"
+   ]
   },
-  {
-    "fr": {
-      "q": "Quel était le nom de la célèbre unité d'élite d'infanterie de l'armée ottomane, recrutée principalement par le devchirmé ?",
-      "c": [
-        "Les janissaires",
-        "Les spahis",
-        "Les akïndjis",
-        "Les mamelouks"
-      ]
-    },
-    "en": {
-      "q": "What was the name of the famous elite infantry unit of the Ottoman army, primarily recruited through the devshirme system?",
-      "c": [
-        "The Janissaries",
-        "The Sipahis",
-        "The Akıncıs",
-        "The Mamluks"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "ما اسم وحدة المشاة النخبة الشهيرة في الجيش العثماني، والتي كانت تُجند بشكل رئيسي عبر نظام الدوشيرمة؟",
-      "c": [
-        "الإنكشارية",
-        "السباهية",
-        "الآقنجي",
-        "المماليك"
-      ]
-    },
-    "es": {
-      "q": "¿Cuál era el nombre de la famosa unidad de infantería de élite del ejército otomano, reclutada principalmente mediante el sistema de devşirme?",
-      "c": [
-        "Los jenízaros",
-        "Los sipahis",
-        "Los akıncı",
-        "Los mamelucos"
-      ]
-    },
-    "pt": {
-      "q": "Qual era o nome da famosa unidade de infantaria de elite do exército otomano, recrutada principalmente pelo sistema devshirme?",
-      "c": [
-        "Os janízaros",
-        "Os sipahis",
-        "Os akıncıs",
-        "Os mamelucos"
-      ]
-    },
-    "d": 2
+  "ar": {
+   "q": "أي ملكة من مصر القديمة كانت الحاكمة الأخيرة للأسرة البطلمية؟",
+   "c": [
+    "كليوباترا السابعة",
+    "نفرتيتي",
+    "حتشبسوت",
+    "عنخ إس إن آمون"
+   ]
   },
-  {
-    "fr": {
-      "q": "Quel amiral ottoman a commandé la flotte ottomane lors de la décisive bataille navale de Preveza en 1538 ?",
-      "c": [
-        "Khayr ad-Din Barberousse",
-        "Turgut Reis",
-        "Piri Reis",
-        "Uluç Ali Reis"
-      ]
-    },
-    "en": {
-      "q": "Which Ottoman admiral commanded the Ottoman fleet at the decisive naval Battle of Preveza in 1538?",
-      "c": [
-        "Hayreddin Barbarossa",
-        "Turgut Reis",
-        "Piri Reis",
-        "Uluç Ali Reis"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "أي أميرال عثماني قاد الأسطول العثماني في معركة بريفيزا البحرية الحاسمة عام 1538؟",
-      "c": [
-        "خير الدين بربروس",
-        "طرغود رئيس",
-        "بيري رئيس",
-        "قليج علي باشا"
-      ]
-    },
-    "es": {
-      "q": "¿Qué almirante otomano comandó la flota otomana en la decisiva batalla naval de Preveza en 1538?",
-      "c": [
-        "Jeireddín Barbarroja",
-        "Turgut Reis",
-        "Piri Reis",
-        "Uluç Ali Reis"
-      ]
-    },
-    "pt": {
-      "q": "Qual almirante otomano comandou a frota otomana na decisiva Batalha Naval de Preveza em 1538?",
-      "c": [
-        "Hayreddin Barbarossa",
-        "Turgut Reis",
-        "Piri Reis",
-        "Uluç Ali Reis"
-      ]
-    },
-    "d": 2
+  "es": {
+   "q": "¿Qué reina del antiguo Egipto fue la última soberana de la dinastía ptolemaica?",
+   "c": [
+    "Cleopatra VII",
+    "Nefertiti",
+    "Hatshepsut",
+    "Ankesenamón"
+   ]
   },
-  {
-    "fr": {
-      "q": "En quelle année s'est déroulée la bataille de Lépante, première grande défaite navale infligée à l'Empire ottoman par la Sainte-Ligue ?",
-      "c": [
-        "1571",
-        "1529",
-        "1683",
-        "1492"
-      ]
-    },
-    "en": {
-      "q": "In which year did the Battle of Lepanto take place, the first major naval defeat inflicted on the Ottoman Empire by the Holy League?",
-      "c": [
-        "1571",
-        "1529",
-        "1683",
-        "1492"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "في أي عام وقعت معركة ليبانتو، وهي أول هزيمة بحرية كبرى تلحق بالإمبراطورية العثمانية على يد الرابطة المقدسة؟",
-      "c": [
-        "1571",
-        "1529",
-        "1683",
-        "1492"
-      ]
-    },
-    "es": {
-      "q": "¿En qué año tuvo lugar la batalla de Lepanto, la primera gran derrota naval infligida al Imperio otomano por la Liga Santa?",
-      "c": [
-        "1571",
-        "1529",
-        "1683",
-        "1492"
-      ]
-    },
-    "pt": {
-      "q": "Em que ano ocorreu a Batalha de Lepanto, a primeira grande derrota naval infligida ao Império Otomano pela Liga Santa?",
-      "c": [
-        "1571",
-        "1529",
-        "1683",
-        "1492"
-      ]
-    },
-    "d": 2
+  "pt": {
+   "q": "Qual rainha do antigo Egito foi a última soberana da dinastia ptolemaica?",
+   "c": [
+    "Cleópatra VII",
+    "Nefertiti",
+    "Hatshepsut",
+    "Anchesenamon"
+   ]
   },
-  {
-    "fr": {
-      "q": "Quel événement marquant de 1683, soldé par un échec pour les Ottomans, a mis fin à leur seconde tentative de s'emparer de Vienne ?",
-      "c": [
-        "Le siège de Vienne (Bataille de Kahlenberg)",
-        "La bataille de Mohács",
-        "La chute de Rhodes",
-        "La bataille de Kosovo"
-      ]
-    },
-    "en": {
-      "q": "Which major event in 1683 ended in failure for the Ottomans and marked the end of their second attempt to capture Vienna?",
-      "c": [
-        "The Siege of Vienna (Battle of Kahlenberg)",
-        "The Battle of Mohács",
-        "The Fall of Rhodes",
-        "The Battle of Kosovo"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "ما هو الحدث الرئيسي في عام 1683 الذي انتهى بالفشل للعثمانيين وأنهى محاولتهم الثانية للاستيلاء على فيينا؟",
-      "c": [
-        "حصار فيينا (معركة كالينبرغ)",
-        "معركة موهاكس",
-        "سقوط رودس",
-        "معركة كوسوفو"
-      ]
-    },
-    "es": {
-      "q": "¿Qué gran acontecimiento de 1683 terminó en fracaso para los otomanos y marcó el fin de su segundo intento de capturar Viena?",
-      "c": [
-        "El sitio de Viena (Batalla de Kahlenberg)",
-        "La batalla de Mohács",
-        "La caída de Rodas",
-        "La batalla de Kosovo"
-      ]
-    },
-    "pt": {
-      "q": "Qual grande evento em 1683 terminou em fracasso para os otomanos e marcou o fim de sua segunda tentativa de capturar Viena?",
-      "c": [
-        "O Cerco de Viena (Batalha de Kahlenberg)",
-        "A Batalha de Mohács",
-        "A Queda de Rodes",
-        "A Batalha do Kosovo"
-      ]
-    },
-    "d": 2
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Dans quelle ville s'est déroulé le débarquement des Alliés en Normandie le 6 juin 1944 (nommé opération Neptune) ?",
+   "c": [
+    "Sur les plages de Normandie",
+    "À Marseille",
+    "À Calais",
+    "À Bordeaux"
+   ]
   },
-  {
-    "fr": {
-      "q": "Qui fut le fondateur de la dynastie ottomane et a donné son nom à l'Empire ?",
-      "c": [
-        "Osman Ier",
-        "Ertuğrul",
-        "Orhan",
-        "Murad Ier"
-      ]
-    },
-    "en": {
-      "q": "Who was the founder of the Ottoman dynasty and gave his name to the Empire?",
-      "c": [
-        "Osman I",
-        "Ertuğrul",
-        "Orhan",
-        "Murad I"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "من هو مؤسس السلالة العثمانية والذي أطلق اسمه على الإمبراطورية؟",
-      "c": [
-        "عثمان الأول",
-        "أرطغرل",
-        "أورخان",
-        "مراد الأول"
-      ]
-    },
-    "es": {
-      "q": "¿Quién fue el fundador de la dinastía otomana y dio su nombre al Imperio?",
-      "c": [
-        "Osman I",
-        "Ertuğrul",
-        "Orhan",
-        "Murad I"
-      ]
-    },
-    "pt": {
-      "q": "Quem foi o fundador da dinastia otomana e deu seu nome ao Império?",
-      "c": [
-        "Osman I",
-        "Ertuğrul",
-        "Orhan",
-        "Murad I"
-      ]
-    },
-    "d": 2
+  "en": {
+   "q": "On which beaches did the Allied forces land in Normandy on June 6, 1944 (D-Day)?",
+   "c": [
+    "The beaches of Normandy",
+    "Marseille beaches",
+    "Calais beaches",
+    "Bordeaux beaches"
+   ]
   },
-  {
-    "fr": {
-      "q": "Comment appelait-on la période de réformes majeures et de modernisation menée dans l'Empire ottoman au XIXe siècle (à partir de 1839) ?",
-      "c": [
-        "Le Tanzimat",
-        "Le Kanunnames",
-        "La Restauration",
-        "Le Jeune-Turquisme"
-      ]
-    },
-    "en": {
-      "q": "What was the period of major reforms and modernization carried out in the Ottoman Empire in the 19th century (starting in 1839) called?",
-      "c": [
-        "The Tanzimat",
-        "The Kanunnames",
-        "The Restoration",
-        "The Young Turk movement"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "ماذا كانت تسمى فترة الإصلاحات الكبرى والتحديث التي نفذت في الإمبراطورية العثمانية في القرن التاسع عشر (ابتداءً من 1839)؟",
-      "c": [
-        "التنظيمات العثمانية (التنزيمات)",
-        "القانون ناموس",
-        "الاستعادة",
-        "حركة تركيا الفتاة"
-      ]
-    },
-    "es": {
-      "q": "¿Cómo se llamó el período de grandes reformas y modernización llevado a cabo en el Imperio otomano en el siglo XIX (a partir de 1839)?",
-      "c": [
-        "El Tanzimat",
-        "Los Kanunnames",
-        "La Restauración",
-        "El movimiento de los Jóvenes Turcos"
-      ]
-    },
-    "pt": {
-      "q": "Como era chamada a época de grandes reformas e modernização realizada no Império Otomano no século XIX (a partir de 1839)?",
-      "c": [
-        "O Tanzimat",
-        "Os Kanunnames",
-        "A Restauration",
-        "O movimento dos Jovens Turcos"
-      ]
-    },
-    "d": 2
+  "ar": {
+   "q": "على أي شواطئ نزلت قوات الحلفاء في نورماندي في 6 يونيو 1944 (يوم النصر)؟",
+   "c": [
+    "شواطئ نورماندي",
+    "شواطئ مرسيليا",
+    "شواطئ كاليه",
+    "شواطئ بوردو"
+   ]
   },
-  {
-    "fr": {
-      "q": "Quel célèbre voyageur et géographe ottoman du XVIIe siècle est l'auteur du grand livre de voyages 'Seyahatnâme' ?",
-      "c": [
-        "Evliya Çelebi",
-        "Piri Reis",
-        "Katip Çelebi",
-        "Seydi Ali Reis"
-      ]
-    },
-    "en": {
-      "q": "Which famous 17th-century Ottoman traveler and geographer wrote the massive travelogue 'Seyahatnâme'?",
-      "c": [
-        "Evliya Çelebi",
-        "Piri Reis",
-        "Katip Çelebi",
-        "Seydi Ali Reis"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "من هو الرحالة والجغرافي العثماني الشهير في القرن السابع عشر ومؤلف كتاب الرحلات الضخم 'سياحتنامة'؟",
-      "c": [
-        "أولياء جلبي",
-        "بيري رئيس",
-        "كاتب جلبي",
-        "سيدي علي رئيس"
-      ]
-    },
-    "es": {
-      "q": "¿Qué famoso viajero y geógrafo otomano del siglo XVII es el autor del gran libro de viajes 'Seyahatnâme'?",
-      "c": [
-        "Evliya Çelebi",
-        "Piri Reis",
-        "Katip Çelebi",
-        "Seydi Ali Reis"
-      ]
-    },
-    "pt": {
-      "q": "Qual famoso viajante e geógrafo otomano do século XVII é o autor do grande livro de viagens 'Seyahatnâme'?",
-      "c": [
-        "Evliya Çelebi",
-        "Piri Reis",
-        "Katip Çelebi",
-        "Seydi Ali Reis"
-      ]
-    },
-    "d": 2
+  "es": {
+   "q": "¿En qué playas desembarcaron las fuerzas aliadas en Normandía el 6 de junio de 1944?",
+   "c": [
+    "En las playas de Normandía",
+    "En Marsella",
+    "En Calais",
+    "En Burdeos"
+   ]
   },
-  {
-    "fr": {
-      "q": "Quel traité de 1923 a officiellement fixé les frontières de la Turquie moderne et acté la fin définitive de l'Empire ottoman ?",
-      "c": [
-        "Le traité de Lausanne",
-        "Le traité de Sèvres",
-        "Le traité de Trianon",
-        "L'armistice de Mudros"
-      ]
-    },
-    "en": {
-      "q": "Which 1923 treaty officially established the borders of modern Turkey and marked the definitive end of the Ottoman Empire?",
-      "c": [
-        "The Treaty of Lausanne",
-        "The Treaty of Sèvres",
-        "The Treaty of Trianon",
-        "The Armistice of Mudros"
-      ]
-    },
-    "a": 0,
-    "image": null,
-    "ar": {
-      "q": "ما هي معاهدة عام 1923 التي حددت رسمياً حدود تركيا الحديثة وأعلنت النهاية النهائية للإمبراطورية العثمانية؟",
-      "c": [
-        "معاهدة لوزان",
-        "معاهدة سيفر",
-        "معاهدة تريانون",
-        "هدنة مودروس"
-      ]
-    },
-    "es": {
-      "q": "¿Qué tratado de 1923 estableció oficialmente las fronteras de la Turquía moderna y marcó el fin definitivo del Imperio otomano?",
-      "c": [
-        "El Tratado de Lausana",
-        "El Tratado de Sèvres",
-        "El Tratado de Trianon",
-        "El armisticio de Mudros"
-      ]
-    },
-    "pt": {
-      "q": "Qual tratado de 1923 estabeleceu oficialmente as fronteiras da Turquia moderna e marcou o fim definitivo do Império Otomano?",
-      "c": [
-        "O Tratado de Lausanne",
-        "O Tratado de Sèvres",
-        "O Tratado de Trianon",
-        "O Armistício de Mudros"
-      ]
-    },
-    "d": 2
-  }
- 
-
+  "pt": {
+   "q": "Em quais praias as forças Aliadas desembarcaram na Normandia em 6 de junho de 1944?",
+   "c": [
+    "Nas praias da Normandia",
+    "Em Marselha",
+    "Em Calais",
+    "Em Bordéus"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel chef militaire carolingien a stoppé l'avancée musulmane à la bataille de Poitiers en 732 ?",
+   "c": [
+    "Charles Martel",
+    "Charlemagne",
+    "Pépin le Bref",
+    "Clovis"
+   ]
+  },
+  "en": {
+   "q": "Which Frankish leader halted the Muslim advance at the Battle of Tours (Poitiers) in 732?",
+   "c": [
+    "Charles Martel",
+    "Charlemagne",
+    "Pepin the Short",
+    "Clovis"
+   ]
+  },
+  "ar": {
+   "q": "أي قائد عسكري فرنجي أوقف الزحف الإسلامي في معركة بواتييه عام 732؟",
+   "c": [
+    "شارل مارتل",
+    "كارلوس الكبير (شارلمان)",
+    "بيبان القصير",
+    "كلوفيس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué líder militar franco detuvo el avance musulmán en la batalla de Poitiers en 732?",
+   "c": [
+    "Carlos Martel",
+    "Carlomagno",
+    "Pipino el Breve",
+    "Clodoveo"
+   ]
+  },
+  "pt": {
+   "q": "Qual líder militar franco deteve o avanço muçulmano na Batalha de Poitiers em 732?",
+   "c": [
+    "Carlos Martel",
+    "Carlos Magno",
+    "Pipino, o Breve",
+    "Clóvis"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel empire mésoaméricain a été conquis par le conquistador espagnol Hernán Cortés au XVIe siècle ?",
+   "c": [
+    "L'Empire aztèque",
+    "L'Empire inca",
+    "La civilisation maya",
+    "La civilisation olmèque"
+   ]
+  },
+  "en": {
+   "q": "Which Mesoamerican empire was conquered by the Spanish conquistador Hernán Cortés in the 16th century?",
+   "c": [
+    "The Aztec Empire",
+    "The Inca Empire",
+    "The Mayan civilization",
+    "The Olmec civilization"
+   ]
+  },
+  "ar": {
+   "q": "أي إمبراطورية في أمريكا الوسطى غزاها الغازي الإسباني هيرنان كورتيس في القرن السادس عشر؟",
+   "c": [
+    "إمبراطورية الأستيك",
+    "إمبراطورية الإنكا",
+    "حضارة المايا",
+    "حضارة الأولمك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué imperio mesoamericano fue conquistado por el conquistador español Hernán Cortés en el siglo XVI?",
+   "c": [
+    "El Imperio azteca",
+    "El Imperio inca",
+    "La civilización maya",
+    "La civilización olmeca"
+   ]
+  },
+  "pt": {
+   "q": "Qual império mesoamericano foi conquistado pelo conquistador espanhol Hernán Cortés no século XVI?",
+   "c": [
+    "O Império Asteca",
+    "O Império Inca",
+    "A civilização maia",
+    "A civilização olmeca"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel accord de paix, signé en 1978, a été négocié entre l'Égypte et Israël sous l'égide des États-Unis ?",
+   "c": [
+    "Les accords de Camp David",
+    "Les accords d'Oslo",
+    "Le traité de Washington",
+    "La conférence de Madrid"
+   ]
+  },
+  "en": {
+   "q": "Which 1978 peace agreement was negotiated between Egypt and Israel with U.S. mediation?",
+   "c": [
+    "The Camp David Accords",
+    "The Oslo Accords",
+    "The Washington Treaty",
+    "The Madrid Conference"
+   ]
+  },
+  "ar": {
+   "q": "ما هو اتفاق السلام المبرم عام 1978 بين مصر وإسرائيل برعاية الولايات المتحدة؟",
+   "c": [
+    "اتفاقية كامب ديفيد",
+    "اتفاقية أوسلو",
+    "معاهدة واشنطن",
+    "مؤتمر مدريد"
+   ]
+  },
+  "es": {
+   "q": "¿Qué acuerdo de paz de 1978 se negoció entre Egipto e Israel con la mediación de Estados Unidos?",
+   "c": [
+    "Los acuerdos de Camp David",
+    "Los acuerdos de Oslo",
+    "El tratado de Washington",
+    "La conferencia de Madrid"
+   ]
+  },
+  "pt": {
+   "q": "Qual acordo de paz de 1978 foi negociado entre o Egito e Israel com a mediação dos Estados Unidos?",
+   "c": [
+    "Os Acordos de Camp David",
+    "Os Acordos de Oslo",
+    "O Tratado de Washington",
+    "A Conferência de Madri"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel explorateur norvégien a atteint le pôle Sud pour la première fois en 1911 ?",
+   "c": [
+    "Roald Amundsen",
+    "Robert Falcon Scott",
+    "Ernest Shackleton",
+    "Fridtjof Nansen"
+   ]
+  },
+  "en": {
+   "q": "Which Norwegian explorer reached the South Pole for the first time in 1911?",
+   "c": [
+    "Roald Amundsen",
+    "Robert Falcon Scott",
+    "Ernest Shackleton",
+    "Fridtjof Nansen"
+   ]
+  },
+  "ar": {
+   "q": "أي مستكشف نرويجي وصل إلى القطب الجنوبي لأول مرة عام 1911؟",
+   "c": [
+    "رولد أموندسن",
+    "روبرت فالكون سكوت",
+    "إرنست شاكلتون",
+    "فريتيوف نانسين"
+   ]
+  },
+  "es": {
+   "q": "¿Qué explorador noruego llegó al Polo Sur por primera vez en 1911?",
+   "c": [
+    "Roald Amundsen",
+    "Robert Falcon Scott",
+    "Ernest Shackleton",
+    "Fridtjof Nansen"
+   ]
+  },
+  "pt": {
+   "q": "Qual explorador norueguês alcançou o Polo Sul pela primeira vez em 1911?",
+   "c": [
+    "Roald Amundsen",
+    "Robert Falcon Scott",
+    "Ernest Shackleton",
+    "Fridtjof Nansen"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel roi de Babylone est célèbre pour son code de lois gravé dans la pierre ?",
+   "c": [
+    "Hammurabi",
+    "Nabuchodonosor II",
+    "Sargon d'Akkad",
+    "Gilgamesh"
+   ]
+  },
+  "en": {
+   "q": "Which king of Babylon is famous for his code of laws engraved in stone?",
+   "c": [
+    "Hammurabi",
+    "Nebuchadnezzar II",
+    "Sargon of Akkad",
+    "Gilgamesh"
+   ]
+  },
+  "ar": {
+   "q": "أي ملك بابل مشهور بقانونه المنقوش على الحجر؟",
+   "c": [
+    "حمورابي",
+    "نبُوخذ نصر الثاني",
+    "سرجون الأكدي",
+    "جلجامش"
+   ]
+  },
+  "es": {
+   "q": "¿Qué rey de Babilonia es famoso por su código de leyes grabado en piedra?",
+   "c": [
+    "Hammurabi",
+    "Nabucodonosor II",
+    " Sargón de Acad",
+    "Gilgamesh"
+   ]
+  },
+  "pt": {
+   "q": "Qual rei da Babilônia é famoso pelo seu código de leis gravado em pedra?",
+   "c": [
+    "Hamurabi",
+    "Nabucodonosor II",
+    "Sargão da Acádia",
+    "Gilgamesh"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "En quelle année a eu lieu la signature du traité de paix de Westphalie, mettant fin à la guerre de Trente Ans ?",
+   "c": [
+    "1648",
+    "1515",
+    "1789",
+    "1815"
+   ]
+  },
+  "en": {
+   "q": "In which year was the Peace of Westphalia signed, ending the Thirty Years' War?",
+   "c": [
+    "1648",
+    "1515",
+    "1789",
+    "1815"
+   ]
+  },
+  "ar": {
+   "q": "في أي عام تم توقيع معاهدة سلام وستفاليا، التي أنهت حرب الثلاثين عاماً؟",
+   "c": [
+    "1648",
+    "1515",
+    "1789",
+    "1815"
+   ]
+  },
+  "es": {
+   "q": "¿En qué año se firmó la Paz de Westfalia, poniendo fin a la Guerra de los Treinta Años?",
+   "c": [
+    "1648",
+    "1515",
+    "1789",
+    "1815"
+   ]
+  },
+  "pt": {
+   "q": "Em que ano foi assinada a Paz de Vestfália, encerrando a Guerra dos Trinta Anos?",
+   "c": [
+    "1648",
+    "1515",
+    "1789",
+    "1815"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel explorateur vénitien a voyagé le long de la Route de la Soie jusqu'en Chine au XIIIe siècle ?",
+   "c": [
+    "Marco Polo",
+    "Amerigo Vespucci",
+    "Ibn Battuta",
+    "Jean de Mandeville"
+   ]
+  },
+  "en": {
+   "q": "Which Venetian explorer traveled along the Silk Road to China in the 13th century?",
+   "c": [
+    "Marco Polo",
+    "Amerigo Vespucci",
+    "Ibn Battuta",
+    "John of Mandeville"
+   ]
+  },
+  "ar": {
+   "q": "أي مستكشف فينيسي سافر على طول طريق الحرير إلى الصين في القرن الثالث عشر؟",
+   "c": [
+    "ماركو بولو",
+    "أمريجو فوسبوتشي",
+    "ابن بطوطة",
+    "جون من ماندفيل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué explorador veneciano viajó por la Ruta de la Seda hasta China en el siglo XIII?",
+   "c": [
+    "Marco Polo",
+    "Américo Vespucio",
+    "Ibn Battuta",
+    "Juan de Mandeville"
+   ]
+  },
+  "pt": {
+   "q": "Qual explorador veneziano viajou ao longo da Rota da Seda para a China no século XIII?",
+   "c": [
+    "Marco Polo",
+    "Américo Vespúcio",
+    "Ibn Battuta",
+    "João de Mandeville"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel événement du 16 décembre 1773 a contesté les taxes britanniques sur le thé dans les treize colonies ?",
+   "c": [
+    "La Boston Tea Party",
+    "Le massacre de Boston",
+    "Le premier Congrès continental",
+    "La bataille de Lexington"
+   ]
+  },
+  "en": {
+   "q": "Which event on December 16, 1773, protested British tea taxes in the thirteen colonies?",
+   "c": [
+    "The Boston Tea Party",
+    "The Boston Massacre",
+    "The First Continental Congress",
+    "The Battle of Lexington"
+   ]
+  },
+  "ar": {
+   "q": "ما هو الحدث الذي وقع في 16 ديسمبر 1773 احتج على الضرائب البريطانية على الشاي في المستعمرات الثلاث عشرة؟",
+   "c": [
+    "حفلة شاي بوسطن",
+    "مذبحة بوسطن",
+    "المؤتمر القاري الأول",
+    "معركة ليكسينغتون"
+   ]
+  },
+  "es": {
+   "q": "¿Qué acontecimiento del 16 de diciembre de 1773 protestó contra los impuestos británicos al té en las trece colonias?",
+   "c": [
+    "El Motín del té de Boston",
+    "La masacre de Boston",
+    "El Primer Congreso Continental",
+    "La batalla de Lexington"
+   ]
+  },
+  "pt": {
+   "q": "Qual evento de 16 de dezembro de 1773 protestou contra os impostos britânicos sobre o chá nas treze colônias?",
+   "c": [
+    "A Festa do Chá de Boston",
+    "O Massacre de Boston",
+    "O Primeiro Congresso Continental",
+    "A Batalha de Lexington"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel empereur romain a officialisé la liberté du culte chrétien grâce à l'édit de Milan en 313 ?",
+   "c": [
+    "Constantin Ier",
+    "Dioclétien",
+    "Néron",
+    "Auguste"
+   ]
+  },
+  "en": {
+   "q": "Which Roman emperor legalized Christianity with the Edict of Milan in 313?",
+   "c": [
+    "Constantine the Great",
+    "Diocletian",
+    "Nero",
+    "Augustus"
+   ]
+  },
+  "ar": {
+   "q": "أي إمبراطور روماني أضفى الصفة القانونية على المسيحية بمرسوم ميلانو عام 313؟",
+   "c": [
+    "قسطنطين الكبير",
+    "دقلديانوس",
+    "نيرون",
+    "أغسطس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué emperador romano legalizó el cristianismo con el Edicto de Milán en 313?",
+   "c": [
+    "Constantino I el Grande",
+    "Diocleciano",
+    "Nerón",
+    "Augusto"
+   ]
+  },
+  "pt": {
+   "q": "Qual imperador romano legalizou o cristianismo com o Édito de Milão em 313?",
+   "c": [
+    "Constantino, o Grande",
+    "Diocleciano",
+    "Nero",
+    "Augusto"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle révolution russe de 1917 a conduit le parti bolchevique mené par Lénine au pouvoir ?",
+   "c": [
+    "La révolution d'Octobre",
+    "La révolution de Février",
+    "La révolution de 1905",
+    "Le soulèvement de Kornilov"
+   ]
+  },
+  "en": {
+   "q": "Which Russian revolution in 1917 brought the Bolshevik party led by Lenin to power?",
+   "c": [
+    "The October Revolution",
+    "The February Revolution",
+    "The 1905 Revolution",
+    "The Kornilov affair"
+   ]
+  },
+  "ar": {
+   "q": "أي ثورة روسية عام 1917 أصلت حزب البلشفية بقيادة لينين إلى السلطة؟",
+   "c": [
+    "ثورة أكتوبر",
+    "ثورة فبراير",
+    "ثورة 1905",
+    "محاولة كورنيلوف"
+   ]
+  },
+  "es": {
+   "q": "¿Qué revolución rusa de 1917 llevó al poder al partido bolchevique liderado por Lenin?",
+   "c": [
+    "La Revolución de Octubre",
+    "La Revolución de Febrero",
+    "La Revolución de 1905",
+    "El golpe de Kornílov"
+   ]
+  },
+  "pt": {
+   "q": "Qual revolução russa de 1917 levou ao poder o partido bolchevique liderado por Lênin?",
+   "c": [
+    "A Revolução de Outubro",
+    "A Revolução de Fevereiro",
+    "A Revolução de 1905",
+    "O caso Kornilov"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel grand accord de paix a mis fin à la guerre d'Algérie en mars 1962 ?",
+   "c": [
+    "Les accords d'Évian",
+    "Les accords de Genève",
+    "Les accords de San Francisco",
+    "Le traité de Paris"
+   ]
+  },
+  "en": {
+   "q": "Which major peace agreement ended the Algerian War in March 1962?",
+   "c": [
+    "The Évian Accords",
+    "The Geneva Accords",
+    "The San Francisco Conference",
+    "The Treaty of Paris"
+   ]
+  },
+  "ar": {
+   "q": "ما هو اتفاق السلام الرئيسي الذي أنهى حرب الجزائر في مارس 1962؟",
+   "c": [
+    "اتفاقيات إيفيان",
+    "اتفاقيات جنيف",
+    "مؤتمر سان فرانسيسكو",
+    "معاهدة باريس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué gran acuerdo de paz puso fin a la guerra de Argelia en marzo de 1962?",
+   "c": [
+    "Los acuerdos de Évian",
+    "Los acuerdos de Ginebra",
+    "Los acuerdos de San Francisco",
+    "El Tratado de París"
+   ]
+  },
+  "pt": {
+   "q": "Qual grande acordo de paz encerrou a Guerra da Argélia em março de 1962?",
+   "c": [
+    "Os Acordos de Évian",
+    "Os Acordos de Genebra",
+    "Os Acordos de São Francisco",
+    "O Tratado de Paris"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle dynastie chinoise a construit la majeure partie de la Grande Muraille que nous connaissons aujourd'hui ?",
+   "c": [
+    "La dynastie Ming",
+    "La dynastie Han",
+    "La dynastie Tang",
+    "La dynastie Qing"
+   ]
+  },
+  "en": {
+   "q": "Which Chinese dynasty built the majority of the Great Wall of China that stands today?",
+   "c": [
+    "The Ming dynasty",
+    "The Han dynasty",
+    "The Tang dynasty",
+    "The Qing dynasty"
+   ]
+  },
+  "ar": {
+   "q": "أي سلالة صينية بنَت الجزء الأكبر من سور الصين العظيم الموجود اليوم؟",
+   "c": [
+    "سلالة مينغ",
+    "سلالة هان",
+    "سلالة تانغ",
+    "سلالة تشينغ"
+   ]
+  },
+  "es": {
+   "q": "¿Qué dinastía china construyó la mayor parte de la Gran Muralla que existe hoy en día?",
+   "c": [
+    "La dinastía Ming",
+    "La dinastía Han",
+    "La dinastía Tang",
+    "La dinastía Qing"
+   ]
+  },
+  "pt": {
+   "q": "Qual dinastia chinesa construiu a maior parte da Grande Muralha que existe hoje?",
+   "c": [
+    "A dinastia Ming",
+    "A dinastia Han",
+    "A dinastia Tang",
+    "A dinastia Qing"
+   ]
+  },
+  "a": 0,
+  "image": "capitals_great_wall.jpg",
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Qui fut le premier homme à effectuer un vol spatial habité autour de la Terre en 1961 ?",
+   "c": [
+    "Youri Gagarine",
+    "Neil Armstrong",
+    "Buzz Aldrin",
+    "John Glenn"
+   ]
+  },
+  "en": {
+   "q": "Who was the first man to complete a crewed spaceflight around the Earth in 1961?",
+   "c": [
+    "Yuri Gagarin",
+    "Neil Armstrong",
+    "Buzz Aldrin",
+    "John Glenn"
+   ]
+  },
+  "ar": {
+   "q": "من كان أول رجل يقوم برحلة فضائية مأهولة حول الأرض عام 1961؟",
+   "c": [
+    "يوري غاغارين",
+    "نيل آرمسترونغ",
+    "باز ألدرين",
+    "جون غلين"
+   ]
+  },
+  "es": {
+   "q": "¿Quién fue el primer hombre en realizar un vuelo espacial tripulado alrededor de la Tierra en 1961?",
+   "c": [
+    "Yuri Gagarin",
+    "Neil Armstrong",
+    "Buzz Aldrin",
+    "John Glenn"
+   ]
+  },
+  "pt": {
+   "q": "Quem foi o primeiro homem a realizar um voo espacial tripulado ao redor da Terra em 1961?",
+   "c": [
+    "Yuri Gagarin",
+    "Neil Armstrong",
+    "Buzz Aldrin",
+    "John Glenn"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle reine d'Angleterre a régné pendant l'époque victorienne de 1837 à 1901 ?",
+   "c": [
+    "La reine Victoria",
+    "La reine Élisabeth Ire",
+    "La reine Marie Ire",
+    "La reine Anne"
+   ]
+  },
+  "en": {
+   "q": "Which Queen of England reigned during the Victorian era from 1837 to 1901?",
+   "c": [
+    "Queen Victoria",
+    "Queen Elizabeth I",
+    "Queen Mary I",
+    "Queen Anne"
+   ]
+  },
+  "ar": {
+   "q": "أي ملكة لإنجلترا حكمت خلال العصر الفيكتوري من 1837 إلى 1901؟",
+   "c": [
+    "الملكة فيكتوريا",
+    "الملكة إليزابيث الأولى",
+    "الملكة ماري الأولى",
+    "الملكة آن"
+   ]
+  },
+  "es": {
+   "q": "¿Qué reina de Inglaterra reinó durante la época victoriana de 1837 a 1901?",
+   "c": [
+    "La reina Victoria",
+    "La reina Isabel I",
+    "La reina María I",
+    "La reina Ana"
+   ]
+  },
+  "pt": {
+   "q": "Qual rainha da Inglaterra reinou durante a era vitoriana de 1837 a 1901?",
+   "c": [
+    "Rainha Vitória",
+    "Rainha Isabel I",
+    "Rainha Maria I",
+    "Rainha Ana"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel dirigeant ottoman a conquis Constantinople en 1453, mettant fin à l'Empire romain d'Orient ?",
+   "c": [
+    "Mehmed II (Le Conquérant)",
+    "Soliman le Magnifique",
+    "Bayezid Ier",
+    "Selim Ier"
+   ]
+  },
+  "en": {
+   "q": "Which Ottoman ruler conquered Constantinople in 1453, ending the Byzantine Empire?",
+   "c": [
+    "Mehmed II (The Conqueror)",
+    "Suleiman the Magnificent",
+    "Bayezid I",
+    "Selim I"
+   ]
+  },
+  "ar": {
+   "q": "أي حاكم عثماني فتح القسطنطينية عام 1453، مما أنهى الإمبراطورية البيزنطية؟",
+   "c": [
+    "محمد الفاتح",
+    "سليمان القانوني",
+    "بايزيد الأول",
+    "سليم الأول"
+   ]
+  },
+  "es": {
+   "q": "¿Qué gobernante otomano conquistó Constantinopla en 1453, poniendo fin al Imperio bizantino?",
+   "c": [
+    "Mehmed II (El Conquistador)",
+    "Solimán el Magnífico",
+    "Bayezid I",
+    "Selim I"
+   ]
+  },
+  "pt": {
+   "q": "Qual governante otomano conquistou Constantinopla em 1453, pondo fim ao Império Bizantino?",
+   "c": [
+    "Mehmed II (O Conquistador)",
+    "Solimão, o Magnífico",
+    "Bayezid I",
+    "Selim I"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Sous quel sultan l'Empire ottoman a-t-il atteint son apogée territorial et culturel au XVIe siècle ?",
+   "c": [
+    "Soliman le Magnifique",
+    "Osman Ier",
+    "Murad IV",
+    "Abdul Hamid II"
+   ]
+  },
+  "en": {
+   "q": "Under which sultan did the Ottoman Empire reach its territorial and cultural peak in the 16th century?",
+   "c": [
+    "Suleiman the Magnificent",
+    "Osman I",
+    "Murad IV",
+    "Abdul Hamid II"
+   ]
+  },
+  "ar": {
+   "q": "في عهد أي سلطان بلغ الإمبراطورية العثمانية ذروتها الإقليمية والثقافية في القرن السادس عشر؟",
+   "c": [
+    "سليمان القانوني",
+    "عثمان الأول",
+    "مراد الرابع",
+    "عبد الحميد الثاني"
+   ]
+  },
+  "es": {
+   "q": "¿Bajo qué sultán alcanzó el Imperio otomano su apogeo territorial y cultural en el siglo XVI?",
+   "c": [
+    "Solimán el Magnífico",
+    "Osman I",
+    "Murad IV",
+    "Abdul Hamid II"
+   ]
+  },
+  "pt": {
+   "q": "Sob qual sultão o Império Otomano atingiu seu auge territorial e cultural no século XVI?",
+   "c": [
+    "Solimão, o Magnífico",
+    "Osman I",
+    "Murad IV",
+    "Abdul Hamid II"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel était le nom de la célèbre unité d'élite d'infanterie de l'armée ottomane, recrutée principalement par le devchirmé ?",
+   "c": [
+    "Les janissaires",
+    "Les spahis",
+    "Les akïndjis",
+    "Les mamelouks"
+   ]
+  },
+  "en": {
+   "q": "What was the name of the famous elite infantry unit of the Ottoman army, primarily recruited through the devshirme system?",
+   "c": [
+    "The Janissaries",
+    "The Sipahis",
+    "The Akıncıs",
+    "The Mamluks"
+   ]
+  },
+  "ar": {
+   "q": "ما اسم وحدة المشاة النخبة الشهيرة في الجيش العثماني، والتي كانت تُجند بشكل رئيسي عبر نظام الدوشيرمة؟",
+   "c": [
+    "الإنكشارية",
+    "السباهية",
+    "الآقنجي",
+    "المماليك"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál era el nombre de la famosa unidad de infantería de élite del ejército otomano, reclutada principalmente mediante el sistema de devşirme?",
+   "c": [
+    "Los jenízaros",
+    "Los sipahis",
+    "Los akıncı",
+    "Los mamelucos"
+   ]
+  },
+  "pt": {
+   "q": "Qual era o nome da famosa unidade de infantaria de elite do exército otomano, recrutada principalmente pelo sistema devshirme?",
+   "c": [
+    "Os janízaros",
+    "Os sipahis",
+    "Os akıncıs",
+    "Os mamelucos"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel amiral ottoman a commandé la flotte ottomane lors de la décisive bataille navale de Preveza en 1538 ?",
+   "c": [
+    "Khayr ad-Din Barberousse",
+    "Turgut Reis",
+    "Piri Reis",
+    "Uluç Ali Reis"
+   ]
+  },
+  "en": {
+   "q": "Which Ottoman admiral commanded the Ottoman fleet at the decisive naval Battle of Preveza in 1538?",
+   "c": [
+    "Hayreddin Barbarossa",
+    "Turgut Reis",
+    "Piri Reis",
+    "Uluç Ali Reis"
+   ]
+  },
+  "ar": {
+   "q": "أي أميرال عثماني قاد الأسطول العثماني في معركة بريفيزا البحرية الحاسمة عام 1538؟",
+   "c": [
+    "خير الدين بربروس",
+    "طرغود رئيس",
+    "بيري رئيس",
+    "قليج علي باشا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué almirante otomano comandó la flota otomana en la decisiva batalla naval de Preveza en 1538?",
+   "c": [
+    "Jeireddín Barbarroja",
+    "Turgut Reis",
+    "Piri Reis",
+    "Uluç Ali Reis"
+   ]
+  },
+  "pt": {
+   "q": "Qual almirante otomano comandou a frota otomana na decisiva Batalha Naval de Preveza em 1538?",
+   "c": [
+    "Hayreddin Barbarossa",
+    "Turgut Reis",
+    "Piri Reis",
+    "Uluç Ali Reis"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "En quelle année s'est déroulée la bataille de Lépante, première grande défaite navale infligée à l'Empire ottoman par la Sainte-Ligue ?",
+   "c": [
+    "1571",
+    "1529",
+    "1683",
+    "1492"
+   ]
+  },
+  "en": {
+   "q": "In which year did the Battle of Lepanto take place, the first major naval defeat inflicted on the Ottoman Empire by the Holy League?",
+   "c": [
+    "1571",
+    "1529",
+    "1683",
+    "1492"
+   ]
+  },
+  "ar": {
+   "q": "في أي عام وقعت معركة ليبانتو، وهي أول هزيمة بحرية كبرى تلحق بالإمبراطورية العثمانية على يد الرابطة المقدسة؟",
+   "c": [
+    "1571",
+    "1529",
+    "1683",
+    "1492"
+   ]
+  },
+  "es": {
+   "q": "¿En qué año tuvo lugar la batalla de Lepanto, la primera gran derrota naval infligida al Imperio otomano por la Liga Santa?",
+   "c": [
+    "1571",
+    "1529",
+    "1683",
+    "1492"
+   ]
+  },
+  "pt": {
+   "q": "Em que ano ocorreu a Batalha de Lepanto, a primeira grande derrota naval infligida ao Império Otomano pela Liga Santa?",
+   "c": [
+    "1571",
+    "1529",
+    "1683",
+    "1492"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel événement marquant de 1683, soldé par un échec pour les Ottomans, a mis fin à leur seconde tentative de s'emparer de Vienne ?",
+   "c": [
+    "Le siège de Vienne (Bataille de Kahlenberg)",
+    "La bataille de Mohács",
+    "La chute de Rhodes",
+    "La bataille de Kosovo"
+   ]
+  },
+  "en": {
+   "q": "Which major event in 1683 ended in failure for the Ottomans and marked the end of their second attempt to capture Vienna?",
+   "c": [
+    "The Siege of Vienna (Battle of Kahlenberg)",
+    "The Battle of Mohács",
+    "The Fall of Rhodes",
+    "The Battle of Kosovo"
+   ]
+  },
+  "ar": {
+   "q": "ما هو الحدث الرئيسي في عام 1683 الذي انتهى بالفشل للعثمانيين وأنهى محاولتهم الثانية للاستيلاء على فيينا؟",
+   "c": [
+    "حصار فيينا (معركة كالينبرغ)",
+    "معركة موهاكس",
+    "سقوط رودس",
+    "معركة كوسوفو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué gran acontecimiento de 1683 terminó en fracaso para los otomanos y marcó el fin de su segundo intento de capturar Viena?",
+   "c": [
+    "El sitio de Viena (Batalla de Kahlenberg)",
+    "La batalla de Mohács",
+    "La caída de Rodas",
+    "La batalla de Kosovo"
+   ]
+  },
+  "pt": {
+   "q": "Qual grande evento em 1683 terminou em fracasso para os otomanos e marcou o fim de sua segunda tentativa de capturar Viena?",
+   "c": [
+    "O Cerco de Viena (Batalha de Kahlenberg)",
+    "A Batalha de Mohács",
+    "A Queda de Rodes",
+    "A Batalha do Kosovo"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Qui fut le fondateur de la dynastie ottomane et a donné son nom à l'Empire ?",
+   "c": [
+    "Osman Ier",
+    "Ertuğrul",
+    "Orhan",
+    "Murad Ier"
+   ]
+  },
+  "en": {
+   "q": "Who was the founder of the Ottoman dynasty and gave his name to the Empire?",
+   "c": [
+    "Osman I",
+    "Ertuğrul",
+    "Orhan",
+    "Murad I"
+   ]
+  },
+  "ar": {
+   "q": "من هو مؤسس السلالة العثمانية والذي أطلق اسمه على الإمبراطورية؟",
+   "c": [
+    "عثمان الأول",
+    "أرطغرل",
+    "أورخان",
+    "مراد الأول"
+   ]
+  },
+  "es": {
+   "q": "¿Quién fue el fundador de la dinastía otomana y dio su nombre al Imperio?",
+   "c": [
+    "Osman I",
+    "Ertuğrul",
+    "Orhan",
+    "Murad I"
+   ]
+  },
+  "pt": {
+   "q": "Quem foi o fundador da dinastia otomana e deu seu nome ao Império?",
+   "c": [
+    "Osman I",
+    "Ertuğrul",
+    "Orhan",
+    "Murad I"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Comment appelait-on la période de réformes majeures et de modernisation menée dans l'Empire ottoman au XIXe siècle (à partir de 1839) ?",
+   "c": [
+    "Le Tanzimat",
+    "Le Kanunnames",
+    "La Restauration",
+    "Le Jeune-Turquisme"
+   ]
+  },
+  "en": {
+   "q": "What was the period of major reforms and modernization carried out in the Ottoman Empire in the 19th century (starting in 1839) called?",
+   "c": [
+    "The Tanzimat",
+    "The Kanunnames",
+    "The Restoration",
+    "The Young Turk movement"
+   ]
+  },
+  "ar": {
+   "q": "ماذا كانت تسمى فترة الإصلاحات الكبرى والتحديث التي نفذت في الإمبراطورية العثمانية في القرن التاسع عشر (ابتداءً من 1839)؟",
+   "c": [
+    "التنظيمات العثمانية (التنزيمات)",
+    "القانون ناموس",
+    "الاستعادة",
+    "حركة تركيا الفتاة"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llamó el período de grandes reformas y modernización llevado a cabo en el Imperio otomano en el siglo XIX (a partir de 1839)?",
+   "c": [
+    "El Tanzimat",
+    "Los Kanunnames",
+    "La Restauración",
+    "El movimiento de los Jóvenes Turcos"
+   ]
+  },
+  "pt": {
+   "q": "Como era chamada a época de grandes reformas e modernização realizada no Império Otomano no século XIX (a partir de 1839)?",
+   "c": [
+    "O Tanzimat",
+    "Os Kanunnames",
+    "A Restauration",
+    "O movimento dos Jovens Turcos"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel célèbre voyageur et géographe ottoman du XVIIe siècle est l'auteur du grand livre de voyages 'Seyahatnâme' ?",
+   "c": [
+    "Evliya Çelebi",
+    "Piri Reis",
+    "Katip Çelebi",
+    "Seydi Ali Reis"
+   ]
+  },
+  "en": {
+   "q": "Which famous 17th-century Ottoman traveler and geographer wrote the massive travelogue 'Seyahatnâme'?",
+   "c": [
+    "Evliya Çelebi",
+    "Piri Reis",
+    "Katip Çelebi",
+    "Seydi Ali Reis"
+   ]
+  },
+  "ar": {
+   "q": "من هو الرحالة والجغرافي العثماني الشهير في القرن السابع عشر ومؤلف كتاب الرحلات الضخم 'سياحتنامة'؟",
+   "c": [
+    "أولياء جلبي",
+    "بيري رئيس",
+    "كاتب جلبي",
+    "سيدي علي رئيس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué famoso viajero y geógrafo otomano del siglo XVII es el autor del gran libro de viajes 'Seyahatnâme'?",
+   "c": [
+    "Evliya Çelebi",
+    "Piri Reis",
+    "Katip Çelebi",
+    "Seydi Ali Reis"
+   ]
+  },
+  "pt": {
+   "q": "Qual famoso viajante e geógrafo otomano do século XVII é o autor do grande livro de viagens 'Seyahatnâme'?",
+   "c": [
+    "Evliya Çelebi",
+    "Piri Reis",
+    "Katip Çelebi",
+    "Seydi Ali Reis"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel traité de 1923 a officiellement fixé les frontières de la Turquie moderne et acté la fin définitive de l'Empire ottoman ?",
+   "c": [
+    "Le traité de Lausanne",
+    "Le traité de Sèvres",
+    "Le traité de Trianon",
+    "L'armistice de Mudros"
+   ]
+  },
+  "en": {
+   "q": "Which 1923 treaty officially established the borders of modern Turkey and marked the definitive end of the Ottoman Empire?",
+   "c": [
+    "The Treaty of Lausanne",
+    "The Treaty of Sèvres",
+    "The Treaty of Trianon",
+    "The Armistice of Mudros"
+   ]
+  },
+  "ar": {
+   "q": "ما هي معاهدة عام 1923 التي حددت رسمياً حدود تركيا الحديثة وأعلنت النهاية النهائية للإمبراطورية العثمانية؟",
+   "c": [
+    "معاهدة لوزان",
+    "معاهدة سيفر",
+    "معاهدة تريانون",
+    "هدنة مودروس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué tratado de 1923 estableció oficialmente las fronteras de la Turquía moderna y marcó el fin definitivo del Imperio otomano?",
+   "c": [
+    "El Tratado de Lausana",
+    "El Tratado de Sèvres",
+    "El Tratado de Trianon",
+    "El armisticio de Mudros"
+   ]
+  },
+  "pt": {
+   "q": "Qual tratado de 1923 estabeleceu oficialmente as fronteiras da Turquia moderna e marcou o fim definitivo do Império Otomano?",
+   "c": [
+    "O Tratado de Lausanne",
+    "O Tratado de Sèvres",
+    "O Tratado de Trianon",
+    "O Armistício de Mudros"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ }
 ]

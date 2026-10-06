@@ -18,8 +18,6 @@
     "Mars"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "ما هو أكبر كوكب في المجموعة الشمسية؟",
    "c": [
@@ -47,7 +45,9 @@
     "Marte"
    ]
   },
-  "d": 1
+  "a": 0,
+  "image": null,
+  "level": 1
  },
  {
   "fr": {
@@ -68,8 +68,6 @@
     "Michael Collins"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "من هو أول إنسان مشى على القمر؟",
    "c": [
@@ -97,7 +95,9 @@
     "Michael Collins"
    ]
   },
-  "d": 1
+  "a": 0,
+  "image": null,
+  "level": 1
  },
  {
   "fr": {
@@ -118,8 +118,6 @@
     "Neptune"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أي كوكب يُلقَّب بالكوكب الأحمر؟",
    "c": [
@@ -147,7 +145,9 @@
     "Netuno"
    ]
   },
-  "d": 1
+  "a": 0,
+  "image": null,
+  "level": 1
  },
  {
   "fr": {
@@ -168,8 +168,6 @@
     "10"
    ]
   },
-  "a": 1,
-  "image": null,
   "ar": {
    "q": "كم عدد كواكب المجموعة الشمسية؟",
    "c": [
@@ -197,220 +195,11 @@
     "10"
    ]
   },
-  "d": 1
+  "a": 1,
+  "image": null,
+  "level": 1
  },
  {
-  "fr": {
-   "q": "En quelle année l'homme a-t-il marché sur la Lune ?",
-   "c": [
-    "1959",
-    "1965",
-    "1969",
-    "1972"
-   ]
-  },
-  "en": {
-   "q": "In which year did humans first walk on the Moon?",
-   "c": [
-    "1959",
-    "1965",
-    "1969",
-    "1972"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "ar": {
-   "q": "في أي عام مشى الإنسان على القمر لأول مرة؟",
-   "c": [
-    "1959",
-    "1965",
-    "1969",
-    "1972"
-   ]
-  },
-  "es": {
-   "q": "¿En qué año pisó el ser humano la Luna por primera vez?",
-   "c": [
-    "1959",
-    "1965",
-    "1969",
-    "1972"
-   ]
-  },
-  "pt": {
-   "q": "Em que ano o ser humano pisou na Lua pela primeira vez?",
-   "c": [
-    "1959",
-    "1965",
-    "1969",
-    "1972"
-   ]
-  },
-  "d": 2
- },
- {
-  "fr": {
-   "q": "Quel est l'élément le plus abondant de l'univers ?",
-   "c": [
-    "L'hydrogène",
-    "L'hélium",
-    "L'oxygène",
-    "Le carbone"
-   ]
-  },
-  "en": {
-   "q": "What is the most abundant element in the universe?",
-   "c": [
-    "Hydrogen",
-    "Helium",
-    "Oxygen",
-    "Carbon"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "ar": {
-   "q": "ما هو العنصر الأكثر وفرة في الكون؟",
-   "c": [
-    "الهيدروجين",
-    "الهيليوم",
-    "الأكسجين",
-    "الكربون"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el elemento más abundante del universo?",
-   "c": [
-    "Hidrógeno",
-    "Helio",
-    "Oxígeno",
-    "Carbono"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o elemento mais abundante do universo?",
-   "c": [
-    "Hidrogênio",
-    "Hélio",
-    "Oxigênio",
-    "Carbono"
-   ]
-  },
-  "d": 2
- },
- {
-  "fr": {
-   "q": "Quelle est la plus petite planète du système solaire ?",
-   "c": [
-    "Mercure",
-    "Mars",
-    "Vénus",
-    "Neptune"
-   ]
-  },
-  "en": {
-   "q": "What is the smallest planet in the solar system?",
-   "c": [
-    "Mercury",
-    "Mars",
-    "Venus",
-    "Neptune"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "ar": {
-   "q": "ما هو أصغر كوكب في المجموعة الشمسية؟",
-   "c": [
-    "عطارد",
-    "المريخ",
-    "الزهرة",
-    "نبتون"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el planeta más pequeño del sistema solar?",
-   "c": [
-    "Mercurio",
-    "Marte",
-    "Venus",
-    "Neptuno"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o menor planeta do sistema solar?",
-   "c": [
-    "Mercúrio",
-    "Marte",
-    "Vênus",
-    "Netuno"
-   ]
-  },
-  "d": 2
- },
- {
-  "fr": {
-   "q": "Quelle est la plus grande lune de Saturne ?",
-   "c": [
-    "Titan",
-    "Europe",
-    "Encelade",
-    "Triton"
-   ]
-  },
-  "en": {
-   "q": "What is Saturn's largest moon?",
-   "c": [
-    "Titan",
-    "Europa",
-    "Enceladus",
-    "Triton"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "ar": {
-   "q": "ما هو أكبر أقمار زحل؟",
-   "c": [
-    "تيتان",
-    "أوروبا",
-    "إنسيلادوس",
-    "تريتون"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es la luna más grande de Saturno?",
-   "c": [
-    "Titán",
-    "Europa",
-    "Encélado",
-    "Tritón"
-   ]
-  },
-  "pt": {
-   "q": "Qual é a maior lua de Saturno?",
-   "c": [
-    "Titã",
-    "Europa",
-    "Encélado",
-    "Tritão"
-   ]
-  },
-  "d": 2
- },
- {
-  "a": 0,
-  "image": null,
-  "en": {
-   "q": "What is the name of our galaxy?",
-   "c": [
-    "The Milky Way",
-    "Andromeda",
-    "Triangulum",
-    "Sombrero"
-   ]
-  },
   "fr": {
    "q": "Comment s'appelle notre galaxie ?",
    "c": [
@@ -418,6 +207,15 @@
     "Andromède",
     "Le Triangle",
     "Le Sombrero"
+   ]
+  },
+  "en": {
+   "q": "What is the name of our galaxy?",
+   "c": [
+    "The Milky Way",
+    "Andromeda",
+    "Triangulum",
+    "Sombrero"
    ]
   },
   "ar": {
@@ -447,20 +245,11 @@
     "Sombreiro"
    ]
   },
-  "d": 1
+  "a": 0,
+  "image": "space_milky_way.jpg",
+  "level": 1
  },
  {
-  "a": 0,
-  "image": null,
-  "en": {
-   "q": "What is the closest star to Earth?",
-   "c": [
-    "The Sun",
-    "Proxima Centauri",
-    "Sirius",
-    "Polaris"
-   ]
-  },
   "fr": {
    "q": "Quelle est l'étoile la plus proche de la Terre ?",
    "c": [
@@ -468,6 +257,15 @@
     "Proxima du Centaure",
     "Sirius",
     "L'étoile Polaire"
+   ]
+  },
+  "en": {
+   "q": "What is the closest star to Earth?",
+   "c": [
+    "The Sun",
+    "Proxima Centauri",
+    "Sirius",
+    "Polaris"
    ]
   },
   "ar": {
@@ -497,24 +295,274 @@
     "A Estrela Polar"
    ]
   },
-  "d": 1
- },
- {
   "a": 0,
   "image": null,
-  "en": {
-   "q": "What was the first artificial satellite, launched in 1957?",
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle planète possède un système d'anneaux le plus vaste et le plus visible du système solaire ?",
    "c": [
-    "Sputnik 1",
+    "Saturne",
+    "Jupiter",
+    "Uranus",
+    "Neptune"
+   ]
+  },
+  "en": {
+   "q": "Which planet has the largest and most visible ring system in the solar system?",
+   "c": [
+    "Saturn",
+    "Jupiter",
+    "Uranus",
+    "Neptune"
+   ]
+  },
+  "ar": {
+   "q": "أي كوكب يمتلك نظام حلقات هو الأوسع والأكثر وضوحاً في المجموعة الشمسية؟",
+   "c": [
+    "زحل",
+    "المشتري",
+    "أورانوس",
+    "نبتون"
+   ]
+  },
+  "es": {
+   "q": "¿Qué planeta tiene el sistema de anillos más grande y visible del sistema solar?",
+   "c": [
+    "Saturno",
+    "Júpiter",
+    "Urano",
+    "Neptuno"
+   ]
+  },
+  "pt": {
+   "q": "Qual planeta possui o sistema de anéis mais vasto e visível do sistema solar?",
+   "c": [
+    "Saturno",
+    "Júpiter",
+    "Urano",
+    "Netuno"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "En quelle année l'homme a-t-il marché sur la Lune ?",
+   "c": [
+    "1959",
+    "1965",
+    "1969",
+    "1972"
+   ]
+  },
+  "en": {
+   "q": "In which year did humans first walk on the Moon?",
+   "c": [
+    "1959",
+    "1965",
+    "1969",
+    "1972"
+   ]
+  },
+  "ar": {
+   "q": "في أي عام مشى الإنسان على القمر لأول مرة؟",
+   "c": [
+    "1959",
+    "1965",
+    "1969",
+    "1972"
+   ]
+  },
+  "es": {
+   "q": "¿En qué año pisó el ser humano la Luna por primera vez?",
+   "c": [
+    "1959",
+    "1965",
+    "1969",
+    "1972"
+   ]
+  },
+  "pt": {
+   "q": "Em que ano o ser humano pisou na Lua pela primeira vez?",
+   "c": [
+    "1959",
+    "1965",
+    "1969",
+    "1972"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel est l'élément le plus abondant de l'univers ?",
+   "c": [
+    "L'hydrogène",
+    "L'hélium",
+    "L'oxygène",
+    "Le carbone"
+   ]
+  },
+  "en": {
+   "q": "What is the most abundant element in the universe?",
+   "c": [
+    "Hydrogen",
+    "Helium",
+    "Oxygen",
+    "Carbon"
+   ]
+  },
+  "ar": {
+   "q": "ما هو العنصر الأكثر وفرة في الكون؟",
+   "c": [
+    "الهيدروجين",
+    "الهيليوم",
+    "الأكسجين",
+    "الكربون"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el elemento más abundante del universo?",
+   "c": [
+    "Hidrógeno",
+    "Helio",
+    "Oxígeno",
+    "Carbono"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o elemento mais abundante do universo?",
+   "c": [
+    "Hidrogênio",
+    "Hélio",
+    "Oxigênio",
+    "Carbono"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle est la plus petite planète du système solaire ?",
+   "c": [
+    "Mercure",
+    "Mars",
+    "Vénus",
+    "Neptune"
+   ]
+  },
+  "en": {
+   "q": "What is the smallest planet in the solar system?",
+   "c": [
+    "Mercury",
+    "Mars",
+    "Venus",
+    "Neptune"
+   ]
+  },
+  "ar": {
+   "q": "ما هو أصغر كوكب في المجموعة الشمسية؟",
+   "c": [
+    "عطارد",
+    "المريخ",
+    "الزهرة",
+    "نبتون"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el planeta más pequeño del sistema solar?",
+   "c": [
+    "Mercurio",
+    "Marte",
+    "Venus",
+    "Neptuno"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o menor planeta do sistema solar?",
+   "c": [
+    "Mercúrio",
+    "Marte",
+    "Vênus",
+    "Netuno"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle est la plus grande lune de Saturne ?",
+   "c": [
+    "Titan",
+    "Europe",
+    "Encelade",
+    "Triton"
+   ]
+  },
+  "en": {
+   "q": "What is Saturn's largest moon?",
+   "c": [
+    "Titan",
+    "Europa",
+    "Enceladus",
+    "Triton"
+   ]
+  },
+  "ar": {
+   "q": "ما هو أكبر أقمار زحل؟",
+   "c": [
+    "تيتان",
+    "أوروبا",
+    "إنسيلادوس",
+    "تريتون"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la luna más grande de Saturno?",
+   "c": [
+    "Titán",
+    "Europa",
+    "Encélado",
+    "Tritón"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a maior lua de Saturno?",
+   "c": [
+    "Titã",
+    "Europa",
+    "Encélado",
+    "Tritão"
+   ]
+  },
+  "a": 0,
+  "image": "space_saturn.jpg",
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelait le premier satellite artificiel, lancé en 1957 ?",
+   "c": [
+    "Spoutnik 1",
     "Explorer 1",
     "Vostok 1",
     "Apollo 11"
    ]
   },
-  "fr": {
-   "q": "Comment s'appelait le premier satellite artificiel, lancé en 1957 ?",
+  "en": {
+   "q": "What was the first artificial satellite, launched in 1957?",
    "c": [
-    "Spoutnik 1",
+    "Sputnik 1",
     "Explorer 1",
     "Vostok 1",
     "Apollo 11"
@@ -547,20 +595,11 @@
     "Apollo 11"
    ]
   },
-  "d": 2
- },
- {
   "a": 0,
   "image": null,
-  "en": {
-   "q": "How long does sunlight take to reach Earth?",
-   "c": [
-    "About 8 minutes",
-    "About 8 seconds",
-    "About 8 hours",
-    "About 1 day"
-   ]
-  },
+  "level": 2
+ },
+ {
   "fr": {
    "q": "Combien de temps la lumière du Soleil met-elle pour atteindre la Terre ?",
    "c": [
@@ -568,6 +607,15 @@
     "Environ 8 secondes",
     "Environ 8 heures",
     "Environ 1 jour"
+   ]
+  },
+  "en": {
+   "q": "How long does sunlight take to reach Earth?",
+   "c": [
+    "About 8 minutes",
+    "About 8 seconds",
+    "About 8 hours",
+    "About 1 day"
    ]
   },
   "ar": {
@@ -597,9 +645,10 @@
     "Cerca de 1 dia"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 2
  },
- [
  {
   "fr": {
    "q": "Quel télescope spatial lancé en 2021 a succédé à Hubble pour observer les confins de l'univers ?",
@@ -619,8 +668,6 @@
     "Spitzer"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أي تلسكوب فضائي أُطلق عام 2021 خلف هابل لرصد أعماق الكون؟",
    "c": [
@@ -648,57 +695,9 @@
     "Spitzer"
    ]
   },
-  "d": 2
- },
- {
-  "fr": {
-   "q": "Quelle planète possède un système d'anneaux le plus vaste et le plus visible du système solaire ?",
-   "c": [
-    "Saturne",
-    "Jupiter",
-    "Uranus",
-    "Neptune"
-   ]
-  },
-  "en": {
-   "q": "Which planet has the largest and most visible ring system in the solar system?",
-   "c": [
-    "Saturn",
-    "Jupiter",
-    "Uranus",
-    "Neptune"
-   ]
-  },
   "a": 0,
   "image": null,
-  "ar": {
-   "q": "أي كوكب يمتلك نظام حلقات هو الأوسع والأكثر وضوحاً في المجموعة الشمسية؟",
-   "c": [
-    "زحل",
-    "المشتري",
-    "أورانوس",
-    "نبتون"
-   ]
-  },
-  "es": {
-   "q": "¿Qué planeta tiene el sistema de anillos más grande y visible del sistema solar?",
-   "c": [
-    "Saturno",
-    "Júpiter",
-    "Urano",
-    "Neptuno"
-   ]
-  },
-  "pt": {
-   "q": "Qual planeta possui o sistema de anéis mais vasto e visível do sistema solar?",
-   "c": [
-    "Saturno",
-    "Júpiter",
-    "Urano",
-    "Netuno"
-   ]
-  },
-  "d": 1
+  "level": 2
  },
  {
   "fr": {
@@ -719,8 +718,6 @@
     "A supernova"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "ماذا يُطلق على منطقة الفضاء التي تكون جاذبيتها قوية لدرجة أن لا شيء، ولا حتى الضوء، يمكنه الإفلات منها؟",
    "c": [
@@ -748,7 +745,9 @@
     "Uma supernova"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 2
  },
  {
   "fr": {
@@ -769,8 +768,6 @@
     "Spirit"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "ما هو اسم مسبار ناسا الذي هبط على المريخ في فبراير 2021 للبحث عن آثار حياة قديمة؟",
    "c": [
@@ -798,7 +795,9 @@
     "Spirit"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 2
  },
  {
   "fr": {
@@ -819,8 +818,6 @@
     "Venus"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أي كوكب في المجموعة الشمسية يدور حول نفسه وهو مائل بشكل شبه كامل على جانبه؟",
    "c": [
@@ -848,9 +845,10 @@
     "Vênus"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 2
  },
-  [
  {
   "fr": {
    "q": "Quel est le nom de la galaxie spirale géante la plus proche de notre Voie lactée ?",
@@ -870,8 +868,6 @@
     "The Large Magellanic Cloud"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "ما اسم مجرة الحلزون العملاقة الأقرب إلى درب التبانة؟",
    "c": [
@@ -899,7 +895,9 @@
     "A Grande Nuvem de Magalhães"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 2
  },
  {
   "fr": {
@@ -920,8 +918,6 @@
     "A total eclipse"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "ما الظاهرة الكونية المذهلة التي تمثل النهاية الانفجارية لحياة نجم ضخم؟",
    "c": [
@@ -949,7 +945,9 @@
     "Um eclipse total"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 2
  },
  {
   "fr": {
@@ -970,8 +968,6 @@
     "Peggy Whitson"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "ما هو اسم أول امرأة صعدت إلى الفضاء عام 1963؟",
    "c": [
@@ -999,7 +995,9 @@
     "Peggy Whitson"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 2
  },
  {
   "fr": {
@@ -1020,8 +1018,6 @@
     "Jupiter"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أي كوكب في المجموعة الشمسية يمتلك غلافاً جوياً مكوناً بشكل أساسي من ثاني أكسيد الكربون وسقماً شديد الحرارة بسبب الاحتباس الحراري؟",
    "c": [
@@ -1049,7 +1045,9 @@
     "Júpiter"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 3
  },
  {
   "fr": {
@@ -1070,8 +1068,6 @@
     "The magnetosphere"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "ماذا يُطلق على الحد الوهمي المحيط بالثقب الأسود والذي لا يمكن لأي شيء بعدها الإفلات؟",
    "c": [
@@ -1099,9 +1095,10 @@
     "A magnetosfera"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 3
  },
-   [
  {
   "fr": {
    "q": "Quel est le nom du plus grand volcan du système solaire, situé sur la planète Mars ?",
@@ -1121,8 +1118,6 @@
     "Ascraeus Mons"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "ما هو اسم أكبر بركان في المجموعة الشمسية، والذي يقع على كوكب المريخ؟",
    "c": [
@@ -1150,7 +1145,9 @@
     "Ascraeus Mons"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 3
  },
  {
   "fr": {
@@ -1171,8 +1168,6 @@
     "About 84 years"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "كم تستغرق كوكب نبتون لكي يقوم دورة كاملة حول الشمس؟",
    "c": [
@@ -1200,7 +1195,9 @@
     "Cerca de 84 anos"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 3
  },
  {
   "fr": {
@@ -1221,8 +1218,6 @@
     "Stephen Hawking"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أي فيزيائي وضع نظرية النسبية العامة عام 1915، محدثاً ثورة في فهمنا للجاذبية؟",
    "c": [
@@ -1250,7 +1245,9 @@
     "Stephen Hawking"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 3
  },
  {
   "fr": {
@@ -1271,8 +1268,6 @@
     "Callisto"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "ما هو قمر المشتري الذي يضم محيطاً واسعاً تحت سطح من الماء السائل ويُعتبر أحد أكثر الأماكن واعدة للبحث عن حياة خارج كوكب الأرض؟",
    "c": [
@@ -1300,7 +1295,9 @@
     "Calisto"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 3
  },
  {
   "fr": {
@@ -1321,8 +1318,6 @@
     "The event horizon"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "ماذا يُطلق على حد المجموعة الشمسية حيث يلتقي الرياح الشمسية بالوسط بين النجمي؟",
    "c": [
@@ -1350,9 +1345,10 @@
     "O horizonte de eventos"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 3
  },
-    [
  {
   "fr": {
    "q": "Quel est le nom de la plus grande lune de Neptune, connue pour son activité cryovolcanique et son orbite rétrograde ?",
@@ -1372,8 +1368,6 @@
     "Larissa"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "ما هو اسم أكبر أقمار نبتون، المعروف بنشاطه البريخي الجليدي ومداره التراجعي؟",
    "c": [
@@ -1401,7 +1395,9 @@
     "Larissa"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 3
  },
  {
   "fr": {
@@ -1422,8 +1418,6 @@
     "Fermi Telescope"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أي تلسكوب فضائي للأشعة تحت الحمراء، سُمي تيمناً بعالم فلك بريطاني من أصل ألماني-أمريكي، أُطلق عام 2003 لرصد الغبار الكوني؟",
    "c": [
@@ -1451,7 +1445,9 @@
     "Telescópio Fermi"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 3
  },
  {
   "fr": {
@@ -1472,8 +1468,6 @@
     "Perigee"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "ماذا يُطلق على النقطة في مدار كوكب التي تكون فيها الأبعد عن الشمس؟",
    "c": [
@@ -1501,7 +1495,9 @@
     "Perigeu"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 3
  },
  {
   "fr": {
@@ -1522,8 +1518,6 @@
     "Pure carbon in the form of diamond"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "ما هي التركيبة الأساسية لنواة المذنبات، وغالباً ما توصف بأنها 'كرات ثلج متسخة'؟",
    "c": [
@@ -1551,7 +1545,9 @@
     "Carbono puro em forma de diamante"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": "space_comet.jpg",
+  "level": 4
  },
  {
   "fr": {
@@ -1572,8 +1568,6 @@
     "A neutron star"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أي نوع من النجوم المتغيرة النابضة يُستخدم كـ 'شمعة قياسية' لقياس المسافات الفلكية في الكون؟",
    "c": [
@@ -1601,7 +1595,8 @@
     "Uma estrela de nêutrons"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 4
  }
-]
 ]

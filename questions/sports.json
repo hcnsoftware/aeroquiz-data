@@ -18,8 +18,6 @@
     "12"
    ]
   },
-  "a": 2,
-  "image": null,
   "ar": {
    "q": "كم عدد اللاعبين في كل فريق داخل الملعب في كرة القدم؟",
    "c": [
@@ -47,63 +45,13 @@
     "12"
    ]
   },
-  "d": 1
+  "a": 2,
+  "image": null,
+  "level": 1
  },
  {
   "fr": {
-   "q": "Qui a gagné la Coupe du monde de football 2022 ?",
-   "c": [
-    "L'Argentine",
-    "La France",
-    "Le Brésil",
-    "La Croatie"
-   ]
-  },
-  "en": {
-   "q": "Who won the 2022 football World Cup?",
-   "c": [
-    "Argentina",
-    "France",
-    "Brazil",
-    "Croatia"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "ar": {
-   "q": "من فاز بكأس العالم لكرة القدم 2022؟",
-   "c": [
-    "الأرجنتين",
-    "فرنسا",
-    "البرازيل",
-    "كرواتيا"
-   ]
-  },
-  "es": {
-   "q": "¿Quién ganó el Mundial de fútbol de 2022?",
-   "c": [
-    "Argentina",
-    "Francia",
-    "Brasil",
-    "Croacia"
-   ]
-  },
-  "pt": {
-   "q": "Quem ganhou a Copa do Mundo de 2022?",
-   "c": [
-    "Argentina",
-    "França",
-    "Brasil",
-    "Croácia"
-   ]
-  },
-  "d": 2
- },
- {
-  "a": 1,
-  "image": null,
-  "en": {
-   "q": "How many players of a basketball team are on the court?",
+   "q": "Combien de joueurs d'une équipe de basket sont sur le terrain ?",
    "c": [
     "4",
     "5",
@@ -111,8 +59,8 @@
     "7"
    ]
   },
-  "fr": {
-   "q": "Combien de joueurs d'une équipe de basket sont sur le terrain ?",
+  "en": {
+   "q": "How many players of a basketball team are on the court?",
    "c": [
     "4",
     "5",
@@ -147,20 +95,11 @@
     "7"
    ]
   },
-  "d": 1
+  "a": 1,
+  "image": null,
+  "level": 1
  },
  {
-  "a": 0,
-  "image": null,
-  "en": {
-   "q": "In which sport do you use a racket and a shuttlecock?",
-   "c": [
-    "Badminton",
-    "Tennis",
-    "Squash",
-    "Table tennis"
-   ]
-  },
   "fr": {
    "q": "Dans quel sport utilise-t-on une raquette et un volant ?",
    "c": [
@@ -168,6 +107,15 @@
     "Le tennis",
     "Le squash",
     "Le tennis de table"
+   ]
+  },
+  "en": {
+   "q": "In which sport do you use a racket and a shuttlecock?",
+   "c": [
+    "Badminton",
+    "Tennis",
+    "Squash",
+    "Table tennis"
    ]
   },
   "ar": {
@@ -197,13 +145,13 @@
     "Tênis de mesa"
    ]
   },
-  "d": 1
+  "a": 0,
+  "image": null,
+  "level": 1
  },
  {
-  "a": 2,
-  "image": null,
-  "en": {
-   "q": "How many rings are on the Olympic flag?",
+  "fr": {
+   "q": "Combien d'anneaux y a-t-il sur le drapeau olympique ?",
    "c": [
     "3",
     "4",
@@ -211,8 +159,8 @@
     "6"
    ]
   },
-  "fr": {
-   "q": "Combien d'anneaux y a-t-il sur le drapeau olympique ?",
+  "en": {
+   "q": "How many rings are on the Olympic flag?",
    "c": [
     "3",
     "4",
@@ -247,20 +195,11 @@
     "6"
    ]
   },
-  "d": 1
+  "a": 2,
+  "image": null,
+  "level": 1
  },
  {
-  "a": 0,
-  "image": null,
-  "en": {
-   "q": "Which sport is played at Wimbledon?",
-   "c": [
-    "Tennis",
-    "Golf",
-    "Cricket",
-    "Rugby"
-   ]
-  },
   "fr": {
    "q": "Quel sport se joue à Wimbledon ?",
    "c": [
@@ -268,6 +207,15 @@
     "Le golf",
     "Le cricket",
     "Le rugby"
+   ]
+  },
+  "en": {
+   "q": "Which sport is played at Wimbledon?",
+   "c": [
+    "Tennis",
+    "Golf",
+    "Cricket",
+    "Rugby"
    ]
   },
   "ar": {
@@ -297,13 +245,13 @@
     "Rúgbi"
    ]
   },
-  "d": 1
- },
- {
   "a": 0,
   "image": null,
-  "en": {
-   "q": "How long is a football match (without extra time)?",
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Combien de temps dure un match de football (sans prolongations) ?",
    "c": [
     "90 minutes",
     "60 minutes",
@@ -311,8 +259,8 @@
     "120 minutes"
    ]
   },
-  "fr": {
-   "q": "Combien de temps dure un match de football (sans prolongations) ?",
+  "en": {
+   "q": "How long is a football match (without extra time)?",
    "c": [
     "90 minutes",
     "60 minutes",
@@ -347,20 +295,61 @@
     "120 minutos"
    ]
   },
-  "d": 1
- },
- {
   "a": 0,
   "image": null,
-  "en": {
-   "q": "Which country hosted the 2016 Summer Olympics?",
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Qui a gagné la Coupe du monde de football 2022 ?",
    "c": [
-    "Brazil",
-    "China",
-    "United Kingdom",
-    "Greece"
+    "L'Argentine",
+    "La France",
+    "Le Brésil",
+    "La Croatie"
    ]
   },
+  "en": {
+   "q": "Who won the 2022 football World Cup?",
+   "c": [
+    "Argentina",
+    "France",
+    "Brazil",
+    "Croatia"
+   ]
+  },
+  "ar": {
+   "q": "من فاز بكأس العالم لكرة القدم 2022؟",
+   "c": [
+    "الأرجنتين",
+    "فرنسا",
+    "البرازيل",
+    "كرواتيا"
+   ]
+  },
+  "es": {
+   "q": "¿Quién ganó el Mundial de fútbol de 2022?",
+   "c": [
+    "Argentina",
+    "Francia",
+    "Brasil",
+    "Croacia"
+   ]
+  },
+  "pt": {
+   "q": "Quem ganhou a Copa do Mundo de 2022?",
+   "c": [
+    "Argentina",
+    "França",
+    "Brasil",
+    "Croácia"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
   "fr": {
    "q": "Quel pays a accueilli les Jeux olympiques d'été de 2016 ?",
    "c": [
@@ -368,6 +357,15 @@
     "La Chine",
     "Le Royaume-Uni",
     "La Grèce"
+   ]
+  },
+  "en": {
+   "q": "Which country hosted the 2016 Summer Olympics?",
+   "c": [
+    "Brazil",
+    "China",
+    "United Kingdom",
+    "Greece"
    ]
   },
   "ar": {
@@ -397,13 +395,13 @@
     "Grécia"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 1
  },
  {
-  "a": 2,
-  "image": null,
-  "en": {
-   "q": "How many Grand Slam tournaments are there each year in tennis?",
+  "fr": {
+   "q": "Combien de tournois du Grand Chelem y a-t-il chaque année au tennis ?",
    "c": [
     "2",
     "3",
@@ -411,8 +409,8 @@
     "5"
    ]
   },
-  "fr": {
-   "q": "Combien de tournois du Grand Chelem y a-t-il chaque année au tennis ?",
+  "en": {
+   "q": "How many Grand Slam tournaments are there each year in tennis?",
    "c": [
     "2",
     "3",
@@ -447,20 +445,11 @@
     "5"
    ]
   },
-  "d": 2
+  "a": 2,
+  "image": null,
+  "level": 1
  },
  {
-  "a": 0,
-  "image": null,
-  "en": {
-   "q": "Which country has won the most men's FIFA World Cups?",
-   "c": [
-    "Brazil",
-    "Germany",
-    "Italy",
-    "Argentina"
-   ]
-  },
   "fr": {
    "q": "Quel pays a remporté le plus de Coupes du monde masculines de football ?",
    "c": [
@@ -468,6 +457,15 @@
     "L'Allemagne",
     "L'Italie",
     "L'Argentine"
+   ]
+  },
+  "en": {
+   "q": "Which country has won the most men's FIFA World Cups?",
+   "c": [
+    "Brazil",
+    "Germany",
+    "Italy",
+    "Argentina"
    ]
   },
   "ar": {
@@ -497,20 +495,11 @@
     "Argentina"
    ]
   },
-  "d": 2
- },
- {
   "a": 0,
   "image": null,
-  "en": {
-   "q": "In which sport do you score a hole-in-one?",
-   "c": [
-    "Golf",
-    "Bowling",
-    "Archery",
-    "Snooker"
-   ]
-  },
+  "level": 1
+ },
+ {
   "fr": {
    "q": "Dans quel sport réalise-t-on un « trou en un » ?",
    "c": [
@@ -518,6 +507,15 @@
     "Le bowling",
     "Le tir à l'arc",
     "Le snooker"
+   ]
+  },
+  "en": {
+   "q": "In which sport do you score a hole-in-one?",
+   "c": [
+    "Golf",
+    "Bowling",
+    "Archery",
+    "Snooker"
    ]
   },
   "ar": {
@@ -547,13 +545,13 @@
     "Sinuca"
    ]
   },
-  "d": 2
- },
- {
   "a": 0,
   "image": null,
-  "en": {
-   "q": "What is the distance of a marathon (approximately)?",
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle est la distance d'un marathon (environ) ?",
    "c": [
     "42 km",
     "21 km",
@@ -561,8 +559,8 @@
     "100 km"
    ]
   },
-  "fr": {
-   "q": "Quelle est la distance d'un marathon (environ) ?",
+  "en": {
+   "q": "What is the distance of a marathon (approximately)?",
    "c": [
     "42 km",
     "21 km",
@@ -597,9 +595,10 @@
     "100 km"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 2
  },
- [
  {
   "fr": {
    "q": "Quel boxeur américain légendaire, né Cassius Clay, a été surnommé « The Greatest » ?",
@@ -619,8 +618,6 @@
     "George Foreman"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أي ملاكم أمريكي أسطوري وُلِد باسم كاسيوس كلاي أُطلق عليه لقب 'الأعظم'؟",
    "c": [
@@ -648,7 +645,9 @@
     "George Foreman"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 2
  },
  {
   "fr": {
@@ -669,8 +668,6 @@
     "Caeleb Dressel"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أي سباح أمريكي يحمل رقم القياسي لأكبر عدد من الميداليات الذهبية الأولمبية في التاريخ؟",
    "c": [
@@ -698,7 +695,9 @@
     "Caeleb Dressel"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 2
  },
  {
   "fr": {
@@ -719,8 +718,6 @@
     "Melbourne"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "في أي مدينة تقام بطولة رولان غاروس الشهيرة للتنس على الملاعب الرملية؟",
    "c": [
@@ -748,7 +745,9 @@
     "Melbourne"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 2
  },
  {
   "fr": {
@@ -769,8 +768,6 @@
     "Sebastian Vettel"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أي سائق سيارات يحمل، بالتساوي مع مايكل شوماخر، الرقم القياسي لأكبر عدد من ألقاب بطولة العالم لسباقات الفورمولا 1؟",
    "c": [
@@ -798,7 +795,9 @@
     "Sebastian Vettel"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 2
  },
  {
   "fr": {
@@ -819,8 +818,6 @@
     "3 points"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "كم عدد النقاط التي تمنحها محاولة محولة (تراي) في اتحاد الرغبي (الرغبي 15)؟",
    "c": [
@@ -848,260 +845,10 @@
     "3 pontos"
    ]
   },
-  "d": 2
- },
- [
- {
-  "fr": {
-   "q": "Quel boxeur américain légendaire, né Cassius Clay, a été surnommé « The Greatest » ?",
-   "c": [
-    "Muhammad Ali",
-    "Mike Tyson",
-    "Floyd Mayweather",
-    "George Foreman"
-   ]
-  },
-  "en": {
-   "q": "Which legendary American boxer, born Cassius Clay, was nicknamed 'The Greatest'?",
-   "c": [
-    "Muhammad Ali",
-    "Mike Tyson",
-    "Floyd Mayweather",
-    "George Foreman"
-   ]
-  },
   "a": 0,
   "image": null,
-  "ar": {
-   "q": "أي ملاكم أمريكي أسطوري وُلِد باسم كاسيوس كلاي أُطلق عليه لقب 'الأعظم'؟",
-   "c": [
-    "محمد علي كلاي",
-    "مايك تايسون",
-    "فلويد مايويذر",
-    "جورج فورمان"
-   ]
-  },
-  "es": {
-   "q": "¿Qué legendario boxeador estadounidense, nacido como Cassius Clay, fue apodado «The Greatest»?",
-   "c": [
-    "Muhammad Ali",
-    "Mike Tyson",
-    "Floyd Mayweather",
-    "George Foreman"
-   ]
-  },
-  "pt": {
-   "q": "Qual lendário boxeador americano, nascido Cassius Clay, foi apelidado de 'The Greatest'?",
-   "c": [
-    "Muhammad Ali",
-    "Mike Tyson",
-    "Floyd Mayweather",
-    "George Foreman"
-   ]
-  },
-  "d": 2
+  "level": 2
  },
- {
-  "fr": {
-   "q": "Quel nageur américain détient le record du plus grand nombre de médailles d'or olympiques de l'histoire ?",
-   "c": [
-    "Michael Phelps",
-    "Mark Spitz",
-    "Ryan Lochte",
-    "Caeleb Dressel"
-   ]
-  },
-  "en": {
-   "q": "Which American swimmer holds the record for the most Olympic gold medals in history?",
-   "c": [
-    "Michael Phelps",
-    "Mark Spitz",
-    "Ryan Lochte",
-    "Caeleb Dressel"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "ar": {
-   "q": "أي سباح أمريكي يحمل رقم القياسي لأكبر عدد من الميداليات الذهبية الأولمبية في التاريخ؟",
-   "c": [
-    "مايكل فيلبس",
-    "مارك سبيتز",
-    "ريان لوكتي",
-    "كايلب دريسل"
-   ]
-  },
-  "es": {
-   "q": "¿Qué nadador estadounidense ostenta el récord de la mayor cantidad de medallas de oro olímpicas en la historia?",
-   "c": [
-    "Michael Phelps",
-    "Mark Spitz",
-    "Ryan Lochte",
-    "Caeleb Dressel"
-   ]
-  },
-  "pt": {
-   "q": "Qual nadador americano detém o recorde do maior número de medalhas de ouro olímpicas da história?",
-   "c": [
-    "Michael Phelps",
-    "Mark Spitz",
-    "Ryan Lochte",
-    "Caeleb Dressel"
-   ]
-  },
-  "d": 2
- },
- {
-  "fr": {
-   "q": "Dans quelle ville se déroule le célèbre tournoi de tennis sur terre battue de Roland-Garros ?",
-   "c": [
-    "Paris",
-    "Londres",
-    "New York",
-    "Melbourne"
-   ]
-  },
-  "en": {
-   "q": "In which city does the famous French Open clay-court tennis tournament take place?",
-   "c": [
-    "Paris",
-    "London",
-    "New York",
-    "Melbourne"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "ar": {
-   "q": "في أي مدينة تقام بطولة رولان غاروس الشهيرة للتنس على الملاعب الرملية؟",
-   "c": [
-    "باريس",
-    "لندن",
-    "نيويورك",
-    "ملبورن"
-   ]
-  },
-  "es": {
-   "q": "¿En qué ciudad se celebra el famoso torneo de tenis en tierra batida de Roland Garros?",
-   "c": [
-    "París",
-    "Londres",
-    "Nueva York",
-    "Melbourne"
-   ]
-  },
-  "pt": {
-   "q": "Em qual cidade acontece o famoso torneio de tênis em saibro de Roland Garros?",
-   "c": [
-    "Paris",
-    "Londres",
-    "Nova York",
-    "Melbourne"
-   ]
-  },
-  "d": 2
- },
- {
-  "fr": {
-   "q": "Quel pilote automobile détient, à égalité avec Michael Schumacher, le record du plus grand nombre de titres de champion du monde de Formule 1 ?",
-   "c": [
-    "Lewis Hamilton",
-    "Ayrton Senna",
-    "Max Verstappen",
-    "Sebastian Vettel"
-   ]
-  },
-  "en": {
-   "q": "Which racing driver holds the record for the most Formula 1 World Championships, tied with Michael Schumacher?",
-   "c": [
-    "Lewis Hamilton",
-    "Ayrton Senna",
-    "Max Verstappen",
-    "Sebastian Vettel"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "ar": {
-   "q": "أي سائق سيارات يحمل، بالتساوي مع مايكل شوماخر، الرقم القياسي لأكبر عدد من ألقاب بطولة العالم لسباقات الفورمولا 1؟",
-   "c": [
-    "لويس هاميلتون",
-    "آيرتون سينا",
-    "ماكس فيرستابين",
-    "سيباستيان فيتل"
-   ]
-  },
-  "es": {
-   "q": "¿Qué piloto de automovilismo ostenta, empatado con Michael Schumacher, el récord de más títulos de campeón del mundo de Fórmula 1?",
-   "c": [
-    "Lewis Hamilton",
-    "Ayrton Senna",
-    "Max Verstappen",
-    "Sebastian Vettel"
-   ]
-  },
-  "pt": {
-   "q": "Qual piloto de automobilismo detém, empatado com Michael Schumacher, o recorde de maior número de títulos mundiais de Fórmula 1?",
-   "c": [
-    "Lewis Hamilton",
-    "Ayrton Senna",
-    "Max Verstappen",
-    "Sebastian Vettel"
-   ]
-  },
-  "d": 2
- },
- {
-  "fr": {
-   "q": "Combien de points vaut un essai transformé au rugby à XV ?",
-   "c": [
-    "7 points",
-    "5 points",
-    "6 points",
-    "3 points"
-   ]
-  },
-  "en": {
-   "q": "How many points is a converted try worth in rugby union?",
-   "c": [
-    "7 points",
-    "5 points",
-    "6 points",
-    "3 points"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "ar": {
-   "q": "كم عدد النقاط التي تمنحها محاولة محولة (تراي) في اتحاد الرغبي (الرغبي 15)؟",
-   "c": [
-    "7 نقاط",
-    "5 نقاط",
-    "6 نقاط",
-    "3 نقاط"
-   ]
-  },
-  "es": {
-   "q": "¿Cuántos puntos vale un ensayo transformado en el rugby a 15?",
-   "c": [
-    "7 puntos",
-    "5 puntos",
-    "6 puntos",
-    "3 puntos"
-   ]
-  },
-  "pt": {
-   "q": "Quantos pontos vale um try convertido no rugby union?",
-   "c": [
-    "7 pontos",
-    "5 pontos",
-    "6 pontos",
-    "3 pontos"
-   ]
-  },
-  "d": 2
- }, 
-[
  {
   "fr": {
    "q": "Quel pays a accueilli les Jeux olympiques d'été de 2024 ?",
@@ -1121,8 +868,6 @@
     "United States"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أي دولة استضافت الألعاب الأولمبية الصيفية 2024؟",
    "c": [
@@ -1150,7 +895,9 @@
     "Estados Unidos"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 2
  },
  {
   "fr": {
@@ -1171,8 +918,6 @@
     "4"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "كم عدد لاعبي فريق الكرة الطائرة على أرض الملعب؟",
    "c": [
@@ -1200,7 +945,9 @@
     "4"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 2
  },
  {
   "fr": {
@@ -1221,8 +968,6 @@
     "Bernardo Silva"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أي لاعب كرة قدم برتغالي فاز بخمس بطولات دوري أبطال أوروبا ويعتبر أحد أفضل الهدافين في التاريخ؟",
    "c": [
@@ -1250,7 +995,9 @@
     "Bernardo Silva"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 2
  },
  {
   "fr": {
@@ -1271,8 +1018,6 @@
     "Wrestling"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "ما هي الرياضة التي تُلقب بـ «الفن النبيل»؟",
    "c": [
@@ -1300,7 +1045,9 @@
     "A luta livre"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 3
  },
  {
   "fr": {
@@ -1321,8 +1068,6 @@
     "The Larry O'Brien Trophy"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "ما هو اسم الكأس المقدم للفائز بطولات دوري الهوكي الوطني (NHL)؟",
    "c": [
@@ -1350,9 +1095,10 @@
     "O Troféu Larry O'Brien"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 3
  },
- [
  {
   "fr": {
    "q": "Quel pays a remporté la Coupe du monde de football féminin de la FIFA en 2023 ?",
@@ -1372,8 +1118,6 @@
     "Sweden"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أي دولة فازت بكأس العالم للسيدات لكرة القدم 2023؟",
    "c": [
@@ -1401,7 +1145,9 @@
     "Suécia"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 3
  },
  {
   "fr": {
@@ -1422,8 +1168,6 @@
     "Justin Gatlin"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أي رياضي جاميكي، أُطلق عليه لقب 'البرق'، يحمل الرقم القياسي العالمي في سباقي 100 متر و200 متر؟",
    "c": [
@@ -1451,7 +1195,9 @@
     "Justin Gatlin"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 3
  },
  {
   "fr": {
@@ -1472,8 +1218,6 @@
     "8"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "كم عدد لاعبي فريق كرة الماء في الماء؟",
    "c": [
@@ -1501,7 +1245,9 @@
     "8"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 3
  },
  {
   "fr": {
@@ -1522,8 +1268,6 @@
     "The PGA Championship"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أي بطولة غولف كبرى تقام تقليدياً كل عام في نادي أوغوستا الوطني للغولف في جورجيا؟",
    "c": [
@@ -1551,7 +1295,9 @@
     "O Campeonato da PGA"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 3
  },
  {
   "fr": {
@@ -1572,8 +1318,6 @@
     "Boules"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "في أي رياضة تُستخدم مصطلحات 'سترايك' (strike)، 'سبير' (spare) و'الممر' (lane)؟",
    "c": [
@@ -1601,9 +1345,10 @@
     "Bocha"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 3
  },
-[
  {
   "fr": {
    "q": "Quel pays a remporté la Coupe du monde de football de la FIFA 2022 au Qatar ?",
@@ -1623,8 +1368,6 @@
     "Germany"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أي دولة فازت بكأس العالم لكرة القدم 2022 في قطر؟",
    "c": [
@@ -1652,7 +1395,9 @@
     "Alemanha"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 3
  },
  {
   "fr": {
@@ -1673,8 +1418,6 @@
     "4"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "كم عدد لاعبي فريق كرة السلة على أرض الملعب في دوري المحترفين الأمريكي NBA؟",
    "c": [
@@ -1702,7 +1445,9 @@
     "4"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 3
  },
  {
   "fr": {
@@ -1723,8 +1468,6 @@
     "Australian Open"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أي بطولة من بطولات الغراند سلام للتنس تقام تقليدياً على الملاعب العشبية في لندن؟",
    "c": [
@@ -1752,7 +1495,9 @@
     "Australian Open"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 3
  },
  {
   "fr": {
@@ -1773,8 +1518,6 @@
     "Paris-Roubaix"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "ما هو اسم سباق الدراجات الهوائية المراحل الأكثر شهرة في العالم، والذي يقام سنوياً في فرنسا؟",
    "c": [
@@ -1802,7 +1545,9 @@
     "Paris-Roubaix"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 4
  },
  {
   "fr": {
@@ -1823,8 +1568,6 @@
     "12 holes"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "كم عدد الحفر الموجودة تقليدياً في ملعب غولف قياسي كامل؟",
    "c": [
@@ -1852,9 +1595,10 @@
     "12 buracos"
    ]
   },
-  "d": 2
- }, 
- [
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
  {
   "fr": {
    "q": "Quel pays a remporté la Coupe du monde de football de la FIFA 1998 à domicile ?",
@@ -1874,8 +1618,6 @@
     "Germany"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أي دولة فازت بكأس العالم لكرة القدم 1998 على أرضها؟",
    "c": [
@@ -1903,7 +1645,9 @@
     "Alemanha"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 4
  },
  {
   "fr": {
@@ -1924,8 +1668,6 @@
     "Camille Lacourt"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أي سباح فرنسي فاز بأربع ميداليات ذهبية أولمبية فردية في دورتي 2012 و2016؟",
    "c": [
@@ -1953,7 +1695,9 @@
     "Camille Lacourt"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 4
  },
  {
   "fr": {
@@ -1974,8 +1718,6 @@
     "Super Rugby"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "ما هو اسم بطولة الرغبي السنوية التي تنافس فيها ست دول أوروبية؟",
    "c": [
@@ -2003,7 +1745,9 @@
     "Super Rugby"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 4
  },
  {
   "fr": {
@@ -2024,8 +1768,6 @@
     "Pedro de la Rosa"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أي سائق سيارات إسباني فاز ببطولتي العالم لسباقات الفورمولا 1 عامي 2005 و2006؟",
    "c": [
@@ -2053,7 +1795,9 @@
     "Pedro de la Rosa"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 4
  },
  {
   "fr": {
@@ -2074,8 +1818,6 @@
     "Kickboxing"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "في أي فن قتالي ذو أصل ياباني تُستخدم الرميات وإحكام القفل على المفاصل، دون تسديد ضربات باليد أو القدم؟",
    "c": [
@@ -2103,10 +1845,10 @@
     "Kickboxing"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 4
  },
-  
-[
  {
   "fr": {
    "q": "Quel pays a remporté la Coupe du monde de football de la FIFA 2014 au Brésil ?",
@@ -2126,8 +1868,6 @@
     "Spain"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أي دولة فازت بكأس العالم لكرة القدم 2014 في البرازيل؟",
    "c": [
@@ -2155,7 +1895,9 @@
     "Espanha"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 4
  },
  {
   "fr": {
@@ -2176,8 +1918,6 @@
     "Stefan Eberharter"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أي متزلج نمساوي على المنحدرات الثلجية يُعتبر من الأعظم في كل العصور بحصوله على 8 كرات بلورية عامة؟",
    "c": [
@@ -2205,7 +1945,9 @@
     "Stefan Eberharter"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 4
  },
  {
   "fr": {
@@ -2226,8 +1968,6 @@
     "7"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "كم عدد لاعبي فريق البيسبول على أرض الملعب خلال مباراة في دوري المحترفين MLB؟",
    "c": [
@@ -2255,7 +1995,9 @@
     "7"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 4
  },
  {
   "fr": {
@@ -2276,8 +2018,6 @@
     "Ángel Di María"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "أي لاعب كرة قدم أرجنتيني، يُلقب بـ 'البرغوث'، فاز بعدة كرات ذهبية وكأس العالم 2022؟",
    "c": [
@@ -2305,7 +2045,9 @@
     "Ángel Di María"
    ]
   },
-  "d": 2
+  "a": 0,
+  "image": null,
+  "level": 5
  },
  {
   "fr": {
@@ -2326,8 +2068,6 @@
     "France"
    ]
   },
-  "a": 0,
-  "image": null,
   "ar": {
    "q": "في أي دولة تقام تقليدياً بطولة أمريكا المفتوحة للتنس، إحدى بطولات الغراند سلام الأربع الكبرى؟",
    "c": [
@@ -2355,7 +2095,8 @@
     "França"
    ]
   },
-  "d": 2
- },
-
+  "a": 0,
+  "image": null,
+  "level": 5
+ }
 ]
