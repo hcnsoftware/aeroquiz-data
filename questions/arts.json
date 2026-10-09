@@ -1809,4 +1809,458 @@
    "c": ["Pearl Jam", "Soundgarden", "Nirvana", "Alice in Chains"]
   },
   "ar": {
-   "q": "أي فرقة روك بديل أمريكية أصدرت ألبوم «Nevermind» الشهير عام
+   "q": "أي فرقة روك بديل أمريكية أصدرت ألبوم «Nevermind» الشهير عام 1991 الذي تضمن أغنية «Smells Like Teen Spirit»؟",
+   "c": ["بيرل جام", "ساوندغاردن", "نيرفانا", "أليس إن تشينز"]
+  },
+  "es": {
+   "q": "¿Qué banda de rock alternativo estadounidense lanzó el icónico álbum «Nevermind» en 1991, impulsado por «Smells Like Teen Spirit»?",
+   "c": ["Pearl Jam", "Soundgarden", "Nirvana", "Alice in Chains"]
+  },
+  "pt": {
+   "q": "Qual banda de rock alternativo americana lançou o icônico álbum «Nevermind» em 1991, impulsionado por «Smells Like Teen Spirit»?",
+   "c": ["Pearl Jam", "Soundgarden", "Nirvana", "Alice in Chains"]
+  },
+  "a": 2,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Dans la célèbre série de jeux vidéo de science-fiction « Mass Effect », quel est le nom du commandant, protagoniste principal de la trilogie ?",
+   "c": ["Commandant Shepard", "Commandant Anderson", "Commandant Saren", "Commandant Vega"]
+  },
+  "en": {
+   "q": "In the famous sci-fi video game series 'Mass Effect', what is the name of the commander who is the main protagonist?",
+   "c": ["Commander Shepard", "Commander Anderson", "Commander Saren", "Commander Vega"]
+  },
+  "ar": {
+   "q": "في سلسلة ألعاب الخيال العلمي الشهيرة «Mass Effect»، ما هو اسم القائد بطل الثلاثية الرئيسي؟",
+   "c": ["القائد شيبرد", "القائد أندرسون", "القائد سارين", "القائد فيغا"]
+  },
+  "es": {
+   "q": "En la famosa saga de videojuegos de ciencia ficción «Mass Effect», ¿cómo se llama el comandante y protagonista principal?",
+   "c": ["Comandante Shepard", "Comandante Anderson", "Comandante Saren", "Comandante Vega"]
+  },
+  "pt": {
+   "q": "Na famosa série de jogos de ficção científica «Mass Effect», qual é o nome do comandante, protagonista principal da trilogia?",
+   "c": ["Comandante Shepard", "Comandante Anderson", "Comandante Saren", "Comandante Vega"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Quel compositeur allemand du XIXe siècle, sourd durant une grande partie de sa vie, a écrit la célèbre « 9e Symphonie » (Ode à la joie) ?",
+   "c": ["Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Ludwig van Beethoven", "Frédéric Chopin"]
+  },
+  "en": {
+   "q": "Which 19th-century German composer, deaf for much of his life, wrote the famous '9th Symphony' (Ode to Joy)?",
+   "c": ["Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Ludwig van Beethoven", "Frédéric Chopin"]
+  },
+  "ar": {
+   "q": "أي ملحن ألماني من القرن التاسع عشر، أصم طوال جزء كبير من حياته، ألف «السيمفونية التاسعة» الشهيرة (نشيد الفرح)؟",
+   "c": ["فولفغانغ أماديوس موزارت", "يوهان سباستيان باخ", "لودفيغ فان بيتهوفن", "فريدريك شوبان"]
+  },
+  "es": {
+   "q": "¿Qué compositor alemán del siglo XIX, sordo durante gran parte de su vida, escribió la famosa «9.ª Sinfonía» (Oda a la alegría)?",
+   "c": ["Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Ludwig van Beethoven", "Frédéric Chopin"]
+  },
+  "pt": {
+   "q": "Qual compositor alemão do século XIX, surdo durante grande parte de sua vida, escreveu a famosa «9ª Sinfonia» (Onde à Alegria)?",
+   "c": ["Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Ludwig van Beethoven", "Frédéric Chopin"]
+  },
+  "a": 2,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Dans la trilogie originale de « Star Wars », sur quelle planète désertique Luke Skywalker grandit-il chez son oncle et sa tante ?",
+   "c": ["Dagobah", "Endor", "Tatooine", "Alderaan"]
+  },
+  "en": {
+   "q": "In the original 'Star Wars' trilogy, on which desert planet does Luke Skywalker grow up with his aunt and uncle?",
+   "c": ["Dagobah", "Endor", "Tatooine", "Alderaan"]
+  },
+  "ar": {
+   "q": "في ثلاثية «حرب النجوم» الأصلية، على أي كوكب صحراوي نشأ لوك سكاي ووكر مع عمه وخالته؟",
+   "c": ["داغوباه", "إندور", "تاتوين", "ألدييران"]
+  },
+  "es": {
+   "q": "En la trilogía original de «Star Wars», ¿en qué planeta desértico crece Luke Skywalker con sus tíos?",
+   "c": ["Dagobah", "Endor", "Tatooine", "Alderaan"]
+  },
+  "pt": {
+   "q": "Na trilogia original de «Star Wars», em qual planeta desértico Luke Skywalker cresce com seus tios?",
+   "c": ["Dagobah", "Endor", "Tatooine", "Alderaan"]
+  },
+  "a": 2,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Quel artiste américain de pop art est devenu célèbre pour ses sérigraphies de boîtes de soupe Campbell et de Marilyn Monroe ?",
+   "c": ["Jackson Pollock", "Andy Warhol", "Roy Lichtenstein", "Keith Haring"]
+  },
+  "en": {
+   "q": "Which American pop artist became famous for silk-screen prints of Campbell's Soup cans and Marilyn Monroe?",
+   "c": ["Jackson Pollock", "Andy Warhol", "Roy Lichtenstein", "Keith Haring"]
+  },
+  "ar": {
+   "q": "أي فنان بوب أمريكي اشتهر بطبعاته الحريرية لعلب حساء كامبل ومارلين مونرو؟",
+   "c": ["جاكسون بولوك", "آندي وارهول", "روي ليختنشไตن", "كيث هارينغ"]
+  },
+  "es": {
+   "q": "¿Qué artista estadounidense del pop art se hizo famoso por sus serigrafías de latas de sopa Campbell y Marilyn Monroe?",
+   "c": ["Jackson Pollock", "Andy Warhol", "Roy Lichtenstein", "Keith Haring"]
+  },
+  "pt": {
+   "q": "Qual artista americano de pop art ficou famoso por suas serigrafias de latas de sopa Campbell e Marilyn Monroe?",
+   "c": ["Jackson Pollock", "Andy Warhol", "Roy Lichtenstein", "Keith Haring"]
+  },
+  "a": 1,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Dans la célèbre série de jeux de rôle « The Elder Scrolls V: Skyrim », comment appelle-t-on le héros capable d'absorber l'âme des dragons ?",
+   "c": ["Le Gardien des Lames", "Le Dovahkiin (Enfant de dragon)", "Le Nérévarine", "L'Héros de Kvatch"]
+  },
+  "en": {
+   "q": "In the famous RPG 'The Elder Scrolls V: Skyrim', what is the hero capable of absorbing dragon souls called?",
+   "c": ["The Blades Guardian", "The Dovahkiin (Dragonborn)", "The Nerevarine", "The Hero of Kvatch"]
+  },
+  "ar": {
+   "q": "في لعبة تقمص الأدوار الشهيرة «Skyrim»، ما هو لقب البطل القادر على امتصاص أرواح التنانين؟",
+   "c": ["حارس الشفرات", "الدوفاهيكين (مولود التنانين)", "نيريفارين", "بطل كفاتش"]
+  },
+  "es": {
+   "q": "En el famoso juego de rol «The Elder Scrolls V: Skyrim», ¿cómo se llama al héroe capaz de absorber almas de dragón?",
+   "c": ["El Guardián de las Cuchillas", "El Dovahkiin (Sangre de Dragón)", "El Nerevarine", "El Héroe de Kvatch"]
+  },
+  "pt": {
+   "q": "No famoso RPG «The Elder Scrolls V: Skyrim», como é chamado o herói capaz de absorver almas de dragão?",
+   "c": ["O Guardião das Lâminas", "O Dovahkiin (Nascido do Dragão)", "O Nerevarine", "O Herói de Kvatch"]
+  },
+  "a": 1,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Quel film de science-fiction de Ridley Scott, sorti en 1982 et adapté de Philip K. Dick, met en scène des répliquants traqués par Harrison Ford ?",
+   "c": ["Alien", "Blade Runner", "Total Recall", "Minority Report"]
+  },
+  "en": {
+   "q": "Which 1982 sci-fi film directed by Ridley Scott and adapted from Philip K. Dick features replicants hunted by Harrison Ford?",
+   "c": ["Alien", "Blade Runner", "Total Recall", "Minority Report"]
+  },
+  "ar": {
+   "q": "أي فيلم خيال علمي من إخراج ريدلي سكوت عام 1982 مقتبس عن فيليب ديك، يصور مطاردة ريبليكانتس بواسطة هاريسون فورد؟",
+   "c": ["إلين", "بليد رانر", "توتال ريكول", "ماينوريتي ريبورت"]
+  },
+  "es": {
+   "q": "¿Qué película de ciencia ficción de Ridley Scott de 1982, adaptada de Philip K. Dick, presenta a replicantes cazados por Harrison Ford?",
+   "c": ["Alien", "Blade Runner", "Desafío total", "Minority Report"]
+  },
+  "pt": {
+   "q": "Qual filme de ficção científica de Ridley Scott, lançado em 1982 e adaptado de Philip K. Dick, apresenta replicantes caçados por Harrison Ford?",
+   "c": ["Alien", "Blade Runner", "O Vingador do Futuro", "Minority Report"]
+  },
+  "a": 1,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Dans la célèbre série animée « Avatar : Le Dernier Maître de l'Air », quel est le nom du jeune Avatar, maître des quatre éléments ?",
+   "c": ["Zuko", "Aang", "Sokka", "Korra"]
+  },
+  "en": {
+   "q": "In the famous animated series 'Avatar: The Last Airbender', what is the name of the young Avatar who can master all four elements?",
+   "c": ["Zuko", "Aang", "Sokka", "Korra"]
+  },
+  "ar": {
+   "q": "في مسلسل الرسوم المتحركة الشهير «أناتار: مسطور الهواء الأخير»، ما هو اسم الأفاتار الشاب القادر على التحكم بالعناصر الأربعة؟",
+   "c": ["زوكو", "أنغ", "سوكان", "كورا"]
+  },
+  "es": {
+   "q": "En la famosa serie animada «Avatar: La leyenda de Aang», ¿cómo se llama el joven Avatar capaz de dominar los cuatro elementos?",
+   "c": ["Zuko", "Aang", "Sokka", "Korra"]
+  },
+  "pt": {
+   "q": "Na famosa série animada «Avatar: O Último Mestre do Ar», qual é o nome do jovem Avatar que domina os quatro elementos?",
+   "c": ["Zuko", "Aang", "Sokka", "Korra"]
+  },
+  "a": 1,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Quel réalisateur Stanley Kubrick a dirigé le film dystopique et violent « Orange mécanique » sorti en 1971 ?",
+   "c": ["Stanley Kubrick", "Alfred Hitchcock", "Brian De Palma", "Roman Polanski"]
+  },
+  "en": {
+   "q": "Which director directed the 1971 violent dystopian film 'A Clockwork Orange'?",
+   "c": ["Stanley Kubrick", "Alfred Hitchcock", "Brian De Palma", "Roman Polanski"]
+  },
+  "ar": {
+   "q": "أي مخرج أخرج فيلم الديستوبيا العنيف «برتقالة آليّة» (A Clockwork Orange) عام 1971؟",
+   "c": ["ستانلي كوبريك", "ألفريد هيتشكوك", "برايان دي بالما", "رومان بولانسكي"]
+  },
+  "es": {
+   "q": "¿Qué director dirigió la violenta película distópica «La naranja mecánica» estrenada en 1971?",
+   "c": ["Stanley Kubrick", "Alfred Hitchcock", "Brian De Palma", "Roman Polanski"]
+  },
+  "pt": {
+   "q": "Qual diretor dirigiu o violento filme distópico «Laranja Mecânica» lançado em 1971?",
+   "c": ["Stanley Kubrick", "Alfred Hitchcock", "Brian De Palma", "Roman Polanski"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Dans l'univers des jeux vidéo « Dark Souls », comment s'appelle le royaume sombre et dévasté où se déroule une grande partie du premier opus ?",
+   "c": ["Lothric", "Lordran", "Yharnam", "Drangleic"]
+  },
+  "en": {
+   "q": "In the video game universe of 'Dark Souls', what is the name of the dark, ruined kingdom where much of the first game takes place?",
+   "c": ["Lothric", "Lordran", "Yharnam", "Drangleic"]
+  },
+  "ar": {
+   "q": "في عالم ألعاب «Dark Souls»، ما هو اسم المملكة المظلمة المدمرة التي تدور فيها أحداث الجزء الأول؟",
+   "c": ["لوثريك", "لورديران", "يارنام", "درانغليك"]
+  },
+  "es": {
+   "q": "En el universo de los videojuegos «Dark Souls», ¿cómo se llama el reino oscuro y devastado donde transcurre gran parte de la primera entrega?",
+   "c": ["Lothric", "Lordran", "Yharnam", "Drangleic"]
+  },
+  "pt": {
+   "q": "No universo dos videogames «Dark Souls», qual é o nome do reino sombrio e devastado onde se passa grande parte do primeiro jogo?",
+   "c": ["Lothric", "Lordran", "Yharnam", "Drangleic"]
+  },
+  "a": 1,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Quel artiste surréaliste espagnol est l'auteur du célèbre tableau « La Persistance de la mémoire » avec des montres molles ?",
+   "c": ["Pablo Picasso", "Joan Miró", "Salvador Dalí", "René Magritte"]
+  },
+  "en": {
+   "q": "Which Spanish surrealist artist painted the famous painting 'The Persistence of Memory' featuring melting clocks?",
+   "c": ["Pablo Picasso", "Joan Miró", "Salvador Dalí", "René Magritte"]
+  },
+  "ar": {
+   "q": "أي فنان سريالي إسباني رسم اللوحة الشهيرة «إصرار الذاكرة» التي تحتوي على ساعات ذائبة؟",
+   "c": ["بابلو بيكاسو", "جوان ميرو", "سلفادور دالي", "رينيه ماغريت"]
+  },
+  "es": {
+   "q": "¿Qué artista surrealista español es el autor del famoso cuadro «La persistencia de la memoria» con relojes blandos?",
+   "c": ["Pablo Picasso", "Joan Miró", "Salvador Dalí", "René Magritte"]
+  },
+  "pt": {
+   "q": "Qual artista surrealista espanhol pintou a famosa tela «A Persistência da Memória» com relógios derretidos?",
+   "c": ["Pablo Picasso", "Joan Miró", "Salvador Dalí", "René Magritte"]
+  },
+  "a": 2,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Dans la célèbre saga littéraire et cinématographique « Dune », de quelle ressource précieuse et rare la planète Arrakis est-elle l'unique source ?",
+   "c": ["L'Unobtainium", "L'Épice (Mélange)", "Le Tibérium", "Le Vibranium"]
+  },
+  "en": {
+   "q": "In the famous 'Dune' franchise, what precious and rare resource is the planet Arrakis the sole source of?",
+   "c": ["Unobtainium", "The Spice (Melange)", "Tiberium", "Vibranium"]
+  },
+  "ar": {
+   "q": "في سلسلة «Dune»، ما هو المورد الثمين والنادر الذي تعتبر كوكب أراكيس المصدر الوحيد له؟",
+   "c": ["أونوبتيوم", "التوابل (الملانج)", "تيبرييوم", "فايبرانيوم"]
+  },
+  "es": {
+   "q": "En la famosa saga «Dune», ¿de qué recurso precioso y raro es el planeta Arrakis la única fuente?",
+   "c": ["El Unobtainium", "La Especia (Melange)", "El Tiberio", "El Vibranium"]
+  },
+  "pt": {
+   "q": "Na famosa franquia «Dune», de qual recurso precioso e raro o planeta Arrakis é a única fonte?",
+   "c": ["Unobtainium", "A Especiaria (Melange)", "Tiberium", "Vibranium"]
+  },
+  "a": 1,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Quel chef-d'œuvre de la littérature et du cinéma fantastique, réalisé par Peter Jackson, a remporté un record de 11 Oscars avec « Le Retour du roi » en 2003 ?",
+   "c": ["Titanic", "Le Seigneur des Anneaux", "Avatar", "Gladiator"]
+  },
+  "en": {
+   "q": "Which fantasy masterpiece directed by Peter Jackson tied the record with 11 Oscars for 'The Return of the King' in 2003?",
+   "c": ["Titanic", "The Lord of the Rings", "Avatar", "Gladiator"]
+  },
+  "ar": {
+   "q": "أي تحفة فنية سينمائية خيالية من إخراج بيتر جاكسون حصدت رقماً قياسياً بـ 11 جائزة أوسكار بفضل «عودة الملك» عام 2003؟",
+   "c": ["تيتانيك", "سيد الخواتم", "أفاتار", "جلادياتور"]
+  },
+  "es": {
+   "q": "¿Qué obra maestra fantástica dirigida por Peter Jackson ganó un récord de 11 Óscar con «El retorno del rey» en 2003?",
+   "c": ["Titanic", "El Señor de los Anillos", "Avatar", "Gladiator"]
+  },
+  "pt": {
+   "q": "Qual obra-prima da fantasia dirigida por Peter Jackson ganhou um recorde de 11 Oscars com «O Retorno do Rei» em 2003?",
+   "c": ["Titanic", "O Senhor dos Anéis", "Avatar", "Gladiator"]
+  },
+  "a": 1,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Dans l'œuvre mythique de George R.R. Martin, comment s'appelle la gigantesque fortification de glace qui protège les Sept Royaumes des menaces du Nord ?",
+   "c": ["Le Mur", "La Barrière", "La Frontière Blanche", "L'Échine du Dragon"]
+  },
+  "en": {
+   "q": "In George R.R. Martin's epic fantasy, what is the name of the colossal ice fortification protecting the Seven Kingdoms from northern threats?",
+   "c": ["The Wall", "The Barrier", "The White Border", "The Dragon's Spine"]
+  },
+  "ar": {
+   "q": "في ملحمة جورج ر. ر. مارتن، ما هو اسم سور الجليد العملاق الذي يحمي الممالك السبع من مخاطر الشمال؟",
+   "c": ["الجدار", "الحاجز", "الحدود البيضاء", "عمود التنين"]
+  },
+  "es": {
+   "q": "En la épica obra de George R.R. Martin, ¿cómo se llama la gigantesca fortificación de hielo que protege los Siete Reinos del norte?",
+   "c": ["El Muro", "La Barrera", "La Frontera Blanca", "La Espina del Dragón"]
+  },
+  "pt": {
+   "q": "Na épica obra de George R.R. Martin, qual é o nome da colossal fortificação de gelo que protege os Sete Reinos das ameaças do Norte?",
+   "c": ["A Muralha", "A Barreira", "A Fronteira Branca", "A Espinha do Dragão"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Quel célèbre jeu vidéo de tir tactique compétitif développé par Riot Games combine des agents aux pouvoirs uniques et des tirs précis (ex: defuse de spike) ?",
+   "c": ["Counter-Strike: Global Offensive", "Valorant", "Overwatch", "Rainbow Six Siege"]
+  },
+  "en": {
+   "q": "Which tactical competitive shooter video game developed by Riot Games combines unique agent abilities with precise gunplay?",
+   "c": ["Counter-Strike", "Valorant", "Overwatch", "Rainbow Six Siege"]
+  },
+  "ar": {
+   "q": "أي لعبة تصويب تكتيكية تنافسية شهيرة من تطوير ريوت جيمز تجمع بين قدرات العملاء الفريدة والدقة في التصويب؟",
+   "c": ["كاونتر سترايك", "فالورانت", "أوفرووتش", "رينبو سيك سيج"]
+  },
+  "es": {
+   "q": "¿Qué juego de disparos táctico competitivo desarrollado por Riot Games combina habilidades de agentes y disparos precisos?",
+   "c": ["Counter-Strike", "Valorant", "Overwatch", "Rainbow Six Siege"]
+  },
+  "pt": {
+   "q": "Qual jogo de tiro tático competitivo desenvolvido pela Riot Games combina habilidades de agentes com disparos precisos?",
+   "c": ["Counter-Strike", "Valorant", "Overwatch", "Rainbow Six Siege"]
+  },
+  "a": 1,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Quel célèbre film d'animation japonais, chef-d'œuvre de Katsuhiro Otomo sorti en 1988, a révolutionné la perception de l'animation cyberpunk en occident ?",
+   "c": ["Ghost in the Shell", "Akira", "Cowboy Bebop", "Neon Genesis Evangelion"]
+  },
+  "en": {
+   "q": "Which iconic 1988 Japanese animated film directed by Katsuhiro Otomo revolutionized cyber-punk animation in the West?",
+   "c": ["Ghost in the Shell", "Akira", "Cowboy Bebop", "Neon Genesis Evangelion"]
+  },
+  "ar": {
+   "q": "أي فيلم رسوم متحركة ياباني شهير، تحفة كاتسُهيرو أوتومو عام 1988، أحدث ثورة في نظرة الغرب لأفلام السايبربانك؟",
+   "c": ["غوست إن ذا شيل", "أكيرا", "كاوبوي بيبوب", "نيون جينيسيس إيفانجيليون"]
+  },
+  "es": {
+   "q": "¿Qué icónica película de animación japonesa de 1988 dirigida por Katsuhiro Otomo revolucionó la animación cyberpunk en Occidente?",
+   "c": ["Ghost in the Shell", "Akira", "Cowboy Bebop", "Neon Genesis Evangelion"]
+  },
+  "pt": {
+   "q": "Qual icônico filme de animação japonesa de 1988 dirigido por Katsuhiro Otomo revolucionou a animação cyberpunk no Ocidente?",
+   "c": ["Ghost in the Shell", "Akira", "Cowboy Bebop", "Neon Genesis Evangelion"]
+  },
+  "a": 1,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Dans la franchise cinématographique « Alien », comment s'appelle l'héroïne principale, officier et redoutable survivante incarnée par Sigourney Weaver ?",
+   "c": ["Dr. Elizabeth Shaw", "Ellen Ripley", "Trinity", "Sarah Connor"]
+  },
+  "en": {
+   "q": "In the 'Alien' film franchise, what is the name of the main heroine and survivor played by Sigourney Weaver?",
+   "c": ["Dr. Elizabeth Shaw", "Ellen Ripley", "Trinity", "Sarah Connor"]
+  },
+  "ar": {
+   "q": "في سلسلة أفلام «المرعب» (Alien)، ما هو اسم البطلة الرئيسية والناجية القوية التي تجسدها سيغورني ويفر؟",
+   "c": ["د. إليزابيث شو", "إيلين ريبلي", "ترينيتي", "سارة كونور"]
+  },
+  "es": {
+   "q": "En la franquicia cinematográfica «Alien», ¿cómo se llama la heroína principal y superviviente interpretada por Sigourney Weaver?",
+   "c": ["Dra. Elizabeth Shaw", "Ellen Ripley", "Trinity", "Sarah Connor"]
+  },
+  "pt": {
+   "q": "Na franquia cinematográfica «Alien», qual é o nome da heroína principal e sobrevivente interpretada por Sigourney Weaver?",
+   "c": ["Dra. Elizabeth Shaw", "Ellen Ripley", "Trinity", "Sarah Connor"]
+  },
+  "a": 1,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Quel chef-d'œuvre de la littérature et du cinéma expressionniste allemand, réalisé par Fritz Lang en 1927, est considéré comme le pionnier absolu des films de science-fiction et du cyberpunk ?",
+   "c": ["Le Cabinet du docteur Caligari", "Metropolis", "Nosferatu le vampire", "Le Golem"]
+  },
+  "en": {
+   "q": "Which 1927 German expressionist masterpiece directed by Fritz Lang is considered an absolute pioneer of sci-fi and cyberpunk cinema?",
+   "c": ["The Cabinet of Dr. Caligari", "Metropolis", "Nosferatu", "The Golem"]
+  },
+  "ar": {
+   "q": "أي تحفة سينمائية تعبيرية ألمانية من إخراج فريتس لانغ عام 1927 تُعتبر رائدة أفلام الخيال العلمي والسايبربانك بلا منازع؟",
+   "c": ["مقصورة الدكتور كاليغاري", "ميتروبوليس", "نوسفراتو", "الغول"]
+  },
+  "es": {
+   "q": "¿Qué obra maestra del cine expresionista alemán dirigida por Fritz Lang en 1927 es considerada pionera absoluta de la ciencia ficción y el cyberpunk?",
+   "c": ["El gabinete del doctor Caligari", "Metropolis", "Nosferatu", "El Golem"]
+  },
+  "pt": {
+   "q": "Qual obra-prima do cinema expressionista alemão dirigida por Fritz Lang em 1927 é considerada pioneira absoluta do cinema de ficção científica e cyberpunk?",
+   "c": ["O Gabinete do Dr. Caligari", "Metropolis", "Nosferatu", "O Golem"]
+  },
+  "a": 1,
+  "image": null,
+  "level": 10
+ },
+ {
+  "fr": {
+   "q": "Dans la célèbre série de jeux vidéo de rôle « Dark Souls », quel est le nom du légendaire premier guerrier à avoir trouvé une Âme des Seigneurs et dont le sacrifice maintient l'âge du feu ?",
+   "c": ["Gwyn, le Seigneur des Cendres", "Artorias l'Abyssal", "Le Roi sans nom", "Manus, Père de l'Abysse"]
+  },
+  "en": {
+   "q": "In the acclaimed RPG 'Dark Souls', what is the name of the legendary first warrior who found a Lord Soul and whose sacrifice maintains the Age of Fire?",
+   "c": ["Gwyn, Lord of Cinder", "Artorias the Abysswalker", "The Nameless King", "Manus, Father of the Abyss"]
+  },
+  "ar": {
+   "q": "في لعبة «Dark Souls»، ما هو اسم المحارب الأسطوري الأول الذي وجد روح سيادة وتضحيتها تحافظ على عصر النار؟",
+   "c": ["غوين، سيد الرماد", "أرتورياس ووكر أوف ذا أبيس", "الملك بلا اسم", "مانوس، أبو الهاوية"]
+  },
+  "es": {
+   "q": "En el aclamado juego de rol «Dark Souls», ¿cómo se llama el legend
