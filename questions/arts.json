@@ -2,48 +2,23 @@
  {
   "fr": {
    "q": "Qui a peint la Joconde ?",
-   "c": [
-    "Léonard de Vinci",
-    "Picasso",
-    "Van Gogh",
-    "Monet"
-   ]
+   "c": ["Léonard de Vinci", "Picasso", "Van Gogh", "Monet"]
   },
   "en": {
    "q": "Who painted the Mona Lisa?",
-   "c": [
-    "Leonardo da Vinci",
-    "Picasso",
-    "Van Gogh",
-    "Monet"
-   ]
+   "c": ["Leonardo da Vinci", "Picasso", "Van Gogh", "Monet"]
   },
   "ar": {
    "q": "من رسم الموناليزا؟",
-   "c": [
-    "ليوناردو دا فينشي",
-    "بيكاسو",
-    "فان غوخ",
-    "مونيه"
-   ]
+   "c": ["ليوناردو دا فينشي", "بيكاسو", "فان غوخ", "مونيه"]
   },
   "es": {
    "q": "¿Quién pintó la Mona Lisa?",
-   "c": [
-    "Leonardo da Vinci",
-    "Picasso",
-    "Van Gogh",
-    "Monet"
-   ]
+   "c": ["Leonardo da Vinci", "Picasso", "Van Gogh", "Monet"]
   },
   "pt": {
    "q": "Quem pintou a Mona Lisa?",
-   "c": [
-    "Leonardo da Vinci",
-    "Picasso",
-    "Van Gogh",
-    "Monet"
-   ]
+   "c": ["Leonardo da Vinci", "Picasso", "Van Gogh", "Monet"]
   },
   "a": 0,
   "image": null,
@@ -52,48 +27,23 @@
  {
   "fr": {
    "q": "Combien de cordes a une guitare classique ?",
-   "c": [
-    "4",
-    "5",
-    "6",
-    "7"
-   ]
+   "c": ["4", "5", "6", "7"]
   },
   "en": {
    "q": "How many strings does a standard guitar have?",
-   "c": [
-    "4",
-    "5",
-    "6",
-    "7"
-   ]
+   "c": ["4", "5", "6", "7"]
   },
   "ar": {
    "q": "كم عدد أوتار الغيتار القياسي؟",
-   "c": [
-    "4",
-    "5",
-    "6",
-    "7"
-   ]
+   "c": ["4", "5", "6", "7"]
   },
   "es": {
    "q": "¿Cuántas cuerdas tiene una guitarra estándar?",
-   "c": [
-    "4",
-    "5",
-    "6",
-    "7"
-   ]
+   "c": ["4", "5", "6", "7"]
   },
   "pt": {
    "q": "Quantas cordas tem um violão padrão?",
-   "c": [
-    "4",
-    "5",
-    "6",
-    "7"
-   ]
+   "c": ["4", "5", "6", "7"]
   },
   "a": 2,
   "image": null,
@@ -102,48 +52,23 @@
  {
   "fr": {
    "q": "Dans quel film d'animation apparaissent les petits Minions jaunes ?",
-   "c": [
-    "Shrek",
-    "Madagascar",
-    "L'Âge de glace",
-    "Moi, moche et méchant"
-   ]
+   "c": ["Shrek", "Madagascar", "L'Âge de glace", "Moi, moche et méchant"]
   },
   "en": {
    "q": "Which animated film features the little yellow Minions?",
-   "c": [
-    "Shrek",
-    "Madagascar",
-    "Ice Age",
-    "Despicable Me"
-   ]
+   "c": ["Shrek", "Madagascar", "Ice Age", "Despicable Me"]
   },
   "ar": {
    "q": "في أي فيلم رسوم متحركة تظهر المينيونز الصفراء الصغيرة؟",
-   "c": [
-    "شريك",
-    "مدغشقر",
-    "العصر الجليدي",
-    "أنا الحقير"
-   ]
+   "c": ["شريك", "مدغشقر", "العصر الجليدي", "أنا الحقير"]
   },
   "es": {
    "q": "¿En qué película de animación aparecen los pequeños Minions amarillos?",
-   "c": [
-    "Shrek",
-    "Madagascar",
-    "Ice Age",
-    "Gru, mi villano favorito"
-   ]
+   "c": ["Shrek", "Madagascar", "Ice Age", "Gru, mi villano favorito"]
   },
   "pt": {
    "q": "Em qual animação aparecem os pequenos Minions amarelos?",
-   "c": [
-    "Shrek",
-    "Madagascar",
-    "A Era do Gelo",
-    "Meu Malvado Favorito"
-   ]
+   "c": ["Shrek", "Madagascar", "A Era do Gelo", "Meu Malvado Favorito"]
   },
   "a": 3,
   "image": null,
@@ -152,48 +77,23 @@
  {
   "fr": {
    "q": "Quelles deux couleurs mélange-t-on pour obtenir du vert ?",
-   "c": [
-    "Bleu et jaune",
-    "Rouge et jaune",
-    "Rouge et bleu",
-    "Bleu et blanc"
-   ]
+   "c": ["Bleu et jaune", "Rouge et jaune", "Rouge et bleu", "Bleu et blanc"]
   },
   "en": {
    "q": "Which two colors mix to make green?",
-   "c": [
-    "Blue and yellow",
-    "Red and yellow",
-    "Red and blue",
-    "Blue and white"
-   ]
+   "c": ["Blue and yellow", "Red and yellow", "Red and blue", "Blue and white"]
   },
   "ar": {
    "q": "أي لونين نمزجهما للحصول على الأخضر؟",
-   "c": [
-    "الأزرق والأصفر",
-    "الأحمر والأصفر",
-    "الأحمر والأزرق",
-    "الأزرق والأبيض"
-   ]
+   "c": ["الأزرق والأصفر", "الأحمر والأصفر", "الأحمر والأزرق", "الأزرق والأبيض"]
   },
   "es": {
    "q": "¿Qué dos colores se mezclan para obtener verde?",
-   "c": [
-    "Azul y amarillo",
-    "Rojo y amarillo",
-    "Rojo y azul",
-    "Azul y blanco"
-   ]
+   "c": ["Azul y amarillo", "Rojo y amarillo", "Rojo y azul", "Azul y blanco"]
   },
   "pt": {
    "q": "Quais duas cores se misturam para obter verde?",
-   "c": [
-    "Azul e amarelo",
-    "Vermelho e amarelo",
-    "Vermelho e azul",
-    "Azul e branco"
-   ]
+   "c": ["Azul e amarelo", "Vermelho e amarelo", "Vermelho e azul", "Azul e branco"]
   },
   "a": 0,
   "image": null,
@@ -202,48 +102,23 @@
  {
   "fr": {
    "q": "Dans quel film les Na'vi, êtres à la peau bleue, vivent-ils sur la planète Pandora ?",
-   "c": [
-    "Dune",
-    "Matrix",
-    "Star Wars",
-    "Avatar"
-   ]
+   "c": ["Dune", "Matrix", "Star Wars", "Avatar"]
   },
   "en": {
    "q": "In which film do the blue-skinned Na'vi live on the planet Pandora?",
-   "c": [
-    "Dune",
-    "The Matrix",
-    "Star Wars",
-    "Avatar"
-   ]
+   "c": ["Dune", "The Matrix", "Star Wars", "Avatar"]
   },
   "ar": {
    "q": "في أي فيلم يعيش شعب النافي ذو البشرة الزرقاء على كوكب باندورا؟",
-   "c": [
-    "الكثيب",
-    "ماتريكس",
-    "حرب النجوم",
-    "أفاتار"
-   ]
+   "c": ["الكثيب", "ماتريكس", "حرب النجوم", "أفاتار"]
   },
   "es": {
    "q": "¿En qué película viven los na'vi, seres de piel azul, en el planeta Pandora?",
-   "c": [
-    "Dune",
-    "Matrix",
-    "Star Wars",
-    "Avatar"
-   ]
+   "c": ["Dune", "Matrix", "Star Wars", "Avatar"]
   },
   "pt": {
    "q": "Em qual filme os na'vi, seres de pele azul, vivem no planeta Pandora?",
-   "c": [
-    "Duna",
-    "Matrix",
-    "Star Wars",
-    "Avatar"
-   ]
+   "c": ["Duna", "Matrix", "Star Wars", "Avatar"]
   },
   "a": 3,
   "image": null,
@@ -252,48 +127,23 @@
  {
   "fr": {
    "q": "Dans quel film Jack et Rose tombent-ils amoureux à bord d'un navire qui va sombrer ?",
-   "c": [
-    "Avatar",
-    "Titanic",
-    "Poseidon",
-    "Pearl Harbor"
-   ]
+   "c": ["Avatar", "Titanic", "Poseidon", "Pearl Harbor"]
   },
   "en": {
    "q": "In which film do Jack and Rose fall in love aboard a ship that is about to sink?",
-   "c": [
-    "Avatar",
-    "Titanic",
-    "Poseidon",
-    "Pearl Harbor"
-   ]
+   "c": ["Avatar", "Titanic", "Poseidon", "Pearl Harbor"]
   },
   "ar": {
    "q": "في أي فيلم يقع جاك وروز في الحب على متن سفينة توشك أن تغرق؟",
-   "c": [
-    "أفاتار",
-    "تيتانيك",
-    "بوسيدون",
-    "بيرل هاربر"
-   ]
+   "c": ["أفاتار", "تيتانيك", "بوسيدون", "بيرل هاربر"]
   },
   "es": {
    "q": "¿En qué película se enamoran Jack y Rose a bordo de un barco que está a punto de hundirse?",
-   "c": [
-    "Avatar",
-    "Titanic",
-    "Poseidon",
-    "Pearl Harbor"
-   ]
+   "c": ["Avatar", "Titanic", "Poseidon", "Pearl Harbor"]
   },
   "pt": {
    "q": "Em qual filme Jack e Rose se apaixonam a bordo de um navio prestes a afundar?",
-   "c": [
-    "Avatar",
-    "Titanic",
-    "Poseidon",
-    "Pearl Harbor"
-   ]
+   "c": ["Avatar", "Titanic", "Poseidon", "Pearl Harbor"]
   },
   "a": 1,
   "image": null,
@@ -302,48 +152,23 @@
  {
   "fr": {
    "q": "Quel ogre vert vit dans un marais et sauve la princesse Fiona ?",
-   "c": [
-    "Yoda",
-    "Le Grinch",
-    "Hulk",
-    "Shrek"
-   ]
+   "c": ["Yoda", "Le Grinch", "Hulk", "Shrek"]
   },
   "en": {
    "q": "Which green ogre lives in a swamp and rescues Princess Fiona?",
-   "c": [
-    "Yoda",
-    "The Grinch",
-    "Hulk",
-    "Shrek"
-   ]
+   "c": ["Yoda", "The Grinch", "Hulk", "Shrek"]
   },
   "ar": {
    "q": "أي غول أخضر يعيش في مستنقع وينقذ الأميرة فيونا؟",
-   "c": [
-    "يودا",
-    "الغرينش",
-    "هالك",
-    "شريك"
-   ]
+   "c": ["يودا", "الغرينش", "هالك", "شريك"]
   },
   "es": {
    "q": "¿Qué ogro verde vive en un pantano y rescata a la princesa Fiona?",
-   "c": [
-    "Yoda",
-    "El Grinch",
-    "Hulk",
-    "Shrek"
-   ]
+   "c": ["Yoda", "El Grinch", "Hulk", "Shrek"]
   },
   "pt": {
    "q": "Qual ogro verde vive em um pântano e resgata a princesa Fiona?",
-   "c": [
-    "Yoda",
-    "O Grinch",
-    "Hulk",
-    "Shrek"
-   ]
+   "c": ["Yoda", "O Grinch", "Hulk", "Shrek"]
   },
   "a": 3,
   "image": null,
@@ -352,48 +177,23 @@
  {
   "fr": {
    "q": "Quel personnage de dessin animé vit dans un ananas au fond de la mer ?",
-   "c": [
-    "Patrick l'étoile de mer",
-    "Carlo",
-    "Bob l'éponge",
-    "Monsieur Krabs"
-   ]
+   "c": ["Patrick l'étoile de mer", "Carlo", "Bob l'éponge", "Monsieur Krabs"]
   },
   "en": {
    "q": "Which cartoon character lives in a pineapple under the sea?",
-   "c": [
-    "Patrick Star",
-    "Squidward",
-    "SpongeBob SquarePants",
-    "Mr. Krabs"
-   ]
+   "c": ["Patrick Star", "Squidward", "SpongeBob SquarePants", "Mr. Krabs"]
   },
   "ar": {
    "q": "أي شخصية كرتونية تعيش في أناناس تحت البحر؟",
-   "c": [
-    "باتريك ستار",
-    "سكويدوورد",
-    "سبونج بوب",
-    "السيد كرابس"
-   ]
+   "c": ["باتريك ستار", "سكويدوورد", "سبونج بوب", "السيد كرابس"]
   },
   "es": {
    "q": "¿Qué personaje de dibujos animados vive en una piña bajo el mar?",
-   "c": [
-    "Patricio Estrella",
-    "Calamardo",
-    "Bob Esponja",
-    "Don Cangrejo"
-   ]
+   "c": ["Patricio Estrella", "Calamardo", "Bob Esponja", "Don Cangrejo"]
   },
   "pt": {
    "q": "Qual personagem de desenho animado mora em um abacaxi no fundo do mar?",
-   "c": [
-    "Patrick Estrela",
-    "Lula Molusco",
-    "Bob Esponja",
-    "Seu Sirigueijo"
-   ]
+   "c": ["Patrick Estrela", "Lula Molusco", "Bob Esponja", "Seu Sirigueijo"]
   },
   "a": 2,
   "image": null,
@@ -402,48 +202,23 @@
  {
   "fr": {
    "q": "Quelle chanteuse est surnommée la « Reine de la pop » ?",
-   "c": [
-    "Madonna",
-    "Beyoncé",
-    "Adele",
-    "Rihanna"
-   ]
+   "c": ["Madonna", "Beyoncé", "Adele", "Rihanna"]
   },
   "en": {
    "q": "Which singer is nicknamed the 'Queen of Pop'?",
-   "c": [
-    "Madonna",
-    "Beyoncé",
-    "Adele",
-    "Rihanna"
-   ]
+   "c": ["Madonna", "Beyoncé", "Adele", "Rihanna"]
   },
   "ar": {
    "q": "أي مغنية تُلقَّب بـ«ملكة البوب»؟",
-   "c": [
-    "مادونا",
-    "بيونسيه",
-    "أديل",
-    "ريهانا"
-   ]
+   "c": ["مادونا", "بيونسيه", "أديل", "ريهانا"]
   },
   "es": {
    "q": "¿Qué cantante es conocida como la «Reina del pop»?",
-   "c": [
-    "Madonna",
-    "Beyoncé",
-    "Adele",
-    "Rihanna"
-   ]
+   "c": ["Madonna", "Beyoncé", "Adele", "Rihanna"]
   },
   "pt": {
    "q": "Qual cantora é conhecida como a «Rainha do Pop»?",
-   "c": [
-    "Madonna",
-    "Beyoncé",
-    "Adele",
-    "Rihanna"
-   ]
+   "c": ["Madonna", "Beyoncé", "Adele", "Rihanna"]
   },
   "a": 0,
   "image": null,
@@ -452,48 +227,23 @@
  {
   "fr": {
    "q": "De quelle couleur est le célèbre Pokémon Pikachu ?",
-   "c": [
-    "Bleu",
-    "Rouge",
-    "Jaune",
-    "Vert"
-   ]
+   "c": ["Bleu", "Rouge", "Jaune", "Vert"]
   },
   "en": {
    "q": "What color is the famous Pokémon Pikachu?",
-   "c": [
-    "Blue",
-    "Red",
-    "Yellow",
-    "Green"
-   ]
+   "c": ["Blue", "Red", "Yellow", "Green"]
   },
   "ar": {
    "q": "ما هو لون بوكيمون بيكاتشو الشهير؟",
-   "c": [
-    "أزرق",
-    "أحمر",
-    "أصفر",
-    "أخضر"
-   ]
+   "c": ["أزرق", "أحمر", "أصفر", "أخضر"]
   },
   "es": {
    "q": "¿De qué color es el famoso Pokémon Pikachu?",
-   "c": [
-    "Azul",
-    "Rojo",
-    "Amarillo",
-    "Verde"
-   ]
+   "c": ["Azul", "Rojo", "Amarillo", "Verde"]
   },
   "pt": {
    "q": "Qual é a cor do famoso Pokémon Pikachu?",
-   "c": [
-    "Azul",
-    "Vermelho",
-    "Amarelo",
-    "Verde"
-   ]
+   "c": ["Azul", "Vermelho", "Amarelo", "Verde"]
   },
   "a": 2,
   "image": null,
@@ -502,48 +252,23 @@
  {
   "fr": {
    "q": "Quel bonhomme de neige attachant et rigolo prend vie dans le dessin animé de Disney « La Reine des neiges » ?",
-   "c": [
-    "Kristoff",
-    "Olaf",
-    "Sven",
-    "Hans"
-   ]
+   "c": ["Kristoff", "Olaf", "Sven", "Hans"]
   },
   "en": {
    "q": "What endearing and funny snowman comes to life in the Disney cartoon 'Frozen'?",
-   "c": [
-    "Kristoff",
-    "Olaf",
-    "Sven",
-    "Hans"
-   ]
+   "c": ["Kristoff", "Olaf", "Sven", "Hans"]
   },
   "ar": {
    "q": "ما هو اسم رجل الثلج المحبوب والمضحك الذي يدب فيه الحياة في رسوم ديزني «ملكة الثلج» (Frozen)؟",
-   "c": [
-    "كريستوف",
-    "أولاف",
-    "سفين",
-    "هانس"
-   ]
+   "c": ["كريستوف", "أولاف", "سفين", "هانس"]
   },
   "es": {
    "q": "¿Qué muñeco de nieve entrañable y divertido cobra vida en la película de Disney «Frozen: El reino del hielo»?",
-   "c": [
-    "Kristoff",
-    "Olaf",
-    "Sven",
-    "Hans"
-   ]
+   "c": ["Kristoff", "Olaf", "Sven", "Hans"]
   },
   "pt": {
    "q": "Qual boneco de neve fofo e engraçado ganha vida no desenho da Disney «Frozen»?",
-   "c": [
-    "Kristoff",
-    "Olaf",
-    "Sven",
-    "Hans"
-   ]
+   "c": ["Kristoff", "Olaf", "Sven", "Hans"]
   },
   "a": 1,
   "image": null,
@@ -552,48 +277,23 @@
  {
   "fr": {
    "q": "Quel super-héros au costume rouge et bleu s'élance de gratte-ciel en gratte-ciel en lançant des toiles d'araignée ?",
-   "c": [
-    "Batman",
-    "Superman",
-    "Spider-Man",
-    "Iron Man"
-   ]
+   "c": ["Batman", "Superman", "Spider-Man", "Iron Man"]
   },
   "en": {
    "q": "Which red-and-blue costumed superhero swings from skyscraper to skyscraper using webs?",
-   "c": [
-    "Batman",
-    "Superman",
-    "Spider-Man",
-    "Iron Man"
-   ]
+   "c": ["Batman", "Superman", "Spider-Man", "Iron Man"]
   },
   "ar": {
    "q": "أي بطل خارق يرتدي زيًا أحمر وأزرق يتنقل بين ناطحات السحاب باستخدام خيوط العنكبوت؟",
-   "c": [
-    "باتمان",
-    "سوبرمان",
-    "سبايدر مان",
-    "آيرون مان"
-   ]
+   "c": ["باتمان", "سوبرمان", "سبايدر مان", "آيرون مان"]
   },
   "es": {
    "q": "¿Qué superhéroe con traje rojo y azul se balancea de rascacielos en rascacielos lanzando telarañas?",
-   "c": [
-    "Batman",
-    "Superman",
-    "Spider-Man",
-    "Iron Man"
-   ]
+   "c": ["Batman", "Superman", "Spider-Man", "Iron Man"]
   },
   "pt": {
    "q": "Qual super-herói de traje vermelho e azul balança de arranha-céu em arranha-céu usando teias de aranha?",
-   "c": [
-    "Batman",
-    "Superman",
-    "Spider-Man",
-    "Homem de Ferro"
-   ]
+   "c": ["Batman", "Superman", "Spider-Man", "Homem de Ferro"]
   },
   "a": 2,
   "image": null,
@@ -602,48 +302,23 @@
  {
   "fr": {
    "q": "Quel hérisson bleu est célèbre pour sa vitesse incroyable ?",
-   "c": [
-    "Crash Bandicoot",
-    "Mario",
-    "Rayman",
-    "Sonic"
-   ]
+   "c": ["Crash Bandicoot", "Mario", "Rayman", "Sonic"]
   },
   "en": {
    "q": "Which blue hedgehog is famous for his incredible speed?",
-   "c": [
-    "Crash Bandicoot",
-    "Mario",
-    "Rayman",
-    "Sonic"
-   ]
+   "c": ["Crash Bandicoot", "Mario", "Rayman", "Sonic"]
   },
   "ar": {
    "q": "أي قنفذ أزرق اشتهر بسرعته الخارقة؟",
-   "c": [
-    "كراش بانديكوت",
-    "ماريو",
-    "رايمان",
-    "سونيك"
-   ]
+   "c": ["كراش بانديكوت", "ماريو", "رايمان", "سونيك"]
   },
   "es": {
    "q": "¿Qué erizo azul es famoso por su velocidad increíble?",
-   "c": [
-    "Crash Bandicoot",
-    "Mario",
-    "Rayman",
-    "Sonic"
-   ]
+   "c": ["Crash Bandicoot", "Mario", "Rayman", "Sonic"]
   },
   "pt": {
    "q": "Qual ouriço azul é famoso por sua velocidade incrível?",
-   "c": [
-    "Crash Bandicoot",
-    "Mario",
-    "Rayman",
-    "Sonic"
-   ]
+   "c": ["Crash Bandicoot", "Mario", "Rayman", "Sonic"]
   },
   "a": 3,
   "image": null,
@@ -652,48 +327,23 @@
  {
   "fr": {
    "q": "Quel super-héros est l'identité secrète de Bruce Wayne ?",
-   "c": [
-    "Spider-Man",
-    "Iron Man",
-    "Superman",
-    "Batman"
-   ]
+   "c": ["Spider-Man", "Iron Man", "Superman", "Batman"]
   },
   "en": {
    "q": "Which superhero is the secret identity of Bruce Wayne?",
-   "c": [
-    "Spider-Man",
-    "Iron Man",
-    "Superman",
-    "Batman"
-   ]
+   "c": ["Spider-Man", "Iron Man", "Superman", "Batman"]
   },
   "ar": {
    "q": "أي بطل خارق هو الهوية السرية لبروس واين؟",
-   "c": [
-    "سبايدرمان",
-    "الرجل الحديدي",
-    "سوبرمان",
-    "باتمان"
-   ]
+   "c": ["سبايدرمان", "الرجل الحديدي", "سوبرمان", "باتمان"]
   },
   "es": {
    "q": "¿Qué superhéroe es la identidad secreta de Bruce Wayne?",
-   "c": [
-    "Spider-Man",
-    "Iron Man",
-    "Superman",
-    "Batman"
-   ]
+   "c": ["Spider-Man", "Iron Man", "Superman", "Batman"]
   },
   "pt": {
    "q": "Qual super-herói é a identidade secreta de Bruce Wayne?",
-   "c": [
-    "Spider-Man",
-    "Iron Man",
-    "Superman",
-    "Batman"
-   ]
+   "c": ["Spider-Man", "Iron Man", "Superman", "Batman"]
   },
   "a": 3,
   "image": null,
@@ -702,48 +352,23 @@
  {
   "fr": {
    "q": "Dans quelle saga les héros se battent-ils avec des sabres laser en disant « Que la Force soit avec toi » ?",
-   "c": [
-    "Star Trek",
-    "Harry Potter",
-    "Matrix",
-    "Star Wars"
-   ]
+   "c": ["Star Trek", "Harry Potter", "Matrix", "Star Wars"]
   },
   "en": {
    "q": "In which saga do heroes fight with lightsabers and say 'May the Force be with you'?",
-   "c": [
-    "Star Trek",
-    "Harry Potter",
-    "The Matrix",
-    "Star Wars"
-   ]
+   "c": ["Star Trek", "Harry Potter", "The Matrix", "Star Wars"]
   },
   "ar": {
    "q": "في أي سلسلة يتقاتل الأبطال بالسيوف الضوئية ويقولون «لتكن القوة معك»؟",
-   "c": [
-    "ستار تريك",
-    "هاري بوتر",
-    "ماتريكس",
-    "حرب النجوم"
-   ]
+   "c": ["ستار تريك", "هاري بوتر", "ماتريكس", "حرب النجوم"]
   },
   "es": {
    "q": "¿En qué saga los héroes luchan con sables de luz y dicen «Que la Fuerza te acompañe»?",
-   "c": [
-    "Star Trek",
-    "Harry Potter",
-    "Matrix",
-    "Star Wars"
-   ]
+   "c": ["Star Trek", "Harry Potter", "Matrix", "Star Wars"]
   },
   "pt": {
    "q": "Em qual saga os heróis lutam com sabres de luz e dizem «Que a Força esteja com você»?",
-   "c": [
-    "Star Trek",
-    "Harry Potter",
-    "Matrix",
-    "Star Wars"
-   ]
+   "c": ["Star Trek", "Harry Potter", "Matrix", "Star Wars"]
   },
   "a": 3,
   "image": null,
@@ -752,48 +377,23 @@
  {
   "fr": {
    "q": "Quelle série de jeux consiste à capturer des créatures avec des Poké Balls ?",
-   "c": [
-    "Animal Crossing",
-    "Digimon",
-    "Pokémon",
-    "Zelda"
-   ]
+   "c": ["Animal Crossing", "Digimon", "Pokémon", "Zelda"]
   },
   "en": {
    "q": "Which game series is about catching creatures with Poké Balls?",
-   "c": [
-    "Animal Crossing",
-    "Digimon",
-    "Pokémon",
-    "Zelda"
-   ]
+   "c": ["Animal Crossing", "Digimon", "Pokémon", "Zelda"]
   },
   "ar": {
    "q": "أي سلسلة ألعاب تقوم على اصطياد المخلوقات بكرات البوكيبول؟",
-   "c": [
-    "أنيمال كروسينغ",
-    "ديجيمون",
-    "بوكيمون",
-    "زيلدا"
-   ]
+   "c": ["أنيمال كروسينغ", "ديجيمون", "بوكيمون", "زيلدا"]
   },
   "es": {
    "q": "¿Qué saga de videojuegos trata de capturar criaturas con Poké Balls?",
-   "c": [
-    "Animal Crossing",
-    "Digimon",
-    "Pokémon",
-    "Zelda"
-   ]
+   "c": ["Animal Crossing", "Digimon", "Pokémon", "Zelda"]
   },
   "pt": {
    "q": "Qual série de jogos é sobre capturar criaturas com Poké Bolas?",
-   "c": [
-    "Animal Crossing",
-    "Digimon",
-    "Pokémon",
-    "Zelda"
-   ]
+   "c": ["Animal Crossing", "Digimon", "Pokémon", "Zelda"]
   },
   "a": 2,
   "image": null,
@@ -802,48 +402,23 @@
  {
   "fr": {
    "q": "Quel animal espiègle et farceur est le héros du dessin animé « Tom et Jerry » avec la souris Jerry ?",
-   "c": [
-    "Un chien",
-    "Un chat",
-    "Un lapin",
-    "Un canard"
-   ]
+   "c": ["Un chien", "Un chat", "Un lapin", "Un canard"]
   },
   "en": {
    "q": "What playful and mischievous animal is the hero of the cartoon 'Tom and Jerry' along with Jerry the mouse?",
-   "c": [
-    "A dog",
-    "A cat",
-    "A rabbit",
-    "A duck"
-   ]
+   "c": ["A dog", "A cat", "A rabbit", "A duck"]
   },
   "ar": {
    "q": "ما هو الحيوان المشاغب بطل رسوم «توم وجيري» إلى جانب الفأر جيري؟",
-   "c": [
-    "كلب",
-    "قط",
-    "أرنب",
-    "بطة"
-   ]
+   "c": ["كلب", "قط", "أرنب", "بطة"]
   },
   "es": {
    "q": "¿Qué animal juguetón y travieso es el héroe del dibujo animado «Tom y Jerry» junto con el ratón Jerry?",
-   "c": [
-    "Un perro",
-    "Un gato",
-    "Un conejo",
-    "Un pato"
-   ]
+   "c": ["Un perro", "Un gato", "Un conejo", "Un pato"]
   },
   "pt": {
    "q": "Qual animal brincalhão e travesso é o herói do desenho «Tom e Jerry» junto com o ratinho Jerry?",
-   "c": [
-    "Um cachorro",
-    "Um gato",
-    "Um coelho",
-    "Um pato"
-   ]
+   "c": ["Um cachorro", "Um gato", "Um coelho", "Um pato"]
   },
   "a": 1,
   "image": null,
@@ -852,48 +427,23 @@
  {
   "fr": {
    "q": "Quel chanteur est surnommé le « Roi de la pop » ?",
-   "c": [
-    "Justin Bieber",
-    "Prince",
-    "Elvis Presley",
-    "Michael Jackson"
-   ]
+   "c": ["Justin Bieber", "Prince", "Elvis Presley", "Michael Jackson"]
   },
   "en": {
    "q": "Which singer is nicknamed the 'King of Pop'?",
-   "c": [
-    "Justin Bieber",
-    "Prince",
-    "Elvis Presley",
-    "Michael Jackson"
-   ]
+   "c": ["Justin Bieber", "Prince", "Elvis Presley", "Michael Jackson"]
   },
   "ar": {
    "q": "أي مغنٍّ يُلقَّب بـ«ملك البوب»؟",
-   "c": [
-    "جاستن بيبر",
-    "برينس",
-    "إلفيس بريسلي",
-    "مايكل جاكسون"
-   ]
+   "c": ["جاستن بيبر", "برينس", "إلفيس بريسلي", "مايكل جاكسون"]
   },
   "es": {
    "q": "¿Qué cantante es conocido como el «Rey del pop»?",
-   "c": [
-    "Justin Bieber",
-    "Prince",
-    "Elvis Presley",
-    "Michael Jackson"
-   ]
+   "c": ["Justin Bieber", "Prince", "Elvis Presley", "Michael Jackson"]
   },
   "pt": {
    "q": "Qual cantor é conhecido como o «Rei do Pop»?",
-   "c": [
-    "Justin Bieber",
-    "Prince",
-    "Elvis Presley",
-    "Michael Jackson"
-   ]
+   "c": ["Justin Bieber", "Prince", "Elvis Presley", "Michael Jackson"]
   },
   "a": 3,
   "image": null,
@@ -902,48 +452,23 @@
  {
   "fr": {
    "q": "Quelle famille de dessin animé habite à Springfield ?",
-   "c": [
-    "Les Simpson",
-    "Les Griffin",
-    "Les Pierrafeu",
-    "South Park"
-   ]
+   "c": ["Les Simpson", "Les Griffin", "Les Pierrafeu", "South Park"]
   },
   "en": {
    "q": "Which cartoon family lives in the town of Springfield?",
-   "c": [
-    "The Simpsons",
-    "Family Guy",
-    "The Flintstones",
-    "South Park"
-   ]
+   "c": ["The Simpsons", "Family Guy", "The Flintstones", "South Park"]
   },
   "ar": {
    "q": "أي عائلة كرتونية تعيش في بلدة سبرينغفيلد؟",
-   "c": [
-    "آل سمبسون",
-    "عائلة غريفين",
-    "عائلة فلينستون",
-    "ساوث بارك"
-   ]
+   "c": ["آل سمبسون", "عائلة غريفين", "عائلة فلينستون", "ساوث بارك"]
   },
   "es": {
    "q": "¿Qué familia de dibujos animados vive en la ciudad de Springfield?",
-   "c": [
-    "Los Simpson",
-    "Padre de familia",
-    "Los Picapiedra",
-    "South Park"
-   ]
+   "c": ["Los Simpson", "Padre de familia", "Los Picapiedra", "South Park"]
   },
   "pt": {
    "q": "Qual família de desenho animado mora na cidade de Springfield?",
-   "c": [
-    "Os Simpsons",
-    "Uma Família da Pesada",
-    "Os Flintstones",
-    "South Park"
-   ]
+   "c": ["Os Simpsons", "Uma Família da Pesada", "Os Flintstones", "South Park"]
   },
   "a": 0,
   "image": null,
@@ -952,48 +477,23 @@
  {
   "fr": {
    "q": "Quelle chanteuse colombienne est célèbre pour « Hips Don't Lie » et « Waka Waka » ?",
-   "c": [
-    "Rihanna",
-    "Shakira",
-    "Jennifer Lopez",
-    "Beyoncé"
-   ]
+   "c": ["Rihanna", "Shakira", "Jennifer Lopez", "Beyoncé"]
   },
   "en": {
    "q": "Which Colombian singer is famous for 'Hips Don't Lie' and 'Waka Waka'?",
-   "c": [
-    "Rihanna",
-    "Shakira",
-    "Jennifer Lopez",
-    "Beyoncé"
-   ]
+   "c": ["Rihanna", "Shakira", "Jennifer Lopez", "Beyoncé"]
   },
   "ar": {
    "q": "أي مغنية كولومبية اشتهرت بأغنيتي «Hips Don't Lie» و«Waka Waka»؟",
-   "c": [
-    "ريهانا",
-    "شاكيرا",
-    "جينيفر لوبيز",
-    "بيونسيه"
-   ]
+   "c": ["ريهانا", "شاكيرا", "جينيفر لوبيز", "بيونسيه"]
   },
   "es": {
    "q": "¿Qué cantante colombiana es famosa por «Hips Don't Lie» y «Waka Waka»?",
-   "c": [
-    "Rihanna",
-    "Shakira",
-    "Jennifer Lopez",
-    "Beyoncé"
-   ]
+   "c": ["Rihanna", "Shakira", "Jennifer Lopez", "Beyoncé"]
   },
   "pt": {
    "q": "Qual cantora colombiana é famosa por «Hips Don't Lie» e «Waka Waka»?",
-   "c": [
-    "Rihanna",
-    "Shakira",
-    "Jennifer Lopez",
-    "Beyoncé"
-   ]
+   "c": ["Rihanna", "Shakira", "Jennifer Lopez", "Beyoncé"]
   },
   "a": 1,
   "image": null,
@@ -1002,48 +502,23 @@
  {
   "fr": {
    "q": "Quel groupe de rock avait pour chanteur Freddie Mercury ?",
-   "c": [
-    "Queen",
-    "Coldplay",
-    "The Beatles",
-    "U2"
-   ]
+   "c": ["Queen", "Coldplay", "The Beatles", "U2"]
   },
   "en": {
    "q": "Which rock band was led by the singer Freddie Mercury?",
-   "c": [
-    "Queen",
-    "Coldplay",
-    "The Beatles",
-    "U2"
-   ]
+   "c": ["Queen", "Coldplay", "The Beatles", "U2"]
   },
   "ar": {
    "q": "أي فرقة روك كان مغنيها فريدي ميركوري؟",
-   "c": [
-    "كوين",
-    "كولدبلاي",
-    "البيتلز",
-    "يو تو"
-   ]
+   "c": ["كوين", "كولدبلاي", "البيتلز", "يو تو"]
   },
   "es": {
    "q": "¿Qué banda de rock tenía como cantante a Freddie Mercury?",
-   "c": [
-    "Queen",
-    "Coldplay",
-    "The Beatles",
-    "U2"
-   ]
+   "c": ["Queen", "Coldplay", "The Beatles", "U2"]
   },
   "pt": {
    "q": "Qual banda de rock tinha como vocalista Freddie Mercury?",
-   "c": [
-    "Queen",
-    "Coldplay",
-    "The Beatles",
-    "U2"
-   ]
+   "c": ["Queen", "Coldplay", "The Beatles", "U2"]
   },
   "a": 0,
   "image": null,
@@ -1052,48 +527,23 @@
  {
   "fr": {
    "q": "Quel acteur joue le capitaine Jack Sparrow dans « Pirates des Caraïbes » ?",
-   "c": [
-    "Orlando Bloom",
-    "Brad Pitt",
-    "Johnny Depp",
-    "Tom Cruise"
-   ]
+   "c": ["Orlando Bloom", "Brad Pitt", "Johnny Depp", "Tom Cruise"]
   },
   "en": {
    "q": "Which actor plays Captain Jack Sparrow in 'Pirates of the Caribbean'?",
-   "c": [
-    "Orlando Bloom",
-    "Brad Pitt",
-    "Johnny Depp",
-    "Tom Cruise"
-   ]
+   "c": ["Orlando Bloom", "Brad Pitt", "Johnny Depp", "Tom Cruise"]
   },
   "ar": {
    "q": "أي ممثل يؤدي دور القبطان جاك سبارو في «قراصنة الكاريبي»؟",
-   "c": [
-    "أورلاندو بلوم",
-    "براد بيت",
-    "جوني ديب",
-    "توم كروز"
-   ]
+   "c": ["أورلاندو بلوم", "براد بيت", "جوني ديب", "توم كروز"]
   },
   "es": {
    "q": "¿Qué actor interpreta al capitán Jack Sparrow en «Piratas del Caribe»?",
-   "c": [
-    "Orlando Bloom",
-    "Brad Pitt",
-    "Johnny Depp",
-    "Tom Cruise"
-   ]
+   "c": ["Orlando Bloom", "Brad Pitt", "Johnny Depp", "Tom Cruise"]
   },
   "pt": {
    "q": "Qual ator interpreta o capitão Jack Sparrow em «Piratas do Caribe»?",
-   "c": [
-    "Orlando Bloom",
-    "Brad Pitt",
-    "Johnny Depp",
-    "Tom Cruise"
-   ]
+   "c": ["Orlando Bloom", "Brad Pitt", "Johnny Depp", "Tom Cruise"]
   },
   "a": 2,
   "image": null,
@@ -1102,48 +552,23 @@
  {
   "fr": {
    "q": "Dans quel film des dinosaures reviennent-ils à la vie dans un parc sur une île ?",
-   "c": [
-    "King Kong",
-    "Godzilla",
-    "Avatar",
-    "Jurassic Park"
-   ]
+   "c": ["King Kong", "Godzilla", "Avatar", "Jurassic Park"]
   },
   "en": {
    "q": "In which film do dinosaurs come back to life in an island theme park?",
-   "c": [
-    "King Kong",
-    "Godzilla",
-    "Avatar",
-    "Jurassic Park"
-   ]
+   "c": ["King Kong", "Godzilla", "Avatar", "Jurassic Park"]
   },
   "ar": {
    "q": "في أي فيلم تعود الديناصورات إلى الحياة في متنزه على جزيرة؟",
-   "c": [
-    "كينغ كونغ",
-    "غودزيلا",
-    "أفاتار",
-    "جوراسيك بارك"
-   ]
+   "c": ["كينغ كونغ", "غودزيلا", "أفاتار", "جوراسيك بارك"]
   },
   "es": {
    "q": "¿En qué película reviven los dinosaurios en un parque temático en una isla?",
-   "c": [
-    "King Kong",
-    "Godzilla",
-    "Avatar",
-    "Jurassic Park"
-   ]
+   "c": ["King Kong", "Godzilla", "Avatar", "Jurassic Park"]
   },
   "pt": {
    "q": "Em qual filme os dinossauros voltam à vida em um parque em uma ilha?",
-   "c": [
-    "King Kong",
-    "Godzilla",
-    "Avatar",
-    "Jurassic Park"
-   ]
+   "c": ["King Kong", "Godzilla", "Avatar", "Jurassic Park"]
   },
   "a": 3,
   "image": null,
@@ -1152,48 +577,23 @@
  {
   "fr": {
    "q": "Quel chanteur est l'auteur du tube « Shape of You » ?",
-   "c": [
-    "Harry Styles",
-    "Bruno Mars",
-    "Justin Bieber",
-    "Ed Sheeran"
-   ]
+   "c": ["Harry Styles", "Bruno Mars", "Justin Bieber", "Ed Sheeran"]
   },
   "en": {
    "q": "Which singer released the hit 'Shape of You'?",
-   "c": [
-    "Harry Styles",
-    "Bruno Mars",
-    "Justin Bieber",
-    "Ed Sheeran"
-   ]
+   "c": ["Harry Styles", "Bruno Mars", "Justin Bieber", "Ed Sheeran"]
   },
   "ar": {
    "q": "أي مغنٍّ أصدر أغنية «Shape of You»؟",
-   "c": [
-    "هاري ستايلز",
-    "برونو مارس",
-    "جاستن بيبر",
-    "إد شيران"
-   ]
+   "c": ["هاري ستايلز", "برونو مارس", "جاستن بيبر", "إد شيران"]
   },
   "es": {
    "q": "¿Qué cantante lanzó el éxito «Shape of You»?",
-   "c": [
-    "Harry Styles",
-    "Bruno Mars",
-    "Justin Bieber",
-    "Ed Sheeran"
-   ]
+   "c": ["Harry Styles", "Bruno Mars", "Justin Bieber", "Ed Sheeran"]
   },
   "pt": {
    "q": "Qual cantor lançou o sucesso «Shape of You»?",
-   "c": [
-    "Harry Styles",
-    "Bruno Mars",
-    "Justin Bieber",
-    "Ed Sheeran"
-   ]
+   "c": ["Harry Styles", "Bruno Mars", "Justin Bieber", "Ed Sheeran"]
   },
   "a": 3,
   "image": null,
@@ -1202,48 +602,23 @@
  {
   "fr": {
    "q": "Dans le dessin animé de Disney, quelle princesse perd sa pantoufle de verre en s'enfuyant du bal ?",
-   "c": [
-    "Blanche-Neige",
-    "Cendrillon",
-    "La Belle au bois dormant",
-    "Ariel"
-   ]
+   "c": ["Blanche-Neige", "Cendrillon", "La Belle au bois dormant", "Ariel"]
   },
   "en": {
    "q": "In the Disney cartoon, which princess loses her glass slipper while fleeing the ball?",
-   "c": [
-    "Snow White",
-    "Cinderella",
-    "Sleeping Beauty",
-    "Ariel"
-   ]
+   "c": ["Snow White", "Cinderella", "Sleeping Beauty", "Ariel"]
   },
   "ar": {
    "q": "في رسوم ديزني المتحركة، أي أميرة تفقد حذاءها الزجاجي أثناء هربها من الحفلة؟",
-   "c": [
-    "سنو وايت (بياض الثلج)",
-    "سندريلا",
-    "الجميلة النائمة",
-    "أرييل"
-   ]
+   "c": ["سنو وايت (بياض الثلج)", "سندريلا", "الجميلة النائمة", "أرييل"]
   },
   "es": {
    "q": "En los dibujos animados de Disney, ¿qué princesa pierde su zapato de cristal al huir del baile?",
-   "c": [
-    "Blancanieves",
-    "Cenicienta",
-    "La Bella Durmiente",
-    "Ariel"
-   ]
+   "c": ["Blancanieves", "Cenicienta", "La Bella Durmiente", "Ariel"]
   },
   "pt": {
    "q": "No desenho animado da Disney, qual princesa perde seu sapatinho de cristal ao fugir do baile?",
-   "c": [
-    "Branca de Neve",
-    "Cinderela",
-    "A Bela Adormecida",
-    "Ariel"
-   ]
+   "c": ["Branca de Neve", "Cinderela", "A Bela Adormecida", "Ariel"]
   },
   "a": 1,
   "image": null,
@@ -1252,48 +627,23 @@
  {
   "fr": {
    "q": "Quel plombier à casquette rouge sauve la princesse Peach ?",
-   "c": [
-    "Mario",
-    "Luigi",
-    "Sonic",
-    "Link"
-   ]
+   "c": ["Mario", "Luigi", "Sonic", "Link"]
   },
   "en": {
    "q": "Which plumber with a red cap rescues Princess Peach?",
-   "c": [
-    "Mario",
-    "Luigi",
-    "Sonic",
-    "Link"
-   ]
+   "c": ["Mario", "Luigi", "Sonic", "Link"]
   },
   "ar": {
    "q": "أي سبّاك يرتدي قبعة حمراء ينقذ الأميرة بيتش؟",
-   "c": [
-    "ماريو",
-    "لويجي",
-    "سونيك",
-    "لينك"
-   ]
+   "c": ["ماريو", "لويجي", "سونيك", "لينك"]
   },
   "es": {
    "q": "¿Qué fontanero de gorra roja rescata a la princesa Peach?",
-   "c": [
-    "Mario",
-    "Luigi",
-    "Sonic",
-    "Link"
-   ]
+   "c": ["Mario", "Luigi", "Sonic", "Link"]
   },
   "pt": {
    "q": "Qual encanador de boné vermelho resgata a princesa Peach?",
-   "c": [
-    "Mario",
-    "Luigi",
-    "Sonic",
-    "Link"
-   ]
+   "c": ["Mario", "Luigi", "Sonic", "Link"]
   },
   "a": 0,
   "image": null,
@@ -1302,48 +652,23 @@
  {
   "fr": {
    "q": "Dans quel jeu vidéo construit-on avec des blocs en évitant les creepers ?",
-   "c": [
-    "Minecraft",
-    "Fortnite",
-    "Roblox",
-    "Terraria"
-   ]
+   "c": ["Minecraft", "Fortnite", "Roblox", "Terraria"]
   },
   "en": {
    "q": "In which video game do you build with blocks and avoid creepers?",
-   "c": [
-    "Minecraft",
-    "Fortnite",
-    "Roblox",
-    "Terraria"
-   ]
+   "c": ["Minecraft", "Fortnite", "Roblox", "Terraria"]
   },
   "ar": {
    "q": "في أي لعبة فيديو تبني بالمكعبات وتتجنب الكريبرز؟",
-   "c": [
-    "ماينكرافت",
-    "فورتنايت",
-    "روبلوكس",
-    "تيرايا"
-   ]
+   "c": ["ماينكرافت", "فورتنايت", "روبلوكس", "تيرايا"]
   },
   "es": {
    "q": "¿En qué videojuego se construye con bloques y hay que evitar a los creepers?",
-   "c": [
-    "Minecraft",
-    "Fortnite",
-    "Roblox",
-    "Terraria"
-   ]
+   "c": ["Minecraft", "Fortnite", "Roblox", "Terraria"]
   },
   "pt": {
    "q": "Em qual videogame você constrói com blocos e foge dos creepers?",
-   "c": [
-    "Minecraft",
-    "Fortnite",
-    "Roblox",
-    "Terraria"
-   ]
+   "c": ["Minecraft", "Fortnite", "Roblox", "Terraria"]
   },
   "a": 0,
   "image": null,
@@ -1352,48 +677,23 @@
  {
   "fr": {
    "q": "Quel film Disney raconte l'histoire de la sirène Ariel ?",
-   "c": [
-    "Aladdin",
-    "La Petite Sirène",
-    "La Reine des neiges",
-    "Vaiana"
-   ]
+   "c": ["Aladdin", "La Petite Sirène", "La Reine des neiges", "Vaiana"]
   },
   "en": {
    "q": "Which Disney film tells the story of the mermaid Ariel?",
-   "c": [
-    "Aladdin",
-    "The Little Mermaid",
-    "Frozen",
-    "Moana"
-   ]
+   "c": ["Aladdin", "The Little Mermaid", "Frozen", "Moana"]
   },
   "ar": {
    "q": "أي فيلم من ديزني يحكي قصة حورية البحر آريال؟",
-   "c": [
-    "علاء الدين",
-    "حورية البحر الصغيرة",
-    "ملكة الثلج",
-    "موانا"
-   ]
+   "c": ["علاء الدين", "حورية البحر الصغيرة", "ملكة الثلج", "موانا"]
   },
   "es": {
    "q": "¿Qué película de Disney cuenta la historia de la sirena Ariel?",
-   "c": [
-    "Aladdín",
-    "La sirenita",
-    "Frozen",
-    "Moana"
-   ]
+   "c": ["Aladdín", "La sirenita", "Frozen", "Moana"]
   },
   "pt": {
    "q": "Qual filme da Disney conta a história da sereia Ariel?",
-   "c": [
-    "Aladdin",
-    "A Pequena Sereia",
-    "Frozen",
-    "Moana"
-   ]
+   "c": ["Aladdin", "A Pequena Sereia", "Frozen", "Moana"]
   },
   "a": 1,
   "image": null,
@@ -1402,48 +702,23 @@
  {
   "fr": {
    "q": "Dans quel film Disney un génie sort-il d'une lampe magique ?",
-   "c": [
-    "Tarzan",
-    "Hercule",
-    "Aladdin",
-    "Mulan"
-   ]
+   "c": ["Tarzan", "Hercule", "Aladdin", "Mulan"]
   },
   "en": {
    "q": "In which Disney film does a genie come out of a magic lamp?",
-   "c": [
-    "Tarzan",
-    "Hercules",
-    "Aladdin",
-    "Mulan"
-   ]
+   "c": ["Tarzan", "Hercules", "Aladdin", "Mulan"]
   },
   "ar": {
    "q": "في أي فيلم من ديزني يخرج مارد من مصباح سحري؟",
-   "c": [
-    "طرزان",
-    "هرقل",
-    "علاء الدين",
-    "مولان"
-   ]
+   "c": ["طرزان", "هرقل", "علاء الدين", "مولان"]
   },
   "es": {
    "q": "¿En qué película de Disney sale un genio de una lámpara mágica?",
-   "c": [
-    "Tarzán",
-    "Hércules",
-    "Aladdín",
-    "Mulán"
-   ]
+   "c": ["Tarzán", "Hércules", "Aladdín", "Mulán"]
   },
   "pt": {
    "q": "Em qual filme da Disney um gênio sai de uma lâmpada mágica?",
-   "c": [
-    "Tarzan",
-    "Hércules",
-    "Aladdin",
-    "Mulan"
-   ]
+   "c": ["Tarzan", "Hércules", "Aladdin", "Mulan"]
   },
   "a": 2,
   "image": null,
@@ -1452,48 +727,23 @@
  {
   "fr": {
    "q": "Quel instrument a des touches noires et blanches ?",
-   "c": [
-    "Le piano",
-    "Le violon",
-    "La flûte",
-    "La batterie"
-   ]
+   "c": ["Le piano", "Le violon", "La flûte", "La batterie"]
   },
   "en": {
    "q": "Which instrument has black and white keys?",
-   "c": [
-    "Piano",
-    "Violin",
-    "Flute",
-    "Drums"
-   ]
+   "c": ["Piano", "Violin", "Flute", "Drums"]
   },
   "ar": {
    "q": "أي آلة موسيقية لها مفاتيح سوداء وبيضاء؟",
-   "c": [
-    "البيانو",
-    "الكمان",
-    "الناي",
-    "الطبول"
-   ]
+   "c": ["البيانو", "الكمان", "الناي", "الطبول"]
   },
   "es": {
    "q": "¿Qué instrumento tiene teclas blancas y negras?",
-   "c": [
-    "El piano",
-    "El violín",
-    "La flauta",
-    "La batería"
-   ]
+   "c": ["El piano", "El violín", "La flauta", "La batería"]
   },
   "pt": {
    "q": "Qual instrumento tem teclas pretas e brancas?",
-   "c": [
-    "O piano",
-    "O violino",
-    "A flauta",
-    "A bateria"
-   ]
+   "c": ["O piano", "O violino", "A flauta", "A bateria"]
   },
   "a": 0,
   "image": null,
@@ -1502,48 +752,23 @@
  {
   "fr": {
    "q": "Quel instrument se joue avec des baguettes ?",
-   "c": [
-    "La flûte",
-    "Le violon",
-    "La trompette",
-    "La batterie"
-   ]
+   "c": ["La flûte", "Le violon", "La trompette", "La batterie"]
   },
   "en": {
    "q": "Which instrument is played with drumsticks?",
-   "c": [
-    "Flute",
-    "Violin",
-    "Trumpet",
-    "Drums"
-   ]
+   "c": ["Flute", "Violin", "Trumpet", "Drums"]
   },
   "ar": {
    "q": "أي آلة موسيقية تُعزف بعصيّ الطبل؟",
-   "c": [
-    "الناي",
-    "الكمان",
-    "البوق",
-    "الطبول"
-   ]
+   "c": ["الناي", "الكمان", "البوق", "الطبول"]
   },
   "es": {
    "q": "¿Qué instrumento se toca con baquetas?",
-   "c": [
-    "La flauta",
-    "El violín",
-    "La trompeta",
-    "La batería"
-   ]
+   "c": ["La flauta", "El violín", "La trompeta", "La batería"]
   },
   "pt": {
    "q": "Qual instrumento é tocado com baquetas?",
-   "c": [
-    "A flauta",
-    "O violino",
-    "O trompete",
-    "A bateria"
-   ]
+   "c": ["A flauta", "O violino", "O trompete", "A bateria"]
   },
   "a": 3,
   "image": null,
@@ -1552,48 +777,23 @@
  {
   "fr": {
    "q": "Dans quel film d'animation des jouets comme Woody et Buzz l'Éclair prennent-ils vie ?",
-   "c": [
-    "Toy Story",
-    "Cars",
-    "Le Roi lion",
-    "Shrek"
-   ]
+   "c": ["Toy Story", "Cars", "Le Roi lion", "Shrek"]
   },
   "en": {
    "q": "In which animated film do toys like Woody and Buzz Lightyear come to life?",
-   "c": [
-    "Toy Story",
-    "Cars",
-    "The Lion King",
-    "Shrek"
-   ]
+   "c": ["Toy Story", "Cars", "The Lion King", "Shrek"]
   },
   "ar": {
    "q": "في أي فيلم رسوم متحركة تنبض الألعاب مثل وودي وباز لايتيير بالحياة؟",
-   "c": [
-    "قصة لعبة",
-    "سيارات",
-    "الأسد الملك",
-    "شريك"
-   ]
+   "c": ["قصة لعبة", "سيارات", "الأسد الملك", "شريك"]
   },
   "es": {
    "q": "¿En qué película de animación cobran vida juguetes como Woody y Buzz Lightyear?",
-   "c": [
-    "Toy Story",
-    "Cars",
-    "El rey león",
-    "Shrek"
-   ]
+   "c": ["Toy Story", "Cars", "El rey león", "Shrek"]
   },
   "pt": {
    "q": "Em qual animação brinquedos como Woody e Buzz Lightyear ganham vida?",
-   "c": [
-    "Toy Story",
-    "Carros",
-    "O Rei Leão",
-    "Shrek"
-   ]
+   "c": ["Toy Story", "Carros", "O Rei Leão", "Shrek"]
   },
   "a": 0,
   "image": null,
@@ -1602,48 +802,23 @@
  {
   "fr": {
    "q": "Dans le conte, quel personnage a un long nez qui s'allonge chaque fois qu'il ment ?",
-   "c": [
-    "Peter Pan",
-    "Aladin",
-    "Pinocchio",
-    "Tarzan"
-   ]
+   "c": ["Peter Pan", "Aladin", "Pinocchio", "Tarzan"]
   },
   "en": {
    "q": "In the tale, which character has a long nose that grows every time he tells a lie?",
-   "c": [
-    "Peter Pan",
-    "Aladdin",
-    "Pinocchio",
-    "Tarzan"
-   ]
+   "c": ["Peter Pan", "Aladdin", "Pinocchio", "Tarzan"]
   },
   "ar": {
    "q": "في القصة، من هي الشخصية التي يطول أنفها كلما كذبت؟",
-   "c": [
-    "بيتر بان",
-    "علاء الدين",
-    "بينوكيو",
-    "طرزان"
-   ]
+   "c": ["بيتر بان", "علاء الدين", "بينوكيو", "طرزان"]
   },
   "es": {
    "q": "En el cuento, ¿qué personaje tiene una nariz larga que crece cada vez que dice una mentira?",
-   "c": [
-    "Peter Pan",
-    "Aladdín",
-    "Pinocho",
-    "Tarzán"
-   ]
+   "c": ["Peter Pan", "Aladdín", "Pinocho", "Tarzán"]
   },
   "pt": {
    "q": "No conto, qual personagem tem um nariz comprido que cresce toda vez que ele conta uma mentira?",
-   "c": [
-    "Peter Pan",
-    "Aladim",
-    "Pinocchio",
-    "Tarzan"
-   ]
+   "c": ["Peter Pan", "Aladim", "Pinocchio", "Tarzan"]
   },
   "a": 2,
   "image": null,
@@ -1652,48 +827,23 @@
  {
   "fr": {
    "q": "Quel célèbre petit poisson orange aux nageoires inégales est le héros du film d'animation de Pixar « Le Monde de Nemo » ?",
-   "c": [
-    "Dory",
-    "Nemo",
-    "Marin",
-    "الملك لوي"
-   ]
+   "c": ["Dory", "Nemo", "Marin", "Gill"]
   },
   "en": {
    "q": "What famous little orange fish with unequal fins is the hero of the Pixar animated film 'Finding Nemo'?",
-   "c": [
-    "Dory",
-    "Nemo",
-    "Marlin",
-    "Gill"
-   ]
+   "c": ["Dory", "Nemo", "Marlin", "Gill"]
   },
   "ar": {
    "q": "من هو السمكة البرتقالية الصغيرة الشهيرة ذات الزعانف غير المتساوية وبطل فيلم بيكسار «البحث عن نيمو»؟",
-   "c": [
-    "دوري",
-    "نيمو",
-    "مارلين (الأب)",
-    "جيل"
-   ]
+   "c": ["دوري", "نيمو", "مارلين (الأب)", "جيل"]
   },
   "es": {
    "q": "¿Qué famoso pececito naranja con aletas desiguales es el héroe de la película de animación de Pixar «Buscando a Nemo»?",
-   "c": [
-    "Dory",
-    "Nemo",
-    "Marlin",
-    "Gill"
-   ]
+   "c": ["Dory", "Nemo", "Marlin", "Gill"]
   },
   "pt": {
    "q": "Qual famoso peixinho laranja com nadadeiras desiguais é o herói do filme de animação da Pixar «Procurando Nemo»?",
-   "c": [
-    "Dory",
-    "Nemo",
-    "Marlin",
-    "Gill"
-   ]
+   "c": ["Dory", "Nemo", "Marlin", "Gill"]
   },
   "a": 1,
   "image": null,
@@ -1702,48 +852,23 @@
  {
   "fr": {
    "q": "Quel célèbre détective privé et magicien du monde des sorciers possède une cicatrice en forme d'éclair sur le front ?",
-   "c": [
-    "Ron Weasley",
-    "Harry Potter",
-    "Drago Malefoy",
-    "Neville Londubat"
-   ]
+   "c": ["Ron Weasley", "Harry Potter", "Drago Malefoy", "Neville Londubat"]
   },
   "en": {
    "q": "Which famous young wizard in the wizarding world has a lightning-bolt scar on his forehead?",
-   "c": [
-    "Ron Weasley",
-    "Harry Potter",
-    "Draco Malfoy",
-    "Neville Longbottom"
-   ]
+   "c": ["Ron Weasley", "Harry Potter", "Draco Malfoy", "Neville Longbottom"]
   },
   "ar": {
    "q": "من هو الساحر الشاب الشهير في عالم السحرة الذي يحمل ندبة على شكل برق على جبهته؟",
-   "c": [
-    "رون ويزلي",
-    "هاري بوتر",
-    "دراكو مالفوي",
-    "نيفيل لونجبوتوم"
-   ]
+   "c": ["رون ويزلي", "هاري بوتر", "دراكو مالفوي", "نيفيل لونجبوتوم"]
   },
   "es": {
    "q": "¿Qué famoso joven mago del mundo mágico tiene una cicatriz en forma de rayo en la frente?",
-   "c": [
-    "Ron Weasley",
-    "Harry Potter",
-    "Draco Malfoy",
-    "Neville Longbottom"
-   ]
+   "c": ["Ron Weasley", "Harry Potter", "Draco Malfoy", "Neville Longbottom"]
   },
   "pt": {
    "q": "Qual famoso jovem bruxo do mundo mágico tem uma cicatriz em forma de raio na testa?",
-   "c": [
-    "Ron Weasley",
-    "Harry Potter",
-    "Draco Malfoy",
-    "Neville Longbottom"
-   ]
+   "c": ["Ron Weasley", "Harry Potter", "Draco Malfoy", "Neville Longbottom"]
   },
   "a": 1,
   "image": null,
@@ -1752,48 +877,23 @@
  {
   "fr": {
    "q": "Dans le conte des Frères Grimm, de quelle couleur est le petit chaperon que porte la fillette ?",
-   "c": [
-    "Bleu",
-    "Vert",
-    "Rouge",
-    "Jaune"
-   ]
+   "c": ["Bleu", "Vert", "Rouge", "Jaune"]
   },
   "en": {
    "q": "In the Brothers Grimm tale, what color is the little hood worn by the young girl?",
-   "c": [
-    "Blue",
-    "Green",
-    "Red",
-    "Yellow"
-   ]
+   "c": ["Blue", "Green", "Red", "Yellow"]
   },
   "ar": {
    "q": "في قصة الأخوان غريم، ما هو لون الغطاء (الرداء) الذي ترتديه الفتاة الصغيرة؟",
-   "c": [
-    "أزرق",
-    "أخضر",
-    "أحمر",
-    "أصفر"
-   ]
+   "c": ["أزرق", "أخضر", "أحمر", "أصفر"]
   },
   "es": {
    "q": "En el cuento de los hermanos Grimm, ¿de qué color es la pequeña capa que lleva la niña?",
-   "c": [
-    "Azul",
-    "Verde",
-    "Rojo",
-    "Amarillo"
-   ]
+   "c": ["Azul", "Verde", "Rojo", "Amarillo"]
   },
   "pt": {
    "q": "No conto dos Irmãos Grimm, qual é a cor do capuz que a menina usa?",
-   "c": [
-    "Azul",
-    "Verde",
-    "Vermelho",
-    "Amarelo"
-   ]
+   "c": ["Azul", "Verde", "Vermelho", "Amarelo"]
   },
   "a": 2,
   "image": null,
@@ -1802,48 +902,23 @@
  {
   "fr": {
    "q": "Dans la série animée 'Le Roi Lion', quel est le nom du jeune lion qui doit reprendre le trône après son père Mufasa ?",
-   "c": [
-    "Simba",
-    "Scar",
-    "Timon",
-    "Pumbaa"
-   ]
+   "c": ["Simba", "Scar", "Timon", "Pumbaa"]
   },
   "en": {
    "q": "In the animated film 'The Lion King', what is the name of the young lion who must take the throne after his father Mufasa?",
-   "c": [
-    "Simba",
-    "Scar",
-    "Timon",
-    "Pumbaa"
-   ]
+   "c": ["Simba", "Scar", "Timon", "Pumbaa"]
   },
   "ar": {
    "q": "في فيلم الرسوم المتحركة 'الأسد الملك'، ما هو اسم الأسد الصغير الذي يجب أن يتولى العرش بعد أبيه موفاسا؟",
-   "c": [
-    "سيمبا",
-    "سكار",
-    "تيمون",
-    "بومبا"
-   ]
+   "c": ["سيمبا", "سكار", "تيمون", "بومبا"]
   },
   "es": {
    "q": "En la película animada 'El Rey León', ¿cómo se llama el joven león que debe tomar el trono después de su padre Mufasa?",
-   "c": [
-    "Simba",
-    "Scar",
-    "Timón",
-    "Pumba"
-   ]
+   "c": ["Simba", "Scar", "Timón", "Pumba"]
   },
   "pt": {
    "q": "No filme animado 'O Rei Leão', qual é o nome do jovem leão que deve assumir o trono após seu pai Mufasa?",
-   "c": [
-    "Simba",
-    "Scar",
-    "Timão",
-    "Pumba"
-   ]
+   "c": ["Simba", "Scar", "Timão", "Pumba"]
   },
   "a": 0,
   "image": null,
@@ -1852,48 +927,23 @@
  {
   "fr": {
    "q": "Quel film d'animation se déroule pendant la fête des Morts au Mexique ?",
-   "c": [
-    "Vaiana",
-    "Coco",
-    "Soul",
-    "Encanto"
-   ]
+   "c": ["Vaiana", "Coco", "Soul", "Encanto"]
   },
   "en": {
    "q": "Which animated film takes place during the Day of the Dead in Mexico?",
-   "c": [
-    "Moana",
-    "Coco",
-    "Soul",
-    "Encanto"
-   ]
+   "c": ["Moana", "Coco", "Soul", "Encanto"]
   },
   "ar": {
    "q": "أي فيلم رسوم متحركة تدور أحداثه خلال عيد الموتى في المكسيك؟",
-   "c": [
-    "موانا",
-    "كوكو",
-    "سول",
-    "إنكانتو"
-   ]
+   "c": ["موانا", "كوكو", "سول", "إنكانتو"]
   },
   "es": {
    "q": "¿Qué película de animación transcurre durante el Día de Muertos en México?",
-   "c": [
-    "Moana",
-    "Coco",
-    "Soul",
-    "Encanto"
-   ]
+   "c": ["Moana", "Coco", "Soul", "Encanto"]
   },
   "pt": {
    "q": "Qual animação se passa durante o Dia dos Mortos no México?",
-   "c": [
-    "Moana",
-    "Viva – A Vida é uma Festa",
-    "Soul",
-    "Encanto"
-   ]
+   "c": ["Moana", "Viva – A Vida é uma Festa", "Soul", "Encanto"]
   },
   "a": 1,
   "image": null,
@@ -1902,48 +952,23 @@
  {
   "fr": {
    "q": "Quel chanteur jamaïcain, icône du reggae, a chanté « No Woman, No Cry » ?",
-   "c": [
-    "Jimmy Cliff",
-    "Bob Marley",
-    "Snoop Dogg",
-    "Shaggy"
-   ]
+   "c": ["Jimmy Cliff", "Bob Marley", "Snoop Dogg", "Shaggy"]
   },
   "en": {
    "q": "Which Jamaican singer, a reggae icon, sang 'No Woman, No Cry'?",
-   "c": [
-    "Jimmy Cliff",
-    "Bob Marley",
-    "Snoop Dogg",
-    "Shaggy"
-   ]
+   "c": ["Jimmy Cliff", "Bob Marley", "Snoop Dogg", "Shaggy"]
   },
   "ar": {
    "q": "أي مغنٍّ جامايكي، أيقونة الريغي، غنّى «No Woman, No Cry»؟",
-   "c": [
-    "جيمي كليف",
-    "بوب مارلي",
-    "سنوب دوغ",
-    "شاغي"
-   ]
+   "c": ["جيمي كليف", "بوب مارلي", "سنوب دوغ", "شاغي"]
   },
   "es": {
    "q": "¿Qué cantante jamaiquino, icono del reggae, cantó «No Woman, No Cry»?",
-   "c": [
-    "Jimmy Cliff",
-    "Bob Marley",
-    "Snoop Dogg",
-    "Shaggy"
-   ]
+   "c": ["Jimmy Cliff", "Bob Marley", "Snoop Dogg", "Shaggy"]
   },
   "pt": {
    "q": "Qual cantor jamaicano, ícone do reggae, cantou «No Woman, No Cry»?",
-   "c": [
-    "Jimmy Cliff",
-    "Bob Marley",
-    "Snoop Dogg",
-    "Shaggy"
-   ]
+   "c": ["Jimmy Cliff", "Bob Marley", "Snoop Dogg", "Shaggy"]
   },
   "a": 1,
   "image": null,
@@ -1952,48 +977,23 @@
  {
   "fr": {
    "q": "Quelle série suit une bande en combinaisons rouges et masques de Dalí qui braque la Fabrique nationale de la monnaie d'Espagne ?",
-   "c": [
-    "Élite",
-    "Lupin",
-    "La Casa de Papel",
-    "Narcos"
-   ]
+   "c": ["Élite", "Lupin", "La Casa de Papel", "Narcos"]
   },
   "en": {
    "q": "Which series follows a gang in red jumpsuits and Dalí masks robbing the Royal Mint of Spain?",
-   "c": [
-    "Elite",
-    "Lupin",
-    "Money Heist",
-    "Narcos"
-   ]
+   "c": ["Elite", "Lupin", "Money Heist", "Narcos"]
   },
   "ar": {
    "q": "أي مسلسل يتناول عصابة ترتدي بدلات حمراء وأقنعة دالي تسرق دار سك العملة الإسبانية؟",
-   "c": [
-    "إيليت",
-    "لوبين",
-    "لا كاسا دي بابيل",
-    "ناركوس"
-   ]
+   "c": ["إيليت", "لوبين", "لا كاسا دي بابيل", "ناركوس"]
   },
   "es": {
    "q": "¿Qué serie sigue a una banda con monos rojos y máscaras de Dalí que atraca la Fábrica Nacional de Moneda y Timbre?",
-   "c": [
-    "Élite",
-    "Lupin",
-    "La casa de papel",
-    "Narcos"
-   ]
+   "c": ["Élite", "Lupin", "La casa de papel", "Narcos"]
   },
   "pt": {
    "q": "Qual série acompanha uma gangue de macacões vermelhos e máscaras de Dalí que assalta a Casa da Moeda da Espanha?",
-   "c": [
-    "Elite",
-    "Lupin",
-    "La Casa de Papel",
-    "Narcos"
-   ]
+   "c": ["Elite", "Lupin", "La Casa de Papel", "Narcos"]
   },
   "a": 2,
   "image": null,
@@ -2002,48 +1002,23 @@
  {
   "fr": {
    "q": "Dans quel film Neo doit-il choisir entre la pilule rouge et la pilule bleue ?",
-   "c": [
-    "Inception",
-    "Matrix",
-    "Avatar",
-    "Tron"
-   ]
+   "c": ["Inception", "Matrix", "Avatar", "Tron"]
   },
   "en": {
    "q": "In which film must Neo choose between the red pill and the blue pill?",
-   "c": [
-    "Inception",
-    "The Matrix",
-    "Avatar",
-    "Tron"
-   ]
+   "c": ["Inception", "The Matrix", "Avatar", "Tron"]
   },
   "ar": {
    "q": "في أي فيلم يجب على نيو أن يختار بين الحبة الحمراء والحبة الزرقاء؟",
-   "c": [
-    "إنسبشن",
-    "ماتريكس",
-    "أفاتار",
-    "ترون"
-   ]
+   "c": ["إنسبشن", "ماتريكس", "أفاتار", "ترون"]
   },
   "es": {
    "q": "¿En qué película debe Neo elegir entre la pastilla roja y la azul?",
-   "c": [
-    "Inception",
-    "Matrix",
-    "Avatar",
-    "Tron"
-   ]
+   "c": ["Inception", "Matrix", "Avatar", "Tron"]
   },
   "pt": {
    "q": "Em qual filme Neo precisa escolher entre a pílula vermelha e a azul?",
-   "c": [
-    "A Origem",
-    "Matrix",
-    "Avatar",
-    "Tron"
-   ]
+   "c": ["A Origem", "Matrix", "Avatar", "Tron"]
   },
   "a": 1,
   "image": null,
@@ -2052,48 +1027,23 @@
  {
   "fr": {
    "q": "Quel chanteur est connu pour le tube mondial « Despacito » avec Daddy Yankee ?",
-   "c": [
-    "Maluma",
-    "Shakira",
-    "Luis Fonsi",
-    "Enrique Iglesias"
-   ]
+   "c": ["Maluma", "Shakira", "Luis Fonsi", "Enrique Iglesias"]
   },
   "en": {
    "q": "Which singer is known for the worldwide hit 'Despacito' with Daddy Yankee?",
-   "c": [
-    "Maluma",
-    "Shakira",
-    "Luis Fonsi",
-    "Enrique Iglesias"
-   ]
+   "c": ["Maluma", "Shakira", "Luis Fonsi", "Enrique Iglesias"]
   },
   "ar": {
    "q": "أي مغنٍّ اشتهر بالأغنية العالمية «Despacito» مع دادي يانكي؟",
-   "c": [
-    "مالوما",
-    "شاكيرا",
-    "لويس فونسي",
-    "إنريكي إغليسياس"
-   ]
+   "c": ["مالوما", "شاكيرا", "لويس فونسي", "إنريكي إغليسياس"]
   },
   "es": {
    "q": "¿Qué cantante es conocido por el éxito mundial «Despacito» junto a Daddy Yankee?",
-   "c": [
-    "Maluma",
-    "Shakira",
-    "Luis Fonsi",
-    "Enrique Iglesias"
-   ]
+   "c": ["Maluma", "Shakira", "Luis Fonsi", "Enrique Iglesias"]
   },
   "pt": {
    "q": "Qual cantor é conhecido pelo sucesso mundial «Despacito» com Daddy Yankee?",
-   "c": [
-    "Maluma",
-    "Shakira",
-    "Luis Fonsi",
-    "Enrique Iglesias"
-   ]
+   "c": ["Maluma", "Shakira", "Luis Fonsi", "Enrique Iglesias"]
   },
   "a": 2,
   "image": null,
@@ -2102,48 +1052,23 @@
  {
   "fr": {
    "q": "Quelle chanteuse est célèbre pour « Umbrella » et « Diamonds » ?",
-   "c": [
-    "Ariana Grande",
-    "Katy Perry",
-    "Rihanna",
-    "Beyoncé"
-   ]
+   "c": ["Ariana Grande", "Katy Perry", "Rihanna", "Beyoncé"]
   },
   "en": {
    "q": "Which singer is famous for 'Umbrella' and 'Diamonds'?",
-   "c": [
-    "Ariana Grande",
-    "Katy Perry",
-    "Rihanna",
-    "Beyoncé"
-   ]
+   "c": ["Ariana Grande", "Katy Perry", "Rihanna", "Beyoncé"]
   },
   "ar": {
    "q": "أي مغنية اشتهرت بأغنيتي «Umbrella» و«Diamonds»؟",
-   "c": [
-    "أريانا غراندي",
-    "كيتي بيري",
-    "ريهانا",
-    "بيونسيه"
-   ]
+   "c": ["أريانا غراندي", "كيتي بيري", "ريهانا", "بيونسيه"]
   },
   "es": {
    "q": "¿Qué cantante es famosa por «Umbrella» y «Diamonds»?",
-   "c": [
-    "Ariana Grande",
-    "Katy Perry",
-    "Rihanna",
-    "Beyoncé"
-   ]
+   "c": ["Ariana Grande", "Katy Perry", "Rihanna", "Beyoncé"]
   },
   "pt": {
    "q": "Qual cantora é famosa por «Umbrella» e «Diamonds»?",
-   "c": [
-    "Ariana Grande",
-    "Katy Perry",
-    "Rihanna",
-    "Beyoncé"
-   ]
+   "c": ["Ariana Grande", "Katy Perry", "Rihanna", "Beyoncé"]
   },
   "a": 2,
   "image": null,
@@ -2152,48 +1077,23 @@
  {
   "fr": {
    "q": "Quelle chanteuse est connue pour le tube « Bad Guy » ?",
-   "c": [
-    "Ariana Grande",
-    "Olivia Rodrigo",
-    "Dua Lipa",
-    "Billie Eilish"
-   ]
+   "c": ["Ariana Grande", "Olivia Rodrigo", "Dua Lipa", "Billie Eilish"]
   },
   "en": {
    "q": "Which singer is known for the hit 'Bad Guy'?",
-   "c": [
-    "Ariana Grande",
-    "Olivia Rodrigo",
-    "Dua Lipa",
-    "Billie Eilish"
-   ]
+   "c": ["Ariana Grande", "Olivia Rodrigo", "Dua Lipa", "Billie Eilish"]
   },
   "ar": {
    "q": "أي مغنية اشتهرت بأغنية «Bad Guy»؟",
-   "c": [
-    "أريانا غراندي",
-    "أوليفيا رودريغو",
-    "دوا ليبا",
-    "بيلي إيليش"
-   ]
+   "c": ["أريانا غراندي", "أوليفيا رودريغو", "دوا ليبا", "بيلي إيليش"]
   },
   "es": {
    "q": "¿Qué cantante es conocida por el éxito «Bad Guy»?",
-   "c": [
-    "Ariana Grande",
-    "Olivia Rodrigo",
-    "Dua Lipa",
-    "Billie Eilish"
-   ]
+   "c": ["Ariana Grande", "Olivia Rodrigo", "Dua Lipa", "Billie Eilish"]
   },
   "pt": {
    "q": "Qual cantora é conhecida pelo sucesso «Bad Guy»?",
-   "c": [
-    "Ariana Grande",
-    "Olivia Rodrigo",
-    "Dua Lipa",
-    "Billie Eilish"
-   ]
+   "c": ["Ariana Grande", "Olivia Rodrigo", "Dua Lipa", "Billie Eilish"]
   },
   "a": 3,
   "image": null,
@@ -2202,48 +1102,23 @@
  {
   "fr": {
    "q": "Quel héros Marvel manie un marteau magique appelé Mjöllnir ?",
-   "c": [
-    "Captain America",
-    "Iron Man",
-    "Hulk",
-    "Thor"
-   ]
+   "c": ["Captain America", "Iron Man", "Hulk", "Thor"]
   },
   "en": {
    "q": "Which Marvel hero wields a magic hammer called Mjölnir?",
-   "c": [
-    "Captain America",
-    "Iron Man",
-    "Hulk",
-    "Thor"
-   ]
+   "c": ["Captain America", "Iron Man", "Hulk", "Thor"]
   },
   "ar": {
    "q": "أي بطل من مارفل يحمل مطرقة سحرية اسمها مجولنير؟",
-   "c": [
-    "كابتن أمريكا",
-    "الرجل الحديدي",
-    "هالك",
-    "ثور"
-   ]
+   "c": ["كابتن أمريكا", "الرجل الحديدي", "هالك", "ثور"]
   },
   "es": {
    "q": "¿Qué héroe de Marvel maneja un martillo mágico llamado Mjölnir?",
-   "c": [
-    "Captain America",
-    "Iron Man",
-    "Hulk",
-    "Thor"
-   ]
+   "c": ["Captain America", "Iron Man", "Hulk", "Thor"]
   },
   "pt": {
    "q": "Qual herói da Marvel empunha um martelo mágico chamado Mjölnir?",
-   "c": [
-    "Captain America",
-    "Iron Man",
-    "Hulk",
-    "Thor"
-   ]
+   "c": ["Captain America", "Iron Man", "Hulk", "Thor"]
   },
   "a": 3,
   "image": null,
@@ -2252,48 +1127,23 @@
  {
   "fr": {
    "q": "Quel film de science-fiction réalisé par Christopher Nolan explore les voyages à travers les trous de ver et la dilatation du temps ?",
-   "c": [
-    "Blade Runner 2049",
-    "Interstellar",
-    "Seul sur Mars",
-    "Premier Contact"
-   ]
+   "c": ["Blade Runner 2049", "Interstellar", "Seul sur Mars", "Premier Contact"]
   },
   "en": {
    "q": "Which sci-fi film directed by Christopher Nolan explores wormhole travel and time dilation?",
-   "c": [
-    "Blade Runner 2049",
-    "Interstellar",
-    "The Martian",
-    "Arrival"
-   ]
+   "c": ["Blade Runner 2049", "Interstellar", "The Martian", "Arrival"]
   },
   "ar": {
    "q": "أي فيلم خيال علمي من إخراج كريستوفر نولان يستكشف السفر عبر الثقوب الدودية وتمدد الزمن؟",
-   "c": [
-    "Blade Runner 2049",
-    "Interstellar",
-    "المريخي",
-    "Arrival"
-   ]
+   "c": ["Blade Runner 2049", "Interstellar", "المريخي", "Arrival"]
   },
   "es": {
    "q": "¿Qué película de ciencia ficción dirigida por Christopher Nolan explora los viajes a través de agujeros de gusano y la dilatación del tiempo?",
-   "c": [
-    "Blade Runner 2049",
-    "Interstellar",
-    "Marte",
-    "La llegada"
-   ]
+   "c": ["Blade Runner 2049", "Interstellar", "Marte", "La llegada"]
   },
   "pt": {
    "q": "Qual filme de ficção científica dirigido por Christopher Nolan explora viagens por buracos de minhoca e dilatação do tempo?",
-   "c": [
-    "Blade Runner 2049",
-    "Interstellar",
-    "Perdido em Marte",
-    "A Chegada"
-   ]
+   "c": ["Blade Runner 2049", "Interstellar", "Perdido em Marte", "A Chegada"]
   },
   "a": 1,
   "image": null,
@@ -2302,48 +1152,23 @@
  {
   "fr": {
    "q": "Quel groupe de K-pop est célèbre pour le tube « Dynamite » ?",
-   "c": [
-    "BTS",
-    "BLACKPINK",
-    "EXO",
-    "TWICE"
-   ]
+   "c": ["BTS", "BLACKPINK", "EXO", "TWICE"]
   },
   "en": {
    "q": "Which K-pop band is famous for the hit 'Dynamite'?",
-   "c": [
-    "BTS",
-    "BLACKPINK",
-    "EXO",
-    "TWICE"
-   ]
+   "c": ["BTS", "BLACKPINK", "EXO", "TWICE"]
   },
   "ar": {
    "q": "أي فرقة كيبوب اشتهرت بأغنية «Dynamite»؟",
-   "c": [
-    "بي تي إس",
-    "بلاك بينك",
-    "إكسو",
-    "تويس"
-   ]
+   "c": ["بي تي إس", "بلاك بينك", "إكسو", "تويس"]
   },
   "es": {
    "q": "¿Qué grupo de K-pop es famoso por el éxito «Dynamite»?",
-   "c": [
-    "BTS",
-    "BLACKPINK",
-    "EXO",
-    "TWICE"
-   ]
+   "c": ["BTS", "BLACKPINK", "EXO", "TWICE"]
   },
   "pt": {
    "q": "Qual grupo de K-pop é famoso pelo sucesso «Dynamite»?",
-   "c": [
-    "BTS",
-    "BLACKPINK",
-    "EXO",
-    "TWICE"
-   ]
+   "c": ["BTS", "BLACKPINK", "EXO", "TWICE"]
   },
   "a": 0,
   "image": null,
@@ -2352,48 +1177,23 @@
  {
   "fr": {
    "q": "Dans la série télévisée 'Breaking Bad', quel est le véritable métier de Walter White avant qu'il ne commence à fabriquer de la méthamphétamine ?",
-   "c": [
-    "Avocat",
-    "Professeur de chimie au lycée",
-    "Médecin",
-    "Policier"
-   ]
+   "c": ["Avocat", "Professeur de chimie au lycée", "Médecin", "Policier"]
   },
   "en": {
    "q": "In the TV series 'Breaking Bad', what is Walter White's real profession before he starts manufacturing methamphetamine?",
-   "c": [
-    "Lawyer",
-    "High school chemistry teacher",
-    "Doctor",
-    "Police officer"
-   ]
+   "c": ["Lawyer", "High school chemistry teacher", "Doctor", "Police officer"]
   },
   "ar": {
    "q": "في المسلسل التلفزيوني 'Breaking Bad'، ما هي مهنة والتر وايت الحقيقية قبل أن يبدأ في صنع الميثامفيتامين؟",
-   "c": [
-    "محامٍ",
-    "معلم كيمياء في المدرسة الثانوية",
-    "طبيب",
-    "ضابط شرطة"
-   ]
+   "c": ["محامٍ", "معلم كيمياء في المدرسة الثانوية", "طبيب", "ضابط شرطة"]
   },
   "es": {
    "q": "En la serie de televisión 'Breaking Bad', ¿cuál es la verdadera profesión de Walter White antes de empezar a fabricar metanfetamina?",
-   "c": [
-    "Abogado",
-    "Profesor de química de secundaria",
-    "Médico",
-    "Policía"
-   ]
+   "c": ["Abogado", "Profesor de química de secundaria", "Médico", "Policía"]
   },
   "pt": {
    "q": "Na série de TV 'Breaking Bad', qual é a verdadeira profissão de Walter White antes de começar a fabricar metanfetamina?",
-   "c": [
-    "Advogado",
-    "Professor de química do ensino médio",
-    "Médico",
-    "Policial"
-   ]
+   "c": ["Advogado", "Professor de química do ensino médio", "Médico", "Policial"]
   },
   "a": 1,
   "image": null,
@@ -2402,48 +1202,23 @@
  {
   "fr": {
    "q": "Quelle chanteuse est connue pour la chanson « Rolling in the Deep » ?",
-   "c": [
-    "Lady Gaga",
-    "Rihanna",
-    "Taylor Swift",
-    "Adele"
-   ]
+   "c": ["Lady Gaga", "Rihanna", "Taylor Swift", "Adele"]
   },
   "en": {
    "q": "Which singer is known for the song 'Rolling in the Deep'?",
-   "c": [
-    "Lady Gaga",
-    "Rihanna",
-    "Taylor Swift",
-    "Adele"
-   ]
+   "c": ["Lady Gaga", "Rihanna", "Taylor Swift", "Adele"]
   },
   "ar": {
    "q": "أي مغنية اشتهرت بأغنية «Rolling in the Deep»؟",
-   "c": [
-    "ليدي غاغا",
-    "ريهانا",
-    "تايلور سويفت",
-    "أديل"
-   ]
+   "c": ["ليدي غاغا", "ريهانا", "تايلور سويفت", "أديل"]
   },
   "es": {
    "q": "¿Qué cantante es conocida por la canción «Rolling in the Deep»?",
-   "c": [
-    "Lady Gaga",
-    "Rihanna",
-    "Taylor Swift",
-    "Adele"
-   ]
+   "c": ["Lady Gaga", "Rihanna", "Taylor Swift", "Adele"]
   },
   "pt": {
    "q": "Qual cantora é conhecida pela música «Rolling in the Deep»?",
-   "c": [
-    "Lady Gaga",
-    "Rihanna",
-    "Taylor Swift",
-    "Adele"
-   ]
+   "c": ["Lady Gaga", "Rihanna", "Taylor Swift", "Adele"]
   },
   "a": 3,
   "image": null,
@@ -2452,48 +1227,23 @@
  {
   "fr": {
    "q": "Dans la saga de films 'Harry Potter', dans quelle maison de l'école de Poudlard le héros est-il réparti ?",
-   "c": [
-    "Serpentard",
-    "Gryffondor",
-    "Poufsouffle",
-    "Serdaigle"
-   ]
+   "c": ["Serpentard", "Gryffondor", "Poufsouffle", "Serdaigle"]
   },
   "en": {
    "q": "In the 'Harry Potter' film series, which Hogwarts house is the hero sorted into?",
-   "c": [
-    "Slytherin",
-    "Gryffindor",
-    "Hufflepuff",
-    "Ravenclaw"
-   ]
+   "c": ["Slytherin", "Gryffindor", "Hufflepuff", "Ravenclaw"]
   },
   "ar": {
    "q": "في سلسلة أفلام 'هاري بوتر'، إلى أي منزل في مدرسة هوغوورتس يتم فرز البطل؟",
-   "c": [
-    "سليذيرين",
-    "غريفيندور",
-    "هافلباف",
-    "رافينكلو"
-   ]
+   "c": ["سليذيرين", "غريفيندور", "هافلباف", "رافينكلو"]
   },
   "es": {
    "q": "En la saga de películas de 'Harry Potter', ¿en qué casa de la escuela Hogwarts es asignado el héroe?",
-   "c": [
-    "Slytherin",
-    "Gryffindor",
-    "Hufflepuff",
-    "Ravenclaw"
-   ]
+   "c": ["Slytherin", "Gryffindor", "Hufflepuff", "Ravenclaw"]
   },
   "pt": {
    "q": "Na série de filmes 'Harry Potter', em qual casa da escola Hogwarts o herói é colocado?",
-   "c": [
-    "Sonserina",
-    "Grifinória",
-    "Lufa-Lufa",
-    "Corvinal"
-   ]
+   "c": ["Sonserina", "Grifinória", "Lufa-Lufa", "Corvinal"]
   },
   "a": 1,
   "image": null,
@@ -2502,48 +1252,23 @@
  {
   "fr": {
    "q": "Quel groupe a chanté « Hey Jude » et « Yesterday » ?",
-   "c": [
-    "Queen",
-    "The Beatles",
-    "The Rolling Stones",
-    "ABBA"
-   ]
+   "c": ["Queen", "The Beatles", "The Rolling Stones", "ABBA"]
   },
   "en": {
    "q": "Which band sang 'Hey Jude' and 'Yesterday'?",
-   "c": [
-    "Queen",
-    "The Beatles",
-    "The Rolling Stones",
-    "ABBA"
-   ]
+   "c": ["Queen", "The Beatles", "The Rolling Stones", "ABBA"]
   },
   "ar": {
    "q": "أي فرقة غنّت «Hey Jude» و«Yesterday»؟",
-   "c": [
-    "كوين",
-    "البيتلز",
-    "رولينغ ستونز",
-    "آبا"
-   ]
+   "c": ["كوين", "البيتلز", "رولينغ ستونز", "آبا"]
   },
   "es": {
    "q": "¿Qué banda cantó «Hey Jude» y «Yesterday»?",
-   "c": [
-    "Queen",
-    "The Beatles",
-    "The Rolling Stones",
-    "ABBA"
-   ]
+   "c": ["Queen", "The Beatles", "The Rolling Stones", "ABBA"]
   },
   "pt": {
    "q": "Qual banda cantou «Hey Jude» e «Yesterday»?",
-   "c": [
-    "Queen",
-    "The Beatles",
-    "The Rolling Stones",
-    "ABBA"
-   ]
+   "c": ["Queen", "The Beatles", "The Rolling Stones", "ABBA"]
   },
   "a": 1,
   "image": null,
@@ -2552,48 +1277,23 @@
  {
   "fr": {
    "q": "Quelle série suit six amis à New York qui se retrouvent souvent au café Central Perk ?",
-   "c": [
-    "Friends",
-    "The Office",
-    "How I Met Your Mother",
-    "Seinfeld"
-   ]
+   "c": ["Friends", "The Office", "How I Met Your Mother", "Seinfeld"]
   },
   "en": {
    "q": "Which TV series follows six friends in New York who often meet at the Central Perk café?",
-   "c": [
-    "Friends",
-    "The Office",
-    "How I Met Your Mother",
-    "Seinfeld"
-   ]
+   "c": ["Friends", "The Office", "How I Met Your Mother", "Seinfeld"]
   },
   "ar": {
    "q": "أي مسلسل يتابع ستة أصدقاء في نيويورك يلتقون غالبًا في مقهى سنترال بيرك؟",
-   "c": [
-    "فريندز",
-    "ذا أوفيس",
-    "كيف قابلت أمكم",
-    "سينفيلد"
-   ]
+   "c": ["فريندز", "ذا أوفيس", "كيف قابلت أمكم", "سينفيلد"]
   },
   "es": {
    "q": "¿Qué serie sigue a seis amigos en Nueva York que suelen reunirse en el café Central Perk?",
-   "c": [
-    "Friends",
-    "The Office",
-    "Cómo conocí a vuestra madre",
-    "Seinfeld"
-   ]
+   "c": ["Friends", "The Office", "Cómo conocí a vuestra madre", "Seinfeld"]
   },
   "pt": {
    "q": "Qual série acompanha seis amigos em Nova York que costumam se encontrar no café Central Perk?",
-   "c": [
-    "Friends",
-    "The Office",
-    "How I Met Your Mother",
-    "Seinfeld"
-   ]
+   "c": ["Friends", "The Office", "How I Met Your Mother", "Seinfeld"]
   },
   "a": 0,
   "image": null,
@@ -2602,48 +1302,23 @@
  {
   "fr": {
    "q": "Quel personnage de Star Wars dit à Luke Skywalker : « Je suis ton père » ?",
-   "c": [
-    "Obi-Wan Kenobi",
-    "Dark Vador",
-    "Yoda",
-    "Han Solo"
-   ]
+   "c": ["Obi-Wan Kenobi", "Dark Vador", "Yoda", "Han Solo"]
   },
   "en": {
    "q": "Which Star Wars character tells Luke Skywalker 'I am your father'?",
-   "c": [
-    "Obi-Wan Kenobi",
-    "Darth Vader",
-    "Yoda",
-    "Han Solo"
-   ]
+   "c": ["Obi-Wan Kenobi", "Darth Vader", "Yoda", "Han Solo"]
   },
   "ar": {
    "q": "أي شخصية في «حرب النجوم» تقول للوك سكاي ووكر: «أنا والدك»؟",
-   "c": [
-    "أوبي وان كينوبي",
-    "دارث فيدر",
-    "يودا",
-    "هان سولو"
-   ]
+   "c": ["أوبي وان كينوبي", "دارث فيدر", "يودا", "هان سولو"]
   },
   "es": {
    "q": "¿Qué personaje de Star Wars le dice a Luke Skywalker «Yo soy tu padre»?",
-   "c": [
-    "Obi-Wan Kenobi",
-    "Darth Vader",
-    "Yoda",
-    "Han Solo"
-   ]
+   "c": ["Obi-Wan Kenobi", "Darth Vader", "Yoda", "Han Solo"]
   },
   "pt": {
    "q": "Qual personagem de Star Wars diz a Luke Skywalker «Eu sou seu pai»?",
-   "c": [
-    "Obi-Wan Kenobi",
-    "Darth Vader",
-    "Yoda",
-    "Han Solo"
-   ]
+   "c": ["Obi-Wan Kenobi", "Darth Vader", "Yoda", "Han Solo"]
   },
   "a": 1,
   "image": null,
@@ -2652,48 +1327,23 @@
  {
   "fr": {
    "q": "Quel chanteur est surnommé le « Roi du rock'n'roll » ?",
-   "c": [
-    "Chuck Berry",
-    "Elvis Presley",
-    "Johnny Cash",
-    "Little Richard"
-   ]
+   "c": ["Chuck Berry", "Elvis Presley", "Johnny Cash", "Little Richard"]
   },
   "en": {
    "q": "Which singer is called 'The King of Rock and Roll'?",
-   "c": [
-    "Chuck Berry",
-    "Elvis Presley",
-    "Johnny Cash",
-    "Little Richard"
-   ]
+   "c": ["Chuck Berry", "Elvis Presley", "Johnny Cash", "Little Richard"]
   },
   "ar": {
    "q": "أي مغنٍّ يُلقَّب بـ«ملك الروك أند رول»؟",
-   "c": [
-    "تشاك بيري",
-    "إلفيس بريسلي",
-    "جوني كاش",
-    "ليتل ريتشارد"
-   ]
+   "c": ["تشاك بيري", "إلفيس بريسلي", "جوني كاش", "ليتل ريتشارد"]
   },
   "es": {
    "q": "¿Qué cantante es llamado el «Rey del rock and roll»?",
-   "c": [
-    "Chuck Berry",
-    "Elvis Presley",
-    "Johnny Cash",
-    "Little Richard"
-   ]
+   "c": ["Chuck Berry", "Elvis Presley", "Johnny Cash", "Little Richard"]
   },
   "pt": {
    "q": "Qual cantor é chamado de «Rei do Rock and Roll»?",
-   "c": [
-    "Chuck Berry",
-    "Elvis Presley",
-    "Johnny Cash",
-    "Little Richard"
-   ]
+   "c": ["Chuck Berry", "Elvis Presley", "Johnny Cash", "Little Richard"]
   },
   "a": 1,
   "image": null,
@@ -2702,48 +1352,23 @@
  {
   "fr": {
    "q": "Quelle série met en scène des dragons, sept royaumes et le Trône de fer ?",
-   "c": [
-    "Vikings",
-    "Merlin",
-    "The Witcher",
-    "Game of Thrones"
-   ]
+   "c": ["Vikings", "Merlin", "The Witcher", "Game of Thrones"]
   },
   "en": {
    "q": "Which TV series features dragons, seven kingdoms and the Iron Throne?",
-   "c": [
-    "Vikings",
-    "Merlin",
-    "The Witcher",
-    "Game of Thrones"
-   ]
+   "c": ["Vikings", "Merlin", "The Witcher", "Game of Thrones"]
   },
   "ar": {
    "q": "أي مسلسل يضم التنانين والممالك السبع وعرش الحديد؟",
-   "c": [
-    "فايكنغز",
-    "ميرلين",
-    "ذا ويتشر",
-    "صراع العروش"
-   ]
+   "c": ["فايكنغز", "ميرلين", "ذا ويتشر", "صراع العروش"]
   },
   "es": {
    "q": "¿Qué serie presenta dragones, siete reinos y el Trono de Hierro?",
-   "c": [
-    "Vikingos",
-    "Merlín",
-    "The Witcher",
-    "Juego de tronos"
-   ]
+   "c": ["Vikingos", "Merlín", "The Witcher", "Juego de tronos"]
   },
   "pt": {
    "q": "Qual série tem dragões, sete reinos e o Trono de Ferro?",
-   "c": [
-    "Vikings",
-    "Merlin",
-    "The Witcher",
-    "Game of Thrones"
-   ]
+   "c": ["Vikings", "Merlin", "The Witcher", "Game of Thrones"]
   },
   "a": 3,
   "image": null,
@@ -2752,48 +1377,23 @@
  {
   "fr": {
    "q": "Quel chanteur canadien, découvert sur YouTube, a chanté « Baby » ?",
-   "c": [
-    "Shawn Mendes",
-    "Drake",
-    "The Weeknd",
-    "Justin Bieber"
-   ]
+   "c": ["Shawn Mendes", "Drake", "The Weeknd", "Justin Bieber"]
   },
   "en": {
    "q": "Which Canadian singer, discovered on YouTube, sang 'Baby'?",
-   "c": [
-    "Shawn Mendes",
-    "Drake",
-    "The Weeknd",
-    "Justin Bieber"
-   ]
+   "c": ["Shawn Mendes", "Drake", "The Weeknd", "Justin Bieber"]
   },
   "ar": {
    "q": "أي مغنٍّ كندي، اكتُشف عبر يوتيوب، غنّى «Baby»؟",
-   "c": [
-    "شون مينديز",
-    "درايك",
-    "ذا ويكند",
-    "جاستن بيبر"
-   ]
+   "c": ["شون مينديز", "درايك", "ذا ويكند", "جاستن بيبر"]
   },
   "es": {
    "q": "¿Qué cantante canadiense, descubierto en YouTube, cantó «Baby»?",
-   "c": [
-    "Shawn Mendes",
-    "Drake",
-    "The Weeknd",
-    "Justin Bieber"
-   ]
+   "c": ["Shawn Mendes", "Drake", "The Weeknd", "Justin Bieber"]
   },
   "pt": {
    "q": "Qual cantor canadense, descoberto no YouTube, cantou «Baby»?",
-   "c": [
-    "Shawn Mendes",
-    "Drake",
-    "The Weeknd",
-    "Justin Bieber"
-   ]
+   "c": ["Shawn Mendes", "Drake", "The Weeknd", "Justin Bieber"]
   },
   "a": 3,
   "image": null,
@@ -2802,48 +1402,23 @@
  {
   "fr": {
    "q": "Quel jeu de battle royale est connu pour l'expression « Victory Royale » ?",
-   "c": [
-    "PUBG",
-    "Free Fire",
-    "Apex Legends",
-    "Fortnite"
-   ]
+   "c": ["PUBG", "Free Fire", "Apex Legends", "Fortnite"]
   },
   "en": {
    "q": "Which battle royale game is known for the phrase 'Victory Royale'?",
-   "c": [
-    "PUBG",
-    "Free Fire",
-    "Apex Legends",
-    "Fortnite"
-   ]
+   "c": ["PUBG", "Free Fire", "Apex Legends", "Fortnite"]
   },
   "ar": {
    "q": "أي لعبة باتل رويال تشتهر بعبارة «Victory Royale»؟",
-   "c": [
-    "ببجي",
-    "فري فاير",
-    "أبكس ليجندز",
-    "فورتنايت"
-   ]
+   "c": ["ببجي", "فري فاير", "أبكس ليجندز", "فورتنايت"]
   },
   "es": {
    "q": "¿Qué juego de battle royale es conocido por la frase «Victory Royale»?",
-   "c": [
-    "PUBG",
-    "Free Fire",
-    "Apex Legends",
-    "Fortnite"
-   ]
+   "c": ["PUBG", "Free Fire", "Apex Legends", "Fortnite"]
   },
   "pt": {
    "q": "Qual jogo de battle royale é conhecido pela expressão «Victory Royale»?",
-   "c": [
-    "PUBG",
-    "Free Fire",
-    "Apex Legends",
-    "Fortnite"
-   ]
+   "c": ["PUBG", "Free Fire", "Apex Legends", "Fortnite"]
   },
   "a": 3,
   "image": null,
@@ -2852,48 +1427,23 @@
  {
   "fr": {
    "q": "Dans la série 'Stranger Things', comment s'appelle la mystérieuse fillette dotée de pouvoirs télékinétiques ?",
-   "c": [
-    "Max",
-    "Eleven (Onze)",
-    "Nancy",
-    "Robin"
-   ]
+   "c": ["Max", "Eleven (Onze)", "Nancy", "Robin"]
   },
   "en": {
    "q": "In the series 'Stranger Things', what is the name of the mysterious young girl with telekinetic powers?",
-   "c": [
-    "Max",
-    "Eleven",
-    "Nancy",
-    "Robin"
-   ]
+   "c": ["Max", "Eleven", "Nancy", "Robin"]
   },
   "ar": {
    "q": "في مسلسل 'Stranger Things'، ما هو اسم الفتاة الصغيرة الغامضة التي تمتلك قوى تحريك الأجسام عن بعد؟",
-   "c": [
-    "ماكس",
-    "إلفين (Eleven)",
-    "نانسي",
-    "روبين"
-   ]
+   "c": ["ماكس", "إلفين (Eleven)", "نانسي", "روبين"]
   },
   "es": {
    "q": "En la serie 'Stranger Things', ¿cómo se llama la misteriosa niña con poderes telequinéticos?",
-   "c": [
-    "Max",
-    "Eleven",
-    "Nancy",
-    "Robin"
-   ]
+   "c": ["Max", "Eleven", "Nancy", "Robin"]
   },
   "pt": {
    "q": "Na série 'Stranger Things', qual é o nome da misteriosa garota com poderes telecinéticos?",
-   "c": [
-    "Max",
-    "Eleven",
-    "Nancy",
-    "Robin"
-   ]
+   "c": ["Max", "Eleven", "Nancy", "Robin"]
   },
   "a": 1,
   "image": null,
@@ -2902,48 +1452,23 @@
  {
   "fr": {
    "q": "Quel super-héros Marvel se cache derrière Tony Stark ?",
-   "c": [
-    "Iron Man",
-    "Captain America",
-    "Thor",
-    "Hulk"
-   ]
+   "c": ["Iron Man", "Captain America", "Thor", "Hulk"]
   },
   "en": {
    "q": "Which Marvel superhero is Tony Stark?",
-   "c": [
-    "Iron Man",
-    "Captain America",
-    "Thor",
-    "Hulk"
-   ]
+   "c": ["Iron Man", "Captain America", "Thor", "Hulk"]
   },
   "ar": {
    "q": "أي بطل خارق من مارفل هو توني ستارك؟",
-   "c": [
-    "الرجل الحديدي",
-    "كابتن أمريكا",
-    "ثور",
-    "هالك"
-   ]
+   "c": ["الرجل الحديدي", "كابتن أمريكا", "ثور", "هالك"]
   },
   "es": {
    "q": "¿Qué superhéroe de Marvel es Tony Stark?",
-   "c": [
-    "Iron Man",
-    "Captain America",
-    "Thor",
-    "Hulk"
-   ]
+   "c": ["Iron Man", "Captain America", "Thor", "Hulk"]
   },
   "pt": {
    "q": "Qual super-herói da Marvel é Tony Stark?",
-   "c": [
-    "Iron Man",
-    "Captain America",
-    "Thor",
-    "Hulk"
-   ]
+   "c": ["Iron Man", "Captain America", "Thor", "Hulk"]
   },
   "a": 0,
   "image": null,
@@ -2952,51 +1477,336 @@
  {
   "fr": {
    "q": "Dans la série « Squid Game », quel jeu d'enfants est joué lors de la première épreuve ?",
-   "c": [
-    "La marelle",
-    "Chat perché",
-    "1, 2, 3, soleil",
-    "Cache-cache"
-   ]
+   "c": ["La marelle", "Chat perché", "1, 2, 3, soleil", "Cache-cache"]
   },
   "en": {
    "q": "In the series 'Squid Game', which children's game is played in the first challenge?",
-   "c": [
-    "Hopscotch",
-    "Tag",
-    "Red Light, Green Light",
-    "Hide-and-seek"
-   ]
+   "c": ["Hopscotch", "Tag", "Red Light, Green Light", "Hide-and-seek"]
   },
   "ar": {
    "q": "في مسلسل «لعبة الحبار»، أي لعبة أطفال تُلعب في التحدي الأول؟",
-   "c": [
-    "لعبة الحجلة",
-    "لعبة المطاردة",
-    "الضوء الأحمر والضوء الأخضر",
-    "الغميضة"
-   ]
+   "c": ["لعبة الحجلة", "لعبة المطاردة", "الضوء الأحمر والضوء الأخضر", "الغميضة"]
   },
   "es": {
    "q": "En la serie «El juego del calamar», ¿qué juego infantil se juega en la primera prueba?",
-   "c": [
-    "La rayuela",
-    "El pillapilla",
-    "Luz roja, luz verde",
-    "Escondite"
-   ]
+   "c": ["La rayuela", "El pillapilla", "Luz roja, luz verde", "Escondite"]
   },
   "pt": {
    "q": "Na série «Round 6», qual brincadeira infantil é jogada no primeiro desafio?",
-   "c": [
-    "Amarelinha",
-    "Pega-pega",
-    "Luz vermelha, luz verde",
-    "Esconde-esconde"
-   ]
+   "c": ["Amarelinha", "Pega-pega", "Luz vermelha, luz verde", "Esconde-esconde"]
   },
   "a": 2,
   "image": null,
   "level": 6
- }
-]
+ },
+ {
+  "fr": {
+   "q": "Quel groupe de rock britannique a sorti l'album iconique « The Dark Side of the Moon » en 1973 ?",
+   "c": ["Led Zeppelin", "Pink Floyd", "The Rolling Stones", "The Who"]
+  },
+  "en": {
+   "q": "Which British rock band released the iconic album 'The Dark Side of the Moon' in 1973?",
+   "c": ["Led Zeppelin", "Pink Floyd", "The Rolling Stones", "The Who"]
+  },
+  "ar": {
+   "q": "أي فرقة روك بريطانية أطلقت ألبوم «The Dark Side of the Moon» الشهير عام 1973؟",
+   "c": ["ليد زيبلين", "بينك فلويد", "رولينغ ستونز", "ذا هو"]
+  },
+  "es": {
+   "q": "¿Qué banda de rock británica lanzó el icónico álbum «The Dark Side of the Moon» en 1973?",
+   "c": ["Led Zeppelin", "Pink Floyd", "The Rolling Stones", "The Who"]
+  },
+  "pt": {
+   "q": "Qual banda de rock britânica lançou o icônico álbum «The Dark Side of the Moon» em 1973?",
+   "c": ["Led Zeppelin", "Pink Floyd", "The Rolling Stones", "The Who"]
+  },
+  "a": 1,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Dans la trilogie « Le Seigneur des Anneaux », quel est le véritable nom de la créature Gollum avant qu'elle ne trouve l'Anneau ?",
+   "c": ["Sméagol", "Frodon", "Bilbon", "Sauron"]
+  },
+  "en": {
+   "q": "In 'The Lord of the Rings' trilogy, what was Gollum's original name before he found the Ring?",
+   "c": ["Sméagol", "Frodo", "Bilbo", "Sauron"]
+  },
+  "ar": {
+   "q": "في ثلاثية «سيد الخواتم»، ما هو الاسم الحقيقي للمخلوق غولوم قبل أن يعثر على الخاتم؟",
+   "c": ["سميغول", "فرودو", "بيلبو", "ساورون"]
+  },
+  "es": {
+   "q": "En la trilogía «El Señor de los Anillos», ¿cuál era el verdadero nombre de la criatura Gollum antes de encontrar el Anillo?",
+   "c": ["Sméagol", "Frodo", "Bilbo", "Sauron"]
+  },
+  "pt": {
+   "q": "Na trilogia «O Senhor dos Anéis», qual era o verdadeiro nome da criatura Gollum antes de encontrar o Anel?",
+   "c": ["Sméagol", "Frodo", "Bilbo", "Sauron"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Quel réalisateur est derrière le film culte de science-fiction « Inception » (2010) ?",
+   "c": ["Steven Spielberg", "Christopher Nolan", "Quentin Tarantino", "James Cameron"]
+  },
+  "en": {
+   "q": "Which director is behind the sci-fi cult film 'Inception' (2010)?",
+   "c": ["Steven Spielberg", "Christopher Nolan", "Quentin Tarantino", "James Cameron"]
+  },
+  "ar": {
+   "q": "من هو المخرج وراء فيلم الخيال العلمي الشهير «إنسبشن» (2010)؟",
+   "c": ["ستيفن سبيلبرغ", "كريستوفر نولان", "كونتنت تارانتينو", "جيمس كاميرون"]
+  },
+  "es": {
+   "q": "¿Qué director está detrás de la exitosa película de ciencia ficción «Inception» (2010)?",
+   "c": ["Steven Spielberg", "Christopher Nolan", "Quentin Tarantino", "James Cameron"]
+  },
+  "pt": {
+   "q": "Qual diretor está por trás do aclamado filme de ficção científica «A Origem» (2010)?",
+   "c": ["Steven Spielberg", "Christopher Nolan", "Quentin Tarantino", "James Cameron"]
+  },
+  "a": 1,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Quel artiste français a composé la bande originale du film « Le Fabuleux Destin d'Amélie Poulain » ?",
+   "c": ["Jean-Michel Jarre", "Yann Tiersen", "Daft Punk", "Ennio Morricone"]
+  },
+  "en": {
+   "q": "Which French artist composed the soundtrack for the film 'Amélie' (Le Fabuleux Destin d'Amélie Poulain)?",
+   "c": ["Jean-Michel Jarre", "Yann Tiersen", "Daft Punk", "Ennio Morricone"]
+  },
+  "ar": {
+   "q": "أي فنان فرنسي ألّف الموسيقى التصويرية لفيلم «أميلي» (Le Fabuleux Destin d'Amélie Poulain)؟",
+   "c": ["جان ميشيل جار", "يان تيرسن", "دافت بانك", "إنيو موريكوني"]
+  },
+  "es": {
+   "q": "¿Qué artista francés compuso la banda sonora de la película «Amélie»?",
+   "c": ["Jean-Michel Jarre", "Yann Tiersen", "Daft Punk", "Ennio Morricone"]
+  },
+  "pt": {
+   "q": "Qual artista francês compôs a trilha sonora do filme «O Fabuloso Destino de Amélie Poulain»?",
+   "c": ["Jean-Michel Jarre", "Yann Tiersen", "Daft Punk", "Ennio Morricone"]
+  },
+  "a": 1,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Dans l'univers de 'Game of Thrones', quelle est la devise de la célèbre maison Stark ?",
+   "c": ["Un Stark paye toujours ses dettes", "L'hiver vient", "Feu et Sang", "Notre is the fury"]
+  },
+  "en": {
+   "q": "In the 'Game of Thrones' universe, what is the motto of the famous House Stark?",
+   "c": ["A Stark always pays his debts", "Winter Is Coming", "Fire and Blood", "Ours is the Fury"]
+  },
+  "ar": {
+   "q": "في عالم 'Game of Thrones'، ما هو شعار عائلة ستارك الشهيرة؟",
+   "c": ["آل ستارك يدفعون ديونهم دائماً", "الشتاء قادم", "النار والدم", "غضبنا هو الأكبر"]
+  },
+  "es": {
+   "q": "En el universo de 'Game of Thrones', ¿cuál es el lema de la famosa Casa Stark?",
+   "c": ["Un Stark siempre paga sus deudas", "Se acercan los vientos (El invierno se acerca)", "Fuego y sangre", "Nuestra es la furia"]
+  },
+  "pt": {
+   "q": "No universo de 'Game of Thrones', qual é o lema da famosa Casa Stark?",
+   "c": ["Um Stark sempre paga suas dívidas", "O Inverno está chegando", "Fogo e Sangue", "Nossa é a Fúria"]
+  },
+  "a": 1,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Quel duo de musique électronique français portait des casques de robots inspirés de la science-fiction ?",
+   "c": ["Justice", "Air", "Daft Punk", "Cassius"]
+  },
+  "en": {
+   "q": "Which French electronic music duo wore sci-fi inspired robot helmets?",
+   "c": ["Justice", "Air", "Daft Punk", "Cassius"]
+  },
+  "ar": {
+   "q": "أي ثنائي موسيقى إلكترونية فرنسي كان يرتدي خوذ روبوت مستوحاة من الخيال العلمي؟",
+   "c": ["جاستيس", "إير", "دافت بانك", "كاسيوس"]
+  },
+  "es": {
+   "q": "¿Qué dúo de música electrónica francés usaba cascos de robots inspirados en la ciencia ficción?",
+   "c": ["Justice", "Air", "Daft Punk", "Cassius"]
+  },
+  "pt": {
+   "q": "Qual dupla de música eletrônica francesa usava capacetes de robô inspirados em ficção científica?",
+   "c": ["Justice", "Air", "Daft Punk", "Cassius"]
+  },
+  "a": 2,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Quel jeu vidéo de rôle et d'action en monde ouvert, développé par CD Projekt Red, met en scène le sorceleur Geralt de Riv ?",
+   "c": ["Skyrim", "The Witcher 3: Wild Hunt", "Elden Ring", "Dragon Age"]
+  },
+  "en": {
+   "q": "Which open-world action RPG developed by CD Projekt Red features the witcher Geralt of Rivia?",
+   "c": ["Skyrim", "The Witcher 3: Wild Hunt", "Elden Ring", "Dragon Age"]
+  },
+  "ar": {
+   "q": "أي لعبة تقمص أدوار وعالم مفتوح من تطوير سي دي بروجكت ريد، بطلها الصياد جيرالت من ريفيا؟",
+   "c": ["سكايريم", "ذا ويتشر 3: وايلد هانت", "إلدن رينغ", "دراغون إيج"]
+  },
+  "es": {
+   "q": "¿Qué juego de rol y acción de mundo abierto desarrollado por CD Projekt Red protagoniza el brujo Geralt de Rivia?",
+   "c": ["Skyrim", "The Witcher 3: Wild Hunt", "Elden Ring", "Dragon Age"]
+  },
+  "pt": {
+   "q": "Qual jogo de RPG de ação em mundo aberto desenvolvido pela CD Projekt Red traz o bruxo Geralt de Rivia?",
+   "c": ["Skyrim", "The Witcher 3: Wild Hunt", "Elden Ring", "Dragon Age"]
+  },
+  "a": 1,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Dans la franchise cinématographique « Indiana Jones », quel est l'objet de la phobie principale du célèbre archéologue ?",
+   "c": ["Les hauteurs", "Les serpents", "Les araignées", "L'eau profonde"]
+  },
+  "en": {
+   "q": "In the 'Indiana Jones' film franchise, what is the famous archaeologist's main phobia?",
+   "c": ["Heights", "Snakes", "Spiders", "Deep water"]
+  },
+  "ar": {
+   "q": "في سلسلة أفلام «إنديانا جونز»، ما هو الشيء الذي يمثل رهاب (فوبيا) عالم الآثار الشهير الرئيسية؟",
+   "c": ["المرتفعات", "الثعابين", "العناكب", "الماء العميقة"]
+  },
+  "es": {
+   "q": "En la franquicia cinematográfica «Indiana Jones», ¿cuál es la principal fobia del famoso arqueólogo?",
+   "c": ["Las alturas", "Las serpientes", "Las arañas", "El agua profunda"]
+  },
+  "pt": {
+   "q": "Na franquia de filmes «Indiana Jones», qual é a principal fobia do famoso arqueólogo?",
+   "c": ["Altura", "Cobras", "Aranhas", "Água profunda"]
+  },
+  "a": 1,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Quel film d'animation japonais du Studio Ghibli, réalisé par Hayao Miyazaki, met en scène une fillette nommée Chihiro dans un monde fantastique ?",
+   "c": ["Mon voisin Totoro", "Le Voyage de Chihiro", "Princesse Mononoké", "Le Château ambulant"]
+  },
+  "en": {
+   "q": "Which Studio Ghibli Japanese animated film, directed by Hayao Miyazaki, features a young girl named Chihiro in a fantastical world?",
+   "c": ["My Neighbor Totoro", "Spirited Away", "Princess Mononoke", "Howl's Moving Castle"]
+  },
+  "ar": {
+   "q": "أي فيلم رسوم متحركة ياباني من استوديو غيبلي، إخراج هاياو ميازاكي، يحكي قصة فتاة تدعى تشيهيرو في عالم خيالي؟",
+   "c": ["جاري توتورو", "المخطوفة (Spirited Away)", "الأميرة مونونوكي", "قلعة هاول المتحركة"]
+  },
+  "es": {
+   "q": "¿Qué película de animación japonesa de Studio Ghibli, dirigida por Hayao Miyazaki, presenta a una niña llamada Chihiro en un mundo fantástico?",
+   "c": ["Mi vecino Totoro", "El viaje de Chihiro", "La princesa Mononoke", "El castillo ambulante"]
+  },
+  "pt": {
+   "q": "Qual filme de animação japonesa do Studio Ghibli, dirigido por Hayao Miyazaki, apresenta uma menina chamada Chihiro em um mundo fantástico?",
+   "c": ["Meu Amigo Totoro", "A Viagem de Chihiro", "Princesa Mononoke", "O Castelo Animado"]
+  },
+  "a": 1,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Quel acteur incarne l'agent secret James Bond (007) dans le film « Casino Royale » (2006) ?",
+   "c": ["Pierce Brosnan", "Daniel Craig", "Sean Connery", "Roger Moore"]
+  },
+  "en": {
+   "q": "Which actor plays secret agent James Bond (007) in the film 'Casino Royale' (2006)?",
+   "c": ["Pierce Brosnan", "Daniel Craig", "Sean Connery", "Roger Moore"]
+  },
+  "ar": {
+   "q": "أي ممثل جسد دور العميل السري جيمس بوند (007) في فيلم «كازينو رويال» (2006)؟",
+   "c": ["بيرس بروسنان", "دانيال كريغ", "شان كونري", "روجر مور"]
+  },
+  "es": {
+   "q": "¿Qué actor interpreta al agente secreto James Bond (007) en la película «Casino Royale» (2006)?",
+   "c": ["Pierce Brosnan", "Daniel Craig", "Sean Connery", "Roger Moore"]
+  },
+  "pt": {
+   "q": "Qual ator interpreta o agente secreto James Bond (007) no filme «Cassino Royale» (2006)?",
+   "c": ["Pierce Brosnan", "Daniel Craig", "Sean Connery", "Roger Moore"]
+  },
+  "a": 1,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Quel réalisateur américain est célèbre pour ses films au style unique et non linéaire comme « Pulp Fiction » et « Kill Bill » ?",
+   "c": ["Martin Scorsese", "Quentin Tarantino", "David Fincher", "Christopher Nolan"]
+  },
+  "en": {
+   "q": "Which American director is famous for unique, non-linear films like 'Pulp Fiction' and 'Kill Bill'?",
+   "c": ["Martin Scorsese", "Quentin Tarantino", "David Fincher", "Christopher Nolan"]
+  },
+  "ar": {
+   "q": "أي مخرج أمريكي مشهور بأفلامه ذات الأسلوب الفريد وغير الخطي مثل «Pulp Fiction» و«Kill Bill»؟",
+   "c": ["مارتن سكورسيزي", "كوينتن تارانتينو", "ديفيد فينشر", "كريستوفر نولان"]
+  },
+  "es": {
+   "q": "¿Qué director estadounidense es famoso por sus películas de estilo único y no lineal como «Pulp Fiction» y «Kill Bill»?",
+   "c": ["Martin Scorsese", "Quentin Tarantino", "David Fincher", "Christopher Nolan"]
+  },
+  "pt": {
+   "q": "Qual diretor americano é famoso por seus filmes de estilo único e não linear como «Pulp Fiction» e «Kill Bill»?",
+   "c": ["Martin Scorsese", "Quentin Tarantino", "David Fincher", "Christopher Nolan"]
+  },
+  "a": 1,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Dans la franchise « Matrix », comment s'appelle le capitaine du vaisseau Nebuchadnezzar (Nabuchodonosor) et mentor de Neo ?",
+   "c": ["Cypher", "Morpheus", "Tank", "Agent Smith"]
+  },
+  "en": {
+   "q": "In the 'Matrix' franchise, what is the name of the captain of the Nebuchadnezzar and Neo's mentor?",
+   "c": ["Cypher", "Morpheus", "Tank", "Agent Smith"]
+  },
+  "ar": {
+   "q": "في سلسلة «Matrix»، ما هو اسم قائد سفينة نبوخذ نصر وموجه نيو؟",
+   "c": ["سايفر", "مورفيوس", "تانك", "العميل سميث"]
+  },
+  "es": {
+   "q": "En la franquicia «Matrix», ¿cómo se llama el capitán de la nave Nabucodonosor y mentor de Neo?",
+   "c": ["Cypher", "Morpheus", "Tank", "Agente Smith"]
+  },
+  "pt": {
+   "q": "Na franquia «Matrix», qual é o nome do capitão da nave Nabucodonosor e mentor de Neo?",
+   "c": ["Cypher", "Morpheus", "Tank", "Agente Smith"]
+  },
+  "a": 1,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Quel groupe de rock alternatif américain a sorti l'album culte « Nevermind » en 1991, porté par le titre « Smells Like Teen Spirit » ?",
+   "c": ["Pearl Jam", "Soundgarden", "Nirvana", "Alice in Chains"]
+  },
+  "en": {
+   "q": "Which American alternative rock band released the iconic 1991 album 'Nevermind', featuring 'Smells Like Teen Spirit'?",
+   "c": ["Pearl Jam", "Soundgarden", "Nirvana", "Alice in Chains"]
+  },
+  "ar": {
+   "q": "أي فرقة روك بديل أمريكية أصدرت ألبوم «Nevermind» الشهير عام
