@@ -2,48 +2,23 @@
  {
   "fr": {
    "q": "Combien de joueurs par équipe sur le terrain au football ?",
-   "c": [
-    "9",
-    "10",
-    "11",
-    "12"
-   ]
+   "c": ["9", "10", "11", "12"]
   },
   "en": {
    "q": "How many players per team are on the pitch in football?",
-   "c": [
-    "9",
-    "10",
-    "11",
-    "12"
-   ]
+   "c": ["9", "10", "11", "12"]
   },
   "ar": {
    "q": "كم عدد اللاعبين في كل فريق داخل الملعب في كرة القدم؟",
-   "c": [
-    "9",
-    "10",
-    "11",
-    "12"
-   ]
+   "c": ["9", "10", "11", "12"]
   },
   "es": {
    "q": "¿Cuántos jugadores por equipo hay en el campo en el fútbol?",
-   "c": [
-    "9",
-    "10",
-    "11",
-    "12"
-   ]
+   "c": ["9", "10", "11", "12"]
   },
   "pt": {
    "q": "Quantos jogadores por equipe há em campo no futebol?",
-   "c": [
-    "9",
-    "10",
-    "11",
-    "12"
-   ]
+   "c": ["9", "10", "11", "12"]
   },
   "a": 2,
   "image": null,
@@ -52,48 +27,23 @@
  {
   "fr": {
    "q": "Combien de joueurs d'une équipe de basket sont sur le terrain ?",
-   "c": [
-    "4",
-    "5",
-    "6",
-    "7"
-   ]
+   "c": ["4", "5", "6", "7"]
   },
   "en": {
    "q": "How many players of a basketball team are on the court?",
-   "c": [
-    "4",
-    "5",
-    "6",
-    "7"
-   ]
+   "c": ["4", "5", "6", "7"]
   },
   "ar": {
    "q": "كم عدد لاعبي فريق كرة السلة داخل الملعب؟",
-   "c": [
-    "4",
-    "5",
-    "6",
-    "7"
-   ]
+   "c": ["4", "5", "6", "7"]
   },
   "es": {
    "q": "¿Cuántos jugadores de un equipo de baloncesto hay en la cancha?",
-   "c": [
-    "4",
-    "5",
-    "6",
-    "7"
-   ]
+   "c": ["4", "5", "6", "7"]
   },
   "pt": {
    "q": "Quantos jogadores de uma equipe de basquete ficam em quadra?",
-   "c": [
-    "4",
-    "5",
-    "6",
-    "7"
-   ]
+   "c": ["4", "5", "6", "7"]
   },
   "a": 1,
   "image": null,
@@ -102,48 +52,23 @@
  {
   "fr": {
    "q": "Dans quel sport utilise-t-on une raquette et un volant ?",
-   "c": [
-    "Le badminton",
-    "Le tennis",
-    "Le squash",
-    "Le tennis de table"
-   ]
+   "c": ["Le badminton", "Le tennis", "Le squash", "Le tennis de table"]
   },
   "en": {
    "q": "In which sport do you use a racket and a shuttlecock?",
-   "c": [
-    "Badminton",
-    "Tennis",
-    "Squash",
-    "Table tennis"
-   ]
+   "c": ["Badminton", "Tennis", "Squash", "Table tennis"]
   },
   "ar": {
    "q": "في أي رياضة تُستخدم المضرب والريشة؟",
-   "c": [
-    "الريشة الطائرة",
-    "التنس",
-    "الاسكواش",
-    "كرة الطاولة"
-   ]
+   "c": ["الريشة الطائرة", "التنس", "الاسكواش", "كرة الطاولة"]
   },
   "es": {
    "q": "¿En qué deporte se usa una raqueta y un volante?",
-   "c": [
-    "Bádminton",
-    "Tenis",
-    "Squash",
-    "Tenis de mesa"
-   ]
+   "c": ["Bádminton", "Tenis", "Squash", "Tenis de mesa"]
   },
   "pt": {
    "q": "Em que esporte se usam raquete e volante?",
-   "c": [
-    "Badminton",
-    "Tênis",
-    "Squash",
-    "Tênis de mesa"
-   ]
+   "c": ["Badminton", "Tênis", "Squash", "Tênis de mesa"]
   },
   "a": 0,
   "image": null,
@@ -152,48 +77,23 @@
  {
   "fr": {
    "q": "Combien d'anneaux y a-t-il sur le drapeau olympique ?",
-   "c": [
-    "3",
-    "4",
-    "5",
-    "6"
-   ]
+   "c": ["3", "4", "5", "6"]
   },
   "en": {
    "q": "How many rings are on the Olympic flag?",
-   "c": [
-    "3",
-    "4",
-    "5",
-    "6"
-   ]
+   "c": ["3", "4", "5", "6"]
   },
   "ar": {
    "q": "كم عدد الحلقات على العلم الأولمبي؟",
-   "c": [
-    "3",
-    "4",
-    "5",
-    "6"
-   ]
+   "c": ["3", "4", "5", "6"]
   },
   "es": {
    "q": "¿Cuántos aros tiene la bandera olímpica?",
-   "c": [
-    "3",
-    "4",
-    "5",
-    "6"
-   ]
+   "c": ["3", "4", "5", "6"]
   },
   "pt": {
    "q": "Quantos anéis tem a bandeira olímpica?",
-   "c": [
-    "3",
-    "4",
-    "5",
-    "6"
-   ]
+   "c": ["3", "4", "5", "6"]
   },
   "a": 2,
   "image": null,
@@ -202,48 +102,23 @@
  {
   "fr": {
    "q": "Quel sport se joue à Wimbledon ?",
-   "c": [
-    "Le tennis",
-    "Le golf",
-    "Le cricket",
-    "Le rugby"
-   ]
+   "c": ["Le tennis", "Le golf", "Le cricket", "Le rugby"]
   },
   "en": {
    "q": "Which sport is played at Wimbledon?",
-   "c": [
-    "Tennis",
-    "Golf",
-    "Cricket",
-    "Rugby"
-   ]
+   "c": ["Tennis", "Golf", "Cricket", "Rugby"]
   },
   "ar": {
    "q": "أي رياضة تُلعب في ويمبلدون؟",
-   "c": [
-    "التنس",
-    "الغولف",
-    "الكريكيت",
-    "الرغبي"
-   ]
+   "c": ["التنس", "الغولف", "الكريكيت", "الرغبي"]
   },
   "es": {
    "q": "¿Qué deporte se juega en Wimbledon?",
-   "c": [
-    "Tenis",
-    "Golf",
-    "Críquet",
-    "Rugby"
-   ]
+   "c": ["Tenis", "Golf", "Críquet", "Rugby"]
   },
   "pt": {
    "q": "Qual esporte é disputado em Wimbledon?",
-   "c": [
-    "Tênis",
-    "Golfe",
-    "Críquete",
-    "Rúgbi"
-   ]
+   "c": ["Tênis", "Golfe", "Críquete", "Rúgbi"]
   },
   "a": 0,
   "image": null,
@@ -252,48 +127,23 @@
  {
   "fr": {
    "q": "Combien de temps dure un match de football (sans prolongations) ?",
-   "c": [
-    "90 minutes",
-    "60 minutes",
-    "80 minutes",
-    "120 minutes"
-   ]
+   "c": ["90 minutes", "60 minutes", "80 minutes", "120 minutes"]
   },
   "en": {
    "q": "How long is a football match (without extra time)?",
-   "c": [
-    "90 minutes",
-    "60 minutes",
-    "80 minutes",
-    "120 minutes"
-   ]
+   "c": ["90 minutes", "60 minutes", "80 minutes", "120 minutes"]
   },
   "ar": {
    "q": "كم تستغرق مباراة كرة القدم (دون وقت إضافي)؟",
-   "c": [
-    "90 دقيقة",
-    "60 دقيقة",
-    "80 دقيقة",
-    "120 دقيقة"
-   ]
+   "c": ["90 دقيقة", "60 دقيقة", "80 دقيقة", "120 دقيقة"]
   },
   "es": {
    "q": "¿Cuánto dura un partido de fútbol (sin prórroga)?",
-   "c": [
-    "90 minutos",
-    "60 minutos",
-    "80 minutos",
-    "120 minutos"
-   ]
+   "c": ["90 minutos", "60 minutos", "80 minutos", "120 minutos"]
   },
   "pt": {
    "q": "Quanto dura uma partida de futebol (sem prorrogação)?",
-   "c": [
-    "90 minutos",
-    "60 minutos",
-    "80 minutos",
-    "120 minutos"
-   ]
+   "c": ["90 minutos", "60 minutos", "80 minutos", "120 minutos"]
   },
   "a": 0,
   "image": null,
@@ -301,49 +151,24 @@
  },
  {
   "fr": {
-   "q": "Qui a gagné la Coupe du monde de football 2022 ?",
-   "c": [
-    "L'Argentine",
-    "La France",
-    "Le Brésil",
-    "La Croatie"
-   ]
+   "q": "Quel pays a gagné la Coupe du monde de football 2022 ?",
+   "c": ["L'Argentine", "La France", "Le Brésil", "La Croatie"]
   },
   "en": {
    "q": "Who won the 2022 football World Cup?",
-   "c": [
-    "Argentina",
-    "France",
-    "Brazil",
-    "Croatia"
-   ]
+   "c": ["Argentina", "France", "Brazil", "Croatia"]
   },
   "ar": {
    "q": "من فاز بكأس العالم لكرة القدم 2022؟",
-   "c": [
-    "الأرجنتين",
-    "فرنسا",
-    "البرازيل",
-    "كرواتيا"
-   ]
+   "c": ["الأرجنتين", "فرنسا", "البرازيل", "كرواتيا"]
   },
   "es": {
    "q": "¿Quién ganó el Mundial de fútbol de 2022?",
-   "c": [
-    "Argentina",
-    "Francia",
-    "Brasil",
-    "Croacia"
-   ]
+   "c": ["Argentina", "Francia", "Brasil", "Croacia"]
   },
   "pt": {
    "q": "Quem ganhou a Copa do Mundo de 2022?",
-   "c": [
-    "Argentina",
-    "França",
-    "Brasil",
-    "Croácia"
-   ]
+   "c": ["Argentina", "França", "Brasil", "Croácia"]
   },
   "a": 0,
   "image": null,
@@ -352,48 +177,23 @@
  {
   "fr": {
    "q": "Quel pays a accueilli les Jeux olympiques d'été de 2016 ?",
-   "c": [
-    "Le Brésil",
-    "La Chine",
-    "Le Royaume-Uni",
-    "La Grèce"
-   ]
+   "c": ["Le Brésil", "La Chine", "Le Royaume-Uni", "La Grèce"]
   },
   "en": {
    "q": "Which country hosted the 2016 Summer Olympics?",
-   "c": [
-    "Brazil",
-    "China",
-    "United Kingdom",
-    "Greece"
-   ]
+   "c": ["Brazil", "China", "United Kingdom", "Greece"]
   },
   "ar": {
    "q": "أي دولة استضافت الألعاب الأولمبية الصيفية 2016؟",
-   "c": [
-    "البرازيل",
-    "الصين",
-    "المملكة المتحدة",
-    "اليونان"
-   ]
+   "c": ["البرازيل", "الصين", "المملكة المتحدة", "اليونان"]
   },
   "es": {
    "q": "¿Qué país organizó los Juegos Olímpicos de verano de 2016?",
-   "c": [
-    "Brasil",
-    "China",
-    "Reino Unido",
-    "Grecia"
-   ]
+   "c": ["Brasil", "China", "Reino Unido", "Grecia"]
   },
   "pt": {
    "q": "Qual país sediou os Jogos Olímpicos de verão de 2016?",
-   "c": [
-    "Brasil",
-    "China",
-    "Reino Unido",
-    "Grécia"
-   ]
+   "c": ["Brasil", "China", "Reino Unido", "Grécia"]
   },
   "a": 0,
   "image": null,
@@ -402,48 +202,23 @@
  {
   "fr": {
    "q": "Combien de tournois du Grand Chelem y a-t-il chaque année au tennis ?",
-   "c": [
-    "2",
-    "3",
-    "4",
-    "5"
-   ]
+   "c": ["2", "3", "4", "5"]
   },
   "en": {
    "q": "How many Grand Slam tournaments are there each year in tennis?",
-   "c": [
-    "2",
-    "3",
-    "4",
-    "5"
-   ]
+   "c": ["2", "3", "4", "5"]
   },
   "ar": {
    "q": "كم عدد بطولات الغراند سلام في التنس كل عام؟",
-   "c": [
-    "2",
-    "3",
-    "4",
-    "5"
-   ]
+   "c": ["2", "3", "4", "5"]
   },
   "es": {
    "q": "¿Cuántos torneos de Grand Slam hay cada año en el tenis?",
-   "c": [
-    "2",
-    "3",
-    "4",
-    "5"
-   ]
+   "c": ["2", "3", "4", "5"]
   },
   "pt": {
    "q": "Quantos torneios de Grand Slam existem por ano no tênis?",
-   "c": [
-    "2",
-    "3",
-    "4",
-    "5"
-   ]
+   "c": ["2", "3", "4", "5"]
   },
   "a": 2,
   "image": null,
@@ -452,48 +227,23 @@
  {
   "fr": {
    "q": "Quel pays a remporté le plus de Coupes du monde masculines de football ?",
-   "c": [
-    "Le Brésil",
-    "L'Allemagne",
-    "L'Italie",
-    "L'Argentine"
-   ]
+   "c": ["Le Brésil", "L'Allemagne", "L'Italie", "L'Argentine"]
   },
   "en": {
    "q": "Which country has won the most men's FIFA World Cups?",
-   "c": [
-    "Brazil",
-    "Germany",
-    "Italy",
-    "Argentina"
-   ]
+   "c": ["Brazil", "Germany", "Italy", "Argentina"]
   },
   "ar": {
    "q": "أي دولة فازت بأكبر عدد من كؤوس العالم للرجال؟",
-   "c": [
-    "البرازيل",
-    "ألمانيا",
-    "إيطاليا",
-    "الأرجنتين"
-   ]
+   "c": ["البرازيل", "ألمانيا", "إيطاليا", "الأرجنتين"]
   },
   "es": {
    "q": "¿Qué país ha ganado más Mundiales masculinos de fútbol?",
-   "c": [
-    "Brasil",
-    "Alemania",
-    "Italia",
-    "Argentina"
-   ]
+   "c": ["Brasil", "Alemania", "Italia", "Argentina"]
   },
   "pt": {
    "q": "Qual país venceu mais Copas do Mundo masculinas de futebol?",
-   "c": [
-    "Brasil",
-    "Alemanha",
-    "Itália",
-    "Argentina"
-   ]
+   "c": ["Brasil", "Alemanha", "Itália", "Argentina"]
   },
   "a": 0,
   "image": null,
@@ -502,48 +252,23 @@
  {
   "fr": {
    "q": "Dans quel sport réalise-t-on un « trou en un » ?",
-   "c": [
-    "Le golf",
-    "Le bowling",
-    "Le tir à l'arc",
-    "Le snooker"
-   ]
+   "c": ["Le golf", "Le bowling", "Le tir à l'arc", "Le snooker"]
   },
   "en": {
    "q": "In which sport do you score a hole-in-one?",
-   "c": [
-    "Golf",
-    "Bowling",
-    "Archery",
-    "Snooker"
-   ]
+   "c": ["Golf", "Bowling", "Archery", "Snooker"]
   },
   "ar": {
    "q": "في أي رياضة يُحرز اللاعب «هول إن وان»؟",
-   "c": [
-    "الغولف",
-    "البولينغ",
-    "الرماية",
-    "السنوكر"
-   ]
+   "c": ["الغولف", "البولينغ", "الرماية", "السنوكر"]
   },
   "es": {
    "q": "¿En qué deporte se logra un «hoyo en uno»?",
-   "c": [
-    "Golf",
-    "Bolos",
-    "Tiro con arco",
-    "Snooker"
-   ]
+   "c": ["Golf", "Bolos", "Tiro con arco", "Snooker"]
   },
   "pt": {
    "q": "Em qual esporte se faz um «buraco em um»?",
-   "c": [
-    "Golfe",
-    "Boliche",
-    "Tiro com arco",
-    "Sinuca"
-   ]
+   "c": ["Golfe", "Boliche", "Tiro com arco", "Sinuca"]
   },
   "a": 0,
   "image": null,
@@ -552,48 +277,23 @@
  {
   "fr": {
    "q": "Quelle est la distance d'un marathon (environ) ?",
-   "c": [
-    "42 km",
-    "21 km",
-    "50 km",
-    "100 km"
-   ]
+   "c": ["42 km", "21 km", "50 km", "100 km"]
   },
   "en": {
    "q": "What is the distance of a marathon (approximately)?",
-   "c": [
-    "42 km",
-    "21 km",
-    "50 km",
-    "100 km"
-   ]
+   "c": ["42 km", "21 km", "50 km", "100 km"]
   },
   "ar": {
    "q": "ما هي مسافة سباق الماراثون تقريبًا؟",
-   "c": [
-    "42 كم",
-    "21 كم",
-    "50 كم",
-    "100 كم"
-   ]
+   "c": ["42 كم", "21 كم", "50 كم", "100 كم"]
   },
   "es": {
    "q": "¿Cuál es la distancia de un maratón (aproximadamente)?",
-   "c": [
-    "42 km",
-    "21 km",
-    "50 km",
-    "100 km"
-   ]
+   "c": ["42 km", "21 km", "50 km", "100 km"]
   },
   "pt": {
    "q": "Qual é a distância de uma maratona (aproximadamente)?",
-   "c": [
-    "42 km",
-    "21 km",
-    "50 km",
-    "100 km"
-   ]
+   "c": ["42 km", "21 km", "50 km", "100 km"]
   },
   "a": 0,
   "image": null,
@@ -602,48 +302,23 @@
  {
   "fr": {
    "q": "Quel boxeur américain légendaire, né Cassius Clay, a été surnommé « The Greatest » ?",
-   "c": [
-    "Muhammad Ali",
-    "Mike Tyson",
-    "Floyd Mayweather",
-    "George Foreman"
-   ]
+   "c": ["Muhammad Ali", "Mike Tyson", "Floyd Mayweather", "George Foreman"]
   },
   "en": {
    "q": "Which legendary American boxer, born Cassius Clay, was nicknamed 'The Greatest'?",
-   "c": [
-    "Muhammad Ali",
-    "Mike Tyson",
-    "Floyd Mayweather",
-    "George Foreman"
-   ]
+   "c": ["Muhammad Ali", "Mike Tyson", "Floyd Mayweather", "George Foreman"]
   },
   "ar": {
    "q": "أي ملاكم أمريكي أسطوري وُلِد باسم كاسيوس كلاي أُطلق عليه لقب 'الأعظم'؟",
-   "c": [
-    "محمد علي كلاي",
-    "مايك تايسون",
-    "فلويد مايويذر",
-    "جورج فورمان"
-   ]
+   "c": ["محمد علي كلاي", "مايك تايسون", "فلويد مايويذر", "جورج فورمان"]
   },
   "es": {
    "q": "¿Qué legendario boxeador estadounidense, nacido como Cassius Clay, fue apodado «The Greatest»?",
-   "c": [
-    "Muhammad Ali",
-    "Mike Tyson",
-    "Floyd Mayweather",
-    "George Foreman"
-   ]
+   "c": ["Muhammad Ali", "Mike Tyson", "Floyd Mayweather", "George Foreman"]
   },
   "pt": {
    "q": "Qual lendário boxeador americano, nascido Cassius Clay, foi apelidado de 'The Greatest'?",
-   "c": [
-    "Muhammad Ali",
-    "Mike Tyson",
-    "Floyd Mayweather",
-    "George Foreman"
-   ]
+   "c": ["Muhammad Ali", "Mike Tyson", "Floyd Mayweather", "George Foreman"]
   },
   "a": 0,
   "image": null,
@@ -652,48 +327,23 @@
  {
   "fr": {
    "q": "Quel nageur américain détient le record du plus grand nombre de médailles d'or olympiques de l'histoire ?",
-   "c": [
-    "Michael Phelps",
-    "Mark Spitz",
-    "Ryan Lochte",
-    "Caeleb Dressel"
-   ]
+   "c": ["Michael Phelps", "Mark Spitz", "Ryan Lochte", "Caeleb Dressel"]
   },
   "en": {
    "q": "Which American swimmer holds the record for the most Olympic gold medals in history?",
-   "c": [
-    "Michael Phelps",
-    "Mark Spitz",
-    "Ryan Lochte",
-    "Caeleb Dressel"
-   ]
+   "c": ["Michael Phelps", "Mark Spitz", "Ryan Lochte", "Caeleb Dressel"]
   },
   "ar": {
    "q": "أي سباح أمريكي يحمل رقم القياسي لأكبر عدد من الميداليات الذهبية الأولمبية في التاريخ؟",
-   "c": [
-    "مايكل فيلبس",
-    "مارك سبيتز",
-    "ريان لوكتي",
-    "كايلب دريسل"
-   ]
+   "c": ["مايكل فيلبس", "مارك سبيتز", "ريان لوكتي", "كايلب دريسل"]
   },
   "es": {
    "q": "¿Qué nadador estadounidense ostenta el récord de la mayor cantidad de medallas de oro olímpicas en la historia?",
-   "c": [
-    "Michael Phelps",
-    "Mark Spitz",
-    "Ryan Lochte",
-    "Caeleb Dressel"
-   ]
+   "c": ["Michael Phelps", "Mark Spitz", "Ryan Lochte", "Caeleb Dressel"]
   },
   "pt": {
    "q": "Qual nadador americano detém o recorde do maior número de medalhas de ouro olímpicas da história?",
-   "c": [
-    "Michael Phelps",
-    "Mark Spitz",
-    "Ryan Lochte",
-    "Caeleb Dressel"
-   ]
+   "c": ["Michael Phelps", "Mark Spitz", "Ryan Lochte", "Caeleb Dressel"]
   },
   "a": 0,
   "image": null,
@@ -702,48 +352,23 @@
  {
   "fr": {
    "q": "Dans quelle ville se déroule le célèbre tournoi de tennis sur terre battue de Roland-Garros ?",
-   "c": [
-    "Paris",
-    "Londres",
-    "New York",
-    "Melbourne"
-   ]
+   "c": ["Paris", "Londres", "New York", "Melbourne"]
   },
   "en": {
    "q": "In which city does the famous French Open clay-court tennis tournament take place?",
-   "c": [
-    "Paris",
-    "London",
-    "New York",
-    "Melbourne"
-   ]
+   "c": ["Paris", "London", "New York", "Melbourne"]
   },
   "ar": {
    "q": "في أي مدينة تقام بطولة رولان غاروس الشهيرة للتنس على الملاعب الرملية؟",
-   "c": [
-    "باريس",
-    "لندن",
-    "نيويورك",
-    "ملبورن"
-   ]
+   "c": ["باريس", "لندن", "نيويورك", "ملبورن"]
   },
   "es": {
    "q": "¿En qué ciudad se celebra el famoso torneo de tenis en tierra batida de Roland Garros?",
-   "c": [
-    "París",
-    "Londres",
-    "Nueva York",
-    "Melbourne"
-   ]
+   "c": ["París", "Londres", "Nueva York", "Melbourne"]
   },
   "pt": {
    "q": "Em qual cidade acontece o famoso torneio de tênis em saibro de Roland Garros?",
-   "c": [
-    "Paris",
-    "Londres",
-    "Nova York",
-    "Melbourne"
-   ]
+   "c": ["Paris", "Londres", "Nova York", "Melbourne"]
   },
   "a": 0,
   "image": null,
@@ -752,48 +377,23 @@
  {
   "fr": {
    "q": "Quel pilote automobile détient, à égalité avec Michael Schumacher, le record du plus grand nombre de titres de champion du monde de Formule 1 ?",
-   "c": [
-    "Lewis Hamilton",
-    "Ayrton Senna",
-    "Max Verstappen",
-    "Sebastian Vettel"
-   ]
+   "c": ["Lewis Hamilton", "Ayrton Senna", "Max Verstappen", "Sebastian Vettel"]
   },
   "en": {
    "q": "Which racing driver holds the record for the most Formula 1 World Championships, tied with Michael Schumacher?",
-   "c": [
-    "Lewis Hamilton",
-    "Ayrton Senna",
-    "Max Verstappen",
-    "Sebastian Vettel"
-   ]
+   "c": ["Lewis Hamilton", "Ayrton Senna", "Max Verstappen", "Sebastian Vettel"]
   },
   "ar": {
    "q": "أي سائق سيارات يحمل، بالتساوي مع مايكل شوماخر، الرقم القياسي لأكبر عدد من ألقاب بطولة العالم لسباقات الفورمولا 1؟",
-   "c": [
-    "لويس هاميلتون",
-    "آيرتون سينا",
-    "ماكس فيرستابين",
-    "سيباستيان فيتل"
-   ]
+   "c": ["لويس هاميلتون", "آيرتون سينا", "ماكس فيرستابين", "سيباستيان فيتل"]
   },
   "es": {
    "q": "¿Qué piloto de automovilismo ostenta, empatado con Michael Schumacher, el récord de más títulos de campeón del mundo de Fórmula 1?",
-   "c": [
-    "Lewis Hamilton",
-    "Ayrton Senna",
-    "Max Verstappen",
-    "Sebastian Vettel"
-   ]
+   "c": ["Lewis Hamilton", "Ayrton Senna", "Max Verstappen", "Sebastian Vettel"]
   },
   "pt": {
    "q": "Qual piloto de automobilismo detém, empatado com Michael Schumacher, o recorde de maior número de títulos mundiais de Fórmula 1?",
-   "c": [
-    "Lewis Hamilton",
-    "Ayrton Senna",
-    "Max Verstappen",
-    "Sebastian Vettel"
-   ]
+   "c": ["Lewis Hamilton", "Ayrton Senna", "Max Verstappen", "Sebastian Vettel"]
   },
   "a": 0,
   "image": null,
@@ -802,48 +402,23 @@
  {
   "fr": {
    "q": "Combien de points vaut un essai transformé au rugby à XV ?",
-   "c": [
-    "7 points",
-    "5 points",
-    "6 points",
-    "3 points"
-   ]
+   "c": ["7 points", "5 points", "6 points", "3 points"]
   },
   "en": {
    "q": "How many points is a converted try worth in rugby union?",
-   "c": [
-    "7 points",
-    "5 points",
-    "6 points",
-    "3 points"
-   ]
+   "c": ["7 points", "5 points", "6 points", "3 points"]
   },
   "ar": {
    "q": "كم عدد النقاط التي تمنحها محاولة محولة (تراي) في اتحاد الرغبي (الرغبي 15)؟",
-   "c": [
-    "7 نقاط",
-    "5 نقاط",
-    "6 نقاط",
-    "3 نقاط"
-   ]
+   "c": ["7 نقاط", "5 نقاط", "6 نقاط", "3 نقاط"]
   },
   "es": {
    "q": "¿Cuántos puntos vale un ensayo transformado en el rugby a 15?",
-   "c": [
-    "7 puntos",
-    "5 puntos",
-    "6 puntos",
-    "3 puntos"
-   ]
+   "c": ["7 puntos", "5 puntos", "6 puntos", "3 puntos"]
   },
   "pt": {
    "q": "Quantos pontos vale um try convertido no rugby union?",
-   "c": [
-    "7 pontos",
-    "5 pontos",
-    "6 pontos",
-    "3 pontos"
-   ]
+   "c": ["7 pontos", "5 pontos", "6 pontos", "3 pontos"]
   },
   "a": 0,
   "image": null,
@@ -852,48 +427,23 @@
  {
   "fr": {
    "q": "Quel pays a accueilli les Jeux olympiques d'été de 2024 ?",
-   "c": [
-    "La France",
-    "Le Japon",
-    "Le Royaume-Uni",
-    "Les États-Unis"
-   ]
+   "c": ["La France", "Le Japon", "Le Royaume-Uni", "Les États-Unis"]
   },
   "en": {
    "q": "Which country hosted the 2024 Summer Olympics?",
-   "c": [
-    "France",
-    "Japan",
-    "United Kingdom",
-    "United States"
-   ]
+   "c": ["France", "Japan", "United Kingdom", "United States"]
   },
   "ar": {
    "q": "أي دولة استضافت الألعاب الأولمبية الصيفية 2024؟",
-   "c": [
-    "فرنسا",
-    "اليابان",
-    "المملكة المتحدة",
-    "الولايات المتحدة"
-   ]
+   "c": ["فرنسا", "اليابان", "المملكة المتحدة", "الولايات المتحدة"]
   },
   "es": {
    "q": "¿Qué país organizó los Juegos Olímpicos de verano de 2024?",
-   "c": [
-    "Francia",
-    "Japón",
-    "Reino Unido",
-    "Estados Unidos"
-   ]
+   "c": ["Francia", "Japón", "Reino Unido", "Estados Unidos"]
   },
   "pt": {
    "q": "Qual país sediou os Jogos Olímpicos de Verão de 2024?",
-   "c": [
-    "França",
-    "Japão",
-    "Reino Unido",
-    "Estados Unidos"
-   ]
+   "c": ["França", "Japão", "Reino Unido", "Estados Unidos"]
   },
   "a": 0,
   "image": null,
@@ -902,48 +452,23 @@
  {
   "fr": {
    "q": "Combien de joueurs composent une équipe de volley-ball sur le terrain ?",
-   "c": [
-    "6",
-    "5",
-    "7",
-    "4"
-   ]
+   "c": ["6", "5", "7", "4"]
   },
   "en": {
    "q": "How many players make up a volleyball team on the court?",
-   "c": [
-    "6",
-    "5",
-    "7",
-    "4"
-   ]
+   "c": ["6", "5", "7", "4"]
   },
   "ar": {
    "q": "كم عدد لاعبي فريق الكرة الطائرة على أرض الملعب؟",
-   "c": [
-    "6",
-    "5",
-    "7",
-    "4"
-   ]
+   "c": ["6", "5", "7", "4"]
   },
   "es": {
    "q": "¿Cuántos jugadores componen un equipo de voleibol en la cancha?",
-   "c": [
-    "6",
-    "5",
-    "7",
-    "4"
-   ]
+   "c": ["6", "5", "7", "4"]
   },
   "pt": {
    "q": "Quantos jogadores compõem uma equipe de vôlei em quadra?",
-   "c": [
-    "6",
-    "5",
-    "7",
-    "4"
-   ]
+   "c": ["6", "5", "7", "4"]
   },
   "a": 0,
   "image": null,
@@ -952,48 +477,23 @@
  {
   "fr": {
    "q": "Quel joueur de football portugais a remporté cinq Ligues des champions et est l'un des meilleurs buteurs de l'histoire ?",
-   "c": [
-    "Cristiano Ronaldo",
-    "Luís Figo",
-    "Bruno Fernandes",
-    "Bernardo Silva"
-   ]
+   "c": ["Cristiano Ronaldo", "Luís Figo", "Bruno Fernandes", "Bernardo Silva"]
   },
   "en": {
    "q": "Which Portuguese football player has won five UEFA Champions Leagues and is one of the top goalscorers in history?",
-   "c": [
-    "Cristiano Ronaldo",
-    "Luís Figo",
-    "Bruno Fernandes",
-    "Bernardo Silva"
-   ]
+   "c": ["Cristiano Ronaldo", "Luís Figo", "Bruno Fernandes", "Bernardo Silva"]
   },
   "ar": {
    "q": "أي لاعب كرة قدم برتغالي فاز بخمس بطولات دوري أبطال أوروبا ويعتبر أحد أفضل الهدافين في التاريخ؟",
-   "c": [
-    "كريستيانو رونالدو",
-    "لويس فيغو",
-    "برونو فيرنانديز",
-    "برناردو سيلفا"
-   ]
+   "c": ["كريستيانو رونالدو", "لويس فيغو", "برونو فيرنانديز", "برناردو سيلفا"]
   },
   "es": {
    "q": "¿Qué jugador de fútbol portugués ha ganado cinco Ligas de Campeones de la UEFA y es uno de los máximos goleadores de la historia?",
-   "c": [
-    "Cristiano Ronaldo",
-    "Luís Figo",
-    "Bruno Fernandes",
-    "Bernardo Silva"
-   ]
+   "c": ["Cristiano Ronaldo", "Luís Figo", "Bruno Fernandes", "Bernardo Silva"]
   },
   "pt": {
    "q": "Qual jogador de futebol português venceu cinco Ligas dos Campeões da UEFA e é um dos maiores artilheiros da história?",
-   "c": [
-    "Cristiano Ronaldo",
-    "Luís Figo",
-    "Bruno Fernandes",
-    "Bernardo Silva"
-   ]
+   "c": ["Cristiano Ronaldo", "Luís Figo", "Bruno Fernandes", "Bernardo Silva"]
   },
   "a": 0,
   "image": null,
@@ -1002,48 +502,23 @@
  {
   "fr": {
    "q": "Quel sport est surnommé le « noble art » ?",
-   "c": [
-    "La boxe anglaise",
-    "L'escrime",
-    "Le judo",
-    "La lutte"
-   ]
+   "c": ["La boxe anglaise", "L'escrime", "Le judo", "La lutte"]
   },
   "en": {
    "q": "Which sport is nicknamed the 'sweet science' or 'noble art'?",
-   "c": [
-    "Boxing",
-    "Fencing",
-    "Judo",
-    "Wrestling"
-   ]
+   "c": ["Boxing", "Fencing", "Judo", "Wrestling"]
   },
   "ar": {
    "q": "ما هي الرياضة التي تُلقب بـ «الفن النبيل»؟",
-   "c": [
-    "الملاكمة",
-    "المبارزة",
-    "الجودو",
-    "المصارعة"
-   ]
+   "c": ["الملاكمة", "المبارزة", "الجودو", "المصارعة"]
   },
   "es": {
    "q": "¿Qué deporte es apodado el «noble arte»?",
-   "c": [
-    "El boxeo",
-    "La esgrima",
-    "El judo",
-    "La lucha"
-   ]
+   "c": ["El boxeo", "La esgrima", "El judo", "La lucha"]
   },
   "pt": {
    "q": "Qual esporte é apelidado de 'nobre arte'?",
-   "c": [
-    "O boxe",
-    "A esgrima",
-    "O judô",
-    "A luta livre"
-   ]
+   "c": ["O boxe", "A esgrima", "O judô", "A luta livre"]
   },
   "a": 0,
   "image": null,
@@ -1052,48 +527,23 @@
  {
   "fr": {
    "q": "Quel est le nom du trophée remis au vainqueur du championnat de hockey sur glace de la LNH (NHL) ?",
-   "c": [
-    "La Coupe Stanley",
-    "La Coupe Grey",
-    "Le trophée Vince Lombardi",
-    "Le trophée Larry O'Brien"
-   ]
+   "c": ["La Coupe Stanley", "La Coupe Grey", "Le trophée Vince Lombardi", "Le trophée Larry O'Brien"]
   },
   "en": {
    "q": "What is the name of the trophy awarded to the NHL ice hockey champions?",
-   "c": [
-    "The Stanley Cup",
-    "The Grey Cup",
-    "The Vince Lombardi Trophy",
-    "The Larry O'Brien Trophy"
-   ]
+   "c": ["The Stanley Cup", "The Grey Cup", "The Vince Lombardi Trophy", "The Larry O'Brien Trophy"]
   },
   "ar": {
    "q": "ما هو اسم الكأس المقدم للفائز بطولات دوري الهوكي الوطني (NHL)؟",
-   "c": [
-    "كأس ستانلي",
-    "كأس غراي",
-    "كأس فنس لومباردي",
-    "كأس لاري أوبراين"
-   ]
+   "c": ["كأس ستانلي", "كأس غراي", "كأس فنس لومباردي", "كأس لاري أوبراين"]
   },
   "es": {
    "q": "¿Cómo se llama el trofeo que se entrega al campeón de la liga de hockey sobre hielo de la NHL?",
-   "c": [
-    "La Copa Stanley",
-    "La Copa Grey",
-    "El trofeo Vince Lombardi",
-    "El trofeo Larry O'Brien"
-   ]
+   "c": ["La Copa Stanley", "La Copa Grey", "El trofeo Vince Lombardi", "El trofeo Larry O'Brien"]
   },
   "pt": {
    "q": "Qual é o nome do troféu concedido ao campeão da liga de hóquei no gelo da NHL?",
-   "c": [
-    "A Copa Stanley",
-    "A Copa Grey",
-    "O Troféu Vince Lombardi",
-    "O Troféu Larry O'Brien"
-   ]
+   "c": ["A Copa Stanley", "A Copa Grey", "O Troféu Vince Lombardi", "O Troféu Larry O'Brien"]
   },
   "a": 0,
   "image": null,
@@ -1102,48 +552,23 @@
  {
   "fr": {
    "q": "Quel pays a remporté la Coupe du monde de football féminin de la FIFA en 2023 ?",
-   "c": [
-    "L'Espagne",
-    "L'Angleterre",
-    "Les États-Unis",
-    "La Suède"
-   ]
+   "c": ["L'Espagne", "L'Angleterre", "Les États-Unis", "La Suède"]
   },
   "en": {
    "q": "Which country won the 2023 FIFA Women's World Cup?",
-   "c": [
-    "Spain",
-    "England",
-    "United States",
-    "Sweden"
-   ]
+   "c": ["Spain", "England", "United States", "Sweden"]
   },
   "ar": {
    "q": "أي دولة فازت بكأس العالم للسيدات لكرة القدم 2023؟",
-   "c": [
-    "إسبانيا",
-    "إنجلترا",
-    "الولايات المتحدة",
-    "السويد"
-   ]
+   "c": ["إسبانيا", "إنجلترا", "الولايات المتحدة", "السويد"]
   },
   "es": {
    "q": "¿Qué país ganó la Copa Mundial Femenina de Fútbol de 2023?",
-   "c": [
-    "España",
-    "Inglaterra",
-    "Estados Unidos",
-    "Suecia"
-   ]
+   "c": ["España", "Inglaterra", "Estados Unidos", "Suecia"]
   },
   "pt": {
    "q": "Qual país venceu a Copa do Mundo Feminina da FIFA de 2023?",
-   "c": [
-    "Espanha",
-    "Inglaterra",
-    "Estados Unidos",
-    "Suécia"
-   ]
+   "c": ["Espanha", "Inglaterra", "Estados Unidos", "Suécia"]
   },
   "a": 0,
   "image": null,
@@ -1152,48 +577,23 @@
  {
   "fr": {
    "q": "Quel athlète jamaïcain, surnommé 'Lightning Bolt', détient les records du monde du 100 mètres et du 200 mètres ?",
-   "c": [
-    "Usain Bolt",
-    "Yohan Blake",
-    "Asafa Powell",
-    "Justin Gatlin"
-   ]
+   "c": ["Usain Bolt", "Yohan Blake", "Asafa Powell", "Justin Gatlin"]
   },
   "en": {
    "q": "Which Jamaican athlete, nicknamed 'Lightning Bolt', holds the world records in the 100-meter and 200-meter sprints?",
-   "c": [
-    "Usain Bolt",
-    "Yohan Blake",
-    "Asafa Powell",
-    "Justin Gatlin"
-   ]
+   "c": ["Usain Bolt", "Yohan Blake", "Asafa Powell", "Justin Gatlin"]
   },
   "ar": {
    "q": "أي رياضي جاميكي، أُطلق عليه لقب 'البرق'، يحمل الرقم القياسي العالمي في سباقي 100 متر و200 متر؟",
-   "c": [
-    "يوسين بولت",
-    "يوهان بليك",
-    "أسافا باول",
-    "جاستن غاتلين"
-   ]
+   "c": ["يوسين بولت", "يوهان بليك", "أسافا باول", "جاستن غاتلين"]
   },
   "es": {
    "q": "¿Qué atleta jamaicano, apodado 'Lightning Bolt', ostenta los récords mundiales de los 100 y 200 metros lisos?",
-   "c": [
-    "Usain Bolt",
-    "Yohan Blake",
-    "Asafa Powell",
-    "Justin Gatlin"
-   ]
+   "c": ["Usain Bolt", "Yohan Blake", "Asafa Powell", "Justin Gatlin"]
   },
   "pt": {
    "q": "Qual atleta jamaicano, apelidado de 'Lightning Bolt', detém os recordes mundiais dos 100 e 200 metros rasos?",
-   "c": [
-    "Usain Bolt",
-    "Yohan Blake",
-    "Asafa Powell",
-    "Justin Gatlin"
-   ]
+   "c": ["Usain Bolt", "Yohan Blake", "Asafa Powell", "Justin Gatlin"]
   },
   "a": 0,
   "image": null,
@@ -1202,48 +602,23 @@
  {
   "fr": {
    "q": "Combien de joueurs composent une équipe de water-polo dans l'eau ?",
-   "c": [
-    "7",
-    "6",
-    "5",
-    "8"
-   ]
+   "c": ["7", "6", "5", "8"]
   },
   "en": {
    "q": "How many players make up a water polo team in the water?",
-   "c": [
-    "7",
-    "6",
-    "5",
-    "8"
-   ]
+   "c": ["7", "6", "5", "8"]
   },
   "ar": {
    "q": "كم عدد لاعبي فريق كرة الماء في الماء؟",
-   "c": [
-    "7",
-    "6",
-    "5",
-    "8"
-   ]
+   "c": ["7", "6", "5", "8"]
   },
   "es": {
    "q": "¿Cuántos jugadores componen un equipo de waterpolo en el agua?",
-   "c": [
-    "7",
-    "6",
-    "5",
-    "8"
-   ]
+   "c": ["7", "6", "5", "8"]
   },
   "pt": {
    "q": "Quantos jogadores compõem uma equipe de polo aquático na água?",
-   "c": [
-    "7",
-    "6",
-    "5",
-    "8"
-   ]
+   "c": ["7", "6", "5", "8"]
   },
   "a": 0,
   "image": null,
@@ -1252,48 +627,23 @@
  {
   "fr": {
    "q": "Quel tournoi de golf majeur se déroule traditionnellement chaque année à l'Augusta National Golf Club en Géorgie ?",
-   "c": [
-    "Le Masters Tournament",
-    "L'US Open",
-    "Le Open britannique",
-    "Le Championnat de la PGA"
-   ]
+   "c": ["Le Masters Tournament", "L'US Open", "Le Open britannique", "Le Championnat de la PGA"]
   },
   "en": {
    "q": "Which major golf tournament is traditionally held every year at the Augusta National Golf Club in Georgia?",
-   "c": [
-    "The Masters Tournament",
-    "The US Open",
-    "The Open Championship",
-    "The PGA Championship"
-   ]
+   "c": ["The Masters Tournament", "The US Open", "The Open Championship", "The PGA Championship"]
   },
   "ar": {
    "q": "أي بطولة غولف كبرى تقام تقليدياً كل عام في نادي أوغوستا الوطني للغولف في جورجيا؟",
-   "c": [
-    "بطولة الماسترز",
-    "بطولة أمريكا المفتوحة (US Open)",
-    "بطولة بريطانيا المفتوحة",
-    "بطولة رابطة لاعبي الغولف المحترفين (PGA)"
-   ]
+   "c": ["بطولة الماسترز", "بطولة أمريكا المفتوحة (US Open)", "بطولة بريطانيا المفتوحة", "بطولة رابطة لاعبي الغولف المحترفين (PGA)"]
   },
   "es": {
    "q": "¿Qué torneo major de golf se celebra tradicionalmente cada año en el Augusta National Golf Club en Georgia?",
-   "c": [
-    "El Torneo de Masters",
-    "El Abierto de Estados Unidos",
-    "El Abierto Británico",
-    "El Campeonato de la PGA"
-   ]
+   "c": ["El Torneo de Masters", "El Abierto de Estados Unidos", "El Abierto Británico", "El Campeonato de la PGA"]
   },
   "pt": {
    "q": "Qual torneio major de golfe é realizado tradicionalmente todos os anos no Augusta National Golf Club, na Geórgia?",
-   "c": [
-    "O Torneio Masters",
-    "O US Open",
-    "O The Open Championship",
-    "O Campeonato da PGA"
-   ]
+   "c": ["O Torneio Masters", "O US Open", "O The Open Championship", "O Campeonato da PGA"]
   },
   "a": 0,
   "image": null,
@@ -1302,48 +652,23 @@
  {
   "fr": {
    "q": "Dans quel sport utilise-t-on les termes 'strike', 'spare' et 'piste' ?",
-   "c": [
-    "Le bowling",
-    "Le billard",
-    "Le curling",
-    "La pétanque"
-   ]
+   "c": ["Le bowling", "Le billard", "Le curling", "La pétanque"]
   },
   "en": {
    "q": "In which sport are the terms 'strike', 'spare', and 'lane' used?",
-   "c": [
-    "Bowling",
-    "Billiards",
-    "Curling",
-    "Boules"
-   ]
+   "c": ["Bowling", "Billiards", "Curling", "Boules"]
   },
   "ar": {
    "q": "في أي رياضة تُستخدم مصطلحات 'سترايك' (strike)، 'سبير' (spare) و'الممر' (lane)؟",
-   "c": [
-    "البولينغ",
-    "البلياردو",
-    "الكيرلنغ",
-    "الكرة الحديدية (بيتانك)"
-   ]
+   "c": ["البولينغ", "البلياردو", "الكيرلنغ", "الكرة الحديدية (بيتانك)"]
   },
   "es": {
    "q": "¿En qué deporte se utilizan los términos «strike», «spare» y «pista»?",
-   "c": [
-    "Bolos",
-    "Billar",
-    "Curling",
-    "Petanca"
-   ]
+   "c": ["Bolos", "Billar", "Curling", "Petanca"]
   },
   "pt": {
    "q": "Em qual esporte são usados os termos 'strike', 'spare' e 'pista'?",
-   "c": [
-    "Boliche",
-    "Bilhar",
-    "Curling",
-    "Bocha"
-   ]
+   "c": ["Boliche", "Bilhar", "Curling", "Bocha"]
   },
   "a": 0,
   "image": null,
@@ -1352,48 +677,23 @@
  {
   "fr": {
    "q": "Quel pays a remporté la Coupe du monde de football de la FIFA 2022 au Qatar ?",
-   "c": [
-    "L'Argentine",
-    "La France",
-    "Le Brésil",
-    "L'Allemagne"
-   ]
+   "c": ["L'Argentine", "La France", "Le Brésil", "L'Allemagne"]
   },
   "en": {
    "q": "Which country won the 2022 FIFA World Cup in Qatar?",
-   "c": [
-    "Argentina",
-    "France",
-    "Brazil",
-    "Germany"
-   ]
+   "c": ["Argentina", "France", "Brazil", "Germany"]
   },
   "ar": {
    "q": "أي دولة فازت بكأس العالم لكرة القدم 2022 في قطر؟",
-   "c": [
-    "الأرجنتين",
-    "فرنسا",
-    "البرازيل",
-    "ألمانيا"
-   ]
+   "c": ["الأرجنتين", "فرنسا", "البرازيل", "ألمانيا"]
   },
   "es": {
    "q": "¿Qué país ganó la Copa Mundial de Fútbol de 2022 en Catar?",
-   "c": [
-    "Argentina",
-    "Francia",
-    "Brasil",
-    "Alemania"
-   ]
+   "c": ["Argentina", "Francia", "Brasil", "Alemania"]
   },
   "pt": {
    "q": "Qual país venceu a Copa do Mundo FIFA de 2022 no Catar?",
-   "c": [
-    "Argentina",
-    "França",
-    "Brasil",
-    "Alemanha"
-   ]
+   "c": ["Argentina", "França", "Brasil", "Alemanha"]
   },
   "a": 0,
   "image": null,
@@ -1402,48 +702,23 @@
  {
   "fr": {
    "q": "Combien de joueurs composent une équipe de basket-ball sur le terrain dans la NBA ?",
-   "c": [
-    "5",
-    "6",
-    "7",
-    "4"
-   ]
+   "c": ["5", "6", "7", "4"]
   },
   "en": {
    "q": "How many players make up a basketball team on the court in the NBA?",
-   "c": [
-    "5",
-    "6",
-    "7",
-    "4"
-   ]
+   "c": ["5", "6", "7", "4"]
   },
   "ar": {
    "q": "كم عدد لاعبي فريق كرة السلة على أرض الملعب في دوري المحترفين الأمريكي NBA؟",
-   "c": [
-    "5",
-    "6",
-    "7",
-    "4"
-   ]
+   "c": ["5", "6", "7", "4"]
   },
   "es": {
    "q": "¿Cuántos jugadores componen un equipo de baloncesto en la cancha en la NBA?",
-   "c": [
-    "5",
-    "6",
-    "7",
-    "4"
-   ]
+   "c": ["5", "6", "7", "4"]
   },
   "pt": {
    "q": "Quantos jogadores compõem uma equipe de basquete em quadra na NBA?",
-   "c": [
-    "5",
-    "6",
-    "7",
-    "4"
-   ]
+   "c": ["5", "6", "7", "4"]
   },
   "a": 0,
   "image": null,
@@ -1452,48 +727,23 @@
  {
   "fr": {
    "q": "Quel tournoi de tennis du Grand Chelem se dispute traditionnellement sur gazon à Londres ?",
-   "c": [
-    "Le tournoi de Wimbledon",
-    "L'US Open",
-    "Roland-Garros",
-    "L'Open d'Australie"
-   ]
+   "c": ["Le tournoi de Wimbledon", "L'US Open", "Roland-Garros", "L'Open d'Australie"]
   },
   "en": {
    "q": "Which Grand Slam tennis tournament is traditionally played on grass in London?",
-   "c": [
-    "Wimbledon",
-    "US Open",
-    "French Open",
-    "Australian Open"
-   ]
+   "c": ["Wimbledon", "US Open", "French Open", "Australian Open"]
   },
   "ar": {
    "q": "أي بطولة من بطولات الغراند سلام للتنس تقام تقليدياً على الملاعب العشبية في لندن؟",
-   "c": [
-    "بطولة ويمبلدون",
-    "بطولة أمريكا المفتوحة",
-    "بطولة رولان غاروس",
-    "بطولة أستراليا المفتوحة"
-   ]
+   "c": ["بطولة ويمبلدون", "بطولة أمريكا المفتوحة", "بطولة رولان غاروس", "بطولة أستراليا المفتوحة"]
   },
   "es": {
    "q": "¿Qué torneo de tenis de Grand Slam se disputa tradicionalmente sobre hierba en Londres?",
-   "c": [
-    "Wimbledon",
-    "Abierto de Estados Unidos",
-    "Roland Garros",
-    "Abierto de Australia"
-   ]
+   "c": ["Wimbledon", "Abierto de Estados Unidos", "Roland Garros", "Abierto de Australia"]
   },
   "pt": {
    "q": "Qual torneio de tênis de Grand Slam é tradicionalmente disputado em quadras de grama em Londres?",
-   "c": [
-    "Wimbledon",
-    "US Open",
-    "Roland Garros",
-    "Australian Open"
-   ]
+   "c": ["Wimbledon", "US Open", "Roland Garros", "Australian Open"]
   },
   "a": 0,
   "image": null,
@@ -1502,48 +752,23 @@
  {
   "fr": {
    "q": "Quel est le nom de la course cycliste par étapes la plus prestigieuse au monde, disputée chaque année en France ?",
-   "c": [
-    "Le Tour de France",
-    "Le Giro d'Italia",
-    "La Vuelta",
-    "Paris-Roubaix"
-   ]
+   "c": ["Le Tour de France", "Le Giro d'Italia", "La Vuelta", "Paris-Roubaix"]
   },
   "en": {
    "q": "What is the name of the most prestigious multi-stage bicycle race in the world, held annually in France?",
-   "c": [
-    "The Tour de France",
-    "The Giro d'Italia",
-    "The Vuelta a España",
-    "Paris-Roubaix"
-   ]
+   "c": ["The Tour de France", "The Giro d'Italia", "The Vuelta a España", "Paris-Roubaix"]
   },
   "ar": {
    "q": "ما هو اسم سباق الدراجات الهوائية المراحل الأكثر شهرة في العالم، والذي يقام سنوياً في فرنسا؟",
-   "c": [
-    "طواف فرنسا (تور دي فرانس)",
-    "طواف إيطاليا (جيرو دي إيطاليا)",
-    "طواف إسبانيا (لا فوييلتا)",
-    "باريس - روبيه"
-   ]
+   "c": ["طواف فرنسا (تور دي فرانس)", "طواف إيطاليا (جيرو دي إيطاليا)", "طواف إسبانيا (لا فوييلتا)", "باريس - روبيه"]
   },
   "es": {
    "q": "¿Cómo se llama la carrera ciclista por etapas más prestigiosa del mundo, que se celebra cada año en Francia?",
-   "c": [
-    "El Tour de Francia",
-    "El Giro de Italia",
-    "La Vuelta a España",
-    "París-Roubaix"
-   ]
+   "c": ["El Tour de Francia", "El Giro de Italia", "La Vuelta a España", "París-Roubaix"]
   },
   "pt": {
    "q": "Qual é o nome da corrida de ciclismo por etapas mais prestigiosa do mundo, realizada anualmente na França?",
-   "c": [
-    "O Tour de France",
-    "O Giro d'Italia",
-    "A Volta da Espanha",
-    "Paris-Roubaix"
-   ]
+   "c": ["O Tour de France", "O Giro d'Italia", "A Volta da Espanha", "Paris-Roubaix"]
   },
   "a": 0,
   "image": null,
@@ -1552,48 +777,23 @@
  {
   "fr": {
    "q": "Combien de trous compte traditionnellement un parcours de golf standard complet ?",
-   "c": [
-    "18 trous",
-    "9 trous",
-    "36 trous",
-    "12 trous"
-   ]
+   "c": ["18 trous", "9 trous", "36 trous", "12 trous"]
   },
   "en": {
    "q": "How many holes are traditionally played in a standard full round of golf?",
-   "c": [
-    "18 holes",
-    "9 holes",
-    "36 holes",
-    "12 holes"
-   ]
+   "c": ["18 holes", "9 holes", "36 holes", "12 holes"]
   },
   "ar": {
    "q": "كم عدد الحفر الموجودة تقليدياً في ملعب غولف قياسي كامل؟",
-   "c": [
-    "18 حفرة",
-    "9 حفر",
-    "36 حفرة",
-    "12 حفرة"
-   ]
+   "c": ["18 حفرة", "9 حفر", "36 حفرة", "12 حفرة"]
   },
   "es": {
    "q": "¿Cuántos hoyos tiene tradicionalmente un campo de golf estándar completo?",
-   "c": [
-    "18 hoyos",
-    "9 hoyos",
-    "36 hoyos",
-    "12 hoyos"
-   ]
+   "c": ["18 hoyos", "9 hoyos", "36 hoyos", "12 hoyos"]
   },
   "pt": {
    "q": "Quantos buracos tradicionalmente compõem um campo de golfe padrão completo?",
-   "c": [
-    "18 buracos",
-    "9 buracos",
-    "36 buracos",
-    "12 buracos"
-   ]
+   "c": ["18 buracos", "9 buracos", "36 buracos", "12 buracos"]
   },
   "a": 0,
   "image": null,
@@ -1602,48 +802,23 @@
  {
   "fr": {
    "q": "Quel pays a remporté la Coupe du monde de football de la FIFA 1998 à domicile ?",
-   "c": [
-    "La France",
-    "Le Brésil",
-    "L'Italie",
-    "L'Allemagne"
-   ]
+   "c": ["La France", "Le Brésil", "L'Italie", "L'Allemagne"]
   },
   "en": {
    "q": "Which country won the 1998 FIFA World Cup on home soil?",
-   "c": [
-    "France",
-    "Brazil",
-    "Italy",
-    "Germany"
-   ]
+   "c": ["France", "Brazil", "Italy", "Germany"]
   },
   "ar": {
    "q": "أي دولة فازت بكأس العالم لكرة القدم 1998 على أرضها؟",
-   "c": [
-    "فرنسا",
-    "البرازيل",
-    "إيطاليا",
-    "ألمانيا"
-   ]
+   "c": ["فرنسا", "البرازيل", "إيطاليا", "ألمانيا"]
   },
   "es": {
    "q": "¿Qué país ganó la Copa Mundial de Fútbol de 1998 como anfitrión?",
-   "c": [
-    "Francia",
-    "Brasil",
-    "Italia",
-    "Alemania"
-   ]
+   "c": ["Francia", "Brasil", "Italia", "Alemania"]
   },
   "pt": {
    "q": "Qual país venceu a Copa do Mundo FIFA de 1998 em casa?",
-   "c": [
-    "França",
-    "Brasil",
-    "Itália",
-    "Alemanha"
-   ]
+   "c": ["França", "Brasil", "Itália", "Alemanha"]
   },
   "a": 0,
   "image": null,
@@ -1652,48 +827,23 @@
  {
   "fr": {
    "q": "Quel nageur français a remporté quatre médailles d'or olympiques individuelles lors des Jeux de 2012 et 2016 ?",
-   "c": [
-    "Yannick Agnel",
-    "Alain Bernard",
-    "Frédérick Bousquet",
-    "Camille Lacourt"
-   ]
+   "c": ["Yannick Agnel", "Alain Bernard", "Frédérick Bousquet", "Camille Lacourt"]
   },
   "en": {
    "q": "Which French swimmer won four individual Olympic gold medals across the 2012 and 2016 Games?",
-   "c": [
-    "Yannick Agnel",
-    "Alain Bernard",
-    "Frédérick Bousquet",
-    "Camille Lacourt"
-   ]
+   "c": ["Yannick Agnel", "Alain Bernard", "Frédérick Bousquet", "Camille Lacourt"]
   },
   "ar": {
    "q": "أي سباح فرنسي فاز بأربع ميداليات ذهبية أولمبية فردية في دورتي 2012 و2016؟",
-   "c": [
-    "يانيك أَنْييل",
-    "آلان برنارد",
-    "فريدريك بوسكيه",
-    "كاميل لاكور"
-   ]
+   "c": ["يانيك أَنْييل", "آلان برنارد", "فريدريك بوسكيه", "كاميل لاكور"]
   },
   "es": {
    "q": "¿Qué nadador francés ganó cuatro medallas de oro olímpicas individuales en los Juegos de 2012 y 2016?",
-   "c": [
-    "Yannick Agnel",
-    "Alain Bernard",
-    "Frédérick Bousquet",
-    "Camille Lacourt"
-   ]
+   "c": ["Yannick Agnel", "Alain Bernard", "Frédérick Bousquet", "Camille Lacourt"]
   },
   "pt": {
    "q": "Qual nadador francês ganhou quatro medalhas de ouro olímpicas individuais nos Jogos de 2012 e 2016?",
-   "c": [
-    "Yannick Agnel",
-    "Alain Bernard",
-    "Frédérick Bousquet",
-    "Camille Lacourt"
-   ]
+   "c": ["Yannick Agnel", "Alain Bernard", "Frédérick Bousquet", "Camille Lacourt"]
   },
   "a": 0,
   "image": null,
@@ -1702,48 +852,23 @@
  {
   "fr": {
    "q": "Quel est le nom de la compétition annuelle de rugby opposant six nations européennes ?",
-   "c": [
-    "Le Tournoi des Six Nations",
-    "Le Rugby Championship",
-    "La Coupe d'Europe",
-    "Le Super Rugby"
-   ]
+   "c": ["Le Tournoi des Six Nations", "Le Rugby Championship", "La Coupe d'Europe", "Le Super Rugby"]
   },
   "en": {
    "q": "What is the name of the annual rugby union competition contested by six European nations?",
-   "c": [
-    "The Six Nations Championship",
-    "The Rugby Championship",
-    "The European Cup",
-    "Super Rugby"
-   ]
+   "c": ["The Six Nations Championship", "The Rugby Championship", "The European Cup", "Super Rugby"]
   },
   "ar": {
    "q": "ما هو اسم بطولة الرغبي السنوية التي تنافس فيها ست دول أوروبية؟",
-   "c": [
-    "بطولة الأمم الستة",
-    "بطولة الرغبي للبطولة (Rugby Championship)",
-    "كأس أوروبا",
-    "سوبر رغبي"
-   ]
+   "c": ["بطولة الأمم الستة", "بطولة الرغبي للبطولة (Rugby Championship)", "كأس أوروبا", "سوبر رغبي"]
   },
   "es": {
    "q": "¿Cómo se llama la competición anual de rugby disputada por seis naciones europeas?",
-   "c": [
-    "El Torneo de las Seis Naciones",
-    "El Rugby Championship",
-    "La Copa de Europa",
-    "Super Rugby"
-   ]
+   "c": ["El Torneo de las Seis Naciones", "El Rugby Championship", "La Copa de Europa", "Super Rugby"]
   },
   "pt": {
    "q": "Qual é o nome da competição anual de rugby disputada por seis nações europeias?",
-   "c": [
-    "O Torneio das Seis Nações",
-    "O Rugby Championship",
-    "A Copa Europeia",
-    "Super Rugby"
-   ]
+   "c": ["O Torneio das Seis Nações", "O Rugby Championship", "A Copa Europeia", "Super Rugby"]
   },
   "a": 0,
   "image": null,
@@ -1752,48 +877,23 @@
  {
   "fr": {
    "q": "Quel pilote automobile espagnol a remporté deux championnats du monde de Formule 1 en 2005 et 2006 ?",
-   "c": [
-    "Fernando Alonso",
-    "Carlos Sainz",
-    "Marc Gené",
-    "Pedro de la Rosa"
-   ]
+   "c": ["Fernando Alonso", "Carlos Sainz", "Marc Gené", "Pedro de la Rosa"]
   },
   "en": {
    "q": "Which Spanish racing driver won two Formula 1 World Championships in 2005 and 2006?",
-   "c": [
-    "Fernando Alonso",
-    "Carlos Sainz",
-    "Marc Gené",
-    "Pedro de la Rosa"
-   ]
+   "c": ["Fernando Alonso", "Carlos Sainz", "Marc Gené", "Pedro de la Rosa"]
   },
   "ar": {
    "q": "أي سائق سيارات إسباني فاز ببطولتي العالم لسباقات الفورمولا 1 عامي 2005 و2006؟",
-   "c": [
-    "فرناندو ألونسو",
-    "كارلوس ساينز",
-    "مارك جينيه",
-    "بيدرو دي لا روزا"
-   ]
+   "c": ["فرناندو ألونسو", "كارلوس ساينز", "مارك جينيه", "بيدرو دي لا روزا"]
   },
   "es": {
    "q": "¿Qué piloto de automovilismo español ganó dos campeonatos del mundo de Fórmula 1 en 2005 y 2006?",
-   "c": [
-    "Fernando Alonso",
-    "Carlos Sainz",
-    "Marc Gené",
-    "Pedro de la Rosa"
-   ]
+   "c": ["Fernando Alonso", "Carlos Sainz", "Marc Gené", "Pedro de la Rosa"]
   },
   "pt": {
    "q": "Qual piloto de automobilismo espanhol venceu dois Campeonatos Mundiais de Fórmula 1 em 2005 e 2006?",
-   "c": [
-    "Fernando Alonso",
-    "Carlos Sainz",
-    "Marc Gené",
-    "Pedro de la Rosa"
-   ]
+   "c": ["Fernando Alonso", "Carlos Sainz", "Marc Gené", "Pedro de la Rosa"]
   },
   "a": 0,
   "image": null,
@@ -1802,48 +902,23 @@
  {
   "fr": {
    "q": "Dans quel art martial d'origine japonaise utilise-t-on des projections et des clés articulaires, sans frappes ?",
-   "c": [
-    "Le judo",
-    "Le karaté",
-    "Le taekwondo",
-    "Le kick-boxing"
-   ]
+   "c": ["Le judo", "Le karaté", "Le taekwondo", "Le kick-boxing"]
   },
   "en": {
    "q": "In which Japanese martial art are throws and joint locks used, without striking?",
-   "c": [
-    "Judo",
-    "Karate",
-    "Taekwondo",
-    "Kickboxing"
-   ]
+   "c": ["Judo", "Karate", "Taekwondo", "Kickboxing"]
   },
   "ar": {
    "q": "في أي فن قتالي ذو أصل ياباني تُستخدم الرميات وإحكام القفل على المفاصل، دون تسديد ضربات باليد أو القدم؟",
-   "c": [
-    "الجودو",
-    "الكاراتيه",
-    "التايكوندو",
-    "الكيك بوكسينغ"
-   ]
+   "c": ["الجودو", "الكاراتيه", "التايكوندو", "الكيك بوكسينغ"]
   },
   "es": {
    "q": "¿En qué arte marcial de origen japonés se utilizan proyecciones y llaves articulares, sin golpes?",
-   "c": [
-    "Judo",
-    "Karate",
-    "Taekwondo",
-    "Kickboxing"
-   ]
+   "c": ["Judo", "Karate", "Taekwondo", "Kickboxing"]
   },
   "pt": {
    "q": "Em qual arte marcial de origem japonesa são usados arremessos e chaves articulares, sem socos ou chutes?",
-   "c": [
-    "Judô",
-    "Caratê",
-    "Taekwondo",
-    "Kickboxing"
-   ]
+   "c": ["Judô", "Caratê", "Taekwondo", "Kickboxing"]
   },
   "a": 0,
   "image": null,
@@ -1852,48 +927,23 @@
  {
   "fr": {
    "q": "Quel pays a remporté la Coupe du monde de football de la FIFA 2014 au Brésil ?",
-   "c": [
-    "L'Allemagne",
-    "L'Argentine",
-    "Le Brésil",
-    "L'Espagne"
-   ]
+   "c": ["L'Allemagne", "L'Argentine", "Le Brésil", "L'Espagne"]
   },
   "en": {
    "q": "Which country won the 2014 FIFA World Cup in Brazil?",
-   "c": [
-    "Germany",
-    "Argentina",
-    "Brazil",
-    "Spain"
-   ]
+   "c": ["Germany", "Argentina", "Brazil", "Spain"]
   },
   "ar": {
    "q": "أي دولة فازت بكأس العالم لكرة القدم 2014 في البرازيل؟",
-   "c": [
-    "ألمانيا",
-    "الأرجنتين",
-    "البرازيل",
-    "إسبانيا"
-   ]
+   "c": ["ألمانيا", "الأرجنتين", "البرازيل", "إسبانيا"]
   },
   "es": {
    "q": "¿Qué país ganó la Copa Mundial de Fútbol de 2014 en Brasil?",
-   "c": [
-    "Alemania",
-    "Argentina",
-    "Brasil",
-    "España"
-   ]
+   "c": ["Alemania", "Argentina", "Brasil", "España"]
   },
   "pt": {
    "q": "Qual país venceu a Copa do Mundo FIFA de 2014 no Brasil?",
-   "c": [
-    "Alemanha",
-    "Argentina",
-    "Brasil",
-    "Espanha"
-   ]
+   "c": ["Alemanha", "Argentina", "Brasil", "Espanha"]
   },
   "a": 0,
   "image": null,
@@ -1902,48 +952,23 @@
  {
   "fr": {
    "q": "Quel skieur alpin autrichien est considéré comme l'un des plus grands de tous les temps avec ses 8 globes de cristal généraux ?",
-   "c": [
-    "Marcel Hirscher",
-    "Hermann Maier",
-    "Benjamin Raich",
-    "Stefan Eberharter"
-   ]
+   "c": ["Marcel Hirscher", "Hermann Maier", "Benjamin Raich", "Stefan Eberharter"]
   },
   "en": {
    "q": "Which Austrian alpine skier is considered one of the greatest of all time with 8 overall crystal globes?",
-   "c": [
-    "Marcel Hirscher",
-    "Hermann Maier",
-    "Benjamin Raich",
-    "Stefan Eberharter"
-   ]
+   "c": ["Marcel Hirscher", "Hermann Maier", "Benjamin Raich", "Stefan Eberharter"]
   },
   "ar": {
    "q": "أي متزلج نمساوي على المنحدرات الثلجية يُعتبر من الأعظم في كل العصور بحصوله على 8 كرات بلورية عامة؟",
-   "c": [
-    "مارسيل هيرشر",
-    "هيرمان ماير",
-    "بينجامين رايش",
-    "ستيفان إيبرهارتر"
-   ]
+   "c": ["مارسيل هيرشر", "هيرمان ماير", "بينجامين رايش", "ستيفان إيبرهارتر"]
   },
   "es": {
    "q": "¿Qué esquiador alpino austriaco es considerado uno de los mejores de todos los tiempos con sus 8 globos de cristal generales?",
-   "c": [
-    "Marcel Hirscher",
-    "Hermann Maier",
-    "Benjamin Raich",
-    "Stefan Eberharter"
-   ]
+   "c": ["Marcel Hirscher", "Hermann Maier", "Benjamin Raich", "Stefan Eberharter"]
   },
   "pt": {
    "q": "Qual esquiador alpino austríaco é considerado um dos maiores de todos os tempos com seus 8 globos de cristal gerais?",
-   "c": [
-    "Marcel Hirscher",
-    "Hermann Maier",
-    "Benjamin Raich",
-    "Stefan Eberharter"
-   ]
+   "c": ["Marcel Hirscher", "Hermann Maier", "Benjamin Raich", "Stefan Eberharter"]
   },
   "a": 0,
   "image": null,
@@ -1952,48 +977,23 @@
  {
   "fr": {
    "q": "Combien de joueurs composent une équipe de baseball sur le terrain lors d'un match de la MLB ?",
-   "c": [
-    "9",
-    "8",
-    "10",
-    "7"
-   ]
+   "c": ["9", "8", "10", "7"]
   },
   "en": {
    "q": "How many players make up a baseball team on the field during an MLB game?",
-   "c": [
-    "9",
-    "8",
-    "10",
-    "7"
-   ]
+   "c": ["9", "8", "10", "7"]
   },
   "ar": {
    "q": "كم عدد لاعبي فريق البيسبول على أرض الملعب خلال مباراة في دوري المحترفين MLB؟",
-   "c": [
-    "9",
-    "8",
-    "10",
-    "7"
-   ]
+   "c": ["9", "8", "10", "7"]
   },
   "es": {
    "q": "¿Cuántos jugadores componen un equipo de béisbol en el campo durante un partido de la MLB?",
-   "c": [
-    "9",
-    "8",
-    "10",
-    "7"
-   ]
+   "c": ["9", "8", "10", "7"]
   },
   "pt": {
    "q": "Quantos jogadores compõem uma equipe de beisebol em campo durante uma partida da MLB?",
-   "c": [
-    "9",
-    "8",
-    "10",
-    "7"
-   ]
+   "c": ["9", "8", "10", "7"]
   },
   "a": 0,
   "image": null,
@@ -2002,48 +1002,23 @@
  {
   "fr": {
    "q": "Quel footballeur argentin, surnommé 'La Pulga', a remporté plusieurs Ballons d'Or et la Coupe du monde 2022 ?",
-   "c": [
-    "Lionel Messi",
-    "Diego Maradona",
-    "Sergio Agüero",
-    "Ángel Di María"
-   ]
+   "c": ["Lionel Messi", "Diego Maradona", "Sergio Agüero", "Ángel Di María"]
   },
   "en": {
    "q": "Which Argentine footballer, nicknamed 'La Pulga', has won multiple Ballon d'Or awards and the 2022 World Cup?",
-   "c": [
-    "Lionel Messi",
-    "Diego Maradona",
-    "Sergio Agüero",
-    "Ángel Di María"
-   ]
+   "c": ["Lionel Messi", "Diego Maradona", "Sergio Agüero", "Ángel Di María"]
   },
   "ar": {
    "q": "أي لاعب كرة قدم أرجنتيني، يُلقب بـ 'البرغوث'، فاز بعدة كرات ذهبية وكأس العالم 2022؟",
-   "c": [
-    "ليونيل ميسي",
-    "دييغو مارادونا",
-    "سرخيو أغويرو",
-    "آنخل دي ماريا"
-   ]
+   "c": ["ليونيل ميسي", "دييغو مارادونا", "سرخيو أغويرو", "آنخل دي ماريا"]
   },
   "es": {
    "q": "¿Qué futbolista argentino, apodado «La Pulga», ha ganado varios Balones de Oro y el Mundial de 2022?",
-   "c": [
-    "Lionel Messi",
-    "Diego Maradona",
-    "Sergio Agüero",
-    "Ángel Di María"
-   ]
+   "c": ["Lionel Messi", "Diego Maradona", "Sergio Agüero", "Ángel Di María"]
   },
   "pt": {
    "q": "Qual futebolista argentino, apelidado de 'La Pulga', venceu várias Bolas de Ouro e a Copa do Mundo de 2022?",
-   "c": [
-    "Lionel Messi",
-    "Diego Maradona",
-    "Sergio Agüero",
-    "Ángel Di María"
-   ]
+   "c": ["Lionel Messi", "Diego Maradona", "Sergio Agüero", "Ángel Di María"]
   },
   "a": 0,
   "image": null,
@@ -2052,51 +1027,1479 @@
  {
   "fr": {
    "q": "Dans quel pays se déroule traditionnellement le tournoi de tennis de l'US Open, l'un des quatre tournois du Grand Chelem ?",
-   "c": [
-    "Les États-Unis",
-    "Le Royaume-Uni",
-    "L'Australie",
-    "La France"
-   ]
+   "c": ["Les États-Unis", "Le Royaume-Uni", "L'Australie", "La France"]
   },
   "en": {
    "q": "In which country does the US Open tennis tournament, one of the four Grand Slam tournaments, traditionally take place?",
-   "c": [
-    "United States",
-    "United Kingdom",
-    "Australia",
-    "France"
-   ]
+   "c": ["United States", "United Kingdom", "Australia", "France"]
   },
   "ar": {
    "q": "في أي دولة تقام تقليدياً بطولة أمريكا المفتوحة للتنس، إحدى بطولات الغراند سلام الأربع الكبرى؟",
-   "c": [
-    "الولايات المتحدة",
-    "المملكة المتحدة",
-    "أستراليا",
-    "فرنسا"
-   ]
+   "c": ["الولايات المتحدة", "المملكة المتحدة", "أستراليا", "فرنسا"]
   },
   "es": {
    "q": "¿En qué país se celebra tradicionalmente el torneo de tenis US Open, uno de los cuatro torneos de Grand Slam?",
-   "c": [
-    "Estados Unidos",
-    "Reino Unido",
-    "Australia",
-    "Francia"
-   ]
+   "c": ["Estados Unidos", "Reino Unido", "Australia", "Francia"]
   },
   "pt": {
    "q": "Em qual país acontece tradicionalmente o torneio de tênis US Open, um dos quatro torneios de Grand Slam?",
-   "c": [
-    "Estados Unidos",
-    "Reino Unido",
-    "Austrália",
-    "França"
-   ]
+   "c": ["Estados Unidos", "Reino Unido", "Austrália", "França"]
   },
   "a": 0,
   "image": null,
   "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel pays a remporté la première Coupe du monde de football de l'histoire en 1930 ?",
+   "c": ["L'Uruguay", "L'Argentine", "Le Brésil", "L'Italie"]
+  },
+  "en": {
+   "q": "Which country won the first-ever FIFA World Cup in 1930?",
+   "c": ["Uruguay", "Argentina", "Brazil", "Italy"]
+  },
+  "ar": {
+   "q": "أي دولة فازت بأول كأس عالم لكرة القدم في التاريخ عام 1930؟",
+   "c": ["أوروغواي", "الأرجنتين", "البرازيل", "إيطاليا"]
+  },
+  "es": {
+   "q": "¿Qué país ganó la primera Copa Mundial de Fútbol de la historia en 1930?",
+   "c": ["Uruguay", "Argentina", "Brasil", "Italia"]
+  },
+  "pt": {
+   "q": "Qual país venceu a primeira Copa do Mundo da história em 1930?",
+   "c": ["Uruguai", "Argentina", "Brasil", "Itália"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel athlète est le seul de l'histoire à avoir couru le 100 mètres en moins de 9,58 secondes ?",
+   "c": ["Usain Bolt", "Tyson Gay", "Yohan Blake", "Asafa Powell"]
+  },
+  "en": {
+   "q": "Which athlete is the only one in history to run the 100 meters in under 9.58 seconds?",
+   "c": ["Usain Bolt", "Tyson Gay", "Yohan Blake", "Asafa Powell"]
+  },
+  "ar": {
+   "q": "أي رياضي هو الوحيد في التاريخ الذي جرى سباق 100 متر في أقل من 9.58 ثانية؟",
+   "c": ["يوسين بولت", "تايسون غاي", "يوهان بليك", "أسافا باول"]
+  },
+  "es": {
+   "q": "¿Qué atleta es el único en la historia en correr los 100 metros en menos de 9,58 segundos?",
+   "c": ["Usain Bolt", "Tyson Gay", "Yohan Blake", "Asafa Powell"]
+  },
+  "pt": {
+   "q": "Qual atleta é o único na história a correr os 100 metros em menos de 9,58 segundos?",
+   "c": ["Usain Bolt", "Tyson Gay", "Yohan Blake", "Asafa Powell"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel club de football détient le record du plus grand nombre de Ligues des champions de l'UEFA (C1) ?",
+   "c": ["Le Real Madrid", "L'AC Milan", "Le Bayern Munich", "Le Liverpool FC"]
+  },
+  "en": {
+   "q": "Which football club holds the record for the most UEFA Champions League titles?",
+   "c": ["Real Madrid", "AC Milan", "Bayern Munich", "Liverpool FC"]
+  },
+  "ar": {
+   "q": "أي نادي كرة قدم يحمل الرقم القياسي لأكبر عدد من ألقاب دوري أبطال أوروبا؟",
+   "c": ["ريال مدريد", "إيه سي ميلان", "بايرن ميونخ", "نادي ليفربول"]
+  },
+  "es": {
+   "q": "¿Qué club de fútbol ostenta el récord de más títulos de la Liga de Campeones de la UEFA?",
+   "c": ["Real Madrid", "AC Milan", "Bayern de Múnich", "Liverpool FC"]
+  },
+  "pt": {
+   "q": "Qual clube de futebol detém o recorde de maior número de títulos da Liga dos Campeões da UEFA?",
+   "c": ["Real Madrid", "AC Milan", "Bayern de Munique", "Liverpool FC"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel pilote automobile brésilien, triple champion du monde de F1, est tragiquement décédé à Imola en 1994 ?",
+   "c": ["Ayrton Senna", "Nelson Piquet", "Emerson Fittipaldi", "Rubens Barrichello"]
+  },
+  "en": {
+   "q": "Which Brazilian racing driver, a triple F1 world champion, tragically died at Imola in 1994?",
+   "c": ["Ayrton Senna", "Nelson Piquet", "Emerson Fittipaldi", "Rubens Barrichello"]
+  },
+  "ar": {
+   "q": "أي سائق سيارات برازيلي، بطل العالم ثلاث مرات في الفورمولا 1، توفي بشكل مأساوي في إيمولا عام 1994؟",
+   "c": ["آيرتون سينا", "نيلسون بيكيه", "إيمرسون فيتيبالدي", "روبينز باريكيلو"]
+  },
+  "es": {
+   "q": "¿Qué piloto de automovilismo brasileño, triple campeón mundial de F1, falleció trágicamente en Imola en 1994?",
+   "c": ["Ayrton Senna", "Nelson Piquet", "Emerson Fittipaldi", "Rubens Barrichello"]
+  },
+  "pt": {
+   "q": "Qual piloto de automobilismo brasileiro, tricampeão mundial de F1, faleceu tragicamente em Ímola em 1994?",
+   "c": ["Ayrton Senna", "Nelson Piquet", "Emerson Fittipaldi", "Rubens Barrichello"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel est le nom de la surface sur laquelle se dispute le tournoi de tennis de l'Open d'Australie ?",
+   "c": ["Le dur (Plexicushion / GreenSet)", "La terre battue", "Le gazon", "La moquette"]
+  },
+  "en": {
+   "q": "What is the surface type used for the Australian Open tennis tournament?",
+   "c": ["Hard court", "Clay court", "Grass court", "Carpet court"]
+  },
+  "ar": {
+   "q": "ما هو نوع الأرضية التي تُقام عليها بطولة أستراليا المفتوحة للتنس؟",
+   "c": ["صلبة (هارد)", "ترابية (رملية)", "عشبية", "موكيت"]
+  },
+  "es": {
+   "q": "¿Cuál es la superficie sobre la que se disputa el torneo de tenis del Abierto de Australia?",
+   "c": ["Pista dura", "Tierra batida", "Hierba", "Moqueta"]
+  },
+  "pt": {
+   "q": "Qual é o piso em que é disputado o torneio de tênis do Australian Open?",
+   "c": ["Quadra dura", "Saibro", "Grama", "Carpete"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel basketteur américain a inscrit 100 points lors d'un seul match NBA en 1962 ?",
+   "c": ["Wilt Chamberlain", "Kobe Bryant", "Michael Jordan", "Kareem Abdul-Jabbar"]
+  },
+  "en": {
+   "q": "Which American basketball player scored 100 points in a single NBA game in 1962?",
+   "c": ["Wilt Chamberlain", "Kobe Bryant", "Michael Jordan", "Kareem Abdul-Jabbar"]
+  },
+  "ar": {
+   "q": "أي لاعب كرة سلة أمريكي سجل 100 نقطة في مباراة واحدة في الدوري الأمريكي للمحترفين عام 1962؟",
+   "c": ["ويلت تشامبرلين", "كوبي برايانت", "مايكل جوردان", "كريم عبد الجبار"]
+  },
+  "es": {
+   "q": "¿Qué jugador de baloncesto estadounidense anotó 100 puntos en un solo partido de la NBA en 1962?",
+   "c": ["Wilt Chamberlain", "Kobe Bryant", "Michael Jordan", "Kareem Abdul-Jabbar"]
+  },
+  "pt": {
+   "q": "Qual jogador de basquete americano marcou 100 pontos em uma única partida da NBA em 1962?",
+   "c": ["Wilt Chamberlain", "Kobe Bryant", "Michael Jordan", "Kareem Abdul-Jabbar"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel pays a remporté la Coupe du monde de rugby à XV pour la première fois en 1987 ?",
+   "c": ["La Nouvelle-Zélande", "L'Australie", "La France", "L'Afrique du Sud"]
+  },
+  "en": {
+   "q": "Which country won the inaugural Rugby World Cup in 1987?",
+   "c": ["New Zealand", "Australia", "France", "South Africa"]
+  },
+  "ar": {
+   "q": "أي دولة فازت ببطولة كأس العالم للرغبي لأول مرة عام 1987؟",
+   "c": ["نيوزيلندا", "أستراليا", "فرنسا", "جنوب إفريقيا"]
+  },
+  "es": {
+   "q": "¿Qué país ganó la primera Copa del Mundo de Rugby en 1987?",
+   "c": ["Nueva Zelanda", "Australia", "Francia", "Sudáfrica"]
+  },
+  "pt": {
+   "q": "Qual país venceu a primeira Copa do Mundo de Rugby em 1987?",
+   "c": ["Nova Zelândia", "Austrália", "França", "África do Sul"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel cycliste détient le record du plus grand nombre de victoires d'étape sur le Tour de France ?",
+   "c": ["Mark Cavendish", "Eddy Merckx", "Bernard Hinault", "Lance Armstrong"]
+  },
+  "en": {
+   "q": "Which cyclist holds the record for the most stage wins in the Tour de France?",
+   "c": ["Mark Cavendish", "Eddy Merckx", "Bernard Hinault", "Lance Armstrong"]
+  },
+  "ar": {
+   "q": "أي دراج يحمل الرقم القياسي لأكبر عدد من انتصارات المراحل في طواف فرنسا؟",
+   "c": ["مارك كافنديش", "إيدي ميركس", "برنار هينو", "لانس آرمسترونغ"]
+  },
+  "es": {
+   "q": "¿Qué ciclista ostenta el récord de más victorias de etapa en el Tour de Francia?",
+   "c": ["Mark Cavendish", "Eddy Merckx", "Bernard Hinault", "Lance Armstrong"]
+  },
+  "pt": {
+   "q": "Qual ciclista detém o recorde de maior número de vitórias de etapa no Tour de France?",
+   "c": ["Mark Cavendish", "Eddy Merckx", "Bernard Hinault", "Lance Armstrong"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel joueur de tennis a remporté le tournoi de Wimbledon en 2001 en tant qu'invité (« wildcard »), créant l'une des plus grandes surprises de l'histoire du sport ?",
+   "c": ["Goran Ivanišević", "Michael Chang", "Patrick Rafter", "Tim Henman"]
+  },
+  "en": {
+   "q": "Which tennis player won the 2001 Wimbledon tournament as a wildcard, creating one of the biggest upsets in sports history?",
+   "c": ["Goran Ivanišević", "Michael Chang", "Patrick Rafter", "Tim Henman"]
+  },
+  "ar": {
+   "q": "أي لاعب تنس فاز ببطولة ويمبلدون عام 2001 كلاعب مشارك بدعوة خاصة (وايلد كارد)، محققاً واحدة من أكبر المفاجآت في تاريخ الرياضة؟",
+   "c": ["غوران إيفانيشيفيتش", "مايكل تشانغ", "باتريك رافتر", "تيم هينمان"]
+  },
+  "es": {
+   "q": "¿Qué tenista ganó el torneo de Wimbledon en 2001 como invitado («wildcard»), creando una de las mayores sorpresas de la historia del deporte?",
+   "c": ["Goran Ivanišević", "Michael Chang", "Patrick Rafter", "Tim Henman"]
+  },
+  "pt": {
+   "q": "Qual tenista venceu o torneio de Wimbledon em 2001 como convite ('wildcard'), criando uma das maiores zebras da história do esporte?",
+   "c": ["Goran Ivanišević", "Michael Chang", "Patrick Rafter", "Tim Henman"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Quel est le nom de l'athlète sud-africain, amputé des deux jambes, qui a participé aux Jeux olympiques de Londres 2012 chez les valides ?",
+   "c": ["Oscar Pistorius", "Ntando Mahlangu", "Arnu Fourie", "Fanie Lombaard"]
+  },
+  "en": {
+   "q": "What is the name of the South African double-amputee athlete who competed against able-bodied athletes at the 2012 London Olympics?",
+   "c": ["Oscar Pistorius", "Ntando Mahlangu", "Arnu Fourie", "Fanie Lombaard"]
+  },
+  "ar": {
+   "q": "ما هو اسم الرياضي الجنوب إفريقي، مبتور الساقين، الذي شارك في دورة الألعاب الأولمبية في لندن 2012 مع الأصحاء؟",
+   "c": ["أوسكار بيستوريوس", "نتاندو ماهلانغو", "أرنو فوري", "فاني لومبارد"]
+  },
+  "es": {
+   "q": "¿Cuál es el nombre del atleta sudafricano, con doble amputación, que compitió en los Juegos Olímpicos de Londres 2012 contra atletas sin discapacidad?",
+   "c": ["Oscar Pistorius", "Ntando Mahlangu", "Arnu Fourie", "Fanie Lombaard"]
+  },
+  "pt": {
+   "q": "Qual é o nome do atleta sul-africano, duplo amputado, que competiu nos Jogos Olímpicos de Londres 2012 entre atletas sem deficiência?",
+   "c": ["Oscar Pistorius", "Ntando Mahlangu", "Arnu Fourie", "Fanie Lombaard"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Quel boxeur a infligé à Muhammad Ali sa première défaite professionnelle en 1971 lors du « Combat du siècle » ?",
+   "c": ["Joe Frazier", "George Foreman", "Ken Norton", "Sonny Liston"]
+  },
+  "en": {
+   "q": "Which boxer handed Muhammad Ali his first professional defeat in 1971 during the 'Fight of the Century'?",
+   "c": ["Joe Frazier", "George Foreman", "Ken Norton", "Sonny Liston"]
+  },
+  "ar": {
+   "q": "أي ملاكم ألحق بمحمد علي كلاي أول هزيمة احترافية له عام 1971 خلال «نزال القرن»؟",
+   "c": ["جو فريزر", "جورج فورمان", "كين نورتون", "سوني ليستون"]
+  },
+  "es": {
+   "q": "¿Qué boxeador le infligió a Muhammad Ali su primera derrota profesional en 1971 durante la «Pelea del siglo»?",
+   "c": ["Joe Frazier", "George Foreman", "Ken Norton", "Sonny Liston"]
+  },
+  "pt": {
+   "q": "Qual boxeador infligiu a Muhammad Ali sua primeira derrota profissional em 1971 durante a 'Luta do Século'?",
+   "c": ["Joe Frazier", "George Foreman", "Ken Norton", "Sonny Liston"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Quel pays a remporté la Coupe du monde de football de la FIFA 1954 en battant la Hongrie en finale (le « Miracle de Berne ») ?",
+   "c": ["L'Allemagne de l'Ouest", "L'Autriche", "La Suisse", "L'Uruguay"]
+  },
+  "en": {
+   "q": "Which country won the 1954 FIFA World Cup by defeating Hungary in the final (the 'Miracle of Bern')?",
+   "c": ["West Germany", "Austria", "Switzerland", "Uruguay"]
+  },
+  "ar": {
+   "q": "أي دولة فازت بكأس العالم لكرة القدم 1954 بفوزها على المجر في النهائي («معجزة برن»)؟",
+   "c": ["ألمانيا الغربية", "النمسا", "سويسرا", "أوروغواي"]
+  },
+  "es": {
+   "q": "¿Qué país ganó la Copa Mundial de Fútbol de 1954 al derrotar a Hungría en la final (el «Milagro de Berna»)?",
+   "c": ["Alemania Federal", "Austria", "Suiza", "Uruguay"]
+  },
+  "pt": {
+   "q": "Qual país venceu a Copa do Mundo FIFA de 1954 ao derrotar a Hungria na final (o 'Milagre de Berna')?",
+   "c": ["Alemanha Ocidental", "Áustria", "Suíça", "Uruguai"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Quel joueur de snooker, surnommé « The Rocket », détient le record du break maximum (147 points) le plus rapide de l'histoire (en 5 minutes et 8 secondes) ?",
+   "c": ["Ronnie O'Sullivan", "Stephen Hendry", "Judd Trump", "Mark Selby"]
+  },
+  "en": {
+   "q": "Which snooker player, nicknamed 'The Rocket', holds the record for the fastest maximum break (147 points) in history (5 minutes 8 seconds)?",
+   "c": ["Ronnie O'Sullivan", "Stephen Hendry", "Judd Trump", "Mark Selby"]
+  },
+  "ar": {
+   "q": "أي لاعبي السنوكر، المُلقب بـ «الصاروخ»، يحمل الرقم القياسي لأسرع انطلاقة قصوى (147 نقطة) في التاريخ (خلال 5 دقائق و8 ثوانٍ)؟",
+   "c": ["روني أوسوليفان", "ستيفن هندري", "جاد ترامب", "مارك سلبي"]
+  },
+  "es": {
+   "q": "¿Qué jugador de snooker, apodado «The Rocket», ostenta el récord de la tacada máxima (147 puntos) más rápida de la historia (5 minutos y 8 segundos)?",
+   "c": ["Ronnie O'Sullivan", "Stephen Hendry", "Judd Trump", "Mark Selby"]
+  },
+  "pt": {
+   "q": "Qual jogador de sinuca, apelidado de 'The Rocket', detém o recorde da tacada máxima (147 pontos) mais rápida da história (5 minutos e 8 segundos)?",
+   "c": ["Ronnie O'Sullivan", "Stephen Hendry", "Judd Trump", "Mark Selby"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Quel quarterback américain a remporté sept Super Bowls, le record absolu de la NFL ?",
+   "c": ["Tom Brady", "Joe Montana", "Peyton Manning", "Patrick Mahomes"]
+  },
+  "en": {
+   "q": "Which American quarterback won seven Super Bowls, an all-time NFL record?",
+   "c": ["Tom Brady", "Joe Montana", "Peyton Manning", "Patrick Mahomes"]
+  },
+  "ar": {
+   "q": "أي لاعب وسط (كوارترباك) أمريكي فاز بسبعة ألقاب سوبر بول، وهو الرقم القياسي المطلق في دوري كرة القدم الأمريكية NFL؟",
+   "c": ["توم برادي", "جو مونتانا", "بيتون مانينغ", "باتريك ماهومز"]
+  },
+  "es": {
+   "q": "¿Qué quarterback estadounidense ganó siete Super Bowls, el récord absoluto de la NFL?",
+   "c": ["Tom Brady", "Joe Montana", "Peyton Manning", "Patrick Mahomes"]
+  },
+  "pt": {
+   "q": "Qual quarterback americano venceu sete Super Bowls, o recorde absoluto da NFL?",
+   "c": ["Tom Brady", "Joe Montana", "Peyton Manning", "Patrick Mahomes"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays s'est déroulée la dramatique et historique finale de la Coupe du monde de football de 1950, connue sous le nom de 'Maracanazo' ?",
+   "c": ["Le Brésil", "Le Chili", "L'Uruguay", "L'Argentine"]
+  },
+  "en": {
+   "q": "In which country did the dramatic and historic 1950 FIFA World Cup final, known as the 'Maracanazo', take place?",
+   "c": ["Brazil", "Chile", "Uruguay", "Argentina"]
+  },
+  "ar": {
+   "q": "في أي دولة أُقيمت نهائي كأس العالم لكرة القدم الدراماتيكي والتاريخي عام 1950، المعروف باسم 'ماراكانازو'؟",
+   "c": ["البرازيل", "تشيلي", "أوروغواي", "الأرجنتين"]
+  },
+  "es": {
+   "q": "¿En qué país se disputó la dramática e histórica final de la Copa Mundial de Fútbol de 1950, conocida como el «Maracanazo»?",
+   "c": ["Brasil", "Chile", "Uruguay", "Argentina"]
+  },
+  "pt": {
+   "q": "Em qual país aconteceu a dramática e histórica final da Copa do Mundo de 1950, conhecida como 'Maracanaço'?",
+   "c": ["Brasil", "Chile", "Uruguai", "Argentina"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Quel gymnaste roumain a obtenu la première note parfaite de 10,0 de l'histoire aux Jeux olympiques de Montréal en 1976 ?",
+   "c": ["Nadia Comăneci", "Larisa Iordache", "Simona Păucă", "Ecaterina Szabo"]
+  },
+  "en": {
+   "q": "Which Romanian gymnast scored the first-ever perfect 10.0 in Olympic history at the 1976 Montreal Games?",
+   "c": ["Nadia Comăneci", "Larisa Iordache", "Simona Păucă", "Ecaterina Szabo"]
+  },
+  "ar": {
+   "q": "أي لاعبة جمباز رومانية حصلت على أول علامة كاملة 10.0 في تاريخ الألعاب الأولمبية في مونتريال 1976؟",
+   "c": ["ناديا كومانيتشي", "لاريسا إيورداكي", "سيمونا باوكا", "إيكاترينا سابو"]
+  },
+  "es": {
+   "q": "¿Qué gimnasta rumana obtuvo la primera nota perfecta de 10,0 de la historia en los Juegos Olímpicos de Montreal de 1976?",
+   "c": ["Nadia Comăneci", "Larisa Iordache", "Simona Păucă", "Ecaterina Szabo"]
+  },
+  "pt": {
+   "q": "Qual ginasta romena obteve a primeira nota 10,0 perfeita da história nos Jogos Olímpicos de Montreal em 1976?",
+   "c": ["Nadia Comăneci", "Larisa Iordache", "Simona Păucă", "Ecaterina Szabo"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Quel athlète est le seul de l'histoire à avoir remporté 8 médailles d'or en natation lors d'une seule édition des Jeux olympiques (Pékin 2008) ?",
+   "c": ["Michael Phelps", "Mark Spitz", "Matt Biondi", "Ian Thorpe"]
+  },
+  "en": {
+   "q": "Which athlete is the only one in history to win 8 gold medals in swimming at a single Olympic Games (Beijing 2008)?",
+   "c": ["Michael Phelps", "Mark Spitz", "Matt Biondi", "Ian Thorpe"]
+  },
+  "ar": {
+   "q": "أي رياضي هو الوحيد في التاريخ الذي فاز بـ 8 ميداليات ذهبية في السباحة خلال نسخة واحدة من الألعاب الأولمبية (بكين 2008)؟",
+   "c": ["مايكل فيلبس", "مارك سبيتز", "مات بيوندي", "إيان ثورب"]
+  },
+  "es": {
+   "q": "¿Qué atleta es el único en la historia en ganar 8 medallas de oro en natación en una sola edición de los Juegos Olímpicos (Pekín 2008)?",
+   "c": ["Michael Phelps", "Mark Spitz", "Matt Biondi", "Ian Thorpe"]
+  },
+  "pt": {
+   "q": "Qual atleta é o único na história a vencer 8 medalhas de ouro na natação em uma única edição dos Jogos Olímpicos (Pequim 2008)?",
+   "c": ["Michael Phelps", "Mark Spitz", "Matt Biondi", "Ian Thorpe"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Quel footballeur français a inscrit un triplé historique en finale de la Coupe du monde 2022 sans toutefois remporter le trophée ?",
+   "c": ["Kylian Mbappé", "Zinedine Zidane", "Karim Benzema", "Antoine Griezmann"]
+  },
+  "en": {
+   "q": "Which French footballer scored a historic hat-trick in the 2022 World Cup final without winning the trophy?",
+   "c": ["Kylian Mbappé", "Zinedine Zidane", "Karim Benzema", "Antoine Griezmann"]
+  },
+  "ar": {
+   "q": "أي لاعب كرة قدم فرنسي سجل هاتريك تاريخياً في نهائي كأس العالم 2022 دون أن يفوز باللقب في النهاية؟",
+   "c": ["كيليان مبابي", "زين الدين زيدان", "كريستيم بنزيما", "أنطوان غريزمان"]
+  },
+  "es": {
+   "q": "¿Qué futbolista francés marcó un triplete histórico en la final del Mundial de 2022 sin llegar a ganar el trofeo?",
+   "c": ["Kylian Mbappé", "Zinedine Zidane", "Karim Benzema", "Antoine Griezmann"]
+  },
+  "pt": {
+   "q": "Qual futebolista francês marcou um hat-trick histórico na final da Copa do Mundo de 2022, mas sem vencer o troféu?",
+   "c": ["Kylian Mbappé", "Zinedine Zidane", "Karim Benzema", "Antoine Griezmann"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Quel joueur de tennis a sauvé deux balles de match contre Roger Federer pour remporter la finale épique de Wimbledon 2019 ?",
+   "c": ["Novak Djokovic", "Rafael Nadal", "Andy Murray", "Juan Martín del Potro"]
+  },
+  "en": {
+   "q": "Which tennis player saved two championship points against Roger Federer to win the epic 2019 Wimbledon final?",
+   "c": ["Novak Djokovic", "Rafael Nadal", "Andy Murray", "Juan Martín del Potro"]
+  },
+  "ar": {
+   "q": "أي لاعب تنس أنقذ نقطتي حسم المباراة أمام روجر فيدرر ليفوز بنهائي ويمبلدون الملحمي عام 2019؟",
+   "c": ["نوفاك ديوكوفيتش", "رافاييل نادال", "آندي موري", "خوان مارتين ديل بوترو"]
+  },
+  "es": {
+   "q": "¿Qué tenista salvó dos puntos de partido contra Roger Federer para ganar la épica final de Wimbledon de 2019?",
+   "c": ["Novak Djokovic", "Rafael Nadal", "Andy Murray", "Juan Martín del Potro"]
+  },
+  "pt": {
+   "q": "Qual tenista salvou dois match points contra Roger Federer para vencer a épica final de Wimbledon de 2019?",
+   "c": ["Novak Djokovic", "Rafael Nadal", "Andy Murray", "Juan Martín del Potro"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Quel joueur de hockey sur glace canadien, surnommé « The Great One », détient de loin le record du plus grand nombre de points en saison régulière dans la LNH ?",
+   "c": ["Wayne Gretzky", "Mario Lemieux", "Bobby Orr", "Sidney Crosby"]
+  },
+  "en": {
+   "q": "Which Canadian ice hockey player, nicknamed 'The Great One', holds by far the record for the most regular-season points in the NHL?",
+   "c": ["Wayne Gretzky", "Mario Lemieux", "Bobby Orr", "Sidney Crosby"]
+  },
+  "ar": {
+   "q": "أي لاعب هوكي جليد كندي، أُطلق عليه لقب 'العظيم'، يحمل بفارق شاسع الرقم القياسي لأكبر عدد من النقاط في الموسم العادي لدوري الهوكي الوطني NHL؟",
+   "c": ["واين غريتزكي", "ماريو لوميو", "بوبي أور", "سيدني كروسبي"]
+  },
+  "es": {
+   "q": "¿Qué jugador de hockey sobre hielo canadiense, apodado «The Great One», ostenta con creces el récord de más puntos en temporada regular en la NHL?",
+   "c": ["Wayne Gretzky", "Mario Lemieux", "Bobby Orr", "Sidney Crosby"]
+  },
+  "pt": {
+   "q": "Qual jogador de hóquei no gelo canadense, apelidado de 'The Great One', detém de longe o recorde de maior número de pontos na temporada regular da NHL?",
+   "c": ["Wayne Gretzky", "Mario Lemieux", "Bobby Orr", "Sidney Crosby"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Quel footballeur brésilien, triple champion du monde (1958, 1962, 1970), est communément appelé le « Roi » (Pelé) ?",
+   "c": ["Edson Arantes do Nascimento", "Arthur Antunes Coimbra (Zico)", "Ronaldo de Assis Moreira (Ronaldinho)", "Ronaldo Luís Nazário de Lima"]
+  },
+  "en": {
+   "q": "Which Brazilian footballer, a three-time World Cup winner, is commonly known as 'The King' (Pelé)?",
+   "c": ["Edson Arantes do Nascimento", "Arthur Antunes Coimbra (Zico)", "Ronaldo de Assis Moreira (Ronaldinho)", "Ronaldo Luís Nazário de Lima"]
+  },
+  "ar": {
+   "q": "ما هو الاسم الحقيقي للاعب كرة القدم البرازيلية الشهير بـ 'الملك' بيليه، الحاصل على كأس العالم ثلاث مرات؟",
+   "c": ["إدسون أرانتس دو ناسيمينتو", "زيكو", "رونالدينيو", "رونالدو نازاريو"]
+  },
+  "es": {
+   "q": "¿Cuál es el nombre completo del futbolista brasileño tricampeón del mundo comúnmente conocido como «Rey» (Pelé)?",
+   "c": ["Edson Arantes do Nascimento", "Arthur Antunes Coimbra (Zico)", "Ronaldo de Assis Moreira (Ronaldinho)", "Ronaldo Luís Nazário de Lima"]
+  },
+  "pt": {
+   "q": "Qual é o nome completo do futebolista brasileiro tricampeão mundial comumente conhecido como o 'Rei' (Pelé)?",
+   "c": ["Edson Arantes do Nascimento", "Arthur Antunes Coimbra (Zico)", "Ronaldo de Assis Moreira (Ronaldinho)", "Ronaldo Luís Nazário de Lima"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Quelle nation a remporté l'épreuve masculine de hockey sur glace aux Jeux olympiques de Lake Placid en 1980 (le célèbre « Miracle sur glace » contre l'URSS) ?",
+   "c": ["Les États-Unis", "Le Canada", "La Tchécoslovaquie", "La Suède"]
+  },
+  "en": {
+   "q": "Which nation won the men's ice hockey gold at the 1980 Lake Placid Olympics (the famous 'Miracle on Ice' against the USSR)?",
+   "c": ["United States", "Canada", "Czechoslovakia", "Sweden"]
+  },
+  "ar": {
+   "q": "أي دولة فازت بالميدالية الذهبية لهوكي الجليد للرجال في أولمبياد ليك بلاسيد عام 1980 (المعروفة بـ «المعجزة على الجليد» ضد الاتحاد السوفيتي)؟",
+   "c": ["الولايات المتحدة", "كندا", "تشيكوسلوفاكيا", "السويد"]
+  },
+  "es": {
+   "q": "¿Qué nación ganó la prueba masculina de hockey sobre hielo en los Juegos Olímpicos de Lake Placid de 1980 (el famoso «Milagro sobre hielo» contra la URSS)?",
+   "c": ["Estados Unidos", "Canadá", "Checoslovaquia", "Suecia"]
+  },
+  "pt": {
+   "q": "Qual nação venceu o torneio masculino de hóquei no gelo nas Olimpíadas de Lake Placid em 1980 (o famoso 'Milagre no Gelo' contra a URSS)?",
+   "c": ["Estados Unidos", "Canadá", "Tchecoslováquia", "Suécia"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Quel joueur de baseball des New York Yankees a frappé 61 homeruns en une seule saison en 1961, battant le record légendaire de Babe Ruth ?",
+   "c": ["Roger Maris", "Mickey Mantle", "Lou Gehrig", "Joe DiMaggio"]
+  },
+  "en": {
+   "q": "Which New York Yankees baseball player hit 61 home runs in a single season in 1961, breaking Babe Ruth's legendary record?",
+   "c": ["Roger Maris", "Mickey Mantle", "Lou Gehrig", "Joe DiMaggio"]
+  },
+  "ar": {
+   "q": "أي لاعب بيسبول في فريق نيويورك يانكيز سجل 61 ضربة منزلية (هوم ران) في موسم واحد عام 1961، محطماً رقم بيب روث الأسطوري؟",
+   "c": ["روجر ماريس", "ميكي مانتل", "لو جيهريج", "جو ديماجيو"]
+  },
+  "es": {
+   "q": "¿Qué jugador de béisbol de los New York Yankees bateó 61 home runs en una sola temporada en 1961, batiendo el legendario récord de Babe Ruth?",
+   "c": ["Roger Maris", "Mickey Mantle", "Lou Gehrig", "Joe DiMaggio"]
+  },
+  "pt": {
+   "q": "Qual jogador de beisebol do New York Yankees rebateu 61 home runs em uma única temporada em 1961, quebrando o recorde lendário de Babe Ruth?",
+   "c": ["Roger Maris", "Mickey Mantle", "Lou Gehrig", "Joe DiMaggio"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Quel skipper français a remporté le Vendée Globe en solitaire, sans assistance et le plus rapidement (en 2016-2017) à bord de son Imoca Banque Populaire VIII ?",
+   "c": ["Armel Le Cléac'h", "François Gabart", "Michel Desjoyeaux", "Yannick Bestaven"]
+  },
+  "en": {
+   "q": "Which French sailor won the Vendée Globe solo, non-stop, and unassisted in record time (2016-2017) aboard Banque Populaire VIII?",
+   "c": ["Armel Le Cléac'h", "François Gabart", "Michel Desjoyeaux", "Yannick Bestaven"]
+  },
+  "ar": {
+   "q": "أي ملاح فرنسي فاز بسباق فاندي غلوب الفردي من دون توقف ومن دون مساعدة في أسرع وقت (2016-2017) على متن قاربه؟",
+   "c": ["أرميل لو كليك", "فرانسوا غابار", "ميشيل ديجويو", "يانيك بيستافين"]
+  },
+  "es": {
+   "q": "¿Qué patrón francés ganó la Vendée Globe en solitario, sin asistencia y en tiempo récord (2016-2017) a bordo del Banque Populaire VIII?",
+   "c": ["Armel Le Cléac'h", "François Gabart", "Michel Desjoyeaux", "Yannick Bestaven"]
+  },
+  "pt": {
+   "q": "Qual navegador francês venceu a Vendée Globe solo, sem assistência e no tempo mais rápido (2016-2017) a bordo do Banque Populaire VIII?",
+   "c": ["Armel Le Cléac'h", "François Gabart", "Michel Desjoyeaux", "Yannick Bestaven"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Quel est le nom de la première femme à avoir nagé de Cuba aux États-Unis (Floride) sans cage de protection anti-requins en 2013 ?",
+   "c": ["Diana Nyad", "Penny Taylor", "Florence Chadwick", "Gertrude Ederle"]
+  },
+  "en": {
+   "q": "What is the name of the first woman to swim from Cuba to Florida without a shark cage in 2013?",
+   "c": ["Diana Nyad", "Penny Taylor", "Florence Chadwick", "Gertrude Ederle"]
+  },
+  "ar": {
+   "q": "ما هو اسم أول امرأة تسبح من كوبا إلى الولايات المتحدة (فلوريدا) دون قفص حماية من القروش عام 2013؟",
+   "c": ["ديانا نياد", "بيني تايلور", "فلورنس تشادويك", "غيرترود إيديرلي"]
+  },
+  "es": {
+   "q": "¿Cuál es el nombre de la primera mujer en nadar desde Cuba hasta Estados Unidos (Florida) sin jaula antimarcas de tiburones en 2013?",
+   "c": ["Diana Nyad", "Penny Taylor", "Florence Chadwick", "Gertrude Ederle"]
+  },
+  "pt": {
+   "q": "Qual é o nome da primeira mulher a nadar de Cuba para os Estados Unidos (Flórida) sem jaula de proteção contra tubarões em 2013?",
+   "c": ["Diana Nyad", "Penny Taylor", "Florence Chadwick", "Gertrude Ederle"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Quel footballeur français a inscrit le fameux « but en or » décisif en demi-finale de l'Euro 2000 face au Portugal ?",
+   "c": ["Zinedine Zidane", "David Trezeguet", "Thierry Henry", "Sylvain Wiltord"]
+  },
+  "en": {
+   "q": "Which French footballer scored the decisive golden goal in the Euro 2000 semi-final against Portugal?",
+   "c": ["Zinedine Zidane", "David Trezeguet", "Thierry Henry", "Sylvain Wiltord"]
+  },
+  "ar": {
+   "q": "أي لاعب كرة قدم فرنسي سجل «الهدف الذهبي» الحاسم في نصف نهائي يورو 2000 أمام البرتغال؟",
+   "c": ["زين الدين زيدان", "ديفيد تريزيغيه", "تييري هنري", "سيلفان ويلتورد"]
+  },
+  "es": {
+   "q": "¿Qué futbolista francés marcó el decisivo «gol de oro» en la semifinal de la Eurocopa 2000 contra Portugal?",
+   "c": ["Zinedine Zidane", "David Trezeguet", "Thierry Henry", "Sylvain Wiltord"]
+  },
+  "pt": {
+   "q": "Qual futebolista francês marcou o decisivo 'gol de ouro' na semifinal da Euro 2000 contra Portugal?",
+   "c": ["Zinedine Zidane", "David Trezeguet", "Thierry Henry", "Sylvain Wiltord"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Quel coureur cycliste italien, surnommé « Il Campionissimo », a remporté cinq Tours d'Italie et deux Tours de France dans les années 1940-1950 ?",
+   "c": ["Fausto Coppi", "Gino Bartali", "Alfredo Binda", "Felice Gimondi"]
+  },
+  "en": {
+   "q": "Which Italian cyclist, nicknamed 'Il Campionissimo', won five Giros d'Italia and two Tours de France in the 1940s-1950s?",
+   "c": ["Fausto Coppi", "Gino Bartali", "Alfredo Binda", "Felice Gimondi"]
+  },
+  "ar": {
+   "q": "أي دراج إيطالي، أُطلق عليه لقب «إيل كامبيونيسيمو»، فاز بخمس طواف إيطاليا وطوافي فرنسا في الأربعينيات والخمسينيات؟",
+   "c": ["فاوستو كوبي", "جينو بارتالي", "ألفريدو بيندا", "فيلتشي جيموندي"]
+  },
+  "es": {
+   "q": "¿Qué ciclista italiano, apodado «Il Campionissimo», ganó cinco Giros de Italia y dos Tours de Francia en las décadas de 1940 y 1950?",
+   "c": ["Fausto Coppi", "Gino Bartali", "Alfredo Binda", "Felice Gimondi"]
+  },
+  "pt": {
+   "q": "Qual ciclista italiano, apelidado de 'Il Campionissimo', venceu cinco Giros d'Italia e dois Tours de France nas décadas de 1940-1950?",
+   "c": ["Fausto Coppi", "Gino Bartali", "Alfredo Binda", "Felice Gimondi"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Quel footballeur uruguayen a inscrit le seul but de la finale de la Coupe du monde 1950 contre le Brésil, plongeant le pays hôte dans le silence du 'Maracanazo' ?",
+   "c": ["Alcides Ghiggia", "Juan Alberto Schiaffino", "Obdulio Varela", "Óscar Míguez"]
+  },
+  "en": {
+   "q": "Which Uruguayan footballer scored the winning goal in the 1950 World Cup final against Brazil, silencing the Maracanã?",
+   "c": ["Alcides Ghiggia", "Juan Alberto Schiaffino", "Obdulio Varela", "Óscar Míguez"]
+  },
+  "ar": {
+   "q": "أي لاعب كرة قدم أوروغوياني سجل هدف الفوز في نهائي كأس العالم 1950 ضد البرازيل، متسبباً في صدمة 'ماراكانازو'؟",
+   "c": ["ألسيديس غيغيا", "خوان ألبرتو شيافينو", "أوبدوليو فاريلا", "أوسكار ميغيز"]
+  },
+  "es": {
+   "q": "¿Qué futbolista uruguayo marcó el único gol de la final del Mundial de 1950 contra Brasil, sumiendo al país anfitrión en el silencio del «Maracanazo»?",
+   "c": ["Alcides Ghiggia", "Juan Alberto Schiaffino", "Obdulio Varela", "Óscar Míguez"]
+  },
+  "pt": {
+   "q": "Qual futebolista uruguaio marcou o gol da vitória na final da Copa do Mundo de 1950 contra o Brasil, silenciando o Maracanã?",
+   "c": ["Alcides Ghiggia", "Juan Alberto Schiaffino", "Obdulio Varela", "Óscar Míguez"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Quel club de football roumain a remporté la Coupe des clubs champions européens (Ligue des champions) en 1986 en s'imposant face au FC Barcelone en finale ?",
+   "c": ["Le Steaua Bucarest", "Le Dinamo Bucarest", "Le CFR Cluj", "L'Universitatea Craiova"]
+  },
+  "en": {
+   "q": "Which Romanian football club won the European Cup (Champions League) in 1986 by defeating FC Barcelona in the final?",
+   "c": ["Steaua Bucharest", "Dinamo Bucharest", "CFR Cluj", "Universitatea Craiova"]
+  },
+  "ar": {
+   "q": "أي نادي كرة قدم روماني فاز بكأس الأبطال الأوروبي (دوري الأبطال) عام 1986 بفوزه على برشلونة في النهائي؟",
+   "c": ["ستيوا بوخارست", "دينامو بوخارست", "سي إف آر كلوج", "يونيفرسيتاتيا كرايوفا"]
+  },
+  "es": {
+   "q": "¿Qué club de fútbol rumano ganó la Copa de Campeones de Europa (Liga de Campeones) en 1986 al imponerse al FC Barcelona en la final?",
+   "c": ["Steaua de Bucarest", "Dinamo de Bucarest", "CFR Cluj", "Universitatea Craiova"]
+  },
+  "pt": {
+   "q": "Qual clube de futebol romeno venceu a Taça dos Campeões Europeus (Liga dos Campeões) em 1986 ao derrotar o FC Barcelona na final?",
+   "c": ["Steaua Bucareste", "Dinamo Bucareste", "CFR Cluj", "Universitatea Craiova"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Quel cavalier allemand est le sportif le plus médaillé de l'histoire des Jeux équestres mondiaux et des Jeux olympiques en saut d'obstacles / dressage ?",
+   "c": ["Isabell Werth", "Ludger Beerbaum", "Hans Günter Winkler", "Michael Jung"]
+  },
+  "en": {
+   "q": "Which German equestrian is the most decorated athlete in the history of the World Equestrian Games and Olympic equestrian events?",
+   "c": ["Isabell Werth", "Ludger Beerbaum", "Hans Günter Winkler", "Michael Jung"]
+  },
+  "ar": {
+   "q": "أي فارس ألماني يُعد الرياضي الأكثر تتويجاً في تاريخ الألعاب الفروسية العالمية والألعاب الأولمبية في رياضات الترويض أو قفز الحواجز؟",
+   "c": ["إيزابيل فيرث", "لودغر بيرباوم", "هانس غونتر فينكلر", "مايكل يونغ"]
+  },
+  "es": {
+   "q": "¿Qué jinete alemán es el deportista más laureado de la historia de los Juegos Ecuestres Mundiales y de los Juegos Olímpicos en hípica?",
+   "c": ["Isabell Werth", "Ludger Beerbaum", "Hans Günter Winkler", "Michael Jung"]
+  },
+  "pt": {
+   "q": "Qual cavaleiro(a) alemão(ã) é o(a) atleta mais condecorado(a) da história dos Jogos Equestres Mundiais e dos Jogos Olímpicos no hipismo?",
+   "c": ["Isabell Werth", "Ludger Beerbaum", "Hans Günter Winkler", "Michael Jung"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Quel golfeur américain, surnommé « The Golden Bear », détient le record absolu de 18 victoires en tournois majeurs (Majeurs de golf) ?",
+   "c": ["Jack Nicklaus", "Tiger Woods", "Arnold Palmer", "Ben Hogan"]
+  },
+  "en": {
+   "q": "Which American golfer, nicknamed 'The Golden Bear', holds the all-time record of 18 major championship victories?",
+   "c": ["Jack Nicklaus", "Tiger Woods", "Arnold Palmer", "Ben Hogan"]
+  },
+  "ar": {
+   "q": "أي لاعب غولف أمريكي، أُطلق عليه لقب «الدب الذهبي»، يحمل الرقم القياسي المطلق بـ 18 انتصاراً في البطولات الكبرى للغولف؟",
+   "c": ["جاك نيكلاوس", "تايغر وودز", "أرنولد بالمر", "بن هوغان"]
+  },
+  "es": {
+   "q": "¿Qué golfista estadounidense, apodado «The Golden Bear», ostenta el récord absoluto de 18 victorias en torneos major de golf?",
+   "c": ["Jack Nicklaus", "Tiger Woods", "Arnold Palmer", "Ben Hogan"]
+  },
+  "pt": {
+   "q": "Qual golfista americano, apelidado de 'The Golden Bear', detém o recorde absoluto de 18 vitórias em torneios majors de golfe?",
+   "c": ["Jack Nicklaus", "Tiger Woods", "Arnold Palmer", "Ben Hogan"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Quel marathonien éthiopien a remporté deux médailles d'or olympiques consécutives sur marathon (2000 et 2004) et a battu de nombreux records mondiaux sur longue distance ?",
+   "c": ["Haile Gebrselassie", "Kenenisa Bekele", "Eliud Kipchoge", "Abebe Bikila"]
+  },
+  "en": {
+   "q": "Which Ethiopian distance runner won two consecutive Olympic gold medals in the 10,000m and set numerous world records?",
+   "c": ["Haile Gebrselassie", "Kenenisa Bekele", "Eliud Kipchoge", "Abebe Bikila"]
+  },
+  "ar": {
+   "q": "أي عداء مسافات طويلة إثيوبي فاز بذهبيتين أولمبيتين متتاليتين وحطم العديد من الأرقام القياسية العالمية؟",
+   "c": ["هيلي غبرسيلاسي", "كينينيسا بيكيلي", "إليود كيبتشوج", "أبيبي بيكيلا"]
+  },
+  "es": {
+   "q": "¿Qué corredor de fondo etíope ganó dos medallas de oro olímpicas consecutivas y batió numerosos récords mundiales de larga distancia?",
+   "c": ["Haile Gebrselassie", "Kenenisa Bekele", "Eliud Kipchoge", "Abebe Bikila"]
+  },
+  "pt": {
+   "q": "Qual fundista etíope ganhou duas medalhas de ouro olímpicas consecutivas e estabeleceu vários recordes mundiais de longa distância?",
+   "c": ["Haile Gebrselassie", "Kenenisa Bekele", "Eliud Kipchoge", "Abebe Bikila"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Quel joueur de cricket indien est considéré comme l'un des plus grands battants de l'histoire et a été surnommé « Master Blaster » ?",
+   "c": ["Sachin Tendulkar", "Virat Kohli", "MS Dhoni", "Kapil Dev"]
+  },
+  "en": {
+   "q": "Which Indian cricketer is considered one of the greatest batsmen in history and was nicknamed 'Master Blaster'?",
+   "c": ["Sachin Tendulkar", "Virat Kohli", "MS Dhoni", "Kapil Dev"]
+  },
+  "ar": {
+   "q": "أي لاعبي الكريكيت الهنود يُعتبر من أعظم الضاربين في التاريخ وأُطلق عليه لقب «ماستر بلاستر»؟",
+   "c": ["ساشين تندولكار", "فيرات كوهلي", "إم إس دوني", "كابيل ديف"]
+  },
+  "es": {
+   "q": "¿Qué jugador de críquet indio es considerado uno de los mejores bateadores de la historia y fue apodado «Master Blaster»?",
+   "c": ["Sachin Tendulkar", "Virat Kohli", "MS Dhoni", "Kapil Dev"]
+  },
+  "pt": {
+   "q": "Qual jogador de críquet indiano é considerado um dos maiores batedores da história e foi apelidado de 'Master Blaster'?",
+   "c": ["Sachin Tendulkar", "Virat Kohli", "MS Dhoni", "Kapil Dev"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Quel est le nom de la première femme à avoir terminé la course d'ultra-trail de l'UTMB (Ultra-Trail du Mont-Blanc) en tête du classement scratch général (hommes et femmes confondus) en 2021 ?",
+   "c": ["Courtney Dauwalter", "Kilian Jornet", "François D'Haene", "Emelie Forsberg"]
+  },
+  "en": {
+   "q": "What is the name of the first woman to win the UTMB (Ultra-Trail du Mont-Blanc) overall scratch ranking (men and women combined) in 2021?",
+   "c": ["Courtney Dauwalter", "Kilian Jornet", "François D'Haene", "Emelie Forsberg"]
+  },
+  "ar": {
+   "q": "ما هو اسم أول امرأة تفوز بالمركز الأول في الترتيب العام المطلق (رجال ونساء) لسباق الترايل الطويل UTMB عام 2021؟",
+   "c": ["كورتني دوفالتر", "كيليان جورنت", "فرانسوا داهان", "إميلي فورسبيرغ"]
+  },
+  "es": {
+   "q": "¿Cuál es el nombre de la primera mujer en ganar la clasificación general absoluta (hombres y mujeres) del ultra-trail UTMB en 2021?",
+   "c": ["Courtney Dauwalter", "Kilian Jornet", "François D'Haene", "Emelie Forsberg"]
+  },
+  "pt": {
+   "q": "Qual é o nome da primeira mulher a vencer a classificação geral absoluta (homens e mulheres) da corrida de ultra-trail UTMB em 2021?",
+   "c": ["Courtney Dauwalter", "Kilian Jornet", "François D'Haene", "Emelie Forsberg"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Quel joueur de rugby à XV néo-zélandais, surnommé « The Bus », est l'un des ailiers les plus redoutables et puissants de l'histoire de la discipline ?",
+   "c": ["Jonah Lomu", "Julian Savea", "Rieko Ioane", "Ben Smith"]
+  },
+  "en": {
+   "q": "Which New Zealand rugby union player, nicknamed 'The Bus', is one of the most formidable and powerful wingers in the sport's history?",
+   "c": ["Jonah Lomu", "Julian Savea", "Rieko Ioane", "Ben Smith"]
+  },
+  "ar": {
+   "q": "أي لاعب رغبي نيوزيلندي، أُطلق عليه لقب «الحافلة»، يُعد من أكثر الجناحين شراسة وقوة في تاريخ الرياضة؟",
+   "c": ["جونا لومو", "جوليان سافيا", "رييكو إيواني", "بن سميث"]
+  },
+  "es": {
+   "q": "¿Qué jugador de rugby union neozelandés, apodado «The Bus», es uno de los alas más formidables y potentes de la historia de este deporte?",
+   "c": ["Jonah Lomu", "Julian Savea", "Rieko Ioane", "Ben Smith"]
+  },
+  "pt": {
+   "q": "Qual jogador de rugby union neozelandês, apelidado de 'The Bus', é um dos pontas mais formidáveis e potentes da história do esporte?",
+   "c": ["Jonah Lomu", "Julian Savea", "Rieko Ioane", "Ben Smith"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Quel escrimeur italien détient le record du plus grand nombre de médailles d'or olympiques dans l'histoire de l'escrime ?",
+   "c": ["Nedo Nadi", "Edoardo Mangiarotti", "Valentina Vezzali", "Giulio Gaudini"]
+  },
+  "en": {
+   "q": "Which Italian fencer holds the record for the most Olympic gold medals in fencing history?",
+   "c": ["Nedo Nadi", "Edoardo Mangiarotti", "Valentina Vezzali", "Giulio Gaudini"]
+  },
+  "ar": {
+   "q": "أي مبارز إيطالي يحمل الرقم القياسي لأكبر عدد من الميداليات الذهبية الأولمبية في تاريخ المبارزة؟",
+   "c": ["نيدو نادي", "إدواردو مانجاروتي", "فالنتينا فيزالي", "جوليو غاوديني"]
+  },
+  "es": {
+   "q": "¿Qué esgrimista italiano ostenta el récord de la mayor cantidad de medallas de oro olímpicas en la historia de la esgrima?",
+   "c": ["Nedo Nadi", "Edoardo Mangiarotti", "Valentina Vezzali", "Giulio Gaudini"]
+  },
+  "pt": {
+   "q": "Qual esgrimista italiano detém o recorde de maior número de medalhas de ouro olímpicas na história da esgrima?",
+   "c": ["Nedo Nadi", "Edoardo Mangiarotti", "Valentina Vezzali", "Giulio Gaudini"]
+  },
+  "a": 1,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Quel est le nom du circuit automobile historique situé dans la forêt des Ardennes en Belgique, hôte traditionnel du Grand Prix de F1 de Belgique (notamment le virage de 'l'Eau Rouge') ?",
+   "c": ["Circuit de Spa-Francorchamps", "Circuit de Zolder", "Circuit de Chimay", "Circuit de Nivelles"]
+  },
+  "en": {
+   "q": "What is the name of the historic racing circuit in the Belgian Ardennes forest, traditional host of the Belgian F1 Grand Prix (famous for the 'Eau Rouge' corner)?",
+   "c": ["Circuit de Spa-Francorchamps", "Circuit Zolder", "Circuit de Chimay", "Circuit de Nivelles"]
+  },
+  "ar": {
+   "q": "ما هو اسم حلبة سباق السيارات التاريخية الواقعة في غابات الأردين في بلجيكا، المستضيفة التقليدية لسباق جائزة بلجيكا الكبرى للفورمولا 1 (والمشهورة بمنعطف 'أو روج')؟",
+   "c": ["حلبة سبا فرانكورشان", "حلبة زولدر", "حلبة شيماي", "حلبة نيفيل"]
+  },
+  "es": {
+   "q": "¿Cuál es el nombre del histórico circuito de carreras ubicado en el bosque de las Ardenas en Bélgica, sede tradicional del Gran Premio de Bélgica de F1 (famoso por la curva «Eau Rouge»)?",
+   "c": ["Circuito de Spa-Francorchamps", "Circuito de Zolder", "Circuito de Chimay", "Circuito de Nivelles"]
+  },
+  "pt": {
+   "q": "Qual é o nome do circuito de automobilismo histórico localizado na floresta das Ardenas, na Bélgica, sede tradicional do GP da Bélgica de F1 (famoso pela curva 'Eau Rouge')?",
+   "c": ["Circuit de Spa-Francorchamps", "Circuit Zolder", "Circuit de Chimay", "Circuit de Nivelles"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Quel footballeur international hongrois des années 1950, surnommé « le Major galopant », a mené le « Onze d'or » de la Hongrie et le Real Madrid ?",
+   "c": ["Ferenc Puskás", "Sándor Kocsis", "Nándor Hidegkuti", "Zoltán Czibor"]
+  },
+  "en": {
+   "q": "Which 1950s Hungarian international footballer, nicknamed the 'Galloping Major', led Hungary's Mighty Magyars and Real Madrid?",
+   "c": ["Ferenc Puskás", "Sándor Kocsis", "Nándor Hidegkuti", "Zoltán Czibor"]
+  },
+  "ar": {
+   "q": "أي لاعب كرة قدم دولي مجري من حقبة الخمسينيات، أُطلق عليه لقب «المقدم المشتعل»، قاد منتخب المجر الذهبي وريال مدريد؟",
+   "c": ["فيرينتس بوشكاش", "شاندور كوتشيش", "ناندور هيديكوتي", "زولتان تسيبور"]
+  },
+  "es": {
+   "q": "¿Qué futbolista internacional húngaro de la década de 1950, apodado el «Coronel galopante», lideró a los «Magiares Mágicos» de Hungría y al Real Madrid?",
+   "c": ["Ferenc Puskás", "Sándor Kocsis", "Nándor Hidegkuti", "Zoltán Czibor"]
+  },
+  "pt": {
+   "q": "Qual futebolista húngaro dos anos 1950, apelidado de 'Major Galopante', liderou os 'Magiares Mágicos' da Hungria e o Real Madrid?",
+   "c": ["Ferenc Puskás", "Sándor Kocsis", "Nándor Hidegkuti", "Zoltán Czibor"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Quel joueur de baseball des Seattle Mariners a établi le record moderne de la MLB avec 116 victoires en saison régulière en 2001 (égalant les Cubs de 1906) ?",
+   "c": ["Seattle Mariners (2001)", "Chicago Cubs (1906)", "New York Yankees (1998)", "Los Angeles Dodgers (2022)"],
+   "c": ["Ichiro Suzuki (pour les Mariners)", "Alex Rodriguez", "Ken Griffey Jr.", "Edgar Martínez"]
+  },
+  "en": {
+   "q": "Which Japanese rookie sensation for the Seattle Mariners won both AL Rookie of the Year and AL MVP in 2001 while collecting a modern-record 262 hits?",
+   "c": ["Ichiro Suzuki", "Shohei Ohtani", "Hideki Matsui", "Hideo Nomo"]
+  },
+  "ar": {
+   "q": "أي ظاهرة هجومية يابانية جديدة في فريق سياتل مارينرز فاز بجائزة أفضل لاعب صاعد وأفضل لاعب في الدوري الامريكي للبيسبول عام 2001 محققاً رقماً قياسياً بـ 262 ضربة ناجحة؟",
+   "c": ["إيتشيرو سوزوكي", "شوهي أوتاني", "هيديكي ماتسوي", "هيدئو نومو"]
+  },
+  "es": {
+   "q": "¿Qué novato sensación japonés de los Seattle Mariners ganó el Novato del Año y el MVP de la Liga Americana en 2001, logrando un récord moderno de 262 hits?",
+   "c": ["Ichiro Suzuki", "Shohei Ohtani", "Hideki Matsui", "Hideo Nomo"]
+  },
+  "pt": {
+   "q": "Qual fenômeno estreante japonês do Seattle Mariners ganhou o prêmio de Novato do Ano e MVP da Liga Americana em 2001, obtendo um recorde moderno de 262 rebatidas?",
+   "c": ["Ichiro Suzuki", "Shohei Ohtani", "Hideki Matsui", "Hideo Nomo"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Quel pays a remporté la Coupe du monde de hockey sur glace junior (ou Championnat du monde IIHF) le plus grand nombre de fois dans l'histoire ?",
+   "c": ["Le Canada", "La Russie", "La Suède", "La Finlande"]
+  },
+  "en": {
+   "q": "Which country has won the most IIHF World Junior Ice Hockey Championships in history?",
+   "c": ["Canada", "Russia", "Sweden", "Finland"]
+  },
+  "ar": {
+   "q": "أي دولة فازت ببطولة العالم لهوكي الجليد للناشئين (IIHF) أكبر عدد من المرات في التاريخ؟",
+   "c": ["كندا", "روسيا", "السويد", "فنلندا"]
+  },
+  "es": {
+   "q": "¿Qué país ha ganado el Campeonato Mundial Juvenil de Hockey sobre Hielo de la IIHF más veces en la historia?",
+   "c": ["Canadá", "Rusia", "Suecia", "Finlandia"]
+  },
+  "pt": {
+   "q": "Qual país venceu o Campeonato Mundial Júnior de Hóquei no Gelo da IIHF mais vezes na história?",
+   "c": ["Canadá", "Rússia", "Suécia", "Finlândia"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Quel est le nom de la première femme à avoir couru le 100 mètres en moins de 10,49 secondes (record du monde de Florence Griffith-Joyner établi en 1988) ?",
+   "c": ["Florence Griffith-Joyner", "Carmelita Jeter", "Shelly-Ann Fraser-Pryce", "Elaine Thompson-Herah"]
+  },
+  "en": {
+   "q": "Whose legendary women's 100-meter world record of 10.49 seconds, set in 1988, remains the fastest of all time?",
+   "c": ["Florence Griffith-Joyner", "Carmelita Jeter", "Shelly-Ann Fraser-Pryce", "Elaine Thompson-Herah"]
+  },
+  "ar": {
+   "q": "من هي العداءة التي تظل رقمها القياسي العالمي لسباق 100 متر للسيدات بـ 10.49 ثانية المسجل عام 1988 هو الأسرع في التاريخ؟",
+   "c": ["فلورنس غريفيث جوينر", "كارميليتا جيتر", "شيلي آن فريزر برايس", "إيلين طومسون هيرا"]
+  },
+  "es": {
+   "q": "¿De quién es el legendario récord mundial femenino de los 100 metros de 10,49 segundos, establecido en 1988, que sigue siendo el más rápido de todos los tiempos?",
+   "c": ["Florence Griffith-Joyner", "Carmelita Jeter", "Shelly-Ann Fraser-Pryce", "Elaine Thompson-Herah"]
+  },
+  "pt": {
+   "q": "De quem é o lendário recorde mundial feminino dos 100 metros de 10,49 segundos, estabelecido em 1988, que continua sendo o mais rápido de todos os tempos?",
+   "c": ["Florence Griffith-Joyner", "Carmelita Jeter", "Shelly-Ann Fraser-Pryce", "Elaine Thompson-Herah"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Quel est le nom du joueur de boulingrin (lawn bowls) ou du joueur de curling qui lance la dernière pierre décisive appelée le « skip » ? (En curling, quel nom donne-t-on au capitaine de l'équipe qui lance les deux dernières pierres ?)",
+   "c": ["Le Skip", "Le Lead", "Le Second", "Le Third"]
+  },
+  "en": {
+   "q": "In curling, what is the title given to the team captain who throws the final two rocks and strategizes the game?",
+   "c": ["The Skip", "The Lead", "The Second", "The Third"]
+  },
+  "ar": {
+   "q": "في رياضة الكيرلنغ، ما هو اللقب الذي يُطلق على قائد الفريق الذي يرمي الحجرين الأخيرين ويضع استراتيجية اللعبة؟",
+   "c": ["السكيب (Skip)", "الليد (Lead)", "الثاني (Second)", "الثالث (Third)"]
+  },
+  "es": {
+   "q": "En el curling, ¿cómo se denomina al capitán del equipo que lanza las dos últimas piedras y dirige la estrategia?",
+   "c": ["El Skip", "El Lead", "El Second", "El Third"]
+  },
+  "pt": {
+   "q": "No curling, qual é o nome dado ao capitão da equipe que lança as duas últimas pedras e define a estratégia do jogo?",
+   "c": ["O Skip", "O Lead", "O Second", "O Third"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Quel pilote automobile a remporté 9 victoires aux 24 Heures du Mans, détenant le record absolu de victoires individuelles sur cette épreuve légendaire ?",
+   "c": ["Tom Kristensen", "Jacky Ickx", "Derek Bell", "Frank Biela"]
+  },
+  "en": {
+   "q": "Which racing driver won the 24 Hours of Le Mans a record 9 times, holding the absolute record for individual victories?",
+   "c": ["Tom Kristensen", "Jacky Ickx", "Derek Bell", "Frank Biela"]
+  },
+  "ar": {
+   "q": "أي سائق سيارات فاز بسباق 24 ساعة في لومان رقم قياسي بلغ 9 مرات، محتفظاً بالرقم القياسي المطلق للانتصارات الفردية؟",
+   "c": ["توم كريستنسن", "جاكي إيكس", "ديريك بيل", "فرانك بييلا"]
+  },
+  "es": {
+   "q": "¿Qué piloto de automovilismo ganó las 24 Horas de Le Mans un récord de 9 veces, ostentando la marca absoluta de victorias individuales?",
+   "c": ["Tom Kristensen", "Jacky Ickx", "Derek Bell", "Frank Biela"]
+  },
+  "pt": {
+   "q": "Qual piloto de automobilismo venceu as 24 Horas de Le Mans um recorde de 9 vezes, detendo a marca absoluta de vitórias individuais?",
+   "c": ["Tom Kristensen", "Jacky Ickx", "Derek Bell", "Frank Biela"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Quel pays a remporté la Coupe du monde de football de la FIFA de 1938, devenant la première nation à conserver son titre ?",
+   "c": ["L'Italie", "Le Brésil", "L'Uruguay", "L'Allemagne"]
+  },
+  "en": {
+   "q": "Which country won the 1938 FIFA World Cup, becoming the first nation to successfully defend its title?",
+   "c": ["Italy", "Brazil", "Uruguay", "Germany"]
+  },
+  "ar": {
+   "q": "أي دولة فازت بكأس العالم لكرة القدم 1938، لتصبح أول دولة تنجح في الدفاع عن لقبها؟",
+   "c": ["إيطاليا", "البرازيل", "أوروغواي", "ألمانيا"]
+  },
+  "es": {
+   "q": "¿Qué país ganó la Copa Mundial de Fútbol de 1938, convirtiéndose en la primera nación en defender con éxito su título?",
+   "c": ["Italia", "Brasil", "Uruguay", "Alemania"]
+  },
+  "pt": {
+   "q": "Qual país venceu a Copa do Mundo FIFA de 1938, tornando-se a primeira nação a defender com sucesso o seu título?",
+   "c": ["Itália", "Brasil", "Uruguai", "Alemanha"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Quel joueur de tennis américain a remporté le tournoi de Wimbledon en 1990 sans être tête de série, devenant le premier non-tête de série à s'imposer dans le tournoi masculin de l'ère Open ?",
+   "c": ["Pete Sampras", "Boris Becker", "Stefan Edberg", "John McEnroe"],
+   "c": ["Goran Ivanišević (non...)", "Richard Krajicek", "Michael Stich", "Pat Cash"]
+  },
+  "en": {
+   "q": "Which Dutch tennis player won Wimbledon in 1996 as an unseeded player, defeating Pete Sampras on his way to the title?",
+   "c": ["Richard Krajicek", "Goran Ivanišević", "Michael Stich", "Pat Cash"]
+  },
+  "ar": {
+   "q": "أي لاعب تنس هولندي فاز ببطولة ويمبلدون عام 1996 كلاعب غير مصنف، مهزوماً بيت سامبراس في طريقه لللقب؟",
+   "c": ["ريتشارد كرايتشيك", "غوران إيفانيشيفيتش", "مايكل ستيتش", "بات كاش"]
+  },
+  "es": {
+   "q": "¿Qué tenista neerlandés ganó Wimbledon en 1996 como jugador no preclasificado, derrotando a Pete Sampras en su camino hacia el título?",
+   "c": ["Richard Krajicek", "Goran Ivanišević", "Michael Stich", "Pat Cash"]
+  },
+  "pt": {
+   "q": "Qual tenista holandês venceu Wimbledon em 1996 como um jogador não cabeça de chave, derrotando Pete Sampras em seu caminho para o título?",
+   "c": ["Richard Krajicek", "Goran Ivanišević", "Michael Stich", "Pat Cash"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Quel patineur artistique américain a remporté la seule médaille d'or masculine pour les États-Unis aux Jeux olympiques d'hiver de 1988 à Calgary (le « Battle of the Bards ») ?",
+   "c": ["Brian Boitano", "Brian Orser", "Kurt Browning", "Scott Hamilton"]
+  },
+  "en": {
+   "q": "Which American figure skater won the men's gold medal at the 1988 Calgary Winter Olympics in the legendary 'Battle of the Brians'?",
+   "c": ["Brian Boitano", "Brian Orser", "Kurt Browning", "Scott Hamilton"]
+  },
+  "ar": {
+   "q": "أي متزلج فني أمريكي فاز بالميدالية الذهبية للرجال في أولمبياد كالغاري الشتوي 1988 في «معركة البرايانز» الشهيرة؟",
+   "c": ["برايان بويطانو", "برايان أورسر", "كورت براونينغ", "سكوت هاملتون"]
+  },
+  "es": {
+   "q": "¿Qué patinador artístico estadounidense ganó la medalla de oro masculina en los Juegos Olímpicos de Invierno de Calgary de 1988 en la legendaria «Batalla de los Brians»?",
+   "c": ["Brian Boitano", "Brian Orser", "Kurt Browning", "Scott Hamilton"]
+  },
+  "pt": {
+   "q": "Qual patinador artístico americano ganhou a medalha de ouro masculina nas Olimpíadas de Inverno de Calgary em 1988 na lendária 'Batalha dos Brians'?",
+   "c": ["Brian Boitano", "Brian Orser", "Kurt Browning", "Scott Hamilton"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Quel footballeur colombien a inscrit le spectaculaire « coup du scorpion » sur sa ligne de but face à l'Angleterre en 1995 à Wembley ?",
+   "c": ["René Higuita", "Carlos Valderrama", "Faustino Asprilla", "Freddy Rincón"]
+  },
+  "en": {
+   "q": "Which Colombian goalkeeper famously performed the spectacular 'scorpion kick' save against England at Wembley in 1995?",
+   "c": ["René Higuita", "Carlos Valderrama", "Faustino Asprilla", "Freddy Rincón"]
+  },
+  "ar": {
+   "q": "أي حارس مرمى كولومبي نفذ حركة «ركلة العقرب» الاستعراضية الشهيرة لصد الكرة أمام إنجلترا في ويمبلدون عام 1995؟",
+   "c": ["رينيه هيغيتا", "كارلوس فالديراما", "فاوستينو أسبريا", "فريدي رينكون"]
+  },
+  "es": {
+   "q": "¿Qué guardameta colombiano realizó la espectacular «escorpión» para despejar un balón contra Inglaterra en Wembley en 1995?",
+   "c": ["René Higuita", "Carlos Valderrama", "Faustino Asprilla", "Freddy Rincón"]
+  },
+  "pt": {
+   "q": "Qual goleiro colombiano realizou a espetacular defesa do 'chute de escorpião' contra a Inglaterra em Wembley em 1995?",
+   "c": ["René Higuita", "Carlos Valderrama", "Faustino Asprilla", "Freddy Rincón"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Quel athlète soviétique du saut à la perche a battu le record du monde de sa discipline à 35 reprises en plein air et en salle au cours de sa carrière ?",
+   "c": ["Sergey Bubka", "Renaud Lavillenie", "Armand Duplantis", "Maksim Tarasov"]
+  },
+  "en": {
+   "q": "Which Soviet pole vaulter broke the world record in his discipline 35 times (outdoor and indoor) throughout his career?",
+   "c": ["Sergey Bubka", "Renaud Lavillenie", "Armand Duplantis", "Maksim Tarasov"]
+  },
+  "ar": {
+   "q": "أي بطل سوفييتي في القفز بالزانة حطم الرقم القياسي العالمي في اختصاصه 35 مرة في الهواء الطلق وفي الصالات خلال مسيرته؟",
+   "c": ["سيرغي بوبكا", "رينود لافيليني", "أرمان دوبلانتيس", "ماكسيم تاراسوف"]
+  },
+  "es": {
+   "q": "¿Qué saltador con pértiga soviético batió el récord mundial de su disciplina 35 veces (al aire libre y en pista cubierta) a lo largo de su carrera?",
+   "c": ["Sergey Bubka", "Renaud Lavillenie", "Armand Duplantis", "Maksim Tarasov"]
+  },
+  "pt": {
+   "q": "Qual saltador com vara soviético quebrou o recorde mundial de sua disciplina 35 vezes (ao ar livre e indoor) ao longo de sua carreira?",
+   "c": ["Sergey Bubka", "Renaud Lavillenie", "Armand Duplantis", "Maksim Tarasov"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Quel est le nom du tout premier vainqueur officiel de la Coupe des clubs champions européens (actuelle Ligue des champions) en 1956 avec le Real Madrid ?",
+   "c": ["Le Real Madrid (contre le Stade de Reims)", "L'AC Milan", "Le Benfica Lisbonne", "Le Celtic Glasgow"]
+  },
+  "en": {
+   "q": "Which club did Real Madrid defeat in the inaugural European Cup final in 1956 to claim the first-ever continental title?",
+   "c": ["Stade de Reims", "AC Milan", "Fiorentina", "Partizan Belgrade"]
+  },
+  "ar": {
+   "q": "أي نادي هزمه ريال مدريد في أول نهائي لكأس الأبطال الأوروبي عام 1956 ليحقق أول لقب قوري في تاريخه؟",
+   "c": ["ستاد ريمس", "إيه سي ميلان", "فيورنتينا", "بارتيزان بلغراد"]
+  },
+  "es": {
+   "q": "¿A qué club derrotó el Real Madrid en la final de la primera Copa de Europa en 1956 para alzarse con el título inaugural?",
+   "c": ["Stade de Reims", "AC Milan", "Fiorentina", "Partizán de Belgrado"]
+  },
+  "pt": {
+   "q": "Qual clube o Real Madrid derrotou na final da primeira Taça dos Campeões Europeus em 1956 para conquistar o título inaugural?",
+   "c": ["Stade de Reims", "AC Milan", "Fiorentina", "Partizan Belgrado"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 10
+ },
+ {
+  "fr": {
+   "q": "Quel athlète est le seul de l'histoire olympique à avoir remporté à la fois des médailles d'or aux Jeux olympiques d'été (en course) et aux Jeux olympiques d'hiver (en bobsleigh) ?",
+   "c": ["Eddie Eagan", "Christie Ashenfelter", "Clara Hughes", "Lauryn Williams"]
+  },
+  "en": {
+   "q": "Which athlete is the only one in Olympic history to win gold medals at both the Summer Olympic Games (boxing) and Winter Olympic Games (bobsleigh)?",
+   "c": ["Eddie Eagan", "Gillis Grafström", "Christa Luding-Rothenburger", "Lauryn Williams"]
+  },
+  "ar": {
+   "q": "أي رياضي هو الوحيد في تاريخ الألعاب الأولمبية الذي فاز بميداليات ذهبية في الألعاب الأولمبية الصيفية (الملاكمة) والألعاب الأولمبية الشتوية (الزلاجة الجماعية)؟",
+   "c": ["إيدي إيغان", "غيليس غرافرستروم", "كريستا لودينغ-روثينبورغر", "لورين ويليامز"]
+  },
+  "es": {
+   "q": "¿Qué atleta es el único en la historia olímpica en ganar medallas de oro tanto en los Juegos Olímpicos de Verano (boxeo) como en los Juegos Olímpicos de Invierno (bobsleigh)?",
+   "c": ["Eddie Eagan", "Gillis Grafström", "Christa Luding-Rothenburger", "Lauryn Williams"]
+  },
+  "pt": {
+   "q": "Qual atleta é o único na história olímpica a vencer medalhas de ouro tanto nos Jogos Olímpicos de Verão (boxe) quanto nos Jogos Olímpicos de Inverno (bobsleigh)?",
+   "c": ["Eddie Eagan", "Gillis Grafström", "Christa Luding-Rothenburger", "Lauryn Williams"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 10
+ },
+ {
+  "fr": {
+   "q": "Quel joueur de tennis a réalisé le rarissime « Grand Chelem doré » (les quatre tournois du Grand Chelem plus l'or olympique la même année civile) en simple en 1988 ?",
+   "c": ["Steffi Graf", "Martina Navratilova", "Serena Williams", "Monica Seles"]
+  },
+  "en": {
+   "q": "Which tennis player achieved the rare 'Golden Slam' by winning all four Grand Slam singles titles and the Olympic gold medal in the same calendar year (1988)?",
+   "c": ["Steffi Graf", "Martina Navratilova", "Serena Williams", "Monica Seles"]
+  },
+  "ar": {
+   "q": "أي لاعبة تنس حققت إنجاز «الغراند سلام الذهبي» النادر بفوزها بالبطولات الأربع الكبرى والذهبية الأولمبية في نفس العام الميلادي (1988)؟",
+   "c": ["شتيفي غراف", "مارتينا نافراتيلوفا", "سيرينا ويليامز", "مونيكا سيليش"]
+  },
+  "es": {
+   "q": "¿Qué tenista logró el raro «Grand Slam Dorado» al ganar los cuatro torneos de Grand Slam y el oro olímpico en individuales en el mismo año calendario (1988)?",
+   "c": ["Steffi Graf", "Martina Navratilova", "Serena Williams", "Monica Seles"]
+  },
+  "pt": {
+   "q": "Qual tenista alcançou o raro 'Golden Slam' ao vencer os quatro torneios de Grand Slam em simples e a medalha de ouro olímpica no mesmo ano civil (1988)?",
+   "c": ["Steffi Graf", "Martina Navratilova", "Serena Williams", "Monica Seles"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 10
+ },
+ {
+  "fr": {
+   "q": "Quel coureur cycliste est le seul de l'histoire à avoir remporté à la fois le Tour de France, le Tour d'Italie et le Tour d'Espagne à plusieurs reprises chacun (le triple doublé ou triomphe absolu sur les Grands Tours) ?",
+   "c": ["Personne (seuls quelques coureurs ont les 3 au total, comme Merckx, Hinault, Nibali, Contador, Froome... mais qui a fait plusieurs fois chacun ? On cherche le cercle restreint des multiples vainqueurs des 3 Grands Tours)", "Eddy Merckx", "Bernard Hinault", "Chris Froome"],
+   "c": ["Eddy Merckx (ou Bernard Hinault et Alberto Contador pour le double des 3, mais seul Merckx et Hinault ont gagné chaque Grand Tour au moins deux fois)", "Jacques Anquetil", "Vicente López Carril", "Felice Gimondi"]
+  },
+  "en": {
+   "q": "Which cyclists are the only ones in history to have won EACH of the three Grand Tours (Tour de France, Giro d'Italia, Vuelta a España) at least TWICE in their careers?",
+   "c": ["Eddy Merckx, Bernard Hinault and Alberto Contador", "Chris Froome and Vincenzo Nibali", "Miguel Indurain and Jacques Anquetil", "Joop Zoetemelk and Chris Froome"]
+  },
+  "ar": {
+   "q": "من هم الدراجون الوحيدون في التاريخ الذين فازوا بكل من الطوافات الكبرى الثلاث (طواف فرنسا، إيطاليا، إسبانيا) مرتين على الأقل في مسيرتهم؟",
+   "c": ["إيدي ميركس، برنار هينو وألبرتو كونتادور", "كريس فروم وفينتشينزو نيبالي", "ميغيل إندوراين وجاك أنكيتيل", "جوب زوتميلك وكريس فروم"]
+  },
+  "es": {
+   "q": "¿Qué ciclistas son los únicos en la historia en haber ganado CADA una de las tres Grandes Vueltas (Tour, Giro, Vuelta) al menos DOS VECES en sus carreras?",
+   "c": ["Eddy Merckx, Bernard Hinault y Alberto Contador", "Chris Froome y Vincenzo Nibali", "Miguel Indurain y Jacques Anquetil", "Joop Zoetemelk y Chris Froome"]
+  },
+  "pt": {
+   "q": "Quais ciclistas são os únicos na história a terem vencido CADA uma das três Grandes Voltas (Tour, Giro, Vuelta) pelo menos DUAS vezes em suas carreiras?",
+   "c": ["Eddy Merckx, Bernard Hinault e Alberto Contador", "Chris Froome e Vincenzo Nibali", "Miguel Indurain e Jacques Anquetil", "Joop Zoetemelk e Chris Froome"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 10
+ },
+ {
+  "fr": {
+   "q": "Quel footballeur est le seul de l'histoire à avoir remporté la Coupe du monde de la FIFA en tant que joueur et en tant qu'entraîneur (sélectionneur) ?",
+   "c": ["Mário Zagallo et Franz Beckenbauer et Didier Deschamps", "Pelé et Diego Maradona", "Zinedine Zidane et Vicente del Bosque", "Johan Cruyff et Michel Platini"]
+  },
+  "en": {
+   "q": "Which football figures are the only ones in history to have won the FIFA World Cup as both a player and as a head coach?",
+   "c": ["Mário Zagallo, Franz Beckenbauer, and Didier Deschamps", "Pelé and Mario Kempes", "Zinedine Zidane and Joachim Löw", "Bobby Charlton and Bobby Robson"]
+  },
+  "ar": {
+   "q": "من هي الشخصيات الكروية الوحيدة في التاريخ التي فازت بكأس العالم لكرة القدم كلاعب وكمدرب رئيسي؟",
+   "c": ["ماريو زاغالو، فرانز بيكنباور، وديديدي ديشان", "بيليه وماريو كيمبيس", "زين الدين زيدان ويواخيم لوف", "بوبي تشارلتون وبوبي روبسون"]
+  },
+  "es": {
+   "q": "¿Qué personalidades del fútbol son los únicos en la historia en haber ganado la Copa Mundial de la FIFA tanto como jugador como entrenador principal?",
+   "c": ["Mário Zagallo, Franz Beckenbauer y Didier Deschamps", "Pelé y Mario Kempes", "Zinedine Zidane y Joachim Löw", "Bobby Charlton y Bobby Robson"]
+  },
+  "pt": {
+   "q": "Quais personalidades do futebol são os únicos na história a terem vencido a Copa do Mundo da FIFA tanto como jogador quanto como treinador principal?",
+   "c": ["Mário Zagallo, Franz Beckenbauer e Didier Deschamps", "Pelé e Mario Kempes", "Zinedine Zidane e Joachim Löw", "Bobby Charlton e Bobby Robson"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 10
+ },
+ {
+  "fr": {
+   "q": "Quel est le nom de l'alpiniste tyrolien qui, avec Reinhold Messner, a réalisé la première ascension de l'Everest sans oxygénation suplémentaire en 1978 ?",
+   "c": ["Peter Habeler", "Hermann Buhl", "Hans Kammerlander", "Ueli Steck"]
+  },
+  "en": {
+   "q": "Which Tyrolean mountaineer accompanied Reinhold Messner on the historic first ascent of Mount Everest without supplemental oxygen in 1978?",
+   "c": ["Peter Habeler", "Hermann Buhl", "Hans Kammerlander", "Ueli Steck"]
+  },
+  "ar": {
+   "q": "أي متسلق جبال تيرولي رافق راينهولد ميسنر في أول صعود تاريخي لجبل إيفرست بدون استخدام الأكسجين الإضافي عام 1978؟",
+   "c": ["بيتر هابيلر", "هيرمان بوهل", "هانس كاميرلاندر", "أولي ستيك"]
+  },
+  "es": {
+   "q": "¿Qué alpinista tirolés acompañó a Reinhold Messner en la histórica primera ascensión al Everest sin oxígeno suplementario en 1978?",
+   "c": ["Peter Habeler", "Hermann Buhl", "Hans Kammerlander", "Ueli Steck"]
+  },
+  "pt": {
+   "q": "Qual montanhista tirolês acompanhou Reinhold Messner na primeira subida histórica do Everest sem oxigênio suplementar em 1978?",
+   "c": ["Peter Habeler", "Hermann Buhl", "Hans Kammerlander", "Ueli Steck"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 10
+ },
+ {
+  "fr": {
+   "q": "Quel boxeur professionnel américain est resté invaincu tout au long de sa carrière professionnelle avec un bilan de 50 victoires et 0 défaite, surpassant le record de Rocky Marciano ?",
+   "c": ["Floyd Mayweather Jr.", "Rocky Marciano", "Joe Calzaghe", "Andre Ward"]
+  },
+  "en": {
+   "q": "Which American professional boxer retired undefeated with a record of 50 wins and 0 losses, surpassing Rocky Marciano's historic milestone?",
+   "c": ["Floyd Mayweather Jr.", "Rocky Marciano", "Joe Calzaghe", "Andre Ward"]
+  },
+  "ar": {
+   "q": "أي ملاكم محترف أمريكي اعتزل بسجل خالي من الهزائم بـ 50 فوزاً و0 هزيمة، متجاوزاً إنجاز روكي مارسيانو؟",
+   "c": ["فلويد مايويذر جونيور", "روكي مارسيانو", "جو كالتزاغي", "أندريه وارد"]
+  },
+  "es": {
+   "q": "¿Qué boxeador profesional estadounidense se retiró invicto con un récord de 50 victorias y 0 derrotas, superando el hito histórico de Rocky Marciano?",
+   "c": ["Floyd Mayweather Jr.", "Rocky Marciano", "Joe Calzaghe", "Andre Ward"]
+  },
+  "pt": {
+   "q": "Qual boxeador profissional americano se aposentou invicto com um recorde de 50 vitórias e 0 derrotas, superando o marco histórico de Rocky Marciano?",
+   "c": ["Floyd Mayweather Jr.", "Rocky Marciano", "Joe Calzaghe", "Andre Ward"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 10
+ },
+ {
+  "fr": {
+   "q": "Quel club de football sud-américain a remporté la Copa Libertadores trois fois de suite entre 1960 et 1962 sous l'impulsion de joueurs comme Alberto Spencer ?",
+   "c": ["Le CA Peñarol", "Le Santos FC", "Le Club Nacional", "Boca Juniors"]
+  },
+  "en": {
+   "q": "Which South American football club won three consecutive Copa Libertadores titles between 1960 and 1962?",
+   "c": ["CA Peñarol", "Santos FC", "Club Nacional", "Boca Juniors"]
+  },
+  "ar": {
+   "q": "أي نادي كرة قدم أمريكي جنوبي فاز بثلاثة ألقاب متتالية في كوبا ليبرتادوريس بين عامي 1960 و1962 بقيادة لاعبين مثل ألبرتو سبنسر؟",
+   "c": ["بينيارول", "سانتوس", "ناسيونال", "بوكا جونيورز"]
+  },
+  "es": {
+   "q": "¿Qué club de fútbol sudamericano ganó tres títulos consecutivos de la Copa Libertadores entre 1960 y 1962 impulsado por figuras como Alberto Spencer?",
+   "c": ["CA Peñarol", "Santos FC", "Club Nacional", "Boca Juniors"]
+  },
+  "pt": {
+   "q": "Qual clube de futebol sul-americano venceu três títulos consecutivos da Copa Libertadores entre 1960 e 1962 impulsionado por jogadores como Alberto Spencer?",
+   "c": ["CA Peñarol", "Santos FC", "Club Nacional", "Boca Juniors"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 10
+ },
+ {
+  "fr": {
+   "q": "Quel joueur de baseball des Boston Red Sox est devenu l'objet d'une célèbre superstition (« la Malédiction du Bambino ») après avoir été transféré aux Yankees en 1919 ?",
+   "c": ["Babe Ruth", "Ted Williams", "Cy Young", "Tris Speaker"]
+  },
+  "en": {
+   "q": "Which Boston Red Sox baseball player became the center of the famous 'Curse of the Bambino' after being sold to the Yankees in 1919?",
+   "c": ["Babe Ruth", "Ted Williams", "Cy Young", "Tris Speaker"]
+  },
+  "ar": {
+   "q": "أي لاعب بيسبول في فريق بوستون ريد سوكس أصبح محور الخرافة الشهيرة «لعنة البامبينو» بعد بيعه إلى يانكيز عام 1919؟",
+   "c": ["بيب روث", "تيد ويليامز", "ساي يونغ", "تريس سبيكر"]
+  },
+  "es": {
+   "q": "¿Qué jugador de béisbol de los Boston Red Sox se convirtió en el centro de la famosa « maldición del Bambino » tras ser traspasado a los Yankees en 1919?",
+   "c": ["Babe Ruth", "Ted Williams", "Cy Young", "Tris Speaker"]
+  },
+  "pt": {
+   "q": "Qual jogador de beisebol do Boston Red Sox tornou-se o centro da famosa superstição da 'Maldição do Bambino' após ser vendido para os Yankees em 1919?",
+   "c": ["Babe Ruth", "Ted Williams", "Cy Young", "Tris Speaker"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 10
+ },
+ {
+  "fr": {
+   "q": "Quel est le nom du joueur de cricket australien considéré comme le plus grand batteur de test-cricket de tous les temps, dont la moyenne au bâton frôlait les 99,94 ? (Don Bradman)",
+   "c": ["Sir Donald Bradman", "Ricky Ponting", "Steve Smith", "Matthew Hayden"]
+  },
+  "en": {
+   "q": "Which Australian cricketer is widely regarded as the greatest Test batsman of all time, finishing his career with a legendary batting average of 99.94?",
+   "c": ["Sir Donald Bradman", "Ricky Ponting", "Steve Smith", "Matthew Hayden"]
+  },
+  "ar": {
+   "q": "أي لاعب كريكيت أسترالي يُعتبر على نطاق واسع أعظم ضارب في مباريات التست في كل العصور، بمتوسط ضربات بلغ 99.94؟",
+   "c": ["السير دونالد برادمان", "ريكي بونتينغ", "ستيف سميث", "ماثيو هايدن"]
+  },
+  "es": {
+   "q": "¿Qué jugador de críquet australiano es considerado el mejor bateador de Test de todos los tiempos, terminando su carrera con un promedio de bateo de 99,94?",
+   "c": ["Sir Donald Bradman", "Ricky Ponting", "Steve Smith", "Matthew Hayden"]
+  },
+  "pt": {
+   "q": "Qual jogador de críquet australiano é amplamente considerado o maior batedor de Test de todos os tempos, terminando sua carreira com uma média de rebatidas de 99,94?",
+   "c": ["Sir Donald Bradman", "Ricky Ponting", "Steve Smith", "Matthew Hayden"]
+  },
+  "a": 0,
+  "image": null,
+  "level": 10
  }
 ]
