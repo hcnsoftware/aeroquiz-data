@@ -3,84 +3,244 @@
     "level": 1,
     "questions": [
       {
-        "fr": { "q": "Qu'est-ce qui va le plus vite ?", "c": ["La lumière", "Le son", "Le vent", "Une voiture"] },
-        "en": { "q": "Which travels fastest?", "c": ["Light", "Sound", "Wind", "A car"] },
-        "ar": { "q": "أيّ مما يلي هو الأسرع؟", "c": ["الضوء", "الصوت", "الرياح", "سيارة"] },
-        "es": { "q": "¿Qué viaja más rápido?", "c": ["La luz", "El sonido", "El viento", "Un coche"] },
-        "pt": { "q": "O que viaja mais rápido?", "c": ["A luz", "O som", "O vento", "Um carro"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Qu'est-ce qui va le plus vite ?",
+          "c": ["Une voiture", "La lumière", "Le vent", "Le son"]
+        },
+        "en": {
+          "q": "Which travels fastest?",
+          "c": ["A car", "Light", "Wind", "Sound"]
+        },
+        "ar": {
+          "q": "أيّ مما يلي هو الأسرع؟",
+          "c": ["سيارة", "الضوء", "الرياح", "الصوت"]
+        },
+        "es": {
+          "q": "¿Qué viaja más rápido?",
+          "c": ["Un coche", "La luz", "El viento", "El sonido"]
+        },
+        "pt": {
+          "q": "O que viaja mais rápido?",
+          "c": ["Um carro", "A luz", "O vento", "O som"]
+        },
+        "a": 1,
+        "image": null
       },
       {
-        "fr": { "q": "Quelle force attire les objets vers la Terre ?", "c": ["La gravité", "Le magnétisme", "Le frottement", "L'inertie"] },
-        "en": { "q": "What force pulls objects toward the Earth?", "c": ["Gravity", "Magnetism", "Friction", "Inertia"] },
-        "ar": { "q": "ما القوة التي تجذب الأجسام نحو الأرض؟", "c": ["الجاذبية", "المغناطيسية", "الاحتكاك", "القصور الذاتي"] },
-        "es": { "q": "¿Qué fuerza atrae los objetos hacia la Tierra?", "c": ["La gravedad", "El magnetismo", "La fricción", "La inercia"] },
-        "pt": { "q": "Que força atrai os objetos para a Terra?", "c": ["A gravidade", "O magnetismo", "O atrito", "A inércia"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quelle force attire les objets vers la Terre ?",
+          "c": ["Le frottement", "La gravité", "Le magnétisme", "L'inertie"]
+        },
+        "en": {
+          "q": "What force pulls objects toward the Earth?",
+          "c": ["Friction", "Gravity", "Magnetism", "Inertia"]
+        },
+        "ar": {
+          "q": "ما القوة التي تجذب الأجسام نحو الأرض؟",
+          "c": ["الاحتكاك", "الجاذبية", "المغناطيسية", "القصور الذاتي"]
+        },
+        "es": {
+          "q": "¿Qué fuerza atrae los objetos hacia la Tierra?",
+          "c": ["La fricción", "La gravedad", "El magnetismo", "La inercia"]
+        },
+        "pt": {
+          "q": "Que força atrai os objetos para a Terra?",
+          "c": ["O atrito", "A gravidade", "O magnetismo", "A inércia"]
+        },
+        "a": 1,
+        "image": null
       },
       {
-        "fr": { "q": "À quelle température l'eau gèle-t-elle ?", "c": ["0 °C", "10 °C", "-10 °C", "100 °C"] },
-        "en": { "q": "At what temperature does water freeze?", "c": ["0 °C", "10 °C", "-10 °C", "100 °C"] },
-        "ar": { "q": "عند أي درجة حرارة يتجمد الماء؟", "c": ["0 °C", "10 °C", "-10 °C", "100 °C"] },
-        "es": { "q": "¿A qué temperatura se congela el agua?", "c": ["0 °C", "10 °C", "-10 °C", "100 °C"] },
-        "pt": { "q": "A que temperatura a água congela?", "c": ["0 °C", "10 °C", "-10 °C", "100 °C"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "À quelle température l'eau gèle-t-elle ?",
+          "c": ["100 °C", "-10 °C", "10 °C", "0 °C"]
+        },
+        "en": {
+          "q": "At what temperature does water freeze?",
+          "c": ["100 °C", "-10 °C", "10 °C", "0 °C"]
+        },
+        "ar": {
+          "q": "عند أي درجة حرارة يتجمد الماء؟",
+          "c": ["100 °C", "-10 °C", "10 °C", "0 °C"]
+        },
+        "es": {
+          "q": "¿A qué temperatura se congela el agua?",
+          "c": ["100 °C", "-10 °C", "10 °C", "0 °C"]
+        },
+        "pt": {
+          "q": "A que temperatura a água congela?",
+          "c": ["100 °C", "-10 °C", "10 °C", "0 °C"]
+        },
+        "a": 3,
+        "image": null
       },
       {
-        "fr": { "q": "Quelle énergie possède un objet en mouvement ?", "c": ["Cinétique", "Potentielle", "Thermique", "Chimique"] },
-        "en": { "q": "What energy does a moving object have?", "c": ["Kinetic", "Potential", "Thermal", "Chemical"] },
-        "ar": { "q": "ما نوع الطاقة التي يمتلكها جسم متحرك؟", "c": ["الطاقة الحركية", "طاقة الوضع", "الطاقة الحرارية", "الطاقة الكيميائية"] },
-        "es": { "q": "¿Qué energía tiene un objeto en movimiento?", "c": ["Cinética", "Potencial", "Térmica", "Química"] },
-        "pt": { "q": "Que energia tem um objeto em movimento?", "c": ["Cinética", "Potencial", "Térmica", "Química"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quelle énergie possède un objet en mouvement ?",
+          "c": ["Cinétique", "Potentielle", "Thermique", "Chimique"]
+        },
+        "en": {
+          "q": "What energy does a moving object have?",
+          "c": ["Kinetic", "Potential", "Thermal", "Chemical"]
+        },
+        "ar": {
+          "q": "ما نوع الطاقة التي يمتلكها جسم متحرك؟",
+          "c": ["الطاقة الحركية", "طاقة الوضع", "الطاقة الحرارية", "الطاقة الكيميائية"]
+        },
+        "es": {
+          "q": "¿Qué energía tiene un objeto en movimiento?",
+          "c": ["Cinética", "Potencial", "Térmica", "Química"]
+        },
+        "pt": {
+          "q": "Que energia tem um objeto em movimento?",
+          "c": ["Cinética", "Potencial", "Térmica", "Química"]
+        },
+        "a": 0,
+        "image": null
       },
       {
-        "fr": { "q": "Que mesure un thermomètre ?", "c": ["La température", "La pression", "La vitesse", "Le poids"] },
-        "en": { "q": "What does a thermometer measure?", "c": ["Temperature", "Pressure", "Speed", "Weight"] },
-        "ar": { "q": "ماذا يقيس الترمومتر؟", "c": ["درجة الحرارة", "الضغط", "السرعة", "الوزن"] },
-        "es": { "q": "¿Qué mide un termómetro?", "c": ["La temperatura", "La presión", "La velocidad", "El peso"] },
-        "pt": { "q": "O que um termômetro mede?", "c": ["A temperatura", "A pressão", "A velocidade", "O peso"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Que mesure un thermomètre ?",
+          "c": ["La vitesse", "Le poids", "La température", "La pression"]
+        },
+        "en": {
+          "q": "What does a thermometer measure?",
+          "c": ["Speed", "Weight", "Temperature", "Pressure"]
+        },
+        "ar": {
+          "q": "ماذا يقيس الترمومتر؟",
+          "c": ["السرعة", "الوزن", "درجة الحرارة", "الضغط"]
+        },
+        "es": {
+          "q": "¿Qué mide un termómetro?",
+          "c": ["La velocidad", "El peso", "La temperatura", "La presión"]
+        },
+        "pt": {
+          "q": "O que um termômetro mede?",
+          "c": ["A velocidade", "O peso", "A temperatura", "A pressão"]
+        },
+        "a": 2,
+        "image": null
       },
       {
-        "fr": { "q": "À quelle température l'eau bout-elle au niveau de la mer ?", "c": ["100 °C", "90 °C", "80 °C", "120 °C"] },
-        "en": { "q": "At what temperature does water boil at sea level?", "c": ["100 °C", "90 °C", "80 °C", "120 °C"] },
-        "ar": { "q": "عند أي درجة حرارة يغلي الماء عند مستوى سطح البحر؟", "c": ["100 °C", "90 °C", "80 °C", "120 °C"] },
-        "es": { "q": "¿A qué temperatura hierve el agua a nivel del mar?", "c": ["100 °C", "90 °C", "80 °C", "120 °C"] },
-        "pt": { "q": "A que temperatura a água ferve ao nível do mar?", "c": ["100 °C", "90 °C", "80 °C", "120 °C"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "À quelle température l'eau bout-elle au niveau de la mer ?",
+          "c": ["90 °C", "100 °C", "80 °C", "120 °C"]
+        },
+        "en": {
+          "q": "At what temperature does water boil at sea level?",
+          "c": ["90 °C", "100 °C", "80 °C", "120 °C"]
+        },
+        "ar": {
+          "q": "عند أي درجة حرارة يغلي الماء عند مستوى سطح البحر؟",
+          "c": ["90 °C", "100 °C", "80 °C", "120 °C"]
+        },
+        "es": {
+          "q": "¿A qué temperatura hierve el agua a nivel del mar?",
+          "c": ["90 °C", "100 °C", "80 °C", "120 °C"]
+        },
+        "pt": {
+          "q": "A que temperatura a água ferve ao nível do mar?",
+          "c": ["90 °C", "100 °C", "80 °C", "120 °C"]
+        },
+        "a": 1,
+        "image": null
       },
       {
-        "fr": { "q": "Quel est le symbole chimique de l'or ?", "c": ["Ag", "Au", "Pb", "Fe"] },
-        "en": { "q": "What is the chemical symbol for gold?", "c": ["Ag", "Au", "Pb", "Fe"] },
-        "ar": { "q": "ما هو الرمز الكيميائي للذهب؟", "c": ["Ag", "Au", "Pb", "Fe"] },
-        "es": { "q": "¿Cuál es el símbolo químico del oro?", "c": ["Ag", "Au", "Pb", "Fe"] },
-        "pt": { "q": "Qual é o símbolo químico do ouro?", "c": ["Ag", "Au", "Pb", "Fe"] },
-        "a": 1, "image": null
+        "fr": {
+          "q": "Quel est le symbole chimique de l'or ?",
+          "c": ["Ag", "Au", "Pb", "Fe"]
+        },
+        "en": {
+          "q": "What is the chemical symbol for gold?",
+          "c": ["Ag", "Au", "Pb", "Fe"]
+        },
+        "ar": {
+          "q": "ما هو الرمز الكيميائي للذهب؟",
+          "c": ["Ag", "Au", "Pb", "Fe"]
+        },
+        "es": {
+          "q": "¿Cuál es el símbolo químico del oro?",
+          "c": ["Ag", "Au", "Pb", "Fe"]
+        },
+        "pt": {
+          "q": "Qual é o símbolo químico do ouro?",
+          "c": ["Ag", "Au", "Pb", "Fe"]
+        },
+        "a": 1,
+        "image": null
       },
       {
-        "fr": { "q": "Quelle est la formule chimique de l'eau ?", "c": ["CO2", "H2O", "O2", "NaCl"] },
-        "en": { "q": "What is the chemical formula for water?", "c": ["CO2", "H2O", "O2", "NaCl"] },
-        "ar": { "q": "ما هي الصيغة الكيميائية للماء؟", "c": ["CO2", "H2O", "O2", "NaCl"] },
-        "es": { "q": "¿Cuál es la fórmula química del agua?", "c": ["CO2", "H2O", "O2", "NaCl"] },
-        "pt": { "q": "Qual é a fórmula química da água?", "c": ["CO2", "H2O", "O2", "NaCl"] },
-        "a": 1, "image": null
+        "fr": {
+          "q": "Quelle est la formule chimique de l'eau ?",
+          "c": ["NaCl", "H2O", "O2", "CO2"]
+        },
+        "en": {
+          "q": "What is the chemical formula for water?",
+          "c": ["NaCl", "H2O", "O2", "CO2"]
+        },
+        "ar": {
+          "q": "ما هي الصيغة الكيميائية للماء؟",
+          "c": ["NaCl", "H2O", "O2", "CO2"]
+        },
+        "es": {
+          "q": "¿Cuál es la fórmula química del agua?",
+          "c": ["NaCl", "H2O", "O2", "CO2"]
+        },
+        "pt": {
+          "q": "Qual é a fórmula química da água?",
+          "c": ["NaCl", "H2O", "O2", "CO2"]
+        },
+        "a": 1,
+        "image": null
       },
       {
-        "fr": { "q": "Quel est le symbole chimique du sodium ?", "c": ["S", "Na", "Sd", "N"] },
-        "en": { "q": "What is the chemical symbol for sodium?", "c": ["S", "Na", "Sd", "N"] },
-        "ar": { "q": "ما هو الرمز الكيميائي للصوديوم؟", "c": ["S", "Na", "Sd", "N"] },
-        "es": { "q": "¿Cuál es el símbolo químico del sodio?", "c": ["S", "Na", "Sd", "N"] },
-        "pt": { "q": "Qual é o símbolo químico do sódio?", "c": ["S", "Na", "Sd", "N"] },
-        "a": 1, "image": null
+        "fr": {
+          "q": "Quel est le symbole chimique du sodium ?",
+          "c": ["Sd", "N", "Na", "S"]
+        },
+        "en": {
+          "q": "What is the chemical symbol for sodium?",
+          "c": ["Sd", "N", "Na", "S"]
+        },
+        "ar": {
+          "q": "ما هو الرمز الكيميائي للصوديوم؟",
+          "c": ["Sd", "N", "Na", "S"]
+        },
+        "es": {
+          "q": "¿Cuál es el símbolo químico del sodio?",
+          "c": ["Sd", "N", "Na", "S"]
+        },
+        "pt": {
+          "q": "Qual é o símbolo químico do sódio?",
+          "c": ["Sd", "N", "Na", "S"]
+        },
+        "a": 2,
+        "image": null
       },
       {
-        "fr": { "q": "Quel est le pH d'une solution neutre à 25 °C ?", "c": ["0", "7", "14", "10"] },
-        "en": { "q": "What is the pH of a neutral solution at 25 °C?", "c": ["0", "7", "14", "10"] },
-        "ar": { "q": "ما هو الرقم الهيدروجيني (pH) للمحلول المتعادل عند 25 درجة مئوية؟", "c": ["0", "7", "14", "10"] },
-        "es": { "q": "¿Cuál es el pH de una solución neutra a 25 °C?", "c": ["0", "7", "14", "10"] },
-        "pt": { "q": "Qual é o pH de uma solução neutra a 25 °C?", "c": ["0", "7", "14", "10"] },
-        "a": 1, "image": null
+        "fr": {
+          "q": "Quel est le pH d'une solution neutre à 25 °C ?",
+          "c": ["0", "7", "10", "14"]
+        },
+        "en": {
+          "q": "What is the pH of a neutral solution at 25 °C?",
+          "c": ["0", "7", "10", "14"]
+        },
+        "ar": {
+          "q": "ما هو الرقم الهيدروجيني (pH) للمحلول المتعادل عند 25 درجة مئوية؟",
+          "c": ["0", "7", "10", "14"]
+        },
+        "es": {
+          "q": "¿Cuál es el pH de una solución neutra a 25 °C?",
+          "c": ["0", "7", "10", "14"]
+        },
+        "pt": {
+          "q": "Qual é o pH de uma solução neutra a 25 °C?",
+          "c": ["0", "7", "10", "14"]
+        },
+        "a": 1,
+        "image": null
       }
     ]
   },
@@ -88,84 +248,244 @@
     "level": 2,
     "questions": [
       {
-        "fr": { "q": "Quelle est l'unité de la résistance électrique (dans le SI) ?", "c": ["Le volt", "L'ampère", "L'ohm", "Le watt"] },
-        "en": { "q": "What is the unit of electrical resistance (in the SI)?", "c": ["Volt", "Ampere", "Ohm", "Watt"] },
-        "ar": { "q": "ما هي وحدة قياس المقاومة الكهربائية (في النظام الدولي)؟", "c": ["الفولت", "الأمبير", "الأوم", "الواط"] },
-        "es": { "q": "¿Cuál es la unidad de resistencia eléctrica (en el SI)?", "c": ["Voltio", "Amperio", "Ohmio", "Vatio"] },
-        "pt": { "q": "Qual é a unidade de resistência elétrica (no SI)?", "c": ["Volt", "Ampère", "Ohm", "Watt"] },
-        "a": 2, "image": null
+        "fr": {
+          "q": "Quelle est l'unité de la résistance électrique (dans le SI) ?",
+          "c": ["Le watt", "Le volt", "L'ohm", "L'ampère"]
+        },
+        "en": {
+          "q": "What is the unit of electrical resistance (in the SI)?",
+          "c": ["Watt", "Volt", "Ohm", "Ampere"]
+        },
+        "ar": {
+          "q": "ما هي وحدة قياس المقاومة الكهربائية (في النظام الدولي)؟",
+          "c": ["الواط", "الفولت", "الأوم", "الأمبير"]
+        },
+        "es": {
+          "q": "¿Cuál es la unidad de resistencia eléctrica (en el SI)?",
+          "c": ["Vatio", "Voltio", "Ohmio", "Amperio"]
+        },
+        "pt": {
+          "q": "Qual é a unidade de resistência elétrica (no SI)?",
+          "c": ["Watt", "Volt", "Ohm", "Ampère"]
+        },
+        "a": 2,
+        "image": null
       },
       {
-        "fr": { "q": "Quel est le symbole chimique du fer ?", "c": ["F", "Fe", "Fr", "Fi"] },
-        "en": { "q": "What is the chemical symbol for iron?", "c": ["F", "Fe", "Fr", "Fi"] },
-        "ar": { "q": "ما هو الرمز الكيميائي للحديد؟", "c": ["F", "Fe", "Fr", "Fi"] },
-        "es": { "q": "¿Cuál es el símbolo químico del hierro?", "c": ["F", "Fe", "Fr", "Fi"] },
-        "pt": { "q": "Qual é o símbolo químico do ferro?", "c": ["F", "Fe", "Fr", "Fi"] },
-        "a": 1, "image": null
+        "fr": {
+          "q": "Quel est le symbole chimique du fer ?",
+          "c": ["Fe", "Fi", "Fr", "F"]
+        },
+        "en": {
+          "q": "What is the chemical symbol for iron?",
+          "c": ["Fe", "Fi", "Fr", "F"]
+        },
+        "ar": {
+          "q": "ما هو الرمز الكيميائي للحديد؟",
+          "c": ["Fe", "Fi", "Fr", "F"]
+        },
+        "es": {
+          "q": "¿Cuál es el símbolo químico del hierro?",
+          "c": ["Fe", "Fi", "Fr", "F"]
+        },
+        "pt": {
+          "q": "Qual é o símbolo químico do ferro?",
+          "c": ["Fe", "Fi", "Fr", "F"]
+        },
+        "a": 0,
+        "image": null
       },
       {
-        "fr": { "q": "Quelle particule subatomique possède une charge électrique négative ?", "c": ["Le proton", "Le neutron", "L'électron", "Le positron"] },
-        "en": { "q": "Which subatomic particle carries a negative electrical charge?", "c": ["Proton", "Neutron", "Electron", "Positron"] },
-        "ar": { "q": "ما هو الجسيم دون الذري الذي يحمل شحنة كهربائية سالبة؟", "c": ["البروتون", "النيوترون", "الإلكترون", "البوزيترون"] },
-        "es": { "q": "¿Qué partícula subatómica tiene carga eléctrica negativa?", "c": ["Protón", "Neutrón", "Electrón", "Positrón"] },
-        "pt": { "q": "Qual partícula subatômica possui carga elétrica negativa?", "c": ["Próton", "Nêutron", "Elétron", "Pósitron"] },
-        "a": 2, "image": null
+        "fr": {
+          "q": "Quelle particule subatomique possède une charge électrique négative ?",
+          "c": ["Le proton", "L'électron", "Le positron", "Le neutron"]
+        },
+        "en": {
+          "q": "Which subatomic particle carries a negative electrical charge?",
+          "c": ["Proton", "Electron", "Positron", "Neutron"]
+        },
+        "ar": {
+          "q": "ما هو الجسيم دون الذري الذي يحمل شحنة كهربائية سالبة؟",
+          "c": ["البروتون", "الإلكترون", "البوزيترون", "النيوترون"]
+        },
+        "es": {
+          "q": "¿Qué partícula subatómica tiene carga eléctrica negativa?",
+          "c": ["Protón", "Electrón", "Positrón", "Neutrón"]
+        },
+        "pt": {
+          "q": "Qual partícula subatômica possui carga elétrica negativa?",
+          "c": ["Próton", "Elétron", "Pósitron", "Nêutron"]
+        },
+        "a": 1,
+        "image": null
       },
       {
-        "fr": { "q": "Quelle est l'unité de la puissance électrique dans le Système international ?", "c": ["Le joule", "Le volt", "Le watt", "L'ampère"] },
-        "en": { "q": "What is the unit of electric power in the International System of Units?", "c": ["Joule", "Volt", "Watt", "Ampere"] },
-        "ar": { "q": "ما هي وحدة قياس القدرة الكهربائية في النظام الدولي؟", "c": ["الجول", "الفولت", "الواط", "الأمبير"] },
-        "es": { "q": "¿Cuál es la unidad de potencia eléctrica en el Sistema Internacional?", "c": ["Julio", "Voltio", "Vatio", "Amperio"] },
-        "pt": { "q": "Qual é a unidade de potência elétrica no Sistema Internacional?", "c": ["Joule", "Volt", "Watt", "Ampère"] },
-        "a": 2, "image": null
+        "fr": {
+          "q": "Quelle est l'unité de la puissance électrique dans le Système international ?",
+          "c": ["L'ampère", "Le watt", "Le volt", "Le joule"]
+        },
+        "en": {
+          "q": "What is the unit of electric power in the International System of Units?",
+          "c": ["Ampere", "Watt", "Volt", "Joule"]
+        },
+        "ar": {
+          "q": "ما هي وحدة قياس القدرة الكهربائية في النظام الدولي؟",
+          "c": ["الأمبير", "الواط", "الفولت", "الجول"]
+        },
+        "es": {
+          "q": "¿Cuál es la unidad de potencia eléctrica en el Sistema Internacional?",
+          "c": ["Amperio", "Vatio", "Voltio", "Julio"]
+        },
+        "pt": {
+          "q": "Qual é a unidade de potência elétrica no Sistema Internacional?",
+          "c": ["Ampère", "Watt", "Volt", "Joule"]
+        },
+        "a": 1,
+        "image": null
       },
       {
-        "fr": { "q": "Qui a formulé la théorie de la relativité ?", "c": ["Albert Einstein", "Isaac Newton", "Niels Bohr", "Galilée"] },
-        "en": { "q": "Who developed the theory of relativity?", "c": ["Albert Einstein", "Isaac Newton", "Niels Bohr", "Galileo"] },
-        "ar": { "q": "من صاغ نظرية النسبية؟", "c": ["ألبرت أينشتاين", "إسحاق نيوتن", "نيلز بور", "غاليليو"] },
-        "es": { "q": "¿Quién formuló la teoría de la relatividad?", "c": ["Albert Einstein", "Isaac Newton", "Niels Bohr", "Galileo"] },
-        "pt": { "q": "Quem formulou a teoria da relatividade?", "c": ["Albert Einstein", "Isaac Newton", "Niels Bohr", "Galileu"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Qui a formulé la théorie de la relativité ?",
+          "c": ["Albert Einstein", "Niels Bohr", "Galilée", "Isaac Newton"]
+        },
+        "en": {
+          "q": "Who developed the theory of relativity?",
+          "c": ["Albert Einstein", "Niels Bohr", "Galileo", "Isaac Newton"]
+        },
+        "ar": {
+          "q": "من صاغ نظرية النسبية؟",
+          "c": ["ألبرت أينشتاين", "نيلز بور", "غاليليو", "إسحاق نيوتن"]
+        },
+        "es": {
+          "q": "¿Quién formuló la teoría de la relatividad?",
+          "c": ["Albert Einstein", "Niels Bohr", "Galileo", "Isaac Newton"]
+        },
+        "pt": {
+          "q": "Quem formulou a teoria da relatividade?",
+          "c": ["Albert Einstein", "Niels Bohr", "Galileu", "Isaac Newton"]
+        },
+        "a": 0,
+        "image": null
       },
       {
-        "fr": { "q": "Quelle est la vitesse de la lumière (environ) ?", "c": ["30 000 km/s", "150 000 km/s", "300 000 km/s", "1 000 000 km/s"] },
-        "en": { "q": "What is the speed of light (approximately)?", "c": ["30,000 km/s", "150,000 km/s", "300,000 km/s", "1,000,000 km/s"] },
-        "ar": { "q": "ما هي سرعة الضوء تقريبًا؟", "c": ["30 ألف كم/ث", "150 ألف كم/ث", "300 ألف كم/ث", "مليون كم/ث"] },
-        "es": { "q": "¿Cuál es la velocidad de la luz (aproximadamente)?", "c": ["30 000 km/s", "150 000 km/s", "300 000 km/s", "1 000 000 km/s"] },
-        "pt": { "q": "Qual é a velocidade da luz (aproximadamente)?", "c": ["30 000 km/s", "150 000 km/s", "300 000 km/s", "1 000 000 km/s"] },
-        "a": 2, "image": null
+        "fr": {
+          "q": "Quelle est la vitesse de la lumière (environ) ?",
+          "c": ["1 000 000 km/s", "300 000 km/s", "30 000 km/s", "150 000 km/s"]
+        },
+        "en": {
+          "q": "What is the speed of light (approximately)?",
+          "c": ["1,000,000 km/s", "300,000 km/s", "30,000 km/s", "150,000 km/s"]
+        },
+        "ar": {
+          "q": "ما هي سرعة الضوء تقريبًا؟",
+          "c": ["مليون كم/ث", "300 ألف كم/ث", "30 ألف كم/ث", "150 ألف كم/ث"]
+        },
+        "es": {
+          "q": "¿Cuál es la velocidad de la luz (aproximadamente)?",
+          "c": ["1 000 000 km/s", "300 000 km/s", "30 000 km/s", "150 000 km/s"]
+        },
+        "pt": {
+          "q": "Qual é a velocidade da luz (aproximadamente)?",
+          "c": ["1 000 000 km/s", "300 000 km/s", "30 000 km/s", "150 000 km/s"]
+        },
+        "a": 1,
+        "image": null
       },
       {
-        "fr": { "q": "Quel est le numéro atomique de l'oxygène ?", "c": ["6", "7", "8", "16"] },
-        "en": { "q": "What is the atomic number of oxygen?", "c": ["6", "7", "8", "16"] },
-        "ar": { "q": "ما هو العدد الذري للأكسجين؟", "c": ["6", "7", "8", "16"] },
-        "es": { "q": "¿Cuál es el número atómico del oxígeno?", "c": ["6", "7", "8", "16"] },
-        "pt": { "q": "Qual é o número atômico do oxigênio?", "c": ["6", "7", "8", "16"] },
-        "a": 2, "image": null
+        "fr": {
+          "q": "Quel est le numéro atomique de l'oxygène ?",
+          "c": ["6", "7", "8", "16"]
+        },
+        "en": {
+          "q": "What is the atomic number of oxygen?",
+          "c": ["6", "7", "8", "16"]
+        },
+        "ar": {
+          "q": "ما هو العدد الذري للأكسجين؟",
+          "c": ["6", "7", "8", "16"]
+        },
+        "es": {
+          "q": "¿Cuál es el número atómico del oxígeno?",
+          "c": ["6", "7", "8", "16"]
+        },
+        "pt": {
+          "q": "Qual é o número atômico do oxigênio?",
+          "c": ["6", "7", "8", "16"]
+        },
+        "a": 2,
+        "image": null
       },
       {
-        "fr": { "q": "Qui a découvert la radioactivité naturelle en 1896 ?", "c": ["Henri Becquerel", "Marie Curie", "Ernest Rutherford", "Wilhelm Röntgen"] },
-        "en": { "q": "Who discovered natural radioactivity in 1896?", "c": ["Henri Becquerel", "Marie Curie", "Ernest Rutherford", "Wilhelm Röntgen"] },
-        "ar": { "q": "من اكتشف النشاط الإشعاعي الطبيعي عام 1896؟", "c": ["هنري بيكريل", "ماري كوري", "إرنست رذرفورد", "فيلهلم رونتغن"] },
-        "es": { "q": "¿Quién descubrió la radiactividad natural en 1896?", "c": ["Henri Becquerel", "Marie Curie", "Ernest Rutherford", "Wilhelm Röntgen"] },
-        "pt": { "q": "Quem descobriu a radioatividade natural em 1896?", "c": ["Henri Becquerel", "Marie Curie", "Ernest Rutherford", "Wilhelm Röntgen"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Qui a découvert la radioactivité naturelle en 1896 ?",
+          "c": ["Henri Becquerel", "Ernest Rutherford", "Wilhelm Röntgen", "Marie Curie"]
+        },
+        "en": {
+          "q": "Who discovered natural radioactivity in 1896?",
+          "c": ["Henri Becquerel", "Ernest Rutherford", "Wilhelm Röntgen", "Marie Curie"]
+        },
+        "ar": {
+          "q": "من اكتشف النشاط الإشعاعي الطبيعي عام 1896؟",
+          "c": ["هنري بيكريل", "إرنست رذرفورد", "فيلهلم رونتغن", "ماري كوري"]
+        },
+        "es": {
+          "q": "¿Quién descubrió la radiactividad natural en 1896?",
+          "c": ["Henri Becquerel", "Ernest Rutherford", "Wilhelm Röntgen", "Marie Curie"]
+        },
+        "pt": {
+          "q": "Quem descobriu a radioatividade natural em 1896?",
+          "c": ["Henri Becquerel", "Ernest Rutherford", "Wilhelm Röntgen", "Marie Curie"]
+        },
+        "a": 0,
+        "image": null
       },
       {
-        "fr": { "q": "Quelle est l'unité de courant électrique dans le Système international ?", "c": ["L'ampère", "Le volt", "Le watt", "L'ohm"] },
-        "en": { "q": "What is the SI unit of electric current?", "c": ["Ampere", "Volt", "Watt", "Ohm"] },
-        "ar": { "q": "ما وحدة قياس التيار الكهربائي في النظام الدولي؟", "c": ["الأمبير", "الفولت", "الواط", "الأوم"] },
-        "es": { "q": "¿Cuál est la unidad de corriente eléctrica en le Sistema Internacional?", "c": ["El amperio", "El voltio", "El vatio", "El ohmio"] },
-        "pt": { "q": "Qual é a unidade de corrente elétrica no Sistema Internacional?", "c": ["O ampère", "O volt", "O watt", "O ohm"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quelle est l'unité de courant électrique dans le Système international ?",
+          "c": ["L'ampère", "Le watt", "Le volt", "L'ohm"]
+        },
+        "en": {
+          "q": "What is the SI unit of electric current?",
+          "c": ["Ampere", "Watt", "Volt", "Ohm"]
+        },
+        "ar": {
+          "q": "ما وحدة قياس التيار الكهربائي في النظام الدولي؟",
+          "c": ["الأمبير", "الواط", "الفولت", "الأوم"]
+        },
+        "es": {
+          "q": "¿Cuál est la unidad de corriente eléctrica en le Sistema Internacional?",
+          "c": ["El amperio", "El vatio", "El voltio", "El ohmio"]
+        },
+        "pt": {
+          "q": "Qual é a unidade de corrente elétrica no Sistema Internacional?",
+          "c": ["O ampère", "O watt", "O volt", "O ohm"]
+        },
+        "a": 0,
+        "image": null
       },
       {
-        "fr": { "q": "Qui a formulé la loi de la gravitation universelle ?", "c": ["Isaac Newton", "Galilée", "Albert Einstein", "Johannes Kepler"] },
-        "en": { "q": "Who formulated the law of universal gravitation?", "c": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Johannes Kepler"] },
-        "ar": { "q": "من صاغ قانون الجذب العام؟", "c": ["إسحاق نيوتن", "غاليليو غاليلي", "ألبرت أينشتاين", "يوهانس كبلر"] },
-        "es": { "q": "¿Quién formuló la ley de la gravitación universal?", "c": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Johannes Kepler"] },
-        "pt": { "q": "Quem formulou a lei da gravitação universal?", "c": ["Isaac Newton", "Galileu Galilei", "Albert Einstein", "Johannes Kepler"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Qui a formulé la loi de la gravitation universelle ?",
+          "c": ["Johannes Kepler", "Galilée", "Albert Einstein", "Isaac Newton"]
+        },
+        "en": {
+          "q": "Who formulated the law of universal gravitation?",
+          "c": ["Johannes Kepler", "Galileo Galilei", "Albert Einstein", "Isaac Newton"]
+        },
+        "ar": {
+          "q": "من صاغ قانون الجذب العام؟",
+          "c": ["يوهانس كبلر", "غاليليو غاليلي", "ألبرت أينشتاين", "إسحاق نيوتن"]
+        },
+        "es": {
+          "q": "¿Quién formuló la ley de la gravitación universal?",
+          "c": ["Johannes Kepler", "Galileo Galilei", "Albert Einstein", "Isaac Newton"]
+        },
+        "pt": {
+          "q": "Quem formulou a lei da gravitação universal?",
+          "c": ["Johannes Kepler", "Galileu Galilei", "Albert Einstein", "Isaac Newton"]
+        },
+        "a": 3,
+        "image": null
       }
     ]
   },
@@ -173,84 +493,244 @@
     "level": 3,
     "questions": [
       {
-        "fr": { "q": "Quel instrument mesure la pression atmosphérique ?", "c": ["Le thermomètre", "Le baromètre", "L'anémomètre", "L'hygromètre"] },
-        "en": { "q": "Which instrument measures atmospheric pressure?", "c": ["Thermometer", "Barometer", "Anemometer", "Hygrometer"] },
-        "ar": { "q": "ما هو الأداة التي تقيس الضغط الجوي؟", "c": ["الترمومتر", "البارومتر", "الأنيمومتر", "الهيجرومتر"] },
-        "es": { "q": "¿Qué instrumento mide la presión atmosférica?", "c": ["Termómetro", "Barómetro", "Anemómetro", "Higrómetro"] },
-        "pt": { "q": "Qual instrumento mede a pressão atmosférica?", "c": ["Termômetro", "Barômetro", "Anemômetro", "Higrômetro"] },
-        "a": 1, "image": null
+        "fr": {
+          "q": "Quel instrument mesure la pression atmosphérique ?",
+          "c": ["L'anémomètre", "Le thermomètre", "L'hygromètre", "Le baromètre"]
+        },
+        "en": {
+          "q": "Which instrument measures atmospheric pressure?",
+          "c": ["Anemometer", "Thermometer", "Hygrometer", "Barometer"]
+        },
+        "ar": {
+          "q": "ما هو الأداة التي تقيس الضغط الجوي؟",
+          "c": ["الأنيمومتر", "الترمومتر", "الهيجرومتر", "البارومتر"]
+        },
+        "es": {
+          "q": "¿Qué instrumento mide la presión atmosférica?",
+          "c": ["Anemómetro", "Termómetro", "Higrómetro", "Barómetro"]
+        },
+        "pt": {
+          "q": "Qual instrumento mede a pressão atmosférica?",
+          "c": ["Anemômetro", "Termômetro", "Higrômetro", "Barômetro"]
+        },
+        "a": 3,
+        "image": null
       },
       {
-        "fr": { "q": "Quel gaz compose la majeure partie de l'atmosphère terrestre ?", "c": ["L'oxygène", "L'azote", "Le dioxyde de carbone", "L'hydrogène"] },
-        "en": { "q": "Which gas makes up the majority of Earth's atmosphere?", "c": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"] },
-        "ar": { "q": "ما الغاز الذي يشكل النسبة الأكبر من غلاف الأرض الجوي؟", "c": ["الأكسجين", "النيتروجين", "ثاني أكسيد الكربون", "الهيدروجين"] },
-        "es": { "q": "¿Qué gas constituye la mayor parte de la atmósfera terrestre?", "c": ["Oxígeno", "Nitrógeno", "Dióxido de carbono", "Hidrógeno"] },
-        "pt": { "q": "Qual gás compõe a maior parte da atmosfera da Terra?", "c": ["Oxigênio", "Nitrogênio", "Dióxido de carbono", "Hidrogênio"] },
-        "a": 1, "image": null
+        "fr": {
+          "q": "Quel gaz compose la majeure partie de l'atmosphère terrestre ?",
+          "c": ["Le dioxyde de carbone", "L'hydrogène", "L'azote", "L'oxygène"]
+        },
+        "en": {
+          "q": "Which gas makes up the majority of Earth's atmosphere?",
+          "c": ["Carbon dioxide", "Hydrogen", "Nitrogen", "Oxygen"]
+        },
+        "ar": {
+          "q": "ما الغاز الذي يشكل النسبة الأكبر من غلاف الأرض الجوي؟",
+          "c": ["ثاني أكسيد الكربون", "الهيدروجين", "النيتروجين", "الأكسجين"]
+        },
+        "es": {
+          "q": "¿Qué gas constituye la mayor parte de la atmósfera terrestre?",
+          "c": ["Dióxido de carbono", "Hidrógeno", "Nitrógeno", "Oxígeno"]
+        },
+        "pt": {
+          "q": "Qual gás compõe a maior parte da atmosfera da Terra?",
+          "c": ["Dióxido de carbono", "Hidrogênio", "Nitrogênio", "Oxigênio"]
+        },
+        "a": 2,
+        "image": null
       },
       {
-        "fr": { "q": "Quelle est l'unité de la force dans le Système international (SI) ?", "c": ["Le joule", "Le watt", "Le newton", "Le pascal"] },
-        "en": { "q": "What is the unit of force in the International System of Units (SI)?", "c": ["Joule", "Watt", "Newton", "Pascal"] },
-        "ar": { "q": "ما هي وحدة قياس القوة في النظام الدولي للوحدات (SI)؟", "c": ["الجول", "الواط", "النيوتن", "الباسكال"] },
-        "es": { "q": "¿Cuál es la unidad de fuerza en el Sistema Internacional (SI)?", "c": ["Julio", "Vatio", "Newton", "Pascal"] },
-        "pt": { "q": "Qual é a unidade de força no Sistema Internacional (SI)?", "c": ["Joule", "Watt", "Newton", "Pascal"] },
-        "a": 2, "image": null
+        "fr": {
+          "q": "Quelle est l'unité de la force dans le Système international (SI) ?",
+          "c": ["Le watt", "Le joule", "Le pascal", "Le newton"]
+        },
+        "en": {
+          "q": "What is the unit of force in the International System of Units (SI)?",
+          "c": ["Watt", "Joule", "Pascal", "Newton"]
+        },
+        "ar": {
+          "q": "ما هي وحدة قياس القوة في النظام الدولي للوحدات (SI)؟",
+          "c": ["الواط", "الجول", "الباسكال", "النيوتن"]
+        },
+        "es": {
+          "q": "¿Cuál es la unidad de fuerza en el Sistema Internacional (SI)?",
+          "c": ["Vatio", "Julio", "Pascal", "Newton"]
+        },
+        "pt": {
+          "q": "Qual é a unidade de força no Sistema Internacional (SI)?",
+          "c": ["Watt", "Joule", "Pascal", "Newton"]
+        },
+        "a": 3,
+        "image": null
       },
       {
-        "fr": { "q": "Comment appelle-t-on le passage de l'état solide à l'état gazeux directement ?", "c": ["La fusion", "La sublimation", "La vaporisation", "La condensation"] },
-        "en": { "q": "What is the direct transition from a solid state to a gas state called?", "c": ["Fusion", "Sublimation", "Vaporization", "Condensation"] },
-        "ar": { "q": "ماذا يسمى التحول المباشر من الحالة الصلبة إلى الحالة الغازية؟", "c": ["الانصهار", "التسامي", "التبخر", "التكاثف"] },
-        "es": { "q": "¿Cómo se llama el paso directo del estado sólido al estado gaseoso?", "c": ["Fusión", "Sublimación", "Vaporización", "Condensación"] },
-        "pt": { "q": "Como se chama a passagem direta do estado sólido para o estado gasoso?", "c": ["Fusão", "Sublimação", "Vaporação", "Condensação"] },
-        "a": 1, "image": null
+        "fr": {
+          "q": "Comment appelle-t-on le passage de l'état solide à l'état gazeux directement ?",
+          "c": ["La condensation", "La vaporisation", "La sublimation", "La fusion"]
+        },
+        "en": {
+          "q": "What is the direct transition from a solid state to a gas state called?",
+          "c": ["Condensation", "Vaporization", "Sublimation", "Fusion"]
+        },
+        "ar": {
+          "q": "ماذا يسمى التحول المباشر من الحالة الصلبة إلى الحالة الغازية؟",
+          "c": ["التكاثف", "التبخر", "التسامي", "الانصهار"]
+        },
+        "es": {
+          "q": "¿Cómo se llama el paso directo del estado sólido al estado gaseoso?",
+          "c": ["Condensación", "Vaporización", "Sublimación", "Fusión"]
+        },
+        "pt": {
+          "q": "Como se chama a passagem direta do estado sólido para o estado gasoso?",
+          "c": ["Condensação", "Vaporação", "Sublimação", "Fusão"]
+        },
+        "a": 2,
+        "image": null
       },
       {
-        "fr": { "q": "Quelle est la formule de l'énergie cinétique d'un objet de masse m et de vitesse v ?", "c": ["E = m × g × h", "E = 1/2 × m × v²", "E = m × v", "E = 1/2 × m² × v"] },
-        "en": { "q": "What is the formula for the kinetic energy of an object with mass m and velocity v?", "c": ["E = m × g × h", "E = 1/2 × m × v²", "E = m × v", "E = 1/2 × m² × v"] },
-        "ar": { "q": "ما هي صيغة الطاقة الحركية لجسم كتلته m وسرعته v؟", "c": ["E = m × g × h", "E = 1/2 × m × v²", "E = m × v", "E = 1/2 × m² × v"] },
-        "es": { "q": "¿Cuál es la fórmula de la energía cinética de un objeto de masa m y velocidad v?", "c": ["E = m × g × h", "E = 1/2 × m × v²", "E = m × v", "E = 1/2 × m² × v"] },
-        "pt": { "q": "Qual é a fórmula da energia cinética de um objeto de massa m e velocidade v?", "c": ["E = m × g × h", "E = 1/2 × m × v²", "E = m × v", "E = 1/2 × m² × v"] },
-        "a": 1, "image": null
+        "fr": {
+          "q": "Quelle est la formule de l'énergie cinétique d'un objet de masse m et de vitesse v ?",
+          "c": ["E = 1/2 × m² × v", "E = m × g × h", "E = 1/2 × m × v²", "E = m × v"]
+        },
+        "en": {
+          "q": "What is the formula for the kinetic energy of an object with mass m and velocity v?",
+          "c": ["E = 1/2 × m² × v", "E = m × g × h", "E = 1/2 × m × v²", "E = m × v"]
+        },
+        "ar": {
+          "q": "ما هي صيغة الطاقة الحركية لجسم كتلته m وسرعته v؟",
+          "c": ["E = 1/2 × m² × v", "E = m × g × h", "E = 1/2 × m × v²", "E = m × v"]
+        },
+        "es": {
+          "q": "¿Cuál es la fórmula de la energía cinética de un objeto de masa m y velocidad v?",
+          "c": ["E = 1/2 × m² × v", "E = m × g × h", "E = 1/2 × m × v²", "E = m × v"]
+        },
+        "pt": {
+          "q": "Qual é a fórmula da energia cinética de um objeto de massa m e velocidade v?",
+          "c": ["E = 1/2 × m² × v", "E = m × g × h", "E = 1/2 × m × v²", "E = m × v"]
+        },
+        "a": 2,
+        "image": null
       },
       {
-        "fr": { "q": "Quel scientifique a proposé le modèle atomique planétaire semblable à un système solaire miniature ?", "c": ["J.J. Thomson", "Ernest Rutherford", "John Dalton", "Dimitri Mendeleïev"] },
-        "en": { "q": "Which scientist proposed the planetary atomic model resembling a miniature solar system?", "c": ["J.J. Thomson", "Ernest Rutherford", "John Dalton", "Dimitri Mendeleev"] },
-        "ar": { "q": "أي عالم اقترح نموذج الذرة الكوكبي الذي يشبه نظاماً شمسياً مصغراً؟", "c": ["ج. ج. طومسون", "إرنست رذرفورد", "جون دالتون", "ديمتري مندلييف"] },
-        "es": { "q": "¿Qué científico propuso el modelo atómico planetario similar a un sistema solar en miniatura?", "c": ["J.J. Thomson", "Ernest Rutherford", "John Dalton", "Dimitri Mendeléyev"] },
-        "pt": { "q": "Qual cientista propôs o modelo atômico planetário semelhante a um sistema solar em miniatura?", "c": ["J.J. Thomson", "Ernest Rutherford", "John Dalton", "Dimitri Mendeleev"] },
-        "a": 1, "image": null
+        "fr": {
+          "q": "Quel scientifique a proposé le modèle atomique planétaire semblable à un système solaire miniature ?",
+          "c": ["Ernest Rutherford", "John Dalton", "Dimitri Mendeleïev", "J.J. Thomson"]
+        },
+        "en": {
+          "q": "Which scientist proposed the planetary atomic model resembling a miniature solar system?",
+          "c": ["Ernest Rutherford", "John Dalton", "Dimitri Mendeleev", "J.J. Thomson"]
+        },
+        "ar": {
+          "q": "أي عالم اقترح نموذج الذرة الكوكبي الذي يشبه نظاماً شمسياً مصغراً؟",
+          "c": ["إرنست رذرفورد", "جون دالتون", "ديمتري مندلييف", "ج. ج. طومسون"]
+        },
+        "es": {
+          "q": "¿Qué científico propuso el modelo atómico planetario similar a un sistema solar en miniatura?",
+          "c": ["Ernest Rutherford", "John Dalton", "Dimitri Mendeléyev", "J.J. Thomson"]
+        },
+        "pt": {
+          "q": "Qual cientista propôs o modelo atômico planetário semelhante a um sistema solar em miniatura?",
+          "c": ["Ernest Rutherford", "John Dalton", "Dimitri Mendeleev", "J.J. Thomson"]
+        },
+        "a": 0,
+        "image": null
       },
       {
-        "fr": { "q": "Comment appelle-t-on une solution dont le pH est supérieur à 7 ?", "c": ["Une solution acide", "Une solution neutre", "Une solution basique (ou alcaline)", "Une solution saturée"] },
-        "en": { "q": "What is a solution with a pH greater than 7 called?", "c": ["Acidic solution", "Neutral solution", "Basic (or alkaline) solution", "Saturated solution"] },
-        "ar": { "q": "ماذا يسمى المحلول الذي الرقم الهيدروجيني له أكبر من 7؟", "c": ["محلول حمضي", "محلول متعادل", "محلول قاعدي (قلوي)", "محلول مشبع"] },
-        "es": { "q": "¿Cómo se llama una solución cuyo pH es superior a 7?", "c": ["Solución ácida", "Solución neutra", "Solución básica (o alcalina)", "Solución saturada"] },
-        "pt": { "q": "Como se chama uma solução cujo pH é superior a 7?", "c": ["Solução ácida", "Solução neutra", "Solução básica (ou alcalina)", "Solução saturada"] },
-        "a": 2, "image": null
+        "fr": {
+          "q": "Comment appelle-t-on une solution dont le pH est supérieur à 7 ?",
+          "c": ["Une solution neutre", "Une solution acide", "Une solution basique (ou alcaline)", "Une solution saturée"]
+        },
+        "en": {
+          "q": "What is a solution with a pH greater than 7 called?",
+          "c": ["Neutral solution", "Acidic solution", "Basic (or alkaline) solution", "Saturated solution"]
+        },
+        "ar": {
+          "q": "ماذا يسمى المحلول الذي الرقم الهيدروجيني له أكبر من 7؟",
+          "c": ["محلول متعادل", "محلول حمضي", "محلول قاعدي (قلوي)", "محلول مشبع"]
+        },
+        "es": {
+          "q": "¿Cómo se llama una solución cuyo pH es superior a 7?",
+          "c": ["Solución neutra", "Solución ácida", "Solución básica (o alcalina)", "Solución saturada"]
+        },
+        "pt": {
+          "q": "Como se chama uma solução cujo pH é superior a 7?",
+          "c": ["Solução neutra", "Solução ácida", "Solução básica (ou alcalina)", "Solução saturada"]
+        },
+        "a": 2,
+        "image": null
       },
       {
-        "fr": { "q": "Quelle est l'unité de la pression dans le Système international ?", "c": ["Le pascal", "Le bar", "L'atmosphère", "Le torr"] },
-        "en": { "q": "What is the SI unit of pressure?", "c": ["Pascal", "Bar", "Atmosphere", "Torr"] },
-        "ar": { "q": "ما هي وحدة قياس الضغط في النظام الدولي؟", "c": ["الباسكال", "البار", "الجو", "التور"] },
-        "es": { "q": "¿Cuál es la unidad de presión en el Sistema Internacional?", "c": ["Pascal", "Bar", "Atmósfera", "Torr"] },
-        "pt": { "q": "Qual é a unidade de pressão no Sistema Internacional?", "c": ["Pascal", "Bar", "Atmosfera", "Torr"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quelle est l'unité de la pression dans le Système international ?",
+          "c": ["Le pascal", "L'atmosphère", "Le torr", "Le bar"]
+        },
+        "en": {
+          "q": "What is the SI unit of pressure?",
+          "c": ["Pascal", "Atmosphere", "Torr", "Bar"]
+        },
+        "ar": {
+          "q": "ما هي وحدة قياس الضغط في النظام الدولي؟",
+          "c": ["الباسكال", "الجو", "التور", "البار"]
+        },
+        "es": {
+          "q": "¿Cuál es la unidad de presión en el Sistema Internacional?",
+          "c": ["Pascal", "Atmósfera", "Torr", "Bar"]
+        },
+        "pt": {
+          "q": "Qual é a unidade de pressão no Sistema Internacional?",
+          "c": ["Pascal", "Atmosfera", "Torr", "Bar"]
+        },
+        "a": 0,
+        "image": null
       },
       {
-        "fr": { "q": "Quel est l'élément chimique le plus abondant dans l'univers ?", "c": ["L'hydrogène", "L'hélium", "L'oxygène", "Le carbone"] },
-        "en": { "q": "What is the most abundant chemical element in the universe?", "c": ["Hydrogen", "Helium", "Oxygen", "Carbon"] },
-        "ar": { "q": "ما هو العنصر الكيميائي الأكثر وفراً في الكون؟", "c": ["الهيدروجين", "الهيليوم", "الأكسجين", "الكربون"] },
-        "es": { "q": "¿Cuál es el elemento químico más abundante en el universo?", "c": ["Hidrógeno", "Helio", "Oxígeno", "Carbono"] },
-        "pt": { "q": "Qual é o elemento químico mais abundante no universo?", "c": ["Hidrogênio", "Hélio", "Oxigênio", "Carbono"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quel est l'élément chimique le plus abondant dans l'univers ?",
+          "c": ["L'hydrogène", "Le carbone", "L'oxygène", "L'hélium"]
+        },
+        "en": {
+          "q": "What is the most abundant chemical element in the universe?",
+          "c": ["Hydrogen", "Carbon", "Oxygen", "Helium"]
+        },
+        "ar": {
+          "q": "ما هو العنصر الكيميائي الأكثر وفراً في الكون؟",
+          "c": ["الهيدروجين", "الكربون", "الأكسجين", "الهيليوم"]
+        },
+        "es": {
+          "q": "¿Cuál es el elemento químico más abundante en el universo?",
+          "c": ["Hidrógeno", "Carbono", "Oxígeno", "Helio"]
+        },
+        "pt": {
+          "q": "Qual é o elemento químico mais abundante no universo?",
+          "c": ["Hidrogênio", "Carbono", "Oxigênio", "Hélio"]
+        },
+        "a": 0,
+        "image": null
       },
       {
-        "fr": { "q": "Quel phénomène physique explique la formation des arcs-en-ciel ?", "c": ["La réfraction et la dispersion de la lumière", "La réflexion totale", "L'interférence lumineuse", "La diffraction"] },
-        "en": { "q": "Which physical phenomenon explains the formation of rainbows?", "c": ["Refraction and dispersion of light", "Total reflection", "Light interference", "Diffraction"] },
-        "ar": { "q": "ما هي الظاهرة الفيزيائية التي تفسر تكوين قزح (قوس قزح)؟", "c": ["انكسار وتشتت الضوء", "الانعكاس الكلي", "التداخل الضوئي", "حيود الضوء"] },
-        "es": { "q": "¿Qué fenómeno físico explica la formación de los arcos iris?", "c": ["Refracción y dispersión de la luz", "Reflexión total", "Interferencia de la luz", "Difracción"] },
-        "pt": { "q": "Qual fenômeno físico explica a formação dos arco-íris?", "c": ["Refração e dispersão da luz", "Reflexão total", "Interferência luminosa", "Difração"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quel phénomène physique explique la formation des arcs-en-ciel ?",
+          "c": ["La réflexion totale", "L'interférence lumineuse", "La réfraction et la dispersion de la lumière", "La diffraction"]
+        },
+        "en": {
+          "q": "Which physical phenomenon explains the formation of rainbows?",
+          "c": ["Total reflection", "Light interference", "Refraction and dispersion of light", "Diffraction"]
+        },
+        "ar": {
+          "q": "ما هي الظاهرة الفيزيائية التي تفسر تكوين قزح (قوس قزح)؟",
+          "c": ["الانعكاس الكلي", "التداخل الضوئي", "انكسار وتشتت الضوء", "حيود الضوء"]
+        },
+        "es": {
+          "q": "¿Qué fenómeno físico explica la formación de los arcos iris?",
+          "c": ["Reflexión total", "Interferencia de la luz", "Refracción y dispersión de la luz", "Difracción"]
+        },
+        "pt": {
+          "q": "Qual fenômeno físico explica a formação dos arco-íris?",
+          "c": ["Reflexão total", "Interferência luminosa", "Refração e dispersão da luz", "Difração"]
+        },
+        "a": 2,
+        "image": null
       }
     ]
   },
@@ -258,84 +738,244 @@
     "level": 4,
     "questions": [
       {
-        "fr": { "q": "Quelle est la valeur de l'accélération de la pesanteur (g) à la surface de la Terre (environ) ?", "c": ["9,81 m/s²", "5,50 m/s²", "12,0 m/s²", "1,62 m/s²"] },
-        "en": { "q": "What is the approximate value of acceleration due to gravity (g) on Earth's surface?", "c": ["9.81 m/s²", "5.50 m/s²", "12.0 m/s²", "1.62 m/s²"] },
-        "ar": { "q": "ما هي القيمة التقريبية لتسارع الجاذبية الأرضية (g) على سطح الأرض؟", "c": ["9.81 م/ث²", "5.50 م/ث²", "12.0 م/ث²", "1.62 م/ث²"] },
-        "es": { "q": "¿Cuál es el valor aproximado de la aceleración de la gravedad (g) en la superficie de la Tierra?", "c": ["9,81 m/s²", "5,50 m/s²", "12,0 m/s²", "1,62 m/s²"] },
-        "pt": { "q": "Qual é o valor aproximado da aceleração da gravidade (g) na superfície da Terra?", "c": ["9,81 m/s²", "5,50 m/s²", "12,0 m/s²", "1,62 m/s²"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quelle est la valeur de l'accélération de la pesanteur (g) à la surface de la Terre (environ) ?",
+          "c": ["5,50 m/s²", "9,81 m/s²", "12,0 m/s²", "1,62 m/s²"]
+        },
+        "en": {
+          "q": "What is the approximate value of acceleration due to gravity (g) on Earth's surface?",
+          "c": ["5.50 m/s²", "9.81 m/s²", "12.0 m/s²", "1.62 m/s²"]
+        },
+        "ar": {
+          "q": "ما هي القيمة التقريبية لتسارع الجاذبية الأرضية (g) على سطح الأرض؟",
+          "c": ["5.50 م/ث²", "9.81 م/ث²", "12.0 م/ث²", "1.62 م/ث²"]
+        },
+        "es": {
+          "q": "¿Cuál es el valor aproximado de la aceleración de la gravedad (g) en la superficie de la Tierra?",
+          "c": ["5,50 m/s²", "9,81 m/s²", "12,0 m/s²", "1,62 m/s²"]
+        },
+        "pt": {
+          "q": "Qual é o valor aproximado da aceleração da gravidade (g) na superfície da Terra?",
+          "c": ["5,50 m/s²", "9,81 m/s²", "12,0 m/s²", "1,62 m/s²"]
+        },
+        "a": 1,
+        "image": null
       },
       {
-        "fr": { "q": "Quel physicien a formulé les lois du mouvement et de la gravitation universelle ?", "c": ["Isaac Newton", "Galilée", "Johannes Kepler", "René Descartes"] },
-        "en": { "q": "Which physicist formulated the laws of motion and universal gravitation?", "c": ["Isaac Newton", "Galileo Galilei", "Johannes Kepler", "René Descartes"] },
-        "ar": { "q": "أي فيزيائي صاغ قوانين الحركة والجذب العام؟", "c": ["إسحاق نيوتن", "غاليليو غاليلي", "يوهانس كبلر", "رينيه ديكارت"] },
-        "es": { "q": "¿Qué físico formuló las leyes del movimiento y la gravitación universal?", "c": ["Isaac Newton", "Galileo Galilei", "Johannes Kepler", "René Descartes"] },
-        "pt": { "q": "Qual físico formulou as leis do movimento e da gravitação universal?", "c": ["Isaac Newton", "Galileu Galilei", "Johannes Kepler", "René Descartes"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Comment appelle-t-on le transfert d'énergie thermique par un fluide en mouvement ?",
+          "c": ["La conduction", "La convection", "L'absorption", "Le rayonnement"]
+        },
+        "en": {
+          "q": "What is the transfer of thermal energy by moving fluids called?",
+          "c": ["Conduction", "Convection", "Absorption", "Radiation"]
+        },
+        "ar": {
+          "q": "ماذا يسمى انتقال الطاقة الحرارية عن طريق حركة السوائل أو الغازات؟",
+          "c": ["التوصيل الحراري", "الحمل الحراري", "الامتصاص", "الإشعاع"]
+        },
+        "es": {
+          "q": "¿Cómo se llama la transferencia de energía térmica por un fluido en movimiento?",
+          "c": ["Conducción", "Convección", "Absorción", "Radiación"]
+        },
+        "pt": {
+          "q": "Como se chama a transferência de energia térmica por um fluido em movimento?",
+          "c": ["Condução", "Convecção", "Absorção", "Radiação"]
+        },
+        "a": 1,
+        "image": null
       },
       {
-        "fr": { "q": "Comment appelle-t-on le transfert d'énergie thermique par un fluide en mouvement ?", "c": ["La convection", "La conduction", "Le rayonnement", "L'absorption"] },
-        "en": { "q": "What is the transfer of thermal energy by moving fluids called?", "c": ["Convection", "Conduction", "Radiation", "Absorption"] },
-        "ar": { "q": "ماذا يسمى انتقال الطاقة الحرارية عن طريق حركة السوائل أو الغازات؟", "c": ["الحمل الحراري", "التوصيل الحراري", "الإشعاع", "الامتصاص"] },
-        "es": { "q": "¿Cómo se llama la transferencia de energía térmica por un fluido en movimiento?", "c": ["Convección", "Conducción", "Radiación", "Absorción"] },
-        "pt": { "q": "Como se chama a transferência de energia térmica por um fluido em movimento?", "c": ["Convecção", "Condução", "Radiação", "Absorção"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quelle est l'unité de la charge électrique dans le Système international ?",
+          "c": ["Le farad", "L'ampère", "Le coulomb", "Le volt"]
+        },
+        "en": {
+          "q": "What is the SI unit of electric charge?",
+          "c": ["Farad", "Ampere", "Coulomb", "Volt"]
+        },
+        "ar": {
+          "q": "ما هي وحدة قياس الشحنة الكهربائية في النظام الدولي؟",
+          "c": ["الفاراد", "الأمبير", "الكولوم", "الفولت"]
+        },
+        "es": {
+          "q": "¿Cuál es la unidad de carga électrique en el Sistema Internacional?",
+          "c": ["El faradio", "El amperio", "El culombio", "El voltio"]
+        },
+        "pt": {
+          "q": "Qual é o unidade de carga elétrica no Sistema Internacional?",
+          "c": ["O farad", "O ampère", "O coulomb", "O volt"]
+        },
+        "a": 2,
+        "image": null
       },
       {
-        "fr": { "q": "Quelle est l'unité de la charge électrique dans le Système international ?", "c": ["Le coulomb", "L'ampère", "Le volt", "Le farad"] },
-        "en": { "q": "What is the SI unit of electric charge?", "c": ["Coulomb", "Ampere", "Volt", "Farad"] },
-        "ar": { "q": "ما هي وحدة قياس الشحنة الكهربائية في النظام الدولي؟", "c": ["الكولوم", "الأمبير", "الفولت", "الفاراد"] },
-        "es": { "q": "¿Cuál es la unidad de carga électrique en el Sistema Internacional?", "c": ["El culombio", "El amperio", "El voltio", "El faradio"] },
-        "pt": { "q": "Qual é a unidade de carga elétrica no Sistema Internacional?", "c": ["O coulomb", "O ampère", "O volt", "O farad"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quel type de liaison chimique implique le partage de paires d'électrons entre atomes ?",
+          "c": ["Une liaison ionique", "Une liaison hydrogène", "Une liaison métallique", "Une liaison covalente"]
+        },
+        "en": {
+          "q": "What type of chemical bond involves the sharing of electron pairs between atoms?",
+          "c": ["Ionic bond", "Hydrogen bond", "Metallic bond", "Covalent bond"]
+        },
+        "ar": {
+          "q": "ما نوع الرابطة الكيميائية التي تتضمن مشاركة أزواج الإلكترونات بين الذرات؟",
+          "c": ["رابطة أيونية", "رابطة هيدروجينية", "رابطة فلزية", "رابطة تساهمية"]
+        },
+        "es": {
+          "q": "¿Qué tipo de enlace químico implica compartir pares de electrones entre átomos?",
+          "c": ["Enlace iónico", "Enlace de hidrógeno", "Enlace metálico", "Enlace covalente"]
+        },
+        "pt": {
+          "q": "Que tipo de ligação química envolve o compartilhamento de pares de elétrons entre átomos?",
+          "c": ["Ligação iônica", "Ligação de hidrogênio", "Ligação metálica", "Ligação covalente"]
+        },
+        "a": 3,
+        "image": null
       },
       {
-        "fr": { "q": "Quel type de liaison chimique implique le partage d'paires d'électrons entre atomes ?", "c": ["Une liaison covalente", "Une liaison ionique", "Une liaison métallique", "Une liaison hydrogène"] },
-        "en": { "q": "What type of chemical bond involves the sharing of electron pairs between atoms?", "c": ["Covalent bond", "Ionic bond", "Metallic bond", "Hydrogen bond"] },
-        "ar": { "q": "ما نوع الرابطة الكيميائية التي تتضمن مشاركة أزواج الإلكترونات بين الذرات؟", "c": ["رابطة تساهمية", "رابطة أيونية", "رابطة فلزية", "رابطة هيدروجينية"] },
-        "es": { "q": "¿Qué tipo de enlace químico implica compartir pares de electrones entre átomos?", "c": ["Enlace covalente", "Enlace iónico", "Enlace metálico", "Enlace de hidrógeno"] },
-        "pt": { "q": "Que tipo de ligação química envolve o compartilhamento de pares de elétrons entre átomos?", "c": ["Ligação covalente", "Ligação iônica", "Ligação metálica", "Ligação de hidrogênio"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quelle est la fréquence du courant alternatif domestique standard en Europe ?",
+          "c": ["50 Hz", "120 Hz", "60 Hz", "100 Hz"]
+        },
+        "en": {
+          "q": "What is the standard domestic alternating current frequency in Europe?",
+          "c": ["50 Hz", "120 Hz", "60 Hz", "100 Hz"]
+        },
+        "ar": {
+          "q": "ما هو تردد التيار المتردد المنزلي القياسي في أوروبا؟",
+          "c": ["50 هرتز", "120 هرتز", "60 هرتز", "100 هرتز"]
+        },
+        "es": {
+          "q": "¿Cuál es la frecuencia de la corriente alterna doméstica estándar en Europa?",
+          "c": ["50 Hz", "120 Hz", "60 Hz", "100 Hz"]
+        },
+        "pt": {
+          "q": "Qual é a frequência da corrente alternada doméstica padrão na Europa?",
+          "c": ["50 Hz", "120 Hz", "60 Hz", "100 Hz"]
+        },
+        "a": 0,
+        "image": null
       },
       {
-        "fr": { "q": "Quelle est la fréquence du courant alternatif domestique standard en Europe ?", "c": ["50 Hz", "60 Hz", "100 Hz", "120 Hz"] },
-        "en": { "q": "What is the standard domestic alternating current frequency in Europe?", "c": ["50 Hz", "60 Hz", "100 Hz", "120 Hz"] },
-        "ar": { "q": "ما هو تردد التيار المتردد المنزلي القياسي في أوروبا؟", "c": ["50 هرتز", "60 هرتز", "100 هرتز", "120 هرتز"] },
-        "es": { "q": "¿Cuál es la frecuencia de la corriente alterna doméstica estándar en Europa?", "c": ["50 Hz", "60 Hz", "100 Hz", "120 Hz"] },
-        "pt": { "q": "Qual é a frequência da corrente alternada doméstica padrão na Europa?", "c": ["50 Hz", "60 Hz", "100 Hz", "120 Hz"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quel nom donne-t-on à une transformation chimique qui absorbe de la chaleur ?",
+          "c": ["Exothermique", "Athermique", "Endothermique", "Isothermique"]
+        },
+        "en": {
+          "q": "What is a chemical transformation that absorbs heat called?",
+          "c": ["Exothermic", "Athermic", "Endothermic", "Isothermal"]
+        },
+        "ar": {
+          "q": "ماذا يسمى التفاعل الكيميائي الذي يمتص الحرارة؟",
+          "c": ["طارد للحرارة", "لا حراري", "ماص للحرارة", "متساوي الحرارة"]
+        },
+        "es": {
+          "q": "¿Cómo se llama una transformación química que absorbe calor?",
+          "c": ["Exotérmica", "Atérmica", "Endotérmica", "Isotérmica"]
+        },
+        "pt": {
+          "q": "Como se chama uma transformação química que absorve calor?",
+          "c": ["Exotérmica", "Atérmica", "Endotérmica", "Isotérmica"]
+        },
+        "a": 2,
+        "image": null
       },
       {
-        "fr": { "q": "Quel nom donne-t-on à une transformation chimique qui absorbe de la chaleur ?", "c": ["Endothermique", "Exothermique", "Athermique", "Isothermique"] },
-        "en": { "q": "What is a chemical transformation that absorbs heat called?", "c": ["Endothermic", "Exothermic", "Athermic", "Isothermal"] },
-        "ar": { "q": "ماذا يسمى التفاعل الكيميائي الذي يمتص الحرارة؟", "c": ["ماص للحرارة", "طارد للحرارة", "لا حراري", "متساوي الحرارة"] },
-        "es": { "q": "¿Cómo se llama una transformación química que absorbe calor?", "c": ["Endotérmica", "Exotérmica", "Atérmica", "Isotérmica"] },
-        "pt": { "q": "Como se chama uma transformação química que absorve calor?", "c": ["Endotérmica", "Exotérmica", "Atérmica", "Isotérmica"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quel est l'élément chimique représenté par le symbole 'K' ?",
+          "c": ["Le krypton", "Le calcium", "Le potassium", "Le cobalt"]
+        },
+        "en": {
+          "q": "What chemical element is represented by the symbol 'K'?",
+          "c": ["Krypton", "Calcium", "Potassium", "Cobalt"]
+        },
+        "ar": {
+          "q": "ما هو العنصر الكيميائي الذي يُمثل بالرمز 'K'؟",
+          "c": ["الكربتون", "الكالسيوم", "البوتاسيوم", "الكوبالت"]
+        },
+        "es": {
+          "q": "¿Qué elemento químico está representado por le símbolo 'K'?",
+          "c": ["Kriptón", "Calcio", "Potasio", "Cobalto"]
+        },
+        "pt": {
+          "q": "Qual elemento químico é representado pelo símbolo 'K'?",
+          "c": ["Criptônio", "Cálcio", "Potássio", "Cobalto"]
+        },
+        "a": 2,
+        "image": null
       },
       {
-        "fr": { "q": "Quel est l'élément chimique représenté par le symbole 'K' ?", "c": ["Le potassium", "Le krypton", "Le calcium", "Le cobalt"] },
-        "en": { "q": "What chemical element is represented by the symbol 'K'?", "c": ["Potassium", "Krypton", "Calcium", "Cobalt"] },
-        "ar": { "q": "ما هو العنصر الكيميائي الذي يُمثل بالرمز 'K'؟", "c": ["البوتاسيوم", "الكربتون", "الكالسيوم", "الكوبالت"] },
-        "es": { "q": "¿Qué elemento químico está representado por le símbolo 'K'?", "c": ["Potasio", "Kriptón", "Calcio", "Cobalto"] },
-        "pt": { "q": "Qual elemento químico é representado pelo símbolo 'K'?", "c": ["Potássio", "Criptônio", "Cálcio", "Cobalto"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quelle loi de l'électromagnétisme relie la force électromotrice induite à la variation du flux magnétique ?",
+          "c": ["La loi de Coulomb", "Le théorème de Gauss", "La loi d'Ohm", "La loi de Faraday"]
+        },
+        "en": {
+          "q": "Which law of electromagnetism relates induced electromotive force to the rate of change of magnetic flux?",
+          "c": ["Coulomb's law", "Gauss's law", "Ohm's law", "Faraday's law"]
+        },
+        "ar": {
+          "q": "أي قانون في الكهرومغناطيسية يربط القوة الدافعة الكهربائية الحثية بمعدل تغير التدفق المغناطيسي؟",
+          "c": ["قانون كولوم", "نظرية غاوس", "قانون أوم", "قانون فاراداي"]
+        },
+        "es": {
+          "q": "¿Qué ley del electromagnetismo relaciona la fuerza electromotriz inducida con la variación del flujo magnético?",
+          "c": ["Ley de Coulomb", "Teorema de Gauss", "Ley de Ohm", "Ley de Faraday"]
+        },
+        "pt": {
+          "q": "Qual lei do eletromagnetismo relaciona a força eletromotriz induzida com a variação do fluxo magnético?",
+          "c": ["Lei de Coulomb", "Teorema de Gauss", "Lei de Ohm", "Lei de Faraday"]
+        },
+        "a": 3,
+        "image": null
       },
       {
-        "fr": { "q": "Quel scientifique a formulé le principe d'exclusion portant son nom en mécanique quantique ?", "c": ["Wolfgang Pauli", "Niels Bohr", "Max Planck", "Erwin Schrödinger"] },
-        "en": { "q": "Which scientist formulated the exclusion principle named after him in quantum mechanics?", "c": ["Wolfgang Pauli", "Niels Bohr", "Max Planck", "Erwin Schrödinger"] },
-        "ar": { "q": "أي عالم صاغ مبدأ الاستبعاد الذي يحمل اسمه في ميكانيكا الكم؟", "c": ["فولفغانغ باولي", "نيلز بور", "ماكس بلانك", "إرفين شرودنغر"] },
-        "es": { "q": "¿Qué científico formuló el principio de exclusión que lleva su nombre en mecánica cuántica?", "c": ["Wolfgang Pauli", "Niels Bohr", "Max Planck", "Erwin Schrödinger"] },
-        "pt": { "q": "Qual cientista formulou o princípio de exclusão com seu nome na mecânica quântica?", "c": ["Wolfgang Pauli", "Niels Bohr", "Max Planck", "Erwin Schrödinger"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quelle loi relie la tension U, l'intensité I et la résistance R d'un conducteur ohmique ?",
+          "c": ["La loi de Coulomb", "La loi d'Ohm (U = R × I)", "La loi de Faraday", "La loi de Joule"]
+        },
+        "en": {
+          "q": "Which law relates voltage U, current I and resistance R of an ohmic conductor?",
+          "c": ["Coulomb's law", "Ohm's law (U = R × I)", "Faraday's law", "Joule's law"]
+        },
+        "ar": {
+          "q": "ما القانون الذي يربط بين التوتر U وشدة التيار I ومقاومة R لموصل أومي؟",
+          "c": ["قانون كولوم", "قانون أوم (U = R × I)", "قانون فاراداي", "قانون جول"]
+        },
+        "es": {
+          "q": "¿Qué ley relaciona la tensión U, la intensidad I y la resistencia R de un conductor óhmico?",
+          "c": ["La ley de Coulomb", "La ley de Ohm (U = R × I)", "La ley de Faraday", "La ley de Joule"]
+        },
+        "pt": {
+          "q": "Que lei relaciona a tensão U, a corrente I e a resistência R de um condutor ôhmico?",
+          "c": ["A lei de Coulomb", "A lei de Ohm (U = R × I)", "A lei de Faraday", "A lei de Joule"]
+        },
+        "a": 1,
+        "image": null
       },
       {
-        "fr": { "q": "Quelle loi de l'électromagnétisme relie la force électromotrice induite à la variation du flux magnétique ?", "c": ["La loi de Faraday", "La loi d'Ohm", "La loi de Coulomb", "Le théorème de Gauss"] },
-        "en": { "q": "Which law of electromagnetism relates induced electromotive force to the rate of change of magnetic flux?", "c": ["Faraday's law", "Ohm's law", "Coulomb's law", "Gauss's law"] },
-        "ar": { "q": "أي قانون في الكهرومغناطيسية يربط القوة الدافعة الكهربائية الحثية بمعدل تغير التدفق المغناطيسي؟", "c": ["قانون فاراداي", "قانون أوم", "قانون كولوم", "نظرية غاوس"] },
-        "es": { "q": "¿Qué ley del electromagnetismo relaciona la fuerza electromotriz inducida con la variación del flujo magnético?", "c": ["Ley de Faraday", "Ley de Ohm", "Ley de Coulomb", "Teorema de Gauss"] },
-        "pt": { "q": "Qual lei do eletromagnetismo relaciona a força eletromotriz induzida com a variação do fluxo magnético?", "c": ["Lei de Faraday", "Lei de Ohm", "Lei de Coulomb", "Teorema de Gauss"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "De quel type est une onde sonore dans l'air ?",
+          "c": ["Une onde gravitationnelle", "Une onde mécanique longitudinale", "Une onde transversale", "Une onde électromagnétique"]
+        },
+        "en": {
+          "q": "What type of wave is a sound wave in air?",
+          "c": ["A gravitational wave", "A longitudinal mechanical wave", "A transverse wave", "An electromagnetic wave"]
+        },
+        "ar": {
+          "q": "ما نوع الموجة الصوتية في الهواء؟",
+          "c": ["موجة ثقالية", "موجة ميكانيكية طولية", "موجة مستعرضة", "موجة كهرومغناطيسية"]
+        },
+        "es": {
+          "q": "¿De qué tipo es una onda sonora en el aire?",
+          "c": ["Una onda gravitacional", "Una onda mecánica longitudinal", "Una onda transversal", "Una onda electromagnética"]
+        },
+        "pt": {
+          "q": "Que tipo de onda é uma onda sonora no ar?",
+          "c": ["Uma onda gravitacional", "Uma onda mecânica longitudinal", "Uma onda transversal", "Uma onda eletromagnética"]
+        },
+        "a": 1,
+        "image": null
       }
     ]
   },
@@ -343,84 +983,244 @@
     "level": 5,
     "questions": [
       {
-        "fr": { "q": "Quelle est la nature physique des rayons X ?", "c": ["Des ondes électromagnétiques à haute fréquence", "Des flux d'électrons", "Des noyaux d'hélium", "Des neutrons rapides"] },
-        "en": { "q": "What is the physical nature of X-rays?", "c": ["High-frequency electromagnetic waves", "Electron streams", "Helium nuclei", "Fast neutrons"] },
-        "ar": { "q": "ما هي الطبيعة الفيزيائية للأشعة السينية (أشعة إكس)؟", "c": ["موجات كهرومغناطيسية عالية التردد", "تدفقات من الإلكترونات", "أنوية هيليوم", "نيوترونات سريعة"] },
-        "es": { "q": "¿Cuál es la naturaleza física de los rayos X?", "c": ["Ondas electromagnéticas de alta frecuencia", "Flujos de electrones", "Núcleos de helio", "Neutrones rápidos"] },
-        "pt": { "q": "Qual é a natureza física dos raios X?", "c": ["Ondas eletromagnéticas de alta frequência", "Fluxos de elétrons", "Núcleos de hélio", "Nêutrons rápidos"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quelle est la nature physique des rayons X ?",
+          "c": ["Des ondes électromagnétiques à haute fréquence", "Des noyaux d'hélium", "Des neutrons rapides", "Des flux d'électrons"]
+        },
+        "en": {
+          "q": "What is the physical nature of X-rays?",
+          "c": ["High-frequency electromagnetic waves", "Helium nuclei", "Fast neutrons", "Electron streams"]
+        },
+        "ar": {
+          "q": "ما هي الطبيعة الفيزيائية للأشعة السينية (أشعة إكس)؟",
+          "c": ["موجات كهرومغناطيسية عالية التردد", "أنوية هيليوم", "نيوترونات سريعة", "تدفقات من الإلكترونات"]
+        },
+        "es": {
+          "q": "¿Cuál es la naturaleza física de los rayos X?",
+          "c": ["Ondas electromagnéticas de alta frecuencia", "Núcleos de helio", "Neutrones rápidos", "Flujos de electrones"]
+        },
+        "pt": {
+          "q": "Qual é a natureza física dos raios X?",
+          "c": ["Ondas eletromagnéticas de alta frequência", "Núcleos de hélio", "Nêutrons rápidos", "Fluxos de elétrons"]
+        },
+        "a": 0,
+        "image": null
       },
       {
-        "fr": { "q": "Quel chimiste russe est le principal créateur du premier tableau périodique des éléments ?", "c": ["Dimitri Mendeleïev", "Antoine Lavoisier", "John Dalton", "Amedeo Avogadro"] },
-        "en": { "q": "Which Russian chemist is the primary creator of the first periodic table of elements?", "c": ["Dmitri Mendeleev", "Antoine Lavoisier", "John Dalton", "Amedeo Avogadro"] },
-        "ar": { "q": "أي كيميائي روسي يعتبر المصمم الأساسي لأول جدول دوري للعناصر؟", "c": ["ديمتري مندلييف", "أنطوان لافوازييه", "جون دالتون", "أماديو أفوجادرو"] },
-        "es": { "q": "¿Qué químico ruso es el principal creador de la primera tabla periódica de los elementos?", "c": ["Dmitri Mendeléyev", "Antoine Lavoisier", "John Dalton", "Amedeo Avogadro"] },
-        "pt": { "q": "Qual químico russo é o principal criador da primeira tabela periódica dos elementos?", "c": ["Dmitri Mendeleev", "Antoine Lavoisier", "John Dalton", "Amedeo Avogadro"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quel chimiste russe est le principal créateur du premier tableau périodique des éléments ?",
+          "c": ["John Dalton", "Antoine Lavoisier", "Amedeo Avogadro", "Dimitri Mendeleïev"]
+        },
+        "en": {
+          "q": "Which Russian chemist is the primary creator of the first periodic table of elements?",
+          "c": ["John Dalton", "Antoine Lavoisier", "Amedeo Avogadro", "Dmitri Mendeleev"]
+        },
+        "ar": {
+          "q": "أي كيميائي روسي يعتبر المصمم الأساسي لأول جدول دوري للعناصر؟",
+          "c": ["جون دالتون", "أنطوان لافوازييه", "أماديو أفوجادرو", "ديمتري مندلييف"]
+        },
+        "es": {
+          "q": "¿Qué químico ruso es el principal creador de la primera tabla periódica de los elementos?",
+          "c": ["John Dalton", "Antoine Lavoisier", "Amedeo Avogadro", "Dmitri Mendeléyev"]
+        },
+        "pt": {
+          "q": "Qual químico russo é o principal criador da primeira tabela periódica dos elementos?",
+          "c": ["John Dalton", "Antoine Lavoisier", "Amedeo Avogadro", "Dmitri Mendeleev"]
+        },
+        "a": 3,
+        "image": null
       },
       {
-        "fr": { "q": "Quel est le principe fondamental de la statique des fluides au repos formulé par Archimède ?", "c": ["La poussée d'Archimède", "Le principe de Pascal", "Le théorème de Bernoulli", "La loi de Torricelli"] },
-        "en": { "q": "What is the fundamental principle of fluid statics formulated by Archimedes?", "c": ["Archimedes' principle", "Pascal's principle", "Bernoulli's theorem", "Torricelli's law"] },
-        "ar": { "q": "ما هو الأساس الفيزيائي لميكانيكا السوائل الساكنة الذي صيغ بواسطة أرخميدس؟", "c": ["قاعدة أرخميدس", "مبدأ باسكال", "نظرية برنولي", "قانون توريسيلي"] },
-        "es": { "q": "¿Cuál es el principio fundamental de la estática de fluidos formulado por Arquímedes?", "c": ["El principio de Arquímedes", "El principio de Pascal", "El teorema de Bernoulli", "La ley de Torricelli"] },
-        "pt": { "q": "Qual é o princípio fundamental da estática dos fluidos formulado por Arquimedes?", "c": ["O princípio de Arquimedes", "O princípio de Pascal", "O teorema de Bernoulli", "A lei de Torricelli"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quel est le principe fondamental de la statique des fluides au repos formulé par Archimède ?",
+          "c": ["Le principe de Pascal", "Le théorème de Bernoulli", "La poussée d'Archimède", "La loi de Torricelli"]
+        },
+        "en": {
+          "q": "What is the fundamental principle of fluid statics formulated by Archimedes?",
+          "c": ["Pascal's principle", "Bernoulli's theorem", "Archimedes' principle", "Torricelli's law"]
+        },
+        "ar": {
+          "q": "ما هو الأساس الفيزيائي لميكانيكا السوائل الساكنة الذي صيغ بواسطة أرخميدس؟",
+          "c": ["مبدأ باسكال", "نظرية برنولي", "قاعدة أرخميدس", "قانون توريسيلي"]
+        },
+        "es": {
+          "q": "¿Cuál es el principio fundamental de la estática de fluidos formulado por Arquímedes?",
+          "c": ["El principio de Pascal", "El teorema de Bernoulli", "El principio de Arquímedes", "La ley de Torricelli"]
+        },
+        "pt": {
+          "q": "Qual é o princípio fundamental da estática dos fluidos formulado por Arquimedes?",
+          "c": ["O princípio de Pascal", "O teorema de Bernoulli", "O princípio de Arquimedes", "A lei de Torricelli"]
+        },
+        "a": 2,
+        "image": null
       },
       {
-        "fr": { "q": "Quel nom donne-t-on à l'isotope de l'hydrogène possédant un neutron dans son noyau ?", "c": ["Le deutérium", "Le tritium", "Le protium", "L'alpha"] },
-        "en": { "q": "What is the name of the hydrogen isotope with one neutron in its nucleus?", "c": ["Deuterium", "Tritium", "Protium", "Alpha"] },
-        "ar": { "q": "ما اسم نظير الهيدروجين الذي يحتوي على نيوترون واحد في نواته؟", "c": ["الديوتيريوم", "التريتيوم", "البروتيوم", "ألفا"] },
-        "es": { "q": "¿Cómo se llama el isótopo del hidrógeno que tiene un neutrón en su núcleo?", "c": ["Deuterio", "Tritio", "Protio", "Alfa"] },
-        "pt": { "q": "Qual é o nome do isótopo de hidrogênio que possui um nêutron em seu núcleo?", "c": ["Deutério", "Trítio", "Prótio", "Alfa"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quel nom donne-t-on à l'isotope de l'hydrogène possédant un neutron dans son noyau ?",
+          "c": ["Le deutérium", "Le protium", "L'alpha", "Le tritium"]
+        },
+        "en": {
+          "q": "What is the name of the hydrogen isotope with one neutron in its nucleus?",
+          "c": ["Deuterium", "Protium", "Alpha", "Tritium"]
+        },
+        "ar": {
+          "q": "ما اسم نظير الهيدروجين الذي يحتوي على نيوترون واحد في نواته؟",
+          "c": ["الديوتيريوم", "البروتيوم", "ألفا", "التريتيوم"]
+        },
+        "es": {
+          "q": "¿Cómo se llama el isótopo del hidrógeno que tiene un neutrón en su núcleo?",
+          "c": ["Deuterio", "Protio", "Alfa", "Tritio"]
+        },
+        "pt": {
+          "q": "Qual é o nome do isótopo de hidrogênio que possui um nêutron em seu núcleo?",
+          "c": ["Deutério", "Prótio", "Alfa", "Trítio"]
+        },
+        "a": 0,
+        "image": null
       },
       {
-        "fr": { "q": "Quelle est l'unité de mesure de la capacité d'un condensateur dans le Système international ?", "c": ["Le farad", "Le henry", "L'ohm", "Le coulomb"] },
-        "en": { "q": "What is the SI unit of capacitance for a capacitor?", "c": ["Farad", "Henry", "Ohm", "Coulomb"] },
-        "ar": { "q": "ما هي وحدة قياس السعة الكهربائية للمكثف في النظام الدولي؟", "c": ["الفاراد", "هنري", "الأوم", "الكولوم"] },
-        "es": { "q": "¿Cuál es la unidad de capacidad de un condensador en el Sistema Internacional?", "c": ["Faradio", "Henrio", "Ohmio", "Culombio"] },
-        "pt": { "q": "Qual é a unidade de capacitância de um capacitor no Sistema Internacional?", "c": ["Farad", "Henry", "Ohm", "Coulomb"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quelle est l'unité de mesure de la capacité d'un condensateur dans le Système international ?",
+          "c": ["Le coulomb", "Le henry", "L'ohm", "Le farad"]
+        },
+        "en": {
+          "q": "What is the SI unit of capacitance for a capacitor?",
+          "c": ["Coulomb", "Henry", "Ohm", "Farad"]
+        },
+        "ar": {
+          "q": "ما هي وحدة قياس السعة الكهربائية للمكثف في النظام الدولي؟",
+          "c": ["الكولوم", "هنري", "الأوم", "الفاراد"]
+        },
+        "es": {
+          "q": "¿Cuál es la unidad de capacidad de un condensador en el Sistema Internacional?",
+          "c": ["Culombio", "Henrio", "Ohmio", "Faradio"]
+        },
+        "pt": {
+          "q": "Qual é a unidade de capacitância de um capacitor no Sistema Internacional?",
+          "c": ["Coulomb", "Henry", "Ohm", "Farad"]
+        },
+        "a": 3,
+        "image": null
       },
       {
-        "fr": { "q": "Quel physicien a établi la relation d'équivalence entre masse et énergie ($E=mc^2$) ?", "c": ["Albert Einstein", "Max Planck", "Niels Bohr", "James Clerk Maxwell"] },
-        "en": { "q": "Which physicist established the mass-energy equivalence relation ($E=mc^2$)?", "c": ["Albert Einstein", "Max Planck", "Niels Bohr", "James Clerk Maxwell"] },
-        "ar": { "q": "أي فيزيائي وضع معادلة تكافؤ الكتلة والطاقة ($E=mc^2$)؟", "c": ["ألبرت أينشتاين", "ماكس بلانك", "نيلز بور", "جيمس كليرك ماكسويل"] },
-        "es": { "q": "¿Qué físico estableció la relación de equivalencia entre masa y energía ($E=mc^2$)?", "c": ["Albert Einstein", "Max Planck", "Niels Bohr", "James Clerk Maxwell"] },
-        "pt": { "q": "Qual físico estabeleceu a relação de equivalência entre massa e energia ($E=mc^2$)?", "c": ["Albert Einstein", "Max Planck", "Niels Bohr", "James Clerk Maxwell"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quel scientifique a découvert l'électron en 1897 ?",
+          "c": ["Robert Millikan", "J.J. Thomson", "Ernest Rutherford", "James Chadwick"]
+        },
+        "en": {
+          "q": "Which scientist discovered the electron in 1897?",
+          "c": ["Robert Millikan", "J.J. Thomson", "Ernest Rutherford", "James Chadwick"]
+        },
+        "ar": {
+          "q": "أي عالم اكتشف الإلكترون عام 1897؟",
+          "c": ["روبرت مليكان", "ج. ج. طومسون", "إرنست رذرفورد", "جيمس شادويك"]
+        },
+        "es": {
+          "q": "¿Qué científico descubrió el electrón en 1897?",
+          "c": ["Robert Millikan", "J.J. Thomson", "Ernest Rutherford", "James Chadwick"]
+        },
+        "pt": {
+          "q": "Qual cientista descobriu o elétron em 1897?",
+          "c": ["Robert Millikan", "J.J. Thomson", "Ernest Rutherford", "James Chadwick"]
+        },
+        "a": 1,
+        "image": null
       },
       {
-        "fr": { "q": "Comment nomme-t-on le passage direct de l'état gazeux à l'état solide ?", "c": ["La deposition (ou sublimation inverse)", "La condensation", "La solidification", "La fusion"] },
-        "en": { "q": "What is the direct transition from a gas state to a solid state called?", "c": ["Deposition (or reverse sublimation)", "Condensation", "Solidification", "Fusion"] },
-        "ar": { "q": "ماذا يسمى التحول المباشر من الحالة الغازية إلى الحالة الصلبة؟", "c": ["الترسيب (التسامي العكسي)", "التكاثف", "التجمد", "الانصهار"] },
-        "es": { "q": "¿Cómo se llama el paso directo del estado gaseoso al estado sólido?", "c": ["Deposición (o sublimación inversa)", "Condensación", "Solidificación", "Fusión"] },
-        "pt": { "q": "Como se chama a passagem direta do estado gasoso para o estado sólido?", "c": ["Deposição (ou sublimação inversa)", "Condensação", "Solidificação", "Fusão"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quelle est l'unité de mesure de l'inductance d'une bobine dans le Système international ?",
+          "c": ["L'ohm", "Le Weber", "Le farad", "Le henry"]
+        },
+        "en": {
+          "q": "What is the SI unit of inductance for a coil?",
+          "c": ["Ohm", "Weber", "Farad", "Henry"]
+        },
+        "ar": {
+          "q": "ما هي وحدة قياس الحث الذاتي للملف في النظام الدولي؟",
+          "c": ["الأوم", "الويبر", "الفاراد", "هنري"]
+        },
+        "es": {
+          "q": "¿Cuál es la unidad de inductancia de una bobina en el Sistema Internacional?",
+          "c": ["Ohmio", "Weber", "Faradio", "Henrio"]
+        },
+        "pt": {
+          "q": "Qual é a unidade de indutância de uma bobina no Sistema Internacional?",
+          "c": ["Ohm", "Weber", "Farad", "Henry"]
+        },
+        "a": 3,
+        "image": null
       },
       {
-        "fr": { "q": "Quel scientifique a découvert l'électron en 1897 ?", "c": ["J.J. Thomson", "Ernest Rutherford", "James Chadwick", "Robert Millikan"] },
-        "en": { "q": "Which scientist discovered the electron in 1897?", "c": ["J.J. Thomson", "Ernest Rutherford", "James Chadwick", "Robert Millikan"] },
-        "ar": { "q": "أي عالم اكتشف الإلكترون عام 1897؟", "c": ["ج. ج. طومسون", "إرنست رذرفورد", "جيمس شادويك", "روبرت مليكان"] },
-        "es": { "q": "¿Qué científico descubrió el electrón en 1897?", "c": ["J.J. Thomson", "Ernest Rutherford", "James Chadwick", "Robert Millikan"] },
-        "pt": { "q": "Qual cientista descobriu o elétron em 1897?", "c": ["J.J. Thomson", "Ernest Rutherford", "James Chadwick", "Robert Millikan"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quel gaz est responsable de l'effet de serre principal à l'état naturel dans l'atmosphère terrestre ?",
+          "c": ["L'oxygène", "L'azote", "L'argon", "La vapeur d'eau"]
+        },
+        "en": {
+          "q": "What is the primary naturally occurring greenhouse gas in Earth's atmosphere?",
+          "c": ["Oxygen", "Nitrogen", "Argon", "Water vapor"]
+        },
+        "ar": {
+          "q": "ما هو غاز الدفيئة الرئيسي المتواجد طبيعياً في الغلاف الجوي للأرض؟",
+          "c": ["الأكسجين", "النيتروجين", "الأرجون", "بخار الماء"]
+        },
+        "es": {
+          "q": "¿Cuál es el principal gas de efecto invernadero de origen natural en la atmósfera terrestre?",
+          "c": ["Oxígeno", "Nitrógeno", "Argón", "Vapor de agua"]
+        },
+        "pt": {
+          "q": "Qual é o principal gás de efeito estufa de ocorrência natural na atmosfera da Terra?",
+          "c": ["Oxigênio", "Nitrogênio", "Argônio", "Vapor de água"]
+        },
+        "a": 3,
+        "image": null
       },
       {
-        "fr": { "q": "Quelle est l'unité de mesure de l'inductance d'une bobine dans le Système international ?", "c": ["Le henry", "Le farad", "L'ohm", "Le Weber"] },
-        "en": { "q": "What is the SI unit of inductance for a coil?", "c": ["Henry", "Farad", "Ohm", "Weber"] },
-        "ar": { "q": "ما هي وحدة قياس الحث الذاتي للملف في النظام الدولي؟", "c": ["هنري", "الفاراد", "الأوم", "الويبر"] },
-        "es": { "q": "¿Cuál es la unidad de inductancia de una bobina en el Sistema Internacional?", "c": ["Henrio", "Faradio", "Ohmio", "Weber"] },
-        "pt": { "q": "Qual é a unidade de indutância de uma bobina no Sistema Internacional?", "c": ["Henry", "Farad", "Ohm", "Weber"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quelle loi énonce qu'à température constante, le produit pression × volume d'un gaz parfait est constant ?",
+          "c": ["La loi de Boyle-Mariotte", "La loi de Dalton", "La loi de Charles", "La loi d'Avogadro"]
+        },
+        "en": {
+          "q": "Which law states that at constant temperature the product of pressure and volume of an ideal gas is constant?",
+          "c": ["Boyle's law", "Dalton's law", "Charles's law", "Avogadro's law"]
+        },
+        "ar": {
+          "q": "ما القانون الذي ينص على أن حاصل ضرب الضغط في الحجم لغاز مثالي ثابت عند درجة حرارة ثابتة؟",
+          "c": ["قانون بويل", "قانون دالتون", "قانون شارل", "قانون أفوغادرو"]
+        },
+        "es": {
+          "q": "¿Qué ley establece que, a temperatura constante, el producto presión × volumen de un gas ideal es constante?",
+          "c": ["La ley de Boyle-Mariotte", "La ley de Dalton", "La ley de Charles", "La ley de Avogadro"]
+        },
+        "pt": {
+          "q": "Que lei afirma que, a temperatura constante, o produto pressão × volume de um gás ideal é constante?",
+          "c": ["A lei de Boyle-Mariotte", "A lei de Dalton", "A lei de Charles", "A lei de Avogadro"]
+        },
+        "a": 0,
+        "image": null
       },
       {
-        "fr": { "q": "Quel gaz est responsable de l'effet de serre principal à l'état naturel dans l'atmosphère terrestre ?", "c": ["La vapeur d'eau", "L'azote", "L'oxygène", "L'argon"] },
-        "en": { "q": "What is the primary naturally occurring greenhouse gas in Earth's atmosphere?", "c": ["Water vapor", "Nitrogen", "Oxygen", "Argon"] },
-        "ar": { "q": "ما هو غاز الدفيئة الرئيسي المتواجد طبيعياً في الغلاف الجوي للأرض؟", "c": ["بخار الماء", "النيتروجين", "الأكسجين", "الأرجون"] },
-        "es": { "q": "¿Cuál es el principal gas de efecto invernadero de origen natural en la atmósfera terrestre?", "c": ["Vapor de agua", "Nitrógeno", "Oxígeno", "Argón"] },
-        "pt": { "q": "Qual é o principal gás de efeito estufa de ocorrência natural na atmosfera da Terra?", "c": ["Vapor de água", "Nitrogênio", "Oxigênio", "Argônio"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Comment nomme-t-on le passage direct de l'état gazeux à l'état solide ?",
+          "c": ["La solidification", "La fusion", "La condensation solide (ou dépôt)", "La liquéfaction"]
+        },
+        "en": {
+          "q": "What is the direct transition from a gas to a solid called?",
+          "c": ["Solidification", "Melting", "Deposition", "Liquefaction"]
+        },
+        "ar": {
+          "q": "ماذا يُسمّى الانتقال المباشر من الحالة الغازية إلى الحالة الصلبة؟",
+          "c": ["التصلّب", "الانصهار", "التكاثف الصلب (الترسيب)", "التسييل"]
+        },
+        "es": {
+          "q": "¿Cómo se llama el paso directo del estado gaseoso al estado sólido?",
+          "c": ["La solidificación", "La fusión", "La sublimación inversa (deposición)", "La licuación"]
+        },
+        "pt": {
+          "q": "Como se chama a passagem direta do estado gasoso para o estado sólido?",
+          "c": ["A solidificação", "A fusão", "A sublimação inversa (deposição)", "A liquefação"]
+        },
+        "a": 2,
+        "image": null
       }
     ]
   },
@@ -428,84 +1228,244 @@
     "level": 6,
     "questions": [
       {
-        "fr": { "q": "Quel physicien a formulé le principe d'incertitude en mécanique quantique ?", "c": ["Werner Heisenberg", "Niels Bohr", "Max Planck", "Louis de Broglie"] },
-        "en": { "q": "Which physicist formulated the uncertainty principle in quantum mechanics?", "c": ["Werner Heisenberg", "Niels Bohr", "Max Planck", "Louis de Broglie"] },
-        "ar": { "q": "أي فيزيائي صاغ مبدأ عدم اليقين في ميكانيكا الكم؟", "c": ["فيرنر هايزنبرغ", "نيلز بور", "ماكس بلانك", "لويس دي بروي"] },
-        "es": { "q": "¿Qué físico formuló el principio de incertidumbre en mecánica cuántica?", "c": ["Werner Heisenberg", "Niels Bohr", "Max Planck", "Louis de Broglie"] },
-        "pt": { "q": "Qual físico formulou o princípio da incerteza na mecânica quântica?", "c": ["Werner Heisenberg", "Niels Bohr", "Max Planck", "Louis de Broglie"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quel physicien a formulé le principe d'incertitude en mécanique quantique ?",
+          "c": ["Niels Bohr", "Werner Heisenberg", "Louis de Broglie", "Max Planck"]
+        },
+        "en": {
+          "q": "Which physicist formulated the uncertainty principle in quantum mechanics?",
+          "c": ["Niels Bohr", "Werner Heisenberg", "Louis de Broglie", "Max Planck"]
+        },
+        "ar": {
+          "q": "أي فيزيائي صاغ مبدأ عدم اليقين في ميكانيكا الكم؟",
+          "c": ["نيلز بور", "فيرنر هايزنبرغ", "لويس دي بروي", "ماكس بلانك"]
+        },
+        "es": {
+          "q": "¿Qué físico formuló el principio de incertidumbre en mecánica cuántica?",
+          "c": ["Niels Bohr", "Werner Heisenberg", "Louis de Broglie", "Max Planck"]
+        },
+        "pt": {
+          "q": "Qual físico formulou o princípio da incerteza na mecânica quântica?",
+          "c": ["Niels Bohr", "Werner Heisenberg", "Louis de Broglie", "Max Planck"]
+        },
+        "a": 1,
+        "image": null
       },
       {
-        "fr": { "q": "Comment nomme-t-on une solution chimique qui s'oppose aux variations brusques de pH ?", "c": ["Une solution tampon", "Une solution saturée", "Une solution molaire", "Une solution idéale"] },
-        "en": { "q": "What is a chemical solution that resists changes in pH called?", "c": ["A buffer solution", "A saturated solution", "A molar solution", "An ideal solution"] },
-        "ar": { "q": "ماذا يسمى المحلول الكيميائي الذي يقاوم التغيرات المفاجئة في الرقم الهيدروجيني؟", "c": ["محلول منظم (بافر)", "محلول مشبع", "محلول مولاري", "محلول مثالي"] },
-        "es": { "q": "¿Cómo se llama una solución química que se opone a los cambios bruscos de pH?", "c": ["Una solución amortiguadora (o tampón)", "Una solución saturada", "Una solución molar", "Una solución ideal"] },
-        "pt": { "q": "Como se chama uma solução química que resiste a mudanças bruscas de pH?", "c": ["Uma solução tampão", "Uma solução saturada", "Uma solução molar", "Uma solução ideal"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Comment nomme-t-on une solution chimique qui s'oppose aux variations brusques de pH ?",
+          "c": ["Une solution saturée", "Une solution molaire", "Une solution tampon", "Une solution idéale"]
+        },
+        "en": {
+          "q": "What is a chemical solution that resists changes in pH called?",
+          "c": ["A saturated solution", "A molar solution", "A buffer solution", "An ideal solution"]
+        },
+        "ar": {
+          "q": "ماذا يسمى المحلول الكيميائي الذي يقاوم التغيرات المفاجئة في الرقم الهيدروجيني؟",
+          "c": ["محلول مشبع", "محلول مولاري", "محلول منظم (بافر)", "محلول مثالي"]
+        },
+        "es": {
+          "q": "¿Cómo se llama una solución química que se opone a los cambios bruscos de pH?",
+          "c": ["Una solución saturada", "Una solución molar", "Una solución amortiguadora (o tampón)", "Una solución ideal"]
+        },
+        "pt": {
+          "q": "Como se chama uma solução química que resiste a mudanças bruscas de pH?",
+          "c": ["Uma solução saturada", "Uma solução molar", "Uma solução tampão", "Uma solução ideal"]
+        },
+        "a": 2,
+        "image": null
       },
       {
-        "fr": { "q": "Quelle est l'unité de mesure du flux magnétique dans le Système international ?", "c": ["Le weber", "Le tesla", "Le henry", "Le coulomb"] },
-        "en": { "q": "What is the SI unit of magnetic flux?", "c": ["Weber", "Tesla", "Henry", "Coulomb"] },
-        "ar": { "q": "ما هي وحدة قياس التدفق المغناطيسي في النظام الدولي؟", "c": ["الويبر", "التسلا", "هنري", "الكولوم"] },
-        "es": { "q": "¿Cuál es la unidad de medida del flujo magnético en el Sistema Internacional?", "c": ["Weber", "Tesla", "Henrio", "Culombio"] },
-        "pt": { "q": "Qual é a unidade de medida do fluxo magnético no Sistema Internacional?", "c": ["Weber", "Tesla", "Henry", "Coulomb"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quelle est l'unité de mesure du flux magnétique dans le Système international ?",
+          "c": ["Le coulomb", "Le tesla", "Le weber", "Le henry"]
+        },
+        "en": {
+          "q": "What is the SI unit of magnetic flux?",
+          "c": ["Coulomb", "Tesla", "Weber", "Henry"]
+        },
+        "ar": {
+          "q": "ما هي وحدة قياس التدفق المغناطيسي في النظام الدولي؟",
+          "c": ["الكولوم", "التسلا", "الويبر", "هنري"]
+        },
+        "es": {
+          "q": "¿Cuál es la unidad de medida del flujo magnético en el Sistema Internacional?",
+          "c": ["Culombio", "Tesla", "Weber", "Henrio"]
+        },
+        "pt": {
+          "q": "Qual é a unidade de medida do fluxo magnético no Sistema Internacional?",
+          "c": ["Coulomb", "Tesla", "Weber", "Henry"]
+        },
+        "a": 2,
+        "image": null
       },
       {
-        "fr": { "q": "Quel physicien a découvert le neutron en 1932 ?", "c": ["James Chadwick", "Ernest Rutherford", "J.J. Thomson", "Enrico Fermi"] },
-        "en": { "q": "Which physicist discovered the neutron in 1932?", "c": ["James Chadwick", "Ernest Rutherford", "J.J. Thomson", "Enrico Fermi"] },
-        "ar": { "q": "أي فيزيائي اكتشف النيوترون عام 1932؟", "c": ["جيمس شادويك", "إرنست رذرفورد", "ج. ج. طومسون", "إنريكو فيرمي"] },
-        "es": { "q": "¿Qué físico descubrió el neutrón en 1932?", "c": ["James Chadwick", "Ernest Rutherford", "J.J. Thomson", "Enrico Fermi"] },
-        "pt": { "q": "Qual físico descobriu o nêutron em 1932?", "c": ["James Chadwick", "Ernest Rutherford", "J.J. Thomson", "Enrico Fermi"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quel physicien a découvert le neutron en 1932 ?",
+          "c": ["Enrico Fermi", "Ernest Rutherford", "J.J. Thomson", "James Chadwick"]
+        },
+        "en": {
+          "q": "Which physicist discovered the neutron in 1932?",
+          "c": ["Enrico Fermi", "Ernest Rutherford", "J.J. Thomson", "James Chadwick"]
+        },
+        "ar": {
+          "q": "أي فيزيائي اكتشف النيوترون عام 1932؟",
+          "c": ["إنريكو فيرمي", "إرنست رذرفورد", "ج. ج. طومسون", "جيمس شادويك"]
+        },
+        "es": {
+          "q": "¿Qué físico descubrió el neutrón en 1932?",
+          "c": ["Enrico Fermi", "Ernest Rutherford", "J.J. Thomson", "James Chadwick"]
+        },
+        "pt": {
+          "q": "Qual físico descobriu o nêutron em 1932?",
+          "c": ["Enrico Fermi", "Ernest Rutherford", "J.J. Thomson", "James Chadwick"]
+        },
+        "a": 3,
+        "image": null
       },
       {
-        "fr": { "q": "Quelle loi de thermodynamique énonce que l'entropie d'un système isolé augmente toujours au fil du temps ?", "c": ["Le second principe de la thermodynamique", "Le premier principe", "Le principe zéro", "Le troisième principe"] },
-        "en": { "q": "Which law of thermodynamics states that the entropy of an isolated system always increases over time?", "c": ["The second law of thermodynamics", "The first law", "The zeroth law", "The third law"] },
-        "ar": { "q": "أي قانون في الديناميكا الحرارية ينص على أن إنتروبيا نظام معزول تزداد دائماً بمرور الوقت؟", "c": ["القانون الثاني للديناميكا الحرارية", "القانون الأول", "القانون الصفري", "القانون الثالث"] },
-        "es": { "q": "¿Qué ley de la termodinámica establece que la entropía de un sistema aislado siempre aumenta con el tiempo?", "c": ["El segundo principio de la termodinámica", "El primer principio", "El principio cero", "El tercer principio"] },
-        "pt": { "q": "Qual lei da termodinâmica afirma que a entropia de um sistema isolado sempre aumenta com o tempo?", "c": ["A segunda lei da termodinâmica", "A primeira lei", "A lei zero", "A terceira lei"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quelle loi de thermodynamique énonce que l'entropie d'un système isolé augmente toujours au fil du temps ?",
+          "c": ["Le second principe de la thermodynamique", "Le troisième principe", "Le principe zéro", "Le premier principe"]
+        },
+        "en": {
+          "q": "Which law of thermodynamics states that the entropy of an isolated system always increases over time?",
+          "c": ["The second law of thermodynamics", "The third law", "The zeroth law", "The first law"]
+        },
+        "ar": {
+          "q": "أي قانون في الديناميكا الحرارية ينص على أن إنتروبيا نظام معزول تزداد دائماً بمرور الوقت؟",
+          "c": ["القانون الثاني للديناميكا الحرارية", "القانون الثالث", "القانون الصفري", "القانون الأول"]
+        },
+        "es": {
+          "q": "¿Qué ley de la termodinámica establece que la entropía de un sistema aislado siempre aumenta con el tiempo?",
+          "c": ["El segundo principio de la termodinámica", "El tercer principio", "El principio cero", "El primer principio"]
+        },
+        "pt": {
+          "q": "Qual lei da termodinâmica afirma que a entropia de um sistema isolado sempre aumenta com o tempo?",
+          "c": ["A segunda lei da termodinâmica", "A terceira lei", "A lei zero", "A primeira lei"]
+        },
+        "a": 0,
+        "image": null
       },
       {
-        "fr": { "q": "Quel nom donne-t-on à la résistance d'un circuit en courant alternatif incluant des effets capacitifs et inductifs ?", "c": ["L'impédance", "La conductance", "La réactance", "La susceptance"] },
-        "en": { "q": "What is the total opposition to alternating current in a circuit including capacitive and inductive effects called?", "c": ["Impedance", "Conductance", "Reactance", "Susceptance"] },
-        "ar": { "q": "ماذا يسمى القياس الكلي لمقاومة التيار المتردد المتضمن للتأثيرات السعوية والحثية؟", "c": ["الممانعة (الimpedance)", "الموصلية", "المفاعلة", "المطاوعة"] },
-        "es": { "q": "¿Cómo se llama la resistencia total al paso de la corriente alterna que incluye efectos capacitivos e inductivos?", "c": ["Impedancia", "Conductancia", "Reactancia", "Susceptancia"] },
-        "pt": { "q": "Como se chama a oposição total à corrente alternada em um circuito que inclui efeitos capacitivos e indutivos?", "c": ["Impedância", "Condutância", "Reatância", "Susceptância"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quel nom donne-t-on à la résistance d'un circuit en courant alternatif incluant des effets capacitifs et inductifs ?",
+          "c": ["L'impédance", "La conductance", "La réactance", "La susceptance"]
+        },
+        "en": {
+          "q": "What is the total opposition to alternating current in a circuit including capacitive and inductive effects called?",
+          "c": ["Impedance", "Conductance", "Reactance", "Susceptance"]
+        },
+        "ar": {
+          "q": "ماذا يسمى القياس الكلي لمقاومة التيار المتردد المتضمن للتأثيرات السعوية والحثية؟",
+          "c": ["الممانعة (الimpedance)", "الموصلية", "المفاعلة", "المطاوعة"]
+        },
+        "es": {
+          "q": "¿Cómo se llama la resistencia total al paso de la corriente alterna que incluye efectos capacitivos e inductivos?",
+          "c": ["Impedancia", "Conductancia", "Reactancia", "Susceptancia"]
+        },
+        "pt": {
+          "q": "Como se chama a oposição total à corrente alternada em um circuito que inclui efeitos capacitivos e indutivos?",
+          "c": ["Impedância", "Condutância", "Reatância", "Susceptância"]
+        },
+        "a": 0,
+        "image": null
       },
       {
-        "fr": { "q": "Quel type de radioactivité correspond à l'émission d'un noyau d'hélium ($^4_2He$) ?", "c": ["La radioactivité alpha", "La radioactivité bêta moins", "La radioactivité bêta plus", "La radioactivité gamma"] },
-        "en": { "q": "What type of radioactivity corresponds to the emission of a helium nucleus ($^4_2He$)?", "c": ["Alpha radioactivity", "Beta-minus radioactivity", "Beta-plus radioactivity", "Gamma radioactivity"] },
-        "ar": { "q": "ما هو نوع النشاط الإشعاعي الذي يوافق انبعاث نواة هيليوم ($^4_2He$)؟", "c": ["إشعاع ألفا", "إشعاع بيتا سالب", "إشعاع بيتا موجب", "إشعاع غاما"] },
-        "es": { "q": "¿Qué tipo de radiactividad corresponde a la emisión de un núcleo de helio ($^4_2He$)?", "c": ["Radiactividad alfa", "Radiactividad beta menos", "Radiactividad beta más", "Radiactividad gamma"] },
-        "pt": { "q": "Que tipo de radioatividade corresponde à emissão de um núcleo de hélio ($^4_2He$)?", "c": ["Radioatividade alfa", "Radioatividade beta menos", "Radioatividade beta mais", "Radioatividade gama"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quel type de radioactivité correspond à l'émission d'un noyau d'hélium 4 ?",
+          "c": ["La radioactivité alpha", "La radioactivité bêta moins", "La radioactivité gamma", "La radioactivité bêta plus"]
+        },
+        "en": {
+          "q": "What type of radioactivity corresponds to the emission of a helium nucleus 4?",
+          "c": ["Alpha radioactivity", "Beta-minus radioactivity", "Gamma radioactivity", "Beta-plus radioactivity"]
+        },
+        "ar": {
+          "q": "ما هو نوع النشاط الإشعاعي الذي يوافق انبعاث نواة هيليوم 4؟",
+          "c": ["إشعاع ألفا", "إشعاع بيتا سالب", "إشعاع غاما", "إشعاع بيتا موجب"]
+        },
+        "es": {
+          "q": "¿Qué tipo de radiactividad corresponde a la emisión de un núcleo de helio 4?",
+          "c": ["Radiactividad alfa", "Radiactividad beta menos", "Radiactividad gamma", "Radiactividad beta más"]
+        },
+        "pt": {
+          "q": "Que tipo de radioatividade corresponde à emissão de um núcleo de hélio 4?",
+          "c": ["Radioatividade alfa", "Radioatividade beta menos", "Radioatividade gama", "Radioatividade beta mais"]
+        },
+        "a": 0,
+        "image": null
       },
       {
-        "fr": { "q": "Quel chimiste a développé la théorie des acides et des bases basée sur les protons (donneurs et accepteurs) ?", "c": ["Bronsted et Lowry", "Arrhenius", "Lewis", "Nernst"] },
-        "en": { "q": "Which chemist developed the proton-based theory of acids and bases (donors and acceptors)?", "c": ["Brønsted and Lowry", "Arrhenius", "Lewis", "Nernst"] },
-        "ar": { "q": "أي كيميائي طوّر نظرية الحمض والقاعدة القائمة على البروتونات (مانح ومستقبل)؟", "c": ["برونستد ولوري", "أرهينيوس", "لويس", "نيرنست"] },
-        "es": { "q": "¿Qué químico desarrolló la teoría de ácidos y bases basada en protones (donantes y aceptores)?", "c": ["Brønsted y Lowry", "Arrhenius", "Lewis", "Nernst"] },
-        "pt": { "q": "Qual químico desenvolveu a teoria de ácidos e bases baseada em prótons (doadores e aceptores)?", "c": ["Brønsted e Lowry", "Arrhenius", "Lewis", "Nernst"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quelle est l'unité de mesure de l'activité radioactive dans le Système international ?",
+          "c": ["Le curie", "Le sievert", "Le gray", "Le becquerel"]
+        },
+        "en": {
+          "q": "What is the SI unit of radioactive activity?",
+          "c": ["Curie", "Sievert", "Gray", "Becquerel"]
+        },
+        "ar": {
+          "q": "ما هي وحدة قياس النشاط الإشعاعي في النظام الدولي؟",
+          "c": ["الكوري", "السيفيرت", "الغراي", "البكريل"]
+        },
+        "es": {
+          "q": "¿Cuál es la unidad de actividad radiactiva en el Sistema Internacional?",
+          "c": ["Curie", "Sievert", "Gray", "Becquerel"]
+        },
+        "pt": {
+          "q": "Qual é a unidade de atividade radioativa no Sistema Internacional?",
+          "c": ["Curie", "Sievert", "Gray", "Becquerel"]
+        },
+        "a": 3,
+        "image": null
       },
       {
-        "fr": { "q": "Quelle est l'unité de mesure de l'activité radioactive dans le Système international ?", "c": ["Le becquerel", "Le curie", "Le sievert", "Le gray"] },
-        "en": { "q": "What is the SI unit of radioactive activity?", "c": ["Becquerel", "Curie", "Sievert", "Gray"] },
-        "ar": { "q": "ما هي وحدة قياس النشاط الإشعاعي في النظام الدولي؟", "c": ["البكريل", "الكوري", "السيفيرت", "الغراي"] },
-        "es": { "q": "¿Cuál es la unidad de actividad radiactiva en el Sistema Internacional?", "c": ["Becquerel", "Curie", "Sievert", "Gray"] },
-        "pt": { "q": "Qual é a unidade de atividade radioativa no Sistema Internacional?", "c": ["Becquerel", "Curie", "Sievert", "Gray"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quel phénomène optique décrit la déviation des ondes lumineuses lorsqu'elles contournent un obstacle ?",
+          "c": ["La réflexion", "La réfraction", "La dispersion", "La diffraction"]
+        },
+        "en": {
+          "q": "Which optical phenomenon describes the bending of light waves around obstacles?",
+          "c": ["Reflection", "Refraction", "Dispersion", "Diffraction"]
+        },
+        "ar": {
+          "q": "ما هي الظاهرة البصرية التي تصف انحناء الموجات الضوئية عندما تحيد حول عائق؟",
+          "c": ["الانعكاس", "الانكسار", "التشتت", "الحيود (الديفركشن)"]
+        },
+        "es": {
+          "q": "¿Qué fenómeno óptico describe la desviación de las ondas luminosas al rodear un obstáculo?",
+          "c": ["Reflexión", "Refracción", "Dispersión", "Difracción"]
+        },
+        "pt": {
+          "q": "Qual fenômeno óptico descreve o desvio das ondas luminosas ao contornar um obstáculo?",
+          "c": ["Reflexão", "Refração", "Dispersão", "Difração"]
+        },
+        "a": 3,
+        "image": null
       },
       {
-        "fr": { "q": "Quel phénomène optique décrit la déviation des ondes lumineuses lorsqu'elles contournent un obstacle ?", "c": ["La diffraction", "La réfraction", "La réflexion", "La dispersion"] },
-        "en": { "q": "Which optical phenomenon describes the bending of light waves around obstacles?", "c": ["Diffraction", "Refraction", "Reflection", "Dispersion"] },
-        "ar": { "q": "ما هي الظاهرة البصرية التي تصف انحناء الموجات الضوئية عندما تحيد حول عائق؟", "c": ["الحيود (الديفركشن)", "الانكسار", "الانعكاس", "التشتت"] },
-        "es": { "q": "¿Qué fenómeno óptico describe la desviación de las ondas luminosas al rodear un obstáculo?", "c": ["Difracción", "Refracción", "Reflexión", "Dispersión"] },
-        "pt": { "q": "Qual fenômeno óptico descreve o desvio das ondas luminosas ao contornar um obstáculo?", "c": ["Difração", "Refração", "Reflexão", "Dispersão"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quels chimistes ont développé la théorie des acides et des bases basée sur les protons (donneurs et accepteurs) ?",
+          "c": ["Brønsted et Lowry", "Nernst", "Arrhenius", "Lewis"]
+        },
+        "en": {
+          "q": "Which chemists developed the proton-based theory of acids and bases (donors and acceptors)?",
+          "c": ["Brønsted and Lowry", "Nernst", "Arrhenius", "Lewis"]
+        },
+        "ar": {
+          "q": "أي كيميائيين طوّرا نظرية الأحماض والقواعد القائمة على البروتونات (المانحة والمستقبِلة)؟",
+          "c": ["برونستد ولوري", "نيرنست", "أرهينيوس", "لويس"]
+        },
+        "es": {
+          "q": "¿Qué químicos desarrollaron la teoría de ácidos y bases basada en protones (donadores y aceptores)?",
+          "c": ["Brønsted y Lowry", "Nernst", "Arrhenius", "Lewis"]
+        },
+        "pt": {
+          "q": "Que químicos desenvolveram a teoria de ácidos e bases baseada em prótons (doadores e aceitadores)?",
+          "c": ["Brønsted e Lowry", "Nernst", "Arrhenius", "Lewis"]
+        },
+        "a": 0,
+        "image": null
       }
     ]
   },
@@ -513,84 +1473,244 @@
     "level": 7,
     "questions": [
       {
-        "fr": { "q": "Quel nom porte l'équation fondamentale de la dynamique en mécanique quantique pour un système non-relativiste ?", "c": ["L'équation de Schrödinger", "L'équation de Dirac", "L'équation de Maxwell", "L'équation de Navier-Stokes"] },
-        "en": { "q": "What is the name of the fundamental dynamic equation in quantum mechanics for a non-relativistic system?", "c": ["Schrödinger equation", "Dirac equation", "Maxwell equation", "Navier-Stokes equation"] },
-        "ar": { "q": "ما اسم المعادلة الأساسية للحركة في ميكانيكا الكم لنظام غير نسبوي؟", "c": ["معادلة شرودنغر", "معادلة ديراك", "معادلات ماكسويل", "معادلات نافيير-ستوكس"] },
-        "es": { "q": "¿Cómo se llama la ecuación fundamental de la dinámica en mecánica cuántica para un sistema no relativista?", "c": ["Ecuación de Schrödinger", "Ecuación de Dirac", "Ecuación de Maxwell", "Ecuación de Navier-Stokes"] },
-        "pt": { "q": "Qual é o nome da equação fundamental da dinâmica na mecânica quântica para um sistema não relativístico?", "c": ["Equação de Schrödinger", "Equação de Dirac", "Equação de Maxwell", "Equação de Navier-Stokes"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quel nom porte l'équation fondamentale de la dynamique en mécanique quantique pour un système non-relativiste ?",
+          "c": ["L'équation de Navier-Stokes", "L'équation de Maxwell", "L'équation de Dirac", "L'équation de Schrödinger"]
+        },
+        "en": {
+          "q": "What is the name of the fundamental dynamic equation in quantum mechanics for a non-relativistic system?",
+          "c": ["Navier-Stokes equation", "Maxwell equation", "Dirac equation", "Schrödinger equation"]
+        },
+        "ar": {
+          "q": "ما اسم المعادلة الأساسية للحركة في ميكانيكا الكم لنظام غير نسبوي؟",
+          "c": ["معادلات نافيير-ستوكس", "معادلات ماكسويل", "معادلة ديراك", "معادلة شرودنغر"]
+        },
+        "es": {
+          "q": "¿Cómo se llama la ecuación fundamental de la dinámica en mecánica cuántica para un sistema no relativista?",
+          "c": ["Ecuación de Navier-Stokes", "Ecuación de Maxwell", "Ecuación de Dirac", "Ecuación de Schrödinger"]
+        },
+        "pt": {
+          "q": "Qual é o nome da equação fundamental da dinâmica na mecânica quântica para um sistema não relativístico?",
+          "c": ["Equação de Navier-Stokes", "Equação de Maxwell", "Equação de Dirac", "Equação de Schrödinger"]
+        },
+        "a": 3,
+        "image": null
       },
       {
-        "fr": { "q": "Quelle est l'unité de mesure de la dose absorbée de rayonnement ionisant dans le Système international ?", "c": ["Le gray", "Le sievert", "Le becquerel", "Le curie"] },
-        "en": { "q": "What is the SI unit for the absorbed dose of ionizing radiation?", "c": ["Gray", "Sievert", "Becquerel", "Curie"] },
-        "ar": { "q": "ما هي وحدة قياس الجرعة الممتصة من الإشعاع المؤين في النظام الدولي؟", "c": ["الغراي", "السيفيرت", "البكريل", "الكوري"] },
-        "es": { "q": "¿Cuál es la unidad de medida de la dosis absorbida de radiación ionizante en el Sistema Internacional?", "c": ["Gray", "Sievert", "Becquerel", "Curie"] },
-        "pt": { "q": "Qual é a unidade de medida da dose absorvida de radiação ionizante no Sistema Internacional?", "c": ["Gray", "Sievert", "Becquerel", "Curie"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quelle est l'unité de mesure de la dose absorbée de rayonnement ionisant dans le Système international ?",
+          "c": ["Le gray", "Le becquerel", "Le sievert", "Le curie"]
+        },
+        "en": {
+          "q": "What is the SI unit for the absorbed dose of ionizing radiation?",
+          "c": ["Gray", "Becquerel", "Sievert", "Curie"]
+        },
+        "ar": {
+          "q": "ما هي وحدة قياس الجرعة الممتصة من الإشعاع المؤين في النظام الدولي؟",
+          "c": ["الغراي", "البكريل", "السيفيرت", "الكوري"]
+        },
+        "es": {
+          "q": "¿Cuál es la unidad de medida de la dosis absorbida de radiación ionizante en el Sistema Internacional?",
+          "c": ["Gray", "Becquerel", "Sievert", "Curie"]
+        },
+        "pt": {
+          "q": "Qual é a unidade de medida da dose absorvida de radiação ionizante no Sistema Internacional?",
+          "c": ["Gray", "Becquerel", "Sievert", "Curie"]
+        },
+        "a": 0,
+        "image": null
       },
       {
-        "fr": { "q": "Quel effet physique décrit le changement de fréquence d'une onde en mouvement par rapport à un observateur ?", "c": ["L'effet Doppler", "L'effet Photoélectrique", "L'effet Compton", "L'effet Joule"] },
-        "en": { "q": "Which physical effect describes the change in frequency of a wave in relation to an observer?", "c": ["Doppler effect", "Photoelectric effect", "Compton effect", "Joule effect"] },
-        "ar": { "q": "ما هو التأثير الفيزيائي الذي يصف تغير تردد موجة بالنسبة لمراقب متحرك؟", "c": ["تأثير دوبلر", "التأثير الكهروضوئي", "تأثير كومبتون", "تأثير جول"] },
-        "es": { "q": "¿Qué efecto físico describe el cambio de frecuencia de una onda en movimiento con respecto a un observador?", "c": ["Efecto Doppler", "Efecto fotoeléctrico", "Efecto Compton", "Efecto Joule"] },
-        "pt": { "q": "Qual efeito físico descreve a mudança na frequência de uma onda em movimento em relação a um observador?", "c": ["Efeito Doppler", "Efeito fotoelétrico", "Efeito Compton", "Efeito Joule"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quel effet physique décrit le changement de fréquence d'une onde en mouvement par rapport à un observateur ?",
+          "c": ["L'effet Compton", "L'effet Joule", "L'effet Photoélectrique", "L'effet Doppler"]
+        },
+        "en": {
+          "q": "Which physical effect describes the change in frequency of a wave in relation to an observer?",
+          "c": ["Compton effect", "Joule effect", "Photoelectric effect", "Doppler effect"]
+        },
+        "ar": {
+          "q": "ما هو التأثير الفيزيائي الذي يصف تغير تردد موجة بالنسبة لمراقب متحرك؟",
+          "c": ["تأثير كومبتون", "تأثير جول", "التأثير الكهروضوئي", "تأثير دوبلر"]
+        },
+        "es": {
+          "q": "¿Qué efecto físico describe el cambio de frecuencia de una onda en movimiento con respecto a un observador?",
+          "c": ["Efecto Compton", "Efecto Joule", "Efecto fotoeléctrico", "Efecto Doppler"]
+        },
+        "pt": {
+          "q": "Qual efeito físico descreve a mudança na frequência de uma onda em movimento em relação a um observador?",
+          "c": ["Efeito Compton", "Efeito Joule", "Efeito fotoelétrico", "Efeito Doppler"]
+        },
+        "a": 3,
+        "image": null
       },
       {
-        "fr": { "q": "Quel nom donne-t-on aux électrons situés sur la couche électronique externe d'un atome ?", "c": ["Les électrons de valence", "Les électrons de cœur", "Les électrons libres", "Les isotopes"] },
-        "en": { "q": "What are the electrons located in the outermost electron shell of an atom called?", "c": ["Valence electrons", "Core electrons", "Free electrons", "Isotopes"] },
-        "ar": { "q": "ماذا يسمى الإلكترونات الموجودة في مدار الطاقة الخارجي للذرة؟", "c": ["إلكترونات التكافؤ", "إلكترونات النواة الداخلية", "إلكترونات حرة", "نظائر"] },
-        "es": { "q": "¿Cómo se llaman los electrones ubicados en la capa electrónica externa de un átomo?", "c": ["Electrones de valencia", "Electrones internos", "Electrones libres", "Isótopos"] },
-        "pt": { "q": "Como são chamados os elétrons localizados na camada eletrônica mais externa de um átomo?", "c": ["Elétrons de valência", "Elétrons do núcleo", "Elétrons livres", "Isótopos"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quel physicien a proposé le modèle atomique quantique initial avec des orbites circulaires quantifiées en 1913 ?",
+          "c": ["Ernest Rutherford", "J.J. Thomson", "John Dalton", "Niels Bohr"]
+        },
+        "en": {
+          "q": "Which physicist proposed the initial quantum atomic model with quantized circular orbits in 1913?",
+          "c": ["Ernest Rutherford", "J.J. Thomson", "John Dalton", "Niels Bohr"]
+        },
+        "ar": {
+          "q": "أي فيزيائي اقترح نموذج الذرة الكمومي الأولي بمدارات دائرية كمية عام 1913؟",
+          "c": ["إرنست رذرفورد", "ج. ج. طومسون", "جون دالتون", "نيلز بور"]
+        },
+        "es": {
+          "q": "¿Qué físico propuso el modelo atómico cuántico inicial con órbitas circulares cuantizadas en 1913?",
+          "c": ["Ernest Rutherford", "J.J. Thomson", "John Dalton", "Niels Bohr"]
+        },
+        "pt": {
+          "q": "Qual físico propôs o modelo atômico quântico inicial com órbitas circulares quantizadas em 1913?",
+          "c": ["Ernest Rutherford", "J.J. Thomson", "John Dalton", "Niels Bohr"]
+        },
+        "a": 3,
+        "image": null
       },
       {
-        "fr": { "q": "Quel physicien a proposé le modèle atomique quantique initial avec des orbites circulaires quantifiées en 1913 ?", "c": ["Niels Bohr", "Ernest Rutherford", "J.J. Thomson", "John Dalton"] },
-        "en": { "q": "Which physicist proposed the initial quantum atomic model with quantized circular orbits in 1913?", "c": ["Niels Bohr", "Ernest Rutherford", "J.J. Thomson", "John Dalton"] },
-        "ar": { "q": "أي فيزيائي اقترح نموذج الذرة الكمومي الأولي بمدارات دائرية كمية عام 1913؟", "c": ["نيلز بور", "إرنست رذرفورد", "ج. ج. طومسون", "جون دالتون"] },
-        "es": { "q": "¿Qué físico propuso el modelo atómico cuántico inicial con órbitas circulares cuantizadas en 1913?", "c": ["Niels Bohr", "Ernest Rutherford", "J.J. Thomson", "John Dalton"] },
-        "pt": { "q": "Qual físico propôs o modelo atômico quântico inicial com órbitas circulares quantizadas em 1913?", "c": ["Niels Bohr", "Ernest Rutherford", "J.J. Thomson", "John Dalton"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quelle est l'unité de mesure de la conductance électrique dans le Système international ?",
+          "c": ["L'ampère", "Le volt", "L'ohm", "Le siemens"]
+        },
+        "en": {
+          "q": "What is the SI unit of electrical conductance?",
+          "c": ["Ampere", "Volt", "Ohm", "Siemens"]
+        },
+        "ar": {
+          "q": "ما هي وحدة قياس التوصيل الكهربائي في النظام الدولي؟",
+          "c": ["الأمبير", "الفولت", "الأوم", "سيمنز"]
+        },
+        "es": {
+          "q": "¿Cuál es la unidad de medida de la conductancia eléctrica en el Sistema Internacional?",
+          "c": ["Amperio", "Voltio", "Ohmio", "Siemens"]
+        },
+        "pt": {
+          "q": "Qual é a unidade de medida da condutância elétrica no Sistema Internacional?",
+          "c": ["Ampère", "Volt", "Ohm", "Siemens"]
+        },
+        "a": 3,
+        "image": null
       },
       {
-        "fr": { "q": "Quelle est l'unité de mesure de la conductance électrique dans le Système international ?", "c": ["Le siemens", "L'ohm", "Le volt", "L'ampère"] },
-        "en": { "q": "What is the SI unit of electrical conductance?", "c": ["Siemens", "Ohm", "Volt", "Ampere"] },
-        "ar": { "q": "ما هي وحدة قياس التوصيل الكهربائي في النظام الدولي؟", "c": ["سيمنز", "الأوم", "الفولت", "الأمبير"] },
-        "es": { "q": "¿Cuál es la unidad de medida de la conductancia eléctrica en el Sistema Internacional?", "c": ["Siemens", "Ohmio", "Voltio", "Amperio"] },
-        "pt": { "q": "Qual é a unidade de medida da condutância elétrica no Sistema Internacional?", "c": ["Siemens", "Ohm", "Volt", "Ampère"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quel type de réaction nucléaire est responsable de l'énergie produite par le Soleil ?",
+          "c": ["La radioactivité naturelle", "La désintégration alpha", "La fusion nucléaire", "La fission nucléaire"]
+        },
+        "en": {
+          "q": "What type of nuclear reaction is responsible for the energy produced by the Sun?",
+          "c": ["Natural radioactivity", "Alpha decay", "Nuclear fusion", "Nuclear fission"]
+        },
+        "ar": {
+          "q": "ما هو نوع التفاعل النووي المسؤول عن الطاقة المنتجة بواسطة الشمس؟",
+          "c": ["النشاط الإشعاعي الطبيعي", "تحلل ألفا", "الاندماج النووي", "الانشطار النووي"]
+        },
+        "es": {
+          "q": "¿Qué tipo de reacción nuclear es responsable de la energía producida por el Sol?",
+          "c": ["Radiactividad natural", "Desintegración alfa", "Fusión nuclear", "Fisión nuclear"]
+        },
+        "pt": {
+          "q": "Qual tipo de reação nuclear é responsável pela energia produzida pelo Sol?",
+          "c": ["Radioatividade natural", "Desintegração alfa", "Fusão nuclear", "Fissão nuclear"]
+        },
+        "a": 2,
+        "image": null
       },
       {
-        "fr": { "q": "Quel type de réaction nucléaire est responsable de l'énergie produite par le Soleil ?", "c": ["La fusion nucléaire", "La fission nucléaire", "La radioactivité naturelle", "La désintégration alpha"] },
-        "en": { "q": "What type of nuclear reaction is responsible for the energy produced by the Sun?", "c": ["Nuclear fusion", "Nuclear fission", "Natural radioactivity", "Alpha decay"] },
-        "ar": { "q": "ما هو نوع التفاعل النووي المسؤول عن الطاقة المنتجة بواسطة الشمس؟", "c": ["الاندماج النووي", "الانشطار النووي", "النشاط الإشعاعي الطبيعي", "تحلل ألفا"] },
-        "es": { "q": "¿Qué tipo de reacción nuclear es responsable de la energía producida por el Sol?", "c": ["Fusión nuclear", "Fisión nuclear", "Radiactividad natural", "Desintegración alfa"] },
-        "pt": { "q": "Qual tipo de reação nuclear é responsável pela energia produzida pelo Sol?", "c": ["Fusão nuclear", "Fissão nuclear", "Radioatividade natural", "Desintegração alfa"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Comment nomme-t-on le rapport entre la vitesse d'un objet et la vitesse du son dans le milieu ?",
+          "c": ["Le nombre de Mach", "Le nombre de Prandtl", "Le nombre de Froude", "Le nombre de Reynolds"]
+        },
+        "en": {
+          "q": "What is the ratio of an object's speed to the speed of sound in the surrounding medium called?",
+          "c": ["Mach number", "Prandtl number", "Froude number", "Reynolds number"]
+        },
+        "ar": {
+          "q": "ماذا يسمى النسبة بين سرعة جسم وسرعة الصوت في الوسط المحيط؟",
+          "c": ["رقم ماخ", "رقم براندتل", "رقم فرود", "رقم رينولدز"]
+        },
+        "es": {
+          "q": "¿Cómo se llama la relación entre la velocidad de un objeto y la velocidad del sonido en el medio?",
+          "c": ["Número de Mach", "Número de Prandtl", "Número de Froude", "Número de Reynolds"]
+        },
+        "pt": {
+          "q": "Como se chama a razão entre a velocidade de um objeto e a velocidade do som no meio?",
+          "c": ["Número de Mach", "Número de Prandtl", "Número de Froude", "Número de Reynolds"]
+        },
+        "a": 0,
+        "image": null
       },
       {
-        "fr": { "q": "Comment nomme-t-on le rapport entre la vitesse d'un objet et la vitesse du son dans le milieu ?", "c": ["Le nombre de Mach", "Le nombre de Reynolds", "Le nombre de Froude", "Le nombre de Prandtl"] },
-        "en": { "q": "What is the ratio of an object's speed to the speed of sound in the surrounding medium called?", "c": ["Mach number", "Reynolds number", "Froude number", "Prandtl number"] },
-        "ar": { "q": "ماذا يسمى النسبة بين سرعة جسم وسرعة الصوت في الوسط المحيط؟", "c": ["رقم ماخ", "رقم رينولدز", "رقم فرود", "رقم براندتل"] },
-        "es": { "q": "¿Cómo se llama la relación entre la velocidad de un objeto y la velocidad del sonido en el medio?", "c": ["Número de Mach", "Número de Reynolds", "Número de Froude", "Número de Prandtl"] },
-        "pt": { "q": "Como se chama a razão entre a velocidade de um objeto e a velocidade do som no meio?", "c": ["Número de Mach", "Número de Reynolds", "Número de Froude", "Número de Prandtl"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quel est l'élément chimique le plus lourd présent naturellement sur Terre en grandes quantités ?",
+          "c": ["Le radium", "L'uranium", "Le thorium", "Le plutonium"]
+        },
+        "en": {
+          "q": "What is the heaviest naturally occurring chemical element found in large quantities on Earth?",
+          "c": ["Radium", "Uranium", "Thorium", "Plutonium"]
+        },
+        "ar": {
+          "q": "ما هو أثقل عنصر كيميائي متواجد طبيعياً على الأرض بكميات كبيرة؟",
+          "c": ["الراديوم", "اليورانيوم", "الثوريوم", "البلوتونيوم"]
+        },
+        "es": {
+          "q": "¿Cuál es el elemento químico más pesado que se encuentra de forma natural en la Tierra en grandes cantidades?",
+          "c": ["Radio", "Uranio", "Torio", "Plutonio"]
+        },
+        "pt": {
+          "q": "Qual é o elemento químico mais pesado encontrado naturalmente na Terra em grandes quantidades?",
+          "c": ["Rádio", "Urânio", "Tório", "Plutônio"]
+        },
+        "a": 1,
+        "image": null
       },
       {
-        "fr": { "q": "Quel est l'élément chimique le plus lourd présent naturellement sur Terre en grandes quantités ?", "c": ["L'uranium", "Le plutonium", "Le radium", "Le thorium"] },
-        "en": { "q": "What is the heaviest naturally occurring chemical element found in large quantities on Earth?", "c": ["Uranium", "Plutonium", "Radium", "Thorium"] },
-        "ar": { "q": "ما هو أثقل عنصر كيميائي متواجد طبيعياً على الأرض بكميات كبيرة؟", "c": ["اليورانيوم", "البلوتونيوم", "الراديوم", "الثوريوم"] },
-        "es": { "q": "¿Cuál es el elemento químico más pesado que se encuentra de forma natural en la Tierra en grandes cantidades?", "c": ["Uranio", "Plutonio", "Radio", "Torio"] },
-        "pt": { "q": "Qual é o elemento químico mais pesado encontrado naturalmente na Terra em grandes quantidades?", "c": ["Urânio", "Plutônio", "Rádio", "Tório"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quelle est la loi fondamentale de l'électrostatique qui exprime la force entre deux charges ponctuelles ?",
+          "c": ["La loi de Faraday", "La loi de Coulomb", "La loi d'Ohm", "La loi de Gauss"]
+        },
+        "en": {
+          "q": "What is the fundamental law of electrostatics expressing the force between two point charges?",
+          "c": ["Faraday's law", "Coulomb's law", "Ohm's law", "Gauss's law"]
+        },
+        "ar": {
+          "q": "ما هو القانون الأساسي في الكهرباء الساكنة الذي يعبر عن القوة المتبادلة بين شحنتين نقطيتين؟",
+          "c": ["قانون فاراداي", "قانون كولوم", "قانون أوم", "قانون غاوس"]
+        },
+        "es": {
+          "q": "¿Cuál es la ley fundamental de la electrostática que expresa la fuerza entre dos cargas puntuales?",
+          "c": ["Ley de Faraday", "Ley de Coulomb", "Ley de Ohm", "Ley de Gauss"]
+        },
+        "pt": {
+          "q": "Qual é a lei fundamental da eletrostática que expressa a força entre duas cargas puntiformes?",
+          "c": ["Lei de Faraday", "Lei de Coulomb", "Lei de Ohm", "Lei de Gauss"]
+        },
+        "a": 1,
+        "image": null
       },
       {
-        "fr": { "q": "Quelle est la loi fondamentale de l'électrostatique qui exprime la force entre deux charges ponctuelles ?", "c": ["La loi de Coulomb", "La loi d'Ohm", "La loi de Faraday", "La loi de Gauss"] },
-        "en": { "q": "What is the fundamental law of electrostatics expressing the force between two point charges?", "c": ["Coulomb's law", "Ohm's law", "Faraday's law", "Gauss's law"] },
-        "ar": { "q": "ما هو القانون الأساسي في الكهرباء الساكنة الذي يعبر عن القوة المتبادلة بين شحنتين نقطيتين؟", "c": ["قانون كولوم", "قانون أوم", "قانون فاراداي", "قانون غاوس"] },
-        "es": { "q": "¿Cuál es la ley fundamental de la electrostática que expresa la fuerza entre dos cargas puntuales?", "c": ["Ley de Coulomb", "Ley de Ohm", "Ley de Faraday", "Ley de Gauss"] },
-        "pt": { "q": "Qual é a lei fundamental da eletrostática que expressa a força entre duas cargas puntiformes?", "c": ["Lei de Coulomb", "Lei de Ohm", "Lei de Faraday", "Lei de Gauss"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Comment s'appelle l'antiparticule de l'électron, de même masse mais de charge positive ?",
+          "c": ["Le muon", "Le positron", "Le proton", "Le neutrino"]
+        },
+        "en": {
+          "q": "What is the antiparticle of the electron, with the same mass but a positive charge, called?",
+          "c": ["The muon", "The positron", "The proton", "The neutrino"]
+        },
+        "ar": {
+          "q": "ما اسم الجسيم المضاد للإلكترون، له الكتلة نفسها وشحنة موجبة؟",
+          "c": ["الميون", "البوزيترون", "البروتون", "النيوترينو"]
+        },
+        "es": {
+          "q": "¿Cómo se llama la antipartícula del electrón, con la misma masa pero carga positiva?",
+          "c": ["El muon", "El positrón", "El protón", "El neutrino"]
+        },
+        "pt": {
+          "q": "Como se chama a antipartícula do elétron, com a mesma massa mas carga positiva?",
+          "c": ["O múon", "O pósitron", "O próton", "O neutrino"]
+        },
+        "a": 1,
+        "image": null
       }
     ]
   },
@@ -598,90 +1718,244 @@
     "level": 8,
     "questions": [
       {
-        "fr": { "q": "Quel effet décrit l'émission d'électrons par un matériau soumis à l'éclairage d'un rayonnement lumineux ?", "c": ["L'effet photoélectrique", "L'effet Compton", "L'effet Joule", "L'effet Hall"] },
-        "en": { "q": "Which effect describes the emission of electrons from a material exposed to light?", "c": ["Photoelectric effect", "Compton effect", "Joule effect", "Hall effect"] },
-        "ar": { "q": "ما هو التأثير الذي يصف انبعاث الإلكترونات من مادة عند تعرضها للإضاءة بضوء مناسب؟", "c": ["التأثير الكهروضوئي", "تأثير كومبتون", "تأثير جول", "تأثير هول"] },
-        "es": { "q": "¿Qué efecto describe la emisión de electrones por un material expuesto a la luz?", "c": ["Efecto fotoeléctrico", "Efecto Compton", "Efecto Joule", "Efecto Hall"] },
-        "pt": { "q": "Qual efeito descreve a emissão de elétrons de um material exposto à luz?", "c": ["Efeito fotoelétrico", "Efeito Compton", "Efeito Joule", "Efeito Hall"] },
-        "a": 0, "image": null
-      },
-      {
-        "fr": { "q": "Quelle est l'unité de mesure de la pression osmotique ou de l'énergie de liaison dans certaines échelles moléculaires ?", "c": ["Le joule par mole", "Le pascal", "Le watt", "Le henry"] },
-        "en": { "q": "What is the unit of measure for osmotic pressure or specific energy scales in chemistry?", "c": ["Joule per mole", "Pascal", "Watt", "Henry"] },
-        "ar": { "q": "ما هي وحدة قياس الطاقة المرتبطة بالتفاعلات الكيميائية أو الضغط الاسموزي بشكل عام؟", "c": ["جول لكل مول", "باسكال", "واط", "هنري"] },
-        "es": { "q": "¿Cuál es la unidad de medida de la energía molar o presión osmótica?", "c": ["Julio por mol", "Pascal", "Vatio", "Henrio"] },
-        "pt": { "q": "Qual é a unidade de medida da energia molar ou pressão osmótica?", "c": ["Joule por mol", "Pascal", "Watt", "Henry"] },
-        "a": 0, "image": null
-      },
-      {
-        "fr": { "q": "Quel chimiste a établi la relation mathématique entre la constante d'équilibre et la température (équation de van 't Hoff) ?", "c": ["Jacobus Henricus van 't Hoff", "Svante Arrhenius", "Walter Nernst", "Wilhelm Ostwald"] },
-        "en": { "q": "Which chemist established the relationship between equilibrium constant and temperature (van 't Hoff equation)?", "c": ["Jacobus Henricus van 't Hoff", "Svante Arrhenius", "Walter Nernst", "Wilhelm Ostwald"] },
-        "ar": { "q": "أي كيميائي وضع العلاقة الرياضية بين ثابت الاتزان ودرجة الحرارة (معادلة فانت هوف)؟", "c": ["ياكوبس فانت هوف", "سفانت أرهينيوس", "والتر نيرنست", "فيلهلم أوسفالد"] },
-        "es": { "q": "¿Qué químico estableció la relación entre la constante de equilibrio y la temperatura (ecuación de van 't Hoff)?", "c": ["Jacobus Henricus van 't Hoff", "Svante Arrhenius", "Walter Nernst", "Wilhelm Ostwald"] },
-        "pt": { "q": "Qual químico estabeleceu a relação entre a constante de equilíbrio e a temperatura (equação de van 't Hoff)?", "c": ["Jacobus Henricus van 't Hoff", "Svante Arrhenius", "Walter Nernst", "Wilhelm Ostwald"] },
-        "a": 0, "image": null
-      },
-      {
-        "fr": { "q": "Quel nom porte la particule hypothétique de masse nulle et de spin 1 véhiculant la force électromagnétique ?", "c": ["Le photon", "Le gluon", "Le graviton", "Le boson Z"] },
-        "en": { "q": "What is the name of the hypothetical massless spin-1 particle mediating the electromagnetic force?", "c": ["Photon", "Gluon", "Graviton", "Z boson"] },
-        "ar": { "q": "ما اسم الجسيم عديم الكتلة ذو اللفة المغزلية 1 والذي ينقل القوة الكهرومغناطيسية؟", "c": ["الفوتون", "الغلوون", "الغرافيتون", "بوزون زد"] },
-        "es": { "q": "¿Cómo se llama la partícula hipotética sin masa y de espín 1 que media la fuerza electromagnética?", "c": ["Fotón", "Gluón", "Gravitón", "Bosón Z"] },
-        "pt": { "q": "Qual é o nome da partícula hipotética sem massa e de spin 1 que media a força eletromagnética?", "c": ["Fóton", "Gluon", "Graviton", "Bóson Z"] },
-        "a": 0, "image": null
-      },
-      {
-        "fr": { "q": "Quelle grandeur physique se conserve lors d'une collision parfaitement élastique outre l'énergie totale ?", "c": ["La quantité de mouvement (moment cinétique linéaire)", "Le moment cinétique", "La température", "Le volume"] },
-        "en": { "q": "What physical quantity is conserved in a perfectly elastic collision besides total energy?", "c": ["Linear momentum", "Angular momentum", "Temperature", "Volume"] },
-        "ar": { "q": "ما هي الكمية الفيزيائية التي تُحفظ في التصادم المرن تماماً بالإضافة إلى الطاقة الكلية؟", "c": ["كمية الحركة (الزخم الخطي)", "الزخم الزاوية", "درجة الحرارة", "الحجم"] },
-        "es": { "q": "¿Qué magnitud física se conserva en una colisión perfectamente elástica además de la energía total?", "c": ["Momento lineal (cantidad de movimiento)", "Momento angular", "Temperatura", "Volumen"] },
-        "pt": { "q": "Qual grandeza física é conservada em uma colisão perfeitamente elástica além da energia total?", "c": ["Momento linear (quantidade de movimento)", "Momento angular", "Temperatura", "Volume"] },
-        "a": 0, "image": null
-      },
-      {
-        "fr": { "q": "Quel est le nom du phénomène de déviation d'un faisceau lumineux traversant un milieu hétérogène (comme l'atmosphère) ?", "c": ["La réfraction atmosphérique", "La diffusion de Rayleigh", "L'absorption optique", "La polarisation"] },
-        "en": { "q": "What is the phenomenon of light beam deviation passing through a heterogeneous medium called?", "c": ["Atmospheric refraction", "Rayleigh scattering", "Optical absorption", "Polarization"] },
-        "ar": { "q": "ما اسم ظاهرة انحراف أشعة الضوء أثناء مرورها عبر وسط غير متجانس كالجو؟", "c": ["الانكسار الجوي", "تشتت رايلي", "الامتصاص الضوئي", "الاستقطاب"] },
-        "es": { "q": "¿Cómo se llama el fenómeno de desviación de un haz de luz al atravesar un medio heterogéneo?", "c": ["Refracción atmosférica", "Dispersión de Rayleigh", "Absorción óptica", "Polarización"] },
-        "pt": { "q": "Como se chama o fenômeno de desvio de um feixe de luz ao passar por um meio heterogêneo?", "c": ["Refração atmosférica", "Dispersão de Rayleigh", "Absorção óptica", "Polarização"] },
-        "a": 0, "image": null
-      },
-      {
-        "fr": { "q": "Quel physicien a introduit le concept de champ électromagnétique unifié au XIXe siècle ?", "c": ["James Clerk Maxwell", "Michael Faraday", "André-Marie Ampère", "Hans Christian Ørsted"] },
-        "en": { "q": "Which physicist introduced the concept of the unified electromagnetic field in the 19th century?", "c": ["James Clerk Maxwell", "Michael Faraday", "André-Marie Ampère", "Hans Christian Ørsted"] },
-        "ar": { "q": "أي فيزيائي قدم مفهوم الحقل الكهرومغناطيسي الموحد في القرن التاسع عشر؟", "c": ["جيمس كليرك ماكسويل", "مايكل فاراداي", "أندريه ماري أمبير", "هانس كريستيان أورستد"] },
-        "es": { "q": "¿Qué físico introdujo el concepto de campo electromagnético unificado en el siglo XIX?", "c": ["James Clerk Maxwell", "Michael Faraday", "André-Marie Ampère", "Hans Christian Ørsted"] },
-        "pt": { "q": "Qual físico introduziu o conceito de campo eletromagnético unificado no século XIX?", "c": ["James Clerk Maxwell", "Michael Faraday", "André-Marie Ampère", "Hans Christian Ørsted"] },
-        "a": 0, "image": null
-      },
-      {
-        "fr": { "q": "Quel nom donne-t-on au point triple de l'eau, où coexistent les états solide, liquide et gazeux ?", "c": ["Le point triple", "Le point critique", "Le point d'ébullition", "Le point de fusion"] },
-        "en": { "q": "What is the point on a phase diagram where solid, liquid, and gas phases coexist called?", "c": ["Triple point", "Critical point", "Boiling point", "Melting point"] },
-        "ar": { "q": "ماذا يسمى النقطة التي تتواجد عندها حالات المادة الثلاث للماء (صلبة وسائلة وغازية) معاً؟", "c": ["النقطة الثلاثية", "النقطة الحرجة", "نقطة الغليان", "نقطة الانصهار"] },
+        "fr": {
+          "q": "Quel effet décrit l'émission d'électrons par un matériau soumis à l'éclairage d'un rayonnement lumineux ?",
+          "c": ["L'effet Compton", "L'effet Hall", "L'effet photoélectrique", "L'effet Joule"]
+        },
+        "en": {
+          "q": "Which effect describes the emission of electrons from a material exposed to light?",
+          "c": ["Compton effect", "Hall effect", "Photoelectric effect", "Joule effect"]
+        },
+        "ar": {
+          "q": "ما هو التأثير الذي يصف انبعاث الإلكترونات من مادة عند تعرضها للإضاءة بضوء مناسب؟",
+          "c": ["تأثير كومبتون", "تأثير هول", "التأثير الكهروضوئي", "تأثير جول"]
+        },
         "es": {
-          "q": "¿Cómo se llama el punto en el que coexisten los estados sólido, líquido y gaseoso?",
-          "c": ["Punto triple", "Punto crítico", "Punto de ebullición", "Punto de fusión"]
+          "q": "¿Qué efecto describe la emisión de electrones por un material expuesto a la luz?",
+          "c": ["Efecto Compton", "Efecto Hall", "Efecto fotoeléctrico", "Efecto Joule"]
         },
         "pt": {
-          "q": "Como é chamado o ponto onde coexistem os estados sólido, líquido e gasoso?",
-          "c": ["Ponto triplo", "Ponto crítico", "Ponto de ebulição", "Ponto de fusão"]
+          "q": "Qual efeito descreve a emissão de elétrons de um material exposto à luz?",
+          "c": ["Efeito Compton", "Efeito Hall", "Efeito fotoelétrico", "Efeito Joule"]
         },
-        "a": 0, "image": null
+        "a": 2,
+        "image": null
       },
       {
-        "fr": { "q": "Quelle loi de l'optique géométrique détermine l'angle de réfraction d'un rayon lumineux ?", "c": ["La loi de Snell-Descartes", "La loi de Snellius", "Le principe de Fermat", "La loi de Malus"] },
-        "en": { "q": "Which law of geometric optics determines the angle of refraction of a light ray?", "c": ["Snell's law (Snell-Descartes)", "Snellius law", "Fermat's principle", "Malus's law"] },
-        "ar": { "q": "أي قانون في البصريات الهندسية يحدد زاوية انكسار شعاع ضوئي؟", "c": ["قانون سنيل-ديكارت", "قانون سنيليوس", "مبدأ فيرما", "قانون مالوس"] },
-        "es": { "q": "¿Qué ley de la óptica geométrica determina el ángulo de refracción de un rayo de luz?", "c": ["Ley de Snell-Descartes", "Ley de Snellius", "Principio de Fermat", "Ley de Malus"] },
-        "pt": { "q": "Qual lei da ótica geométrica determina o ângulo de refração de um raio de luz?", "c": ["Lei de Snell-Descartes", "Lei de Snellius", "Princípio de Fermat", "Lei de Malus"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quel chimiste a établi la relation mathématique entre la constante d'équilibre et la température (équation de van 't Hoff) ?",
+          "c": ["Svante Arrhenius", "Walter Nernst", "Wilhelm Ostwald", "Jacobus Henricus van 't Hoff"]
+        },
+        "en": {
+          "q": "Which chemist established the relationship between equilibrium constant and temperature (van 't Hoff equation)?",
+          "c": ["Svante Arrhenius", "Walter Nernst", "Wilhelm Ostwald", "Jacobus Henricus van 't Hoff"]
+        },
+        "ar": {
+          "q": "أي كيميائي وضع العلاقة الرياضية بين ثابت الاتزان ودرجة الحرارة (معادلة فانت هوف)؟",
+          "c": ["سفانت أرهينيوس", "والتر نيرنست", "فيلهلم أوسفالد", "ياكوبس فانت هوف"]
+        },
+        "es": {
+          "q": "¿Qué químico estableció la relación entre la constante de equilibrio y la temperatura (ecuación de van 't Hoff)?",
+          "c": ["Svante Arrhenius", "Walter Nernst", "Wilhelm Ostwald", "Jacobus Henricus van 't Hoff"]
+        },
+        "pt": {
+          "q": "Qual químico estabeleceu a relação entre a constante de equilíbrio e a temperatura (equação de van 't Hoff)?",
+          "c": ["Svante Arrhenius", "Walter Nernst", "Wilhelm Ostwald", "Jacobus Henricus van 't Hoff"]
+        },
+        "a": 3,
+        "image": null
       },
       {
-        "fr": { "q": "Quel type de réacteur nucléaire utilise l'eau lourde comme modérateur de neutrons ?", "c": ["Le réacteur CANDU", "Le réacteur à eau pressposée", "Le réacteur rapide", "Le réacteur graphite-gaz"] },
-        "en": { "q": "What type of nuclear reactor uses heavy water as a neutron moderator?", "c": ["CANDU reactor", "Pressurized water reactor", "Fast breeder reactor", "Graphite-moderated reactor"] },
-        "ar": { "q": "ما هو نوع المفاعل النووي الذي يستخدم الماء الثقيل كممهد (مبطئ) للنيوترونات؟", "c": ["مفاعل كاندو (CANDU)", "مفاعل الماء المضغوط", "المفاعل السريع", "مفاعل غرافيت-غاز"] },
-        "es": { "q": "¿Qué tipo de reactor nuclear utiliza agua pesada como moderador de neutrones?", "c": ["Reactor CANDU", "Reactor de agua a presión", "Reactor rápido", "Reactor grafito-gas"] },
-        "pt": { "q": "Qual tipo de reator nuclear usa água pesada como moderador de nêutrons?", "c": ["Reator CANDU", "Reator de água pressurizada", "Reator rápido", "Reator grafite-gás"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quel nom porte la particule de masse nulle et de spin 1 véhiculant la force électromagnétique ?",
+          "c": ["Le boson Z", "Le photon", "Le gluon", "Le graviton"]
+        },
+        "en": {
+          "q": "What is the name of the massless spin-1 particle mediating the electromagnetic force?",
+          "c": ["Z boson", "Photon", "Gluon", "Graviton"]
+        },
+        "ar": {
+          "q": "ما اسم الجسيم عديم الكتلة ذو اللفة المغزلية 1 والذي ينقل القوة الكهرومغناطيسية؟",
+          "c": ["بوزون زد", "الفوتون", "الغلوون", "الغرافيتون"]
+        },
+        "es": {
+          "q": "¿Cómo se llama la partícula sin masa y de espín 1 que media la fuerza electromagnética?",
+          "c": ["Bosón Z", "Fotón", "Gluón", "Gravitón"]
+        },
+        "pt": {
+          "q": "Qual é o nome da partícula sem massa e de spin 1 que media a força eletromagnética?",
+          "c": ["Bóson Z", "Fóton", "Gluon", "Graviton"]
+        },
+        "a": 1,
+        "image": null
+      },
+      {
+        "fr": {
+          "q": "Quelle grandeur physique se conserve lors d'une collision parfaitement élastique outre l'énergie totale ?",
+          "c": ["Le moment cinétique", "La quantité de mouvement (moment cinétique linéaire)", "Le volume", "La température"]
+        },
+        "en": {
+          "q": "What physical quantity is conserved in a perfectly elastic collision besides total energy?",
+          "c": ["Angular momentum", "Linear momentum", "Volume", "Temperature"]
+        },
+        "ar": {
+          "q": "ما هي الكمية الفيزيائية التي تُحفظ في التصادم المرن تماماً بالإضافة إلى الطاقة الكلية؟",
+          "c": ["الزخم الزاوية", "كمية الحركة (الزخم الخطي)", "الحجم", "درجة الحرارة"]
+        },
+        "es": {
+          "q": "¿Qué magnitud física se conserva en una colisión perfectamente elástica además de la energía total?",
+          "c": ["Momento angular", "Momento lineal (cantidad de movimiento)", "Volumen", "Temperatura"]
+        },
+        "pt": {
+          "q": "Qual grandeza física é conservada em uma colisão perfeitamente elástica além da energia total?",
+          "c": ["Momento angular", "Momento linear (quantidade de movimento)", "Volume", "Temperatura"]
+        },
+        "a": 1,
+        "image": null
+      },
+      {
+        "fr": {
+          "q": "Quel est le nom du phénomène de déviation d'un faisceau lumineux traversant un milieu hétérogène (comme l'atmosphère) ?",
+          "c": ["La réfraction atmosphérique", "La polarisation", "L'absorption optique", "La diffusion de Rayleigh"]
+        },
+        "en": {
+          "q": "What is the phenomenon of light beam deviation passing through a heterogeneous medium called?",
+          "c": ["Atmospheric refraction", "Polarization", "Optical absorption", "Rayleigh scattering"]
+        },
+        "ar": {
+          "q": "ما اسم ظاهرة انحراف أشعة الضوء أثناء مرورها عبر وسط غير متجانس كالجو؟",
+          "c": ["الانكسار الجوي", "الاستقطاب", "الامتصاص الضوئي", "تشتت رايلي"]
+        },
+        "es": {
+          "q": "¿Cómo se llama el fenómeno de desviación de un haz de luz al atravesar un medio heterogéneo?",
+          "c": ["Refracción atmosférica", "Polarización", "Absorción óptica", "Dispersión de Rayleigh"]
+        },
+        "pt": {
+          "q": "Como se chama o fenômeno de desvio de um feixe de luz ao passar por um meio heterogêneo?",
+          "c": ["Refração atmosférica", "Polarização", "Absorção óptica", "Dispersão de Rayleigh"]
+        },
+        "a": 0,
+        "image": null
+      },
+      {
+        "fr": {
+          "q": "Quel physicien a introduit le concept de champ électromagnétique unifié au XIXe siècle ?",
+          "c": ["Hans Christian Ørsted", "Michael Faraday", "André-Marie Ampère", "James Clerk Maxwell"]
+        },
+        "en": {
+          "q": "Which physicist introduced the concept of the unified electromagnetic field in the 19th century?",
+          "c": ["Hans Christian Ørsted", "Michael Faraday", "André-Marie Ampère", "James Clerk Maxwell"]
+        },
+        "ar": {
+          "q": "أي فيزيائي قدم مفهوم الحقل الكهرومغناطيسي الموحد في القرن التاسع عشر؟",
+          "c": ["هانس كريستيان أورستد", "مايكل فاراداي", "أندريه ماري أمبير", "جيمس كليرك ماكسويل"]
+        },
+        "es": {
+          "q": "¿Qué físico introdujo el concepto de campo electromagnético unificado en el siglo XIX?",
+          "c": ["Hans Christian Ørsted", "Michael Faraday", "André-Marie Ampère", "James Clerk Maxwell"]
+        },
+        "pt": {
+          "q": "Qual físico introduziu o conceito de campo eletromagnético unificado no século XIX?",
+          "c": ["Hans Christian Ørsted", "Michael Faraday", "André-Marie Ampère", "James Clerk Maxwell"]
+        },
+        "a": 3,
+        "image": null
+      },
+      {
+        "fr": {
+          "q": "Quel type de réacteur nucléaire utilise l'eau lourde comme modérateur de neutrons ?",
+          "c": ["Le réacteur CANDU", "Le réacteur rapide", "Le réacteur graphite-gaz", "Le réacteur à eau pressposée"]
+        },
+        "en": {
+          "q": "What type of nuclear reactor uses heavy water as a neutron moderator?",
+          "c": ["CANDU reactor", "Fast breeder reactor", "Graphite-moderated reactor", "Pressurized water reactor"]
+        },
+        "ar": {
+          "q": "ما هو نوع المفاعل النووي الذي يستخدم الماء الثقيل كممهد (مبطئ) للنيوترونات؟",
+          "c": ["مفاعل كاندو (CANDU)", "المفاعل السريع", "مفاعل غرافيت-غاز", "مفاعل الماء المضغوط"]
+        },
+        "es": {
+          "q": "¿Qué tipo de reactor nuclear utiliza agua pesada como moderador de neutrones?",
+          "c": ["Reactor CANDU", "Reactor rápido", "Reactor grafito-gas", "Reactor de agua a presión"]
+        },
+        "pt": {
+          "q": "Qual tipo de reator nuclear usa água pesada como moderador de nêutrons?",
+          "c": ["Reator CANDU", "Reator rápido", "Reator grafite-gás", "Reator de água pressurizada"]
+        },
+        "a": 0,
+        "image": null
+      },
+      {
+        "fr": {
+          "q": "Quel scientifique a formulé le principe d'exclusion portant son nom en mécanique quantique ?",
+          "c": ["Erwin Schrödinger", "Wolfgang Pauli", "Max Planck", "Niels Bohr"]
+        },
+        "en": {
+          "q": "Which scientist formulated the exclusion principle named after him in quantum mechanics?",
+          "c": ["Erwin Schrödinger", "Wolfgang Pauli", "Max Planck", "Niels Bohr"]
+        },
+        "ar": {
+          "q": "أي عالم صاغ مبدأ الاستبعاد الذي يحمل اسمه في ميكانيكا الكم؟",
+          "c": ["إرفين شرودنغر", "فولفغانغ باولي", "ماكس بلانك", "نيلز بور"]
+        },
+        "es": {
+          "q": "¿Qué científico formuló el principio de exclusión que lleva su nombre en mecánica cuántica?",
+          "c": ["Erwin Schrödinger", "Wolfgang Pauli", "Max Planck", "Niels Bohr"]
+        },
+        "pt": {
+          "q": "Qual cientista formulou o princípio de exclusão com seu nome na mecânica quântica?",
+          "c": ["Erwin Schrödinger", "Wolfgang Pauli", "Max Planck", "Niels Bohr"]
+        },
+        "a": 1,
+        "image": null
+      },
+      {
+        "fr": {
+          "q": "Quelle est la température du point triple de l'eau ?",
+          "c": ["-273,15 °C", "100 °C", "0,01 °C", "0 °C"]
+        },
+        "en": {
+          "q": "What is the temperature of the triple point of water?",
+          "c": ["-273,15 °C", "100 °C", "0,01 °C", "0 °C"]
+        },
+        "ar": {
+          "q": "ما درجة حرارة النقطة الثلاثية للماء؟",
+          "c": ["-273,15 °C", "100 °C", "0,01 °C", "0 °C"]
+        },
+        "es": {
+          "q": "¿Cuál es la temperatura del punto triple del agua?",
+          "c": ["-273,15 °C", "100 °C", "0,01 °C", "0 °C"]
+        },
+        "pt": {
+          "q": "Qual é a temperatura do ponto triplo da água?",
+          "c": ["-273,15 °C", "100 °C", "0,01 °C", "0 °C"]
+        },
+        "a": 2,
+        "image": null
+      },
+      {
+        "fr": {
+          "q": "Quel nombre sans dimension permet de prévoir si un écoulement est laminaire ou turbulent ?",
+          "c": ["Le nombre d'Avogadro", "Le nombre de Prandtl", "Le nombre de Reynolds", "Le nombre de Mach"]
+        },
+        "en": {
+          "q": "Which dimensionless number helps predict whether a flow is laminar or turbulent?",
+          "c": ["Avogadro's number", "The Prandtl number", "The Reynolds number", "The Mach number"]
+        },
+        "ar": {
+          "q": "أي عدد عديم الأبعاد يتيح التنبؤ بما إذا كان الانسياب صفحياً أم مضطرباً؟",
+          "c": ["عدد أفوغادرو", "عدد براندتل", "عدد رينولدز", "عدد ماخ"]
+        },
+        "es": {
+          "q": "¿Qué número adimensional permite prever si un flujo es laminar o turbulento?",
+          "c": ["El número de Avogadro", "El número de Prandtl", "El número de Reynolds", "El número de Mach"]
+        },
+        "pt": {
+          "q": "Que número adimensional permite prever se um escoamento é laminar ou turbulento?",
+          "c": ["O número de Avogadro", "O número de Prandtl", "O número de Reynolds", "O número de Mach"]
+        },
+        "a": 2,
+        "image": null
       }
     ]
   },
@@ -689,162 +1963,244 @@
     "level": 9,
     "questions": [
       {
-        "fr": { "q": "Quel physicien a proposé l'hypothèse de la dualité onde-particule pour toute matière en 1924 ?", "c": ["Louis de Broglie", "Albert Einstein", "Max Planck", "Erwin Schrödinger"] },
-        "en": { "q": "Which physicist proposed the wave-particle duality hypothesis for all matter in 1924?", "c": ["Louis de Broglie", "Albert Einstein", "Max Planck", "Erwin Schrödinger"] },
-        "ar": { "q": "أي فيزيائي اقترح فرضية ازدواجية الموجة والجسيم لكل المادة عام 1924؟", "c": ["لويس دي بروي", "ألبرت أينشتاين", "ماكس بلانك", "إرفين شرودنغر"] },
-        "es": { "q": "¿Qué físico propuso la hipótesis de la dualidad onda-partícula para toda la materia en 1924?", "c": ["Louis de Broglie", "Albert Einstein", "Max Planck", "Erwin Schrödinger"] },
-        "pt": { "q": "Qual físico propôs a hipótese da dualidade onda-partícula para toda a matéria em 1924?", "c": ["Louis de Broglie", "Albert Einstein", "Max Planck", "Erwin Schrödinger"] },
-        "a": 0, "image": null
+        "fr": {
+          "q": "Quel physicien a proposé l'hypothèse de la dualité onde-particule pour toute matière en 1924 ?",
+          "c": ["Max Planck", "Louis de Broglie", "Erwin Schrödinger", "Albert Einstein"]
+        },
+        "en": {
+          "q": "Which physicist proposed the wave-particle duality hypothesis for all matter in 1924?",
+          "c": ["Max Planck", "Louis de Broglie", "Erwin Schrödinger", "Albert Einstein"]
+        },
+        "ar": {
+          "q": "أي فيزيائي اقترح فرضية ازدواجية الموجة والجسيم لكل المادة عام 1924؟",
+          "c": ["ماكس بلانك", "لويس دي بروي", "إرفين شرودنغر", "ألبرت أينشتاين"]
+        },
+        "es": {
+          "q": "¿Qué físico propuso la hipótesis de la dualidad onda-partícula para toda la materia en 1924?",
+          "c": ["Max Planck", "Louis de Broglie", "Erwin Schrödinger", "Albert Einstein"]
+        },
+        "pt": {
+          "q": "Qual físico propôs a hipótese da dualidade onda-partícula para toda a matéria em 1924?",
+          "c": ["Max Planck", "Louis de Broglie", "Erwin Schrödinger", "Albert Einstein"]
+        },
+        "a": 1,
+        "image": null
       },
       {
-        "fr": { "q": "Quel est le nom de l'effet décrivant le déplacement de fréquence de la lumière diffusée par un milieu matériel ?", "c": ["L'effet Raman", "L'effet Compton", "L'effet Doppler", "L'effet Zeeman"] },
-        "en": { "q": "What is the name of the effect describing the frequency shift of light scattered by a material medium?", "c": ["Raman effect", "Compton effect", "Doppler effect", "Zeeman effect"] },
-        "ar": { "q": "ما اسم التأثير الذي يصف إزاحة تردد الضوء المشتت بواسطة وسط مادي؟", "c": ["تأثير رامان", "تأثير كومبتون", "تأثير دوبلر", "تأثير زييمان"] },
+        "fr": {
+          "q": "Quel est le nom de l'effet décrivant le déplacement de fréquence de la lumière diffusée par un milieu matériel ?",
+          "c": ["L'effet Doppler", "L'effet Compton", "L'effet Raman", "L'effet Zeeman"]
+        },
+        "en": {
+          "q": "What is the name of the effect describing the frequency shift of light scattered by a material medium?",
+          "c": ["Doppler effect", "Compton effect", "Raman effect", "Zeeman effect"]
+        },
+        "ar": {
+          "q": "ما اسم التأثير الذي يصف إزاحة تردد الضوء المشتت بواسطة وسط مادي؟",
+          "c": ["تأثير دوبلر", "تأثير كومبتون", "تأثير رامان", "تأثير زييمان"]
+        },
         "es": {
           "q": "¿Cómo se llama el efecto que describe el cambio de frecuencia de la luz dispersada por un medio material?",
-          "c": ["Efecto Raman", "Efecto Compton", "Efecto Doppler", "Efecto Zeeman"]
+          "c": ["Efecto Doppler", "Efecto Compton", "Efecto Raman", "Efecto Zeeman"]
         },
         "pt": {
           "q": "Qual é o nome do efeito que descreve a mudança de frequência da luz espalhada por um meio material?",
-          "c": ["Efeito Raman", "Efeito Compton", "Efeito Doppler", "Efeito Zeeman"]
+          "c": ["Efeito Doppler", "Efeito Compton", "Efeito Raman", "Efeito Zeeman"]
         },
-        "a": 0, "image": null
+        "a": 2,
+        "image": null
       },
       {
-        "fr": { "q": "Quelle est l'unité de mesure de la viscosité dynamique dans le Système international ?", "c": ["Le pascal-seconde (Pa·s)", "Le poiseuille", "Le stoke", "Le joule par seconde"] },
-        "en": { "q": "What is the SI unit of dynamic viscosity?", "c": ["Pascal-second (Pa·s)", "Poiseuille", "Stoke", "Joule per second"] },
-        "ar": { "q": "ما هي وحدة قياس اللزوجة الديناميكية في النظام الدولي؟", "c": ["باسكال-ثانية (Pa·s)", "بوازوي", "ستوك", "جول لكل ثانية"] },
+        "fr": {
+          "q": "Quelle est l'unité de mesure de la viscosité dynamique dans le Système international ?",
+          "c": ["Le pascal-seconde (Pa·s)", "Le poiseuille", "Le joule par seconde", "Le stoke"]
+        },
+        "en": {
+          "q": "What is the SI unit of dynamic viscosity?",
+          "c": ["Pascal-second (Pa·s)", "Poiseuille", "Joule per second", "Stoke"]
+        },
+        "ar": {
+          "q": "ما هي وحدة قياس اللزوجة الديناميكية في النظام الدولي؟",
+          "c": ["باسكال-ثانية (Pa·s)", "بوازوي", "جول لكل ثانية", "ستوك"]
+        },
         "es": {
           "q": "¿Cuál es la unidad de medida de la viscosidad dinámica en el Sistema Internacional?",
-          "c": ["Pascal-segundo (Pa·s)", "Poiseuille", "Stoke", "Julio por segundo"]
+          "c": ["Pascal-segundo (Pa·s)", "Poiseuille", "Julio por segundo", "Stoke"]
         },
         "pt": {
           "q": "Qual é a unidade de medida da viscosidade dinâmica no Sistema Internacional?",
-          "c": ["Pascal-segundo (Pa·s)", "Poiseuille", "Stoke", "Joule por segundo"]
+          "c": ["Pascal-segundo (Pa·s)", "Poiseuille", "Joule por segundo", "Stoke"]
         },
-        "a": 0, "image": null
+        "a": 0,
+        "image": null
       },
       {
-        "fr": { "q": "Quel physicien a mis en évidence le phénomène de décomposition de la lumière blanche par un prisme ?", "c": ["Isaac Newton", "Christiaan Huygens", "Thomas Young", "Augustin-Jean Fresnel"] },
-        "en": { "q": "Which physicist demonstrated the decomposition of white light through a prism?", "c": ["Isaac Newton", "Christiaan Huygens", "Thomas Young", "Augustin-Jean Fresnel"] },
-        "ar": { "q": "أي فيزيائي أثبت ظاهرة تحليل الضوء الأبيض عبر موشور زجاجي؟", "c": ["إسحاق نيوتن", "كريستيان هويغنز", "توماس يونغ", "أوغستان فرينل"] },
-        "es": {
-          "q": "¿Qué físico demostró la descomposición de la luz blanca a través de un prisma?",
-          "c": ["Isaac Newton", "Christiaan Huygens", "Thomas Young", "Augustin-Jean Fresnel"]
+        "fr": {
+          "q": "Quel effet quantique décrit la résistance électrique nulle de certains matériaux à très basse température ?",
+          "c": ["L'effet tunnel", "La supraconductivité", "L'effet Hall quantique", "La superfluidité"]
         },
-        "pt": {
-          "q": "Qual físico demonstrou a decomposição da luz branca através de um prisma?",
-          "c": ["Isaac Newton", "Christiaan Huygens", "Thomas Young", "Augustin-Jean Fresnel"]
-        },
-        "a": 0, "image": null
-      },
-      {
-        "fr": { "q": "Quel est le nom de la loi physique qui relie la pression de vapeur saturante d'un liquide à sa température (Clausius-...) ?", "c": ["Clapeyron", "Boltzmann", "Kelvin", "Carnot"] },
-        "en": { "q": "What is the physical law relating the saturation vapor pressure of a liquid to its temperature (Clausius-...) ?", "c": ["Clapeyron", "Boltzmann", "Kelvin", "Carnot"] },
-        "ar": {
-          "q": "ما اسم القانون الفيزيائي الذي يربط ضغط البخار المشبع للسائل بدرجة حرارته (كلوسيوس-...)؟",
-          "c": ["كلابيرون", "بولتزمان", "كلفن", "كارنو"]
-        },
-        "es": {
-          "q": "¿Cómo se llama la ley física que relaciona la presión de vapor de saturación de un líquido con su temperatura (Clausius-...)?",
-          "c": ["Clapeyron", "Boltzmann", "Kelvin", "Carnot"]
-        },
-        "pt": {
-          "q": "Qual é o nome da lei física que relaciona a pressão de vapor de saturação de um líquido com sua temperatura (Clausius-...) ?",
-          "c": ["Clapeyron", "Boltzmann", "Kelvin", "Carnot"]
-        },
-        "a": 0, "image": null
-      },
-      {
-        "fr": { "q": "Quel type de cristal liquide est caractérisé par une structure en couches où les molécules sont alignées perpendiculairement ?", "c": ["Nématique", "Smectique", "Cholestérique", "Isotrope"] },
         "en": {
-          "q": "What type of liquid crystal is characterized by a layered structure where molecules are aligned perpendicularly?",
-          "c": ["Nematic", "Smectic", "Cholesteric", "Isotropic"]
+          "q": "What quantum effect describes the zero electrical resistance of certain materials at very low temperatures?",
+          "c": ["Tunnel effect", "Superconductivity", "Quantum Hall effect", "Superfluidity"]
         },
-        "ar": {
-          "q": "ما هو نوع البلورة السائلة التي تتميز ببنية طبقات تكون فيها الجزيئات محاذاة عمودياً؟",
-          "c": ["نيماتيك", "سمكتيك", "كوليستيريك", "إيزوتروبي"]
-        },
-        "es": {
-          "q": "¿Qué tipo de cristal líquido se caracteriza por una estructura en capas donde las moléculas están alineadas perpendicularmente?",
-          "c": ["Nemático", "Esméctico", "Colestérico", "Isótropo"]
-        },
-        "pt": {
-          "q": "Que tipo de cristal líquido é caracterizado por uma estrutura em camadas onde as moléculas estão alinhadas perpendicularmente?",
-          "c": ["Nemático", "Esmético", "Colestérico", "Isotrópico"]
-        },
-        "a": 0, "image": null
-      },
-      {
-        "fr": { "q": "Quel effet quantique décrit la résistance électrique nulle de certains matériaux à très basse température ?", "c": ["La supraconductivité", "La superfluidité", "L'effet tunnel", "L'effet Hall quantique"] },
-        "en": { "q": "What quantum effect describes the zero electrical resistance of certain materials at very low temperatures?", "c": ["Superconductivity", "Superfluidity", "Tunnel effect", "Quantum Hall effect"] },
         "ar": {
           "q": "ما هو التأثير الكمومي الذي يصف المقاومة الكهربائية المعدومة لبعض المواد عند درجات حرارة منخفضة جداً؟",
-          "c": ["التوصيل الفائق (السوبركوندكتيفيتي)", "السيولة الفائقة", "تأثير النفق", "تأثير هول الكمومي"]
+          "c": ["تأثير النفق", "التوصيل الفائق (السوبركوندكتيفيتي)", "تأثير هول الكمومي", "السيولة الفائقة"]
         },
         "es": {
           "q": "¿Qué efecto cuántico describe la resistencia eléctrica cero de ciertos materiales a temperaturas muy bajas?",
-          "c": ["Superconductividad", "Superfluidez", "Efecto túnel", "Efecto Hall cuántico"]
+          "c": ["Efecto túnel", "Superconductividad", "Efecto Hall cuántico", "Superfluidez"]
         },
         "pt": {
           "q": "Qual efeito quântico descreve a resistência elétrica zero de certos materiais a temperaturas muito baixas?",
-          "c": ["Supercondutividade", "Superfluidez", "Efeito túnel", "Efeito Hall quântico"]
+          "c": ["Efeito túnel", "Supercondutividade", "Efeito Hall quântico", "Superfluidez"]
         },
-        "a": 0, "image": null
+        "a": 1,
+        "image": null
       },
       {
-        "fr": { "q": "Quel nom porte la théorie décrivant la force nucléaire forte entre quarks médiée par les gluons ?", "c": ["La chromodynamique quantique (QCD)", "L'électrodynamique quantique (QED)", "La théorie des cordes", "Le modèle standard"] },
-        "en": { "q": "What is the name of the theory describing the strong nuclear force between quarks mediated by gluons?", "c": ["Quantum chromodynamics (QCD)", "Quantum electrodynamics (QED)", "String theory", "Standard model"] },
+        "fr": {
+          "q": "Quel nom porte la théorie décrivant la force nucléaire forte entre quarks médiée par les gluons ?",
+          "c": ["Le modèle standard", "L'électrodynamique quantique (QED)", "La théorie des cordes", "La chromodynamique quantique (QCD)"]
+        },
+        "en": {
+          "q": "What is the name of the theory describing the strong nuclear force between quarks mediated by gluons?",
+          "c": ["Standard model", "Quantum electrodynamics (QED)", "String theory", "Quantum chromodynamics (QCD)"]
+        },
         "ar": {
           "q": "ما اسم النظرية التي تصف القوة النووية القوية بين الكواركات بوساطة الغلوونات؟",
-          "c": ["ديناميكا الألوان الكمومية (QCD)", "ديناميكا الكهرباء الكمومية (QED)", "نظرية الأوتار", "النموذج المعياري"]
+          "c": ["النموذج المعياري", "ديناميكا الكهرباء الكمومية (QED)", "نظرية الأوتار", "ديناميكا الألوان الكمومية (QCD)"]
         },
         "es": {
           "q": "¿Cómo se llama la teoría que describe la fuerza nuclear fuerte entre quarks mediada por gluones?",
-          "c": ["Cromodinámica cuántica (QCD)", "Electrodinámica cuántica (QED)", "Teoría de cuerdas", "Modelo estándar"]
+          "c": ["Modelo estándar", "Electrodinámica cuántica (QED)", "Teoría de cuerdas", "Cromodinámica cuántica (QCD)"]
         },
         "pt": {
           "q": "Qual é o nome da teoria que descreve a força nuclear forte entre quarks mediada por gluons?",
-          "c": ["Cromodinâmica quântica (QCD)", "Eletrodinâmica quântica (QED)", "Teoria das cordas", "Modelo padrão"]
+          "c": ["Modelo padrão", "Eletrodinâmica quântica (QED)", "Teoria das cordas", "Cromodinâmica quântica (QCD)"]
         },
-        "a": 0, "image": null
+        "a": 3,
+        "image": null
       },
       {
-        "fr": { "q": "Quel scientifique a découvert la déviation de la lumière par un champ gravitationnel, confirmant la relativité générale ?", "c": ["Arthur Eddington", "Albert Einstein", "Karl Schwarzschild", "Stephen Hawking"] },
-        "en": { "q": "Which scientist confirmed general relativity by observing the bending of light around the Sun during a 1919 eclipse?", "c": ["Arthur Eddington", "Albert Einstein", "Karl Schwarzschild", "Stephen Hawking"] },
-        "ar": {
-          "q": "أي عالم أكد النسبية العامة عبر رصد انحناء الضوء حول الشمس أثناء كسوف عام 1919؟",
-          "c": ["آرثر إدينغتون", "ألبرت أينشتاين", "كارل شوارزشيلد", "ستيفن هوكينغ"]
+        "fr": {
+          "q": "Quel effet, mis en évidence par Arthur Compton en 1923, prouve la nature corpusculaire de la lumière ?",
+          "c": ["L'effet Hall", "L'effet Joule", "L'effet Zeeman", "L'effet Compton"]
         },
-        "es": {
-          "q": "¿Qué científico confirmó la relatividad general observando la desviación de la luz durante el eclipse de 1919?",
-          "c": ["Arthur Eddington", "Albert Einstein", "Karl Schwarzschild", "Stephen Hawking"]
-        },
-        "pt": {
-          "q": "Qual cientista confirmou a relatividade geral observando o desvio da luz durante o eclipse de 1919?",
-          "c": ["Arthur Eddington", "Albert Einstein", "Karl Schwarzschild", "Stephen Hawking"]
-        },
-        "a": 0, "image": null
-      },
-      {
-        "fr": { "q": "Quel est le nom de l'instrument inventé par Robert Millikan permettant de mesurer la charge électrique de l'électron ?", "c": ["L'expérience de la goutte d'huile", "L'interféromètre de Michelson", "Le tube de Crookes", "La chambre à brouillard"] },
         "en": {
-          "q": "What is the name of the experiment conducted by Robert Millikan to measure the elementary electric charge?",
-          "c": ["Oil drop experiment", "Michelson-Morley experiment", "Crookes tube", "Cloud chamber"]
+          "q": "Which effect, demonstrated by Arthur Compton in 1923, shows the particle nature of light?",
+          "c": ["The Hall effect", "The Joule effect", "The Zeeman effect", "The Compton effect"]
         },
         "ar": {
-          "q": "ما اسم التجربة الشهيرة التي أجراها روبرت مليكان لقياس شحنة الإلكترون بدقة؟",
-          "c": ["تجربة قطرة الزيت", "مقياس ميكلسون", "أنبوب كروكس", "غرفة السحابة"]
+          "q": "أي تأثير بيّنه آرثر كومبتون عام 1923 يثبت الطبيعة الجسيمية للضوء؟",
+          "c": ["تأثير هول", "تأثير جول", "تأثير زيمان", "تأثير كومبتون"]
         },
         "es": {
-          "q": "¿Cómo se llama el experimento realizado por Robert Millikan para medir la carga eléctrica elemental?",
-          "c": ["Experimento de la gota de aceite", "Experimento de Michelson-Morley", "Tubo de Crookes", "Cámara de niebla"]
+          "q": "¿Qué efecto, demostrado por Arthur Compton en 1923, prueba la naturaleza corpuscular de la luz?",
+          "c": ["El efecto Hall", "El efecto Joule", "El efecto Zeeman", "El efecto Compton"]
         },
         "pt": {
-          "q": "Qual é o nome do experimento realizado por Robert Millikan para medir a carga elétrica elementar?",
-          "c": ["Experimento da gota de óleo", "Experimento de Michelson-Morley", "Tubo de Crookes", "Câmara de nuvem"]
+          "q": "Que efeito, demonstrado por Arthur Compton em 1923, prova a natureza corpuscular da luz?",
+          "c": ["O efeito Hall", "O efeito Joule", "O efeito Zeeman", "O efeito Compton"]
         },
-        "a": 0, "image": null
+        "a": 3,
+        "image": null
+      },
+      {
+        "fr": {
+          "q": "Quelle relation relie la variation de la pression de vapeur saturante d'un liquide à sa température et à son enthalpie de vaporisation ?",
+          "c": ["La relation de Clausius-Clapeyron", "La loi de Raoult", "L'équation de Nernst", "La loi de Henry"]
+        },
+        "en": {
+          "q": "Which relation links the variation of a liquid's saturation vapor pressure to its temperature and enthalpy of vaporization?",
+          "c": ["The Clausius–Clapeyron relation", "Raoult's law", "The Nernst equation", "Henry's law"]
+        },
+        "ar": {
+          "q": "ما العلاقة التي تربط تغيّر ضغط البخار المشبع لسائل بدرجة حرارته وبإنثالبية تبخره؟",
+          "c": ["علاقة كلاوزيوس-كلابيرون", "قانون راوول", "معادلة نيرنست", "قانون هنري"]
+        },
+        "es": {
+          "q": "¿Qué relación vincula la variación de la presión de vapor saturante de un líquido con su temperatura y su entalpía de vaporización?",
+          "c": ["La relación de Clausius-Clapeyron", "La ley de Raoult", "La ecuación de Nernst", "La ley de Henry"]
+        },
+        "pt": {
+          "q": "Que relação liga a variação da pressão de vapor saturado de um líquido à sua temperatura e à sua entalpia de vaporização?",
+          "c": ["A relação de Clausius-Clapeyron", "A lei de Raoult", "A equação de Nernst", "A lei de Henry"]
+        },
+        "a": 0,
+        "image": null
+      },
+      {
+        "fr": {
+          "q": "Quel type de cristal liquide présente une organisation des molécules en couches ?",
+          "c": ["Nématique", "Isotrope", "Cholestérique", "Smectique"]
+        },
+        "en": {
+          "q": "Which type of liquid crystal has molecules organized in layers?",
+          "c": ["Nematic", "Isotropic", "Cholesteric", "Smectic"]
+        },
+        "ar": {
+          "q": "أي نوع من البلورات السائلة تنتظم جزيئاته في طبقات؟",
+          "c": ["النيماتي", "المتساوي الخواص", "الكوليستيري", "السميكتي"]
+        },
+        "es": {
+          "q": "¿Qué tipo de cristal líquido tiene las moléculas organizadas en capas?",
+          "c": ["Nemático", "Isótropo", "Colestérico", "Esméctico"]
+        },
+        "pt": {
+          "q": "Que tipo de cristal líquido tem as moléculas organizadas em camadas?",
+          "c": ["Nemático", "Isotrópico", "Colestérico", "Esmético"]
+        },
+        "a": 3,
+        "image": null
+      },
+      {
+        "fr": {
+          "q": "Quel astronome a dirigé l'expédition de 1919 qui a confirmé la déviation de la lumière par le Soleil prédite par la relativité générale ?",
+          "c": ["Arthur Eddington", "Karl Schwarzschild", "Albert Einstein", "Stephen Hawking"]
+        },
+        "en": {
+          "q": "Which astronomer led the 1919 expedition that confirmed the bending of light by the Sun predicted by general relativity?",
+          "c": ["Arthur Eddington", "Karl Schwarzschild", "Albert Einstein", "Stephen Hawking"]
+        },
+        "ar": {
+          "q": "أي فلكي قاد بعثة عام 1919 التي أكدت انحراف الضوء قرب الشمس كما تنبأت النسبية العامة؟",
+          "c": ["آرثر إدينغتون", "كارل شفارتزشيلد", "ألبرت أينشتاين", "ستيفن هوكينغ"]
+        },
+        "es": {
+          "q": "¿Qué astrónomo dirigió la expedición de 1919 que confirmó la desviación de la luz por el Sol predicha por la relatividad general?",
+          "c": ["Arthur Eddington", "Karl Schwarzschild", "Albert Einstein", "Stephen Hawking"]
+        },
+        "pt": {
+          "q": "Que astrônomo liderou a expedição de 1919 que confirmou o desvio da luz pelo Sol previsto pela relatividade geral?",
+          "c": ["Arthur Eddington", "Karl Schwarzschild", "Albert Einstein", "Stephen Hawking"]
+        },
+        "a": 0,
+        "image": null
+      },
+      {
+        "fr": {
+          "q": "Quelle expérience menée par Robert Millikan a permis de mesurer la charge élémentaire de l'électron ?",
+          "c": ["L'interféromètre de Michelson", "La chambre à brouillard", "Le tube de Crookes", "L'expérience de la goutte d'huile"]
+        },
+        "en": {
+          "q": "Which experiment by Robert Millikan measured the elementary charge of the electron?",
+          "c": ["The Michelson interferometer", "The cloud chamber", "The Crookes tube", "The oil drop experiment"]
+        },
+        "ar": {
+          "q": "أي تجربة أجراها روبرت ميليكان قاست الشحنة الأولية للإلكترون؟",
+          "c": ["مقياس تداخل ميكلسون", "غرفة الضباب", "أنبوب كروكس", "تجربة قطرة الزيت"]
+        },
+        "es": {
+          "q": "¿Qué experimento de Robert Millikan permitió medir la carga elemental del electrón?",
+          "c": ["El interferómetro de Michelson", "La cámara de niebla", "El tubo de Crookes", "El experimento de la gota de aceite"]
+        },
+        "pt": {
+          "q": "Que experiência de Robert Millikan permitiu medir a carga elementar do elétron?",
+          "c": ["O interferômetro de Michelson", "A câmara de nuvens", "O tubo de Crookes", "A experiência da gota de óleo"]
+        },
+        "a": 3,
+        "image": null
       }
     ]
   },
@@ -852,93 +2208,86 @@
     "level": 10,
     "questions": [
       {
-        "fr": { "q": "Quel est le nom de la limite supérieure de masse d'une étoile naine blanche au-delà de laquelle elle s'effondre en étoile à neutrons ?", "c": ["La limite de Chandrasekhar", "La limite d'Oppenheimer-Volkoff", "La limite de Schwarzschild", "La limite de Hubble"] },
-        "en": { "q": "What is the name of the upper mass limit for a white dwarf star beyond which it collapses?", "c": ["Chandrasekhar limit", "Oppenheimer-Volkoff limit", "Schwarzschild limit", "Hubble limit"] },
+        "fr": {
+          "q": "Quel est le nom de la limite supérieure de masse d'une étoile naine blanche au-delà de laquelle elle s'effondre en étoile à neutrons ?",
+          "c": ["La limite de Schwarzschild", "La limite de Hubble", "La limite de Chandrasekhar", "La limite d'Oppenheimer-Volkoff"]
+        },
+        "en": {
+          "q": "What is the name of the upper mass limit for a white dwarf star beyond which it collapses?",
+          "c": ["Schwarzschild limit", "Hubble limit", "Chandrasekhar limit", "Oppenheimer-Volkoff limit"]
+        },
         "ar": {
           "q": "ما اسم الحد الأقصى لكتلة القزم الأبيض الذي يتجاوزه ليتحول إلى نجم نيوتروني؟",
-          "c": ["حد شاندراسيخار", "حد أوبنهايمر-ولكوف", "حد شوارزشيلد", "حد هابل"]
+          "c": ["حد شوارزشيلد", "حد هابل", "حد شاندراسيخار", "حد أوبنهايمر-ولكوف"]
         },
         "es": {
           "q": "¿Cómo se llama el límite superior de masa para una estrella enana blanca antes de colapsar?",
-          "c": ["Límite de Chandrasekhar", "Límite de Oppenheimer-Volkoff", "Límite de Schwarzschild", "Límite de Hubble"]
+          "c": ["Límite de Schwarzschild", "Límite de Hubble", "Límite de Chandrasekhar", "Límite de Oppenheimer-Volkoff"]
         },
         "pt": {
           "q": "Qual é o nome do limite superior de massa para uma anã branca antes de colapsar?",
-          "c": ["Limite de Chandrasekhar", "Limite de Oppenheimer-Volkoff", "Limite de Schwarzschild", "Limite de Hubble"]
+          "c": ["Limite de Schwarzschild", "Limite de Hubble", "Limite de Chandrasekhar", "Limite de Oppenheimer-Volkoff"]
         },
-        "a": 0, "image": null
+        "a": 2,
+        "image": null
       },
       {
-        "fr": { "q": "Quel physicien a proposé en 1964 le mécanisme de brisure spontanée de la symétrie électrofaible donnant la masse aux particules (boson éponyme) ?", "c": ["François Englert et Peter Higgs", "Murray Gell-Mann", "Richard Feynman", "Paul Dirac"] },
-        "en": { "q": "Which physicist proposed the mechanism for spontaneous electroweak symmetry breaking giving particles mass in 1964?", "c": ["François Englert and Peter Higgs", "Murray Gell-Mann", "Richard Feynman", "Paul Dirac"] },
-        "ar": {
-          "q": "أي فيزيائي اقترح آلية كسر التناظر الكهروضعي التي تمنح الكتلة للجسيمات عام 1964؟",
-          "c": ["فرانسوا أنغلير وبيتر هيغز", "موري غيل-مان", "ريتشارد فاينمان", "بول ديراك"]
+        "fr": {
+          "q": "Quelle est l'unité de mesure de la constante de désintégration radioactive dans le Système international ?",
+          "c": ["Le gray", "Le becquerel", "L'inverse de seconde (s⁻¹)", "Le sievert"]
         },
-        "es": {
-          "q": "¿Qué físico propuso el mecanismo de ruptura espontánea de la simetría electrodébil que da masa a las partículas en 1964?",
-          "c": ["François Englert y Peter Higgs", "Murray Gell-Mann", "Richard Feynman", "Paul Dirac"]
+        "en": {
+          "q": "What is the SI unit of the radioactive decay constant?",
+          "c": ["Gray", "Becquerel", "Inverse second (s⁻¹)", "Sievert"]
         },
-        "pt": {
-          "q": "Qual físico propôs o mecanismo de quebra espontânea de simetria eletrofraca que dá massa às partículas em 1964?",
-          "c": ["François Englert e Peter Higgs", "Murray Gell-Mann", "Richard Feynman", "Paul Dirac"]
-        },
-        "a": 0, "image": null
-      },
-      {
-        "fr": { "q": "Quel nom porte la solution exacte des équations d'Einstein de la relativité générale décrivant un trou noir sphérique en rotation (ou non) ?", "c": ["La métrique de Schwarzschild (ou de Kerr si en rotation)", "La métrique de Minkowski", "La métrique de Friedmann-Lemaître", "La métrique de de Sitter"] },
-        "en": { "q": "What is the exact solution to Einstein's field equations describing a non-rotating black hole called?", "c": ["Schwarzschild metric", "Minkowski metric", "Friedmann-Lemaître metric", "de Sitter metric"] },
-        "ar": {
-          "q": "ما اسم الحل الدقيق لمعادلات أينشتاين للنسبية العامة الذي يصف ثقباً أسود كروياً ساكناً؟",
-          "c": ["متريّة شوارزشيلد", "متريّة مينكوفسكي", "متريّة فريدمان-لوميتر", "متريّة دي سيتر"]
-        },
-        "es": {
-          "q": "¿Cómo se llama la solución exacta de las ecuaciones de Einstein que describe un agujero negro esférico estático?",
-          "c": ["Métrica de Schwarzschild", "Métrica de Minkowski", "Métrica de Friedmann-Lemaître", "Métrica de de Sitter"]
-        },
-        "pt": {
-          "q": "Qual é o nome da solução exata das equações de Einstein que descreve um buraco negro esférico estático?",
-          "c": ["Métrica de Schwarzschild", "Métrica de Minkowski", "Métrica de Friedmann-Lemaître", "Métrica de de Sitter"]
-        },
-        "a": 0, "image": null
-      },
-      {
-        "fr": { "q": "Quelle est l'unité de mesure de la constante de désintégration radioactive dans le Système international ?", "c": ["L'inverse de seconde ($s^{-1}$)", "Le becquerel", "Le gray", "Le sievert"] },
-        "en": { "q": "What is the SI unit of the radioactive decay constant?", "c": ["Inverse second ($s^{-1}$)", "Becquerel", "Gray", "Sievert"] },
         "ar": {
           "q": "ما هي وحدة قياس ثابت التحلل الإشعاعي في النظام الدولي؟",
-          "c": ["مكافئ مقلوب الثانية ($s^{-1}$)", "البكريل", "الغراي", "السيفيرت"]
+          "c": ["الغراي", "البكريل", "مكافئ مقلوب الثانية (s⁻¹)", "السيفيرت"]
         },
         "es": {
           "q": "¿Cuál es la unidad de medida de la constante de desintegración radiactiva en el Sistema Internacional?",
-          "c": ["Inverso de segundo ($s^{-1}$)", "Becquerel", "Gray", "Sievert"]
+          "c": ["Gray", "Becquerel", "Inverso de segundo (s⁻¹)", "Sievert"]
         },
         "pt": {
           "q": "Qual é a unidade de medida da constante de desintegração radioativa no Sistema Internacional?",
-          "c": ["Inverso de segundo ($s^{-1}$)", "Becquerel", "Gray", "Sievert"]
+          "c": ["Gray", "Becquerel", "Inverso de segundo (s⁻¹)", "Sievert"]
         },
-        "a": 0, "image": null
+        "a": 2,
+        "image": null
       },
       {
-        "fr": { "q": "Quel effet quantique décrit la création spontanée de paires particule-antiparticule près de l'horizon d'un trou noir ?", "c": ["Le rayonnement de Hawking", "L'effet Casimir", "L'effet Photoélectrique", "L'effet tunnel"] },
-        "en": { "q": "What quantum effect describes the theoretical creation and emission of radiation near a black hole's event horizon?", "c": ["Hawking radiation", "Casimir effect", "Photoelectric effect", "Tunnel effect"] },
+        "fr": {
+          "q": "Quel effet quantique décrit la création spontanée de paires particule-antiparticule près de l'horizon d'un trou noir ?",
+          "c": ["Le rayonnement de Hawking", "L'effet Casimir", "L'effet tunnel", "L'effet Photoélectrique"]
+        },
+        "en": {
+          "q": "What quantum effect describes the theoretical creation and emission of radiation near a black hole's event horizon?",
+          "c": ["Hawking radiation", "Casimir effect", "Tunnel effect", "Photoelectric effect"]
+        },
         "ar": {
           "q": "ما هو التأثير الكمومي الذي يصف الانبعاث النظري للجزيئات من أفق الحدث للثقب الأسود؟",
-          "c": ["إشعاع هوكينغ", "تأثير كازيمير", "التأثير الكهروضوئي", "تأثير النفق"]
+          "c": ["إشعاع هوكينغ", "تأثير كازيمير", "تأثير النفق", "التأثير الكهروضوئي"]
         },
         "es": {
           "q": "¿Qué efecto cuántico describe la creación y emisión teórica de radiación cerca del horizonte de eventos de un agujero negro?",
-          "c": ["Radiación de Hawking", "Efecto Casimir", "Efecto fotoeléctrico", "Efecto túnel"]
+          "c": ["Radiación de Hawking", "Efecto Casimir", "Efecto túnel", "Efecto fotoeléctrico"]
         },
         "pt": {
           "q": "Qual efeito quântico descreve a criação e emissão teórica de radiação perto do horizonte de eventos de um buraco negro?",
-          "c": ["Radiação de Hawking", "Efeito Casimir", "Efeito fotoelétrico", "Efeito túnel"]
+          "c": ["Radiação de Hawking", "Efeito Casimir", "Efeito túnel", "Efeito fotoelétrico"]
         },
-        "a": 0, "image": null
+        "a": 0,
+        "image": null
       },
       {
-        "fr": { "q": "Quel nom porte la formulation analytique de la mécanique classique basée sur le principe de moindre action ?", "c": ["La mécanique lagrangienne (et hamiltonienne)", "La mécanique newtonienne", "La mécanique des fluides", "La thermodynamique statistique"] },
-        "en": { "q": "What is the analytical formulation of classical mechanics based on the principle of least action called?", "c": ["Lagrangian (and Hamiltonian) mechanics", "Newtonian mechanics", "Fluid mechanics", "Statistical thermodynamics"] },
+        "fr": {
+          "q": "Quel nom porte la formulation analytique de la mécanique classique basée sur le principe de moindre action ?",
+          "c": ["La mécanique lagrangienne (et hamiltonienne)", "La mécanique newtonienne", "La mécanique des fluides", "La thermodynamique statistique"]
+        },
+        "en": {
+          "q": "What is the analytical formulation of classical mechanics based on the principle of least action called?",
+          "c": ["Lagrangian (and Hamiltonian) mechanics", "Newtonian mechanics", "Fluid mechanics", "Statistical thermodynamics"]
+        },
         "ar": {
           "q": "ما اسم الصياغة التحليلية للميكانيكا الكلاسيكية القائمة على مبدأ الفعل الأصغر؟",
           "c": ["ميكانيكا لاغرانج (وهاميلتون)", "ميكانيكا نيوتن", "ميكانيكا الموائع", "الديناميكا الحرارية الإحصائية"]
@@ -951,75 +2300,152 @@
           "q": "Qual é o nome da formulação analítica da mecânica clássica baseada no princípio da menor ação?",
           "c": ["Mecânica lagrangiana (e hamiltoniana)", "Mecânica newtoniana", "Mecânica dos fluidos", "Termodinâmica estatística"]
         },
-        "a": 0, "image": null
+        "a": 0,
+        "image": null
       },
       {
-        "fr": { "q": "Quel physicien a proposé l'équation d'onde relativiste décrivant les fermions de spin 1/2 comme l'électron ?", "c": ["Paul Dirac", "Erwin Schrödinger", "Werner Heisenberg", "Wolfgang Pauli"] },
-        "en": { "q": "Which physicist proposed the relativistic wave equation describing spin-1/2 fermions like the electron?", "c": ["Paul Dirac", "Erwin Schrödinger", "Werner Heisenberg", "Wolfgang Pauli"] },
+        "fr": {
+          "q": "Quel physicien a proposé l'équation d'onde relativiste décrivant les fermions de spin 1/2 comme l'électron ?",
+          "c": ["Werner Heisenberg", "Paul Dirac", "Erwin Schrödinger", "Wolfgang Pauli"]
+        },
+        "en": {
+          "q": "Which physicist proposed the relativistic wave equation describing spin-1/2 fermions like the electron?",
+          "c": ["Werner Heisenberg", "Paul Dirac", "Erwin Schrödinger", "Wolfgang Pauli"]
+        },
         "ar": {
           "q": "أي فيزيائي اقترح معادلة الموجة النسبية التي تصف فرميونات ذات لف مغزلي 1/2 كالإلكترون؟",
-          "c": ["بول ديراك", "إرفين شرودنغر", "فيرنر هايزنبرغ", "فولفغانغ باولي"]
+          "c": ["فيرنر هايزنبرغ", "بول ديراك", "إرفين شرودنغر", "فولفغانغ باولي"]
         },
         "es": {
           "q": "¿Qué físico propuso la ecuación de onda relativista que describe fermiones de espín 1/2 como el electrón?",
-          "c": ["Paul Dirac", "Erwin Schrödinger", "Werner Heisenberg", "Wolfgang Pauli"]
+          "c": ["Werner Heisenberg", "Paul Dirac", "Erwin Schrödinger", "Wolfgang Pauli"]
         },
         "pt": {
           "q": "Qual físico propôs a equação de onda relativística descrevendo férmions de spin 1/2 como o elétron?",
-          "c": ["Paul Dirac", "Erwin Schrödinger", "Werner Heisenberg", "Wolfgang Pauli"]
+          "c": ["Werner Heisenberg", "Paul Dirac", "Erwin Schrödinger", "Wolfgang Pauli"]
         },
-        "a": 0, "image": null
+        "a": 1,
+        "image": null
       },
       {
-        "fr": { "q": "Quel nom donne-t-on à la transition de phase où un matériau devient supraconducteur sous un champ magnétique critique ?", "c": ["La transition de type I ou II", "La condensation de Bose-Einstein", "La transition vitreuse", "L'ionisation"] },
-        "en": { "q": "What is the phase transition where a material becomes superconducting below a critical magnetic field called?", "c": ["Type I or Type II transition", "Bose-Einstein condensation", "Glass transition", "Ionization"] },
-        "ar": {
-          "q": "ماذا يسمى التحول الطوري الذي تصبح فيه المادة فائقة التوصيل تحت حقل مغناطيسي حرج؟",
-          "c": ["تحول من النوع الأول أو الثاني", "تكاثف بوز-آينشتاين", "التحول الزجاجي", "التأين"]
+        "fr": {
+          "q": "Quel physicien a développé la théorie électrodynamique quantique (QED) moderne aux côtés de Tomonaga et Schwinger ?",
+          "c": ["Niels Bohr", "Max Born", "Richard Feynman", "Enrico Fermi"]
         },
-        "es": {
-          "q": "¿Cómo se llama la transición de fase en la que un material se vuelve superconductor bajo un campo magnético crítico?",
-          "c": ["Transición de tipo I o tipo II", "Condensación de Bose-Einstein", "Transición vítrea", "Ionización"]
+        "en": {
+          "q": "Which physicist developed modern quantum electrodynamics (QED) alongside Tomonaga and Schwinger?",
+          "c": ["Niels Bohr", "Max Born", "Richard Feynman", "Enrico Fermi"]
         },
-        "pt": {
-          "q": "Como se chama a transição de fase onde um material se torna supercondutor abaixo de um campo magnético crítico?",
-          "c": ["Transição de tipo I ou tipo II", "Condensação de Bose-Einstein", "Transição vítrea", "Ionização"]
-        },
-        "a": 0, "image": null
-      },
-      {
-        "fr": { "q": "Quel est le nom de la force attractive hypothétique invoquée pour expliquer l'accélération de l'expansion de l'univers ?", "c": ["L'énergie noire (ou constante cosmologique)", "La matière noire", "La force de Casimir", "La force nucléaire faible"] },
-        "en": { "q": "What is the name of the hypothetical repulsive force/energy invoked to explain the accelerating expansion of the universe?", "c": ["Dark energy (or cosmological constant)", "Dark matter", "Casimir force", "Weak nuclear force"] },
-        "ar": {
-          "q": "ما اسم الطاقة الافتراضية المفترضة لتفسير التسارع في تمدد الكون؟",
-          "c": ["الطاقة المظلمة (أو الثابت الكوني)", "المادة المظلمة", "قوة كازيمير", "القوة النووية الضعيفة"]
-        },
-        "es": {
-          "q": "¿Cómo se llama la energía hipotética invocada para explicar la expansión acelerada del universo?",
-          "c": ["Energía oscura (o constante cosmológica)", "Materia oscura", "Fuerza de Casimir", "Fuerza nuclear débil"]
-        },
-        "pt": {
-          "q": "Qual é o nome da energia hipotética invocada para explicar a expansão acelerada do universo?",
-          "c": ["Energia escura (ou constante cosmológica)", "Matéria escura", "Força de Casimir", "Força nuclear fraca"]
-        },
-        "a": 0, "image": null
-      },
-      {
-        "fr": { "q": "Quel physicien a développé la théorie électrodynamique quantique (QED) moderne aux côtés de Tomonaga et Schwinger ?", "c": ["Richard Feynman", "Niels Bohr", "Max Born", "Enrico Fermi"] },
-        "en": { "q": "Which physicist developed modern quantum electrodynamics (QED) alongside Tomonaga and Schwinger?", "c": ["Richard Feynman", "Niels Bohr", "Max Born", "Enrico Fermi"] },
         "ar": {
           "q": "أي فيزيائي طوّر نظرية الديناميكا الكهربائية الكمومية (QED) الحديثة بجانب توموناجا وشوينغر؟",
-          "c": ["ريتشارد فاينمان", "نيلز بور", "ماكس بورن", "إنريكو فيرمي"]
+          "c": ["نيلز بور", "ماكس بورن", "ريتشارد فاينمان", "إنريكو فيرمي"]
         },
         "es": {
           "q": "¿Qué físico desarrolló la electrodinámica cuántica (QED) moderna junto con Tomonaga y Schwinger?",
-          "c": ["Richard Feynman", "Niels Bohr", "Max Born", "Enrico Fermi"]
+          "c": ["Niels Bohr", "Max Born", "Richard Feynman", "Enrico Fermi"]
         },
         "pt": {
           "q": "Qual físico desenvolveu a eletrodinâmica quântica (QED) moderna junto com Tomonaga e Schwinger?",
-          "c": ["Richard Feynman", "Niels Bohr", "Max Born", "Enrico Fermi"]
+          "c": ["Niels Bohr", "Max Born", "Richard Feynman", "Enrico Fermi"]
         },
-        "a": 0, "image": null
+        "a": 2,
+        "image": null
+      },
+      {
+        "fr": {
+          "q": "Quels physiciens ont reçu le prix Nobel 2013 pour leur mécanisme expliquant l'origine de la masse des particules élémentaires ?",
+          "c": ["Steven Weinberg et Abdus Salam", "Murray Gell-Mann et George Zweig", "Sheldon Glashow et Gerard 't Hooft", "François Englert et Peter Higgs"]
+        },
+        "en": {
+          "q": "Which physicists received the 2013 Nobel Prize for their mechanism explaining the origin of the mass of elementary particles?",
+          "c": ["Steven Weinberg and Abdus Salam", "Murray Gell-Mann and George Zweig", "Sheldon Glashow and Gerard 't Hooft", "François Englert and Peter Higgs"]
+        },
+        "ar": {
+          "q": "أي فيزيائيين نالا جائزة نوبل 2013 عن آليتهما التي تفسّر أصل كتلة الجسيمات الأولية؟",
+          "c": ["ستيفن واينبرغ وعبد السلام", "موراي غيل-مان وجورج زفايغ", "شيلدون غلاشو وجيرارد توفت", "فرانسوا أنجلرت وبيتر هيغز"]
+        },
+        "es": {
+          "q": "¿Qué físicos recibieron el Premio Nobel de 2013 por su mecanismo que explica el origen de la masa de las partículas elementales?",
+          "c": ["Steven Weinberg y Abdus Salam", "Murray Gell-Mann y George Zweig", "Sheldon Glashow y Gerard 't Hooft", "François Englert y Peter Higgs"]
+        },
+        "pt": {
+          "q": "Que físicos receberam o Nobel de 2013 pelo mecanismo que explica a origem da massa das partículas elementares?",
+          "c": ["Steven Weinberg e Abdus Salam", "Murray Gell-Mann e George Zweig", "Sheldon Glashow e Gerard 't Hooft", "François Englert e Peter Higgs"]
+        },
+        "a": 3,
+        "image": null
+      },
+      {
+        "fr": {
+          "q": "Quelle solution exacte des équations d'Einstein décrit un trou noir en rotation ?",
+          "c": ["La métrique de Minkowski", "La métrique de Schwarzschild", "La métrique de Kerr", "La métrique de de Sitter"]
+        },
+        "en": {
+          "q": "Which exact solution of Einstein's equations describes a rotating black hole?",
+          "c": ["The Minkowski metric", "The Schwarzschild metric", "The Kerr metric", "The de Sitter metric"]
+        },
+        "ar": {
+          "q": "أي حل دقيق لمعادلات أينشتاين يصف ثقباً أسود دوّاراً؟",
+          "c": ["متري مينكوفسكي", "متري شفارتزشيلد", "متري كير", "متري دي سيتر"]
+        },
+        "es": {
+          "q": "¿Qué solución exacta de las ecuaciones de Einstein describe un agujero negro en rotación?",
+          "c": ["La métrica de Minkowski", "La métrica de Schwarzschild", "La métrica de Kerr", "La métrica de de Sitter"]
+        },
+        "pt": {
+          "q": "Que solução exata das equações de Einstein descreve um buraco negro em rotação?",
+          "c": ["A métrica de Minkowski", "A métrica de Schwarzschild", "A métrica de Kerr", "A métrica de de Sitter"]
+        },
+        "a": 2,
+        "image": null
+      },
+      {
+        "fr": {
+          "q": "Quel effet décrit l'expulsion du champ magnétique de l'intérieur d'un matériau devenu supraconducteur ?",
+          "c": ["L'effet Casimir", "L'effet Josephson", "L'effet Hall", "L'effet Meissner"]
+        },
+        "en": {
+          "q": "Which effect describes the expulsion of a magnetic field from the interior of a material that has become superconducting?",
+          "c": ["The Casimir effect", "The Josephson effect", "The Hall effect", "The Meissner effect"]
+        },
+        "ar": {
+          "q": "أي تأثير يصف طرد المجال المغناطيسي من داخل مادة أصبحت فائقة التوصيل؟",
+          "c": ["تأثير كازيمير", "تأثير جوزفسون", "تأثير هول", "تأثير مايسنر"]
+        },
+        "es": {
+          "q": "¿Qué efecto describe la expulsión del campo magnético del interior de un material que se ha vuelto superconductor?",
+          "c": ["El efecto Casimir", "El efecto Josephson", "El efecto Hall", "El efecto Meissner"]
+        },
+        "pt": {
+          "q": "Que efeito descreve a expulsão do campo magnético do interior de um material que se tornou supercondutor?",
+          "c": ["O efeito Casimir", "O efeito Josephson", "O efeito Hall", "O efeito Meissner"]
+        },
+        "a": 3,
+        "image": null
+      },
+      {
+        "fr": {
+          "q": "Quel nom donne-t-on à la forme d'énergie mystérieuse invoquée pour expliquer l'accélération de l'expansion de l'univers ?",
+          "c": ["La matière noire", "L'énergie noire (ou constante cosmologique)", "La force nucléaire faible", "La force de Casimir"]
+        },
+        "en": {
+          "q": "What is the name of the mysterious form of energy invoked to explain the accelerating expansion of the universe?",
+          "c": ["Dark matter", "Dark energy (or cosmological constant)", "Weak nuclear force", "Casimir force"]
+        },
+        "ar": {
+          "q": "ما اسم شكل الطاقة الغامض الذي يُستدعى لتفسير تسارع تمدد الكون؟",
+          "c": ["المادة المظلمة", "الطاقة المظلمة (أو الثابت الكوني)", "القوة النووية الضعيفة", "قوة كازيمير"]
+        },
+        "es": {
+          "q": "¿Cómo se llama la misteriosa forma de energía invocada para explicar la aceleración de la expansión del universo?",
+          "c": ["La materia oscura", "La energía oscura (o constante cosmológica)", "La fuerza nuclear débil", "La fuerza de Casimir"]
+        },
+        "pt": {
+          "q": "Como se chama a misteriosa forma de energia invocada para explicar a aceleração da expansão do universo?",
+          "c": ["A matéria escura", "A energia escura (ou constante cosmológica)", "A força nuclear fraca", "A força de Casimir"]
+        },
+        "a": 1,
+        "image": null
       }
     ]
   }
