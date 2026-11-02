@@ -651,6 +651,456 @@
  },
  {
   "fr": {
+   "q": "Combien font 9 + 5 ?",
+   "c": [
+    "12",
+    "15",
+    "14",
+    "13"
+   ]
+  },
+  "en": {
+   "q": "What is 9 + 5?",
+   "c": [
+    "12",
+    "15",
+    "14",
+    "13"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي 9 + 5؟",
+   "c": [
+    "12",
+    "15",
+    "14",
+    "13"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 9 + 5?",
+   "c": [
+    "12",
+    "15",
+    "14",
+    "13"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 9 + 5?",
+   "c": [
+    "12",
+    "15",
+    "14",
+    "13"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Combien font 30 + 25 ?",
+   "c": [
+    "56",
+    "55",
+    "45",
+    "65"
+   ]
+  },
+  "en": {
+   "q": "What is 30 + 25?",
+   "c": [
+    "56",
+    "55",
+    "45",
+    "65"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي 30 + 25؟",
+   "c": [
+    "56",
+    "55",
+    "45",
+    "65"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 30 + 25?",
+   "c": [
+    "56",
+    "55",
+    "45",
+    "65"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 30 + 25?",
+   "c": [
+    "56",
+    "55",
+    "45",
+    "65"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Combien font 60 - 25 ?",
+   "c": [
+    "85",
+    "35",
+    "25",
+    "45"
+   ]
+  },
+  "en": {
+   "q": "What is 60 - 25?",
+   "c": [
+    "85",
+    "35",
+    "25",
+    "45"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي 60 - 25؟",
+   "c": [
+    "85",
+    "35",
+    "25",
+    "45"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 60 - 25?",
+   "c": [
+    "85",
+    "35",
+    "25",
+    "45"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 60 - 25?",
+   "c": [
+    "85",
+    "35",
+    "25",
+    "45"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Combien font 3 × 6 ?",
+   "c": [
+    "18",
+    "15",
+    "21",
+    "16"
+   ]
+  },
+  "en": {
+   "q": "What is 3 × 6?",
+   "c": [
+    "18",
+    "15",
+    "21",
+    "16"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي 3 × 6؟",
+   "c": [
+    "18",
+    "15",
+    "21",
+    "16"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 3 × 6?",
+   "c": [
+    "18",
+    "15",
+    "21",
+    "16"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 3 × 6?",
+   "c": [
+    "18",
+    "15",
+    "21",
+    "16"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Combien font 4 × 4 ?",
+   "c": [
+    "16",
+    "20",
+    "8",
+    "12"
+   ]
+  },
+  "en": {
+   "q": "What is 4 × 4?",
+   "c": [
+    "16",
+    "20",
+    "8",
+    "12"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي 4 × 4؟",
+   "c": [
+    "16",
+    "20",
+    "8",
+    "12"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 4 × 4?",
+   "c": [
+    "16",
+    "20",
+    "8",
+    "12"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 4 × 4?",
+   "c": [
+    "16",
+    "20",
+    "8",
+    "12"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Combien de côtés a un carré ?",
+   "c": [
+    "4",
+    "5",
+    "3",
+    "6"
+   ]
+  },
+  "en": {
+   "q": "How many sides does a square have?",
+   "c": [
+    "4",
+    "5",
+    "3",
+    "6"
+   ]
+  },
+  "ar": {
+   "q": "كم ضلعًا للمربع؟",
+   "c": [
+    "4",
+    "5",
+    "3",
+    "6"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos lados tiene un cuadrado?",
+   "c": [
+    "4",
+    "5",
+    "3",
+    "6"
+   ]
+  },
+  "pt": {
+   "q": "Quantos lados tem um quadrado?",
+   "c": [
+    "4",
+    "5",
+    "3",
+    "6"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle est la moitié de 20 ?",
+   "c": [
+    "15",
+    "10",
+    "5",
+    "40"
+   ]
+  },
+  "en": {
+   "q": "What is half of 20?",
+   "c": [
+    "15",
+    "10",
+    "5",
+    "40"
+   ]
+  },
+  "ar": {
+   "q": "ما نصف العدد 20؟",
+   "c": [
+    "15",
+    "10",
+    "5",
+    "40"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la mitad de 20?",
+   "c": [
+    "15",
+    "10",
+    "5",
+    "40"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a metade de 20?",
+   "c": [
+    "15",
+    "10",
+    "5",
+    "40"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel est le double de 25 ?",
+   "c": [
+    "45",
+    "55",
+    "50",
+    "40"
+   ]
+  },
+  "en": {
+   "q": "What is double 25?",
+   "c": [
+    "45",
+    "55",
+    "50",
+    "40"
+   ]
+  },
+  "ar": {
+   "q": "ما ضعف العدد 25؟",
+   "c": [
+    "45",
+    "55",
+    "50",
+    "40"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el doble de 25?",
+   "c": [
+    "45",
+    "55",
+    "50",
+    "40"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o dobro de 25?",
+   "c": [
+    "45",
+    "55",
+    "50",
+    "40"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Combien font 10 × 7 ?",
+   "c": [
+    "70",
+    "60",
+    "17",
+    "77"
+   ]
+  },
+  "en": {
+   "q": "What is 10 × 7?",
+   "c": [
+    "70",
+    "60",
+    "17",
+    "77"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي 10 × 7؟",
+   "c": [
+    "70",
+    "60",
+    "17",
+    "77"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 10 × 7?",
+   "c": [
+    "70",
+    "60",
+    "17",
+    "77"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 10 × 7?",
+   "c": [
+    "70",
+    "60",
+    "17",
+    "77"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
    "q": "Combien de côtés a un hexagone ?",
    "c": [
     "5",
@@ -1146,6 +1596,756 @@
    ]
   },
   "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Combien font 6 × 7 ?",
+   "c": [
+    "36",
+    "48",
+    "42",
+    "49"
+   ]
+  },
+  "en": {
+   "q": "What is 6 × 7?",
+   "c": [
+    "36",
+    "48",
+    "42",
+    "49"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي 6 × 7؟",
+   "c": [
+    "36",
+    "48",
+    "42",
+    "49"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 6 × 7?",
+   "c": [
+    "36",
+    "48",
+    "42",
+    "49"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 6 × 7?",
+   "c": [
+    "36",
+    "48",
+    "42",
+    "49"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Combien font 9 × 4 ?",
+   "c": [
+    "36",
+    "32",
+    "45",
+    "40"
+   ]
+  },
+  "en": {
+   "q": "What is 9 × 4?",
+   "c": [
+    "36",
+    "32",
+    "45",
+    "40"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي 9 × 4؟",
+   "c": [
+    "36",
+    "32",
+    "45",
+    "40"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 9 × 4?",
+   "c": [
+    "36",
+    "32",
+    "45",
+    "40"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 9 × 4?",
+   "c": [
+    "36",
+    "32",
+    "45",
+    "40"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Combien font 56 ÷ 7 ?",
+   "c": [
+    "7",
+    "6",
+    "8",
+    "9"
+   ]
+  },
+  "en": {
+   "q": "What is 56 ÷ 7?",
+   "c": [
+    "7",
+    "6",
+    "8",
+    "9"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي 56 ÷ 7؟",
+   "c": [
+    "7",
+    "6",
+    "8",
+    "9"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 56 ÷ 7?",
+   "c": [
+    "7",
+    "6",
+    "8",
+    "9"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 56 ÷ 7?",
+   "c": [
+    "7",
+    "6",
+    "8",
+    "9"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Combien font 72 ÷ 8 ?",
+   "c": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "en": {
+   "q": "What is 72 ÷ 8?",
+   "c": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي 72 ÷ 8؟",
+   "c": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 72 ÷ 8?",
+   "c": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 72 ÷ 8?",
+   "c": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Tu paies avec un billet de 10 € un objet qui coûte 6 €. Combien te rend-on ?",
+   "c": [
+    "5",
+    "4",
+    "3",
+    "6"
+   ]
+  },
+  "en": {
+   "q": "You pay with a 10 € note for an item that costs 6 €. How much change do you get?",
+   "c": [
+    "5",
+    "4",
+    "3",
+    "6"
+   ]
+  },
+  "ar": {
+   "q": "تدفع ورقة من فئة 10 € ثمن غرض سعره 6 €. كم يعيدون لك؟",
+   "c": [
+    "5",
+    "4",
+    "3",
+    "6"
+   ]
+  },
+  "es": {
+   "q": "Pagas con un billete de 10 € un objeto que cuesta 6 €. ¿Cuánto te devuelven?",
+   "c": [
+    "5",
+    "4",
+    "3",
+    "6"
+   ]
+  },
+  "pt": {
+   "q": "Você paga com uma nota de 10 € um objeto que custa 6 €. Quanto recebe de troco?",
+   "c": [
+    "5",
+    "4",
+    "3",
+    "6"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Tu paies 20 dinars pour un objet à 13 dinars. Combien te rend-on ?",
+   "c": [
+    "7",
+    "17",
+    "8",
+    "6"
+   ]
+  },
+  "en": {
+   "q": "You pay 20 dinars for an item that costs 13 dinars. How much change do you get?",
+   "c": [
+    "7",
+    "17",
+    "8",
+    "6"
+   ]
+  },
+  "ar": {
+   "q": "تدفع 20 دينارًا ثمن غرض سعره 13 دينارًا. كم يعيدون لك؟",
+   "c": [
+    "7",
+    "17",
+    "8",
+    "6"
+   ]
+  },
+  "es": {
+   "q": "Pagas 20 dinares por un objeto de 13 dinares. ¿Cuánto te devuelven?",
+   "c": [
+    "7",
+    "17",
+    "8",
+    "6"
+   ]
+  },
+  "pt": {
+   "q": "Você paga 20 dinares por um objeto de 13 dinares. Quanto recebe de troco?",
+   "c": [
+    "7",
+    "17",
+    "8",
+    "6"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Combien de minutes y a-t-il dans 3 heures ?",
+   "c": [
+    "360",
+    "180",
+    "120",
+    "160"
+   ]
+  },
+  "en": {
+   "q": "How many minutes are there in 3 hours?",
+   "c": [
+    "360",
+    "180",
+    "120",
+    "160"
+   ]
+  },
+  "ar": {
+   "q": "كم دقيقة في 3 ساعات؟",
+   "c": [
+    "360",
+    "180",
+    "120",
+    "160"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos minutos hay en 3 horas?",
+   "c": [
+    "360",
+    "180",
+    "120",
+    "160"
+   ]
+  },
+  "pt": {
+   "q": "Quantos minutos há em 3 horas?",
+   "c": [
+    "360",
+    "180",
+    "120",
+    "160"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Il est 14:00. Quelle heure sera-t-il dans 3 heures ?",
+   "c": [
+    "16:00",
+    "11:00",
+    "18:00",
+    "17:00"
+   ]
+  },
+  "en": {
+   "q": "It is 14:00. What time will it be in 3 hours?",
+   "c": [
+    "16:00",
+    "11:00",
+    "18:00",
+    "17:00"
+   ]
+  },
+  "ar": {
+   "q": "الساعة الآن 14:00. كم ستكون الساعة بعد 3 ساعات؟",
+   "c": [
+    "16:00",
+    "11:00",
+    "18:00",
+    "17:00"
+   ]
+  },
+  "es": {
+   "q": "Son las 14:00. ¿Qué hora será dentro de 3 horas?",
+   "c": [
+    "16:00",
+    "11:00",
+    "18:00",
+    "17:00"
+   ]
+  },
+  "pt": {
+   "q": "São 14:00. Que horas serão daqui a 3 horas?",
+   "c": [
+    "16:00",
+    "11:00",
+    "18:00",
+    "17:00"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel est le périmètre d'un triangle équilatéral de 6 cm de côté ?",
+   "c": [
+    "18",
+    "12",
+    "24",
+    "36"
+   ]
+  },
+  "en": {
+   "q": "What is the perimeter of an equilateral triangle with 6 cm sides?",
+   "c": [
+    "18",
+    "12",
+    "24",
+    "36"
+   ]
+  },
+  "ar": {
+   "q": "ما محيط مثلث متساوي الأضلاع طول ضلعه 6 سم؟",
+   "c": [
+    "18",
+    "12",
+    "24",
+    "36"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el perímetro de un triángulo equilátero de 6 cm de lado?",
+   "c": [
+    "18",
+    "12",
+    "24",
+    "36"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o perímetro de um triângulo equilátero de 6 cm de lado?",
+   "c": [
+    "18",
+    "12",
+    "24",
+    "36"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel nombre complète la suite : 5, 10, 15, 20, ... ?",
+   "c": [
+    "30",
+    "22",
+    "24",
+    "25"
+   ]
+  },
+  "en": {
+   "q": "Which number completes the sequence: 5, 10, 15, 20, ...?",
+   "c": [
+    "30",
+    "22",
+    "24",
+    "25"
+   ]
+  },
+  "ar": {
+   "q": "ما العدد الذي يكمل المتتالية: 5، 10، 15، 20، ...؟",
+   "c": [
+    "30",
+    "22",
+    "24",
+    "25"
+   ]
+  },
+  "es": {
+   "q": "¿Qué número completa la serie: 5, 10, 15, 20, ...?",
+   "c": [
+    "30",
+    "22",
+    "24",
+    "25"
+   ]
+  },
+  "pt": {
+   "q": "Que número completa a sequência: 5, 10, 15, 20, ...?",
+   "c": [
+    "30",
+    "22",
+    "24",
+    "25"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel nombre complète la suite : 12, 14, 16, 18, ... ?",
+   "c": [
+    "19",
+    "24",
+    "22",
+    "20"
+   ]
+  },
+  "en": {
+   "q": "Which number completes the sequence: 12, 14, 16, 18, ...?",
+   "c": [
+    "19",
+    "24",
+    "22",
+    "20"
+   ]
+  },
+  "ar": {
+   "q": "ما العدد الذي يكمل المتتالية: 12، 14، 16، 18، ...؟",
+   "c": [
+    "19",
+    "24",
+    "22",
+    "20"
+   ]
+  },
+  "es": {
+   "q": "¿Qué número completa la serie: 12, 14, 16, 18, ...?",
+   "c": [
+    "19",
+    "24",
+    "22",
+    "20"
+   ]
+  },
+  "pt": {
+   "q": "Que número completa a sequência: 12, 14, 16, 18, ...?",
+   "c": [
+    "19",
+    "24",
+    "22",
+    "20"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Combien font 8 × 5 ?",
+   "c": [
+    "35",
+    "40",
+    "48",
+    "45"
+   ]
+  },
+  "en": {
+   "q": "What is 8 × 5?",
+   "c": [
+    "35",
+    "40",
+    "48",
+    "45"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي 8 × 5؟",
+   "c": [
+    "35",
+    "40",
+    "48",
+    "45"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 8 × 5?",
+   "c": [
+    "35",
+    "40",
+    "48",
+    "45"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 8 × 5?",
+   "c": [
+    "35",
+    "40",
+    "48",
+    "45"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Il y a 3 paquets de 6 biscuits. Combien de biscuits y a-t-il en tout ?",
+   "c": [
+    "18",
+    "24",
+    "15",
+    "9"
+   ]
+  },
+  "en": {
+   "q": "There are 3 packs of 6 biscuits. How many biscuits are there in total?",
+   "c": [
+    "18",
+    "24",
+    "15",
+    "9"
+   ]
+  },
+  "ar": {
+   "q": "هناك 3 علب في كل علبة 6 بسكويتات. كم بسكويتة في المجموع؟",
+   "c": [
+    "18",
+    "24",
+    "15",
+    "9"
+   ]
+  },
+  "es": {
+   "q": "Hay 3 paquetes de 6 galletas. ¿Cuántas galletas hay en total?",
+   "c": [
+    "18",
+    "24",
+    "15",
+    "9"
+   ]
+  },
+  "pt": {
+   "q": "Há 3 pacotes de 6 biscoitos. Quantos biscoitos há ao todo?",
+   "c": [
+    "18",
+    "24",
+    "15",
+    "9"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Combien de jours y a-t-il dans 2 semaines ?",
+   "c": [
+    "14",
+    "21",
+    "15",
+    "12"
+   ]
+  },
+  "en": {
+   "q": "How many days are there in 2 weeks?",
+   "c": [
+    "14",
+    "21",
+    "15",
+    "12"
+   ]
+  },
+  "ar": {
+   "q": "كم يومًا في أسبوعين؟",
+   "c": [
+    "14",
+    "21",
+    "15",
+    "12"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos días hay en 2 semanas?",
+   "c": [
+    "14",
+    "21",
+    "15",
+    "12"
+   ]
+  },
+  "pt": {
+   "q": "Quantos dias há em 2 semanas?",
+   "c": [
+    "14",
+    "21",
+    "15",
+    "12"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Combien font 100 - 37 ?",
+   "c": [
+    "63",
+    "73",
+    "57",
+    "67"
+   ]
+  },
+  "en": {
+   "q": "What is 100 - 37?",
+   "c": [
+    "63",
+    "73",
+    "57",
+    "67"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي 100 - 37؟",
+   "c": [
+    "63",
+    "73",
+    "57",
+    "67"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 100 - 37?",
+   "c": [
+    "63",
+    "73",
+    "57",
+    "67"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 100 - 37?",
+   "c": [
+    "63",
+    "73",
+    "57",
+    "67"
+   ]
+  },
+  "a": 0,
   "image": null,
   "level": 2
  },
@@ -1651,6 +2851,756 @@
  },
  {
   "fr": {
+   "q": "Un cahier coûte 3 €. Combien coûtent 4 cahiers ?",
+   "c": [
+    "15",
+    "10",
+    "12",
+    "7"
+   ]
+  },
+  "en": {
+   "q": "A notebook costs 3 €. How much do 4 notebooks cost?",
+   "c": [
+    "15",
+    "10",
+    "12",
+    "7"
+   ]
+  },
+  "ar": {
+   "q": "ثمن الدفتر الواحد 3 €. كم ثمن 4 دفاتر؟",
+   "c": [
+    "15",
+    "10",
+    "12",
+    "7"
+   ]
+  },
+  "es": {
+   "q": "Un cuaderno cuesta 3 €. ¿Cuánto cuestan 4 cuadernos?",
+   "c": [
+    "15",
+    "10",
+    "12",
+    "7"
+   ]
+  },
+  "pt": {
+   "q": "Um caderno custa 3 €. Quanto custam 4 cadernos?",
+   "c": [
+    "15",
+    "10",
+    "12",
+    "7"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "On partage 20 bonbons entre 4 enfants. Combien de bonbons chacun reçoit-il ?",
+   "c": [
+    "16",
+    "6",
+    "5",
+    "4"
+   ]
+  },
+  "en": {
+   "q": "20 sweets are shared among 4 children. How many does each child get?",
+   "c": [
+    "16",
+    "6",
+    "5",
+    "4"
+   ]
+  },
+  "ar": {
+   "q": "يُقسَّم 20 حلوى بين 4 أطفال. كم حلوى يأخذ كل طفل؟",
+   "c": [
+    "16",
+    "6",
+    "5",
+    "4"
+   ]
+  },
+  "es": {
+   "q": "Se reparten 20 caramelos entre 4 niños. ¿Cuántos recibe cada uno?",
+   "c": [
+    "16",
+    "6",
+    "5",
+    "4"
+   ]
+  },
+  "pt": {
+   "q": "Repartem-se 20 doces entre 4 crianças. Quantos recebe cada uma?",
+   "c": [
+    "16",
+    "6",
+    "5",
+    "4"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Combien font 1/4 de 40 ?",
+   "c": [
+    "8",
+    "4",
+    "20",
+    "10"
+   ]
+  },
+  "en": {
+   "q": "What is 1/4 of 40?",
+   "c": [
+    "8",
+    "4",
+    "20",
+    "10"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي ربع العدد 40؟",
+   "c": [
+    "8",
+    "4",
+    "20",
+    "10"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 1/4 de 40?",
+   "c": [
+    "8",
+    "4",
+    "20",
+    "10"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 1/4 de 40?",
+   "c": [
+    "8",
+    "4",
+    "20",
+    "10"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Combien font 1/2 de 86 ?",
+   "c": [
+    "44",
+    "172",
+    "43",
+    "42"
+   ]
+  },
+  "en": {
+   "q": "What is 1/2 of 86?",
+   "c": [
+    "44",
+    "172",
+    "43",
+    "42"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي نصف العدد 86؟",
+   "c": [
+    "44",
+    "172",
+    "43",
+    "42"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 1/2 de 86?",
+   "c": [
+    "44",
+    "172",
+    "43",
+    "42"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 1/2 de 86?",
+   "c": [
+    "44",
+    "172",
+    "43",
+    "42"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Combien font 10 % de 300 ?",
+   "c": [
+    "100",
+    "3",
+    "30",
+    "300"
+   ]
+  },
+  "en": {
+   "q": "What is 10% of 300?",
+   "c": [
+    "100",
+    "3",
+    "30",
+    "300"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي 10 % من 300؟",
+   "c": [
+    "100",
+    "3",
+    "30",
+    "300"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es el 10 % de 300?",
+   "c": [
+    "100",
+    "3",
+    "30",
+    "300"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 10% de 300?",
+   "c": [
+    "100",
+    "3",
+    "30",
+    "300"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Combien font 50 % de 80 ?",
+   "c": [
+    "160",
+    "50",
+    "40",
+    "8"
+   ]
+  },
+  "en": {
+   "q": "What is 50% of 80?",
+   "c": [
+    "160",
+    "50",
+    "40",
+    "8"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي 50 % من 80؟",
+   "c": [
+    "160",
+    "50",
+    "40",
+    "8"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es el 50 % de 80?",
+   "c": [
+    "160",
+    "50",
+    "40",
+    "8"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 50% de 80?",
+   "c": [
+    "160",
+    "50",
+    "40",
+    "8"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle est l'aire d'un rectangle de 5 m sur 3 m ?",
+   "c": [
+    "25",
+    "15",
+    "8",
+    "16"
+   ]
+  },
+  "en": {
+   "q": "What is the area of a rectangle measuring 5 m by 3 m?",
+   "c": [
+    "25",
+    "15",
+    "8",
+    "16"
+   ]
+  },
+  "ar": {
+   "q": "ما مساحة مستطيل أبعاده 5 م و 3 م؟",
+   "c": [
+    "25",
+    "15",
+    "8",
+    "16"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el área de un rectángulo de 5 m por 3 m?",
+   "c": [
+    "25",
+    "15",
+    "8",
+    "16"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a área de um retângulo de 5 m por 3 m?",
+   "c": [
+    "25",
+    "15",
+    "8",
+    "16"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle est l'aire d'un carré de 6 cm de côté ?",
+   "c": [
+    "36",
+    "24",
+    "12",
+    "42"
+   ]
+  },
+  "en": {
+   "q": "What is the area of a square with 6 cm sides?",
+   "c": [
+    "36",
+    "24",
+    "12",
+    "42"
+   ]
+  },
+  "ar": {
+   "q": "ما مساحة مربع طول ضلعه 6 سم؟",
+   "c": [
+    "36",
+    "24",
+    "12",
+    "42"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el área de un cuadrado de 6 cm de lado?",
+   "c": [
+    "36",
+    "24",
+    "12",
+    "42"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a área de um quadrado de 6 cm de lado?",
+   "c": [
+    "36",
+    "24",
+    "12",
+    "42"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel nombre complète la suite : 1, 2, 4, 8, ... ?",
+   "c": [
+    "10",
+    "14",
+    "12",
+    "16"
+   ]
+  },
+  "en": {
+   "q": "Which number completes the sequence: 1, 2, 4, 8, ...?",
+   "c": [
+    "10",
+    "14",
+    "12",
+    "16"
+   ]
+  },
+  "ar": {
+   "q": "ما العدد الذي يكمل المتتالية: 1، 2، 4، 8، ...؟",
+   "c": [
+    "10",
+    "14",
+    "12",
+    "16"
+   ]
+  },
+  "es": {
+   "q": "¿Qué número completa la serie: 1, 2, 4, 8, ...?",
+   "c": [
+    "10",
+    "14",
+    "12",
+    "16"
+   ]
+  },
+  "pt": {
+   "q": "Que número completa a sequência: 1, 2, 4, 8, ...?",
+   "c": [
+    "10",
+    "14",
+    "12",
+    "16"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel nombre complète la suite : 3, 6, 9, 12, ... ?",
+   "c": [
+    "14",
+    "15",
+    "16",
+    "18"
+   ]
+  },
+  "en": {
+   "q": "Which number completes the sequence: 3, 6, 9, 12, ...?",
+   "c": [
+    "14",
+    "15",
+    "16",
+    "18"
+   ]
+  },
+  "ar": {
+   "q": "ما العدد الذي يكمل المتتالية: 3، 6، 9، 12، ...؟",
+   "c": [
+    "14",
+    "15",
+    "16",
+    "18"
+   ]
+  },
+  "es": {
+   "q": "¿Qué número completa la serie: 3, 6, 9, 12, ...?",
+   "c": [
+    "14",
+    "15",
+    "16",
+    "18"
+   ]
+  },
+  "pt": {
+   "q": "Que número completa a sequência: 3, 6, 9, 12, ...?",
+   "c": [
+    "14",
+    "15",
+    "16",
+    "18"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Un livre coûte 12 €. Combien coûtent 2 livres ?",
+   "c": [
+    "24",
+    "14",
+    "10",
+    "36"
+   ]
+  },
+  "en": {
+   "q": "A book costs 12 €. How much do 2 books cost?",
+   "c": [
+    "24",
+    "14",
+    "10",
+    "36"
+   ]
+  },
+  "ar": {
+   "q": "ثمن الكتاب الواحد 12 €. كم ثمن كتابين؟",
+   "c": [
+    "24",
+    "14",
+    "10",
+    "36"
+   ]
+  },
+  "es": {
+   "q": "Un libro cuesta 12 €. ¿Cuánto cuestan 2 libros?",
+   "c": [
+    "24",
+    "14",
+    "10",
+    "36"
+   ]
+  },
+  "pt": {
+   "q": "Um livro custa 12 €. Quanto custam 2 livros?",
+   "c": [
+    "24",
+    "14",
+    "10",
+    "36"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Une pizza est coupée en 8 parts. Tu manges 1/4 de la pizza. Combien de parts as-tu mangées ?",
+   "c": [
+    "1",
+    "2",
+    "6",
+    "4"
+   ]
+  },
+  "en": {
+   "q": "A pizza is cut into 8 slices. You eat 1/4 of the pizza. How many slices did you eat?",
+   "c": [
+    "1",
+    "2",
+    "6",
+    "4"
+   ]
+  },
+  "ar": {
+   "q": "قُطعت بيتزا إلى 8 قطع. أكلت ربع البيتزا. كم قطعة أكلت؟",
+   "c": [
+    "1",
+    "2",
+    "6",
+    "4"
+   ]
+  },
+  "es": {
+   "q": "Una pizza se corta en 8 porciones. Te comes 1/4 de la pizza. ¿Cuántas porciones comiste?",
+   "c": [
+    "1",
+    "2",
+    "6",
+    "4"
+   ]
+  },
+  "pt": {
+   "q": "Uma pizza é cortada em 8 fatias. Você come 1/4 da pizza. Quantas fatias comeu?",
+   "c": [
+    "1",
+    "2",
+    "6",
+    "4"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "24 élèves s'installent à 6 par table. Combien de tables faut-il ?",
+   "c": [
+    "5",
+    "18",
+    "3",
+    "4"
+   ]
+  },
+  "en": {
+   "q": "24 pupils sit 6 to a table. How many tables are needed?",
+   "c": [
+    "5",
+    "18",
+    "3",
+    "4"
+   ]
+  },
+  "ar": {
+   "q": "يجلس 24 تلميذًا، 6 تلاميذ في كل طاولة. كم طاولة نحتاج؟",
+   "c": [
+    "5",
+    "18",
+    "3",
+    "4"
+   ]
+  },
+  "es": {
+   "q": "24 alumnos se sientan de 6 en 6 por mesa. ¿Cuántas mesas hacen falta?",
+   "c": [
+    "5",
+    "18",
+    "3",
+    "4"
+   ]
+  },
+  "pt": {
+   "q": "24 alunos sentam-se 6 por mesa. Quantas mesas são necessárias?",
+   "c": [
+    "5",
+    "18",
+    "3",
+    "4"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Sara lit 5 pages par jour pendant 6 jours. Combien de pages lit-elle en tout ?",
+   "c": [
+    "25",
+    "11",
+    "36",
+    "30"
+   ]
+  },
+  "en": {
+   "q": "Sara reads 5 pages a day for 6 days. How many pages does she read in total?",
+   "c": [
+    "25",
+    "11",
+    "36",
+    "30"
+   ]
+  },
+  "ar": {
+   "q": "تقرأ سارة 5 صفحات في اليوم لمدة 6 أيام. كم صفحة تقرأ في المجموع؟",
+   "c": [
+    "25",
+    "11",
+    "36",
+    "30"
+   ]
+  },
+  "es": {
+   "q": "Sara lee 5 páginas al día durante 6 días. ¿Cuántas páginas lee en total?",
+   "c": [
+    "25",
+    "11",
+    "36",
+    "30"
+   ]
+  },
+  "pt": {
+   "q": "Sara lê 5 páginas por dia durante 6 dias. Quantas páginas lê ao todo?",
+   "c": [
+    "25",
+    "11",
+    "36",
+    "30"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Combien font 50 % de 120 ?",
+   "c": [
+    "240",
+    "60",
+    "12",
+    "70"
+   ]
+  },
+  "en": {
+   "q": "What is 50% of 120?",
+   "c": [
+    "240",
+    "60",
+    "12",
+    "70"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي 50 % من 120؟",
+   "c": [
+    "240",
+    "60",
+    "12",
+    "70"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es el 50 % de 120?",
+   "c": [
+    "240",
+    "60",
+    "12",
+    "70"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 50% de 120?",
+   "c": [
+    "240",
+    "60",
+    "12",
+    "70"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
    "q": "Combien font 2 puissance 10 ?",
    "c": [
     "512",
@@ -2146,6 +4096,506 @@
    ]
   },
   "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Tu achètes 3 stylos à 2 € et un cahier à 5 €. Combien paies-tu en tout ?",
+   "c": [
+    "7",
+    "11",
+    "21",
+    "10"
+   ]
+  },
+  "en": {
+   "q": "You buy 3 pens at 2 € each and a notebook at 5 €. How much do you pay in total?",
+   "c": [
+    "7",
+    "11",
+    "21",
+    "10"
+   ]
+  },
+  "ar": {
+   "q": "تشتري 3 أقلام بسعر 2 € للقلم ودفترًا بسعر 5 €. كم تدفع في المجموع؟",
+   "c": [
+    "7",
+    "11",
+    "21",
+    "10"
+   ]
+  },
+  "es": {
+   "q": "Compras 3 bolígrafos a 2 € y un cuaderno a 5 €. ¿Cuánto pagas en total?",
+   "c": [
+    "7",
+    "11",
+    "21",
+    "10"
+   ]
+  },
+  "pt": {
+   "q": "Você compra 3 canetas a 2 € e um caderno a 5 €. Quanto paga ao todo?",
+   "c": [
+    "7",
+    "11",
+    "21",
+    "10"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Combien font 25 % de 80 ?",
+   "c": [
+    "8",
+    "40",
+    "25",
+    "20"
+   ]
+  },
+  "en": {
+   "q": "What is 25% of 80?",
+   "c": [
+    "8",
+    "40",
+    "25",
+    "20"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي 25 % من 80؟",
+   "c": [
+    "8",
+    "40",
+    "25",
+    "20"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es el 25 % de 80?",
+   "c": [
+    "8",
+    "40",
+    "25",
+    "20"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 25% de 80?",
+   "c": [
+    "8",
+    "40",
+    "25",
+    "20"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Combien font 20 % de 150 ?",
+   "c": [
+    "75",
+    "20",
+    "30",
+    "15"
+   ]
+  },
+  "en": {
+   "q": "What is 20% of 150?",
+   "c": [
+    "75",
+    "20",
+    "30",
+    "15"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي 20 % من 150؟",
+   "c": [
+    "75",
+    "20",
+    "30",
+    "15"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es el 20 % de 150?",
+   "c": [
+    "75",
+    "20",
+    "30",
+    "15"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 20% de 150?",
+   "c": [
+    "75",
+    "20",
+    "30",
+    "15"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle est la moyenne de 4, 8 et 12 ?",
+   "c": [
+    "8",
+    "6",
+    "24",
+    "12"
+   ]
+  },
+  "en": {
+   "q": "What is the average of 4, 8 and 12?",
+   "c": [
+    "8",
+    "6",
+    "24",
+    "12"
+   ]
+  },
+  "ar": {
+   "q": "ما متوسط الأعداد 4 و 8 و 12؟",
+   "c": [
+    "8",
+    "6",
+    "24",
+    "12"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el promedio de 4, 8 y 12?",
+   "c": [
+    "8",
+    "6",
+    "24",
+    "12"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a média de 4, 8 e 12?",
+   "c": [
+    "8",
+    "6",
+    "24",
+    "12"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle est la moyenne de 10 et 16 ?",
+   "c": [
+    "12",
+    "13",
+    "14",
+    "26"
+   ]
+  },
+  "en": {
+   "q": "What is the average of 10 and 16?",
+   "c": [
+    "12",
+    "13",
+    "14",
+    "26"
+   ]
+  },
+  "ar": {
+   "q": "ما متوسط العددين 10 و 16؟",
+   "c": [
+    "12",
+    "13",
+    "14",
+    "26"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el promedio de 10 y 16?",
+   "c": [
+    "12",
+    "13",
+    "14",
+    "26"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a média de 10 e 16?",
+   "c": [
+    "12",
+    "13",
+    "14",
+    "26"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Une voiture roule à 60 km/h pendant 3 heures. Quelle distance parcourt-elle en km ?",
+   "c": [
+    "180",
+    "20",
+    "63",
+    "120"
+   ]
+  },
+  "en": {
+   "q": "A car drives at 60 km/h for 3 hours. How far does it travel, in km?",
+   "c": [
+    "180",
+    "20",
+    "63",
+    "120"
+   ]
+  },
+  "ar": {
+   "q": "تسير سيارة بسرعة 60 كم/س لمدة 3 ساعات. كم كيلومترًا تقطع؟",
+   "c": [
+    "180",
+    "20",
+    "63",
+    "120"
+   ]
+  },
+  "es": {
+   "q": "Un coche circula a 60 km/h durante 3 horas. ¿Qué distancia recorre, en km?",
+   "c": [
+    "180",
+    "20",
+    "63",
+    "120"
+   ]
+  },
+  "pt": {
+   "q": "Um carro anda a 60 km/h durante 3 horas. Que distância percorre, em km?",
+   "c": [
+    "180",
+    "20",
+    "63",
+    "120"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Un cycliste parcourt 100 km en 2 heures. Quelle est sa vitesse en km/h ?",
+   "c": [
+    "98",
+    "50",
+    "200",
+    "25"
+   ]
+  },
+  "en": {
+   "q": "A cyclist rides 100 km in 2 hours. What is the speed in km/h?",
+   "c": [
+    "98",
+    "50",
+    "200",
+    "25"
+   ]
+  },
+  "ar": {
+   "q": "يقطع دراج 100 كم في ساعتين. ما سرعته بالكيلومتر في الساعة؟",
+   "c": [
+    "98",
+    "50",
+    "200",
+    "25"
+   ]
+  },
+  "es": {
+   "q": "Un ciclista recorre 100 km en 2 horas. ¿Cuál es su velocidad en km/h?",
+   "c": [
+    "98",
+    "50",
+    "200",
+    "25"
+   ]
+  },
+  "pt": {
+   "q": "Um ciclista percorre 100 km em 2 horas. Qual é a velocidade em km/h?",
+   "c": [
+    "98",
+    "50",
+    "200",
+    "25"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Combien font 4 + 3 × 5 ?",
+   "c": [
+    "19",
+    "35",
+    "12",
+    "27"
+   ]
+  },
+  "en": {
+   "q": "What is 4 + 3 × 5?",
+   "c": [
+    "19",
+    "35",
+    "12",
+    "27"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي 4 + 3 × 5؟",
+   "c": [
+    "19",
+    "35",
+    "12",
+    "27"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 4 + 3 × 5?",
+   "c": [
+    "19",
+    "35",
+    "12",
+    "27"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 4 + 3 × 5?",
+   "c": [
+    "19",
+    "35",
+    "12",
+    "27"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Combien font 2 × (3 + 4) ?",
+   "c": [
+    "10",
+    "24",
+    "14",
+    "9"
+   ]
+  },
+  "en": {
+   "q": "What is 2 × (3 + 4)?",
+   "c": [
+    "10",
+    "24",
+    "14",
+    "9"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي 2 × (3 + 4)؟",
+   "c": [
+    "10",
+    "24",
+    "14",
+    "9"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 2 × (3 + 4)?",
+   "c": [
+    "10",
+    "24",
+    "14",
+    "9"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 2 × (3 + 4)?",
+   "c": [
+    "10",
+    "24",
+    "14",
+    "9"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Lina a 50 €. Elle dépense 18 € puis 12 €. Combien lui reste-t-il ?",
+   "c": [
+    "80",
+    "32",
+    "20",
+    "30"
+   ]
+  },
+  "en": {
+   "q": "Lina has 50 €. She spends 18 € and then 12 €. How much does she have left?",
+   "c": [
+    "80",
+    "32",
+    "20",
+    "30"
+   ]
+  },
+  "ar": {
+   "q": "لدى لينا 50 €. أنفقت 18 € ثم 12 €. كم بقي لديها؟",
+   "c": [
+    "80",
+    "32",
+    "20",
+    "30"
+   ]
+  },
+  "es": {
+   "q": "Lina tiene 50 €. Gasta 18 € y luego 12 €. ¿Cuánto le queda?",
+   "c": [
+    "80",
+    "32",
+    "20",
+    "30"
+   ]
+  },
+  "pt": {
+   "q": "Lina tem 50 €. Ela gasta 18 € e depois 12 €. Quanto lhe resta?",
+   "c": [
+    "80",
+    "32",
+    "20",
+    "30"
+   ]
+  },
+  "a": 2,
   "image": null,
   "level": 4
  },
@@ -2694,6 +5144,456 @@
     "7",
     "8",
     "9"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Si x + 7 = 15, quelle est la valeur de x ?",
+   "c": [
+    "22",
+    "8",
+    "7",
+    "9"
+   ]
+  },
+  "en": {
+   "q": "If x + 7 = 15, what is the value of x?",
+   "c": [
+    "22",
+    "8",
+    "7",
+    "9"
+   ]
+  },
+  "ar": {
+   "q": "إذا كان x + 7 = 15، فما قيمة x؟",
+   "c": [
+    "22",
+    "8",
+    "7",
+    "9"
+   ]
+  },
+  "es": {
+   "q": "Si x + 7 = 15, ¿cuál es el valor de x?",
+   "c": [
+    "22",
+    "8",
+    "7",
+    "9"
+   ]
+  },
+  "pt": {
+   "q": "Se x + 7 = 15, qual é o valor de x?",
+   "c": [
+    "22",
+    "8",
+    "7",
+    "9"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Si 2x = 18, quelle est la valeur de x ?",
+   "c": [
+    "36",
+    "16",
+    "20",
+    "9"
+   ]
+  },
+  "en": {
+   "q": "If 2x = 18, what is the value of x?",
+   "c": [
+    "36",
+    "16",
+    "20",
+    "9"
+   ]
+  },
+  "ar": {
+   "q": "إذا كان 2x = 18، فما قيمة x؟",
+   "c": [
+    "36",
+    "16",
+    "20",
+    "9"
+   ]
+  },
+  "es": {
+   "q": "Si 2x = 18, ¿cuál es el valor de x?",
+   "c": [
+    "36",
+    "16",
+    "20",
+    "9"
+   ]
+  },
+  "pt": {
+   "q": "Se 2x = 18, qual é o valor de x?",
+   "c": [
+    "36",
+    "16",
+    "20",
+    "9"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Combien font 2 puissance 6 ?",
+   "c": [
+    "32",
+    "12",
+    "64",
+    "128"
+   ]
+  },
+  "en": {
+   "q": "What is 2 to the power of 6?",
+   "c": [
+    "32",
+    "12",
+    "64",
+    "128"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي 2 أس 6؟",
+   "c": [
+    "32",
+    "12",
+    "64",
+    "128"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 2 elevado a la 6?",
+   "c": [
+    "32",
+    "12",
+    "64",
+    "128"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 2 elevado a 6?",
+   "c": [
+    "32",
+    "12",
+    "64",
+    "128"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Combien font 12 au carré (12²) ?",
+   "c": [
+    "24",
+    "148",
+    "122",
+    "144"
+   ]
+  },
+  "en": {
+   "q": "What is 12 squared (12²)?",
+   "c": [
+    "24",
+    "148",
+    "122",
+    "144"
+   ]
+  },
+  "ar": {
+   "q": "كم يساوي 12 تربيع (12²)؟",
+   "c": [
+    "24",
+    "148",
+    "122",
+    "144"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 12 al cuadrado (12²)?",
+   "c": [
+    "24",
+    "148",
+    "122",
+    "144"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 12 ao quadrado (12²)?",
+   "c": [
+    "24",
+    "148",
+    "122",
+    "144"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel est le PGCD de 8 et 12 ?",
+   "c": [
+    "4",
+    "6",
+    "2",
+    "24"
+   ]
+  },
+  "en": {
+   "q": "What is the greatest common divisor of 8 and 12?",
+   "c": [
+    "4",
+    "6",
+    "2",
+    "24"
+   ]
+  },
+  "ar": {
+   "q": "ما القاسم المشترك الأكبر للعددين 8 و 12؟",
+   "c": [
+    "4",
+    "6",
+    "2",
+    "24"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el máximo común divisor de 8 y 12?",
+   "c": [
+    "4",
+    "6",
+    "2",
+    "24"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o máximo divisor comum de 8 e 12?",
+   "c": [
+    "4",
+    "6",
+    "2",
+    "24"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus petit multiple commun de 3 et 5 ?",
+   "c": [
+    "30",
+    "8",
+    "15",
+    "45"
+   ]
+  },
+  "en": {
+   "q": "What is the least common multiple of 3 and 5?",
+   "c": [
+    "30",
+    "8",
+    "15",
+    "45"
+   ]
+  },
+  "ar": {
+   "q": "ما المضاعف المشترك الأصغر للعددين 3 و 5؟",
+   "c": [
+    "30",
+    "8",
+    "15",
+    "45"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el mínimo común múltiplo de 3 y 5?",
+   "c": [
+    "30",
+    "8",
+    "15",
+    "45"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o mínimo múltiplo comum de 3 e 5?",
+   "c": [
+    "30",
+    "8",
+    "15",
+    "45"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Un rectangle de largeur 4 cm a un périmètre de 20 cm. Quelle est sa longueur en cm ?",
+   "c": [
+    "6",
+    "10",
+    "16",
+    "5"
+   ]
+  },
+  "en": {
+   "q": "A rectangle 4 cm wide has a perimeter of 20 cm. What is its length in cm?",
+   "c": [
+    "6",
+    "10",
+    "16",
+    "5"
+   ]
+  },
+  "ar": {
+   "q": "مستطيل عرضه 4 سم ومحيطه 20 سم. ما طوله بالسنتيمتر؟",
+   "c": [
+    "6",
+    "10",
+    "16",
+    "5"
+   ]
+  },
+  "es": {
+   "q": "Un rectángulo de 4 cm de ancho tiene un perímetro de 20 cm. ¿Cuánto mide de largo, en cm?",
+   "c": [
+    "6",
+    "10",
+    "16",
+    "5"
+   ]
+  },
+  "pt": {
+   "q": "Um retângulo de 4 cm de largura tem perímetro de 20 cm. Qual é o comprimento, em cm?",
+   "c": [
+    "6",
+    "10",
+    "16",
+    "5"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Tom a 6 billes. Léa en a 2 fois plus que Tom. Combien de billes ont-ils ensemble ?",
+   "c": [
+    "12",
+    "8",
+    "18",
+    "24"
+   ]
+  },
+  "en": {
+   "q": "Tom has 6 marbles. Lea has twice as many as Tom. How many marbles do they have together?",
+   "c": [
+    "12",
+    "8",
+    "18",
+    "24"
+   ]
+  },
+  "ar": {
+   "q": "لدى توم 6 كرات زجاجية، ولدى ليا ضعف ما لدى توم. كم كرة لديهما معًا؟",
+   "c": [
+    "12",
+    "8",
+    "18",
+    "24"
+   ]
+  },
+  "es": {
+   "q": "Tom tiene 6 canicas. Lea tiene el doble que Tom. ¿Cuántas canicas tienen juntos?",
+   "c": [
+    "12",
+    "8",
+    "18",
+    "24"
+   ]
+  },
+  "pt": {
+   "q": "Tom tem 6 bolinhas. Lea tem o dobro de Tom. Quantas bolinhas têm juntos?",
+   "c": [
+    "12",
+    "8",
+    "18",
+    "24"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Je pense à un nombre, je le double, puis j'ajoute 3 : j'obtiens 11. Quel est ce nombre ?",
+   "c": [
+    "14",
+    "4",
+    "7",
+    "8"
+   ]
+  },
+  "en": {
+   "q": "I think of a number, double it, then add 3: I get 11. What is the number?",
+   "c": [
+    "14",
+    "4",
+    "7",
+    "8"
+   ]
+  },
+  "ar": {
+   "q": "فكرت في عدد، ضاعفته ثم أضفت 3 فحصلت على 11. ما هذا العدد؟",
+   "c": [
+    "14",
+    "4",
+    "7",
+    "8"
+   ]
+  },
+  "es": {
+   "q": "Pienso en un número, lo doblo y le sumo 3: obtengo 11. ¿Cuál es el número?",
+   "c": [
+    "14",
+    "4",
+    "7",
+    "8"
+   ]
+  },
+  "pt": {
+   "q": "Penso num número, dobro-o e somo 3: obtenho 11. Qual é o número?",
+   "c": [
+    "14",
+    "4",
+    "7",
+    "8"
    ]
   },
   "a": 1,

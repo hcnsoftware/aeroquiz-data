@@ -403,49 +403,49 @@
   "fr": {
    "q": "Combien de côtés a un triangle ?",
    "c": [
-    "3",
-    "4",
+    "6",
     "5",
-    "6"
+    "3",
+    "4"
    ]
   },
   "en": {
    "q": "How many sides does a triangle have?",
    "c": [
-    "3",
-    "4",
+    "6",
     "5",
-    "6"
+    "3",
+    "4"
    ]
   },
   "ar": {
    "q": "كم عدد أضلع المثلث؟",
    "c": [
-    "3",
-    "4",
+    "6",
     "5",
-    "6"
+    "3",
+    "4"
    ]
   },
   "es": {
    "q": "¿Cuántos lados tiene un triángulo?",
    "c": [
-    "3",
-    "4",
+    "6",
     "5",
-    "6"
+    "3",
+    "4"
    ]
   },
   "pt": {
    "q": "Quantos lados tem um triângulo?",
    "c": [
-    "3",
-    "4",
+    "6",
     "5",
-    "6"
+    "3",
+    "4"
    ]
   },
-  "a": 0,
+  "a": 2,
   "image": null,
   "level": 1
  },
@@ -504,45 +504,45 @@
    "q": "Quelle est la couleur principale d'un panneau d'interdiction (stop ou sens interdit) ?",
    "c": [
     "Le rouge",
-    "Le vert",
+    "Le bleu",
     "Le jaune",
-    "Le bleu"
+    "Le vert"
    ]
   },
   "en": {
    "q": "What is the main color of a prohibition sign (like a stop sign)?",
    "c": [
     "Red",
-    "Green",
+    "Blue",
     "Yellow",
-    "Blue"
+    "Green"
    ]
   },
   "ar": {
    "q": "ما هو اللون الرئيسي لعلامات المرور الخاصة بالمنع (مثل قف)؟",
    "c": [
     "الأحمر",
-    "الأخضر",
+    "الأزرق",
     "الأصفر",
-    "الأزرق"
+    "الأخضر"
    ]
   },
   "es": {
    "q": "¿Cuál es el color principal de una señal de prohibición (como el ceda el paso o stop)?",
    "c": [
     "Rojo",
-    "Verde",
+    "Azul",
     "Amarillo",
-    "Azul"
+    "Verde"
    ]
   },
   "pt": {
    "q": "Qual é a cor principal de um sinal de proibição (como o de pare)?",
    "c": [
     "Vermelho",
-    "Verde",
+    "Azul",
     "Amarelo",
-    "Azul"
+    "Verde"
    ]
   },
   "a": 0,
@@ -791,51 +791,501 @@
  },
  {
   "fr": {
+   "q": "Quel animal fait « ouaf » ?",
+   "c": [
+    "L'oiseau",
+    "Le poisson",
+    "Le chat",
+    "Le chien"
+   ]
+  },
+  "en": {
+   "q": "Which animal says \"woof\"?",
+   "c": [
+    "The bird",
+    "The fish",
+    "The cat",
+    "The dog"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان ينبح؟",
+   "c": [
+    "العصفور",
+    "السمكة",
+    "القطة",
+    "الكلب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal hace «guau»?",
+   "c": [
+    "El pájaro",
+    "El pez",
+    "El gato",
+    "El perro"
+   ]
+  },
+  "pt": {
+   "q": "Que animal faz «au au»?",
+   "c": [
+    "O pássaro",
+    "O peixe",
+    "O gato",
+    "O cão"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "De quelle couleur est une fraise bien mûre ?",
+   "c": [
+    "Bleue",
+    "Rouge",
+    "Verte",
+    "Noire"
+   ]
+  },
+  "en": {
+   "q": "What color is a ripe strawberry?",
+   "c": [
+    "Blue",
+    "Red",
+    "Green",
+    "Black"
+   ]
+  },
+  "ar": {
+   "q": "ما لون الفراولة الناضجة؟",
+   "c": [
+    "أزرق",
+    "أحمر",
+    "أخضر",
+    "أسود"
+   ]
+  },
+  "es": {
+   "q": "¿De qué color es una fresa madura?",
+   "c": [
+    "Azul",
+    "Roja",
+    "Verde",
+    "Negra"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a cor de um morango maduro?",
+   "c": [
+    "Azul",
+    "Vermelho",
+    "Verde",
+    "Preto"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Combien d'yeux as-tu ?",
+   "c": [
+    "2",
+    "4",
+    "1",
+    "3"
+   ]
+  },
+  "en": {
+   "q": "How many eyes do you have?",
+   "c": [
+    "2",
+    "4",
+    "1",
+    "3"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد عينيك؟",
+   "c": [
+    "2",
+    "4",
+    "1",
+    "3"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos ojos tienes?",
+   "c": [
+    "2",
+    "4",
+    "1",
+    "3"
+   ]
+  },
+  "pt": {
+   "q": "Quantos olhos você tem?",
+   "c": [
+    "2",
+    "4",
+    "1",
+    "3"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel jour vient après lundi ?",
+   "c": [
+    "Dimanche",
+    "Jeudi",
+    "Samedi",
+    "Mardi"
+   ]
+  },
+  "en": {
+   "q": "Which day comes after Monday?",
+   "c": [
+    "Sunday",
+    "Thursday",
+    "Saturday",
+    "Tuesday"
+   ]
+  },
+  "ar": {
+   "q": "أي يوم يأتي بعد الإثنين؟",
+   "c": [
+    "الأحد",
+    "الخميس",
+    "السبت",
+    "الثلاثاء"
+   ]
+  },
+  "es": {
+   "q": "¿Qué día viene después del lunes?",
+   "c": [
+    "Domingo",
+    "Jueves",
+    "Sábado",
+    "Martes"
+   ]
+  },
+  "pt": {
+   "q": "Que dia vem depois de segunda-feira?",
+   "c": [
+    "Domingo",
+    "Quinta-feira",
+    "Sábado",
+    "Terça-feira"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel animal fait « meuh » ?",
+   "c": [
+    "Le lion",
+    "La vache",
+    "Le canard",
+    "Le mouton"
+   ]
+  },
+  "en": {
+   "q": "Which animal says \"moo\"?",
+   "c": [
+    "The lion",
+    "The cow",
+    "The duck",
+    "The sheep"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يخور؟",
+   "c": [
+    "الأسد",
+    "البقرة",
+    "البطة",
+    "الخروف"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal hace «muuu»?",
+   "c": [
+    "El león",
+    "La vaca",
+    "El pato",
+    "La oveja"
+   ]
+  },
+  "pt": {
+   "q": "Que animal faz «muuu»?",
+   "c": [
+    "O leão",
+    "A vaca",
+    "O pato",
+    "A ovelha"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Avec quoi écoute-t-on ?",
+   "c": [
+    "Avec les genoux",
+    "Avec les coudes",
+    "Avec les orteils",
+    "Avec les oreilles"
+   ]
+  },
+  "en": {
+   "q": "What do we hear with?",
+   "c": [
+    "Our knees",
+    "Our elbows",
+    "Our toes",
+    "Our ears"
+   ]
+  },
+  "ar": {
+   "q": "بماذا نسمع؟",
+   "c": [
+    "بالركبتين",
+    "بالمرفقين",
+    "بأصابع القدم",
+    "بالأذنين"
+   ]
+  },
+  "es": {
+   "q": "¿Con qué oímos?",
+   "c": [
+    "Con las rodillas",
+    "Con los codos",
+    "Con los dedos del pie",
+    "Con los oídos"
+   ]
+  },
+  "pt": {
+   "q": "Com o que ouvimos?",
+   "c": [
+    "Com os joelhos",
+    "Com os cotovelos",
+    "Com os dedos do pé",
+    "Com as orelhas"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel animal a une trompe ?",
+   "c": [
+    "Le lapin",
+    "Le chat",
+    "Le cheval",
+    "L'éléphant"
+   ]
+  },
+  "en": {
+   "q": "Which animal has a trunk?",
+   "c": [
+    "The rabbit",
+    "The cat",
+    "The horse",
+    "The elephant"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان له خرطوم؟",
+   "c": [
+    "الأرنب",
+    "القطة",
+    "الحصان",
+    "الفيل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal tiene trompa?",
+   "c": [
+    "El conejo",
+    "El gato",
+    "El caballo",
+    "El elefante"
+   ]
+  },
+  "pt": {
+   "q": "Que animal tem tromba?",
+   "c": [
+    "O coelho",
+    "O gato",
+    "O cavalo",
+    "O elefante"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "De quelle couleur est le ciel par beau temps ?",
+   "c": [
+    "Bleu",
+    "Vert",
+    "Noir",
+    "Rouge"
+   ]
+  },
+  "en": {
+   "q": "What color is the sky on a sunny day?",
+   "c": [
+    "Blue",
+    "Green",
+    "Black",
+    "Red"
+   ]
+  },
+  "ar": {
+   "q": "ما لون السماء في يوم مشمس؟",
+   "c": [
+    "أزرق",
+    "أخضر",
+    "أسود",
+    "أحمر"
+   ]
+  },
+  "es": {
+   "q": "¿De qué color es el cielo en un día soleado?",
+   "c": [
+    "Azul",
+    "Verde",
+    "Negro",
+    "Rojo"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a cor do céu num dia de sol?",
+   "c": [
+    "Azul",
+    "Verde",
+    "Preto",
+    "Vermelho"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel animal fait « coin-coin » ?",
+   "c": [
+    "Le chat",
+    "Le lion",
+    "Le chien",
+    "Le canard"
+   ]
+  },
+  "en": {
+   "q": "Which animal says \"quack\"?",
+   "c": [
+    "The cat",
+    "The lion",
+    "The dog",
+    "The duck"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يقول «كواك»؟",
+   "c": [
+    "القطة",
+    "الأسد",
+    "الكلب",
+    "البطة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal hace «cuac»?",
+   "c": [
+    "El gato",
+    "El león",
+    "El perro",
+    "El pato"
+   ]
+  },
+  "pt": {
+   "q": "Que animal faz «quá quá»?",
+   "c": [
+    "O gato",
+    "O leão",
+    "O cão",
+    "O pato"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
    "q": "Quel est le plus long fleuve d'Afrique ?",
    "c": [
-    "Le Nil",
-    "Le Congo",
+    "Le Zambèze",
     "Le Niger",
-    "Le Zambèze"
+    "Le Congo",
+    "Le Nil"
    ]
   },
   "en": {
    "q": "What is the longest river in Africa?",
    "c": [
-    "The Nile",
-    "The Congo",
+    "The Zambezi",
     "The Niger",
-    "The Zambezi"
+    "The Congo",
+    "The Nile"
    ]
   },
   "ar": {
    "q": "ما هو أطول نهر في أفريقيا؟",
    "c": [
-    "نهر النيل",
-    "نهر الكونغو",
+    "نهر زامبيزي",
     "نهر النيجر",
-    "نهر زامبيزي"
+    "نهر الكونغو",
+    "نهر النيل"
    ]
   },
   "es": {
    "q": "¿Cuál es el río más largo de África?",
    "c": [
-    "El Nilo",
-    "El Congo",
+    "El Zambeze",
     "El Níger",
-    "El Zambeze"
+    "El Congo",
+    "El Nilo"
    ]
   },
   "pt": {
    "q": "Qual é o rio mais longo da África?",
    "c": [
-    "O Nilo",
-    "O Congo",
+    "O Zambeze",
     "O Níger",
-    "O Zambeze"
+    "O Congo",
+    "O Nilo"
    ]
   },
-  "a": 0,
+  "a": 3,
   "image": null,
   "level": 2
  },
@@ -1421,6 +1871,606 @@
  },
  {
   "fr": {
+   "q": "Combien de jours y a-t-il dans une semaine ?",
+   "c": [
+    "7",
+    "8",
+    "5",
+    "6"
+   ]
+  },
+  "en": {
+   "q": "How many days are in a week?",
+   "c": [
+    "7",
+    "8",
+    "5",
+    "6"
+   ]
+  },
+  "ar": {
+   "q": "كم يوما في الأسبوع؟",
+   "c": [
+    "7",
+    "8",
+    "5",
+    "6"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos días tiene una semana?",
+   "c": [
+    "7",
+    "8",
+    "5",
+    "6"
+   ]
+  },
+  "pt": {
+   "q": "Quantos dias tem uma semana?",
+   "c": [
+    "7",
+    "8",
+    "5",
+    "6"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel animal nous donne du lait ?",
+   "c": [
+    "Le serpent",
+    "Le lion",
+    "La vache",
+    "Le requin"
+   ]
+  },
+  "en": {
+   "q": "Which animal gives us milk?",
+   "c": [
+    "The snake",
+    "The lion",
+    "The cow",
+    "The shark"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يعطينا الحليب؟",
+   "c": [
+    "الثعبان",
+    "الأسد",
+    "البقرة",
+    "القرش"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal nos da leche?",
+   "c": [
+    "La serpiente",
+    "El león",
+    "La vaca",
+    "El tiburón"
+   ]
+  },
+  "pt": {
+   "q": "Que animal nos dá leite?",
+   "c": [
+    "A cobra",
+    "O leão",
+    "A vaca",
+    "O tubarão"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel est le contraire de « chaud » ?",
+   "c": [
+    "Haut",
+    "Lent",
+    "Froid",
+    "Grand"
+   ]
+  },
+  "en": {
+   "q": "What is the opposite of \"hot\"?",
+   "c": [
+    "High",
+    "Slow",
+    "Cold",
+    "Big"
+   ]
+  },
+  "ar": {
+   "q": "ما عكس «ساخن»؟",
+   "c": [
+    "مرتفع",
+    "بطيء",
+    "بارد",
+    "كبير"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es lo contrario de «caliente»?",
+   "c": [
+    "Alto",
+    "Lento",
+    "Frío",
+    "Grande"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o contrário de «quente»?",
+   "c": [
+    "Alto",
+    "Lento",
+    "Frio",
+    "Grande"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Combien de doigts a une main, pouce compris ?",
+   "c": [
+    "10",
+    "4",
+    "6",
+    "5"
+   ]
+  },
+  "en": {
+   "q": "How many fingers does a hand have, thumb included?",
+   "c": [
+    "10",
+    "4",
+    "6",
+    "5"
+   ]
+  },
+  "ar": {
+   "q": "كم إصبعا في اليد الواحدة مع الإبهام؟",
+   "c": [
+    "10",
+    "4",
+    "6",
+    "5"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos dedos tiene una mano, con el pulgar?",
+   "c": [
+    "10",
+    "4",
+    "6",
+    "5"
+   ]
+  },
+  "pt": {
+   "q": "Quantos dedos tem uma mão, com o polegar?",
+   "c": [
+    "10",
+    "4",
+    "6",
+    "5"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle saison est la plus froide ?",
+   "c": [
+    "L'été",
+    "L'automne",
+    "L'hiver",
+    "Le printemps"
+   ]
+  },
+  "en": {
+   "q": "Which season is the coldest?",
+   "c": [
+    "Summer",
+    "Autumn",
+    "Winter",
+    "Spring"
+   ]
+  },
+  "ar": {
+   "q": "أي فصل هو الأبرد؟",
+   "c": [
+    "الصيف",
+    "الخريف",
+    "الشتاء",
+    "الربيع"
+   ]
+  },
+  "es": {
+   "q": "¿Qué estación es la más fría?",
+   "c": [
+    "El verano",
+    "El otoño",
+    "El invierno",
+    "La primavera"
+   ]
+  },
+  "pt": {
+   "q": "Qual estação é a mais fria?",
+   "c": [
+    "O verão",
+    "O outono",
+    "O inverno",
+    "A primavera"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel animal a des rayures noires et blanches ?",
+   "c": [
+    "L'éléphant",
+    "Le lion",
+    "Le singe",
+    "Le zèbre"
+   ]
+  },
+  "en": {
+   "q": "Which animal has black and white stripes?",
+   "c": [
+    "The elephant",
+    "The lion",
+    "The monkey",
+    "The zebra"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان له خطوط سوداء وبيضاء؟",
+   "c": [
+    "الفيل",
+    "الأسد",
+    "القرد",
+    "الحمار الوحشي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal tiene rayas blancas y negras?",
+   "c": [
+    "El elefante",
+    "El león",
+    "El mono",
+    "La cebra"
+   ]
+  },
+  "pt": {
+   "q": "Que animal tem listras pretas e brancas?",
+   "c": [
+    "O elefante",
+    "O leão",
+    "O macaco",
+    "A zebra"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Que croque le lapin dans les dessins animés ?",
+   "c": [
+    "La carotte",
+    "La viande",
+    "Le chocolat",
+    "Le poisson"
+   ]
+  },
+  "en": {
+   "q": "What does the rabbit munch on in cartoons?",
+   "c": [
+    "The carrot",
+    "Meat",
+    "Chocolate",
+    "Fish"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يقضم الأرنب في أفلام الكرتون؟",
+   "c": [
+    "الجزرة",
+    "اللحم",
+    "الشوكولاتة",
+    "السمك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué mordisquea el conejo en los dibujos animados?",
+   "c": [
+    "La zanahoria",
+    "La carne",
+    "El chocolate",
+    "El pescado"
+   ]
+  },
+  "pt": {
+   "q": "O que o coelho mordisca nos desenhos animados?",
+   "c": [
+    "A cenoura",
+    "A carne",
+    "O chocolate",
+    "O peixe"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Combien de mois y a-t-il dans une année ?",
+   "c": [
+    "10",
+    "13",
+    "12",
+    "11"
+   ]
+  },
+  "en": {
+   "q": "How many months are in a year?",
+   "c": [
+    "10",
+    "13",
+    "12",
+    "11"
+   ]
+  },
+  "ar": {
+   "q": "كم شهرا في السنة؟",
+   "c": [
+    "10",
+    "13",
+    "12",
+    "11"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos meses tiene un año?",
+   "c": [
+    "10",
+    "13",
+    "12",
+    "11"
+   ]
+  },
+  "pt": {
+   "q": "Quantos meses tem um ano?",
+   "c": [
+    "10",
+    "13",
+    "12",
+    "11"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel animal vit dans l'eau et a des nageoires ?",
+   "c": [
+    "Le chameau",
+    "Le poisson",
+    "La poule",
+    "Le chien"
+   ]
+  },
+  "en": {
+   "q": "Which animal lives in water and has fins?",
+   "c": [
+    "The camel",
+    "The fish",
+    "The hen",
+    "The dog"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يعيش في الماء وله زعانف؟",
+   "c": [
+    "الجمل",
+    "السمكة",
+    "الدجاجة",
+    "الكلب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal vive en el agua y tiene aletas?",
+   "c": [
+    "El camello",
+    "El pez",
+    "La gallina",
+    "El perro"
+   ]
+  },
+  "pt": {
+   "q": "Que animal vive na água e tem barbatanas?",
+   "c": [
+    "O camelo",
+    "O peixe",
+    "A galinha",
+    "O cão"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Avec quoi marche-t-on ?",
+   "c": [
+    "Avec les pieds",
+    "Avec les oreilles",
+    "Avec les mains",
+    "Avec les yeux"
+   ]
+  },
+  "en": {
+   "q": "What do we walk with?",
+   "c": [
+    "Our feet",
+    "Our ears",
+    "Our hands",
+    "Our eyes"
+   ]
+  },
+  "ar": {
+   "q": "بماذا نمشي؟",
+   "c": [
+    "بالقدمين",
+    "بالأذنين",
+    "باليدين",
+    "بالعينين"
+   ]
+  },
+  "es": {
+   "q": "¿Con qué caminamos?",
+   "c": [
+    "Con los pies",
+    "Con las orejas",
+    "Con las manos",
+    "Con los ojos"
+   ]
+  },
+  "pt": {
+   "q": "Com o que caminhamos?",
+   "c": [
+    "Com os pés",
+    "Com as orelhas",
+    "Com as mãos",
+    "Com os olhos"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel animal est surnommé « le roi de la jungle » ?",
+   "c": [
+    "Le singe",
+    "La tortue",
+    "Le lapin",
+    "Le lion"
+   ]
+  },
+  "en": {
+   "q": "Which animal is called \"the king of the jungle\"?",
+   "c": [
+    "The monkey",
+    "The turtle",
+    "The rabbit",
+    "The lion"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يلقب بـ«ملك الغابة»؟",
+   "c": [
+    "القرد",
+    "السلحفاة",
+    "الأرنب",
+    "الأسد"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal es llamado «el rey de la selva»?",
+   "c": [
+    "El mono",
+    "La tortuga",
+    "El conejo",
+    "El león"
+   ]
+  },
+  "pt": {
+   "q": "Que animal é chamado de «rei da selva»?",
+   "c": [
+    "O macaco",
+    "A tartaruga",
+    "O coelho",
+    "O leão"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Combien de roues a une voiture, sans la roue de secours ?",
+   "c": [
+    "3",
+    "4",
+    "6",
+    "2"
+   ]
+  },
+  "en": {
+   "q": "How many wheels does a car have, not counting the spare?",
+   "c": [
+    "3",
+    "4",
+    "6",
+    "2"
+   ]
+  },
+  "ar": {
+   "q": "كم عجلة للسيارة دون احتساب العجلة الاحتياطية؟",
+   "c": [
+    "3",
+    "4",
+    "6",
+    "2"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántas ruedas tiene un coche, sin contar la de repuesto?",
+   "c": [
+    "3",
+    "4",
+    "6",
+    "2"
+   ]
+  },
+  "pt": {
+   "q": "Quantas rodas tem um carro, sem contar o estepe?",
+   "c": [
+    "3",
+    "4",
+    "6",
+    "2"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
    "q": "Quel gaz est le plus présent dans l'air ?",
    "c": [
     "L'oxygène",
@@ -1523,49 +2573,49 @@
   "fr": {
    "q": "Quel métal est liquide à température ambiante ?",
    "c": [
+    "L'or",
     "Le mercure",
     "L'aluminium",
-    "L'or",
     "Le fer"
    ]
   },
   "en": {
    "q": "Which metal is liquid at room temperature?",
    "c": [
+    "Gold",
     "Mercury",
     "Aluminium",
-    "Gold",
     "Iron"
    ]
   },
   "ar": {
    "q": "أي فلز يكون سائلًا في درجة حرارة الغرفة؟",
    "c": [
+    "الذهب",
     "الزئبق",
     "الألمنيوم",
-    "الذهب",
     "الحديد"
    ]
   },
   "es": {
    "q": "¿Qué metal es líquido a temperatura ambiente?",
    "c": [
+    "Oro",
     "Mercurio",
     "Aluminio",
-    "Oro",
     "Hierro"
    ]
   },
   "pt": {
    "q": "Qual metal é líquido à temperatura ambiente?",
    "c": [
+    "Ouro",
     "Mercúrio",
     "Alumínio",
-    "Ouro",
     "Ferro"
    ]
   },
-  "a": 0,
+  "a": 1,
   "image": null,
   "level": 3
  },
@@ -1573,49 +2623,49 @@
   "fr": {
    "q": "Combien font 7 multiplié par 8 ?",
    "c": [
-    "56",
-    "49",
     "54",
-    "64"
+    "64",
+    "56",
+    "49"
    ]
   },
   "en": {
    "q": "What is 7 multiplied by 8?",
    "c": [
-    "56",
-    "49",
     "54",
-    "64"
+    "64",
+    "56",
+    "49"
    ]
   },
   "ar": {
    "q": "كم ناتج ضرب 7 في 8؟",
    "c": [
-    "56",
-    "49",
     "54",
-    "64"
+    "64",
+    "56",
+    "49"
    ]
   },
   "es": {
    "q": "¿Cuánto es 7 multiplicado por 8?",
    "c": [
-    "56",
-    "49",
     "54",
-    "64"
+    "64",
+    "56",
+    "49"
    ]
   },
   "pt": {
    "q": "Quanto é 7 multiplicado por 8?",
    "c": [
-    "56",
-    "49",
     "54",
-    "64"
+    "64",
+    "56",
+    "49"
    ]
   },
-  "a": 0,
+  "a": 2,
   "image": null,
   "level": 3
  },
@@ -1623,49 +2673,49 @@
   "fr": {
    "q": "Quel est l'élément chimique dont le symbole est 'O' ?",
    "c": [
-    "L'oxygène",
     "L'osmium",
     "L'or",
+    "L'oxygène",
     "L'oganesson"
    ]
   },
   "en": {
    "q": "What is the chemical element whose symbol is 'O'?",
    "c": [
-    "Oxygen",
     "Osmium",
     "Gold",
+    "Oxygen",
     "Oganesson"
    ]
   },
   "ar": {
    "q": "ما هو العنصر الكيميائي الذي رمزه 'O'؟",
    "c": [
-    "الأكسجين",
     "الأوسميوم",
     "الذهب",
+    "الأكسجين",
     "الأوغانيسون"
    ]
   },
   "es": {
    "q": "¿Cuál es el elemento químico cuyo símbolo es 'O'?",
    "c": [
-    "Oxígeno",
     "Osmio",
     "Oro",
+    "Oxígeno",
     "Oganesón"
    ]
   },
   "pt": {
    "q": "Qual é o elemento químico cujo símbolo é 'O'?",
    "c": [
-    "Oxigênio",
     "Ósmio",
     "Ouro",
+    "Oxigênio",
     "Oganessônio"
    ]
   },
-  "a": 0,
+  "a": 2,
   "image": null,
   "level": 3
  },
@@ -1723,49 +2773,49 @@
   "fr": {
    "q": "Quel auteur a écrit 'Les Misérables' ?",
    "c": [
-    "Victor Hugo",
     "Molière",
-    "Émile Zola",
-    "Albert Camus"
+    "Victor Hugo",
+    "Albert Camus",
+    "Émile Zola"
    ]
   },
   "en": {
    "q": "Which author wrote 'Les Misérables'?",
    "c": [
-    "Victor Hugo",
     "Molière",
-    "Émile Zola",
-    "Albert Camus"
+    "Victor Hugo",
+    "Albert Camus",
+    "Émile Zola"
    ]
   },
   "ar": {
    "q": "من هو المؤلف الذي كتب رواية 'البؤساء'؟",
    "c": [
-    "فيكتور هوغو",
     "مولير",
-    "إميل زولا",
-    "ألبير كامو"
+    "فيكتور هوغو",
+    "ألبير كامو",
+    "إميل زولا"
    ]
   },
   "es": {
    "q": "¿Qué autor escribió 'Los Miserables'?",
    "c": [
-    "Victor Hugo",
     "Molière",
-    "Émile Zola",
-    "Albert Camus"
+    "Victor Hugo",
+    "Albert Camus",
+    "Émile Zola"
    ]
   },
   "pt": {
    "q": "Qual autor escreveu 'Os Miseráveis'?",
    "c": [
-    "Victor Hugo",
     "Molière",
-    "Émile Zola",
-    "Albert Camus"
+    "Victor Hugo",
+    "Albert Camus",
+    "Émile Zola"
    ]
   },
-  "a": 0,
+  "a": 1,
   "image": null,
   "level": 3
  },
@@ -1813,49 +2863,49 @@
   "fr": {
    "q": "Qui a peint la Joconde ?",
    "c": [
-    "Léonard de Vinci",
+    "Vincent van Gogh",
     "Michel-Ange",
-    "Pablo Picasso",
-    "Vincent van Gogh"
+    "Léonard de Vinci",
+    "Pablo Picasso"
    ]
   },
   "en": {
    "q": "Who painted the Mona Lisa?",
    "c": [
-    "Leonardo da Vinci",
+    "Vincent van Gogh",
     "Michelangelo",
-    "Pablo Picasso",
-    "Vincent van Gogh"
+    "Leonardo da Vinci",
+    "Pablo Picasso"
    ]
   },
   "ar": {
    "q": "من رسم لوحة الموناليزا؟",
    "c": [
-    "ليوناردو دا فينشي",
+    "فنسنت فان غوخ",
     "مايكل أنجلو",
-    "بابلو بيكاسو",
-    "فنسنت فان غوخ"
+    "ليوناردو دا فينشي",
+    "بابلو بيكاسو"
    ]
   },
   "es": {
    "q": "¿Quién pintó la Mona Lisa?",
    "c": [
-    "Leonardo da Vinci",
+    "Vincent van Gogh",
     "Miguel Ángel",
-    "Pablo Picasso",
-    "Vincent van Gogh"
+    "Leonardo da Vinci",
+    "Pablo Picasso"
    ]
   },
   "pt": {
    "q": "Quem pintou a Mona Lisa?",
    "c": [
-    "Leonardo da Vinci",
+    "Vincent van Gogh",
     "Michelangelo",
-    "Pablo Picasso",
-    "Vincent van Gogh"
+    "Leonardo da Vinci",
+    "Pablo Picasso"
    ]
   },
-  "a": 0,
+  "a": 2,
   "image": null,
   "level": 3
  },
@@ -2053,6 +3103,556 @@
     "O oceano Pacífico",
     "O oceano Índico",
     "O oceano Atlântico"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel animal nous donne la laine ?",
+   "c": [
+    "Le chat",
+    "Le mouton",
+    "Le cheval",
+    "La poule"
+   ]
+  },
+  "en": {
+   "q": "Which animal gives us wool?",
+   "c": [
+    "The cat",
+    "The sheep",
+    "The horse",
+    "The hen"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يعطينا الصوف؟",
+   "c": [
+    "القطة",
+    "الخروف",
+    "الحصان",
+    "الدجاجة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal nos da lana?",
+   "c": [
+    "El gato",
+    "La oveja",
+    "El caballo",
+    "La gallina"
+   ]
+  },
+  "pt": {
+   "q": "Que animal nos dá lã?",
+   "c": [
+    "O gato",
+    "A ovelha",
+    "O cavalo",
+    "A galinha"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Avec quel organe respire-t-on ?",
+   "c": [
+    "Les poumons",
+    "L'estomac",
+    "Le foie",
+    "Les reins"
+   ]
+  },
+  "en": {
+   "q": "Which organ do we breathe with?",
+   "c": [
+    "The lungs",
+    "The stomach",
+    "The liver",
+    "The kidneys"
+   ]
+  },
+  "ar": {
+   "q": "بأي عضو نتنفس؟",
+   "c": [
+    "الرئتان",
+    "المعدة",
+    "الكبد",
+    "الكليتان"
+   ]
+  },
+  "es": {
+   "q": "¿Con qué órgano respiramos?",
+   "c": [
+    "Los pulmones",
+    "El estómago",
+    "El hígado",
+    "Los riñones"
+   ]
+  },
+  "pt": {
+   "q": "Com que órgão respiramos?",
+   "c": [
+    "Os pulmões",
+    "O estômago",
+    "O fígado",
+    "Os rins"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel animal pond des œufs ?",
+   "c": [
+    "La poule",
+    "Le chien",
+    "Le chat",
+    "La vache"
+   ]
+  },
+  "en": {
+   "q": "Which animal lays eggs?",
+   "c": [
+    "The hen",
+    "The dog",
+    "The cat",
+    "The cow"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يبيض؟",
+   "c": [
+    "الدجاجة",
+    "الكلب",
+    "القطة",
+    "البقرة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal pone huevos?",
+   "c": [
+    "La gallina",
+    "El perro",
+    "El gato",
+    "La vaca"
+   ]
+  },
+  "pt": {
+   "q": "Que animal põe ovos?",
+   "c": [
+    "A galinha",
+    "O cão",
+    "O gato",
+    "A vaca"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel est le premier mois de l'année ?",
+   "c": [
+    "Décembre",
+    "Mars",
+    "Janvier",
+    "Septembre"
+   ]
+  },
+  "en": {
+   "q": "What is the first month of the year?",
+   "c": [
+    "December",
+    "March",
+    "January",
+    "September"
+   ]
+  },
+  "ar": {
+   "q": "ما أول شهر في السنة الميلادية؟",
+   "c": [
+    "ديسمبر",
+    "مارس",
+    "يناير",
+    "سبتمبر"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el primer mes del año?",
+   "c": [
+    "Diciembre",
+    "Marzo",
+    "Enero",
+    "Septiembre"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o primeiro mês do ano?",
+   "c": [
+    "Dezembro",
+    "Março",
+    "Janeiro",
+    "Setembro"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel animal a le cou le plus long ?",
+   "c": [
+    "La girafe",
+    "Le chameau",
+    "L'éléphant",
+    "Le cheval"
+   ]
+  },
+  "en": {
+   "q": "Which animal has the longest neck?",
+   "c": [
+    "The giraffe",
+    "The camel",
+    "The elephant",
+    "The horse"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان له أطول رقبة؟",
+   "c": [
+    "الزرافة",
+    "الجمل",
+    "الفيل",
+    "الحصان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal tiene el cuello más largo?",
+   "c": [
+    "La jirafa",
+    "El camello",
+    "El elefante",
+    "El caballo"
+   ]
+  },
+  "pt": {
+   "q": "Que animal tem o pescoço mais comprido?",
+   "c": [
+    "A girafa",
+    "O camelo",
+    "O elefante",
+    "O cavalo"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "D'où vient l'huile d'olive ?",
+   "c": [
+    "Des olives",
+    "Des carottes",
+    "Des oranges",
+    "Des bananes"
+   ]
+  },
+  "en": {
+   "q": "Where does olive oil come from?",
+   "c": [
+    "Olives",
+    "Carrots",
+    "Oranges",
+    "Bananas"
+   ]
+  },
+  "ar": {
+   "q": "من أين يأتي زيت الزيتون؟",
+   "c": [
+    "من الزيتون",
+    "من الجزر",
+    "من البرتقال",
+    "من الموز"
+   ]
+  },
+  "es": {
+   "q": "¿De dónde sale el aceite de oliva?",
+   "c": [
+    "De las aceitunas",
+    "De las zanahorias",
+    "De las naranjas",
+    "De los plátanos"
+   ]
+  },
+  "pt": {
+   "q": "De onde vem o azeite?",
+   "c": [
+    "Das azeitonas",
+    "Das cenouras",
+    "Das laranjas",
+    "Das bananas"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Combien d'heures y a-t-il dans une journée ?",
+   "c": [
+    "20",
+    "60",
+    "24",
+    "12"
+   ]
+  },
+  "en": {
+   "q": "How many hours are in a day?",
+   "c": [
+    "20",
+    "60",
+    "24",
+    "12"
+   ]
+  },
+  "ar": {
+   "q": "كم ساعة في اليوم؟",
+   "c": [
+    "20",
+    "60",
+    "24",
+    "12"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántas horas tiene un día?",
+   "c": [
+    "20",
+    "60",
+    "24",
+    "12"
+   ]
+  },
+  "pt": {
+   "q": "Quantas horas tem um dia?",
+   "c": [
+    "20",
+    "60",
+    "24",
+    "12"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel objet utilise-t-on pour savoir l'heure ?",
+   "c": [
+    "Une balance",
+    "Une montre",
+    "Un thermomètre",
+    "Une règle"
+   ]
+  },
+  "en": {
+   "q": "Which object do we use to tell the time?",
+   "c": [
+    "A scale",
+    "A watch",
+    "A thermometer",
+    "A ruler"
+   ]
+  },
+  "ar": {
+   "q": "أي شيء نستعمله لمعرفة الوقت؟",
+   "c": [
+    "ميزان",
+    "ساعة",
+    "مقياس حرارة",
+    "مسطرة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué objeto usamos para saber la hora?",
+   "c": [
+    "Una balanza",
+    "Un reloj",
+    "Un termómetro",
+    "Una regla"
+   ]
+  },
+  "pt": {
+   "q": "Que objeto usamos para saber as horas?",
+   "c": [
+    "Uma balança",
+    "Um relógio",
+    "Um termômetro",
+    "Uma régua"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel animal se transforme en papillon ?",
+   "c": [
+    "La chenille",
+    "La fourmi",
+    "Le ver de terre",
+    "L'abeille"
+   ]
+  },
+  "en": {
+   "q": "Which animal turns into a butterfly?",
+   "c": [
+    "The caterpillar",
+    "The ant",
+    "The earthworm",
+    "The bee"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يتحول إلى فراشة؟",
+   "c": [
+    "اليرقة",
+    "النملة",
+    "دودة الأرض",
+    "النحلة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal se convierte en mariposa?",
+   "c": [
+    "La oruga",
+    "La hormiga",
+    "La lombriz",
+    "La abeja"
+   ]
+  },
+  "pt": {
+   "q": "Que animal se transforma em borboleta?",
+   "c": [
+    "A lagarta",
+    "A formiga",
+    "A minhoca",
+    "A abelha"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays est née la pizza ?",
+   "c": [
+    "L'Espagne",
+    "Le Mexique",
+    "La Grèce",
+    "L'Italie"
+   ]
+  },
+  "en": {
+   "q": "In which country was pizza born?",
+   "c": [
+    "Spain",
+    "Mexico",
+    "Greece",
+    "Italy"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد ولدت البيتزا؟",
+   "c": [
+    "إسبانيا",
+    "المكسيك",
+    "اليونان",
+    "إيطاليا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país nació la pizza?",
+   "c": [
+    "España",
+    "México",
+    "Grecia",
+    "Italia"
+   ]
+  },
+  "pt": {
+   "q": "Em que país nasceu a pizza?",
+   "c": [
+    "Espanha",
+    "México",
+    "Grécia",
+    "Itália"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel outil sert à enfoncer un clou ?",
+   "c": [
+    "Un balai",
+    "Une scie",
+    "Un tournevis",
+    "Un marteau"
+   ]
+  },
+  "en": {
+   "q": "Which tool is used to drive in a nail?",
+   "c": [
+    "A broom",
+    "A saw",
+    "A screwdriver",
+    "A hammer"
+   ]
+  },
+  "ar": {
+   "q": "أي أداة تستخدم لدق مسمار؟",
+   "c": [
+    "المكنسة",
+    "المنشار",
+    "المفك",
+    "المطرقة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué herramienta sirve para clavar un clavo?",
+   "c": [
+    "Una escoba",
+    "Una sierra",
+    "Un destornillador",
+    "Un martillo"
+   ]
+  },
+  "pt": {
+   "q": "Que ferramenta serve para pregar um prego?",
+   "c": [
+    "Uma vassoura",
+    "Uma serra",
+    "Uma chave de fenda",
+    "Um martelo"
    ]
   },
   "a": 3,
@@ -2373,8 +3973,8 @@
   "fr": {
    "q": "Qui a écrit « Roméo et Juliette » ?",
    "c": [
-    "William Shakespeare",
     "Charles Dickens",
+    "William Shakespeare",
     "Victor Hugo",
     "Molière"
    ]
@@ -2382,8 +3982,8 @@
   "en": {
    "q": "Who wrote \"Romeo and Juliet\"?",
    "c": [
-    "William Shakespeare",
     "Charles Dickens",
+    "William Shakespeare",
     "Victor Hugo",
     "Molière"
    ]
@@ -2391,8 +3991,8 @@
   "ar": {
    "q": "من كتب «روميو وجولييت»؟",
    "c": [
-    "ويليام شكسبير",
     "تشارلز ديكنز",
+    "ويليام شكسبير",
     "فيكتور هوغو",
     "موليير"
    ]
@@ -2400,8 +4000,8 @@
   "es": {
    "q": "¿Quién escribió «Romeo y Julieta»?",
    "c": [
-    "William Shakespeare",
     "Charles Dickens",
+    "William Shakespeare",
     "Victor Hugo",
     "Molière"
    ]
@@ -2409,13 +4009,13 @@
   "pt": {
    "q": "Quem escreveu «Romeu e Julieta»?",
    "c": [
-    "William Shakespeare",
     "Charles Dickens",
+    "William Shakespeare",
     "Victor Hugo",
     "Molière"
    ]
   },
-  "a": 0,
+  "a": 1,
   "image": null,
   "level": 4
  },
@@ -2621,6 +4221,356 @@
  },
  {
   "fr": {
+   "q": "Quel mammifère peut voler ?",
+   "c": [
+    "Le lapin",
+    "Le chat",
+    "La chauve-souris",
+    "Le kangourou"
+   ]
+  },
+  "en": {
+   "q": "Which mammal can fly?",
+   "c": [
+    "The rabbit",
+    "The cat",
+    "The bat",
+    "The kangaroo"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان ثديي يستطيع الطيران؟",
+   "c": [
+    "الأرنب",
+    "القطة",
+    "الخفاش",
+    "الكنغر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué mamífero puede volar?",
+   "c": [
+    "El conejo",
+    "El gato",
+    "El murciélago",
+    "El canguro"
+   ]
+  },
+  "pt": {
+   "q": "Que mamífero consegue voar?",
+   "c": [
+    "O coelho",
+    "O gato",
+    "O morcego",
+    "O canguru"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel animal peut changer de couleur pour se camoufler ?",
+   "c": [
+    "Le hérisson",
+    "Le perroquet",
+    "Le lapin",
+    "Le caméléon"
+   ]
+  },
+  "en": {
+   "q": "Which animal can change color to blend in?",
+   "c": [
+    "The hedgehog",
+    "The parrot",
+    "The rabbit",
+    "The chameleon"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يستطيع تغيير لونه ليتخفى؟",
+   "c": [
+    "القنفذ",
+    "الببغاء",
+    "الأرنب",
+    "الحرباء"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal puede cambiar de color para camuflarse?",
+   "c": [
+    "El erizo",
+    "El loro",
+    "El conejo",
+    "El camaleón"
+   ]
+  },
+  "pt": {
+   "q": "Que animal pode mudar de cor para se camuflar?",
+   "c": [
+    "O ouriço",
+    "O papagaio",
+    "O coelho",
+    "O camaleão"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle vitamine le soleil nous aide-t-il à fabriquer ?",
+   "c": [
+    "La vitamine C",
+    "La vitamine D",
+    "La vitamine B12",
+    "La vitamine A"
+   ]
+  },
+  "en": {
+   "q": "Which vitamin does the sun help our body make?",
+   "c": [
+    "Vitamin C",
+    "Vitamin D",
+    "Vitamin B12",
+    "Vitamin A"
+   ]
+  },
+  "ar": {
+   "q": "أي فيتامين تساعد الشمس جسمنا على إنتاجه؟",
+   "c": [
+    "فيتامين C",
+    "فيتامين D",
+    "فيتامين B12",
+    "فيتامين A"
+   ]
+  },
+  "es": {
+   "q": "¿Qué vitamina nos ayuda el sol a producir?",
+   "c": [
+    "La vitamina C",
+    "La vitamina D",
+    "La vitamina B12",
+    "La vitamina A"
+   ]
+  },
+  "pt": {
+   "q": "Que vitamina o sol ajuda o nosso corpo a produzir?",
+   "c": [
+    "A vitamina C",
+    "A vitamina D",
+    "A vitamina B12",
+    "A vitamina A"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel animal marin a huit bras ?",
+   "c": [
+    "La méduse",
+    "La pieuvre",
+    "Le requin",
+    "Le dauphin"
+   ]
+  },
+  "en": {
+   "q": "Which sea animal has eight arms?",
+   "c": [
+    "The jellyfish",
+    "The octopus",
+    "The shark",
+    "The dolphin"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان بحري له ثمانية أذرع؟",
+   "c": [
+    "قنديل البحر",
+    "الأخطبوط",
+    "القرش",
+    "الدلفين"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal marino tiene ocho brazos?",
+   "c": [
+    "La medusa",
+    "El pulpo",
+    "El tiburón",
+    "El delfín"
+   ]
+  },
+  "pt": {
+   "q": "Que animal marinho tem oito braços?",
+   "c": [
+    "A água-viva",
+    "O polvo",
+    "O tubarão",
+    "O golfinho"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Combien de pattes a un insecte ?",
+   "c": [
+    "8",
+    "4",
+    "10",
+    "6"
+   ]
+  },
+  "en": {
+   "q": "How many legs does an insect have?",
+   "c": [
+    "8",
+    "4",
+    "10",
+    "6"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد أرجل الحشرة؟",
+   "c": [
+    "8",
+    "4",
+    "10",
+    "6"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántas patas tiene un insecto?",
+   "c": [
+    "8",
+    "4",
+    "10",
+    "6"
+   ]
+  },
+  "pt": {
+   "q": "Quantas patas tem um inseto?",
+   "c": [
+    "8",
+    "4",
+    "10",
+    "6"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel os protège notre cerveau ?",
+   "c": [
+    "Le crâne",
+    "La côte",
+    "Le fémur",
+    "Le tibia"
+   ]
+  },
+  "en": {
+   "q": "Which bone protects our brain?",
+   "c": [
+    "The skull",
+    "The rib",
+    "The femur",
+    "The tibia"
+   ]
+  },
+  "ar": {
+   "q": "أي عظمة تحمي دماغنا؟",
+   "c": [
+    "الجمجمة",
+    "الضلع",
+    "عظم الفخذ",
+    "الظنبوب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué hueso protege nuestro cerebro?",
+   "c": [
+    "El cráneo",
+    "La costilla",
+    "El fémur",
+    "La tibia"
+   ]
+  },
+  "pt": {
+   "q": "Que osso protege o nosso cérebro?",
+   "c": [
+    "O crânio",
+    "A costela",
+    "O fêmur",
+    "A tíbia"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel animal est surnommé « le vaisseau du désert » ?",
+   "c": [
+    "Le cheval",
+    "L'éléphant",
+    "Le chameau",
+    "L'âne"
+   ]
+  },
+  "en": {
+   "q": "Which animal is nicknamed \"the ship of the desert\"?",
+   "c": [
+    "The horse",
+    "The elephant",
+    "The camel",
+    "The donkey"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يلقب بـ«سفينة الصحراء»؟",
+   "c": [
+    "الحصان",
+    "الفيل",
+    "الجمل",
+    "الحمار"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal es apodado «el barco del desierto»?",
+   "c": [
+    "El caballo",
+    "El elefante",
+    "El camello",
+    "El burro"
+   ]
+  },
+  "pt": {
+   "q": "Que animal é apelidado de «navio do deserto»?",
+   "c": [
+    "O cavalo",
+    "O elefante",
+    "O camelo",
+    "O burro"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
    "q": "Quel est l'élément chimique le plus abondant dans l'univers ?",
    "c": [
     "Le carbone",
@@ -2773,49 +4723,49 @@
   "fr": {
    "q": "Quel est le plus grand lac d'Afrique ?",
    "c": [
-    "Le lac Victoria",
+    "Le lac Malawi",
     "Le lac Tchad",
-    "Le lac Tanganyika",
-    "Le lac Malawi"
+    "Le lac Victoria",
+    "Le lac Tanganyika"
    ]
   },
   "en": {
    "q": "What is the largest lake in Africa?",
    "c": [
-    "Lake Victoria",
+    "Lake Malawi",
     "Lake Chad",
-    "Lake Tanganyika",
-    "Lake Malawi"
+    "Lake Victoria",
+    "Lake Tanganyika"
    ]
   },
   "ar": {
    "q": "ما هي أكبر بحيرة في أفريقيا؟",
    "c": [
-    "بحيرة فيكتوريا",
+    "بحيرة مالاوي",
     "بحيرة تشاد",
-    "بحيرة تنجانيقا",
-    "بحيرة مالاوي"
+    "بحيرة فيكتوريا",
+    "بحيرة تنجانيقا"
    ]
   },
   "es": {
    "q": "¿Cuál es el lago más grande de África?",
    "c": [
-    "Lago Victoria",
+    "Lago Malaui",
     "Lago Chad",
-    "Lago Tanganica",
-    "Lago Malaui"
+    "Lago Victoria",
+    "Lago Tanganica"
    ]
   },
   "pt": {
    "q": "Qual é o maior lago da África?",
    "c": [
-    "Lago Vitória",
+    "Lago Malawi",
     "Lago Chade",
-    "Lago Tanganica",
-    "Lago Malawi"
+    "Lago Vitória",
+    "Lago Tanganica"
    ]
   },
-  "a": 0,
+  "a": 2,
   "image": null,
   "level": 5
  },
@@ -3396,6 +5346,206 @@
    ]
   },
   "a": 3,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Lequel de ces animaux est un mammifère ?",
+   "c": [
+    "Le dauphin",
+    "Le thon",
+    "La tortue",
+    "Le requin"
+   ]
+  },
+  "en": {
+   "q": "Which of these animals is a mammal?",
+   "c": [
+    "The dolphin",
+    "The tuna",
+    "The turtle",
+    "The shark"
+   ]
+  },
+  "ar": {
+   "q": "أي من هذه الحيوانات من الثدييات؟",
+   "c": [
+    "الدلفين",
+    "التونة",
+    "السلحفاة",
+    "القرش"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál de estos animales es un mamífero?",
+   "c": [
+    "El delfín",
+    "El atún",
+    "La tortuga",
+    "El tiburón"
+   ]
+  },
+  "pt": {
+   "q": "Qual destes animais é um mamífero?",
+   "c": [
+    "O golfinho",
+    "O atum",
+    "A tartaruga",
+    "O tubarão"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quelle couleur obtient-on en mélangeant du rouge et du bleu ?",
+   "c": [
+    "Marron",
+    "Violet",
+    "Vert",
+    "Orange"
+   ]
+  },
+  "en": {
+   "q": "Which color do you get by mixing red and blue?",
+   "c": [
+    "Brown",
+    "Purple",
+    "Green",
+    "Orange"
+   ]
+  },
+  "ar": {
+   "q": "ما اللون الناتج عن خلط الأحمر والأزرق؟",
+   "c": [
+    "بني",
+    "بنفسجي",
+    "أخضر",
+    "برتقالي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué color se obtiene mezclando rojo y azul?",
+   "c": [
+    "Marrón",
+    "Morado",
+    "Verde",
+    "Naranja"
+   ]
+  },
+  "pt": {
+   "q": "Que cor se obtém misturando vermelho e azul?",
+   "c": [
+    "Marrom",
+    "Roxo",
+    "Verde",
+    "Laranja"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quelle partie de la plante absorbe l'eau du sol ?",
+   "c": [
+    "Les feuilles",
+    "Les fleurs",
+    "Les racines",
+    "Les fruits"
+   ]
+  },
+  "en": {
+   "q": "Which part of a plant absorbs water from the soil?",
+   "c": [
+    "The leaves",
+    "The flowers",
+    "The roots",
+    "The fruits"
+   ]
+  },
+  "ar": {
+   "q": "أي جزء من النبات يمتص الماء من التربة؟",
+   "c": [
+    "الأوراق",
+    "الأزهار",
+    "الجذور",
+    "الثمار"
+   ]
+  },
+  "es": {
+   "q": "¿Qué parte de la planta absorbe el agua del suelo?",
+   "c": [
+    "Las hojas",
+    "Las flores",
+    "Las raíces",
+    "Los frutos"
+   ]
+  },
+  "pt": {
+   "q": "Que parte da planta absorve a água do solo?",
+   "c": [
+    "As folhas",
+    "As flores",
+    "As raízes",
+    "Os frutos"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus long os du corps humain ?",
+   "c": [
+    "Le fémur",
+    "L'humérus",
+    "Le tibia",
+    "La côte"
+   ]
+  },
+  "en": {
+   "q": "What is the longest bone in the human body?",
+   "c": [
+    "The femur",
+    "The humerus",
+    "The tibia",
+    "The rib"
+   ]
+  },
+  "ar": {
+   "q": "ما أطول عظمة في جسم الإنسان؟",
+   "c": [
+    "عظم الفخذ",
+    "عظم العضد",
+    "الظنبوب",
+    "الضلع"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el hueso más largo del cuerpo humano?",
+   "c": [
+    "El fémur",
+    "El húmero",
+    "La tibia",
+    "La costilla"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o osso mais longo do corpo humano?",
+   "c": [
+    "O fêmur",
+    "O úmero",
+    "A tíbia",
+    "A costela"
+   ]
+  },
+  "a": 0,
   "image": null,
   "level": 5
  }

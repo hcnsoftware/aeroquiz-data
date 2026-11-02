@@ -700,6 +700,556 @@
   "level": 1
  },
  {
+  "fr": {
+   "q": "Quel animal est Simba dans « Le Roi lion » ?",
+   "c": [
+    "Un ours",
+    "Un loup",
+    "Un tigre",
+    "Un lion"
+   ]
+  },
+  "en": {
+   "q": "What animal is Simba in \"The Lion King\"?",
+   "c": [
+    "A bear",
+    "A wolf",
+    "A tiger",
+    "A lion"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان هو سيمبا في «الأسد الملك»؟",
+   "c": [
+    "دب",
+    "ذئب",
+    "نمر",
+    "أسد"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal es Simba en «El Rey León»?",
+   "c": [
+    "Un oso",
+    "Un lobo",
+    "Un tigre",
+    "Un león"
+   ]
+  },
+  "pt": {
+   "q": "Que animal é o Simba em «O Rei Leão»?",
+   "c": [
+    "Um urso",
+    "Um lobo",
+    "Um tigre",
+    "Um leão"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle princesse vit avec sept nains ?",
+   "c": [
+    "Blanche-Neige",
+    "Raiponce",
+    "Ariel",
+    "Cendrillon"
+   ]
+  },
+  "en": {
+   "q": "Which princess lives with seven dwarfs?",
+   "c": [
+    "Snow White",
+    "Rapunzel",
+    "Ariel",
+    "Cinderella"
+   ]
+  },
+  "ar": {
+   "q": "أي أميرة تعيش مع سبعة أقزام؟",
+   "c": [
+    "بياض الثلج",
+    "رابونزل",
+    "أريل",
+    "سندريلا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué princesa vive con siete enanitos?",
+   "c": [
+    "Blancanieves",
+    "Rapunzel",
+    "Ariel",
+    "Cenicienta"
+   ]
+  },
+  "pt": {
+   "q": "Que princesa vive com sete anões?",
+   "c": [
+    "Branca de Neve",
+    "Rapunzel",
+    "Ariel",
+    "Cinderela"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel animal est Nemo dans « Le Monde de Nemo » ?",
+   "c": [
+    "Un poisson-clown",
+    "Un dauphin",
+    "Un requin",
+    "Une tortue"
+   ]
+  },
+  "en": {
+   "q": "What animal is Nemo in \"Finding Nemo\"?",
+   "c": [
+    "A clownfish",
+    "A dolphin",
+    "A shark",
+    "A turtle"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان هو نيمو في «البحث عن نيمو»؟",
+   "c": [
+    "سمكة مهرجة",
+    "دلفين",
+    "قرش",
+    "سلحفاة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal es Nemo en «Buscando a Nemo»?",
+   "c": [
+    "Un pez payaso",
+    "Un delfín",
+    "Un tiburón",
+    "Una tortuga"
+   ]
+  },
+  "pt": {
+   "q": "Que animal é o Nemo em «Procurando Nemo»?",
+   "c": [
+    "Um peixe-palhaço",
+    "Um golfinho",
+    "Um tubarão",
+    "Uma tartaruga"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on une personne qui peint des tableaux ?",
+   "c": [
+    "Un docteur",
+    "Un boulanger",
+    "Un peintre",
+    "Un pilote"
+   ]
+  },
+  "en": {
+   "q": "What do we call a person who paints pictures?",
+   "c": [
+    "A doctor",
+    "A baker",
+    "A painter",
+    "A pilot"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي الشخص الذي يرسم اللوحات؟",
+   "c": [
+    "طبيب",
+    "خباز",
+    "رسام",
+    "طيار"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama la persona que pinta cuadros?",
+   "c": [
+    "Un doctor",
+    "Un panadero",
+    "Un pintor",
+    "Un piloto"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama a pessoa que pinta quadros?",
+   "c": [
+    "Um médico",
+    "Um padeiro",
+    "Um pintor",
+    "Um piloto"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel personnage de dessin animé vit dans un ananas sous la mer ?",
+   "c": [
+    "Donald",
+    "Tom",
+    "Mickey",
+    "Bob l'éponge"
+   ]
+  },
+  "en": {
+   "q": "Which cartoon character lives in a pineapple under the sea?",
+   "c": [
+    "Donald",
+    "Tom",
+    "Mickey",
+    "SpongeBob"
+   ]
+  },
+  "ar": {
+   "q": "أي شخصية كرتونية تعيش في أناناس تحت البحر؟",
+   "c": [
+    "دونالد",
+    "توم",
+    "ميكي",
+    "سبونج بوب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué personaje de dibujos animados vive en una piña debajo del mar?",
+   "c": [
+    "Donald",
+    "Tom",
+    "Mickey",
+    "Bob Esponja"
+   ]
+  },
+  "pt": {
+   "q": "Que personagem de desenho animado vive num abacaxi debaixo do mar?",
+   "c": [
+    "Donald",
+    "Tom",
+    "Mickey",
+    "Bob Esponja"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "De quelle couleur sont les Schtroumpfs ?",
+   "c": [
+    "Rouges",
+    "Verts",
+    "Bleus",
+    "Jaunes"
+   ]
+  },
+  "en": {
+   "q": "What color are the Smurfs?",
+   "c": [
+    "Red",
+    "Green",
+    "Blue",
+    "Yellow"
+   ]
+  },
+  "ar": {
+   "q": "ما لون السنافر؟",
+   "c": [
+    "أحمر",
+    "أخضر",
+    "أزرق",
+    "أصفر"
+   ]
+  },
+  "es": {
+   "q": "¿De qué color son los Pitufos?",
+   "c": [
+    "Rojos",
+    "Verdes",
+    "Azules",
+    "Amarillos"
+   ]
+  },
+  "pt": {
+   "q": "De que cor são os Smurfs?",
+   "c": [
+    "Vermelhos",
+    "Verdes",
+    "Azuis",
+    "Amarelos"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel super-héros porte une cape rouge et vole dans le ciel ?",
+   "c": [
+    "Shrek",
+    "Batman",
+    "Superman",
+    "Hulk"
+   ]
+  },
+  "en": {
+   "q": "Which superhero wears a red cape and flies in the sky?",
+   "c": [
+    "Shrek",
+    "Batman",
+    "Superman",
+    "Hulk"
+   ]
+  },
+  "ar": {
+   "q": "أي بطل خارق يرتدي عباءة حمراء ويطير في السماء؟",
+   "c": [
+    "شريك",
+    "باتمان",
+    "سوبرمان",
+    "هالك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué superhéroe lleva una capa roja y vuela por el cielo?",
+   "c": [
+    "Shrek",
+    "Batman",
+    "Superman",
+    "Hulk"
+   ]
+  },
+  "pt": {
+   "q": "Que super-herói usa uma capa vermelha e voa pelo céu?",
+   "c": [
+    "Shrek",
+    "Batman",
+    "Superman",
+    "Hulk"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelle le bonhomme de neige dans « La Reine des neiges » ?",
+   "c": [
+    "Olaf",
+    "Hans",
+    "Sven",
+    "Kristoff"
+   ]
+  },
+  "en": {
+   "q": "What is the snowman called in \"Frozen\"?",
+   "c": [
+    "Olaf",
+    "Hans",
+    "Sven",
+    "Kristoff"
+   ]
+  },
+  "ar": {
+   "q": "ما اسم رجل الثلج في فيلم «فروزن»؟",
+   "c": [
+    "أولاف",
+    "هانز",
+    "سفين",
+    "كريستوف"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama el muñeco de nieve en «Frozen»?",
+   "c": [
+    "Olaf",
+    "Hans",
+    "Sven",
+    "Kristoff"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama o boneco de neve em «Frozen»?",
+   "c": [
+    "Olaf",
+    "Hans",
+    "Sven",
+    "Kristoff"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Dans quel lieu va-t-on pour voir un film sur grand écran ?",
+   "c": [
+    "À la piscine",
+    "Au cinéma",
+    "À la boulangerie",
+    "À la gare"
+   ]
+  },
+  "en": {
+   "q": "Where do we go to watch a film on a big screen?",
+   "c": [
+    "To the pool",
+    "To the cinema",
+    "To the bakery",
+    "To the station"
+   ]
+  },
+  "ar": {
+   "q": "إلى أين نذهب لمشاهدة فيلم على شاشة كبيرة؟",
+   "c": [
+    "إلى المسبح",
+    "إلى السينما",
+    "إلى المخبزة",
+    "إلى المحطة"
+   ]
+  },
+  "es": {
+   "q": "¿A qué lugar vamos para ver una película en pantalla grande?",
+   "c": [
+    "A la piscina",
+    "Al cine",
+    "A la panadería",
+    "A la estación"
+   ]
+  },
+  "pt": {
+   "q": "A que lugar vamos para ver um filme em tela grande?",
+   "c": [
+    "À piscina",
+    "Ao cinema",
+    "À padaria",
+    "À estação"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel pantin a le nez qui s'allonge quand il ment ?",
+   "c": [
+    "Tarzan",
+    "Peter Pan",
+    "Pinocchio",
+    "Aladdin"
+   ]
+  },
+  "en": {
+   "q": "Which puppet's nose grows when he lies?",
+   "c": [
+    "Tarzan",
+    "Peter Pan",
+    "Pinocchio",
+    "Aladdin"
+   ]
+  },
+  "ar": {
+   "q": "أي دمية يطول أنفه عندما يكذب؟",
+   "c": [
+    "طرزان",
+    "بيتر بان",
+    "بينوكيو",
+    "علاء الدين"
+   ]
+  },
+  "es": {
+   "q": "¿Qué marioneta tiene la nariz que crece cuando miente?",
+   "c": [
+    "Tarzan",
+    "Peter Pan",
+    "Pinocho",
+    "Aladdin"
+   ]
+  },
+  "pt": {
+   "q": "Que boneco tem o nariz que cresce quando mente?",
+   "c": [
+    "Tarzan",
+    "Peter Pan",
+    "Pinóquio",
+    "Aladdin"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel animal est Dumbo, célèbre pour ses grandes oreilles ?",
+   "c": [
+    "Un singe",
+    "Un éléphant",
+    "Un hippopotame",
+    "Un ours"
+   ]
+  },
+  "en": {
+   "q": "What animal is Dumbo, famous for his big ears?",
+   "c": [
+    "A monkey",
+    "An elephant",
+    "A hippo",
+    "A bear"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان هو دامبو المشهور بأذنيه الكبيرتين؟",
+   "c": [
+    "قرد",
+    "فيل",
+    "فرس النهر",
+    "دب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal es Dumbo, famoso por sus grandes orejas?",
+   "c": [
+    "Un mono",
+    "Un elefante",
+    "Un hipopótamo",
+    "Un oso"
+   ]
+  },
+  "pt": {
+   "q": "Que animal é o Dumbo, famoso pelas suas grandes orelhas?",
+   "c": [
+    "Um macaco",
+    "Um elefante",
+    "Um hipopótamo",
+    "Um urso"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
   "en": {
    "q": "How many strings does a standard guitar have?",
    "c": [
@@ -1293,6 +1843,656 @@
     "إيكيبانا",
     "بونساي",
     "كينتسوغي"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel grand instrument à archet joue-t-on assis, posé entre les jambes ?",
+   "c": [
+    "La trompette",
+    "Le violon",
+    "Le violoncelle",
+    "La guitare"
+   ]
+  },
+  "en": {
+   "q": "Which large bowed instrument is played seated, held between the legs?",
+   "c": [
+    "The trumpet",
+    "The violin",
+    "The cello",
+    "The guitar"
+   ]
+  },
+  "ar": {
+   "q": "أي آلة كبيرة تُعزف بالقوس جالسًا وتوضع بين الساقين؟",
+   "c": [
+    "البوق",
+    "الكمان",
+    "التشيلو",
+    "الغيتار"
+   ]
+  },
+  "es": {
+   "q": "¿Qué gran instrumento de arco se toca sentado, entre las piernas?",
+   "c": [
+    "La trompeta",
+    "El violín",
+    "El violonchelo",
+    "La guitarra"
+   ]
+  },
+  "pt": {
+   "q": "Que grande instrumento de arco se toca sentado, entre as pernas?",
+   "c": [
+    "O trompete",
+    "O violino",
+    "O violoncelo",
+    "A guitarra"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel pays est célèbre pour ses films de « Bollywood » ?",
+   "c": [
+    "L'Inde",
+    "L'Égypte",
+    "La Chine",
+    "Le Brésil"
+   ]
+  },
+  "en": {
+   "q": "Which country is famous for its \"Bollywood\" films?",
+   "c": [
+    "India",
+    "Egypt",
+    "China",
+    "Brazil"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد مشهور بأفلام «بوليوود»؟",
+   "c": [
+    "الهند",
+    "مصر",
+    "الصين",
+    "البرازيل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país es famoso por sus películas de «Bollywood»?",
+   "c": [
+    "India",
+    "Egipto",
+    "China",
+    "Brasil"
+   ]
+  },
+  "pt": {
+   "q": "Que país é famoso pelos filmes de «Bollywood»?",
+   "c": [
+    "Índia",
+    "Egito",
+    "China",
+    "Brasil"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel ourson à pull rouge adore le miel ?",
+   "c": [
+    "Yogi",
+    "Baloo",
+    "Paddington",
+    "Winnie l'ourson"
+   ]
+  },
+  "en": {
+   "q": "Which bear in a red shirt loves honey?",
+   "c": [
+    "Yogi",
+    "Baloo",
+    "Paddington",
+    "Winnie the Pooh"
+   ]
+  },
+  "ar": {
+   "q": "أي دب صغير يرتدي قميصًا أحمر يحب العسل؟",
+   "c": [
+    "يوغي",
+    "بالو",
+    "بادينغتون",
+    "ويني الدبدوب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué osito con camiseta roja ama la miel?",
+   "c": [
+    "Yogi",
+    "Baloo",
+    "Paddington",
+    "Winnie the Pooh"
+   ]
+  },
+  "pt": {
+   "q": "Que ursinho de camiseta vermelha adora mel?",
+   "c": [
+    "Yogi",
+    "Baloo",
+    "Paddington",
+    "Winnie the Pooh"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel film d'animation a pour héros un ogre vert ?",
+   "c": [
+    "Madagascar",
+    "Toy Story",
+    "Cars",
+    "Shrek"
+   ]
+  },
+  "en": {
+   "q": "Which animated film stars a green ogre?",
+   "c": [
+    "Madagascar",
+    "Toy Story",
+    "Cars",
+    "Shrek"
+   ]
+  },
+  "ar": {
+   "q": "أي فيلم رسوم متحركة بطله غول أخضر؟",
+   "c": [
+    "مدغشقر",
+    "توي ستوري",
+    "سيارات",
+    "شريك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué película de animación tiene como protagonista a un ogro verde?",
+   "c": [
+    "Madagascar",
+    "Toy Story",
+    "Cars",
+    "Shrek"
+   ]
+  },
+  "pt": {
+   "q": "Que filme de animação tem como protagonista um ogro verde?",
+   "c": [
+    "Madagascar",
+    "Toy Story",
+    "Cars",
+    "Shrek"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle princesse perd sa pantoufle de verre au bal ?",
+   "c": [
+    "Cendrillon",
+    "Blanche-Neige",
+    "Belle",
+    "Raiponce"
+   ]
+  },
+  "en": {
+   "q": "Which princess loses her glass slipper at the ball?",
+   "c": [
+    "Cinderella",
+    "Snow White",
+    "Belle",
+    "Rapunzel"
+   ]
+  },
+  "ar": {
+   "q": "أي أميرة تفقد حذاءها الزجاجي في حفل الرقص؟",
+   "c": [
+    "سندريلا",
+    "بياض الثلج",
+    "بيل",
+    "رابونزل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué princesa pierde su zapatilla de cristal en el baile?",
+   "c": [
+    "Cenicienta",
+    "Blancanieves",
+    "Bella",
+    "Rapunzel"
+   ]
+  },
+  "pt": {
+   "q": "Que princesa perde o sapatinho de cristal no baile?",
+   "c": [
+    "Cinderela",
+    "Branca de Neve",
+    "Bela",
+    "Rapunzel"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel chanteur est surnommé « le Roi du rock'n'roll » ?",
+   "c": [
+    "Elvis Presley",
+    "Elton John",
+    "Frank Sinatra",
+    "Louis Armstrong"
+   ]
+  },
+  "en": {
+   "q": "Which singer is nicknamed \"the King of Rock 'n' Roll\"?",
+   "c": [
+    "Elvis Presley",
+    "Elton John",
+    "Frank Sinatra",
+    "Louis Armstrong"
+   ]
+  },
+  "ar": {
+   "q": "أي مغنٍّ يلقب بـ«ملك الروك أند رول»؟",
+   "c": [
+    "إلفيس بريسلي",
+    "إلتون جون",
+    "فرانك سيناترا",
+    "لويس أرمسترونغ"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cantante es apodado «el Rey del rock and roll»?",
+   "c": [
+    "Elvis Presley",
+    "Elton John",
+    "Frank Sinatra",
+    "Louis Armstrong"
+   ]
+  },
+  "pt": {
+   "q": "Que cantor é apelidado de «Rei do rock and roll»?",
+   "c": [
+    "Elvis Presley",
+    "Elton John",
+    "Frank Sinatra",
+    "Louis Armstrong"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on un spectacle sur scène où toute l'histoire est chantée ?",
+   "c": [
+    "Un cirque",
+    "Un match",
+    "Un défilé",
+    "Un opéra"
+   ]
+  },
+  "en": {
+   "q": "What do we call a stage show where the whole story is sung?",
+   "c": [
+    "A circus",
+    "A match",
+    "A parade",
+    "An opera"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي عرضًا على المسرح تُغنّى فيه القصة كلها؟",
+   "c": [
+    "سيرك",
+    "مباراة",
+    "عرض أزياء",
+    "أوبرا"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama un espectáculo en escena donde toda la historia se canta?",
+   "c": [
+    "Un circo",
+    "Un partido",
+    "Un desfile",
+    "Una ópera"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama um espetáculo em palco onde toda a história é cantada?",
+   "c": [
+    "Um circo",
+    "Um jogo",
+    "Um desfile",
+    "Uma ópera"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel célèbre film d'amour se passe sur un immense paquebot qui coule ?",
+   "c": [
+    "Matrix",
+    "Gladiator",
+    "Titanic",
+    "Avatar"
+   ]
+  },
+  "en": {
+   "q": "Which famous love story film takes place on a huge ship that sinks?",
+   "c": [
+    "Matrix",
+    "Gladiator",
+    "Titanic",
+    "Avatar"
+   ]
+  },
+  "ar": {
+   "q": "أي فيلم حب مشهور تدور أحداثه على سفينة ضخمة تغرق؟",
+   "c": [
+    "ماتريكس",
+    "المصارع",
+    "تايتانيك",
+    "أفاتار"
+   ]
+  },
+  "es": {
+   "q": "¿Qué famosa película de amor transcurre en un enorme barco que se hunde?",
+   "c": [
+    "Matrix",
+    "Gladiator",
+    "Titanic",
+    "Avatar"
+   ]
+  },
+  "pt": {
+   "q": "Que famoso filme de amor se passa num enorme navio que afunda?",
+   "c": [
+    "Matrix",
+    "Gladiator",
+    "Titanic",
+    "Avatar"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel jeune sorcier à lunettes étudie à Poudlard ?",
+   "c": [
+    "Merlin",
+    "Harry Potter",
+    "Gandalf",
+    "Dumbledore"
+   ]
+  },
+  "en": {
+   "q": "Which young wizard with glasses studies at Hogwarts?",
+   "c": [
+    "Merlin",
+    "Harry Potter",
+    "Gandalf",
+    "Dumbledore"
+   ]
+  },
+  "ar": {
+   "q": "أي ساحر شاب بنظارات يدرس في هوغورتس؟",
+   "c": [
+    "ميرلين",
+    "هاري بوتر",
+    "غاندالف",
+    "دمبلدور"
+   ]
+  },
+  "es": {
+   "q": "¿Qué joven mago con gafas estudia en Hogwarts?",
+   "c": [
+    "Merlin",
+    "Harry Potter",
+    "Gandalf",
+    "Dumbledore"
+   ]
+  },
+  "pt": {
+   "q": "Que jovem mago de óculos estuda em Hogwarts?",
+   "c": [
+    "Merlin",
+    "Harry Potter",
+    "Gandalf",
+    "Dumbledore"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Qui a écrit « Le Petit Prince » ?",
+   "c": [
+    "Victor Hugo",
+    "Jules Verne",
+    "Antoine de Saint-Exupéry",
+    "Molière"
+   ]
+  },
+  "en": {
+   "q": "Who wrote \"The Little Prince\"?",
+   "c": [
+    "Victor Hugo",
+    "Jules Verne",
+    "Antoine de Saint-Exupéry",
+    "Molière"
+   ]
+  },
+  "ar": {
+   "q": "من كتب «الأمير الصغير»؟",
+   "c": [
+    "فيكتور هوغو",
+    "جول فيرن",
+    "أنطوان دو سانت إكزوبيري",
+    "موليير"
+   ]
+  },
+  "es": {
+   "q": "¿Quién escribió «El Principito»?",
+   "c": [
+    "Victor Hugo",
+    "Julio Verne",
+    "Antoine de Saint-Exupéry",
+    "Molière"
+   ]
+  },
+  "pt": {
+   "q": "Quem escreveu «O Pequeno Príncipe»?",
+   "c": [
+    "Victor Hugo",
+    "Júlio Verne",
+    "Antoine de Saint-Exupéry",
+    "Molière"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle danse est la star du carnaval de Rio ?",
+   "c": [
+    "La samba",
+    "Le flamenco",
+    "La valse",
+    "Le hip-hop"
+   ]
+  },
+  "en": {
+   "q": "Which dance is the star of the Rio carnival?",
+   "c": [
+    "Samba",
+    "Flamenco",
+    "Waltz",
+    "Hip-hop"
+   ]
+  },
+  "ar": {
+   "q": "أي رقصة هي نجمة كرنفال ريو؟",
+   "c": [
+    "السامبا",
+    "الفلامنكو",
+    "الفالس",
+    "الهيب هوب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué baile es la estrella del carnaval de Río?",
+   "c": [
+    "La samba",
+    "El flamenco",
+    "El vals",
+    "El hip-hop"
+   ]
+  },
+  "pt": {
+   "q": "Que dança é a estrela do carnaval do Rio?",
+   "c": [
+    "A samba",
+    "O flamenco",
+    "A valsa",
+    "O hip-hop"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle chanteuse colombienne a chanté « Waka Waka » ?",
+   "c": [
+    "Shakira",
+    "Rihanna",
+    "Céline Dion",
+    "Beyoncé"
+   ]
+  },
+  "en": {
+   "q": "Which Colombian singer sang \"Waka Waka\"?",
+   "c": [
+    "Shakira",
+    "Rihanna",
+    "Céline Dion",
+    "Beyoncé"
+   ]
+  },
+  "ar": {
+   "q": "أي مغنية كولومبية غنت «واكا واكا»؟",
+   "c": [
+    "شاكيرا",
+    "ريهانا",
+    "سيلين ديون",
+    "بيونسيه"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cantante colombiana cantó «Waka Waka»?",
+   "c": [
+    "Shakira",
+    "Rihanna",
+    "Céline Dion",
+    "Beyoncé"
+   ]
+  },
+  "pt": {
+   "q": "Que cantora colombiana cantou «Waka Waka»?",
+   "c": [
+    "Shakira",
+    "Rihanna",
+    "Céline Dion",
+    "Beyoncé"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel super-héros est Peter Parker ?",
+   "c": [
+    "Spider-Man",
+    "Batman",
+    "Superman",
+    "Iron Man"
+   ]
+  },
+  "en": {
+   "q": "Which superhero is Peter Parker?",
+   "c": [
+    "Spider-Man",
+    "Batman",
+    "Superman",
+    "Iron Man"
+   ]
+  },
+  "ar": {
+   "q": "أي بطل خارق هو بيتر باركر؟",
+   "c": [
+    "سبايدرمان",
+    "باتمان",
+    "سوبرمان",
+    "آيرون مان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué superhéroe es Peter Parker?",
+   "c": [
+    "Spider-Man",
+    "Batman",
+    "Superman",
+    "Iron Man"
+   ]
+  },
+  "pt": {
+   "q": "Que super-herói é o Peter Parker?",
+   "c": [
+    "Spider-Man",
+    "Batman",
+    "Superman",
+    "Iron Man"
    ]
   },
   "a": 0,
@@ -1900,6 +3100,656 @@
   "level": 3
  },
  {
+  "fr": {
+   "q": "Quel instrument en cuivre a une coulisse qu'on fait glisser ?",
+   "c": [
+    "La clarinette",
+    "Le trombone",
+    "La trompette",
+    "La flûte"
+   ]
+  },
+  "en": {
+   "q": "Which brass instrument has a slide that you push in and out?",
+   "c": [
+    "The clarinet",
+    "The trombone",
+    "The trumpet",
+    "The flute"
+   ]
+  },
+  "ar": {
+   "q": "أي آلة نحاسية لها أنبوب منزلق؟",
+   "c": [
+    "الكلارينت",
+    "الترومبون",
+    "البوق",
+    "الفلوت"
+   ]
+  },
+  "es": {
+   "q": "¿Qué instrumento de metal tiene una vara que se desliza?",
+   "c": [
+    "El clarinete",
+    "El trombón",
+    "La trompeta",
+    "La flauta"
+   ]
+  },
+  "pt": {
+   "q": "Que instrumento de metal tem uma vara que se desliza?",
+   "c": [
+    "O clarinete",
+    "O trombone",
+    "O trompete",
+    "A flauta"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel dessinateur belge a créé « Tintin » ?",
+   "c": [
+    "Peyo",
+    "Hergé",
+    "Uderzo",
+    "Morris"
+   ]
+  },
+  "en": {
+   "q": "Which Belgian cartoonist created \"Tintin\"?",
+   "c": [
+    "Peyo",
+    "Hergé",
+    "Uderzo",
+    "Morris"
+   ]
+  },
+  "ar": {
+   "q": "أي رسام بلجيكي ابتكر «تان تان»؟",
+   "c": [
+    "بيو",
+    "هيرجي",
+    "أوديرزو",
+    "موريس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué dibujante belga creó a «Tintín»?",
+   "c": [
+    "Peyo",
+    "Hergé",
+    "Uderzo",
+    "Morris"
+   ]
+  },
+  "pt": {
+   "q": "Que desenhista belga criou o «Tintim»?",
+   "c": [
+    "Peyo",
+    "Hergé",
+    "Uderzo",
+    "Morris"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Qui a écrit « Les Trois Mousquetaires » ?",
+   "c": [
+    "Émile Zola",
+    "Honoré de Balzac",
+    "Gustave Flaubert",
+    "Alexandre Dumas"
+   ]
+  },
+  "en": {
+   "q": "Who wrote \"The Three Musketeers\"?",
+   "c": [
+    "Émile Zola",
+    "Honoré de Balzac",
+    "Gustave Flaubert",
+    "Alexandre Dumas"
+   ]
+  },
+  "ar": {
+   "q": "من كتب «الفرسان الثلاثة»؟",
+   "c": [
+    "إميل زولا",
+    "أونوريه دو بلزاك",
+    "غوستاف فلوبير",
+    "ألكسندر دوما"
+   ]
+  },
+  "es": {
+   "q": "¿Quién escribió «Los tres mosqueteros»?",
+   "c": [
+    "Émile Zola",
+    "Honoré de Balzac",
+    "Gustave Flaubert",
+    "Alexandre Dumas"
+   ]
+  },
+  "pt": {
+   "q": "Quem escreveu «Os Três Mosqueteiros»?",
+   "c": [
+    "Émile Zola",
+    "Honoré de Balzac",
+    "Gustave Flaubert",
+    "Alexandre Dumas"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel réalisateur a fait « E.T. » et « Les Dents de la mer » ?",
+   "c": [
+    "Tim Burton",
+    "Steven Spielberg",
+    "George Lucas",
+    "James Cameron"
+   ]
+  },
+  "en": {
+   "q": "Which director made \"E.T.\" and \"Jaws\"?",
+   "c": [
+    "Tim Burton",
+    "Steven Spielberg",
+    "George Lucas",
+    "James Cameron"
+   ]
+  },
+  "ar": {
+   "q": "أي مخرج صنع «إي تي» و«الفك المفترس»؟",
+   "c": [
+    "تيم بيرتون",
+    "ستيفن سبيلبرغ",
+    "جورج لوكاس",
+    "جيمس كاميرون"
+   ]
+  },
+  "es": {
+   "q": "¿Qué director hizo «E.T.» y «Tiburón»?",
+   "c": [
+    "Tim Burton",
+    "Steven Spielberg",
+    "George Lucas",
+    "James Cameron"
+   ]
+  },
+  "pt": {
+   "q": "Que realizador fez «E.T.» e «Tubarão»?",
+   "c": [
+    "Tim Burton",
+    "Steven Spielberg",
+    "George Lucas",
+    "James Cameron"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Qui a écrit « Le Seigneur des anneaux » ?",
+   "c": [
+    "J.R.R. Tolkien",
+    "J.K. Rowling",
+    "Roald Dahl",
+    "C.S. Lewis"
+   ]
+  },
+  "en": {
+   "q": "Who wrote \"The Lord of the Rings\"?",
+   "c": [
+    "J.R.R. Tolkien",
+    "J.K. Rowling",
+    "Roald Dahl",
+    "C.S. Lewis"
+   ]
+  },
+  "ar": {
+   "q": "من كتب «سيد الخواتم»؟",
+   "c": [
+    "ج. ر. ر. تولكين",
+    "ج. ك. رولينغ",
+    "رولد دال",
+    "سي. إس. لويس"
+   ]
+  },
+  "es": {
+   "q": "¿Quién escribió «El señor de los anillos»?",
+   "c": [
+    "J.R.R. Tolkien",
+    "J.K. Rowling",
+    "Roald Dahl",
+    "C.S. Lewis"
+   ]
+  },
+  "pt": {
+   "q": "Quem escreveu «O Senhor dos Anéis»?",
+   "c": [
+    "J.R.R. Tolkien",
+    "J.K. Rowling",
+    "Roald Dahl",
+    "C.S. Lewis"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel chanteur, roi du reggae, a chanté « No Woman, No Cry » ?",
+   "c": [
+    "Bob Marley",
+    "Elton John",
+    "Prince",
+    "Eminem"
+   ]
+  },
+  "en": {
+   "q": "Which singer, the king of reggae, sang \"No Woman, No Cry\"?",
+   "c": [
+    "Bob Marley",
+    "Elton John",
+    "Prince",
+    "Eminem"
+   ]
+  },
+  "ar": {
+   "q": "أي مغنٍّ، ملك الريغي، غنى «نو وومان نو كراي»؟",
+   "c": [
+    "بوب مارلي",
+    "إلتون جون",
+    "برنس",
+    "إمينيم"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cantante, rey del reggae, cantó «No Woman, No Cry»?",
+   "c": [
+    "Bob Marley",
+    "Elton John",
+    "Prince",
+    "Eminem"
+   ]
+  },
+  "pt": {
+   "q": "Que cantor, rei do reggae, cantou «No Woman, No Cry»?",
+   "c": [
+    "Bob Marley",
+    "Elton John",
+    "Prince",
+    "Eminem"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle chanteuse a rendu célèbre « La Vie en rose » ?",
+   "c": [
+    "Barbara",
+    "Édith Piaf",
+    "Mireille Mathieu",
+    "Céline Dion"
+   ]
+  },
+  "en": {
+   "q": "Which singer made \"La Vie en rose\" famous?",
+   "c": [
+    "Barbara",
+    "Édith Piaf",
+    "Mireille Mathieu",
+    "Céline Dion"
+   ]
+  },
+  "ar": {
+   "q": "أي مغنية جعلت أغنية «لا في أون روز» مشهورة؟",
+   "c": [
+    "باربرا",
+    "إديث بياف",
+    "ميراي ماتيو",
+    "سيلين ديون"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cantante hizo famosa «La vie en rose»?",
+   "c": [
+    "Barbara",
+    "Édith Piaf",
+    "Mireille Mathieu",
+    "Céline Dion"
+   ]
+  },
+  "pt": {
+   "q": "Que cantora tornou famosa «La Vie en rose»?",
+   "c": [
+    "Barbara",
+    "Édith Piaf",
+    "Mireille Mathieu",
+    "Céline Dion"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel acteur joue le capitaine Jack Sparrow dans « Pirates des Caraïbes » ?",
+   "c": [
+    "Johnny Depp",
+    "Will Smith",
+    "Brad Pitt",
+    "Tom Cruise"
+   ]
+  },
+  "en": {
+   "q": "Which actor plays Captain Jack Sparrow in \"Pirates of the Caribbean\"?",
+   "c": [
+    "Johnny Depp",
+    "Will Smith",
+    "Brad Pitt",
+    "Tom Cruise"
+   ]
+  },
+  "ar": {
+   "q": "أي ممثل يؤدي دور الكابتن جاك سبارو في «قراصنة الكاريبي»؟",
+   "c": [
+    "جوني ديب",
+    "ويل سميث",
+    "براد بيت",
+    "توم كروز"
+   ]
+  },
+  "es": {
+   "q": "¿Qué actor interpreta al capitán Jack Sparrow en «Piratas del Caribe»?",
+   "c": [
+    "Johnny Depp",
+    "Will Smith",
+    "Brad Pitt",
+    "Tom Cruise"
+   ]
+  },
+  "pt": {
+   "q": "Que ator interpreta o capitão Jack Sparrow em «Piratas do Caribe»?",
+   "c": [
+    "Johnny Depp",
+    "Will Smith",
+    "Brad Pitt",
+    "Tom Cruise"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel grand instrument à tuyaux trouve-t-on souvent dans les églises ?",
+   "c": [
+    "Le tambour",
+    "Le violon",
+    "La harpe",
+    "L'orgue"
+   ]
+  },
+  "en": {
+   "q": "Which large instrument with pipes is often found in churches?",
+   "c": [
+    "The drum",
+    "The violin",
+    "The harp",
+    "The organ"
+   ]
+  },
+  "ar": {
+   "q": "أي آلة كبيرة ذات أنابيب توجد غالبًا في الكنائس؟",
+   "c": [
+    "الطبل",
+    "الكمان",
+    "القيثارة",
+    "الأرغن"
+   ]
+  },
+  "es": {
+   "q": "¿Qué gran instrumento con tubos se encuentra a menudo en las iglesias?",
+   "c": [
+    "El tambor",
+    "El violín",
+    "El arpa",
+    "El órgano"
+   ]
+  },
+  "pt": {
+   "q": "Que grande instrumento com tubos se encontra muitas vezes nas igrejas?",
+   "c": [
+    "O tambor",
+    "O violino",
+    "A harpa",
+    "O órgão"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Dans quelle saga de films trouve-t-on Dark Vador et les sabres laser ?",
+   "c": [
+    "Matrix",
+    "Star Trek",
+    "Star Wars",
+    "Alien"
+   ]
+  },
+  "en": {
+   "q": "In which film saga do we find Darth Vader and lightsabers?",
+   "c": [
+    "Matrix",
+    "Star Trek",
+    "Star Wars",
+    "Alien"
+   ]
+  },
+  "ar": {
+   "q": "في أي سلسلة أفلام يظهر دارث فيدر والسيوف الضوئية؟",
+   "c": [
+    "ماتريكس",
+    "ستار تريك",
+    "حرب النجوم",
+    "ألين"
+   ]
+  },
+  "es": {
+   "q": "¿En qué saga de películas aparecen Darth Vader y los sables de luz?",
+   "c": [
+    "Matrix",
+    "Star Trek",
+    "Star Wars",
+    "Alien"
+   ]
+  },
+  "pt": {
+   "q": "Em que saga de filmes aparecem Darth Vader e os sabres de luz?",
+   "c": [
+    "Matrix",
+    "Star Trek",
+    "Star Wars",
+    "Alien"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel groupe suédois a chanté « Dancing Queen » ?",
+   "c": [
+    "Scorpions",
+    "Queen",
+    "ABBA",
+    "Coldplay"
+   ]
+  },
+  "en": {
+   "q": "Which Swedish group sang \"Dancing Queen\"?",
+   "c": [
+    "Scorpions",
+    "Queen",
+    "ABBA",
+    "Coldplay"
+   ]
+  },
+  "ar": {
+   "q": "أي فرقة سويدية غنت «دانسينغ كوين»؟",
+   "c": [
+    "سكوربيونز",
+    "كوين",
+    "آبا",
+    "كولدبلاي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué grupo sueco cantó «Dancing Queen»?",
+   "c": [
+    "Scorpions",
+    "Queen",
+    "ABBA",
+    "Coldplay"
+   ]
+  },
+  "pt": {
+   "q": "Que grupo sueco cantou «Dancing Queen»?",
+   "c": [
+    "Scorpions",
+    "Queen",
+    "ABBA",
+    "Coldplay"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel groupe britannique a chanté « Satisfaction » ?",
+   "c": [
+    "Pink Floyd",
+    "Rolling Stones",
+    "Beatles",
+    "Queen"
+   ]
+  },
+  "en": {
+   "q": "Which British band sang \"Satisfaction\"?",
+   "c": [
+    "Pink Floyd",
+    "Rolling Stones",
+    "Beatles",
+    "Queen"
+   ]
+  },
+  "ar": {
+   "q": "أي فرقة بريطانية غنت «ساتيسفاكشن»؟",
+   "c": [
+    "بينك فلويد",
+    "رولينغ ستونز",
+    "البيتلز",
+    "كوين"
+   ]
+  },
+  "es": {
+   "q": "¿Qué grupo británico cantó «Satisfaction»?",
+   "c": [
+    "Pink Floyd",
+    "Rolling Stones",
+    "Beatles",
+    "Queen"
+   ]
+  },
+  "pt": {
+   "q": "Que banda britânica cantou «Satisfaction»?",
+   "c": [
+    "Pink Floyd",
+    "Rolling Stones",
+    "Beatles",
+    "Queen"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle chanteuse britannique a chanté « Rolling in the Deep » ?",
+   "c": [
+    "Adele",
+    "Lady Gaga",
+    "Beyoncé",
+    "Rihanna"
+   ]
+  },
+  "en": {
+   "q": "Which British singer sang \"Rolling in the Deep\"?",
+   "c": [
+    "Adele",
+    "Lady Gaga",
+    "Beyoncé",
+    "Rihanna"
+   ]
+  },
+  "ar": {
+   "q": "أي مغنية بريطانية غنت «رولينغ إن ذا ديب»؟",
+   "c": [
+    "أديل",
+    "ليدي غاغا",
+    "بيونسيه",
+    "ريهانا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cantante británica cantó «Rolling in the Deep»?",
+   "c": [
+    "Adele",
+    "Lady Gaga",
+    "Beyoncé",
+    "Rihanna"
+   ]
+  },
+  "pt": {
+   "q": "Que cantora britânica cantou «Rolling in the Deep»?",
+   "c": [
+    "Adele",
+    "Lady Gaga",
+    "Beyoncé",
+    "Rihanna"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
   "en": {
    "q": "What does the Italian musical term 'adagio' mean?",
    "c": [
@@ -2446,6 +4296,456 @@
    ]
   },
   "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel écrivain britannique a créé le détective Sherlock Holmes ?",
+   "c": [
+    "H.G. Wells",
+    "Arthur Conan Doyle",
+    "Rudyard Kipling",
+    "Agatha Christie"
+   ]
+  },
+  "en": {
+   "q": "Which British writer created the detective Sherlock Holmes?",
+   "c": [
+    "H.G. Wells",
+    "Arthur Conan Doyle",
+    "Rudyard Kipling",
+    "Agatha Christie"
+   ]
+  },
+  "ar": {
+   "q": "أي كاتب بريطاني ابتكر المحقق شارلوك هولمز؟",
+   "c": [
+    "إتش. جي. ويلز",
+    "آرثر كونان دويل",
+    "روديارد كيبلينغ",
+    "أغاثا كريستي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué escritor británico creó al detective Sherlock Holmes?",
+   "c": [
+    "H.G. Wells",
+    "Arthur Conan Doyle",
+    "Rudyard Kipling",
+    "Agatha Christie"
+   ]
+  },
+  "pt": {
+   "q": "Que escritor britânico criou o detetive Sherlock Holmes?",
+   "c": [
+    "H.G. Wells",
+    "Arthur Conan Doyle",
+    "Rudyard Kipling",
+    "Agatha Christie"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Qui a écrit le roman « L'Étranger » ?",
+   "c": [
+    "Marcel Proust",
+    "Jean-Paul Sartre",
+    "Simone de Beauvoir",
+    "Albert Camus"
+   ]
+  },
+  "en": {
+   "q": "Who wrote the novel \"The Stranger\"?",
+   "c": [
+    "Marcel Proust",
+    "Jean-Paul Sartre",
+    "Simone de Beauvoir",
+    "Albert Camus"
+   ]
+  },
+  "ar": {
+   "q": "من كتب رواية «الغريب»؟",
+   "c": [
+    "مارسيل بروست",
+    "جان بول سارتر",
+    "سيمون دو بوفوار",
+    "ألبير كامو"
+   ]
+  },
+  "es": {
+   "q": "¿Quién escribió la novela «El extranjero»?",
+   "c": [
+    "Marcel Proust",
+    "Jean-Paul Sartre",
+    "Simone de Beauvoir",
+    "Albert Camus"
+   ]
+  },
+  "pt": {
+   "q": "Quem escreveu o romance «O Estrangeiro»?",
+   "c": [
+    "Marcel Proust",
+    "Jean-Paul Sartre",
+    "Simone de Beauvoir",
+    "Albert Camus"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel peintre impressionniste est célèbre pour ses danseuses ?",
+   "c": [
+    "Paul Cézanne",
+    "Claude Monet",
+    "Henri Matisse",
+    "Edgar Degas"
+   ]
+  },
+  "en": {
+   "q": "Which Impressionist painter is famous for his dancers?",
+   "c": [
+    "Paul Cézanne",
+    "Claude Monet",
+    "Henri Matisse",
+    "Edgar Degas"
+   ]
+  },
+  "ar": {
+   "q": "أي رسام انطباعي مشهور بلوحات الراقصات؟",
+   "c": [
+    "بول سيزان",
+    "كلود مونيه",
+    "هنري ماتيس",
+    "إدغار ديغا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pintor impresionista es famoso por sus bailarinas?",
+   "c": [
+    "Paul Cézanne",
+    "Claude Monet",
+    "Henri Matisse",
+    "Edgar Degas"
+   ]
+  },
+  "pt": {
+   "q": "Que pintor impressionista é famoso pelas suas bailarinas?",
+   "c": [
+    "Paul Cézanne",
+    "Claude Monet",
+    "Henri Matisse",
+    "Edgar Degas"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel réalisateur a fait « Pulp Fiction » ?",
+   "c": [
+    "Clint Eastwood",
+    "Stanley Kubrick",
+    "Quentin Tarantino",
+    "Martin Scorsese"
+   ]
+  },
+  "en": {
+   "q": "Which director made \"Pulp Fiction\"?",
+   "c": [
+    "Clint Eastwood",
+    "Stanley Kubrick",
+    "Quentin Tarantino",
+    "Martin Scorsese"
+   ]
+  },
+  "ar": {
+   "q": "أي مخرج صنع «بالب فيكشن»؟",
+   "c": [
+    "كلينت إيستوود",
+    "ستانلي كوبريك",
+    "كوينتين تارانتينو",
+    "مارتن سكورسيزي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué director hizo «Pulp Fiction»?",
+   "c": [
+    "Clint Eastwood",
+    "Stanley Kubrick",
+    "Quentin Tarantino",
+    "Martin Scorsese"
+   ]
+  },
+  "pt": {
+   "q": "Que realizador fez «Pulp Fiction»?",
+   "c": [
+    "Clint Eastwood",
+    "Stanley Kubrick",
+    "Quentin Tarantino",
+    "Martin Scorsese"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays est né l'opéra ?",
+   "c": [
+    "L'Italie",
+    "La France",
+    "L'Autriche",
+    "L'Allemagne"
+   ]
+  },
+  "en": {
+   "q": "In which country was opera born?",
+   "c": [
+    "Italy",
+    "France",
+    "Austria",
+    "Germany"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد وُلدت الأوبرا؟",
+   "c": [
+    "إيطاليا",
+    "فرنسا",
+    "النمسا",
+    "ألمانيا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país nació la ópera?",
+   "c": [
+    "Italia",
+    "Francia",
+    "Austria",
+    "Alemania"
+   ]
+  },
+  "pt": {
+   "q": "Em que país nasceu a ópera?",
+   "c": [
+    "Itália",
+    "França",
+    "Áustria",
+    "Alemanha"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel poète français a écrit « Les Fleurs du mal » ?",
+   "c": [
+    "Paul Verlaine",
+    "Guillaume Apollinaire",
+    "Charles Baudelaire",
+    "Arthur Rimbaud"
+   ]
+  },
+  "en": {
+   "q": "Which French poet wrote \"The Flowers of Evil\"?",
+   "c": [
+    "Paul Verlaine",
+    "Guillaume Apollinaire",
+    "Charles Baudelaire",
+    "Arthur Rimbaud"
+   ]
+  },
+  "ar": {
+   "q": "أي شاعر فرنسي كتب «أزهار الشر»؟",
+   "c": [
+    "بول فيرلين",
+    "غيوم أبولينير",
+    "شارل بودلير",
+    "أرتور رامبو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué poeta francés escribió «Las flores del mal»?",
+   "c": [
+    "Paul Verlaine",
+    "Guillaume Apollinaire",
+    "Charles Baudelaire",
+    "Arthur Rimbaud"
+   ]
+  },
+  "pt": {
+   "q": "Que poeta francês escreveu «As Flores do Mal»?",
+   "c": [
+    "Paul Verlaine",
+    "Guillaume Apollinaire",
+    "Charles Baudelaire",
+    "Arthur Rimbaud"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel écrivain russe a écrit « Guerre et Paix » ?",
+   "c": [
+    "Fiodor Dostoïevski",
+    "Léon Tolstoï",
+    "Alexandre Pouchkine",
+    "Anton Tchekhov"
+   ]
+  },
+  "en": {
+   "q": "Which Russian writer wrote \"War and Peace\"?",
+   "c": [
+    "Fyodor Dostoevsky",
+    "Leo Tolstoy",
+    "Alexander Pushkin",
+    "Anton Chekhov"
+   ]
+  },
+  "ar": {
+   "q": "أي كاتب روسي كتب «الحرب والسلم»؟",
+   "c": [
+    "فيودور دوستويفسكي",
+    "ليو تولستوي",
+    "ألكسندر بوشكين",
+    "أنطون تشيخوف"
+   ]
+  },
+  "es": {
+   "q": "¿Qué escritor ruso escribió «Guerra y paz»?",
+   "c": [
+    "Fiódor Dostoyevski",
+    "León Tolstói",
+    "Aleksandr Pushkin",
+    "Antón Chéjov"
+   ]
+  },
+  "pt": {
+   "q": "Que escritor russo escreveu «Guerra e Paz»?",
+   "c": [
+    "Fiódor Dostoiévski",
+    "Liev Tolstói",
+    "Aleksandr Pushkin",
+    "Anton Tchekhov"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel chanteur belge a sorti la chanson « Papaoutai » ?",
+   "c": [
+    "Maître Gims",
+    "Stromae",
+    "Orelsan",
+    "Jacques Brel"
+   ]
+  },
+  "en": {
+   "q": "Which Belgian singer released the song \"Papaoutai\"?",
+   "c": [
+    "Maître Gims",
+    "Stromae",
+    "Orelsan",
+    "Jacques Brel"
+   ]
+  },
+  "ar": {
+   "q": "أي مغنٍّ بلجيكي أصدر أغنية «بابا أوتاي»؟",
+   "c": [
+    "ماتر جيمس",
+    "ستروماي",
+    "أوريلسان",
+    "جاك بريل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cantante belga lanzó la canción «Papaoutai»?",
+   "c": [
+    "Maître Gims",
+    "Stromae",
+    "Orelsan",
+    "Jacques Brel"
+   ]
+  },
+  "pt": {
+   "q": "Que cantor belga lançou a canção «Papaoutai»?",
+   "c": [
+    "Maître Gims",
+    "Stromae",
+    "Orelsan",
+    "Jacques Brel"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel héros de roman se bat contre des moulins à vent ?",
+   "c": [
+    "D'Artagnan",
+    "Robinson Crusoé",
+    "Don Quichotte",
+    "Gulliver"
+   ]
+  },
+  "en": {
+   "q": "Which novel hero fights windmills?",
+   "c": [
+    "D'Artagnan",
+    "Robinson Crusoe",
+    "Don Quixote",
+    "Gulliver"
+   ]
+  },
+  "ar": {
+   "q": "أي بطل رواية يحارب طواحين الهواء؟",
+   "c": [
+    "دارتانيان",
+    "روبنسون كروزو",
+    "دون كيخوته",
+    "غوليفر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué héroe de novela lucha contra molinos de viento?",
+   "c": [
+    "D'Artagnan",
+    "Robinson Crusoe",
+    "Don Quijote",
+    "Gulliver"
+   ]
+  },
+  "pt": {
+   "q": "Que herói de romance luta contra moinhos de vento?",
+   "c": [
+    "D'Artagnan",
+    "Robinson Crusoé",
+    "Dom Quixote",
+    "Gulliver"
+   ]
+  },
+  "a": 2,
   "image": null,
   "level": 4
  },
@@ -3046,6 +5346,406 @@
    ]
   },
   "a": 2,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays est né le flamenco ?",
+   "c": [
+    "Le Mexique",
+    "Cuba",
+    "L'Espagne",
+    "Le Portugal"
+   ]
+  },
+  "en": {
+   "q": "In which country was flamenco born?",
+   "c": [
+    "Mexico",
+    "Cuba",
+    "Spain",
+    "Portugal"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد وُلد الفلامنكو؟",
+   "c": [
+    "المكسيك",
+    "كوبا",
+    "إسبانيا",
+    "البرتغال"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país nació el flamenco?",
+   "c": [
+    "México",
+    "Cuba",
+    "España",
+    "Portugal"
+   ]
+  },
+  "pt": {
+   "q": "Em que país nasceu o flamenco?",
+   "c": [
+    "México",
+    "Cuba",
+    "Espanha",
+    "Portugal"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel peintre néerlandais a peint « La Jeune Fille à la perle » ?",
+   "c": [
+    "Rubens",
+    "Johannes Vermeer",
+    "Rembrandt",
+    "Van Gogh"
+   ]
+  },
+  "en": {
+   "q": "Which Dutch painter made \"Girl with a Pearl Earring\"?",
+   "c": [
+    "Rubens",
+    "Johannes Vermeer",
+    "Rembrandt",
+    "Van Gogh"
+   ]
+  },
+  "ar": {
+   "q": "أي رسام هولندي رسم «الفتاة ذات القرط اللؤلؤي»؟",
+   "c": [
+    "روبنز",
+    "يوهانس فيرمير",
+    "رامبرانت",
+    "فان غوخ"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pintor neerlandés pintó «La joven de la perla»?",
+   "c": [
+    "Rubens",
+    "Johannes Vermeer",
+    "Rembrandt",
+    "Van Gogh"
+   ]
+  },
+  "pt": {
+   "q": "Que pintor holandês pintou «A Rapariga com o Brinco de Pérola»?",
+   "c": [
+    "Rubens",
+    "Johannes Vermeer",
+    "Rembrandt",
+    "Van Gogh"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel compositeur a écrit la musique de « Peer Gynt » ?",
+   "c": [
+    "Johannes Brahms",
+    "Edvard Grieg",
+    "Claude Debussy",
+    "Frédéric Chopin"
+   ]
+  },
+  "en": {
+   "q": "Which composer wrote the music for \"Peer Gynt\"?",
+   "c": [
+    "Johannes Brahms",
+    "Edvard Grieg",
+    "Claude Debussy",
+    "Frédéric Chopin"
+   ]
+  },
+  "ar": {
+   "q": "أي مؤلف موسيقي كتب موسيقى «بير جينت»؟",
+   "c": [
+    "يوهانس برامس",
+    "إدفارد غريغ",
+    "كلود ديبوسي",
+    "فريدريك شوبان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué compositor escribió la música de «Peer Gynt»?",
+   "c": [
+    "Johannes Brahms",
+    "Edvard Grieg",
+    "Claude Debussy",
+    "Frédéric Chopin"
+   ]
+  },
+  "pt": {
+   "q": "Que compositor escreveu a música de «Peer Gynt»?",
+   "c": [
+    "Johannes Brahms",
+    "Edvard Grieg",
+    "Claude Debussy",
+    "Frédéric Chopin"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Qui a écrit « Oliver Twist » ?",
+   "c": [
+    "Oscar Wilde",
+    "Mark Twain",
+    "Thomas Hardy",
+    "Charles Dickens"
+   ]
+  },
+  "en": {
+   "q": "Who wrote \"Oliver Twist\"?",
+   "c": [
+    "Oscar Wilde",
+    "Mark Twain",
+    "Thomas Hardy",
+    "Charles Dickens"
+   ]
+  },
+  "ar": {
+   "q": "من كتب «أوليفر تويست»؟",
+   "c": [
+    "أوسكار وايلد",
+    "مارك توين",
+    "توماس هاردي",
+    "تشارلز ديكنز"
+   ]
+  },
+  "es": {
+   "q": "¿Quién escribió «Oliver Twist»?",
+   "c": [
+    "Oscar Wilde",
+    "Mark Twain",
+    "Thomas Hardy",
+    "Charles Dickens"
+   ]
+  },
+  "pt": {
+   "q": "Quem escreveu «Oliver Twist»?",
+   "c": [
+    "Oscar Wilde",
+    "Mark Twain",
+    "Thomas Hardy",
+    "Charles Dickens"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel peintre belge a écrit « Ceci n'est pas une pipe » sur l'un de ses tableaux ?",
+   "c": [
+    "Marc Chagall",
+    "Joan Miró",
+    "Salvador Dalí",
+    "René Magritte"
+   ]
+  },
+  "en": {
+   "q": "Which Belgian painter wrote \"This is not a pipe\" on one of his paintings?",
+   "c": [
+    "Marc Chagall",
+    "Joan Miró",
+    "Salvador Dalí",
+    "René Magritte"
+   ]
+  },
+  "ar": {
+   "q": "أي رسام بلجيكي كتب «هذه ليست غليونًا» على إحدى لوحاته؟",
+   "c": [
+    "مارك شاغال",
+    "جوان ميرو",
+    "سلفادور دالي",
+    "رينيه ماغريت"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pintor belga escribió «Esto no es una pipa» en uno de sus cuadros?",
+   "c": [
+    "Marc Chagall",
+    "Joan Miró",
+    "Salvador Dalí",
+    "René Magritte"
+   ]
+  },
+  "pt": {
+   "q": "Que pintor belga escreveu «Isto não é um cachimbo» num dos seus quadros?",
+   "c": [
+    "Marc Chagall",
+    "Joan Miró",
+    "Salvador Dalí",
+    "René Magritte"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Qui a écrit le roman « 1984 » ?",
+   "c": [
+    "Ray Bradbury",
+    "Aldous Huxley",
+    "Franz Kafka",
+    "George Orwell"
+   ]
+  },
+  "en": {
+   "q": "Who wrote the novel \"1984\"?",
+   "c": [
+    "Ray Bradbury",
+    "Aldous Huxley",
+    "Franz Kafka",
+    "George Orwell"
+   ]
+  },
+  "ar": {
+   "q": "من كتب رواية «1984»؟",
+   "c": [
+    "راي برادبري",
+    "ألدوس هكسلي",
+    "فرانز كافكا",
+    "جورج أورويل"
+   ]
+  },
+  "es": {
+   "q": "¿Quién escribió la novela «1984»?",
+   "c": [
+    "Ray Bradbury",
+    "Aldous Huxley",
+    "Franz Kafka",
+    "George Orwell"
+   ]
+  },
+  "pt": {
+   "q": "Quem escreveu o romance «1984»?",
+   "c": [
+    "Ray Bradbury",
+    "Aldous Huxley",
+    "Franz Kafka",
+    "George Orwell"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel réalisateur a tourné « Le Parrain » ?",
+   "c": [
+    "Francis Ford Coppola",
+    "Martin Scorsese",
+    "Brian De Palma",
+    "Ridley Scott"
+   ]
+  },
+  "en": {
+   "q": "Which director made \"The Godfather\"?",
+   "c": [
+    "Francis Ford Coppola",
+    "Martin Scorsese",
+    "Brian De Palma",
+    "Ridley Scott"
+   ]
+  },
+  "ar": {
+   "q": "أي مخرج صنع «العراب»؟",
+   "c": [
+    "فرانسيس فورد كوبولا",
+    "مارتن سكورسيزي",
+    "براين دي بالما",
+    "ريدلي سكوت"
+   ]
+  },
+  "es": {
+   "q": "¿Qué director rodó «El padrino»?",
+   "c": [
+    "Francis Ford Coppola",
+    "Martin Scorsese",
+    "Brian De Palma",
+    "Ridley Scott"
+   ]
+  },
+  "pt": {
+   "q": "Que realizador fez «O Padrinho»?",
+   "c": [
+    "Francis Ford Coppola",
+    "Martin Scorsese",
+    "Brian De Palma",
+    "Ridley Scott"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quelle romancière a écrit « Orgueil et Préjugés » ?",
+   "c": [
+    "Mary Shelley",
+    "Jane Austen",
+    "Emily Brontë",
+    "Virginia Woolf"
+   ]
+  },
+  "en": {
+   "q": "Which novelist wrote \"Pride and Prejudice\"?",
+   "c": [
+    "Mary Shelley",
+    "Jane Austen",
+    "Emily Brontë",
+    "Virginia Woolf"
+   ]
+  },
+  "ar": {
+   "q": "أي روائية كتبت «كبرياء وتحامل»؟",
+   "c": [
+    "ماري شيلي",
+    "جين أوستن",
+    "إميلي برونتي",
+    "فيرجينيا وولف"
+   ]
+  },
+  "es": {
+   "q": "¿Qué novelista escribió «Orgullo y prejuicio»?",
+   "c": [
+    "Mary Shelley",
+    "Jane Austen",
+    "Emily Brontë",
+    "Virginia Woolf"
+   ]
+  },
+  "pt": {
+   "q": "Que romancista escreveu «Orgulho e Preconceito»?",
+   "c": [
+    "Mary Shelley",
+    "Jane Austen",
+    "Emily Brontë",
+    "Virginia Woolf"
+   ]
+  },
+  "a": 1,
   "image": null,
   "level": 5
  },

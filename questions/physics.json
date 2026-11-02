@@ -651,6 +651,606 @@
  },
  {
   "fr": {
+   "q": "Quand il pleut avec du soleil, que peut-on voir ?",
+   "c": [
+    "Un arc-en-ciel",
+    "Une aurore",
+    "Une comète",
+    "Une éclipse"
+   ]
+  },
+  "en": {
+   "q": "What can you see when it rains while the sun shines?",
+   "c": [
+    "A rainbow",
+    "An aurora",
+    "A comet",
+    "An eclipse"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يمكنك أن ترى عندما تمطر والشمس مشرقة؟",
+   "c": [
+    "قوس قزح",
+    "شفق",
+    "مذنّب",
+    "كسوف"
+   ]
+  },
+  "es": {
+   "q": "¿Qué puedes ver cuando llueve y hace sol?",
+   "c": [
+    "Un arcoíris",
+    "Una aurora",
+    "Un cometa",
+    "Un eclipse"
+   ]
+  },
+  "pt": {
+   "q": "O que você pode ver quando chove com sol?",
+   "c": [
+    "Um arco-íris",
+    "Uma aurora",
+    "Um cometa",
+    "Um eclipse"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel objet fait paraître les petits détails plus gros ?",
+   "c": [
+    "Une brosse",
+    "Un marteau",
+    "Une règle",
+    "Une loupe"
+   ]
+  },
+  "en": {
+   "q": "Which object makes small details look bigger?",
+   "c": [
+    "A brush",
+    "A hammer",
+    "A ruler",
+    "A magnifying glass"
+   ]
+  },
+  "ar": {
+   "q": "ما الشيء الذي يجعل التفاصيل الصغيرة تبدو أكبر؟",
+   "c": [
+    "الفرشاة",
+    "المطرقة",
+    "المسطرة",
+    "العدسة المكبّرة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué objeto hace que los detalles pequeños se vean más grandes?",
+   "c": [
+    "Un cepillo",
+    "Un martillo",
+    "Una regla",
+    "Una lupa"
+   ]
+  },
+  "pt": {
+   "q": "Que objeto faz os pequenos detalhes parecerem maiores?",
+   "c": [
+    "Uma escova",
+    "Um martelo",
+    "Uma régua",
+    "Uma lupa"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel objet donne de l'énergie à une lampe de poche ?",
+   "c": [
+    "Une gomme",
+    "Une pile",
+    "Un bouchon",
+    "Une corde"
+   ]
+  },
+  "en": {
+   "q": "Which object gives energy to a flashlight?",
+   "c": [
+    "An eraser",
+    "A battery",
+    "A cork",
+    "A rope"
+   ]
+  },
+  "ar": {
+   "q": "ما الشيء الذي يمنح الطاقة لمصباح يدوي؟",
+   "c": [
+    "الممحاة",
+    "البطارية",
+    "السدادة",
+    "الحبل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué objeto da energía a una linterna?",
+   "c": [
+    "Una goma",
+    "Una pila",
+    "Un corcho",
+    "Una cuerda"
+   ]
+  },
+  "pt": {
+   "q": "Que objeto dá energia a uma lanterna?",
+   "c": [
+    "Uma borracha",
+    "Uma pilha",
+    "Uma rolha",
+    "Uma corda"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Dans quel état est la glace ?",
+   "c": [
+    "Solide",
+    "Gazeux",
+    "Liquide",
+    "Brûlant"
+   ]
+  },
+  "en": {
+   "q": "What state is ice in?",
+   "c": [
+    "Solid",
+    "Gas",
+    "Liquid",
+    "Burning"
+   ]
+  },
+  "ar": {
+   "q": "في أي حالة يكون الجليد؟",
+   "c": [
+    "صلب",
+    "غازي",
+    "سائل",
+    "مشتعل"
+   ]
+  },
+  "es": {
+   "q": "¿En qué estado está el hielo?",
+   "c": [
+    "Sólido",
+    "Gaseoso",
+    "Líquido",
+    "Ardiente"
+   ]
+  },
+  "pt": {
+   "q": "Em que estado está o gelo?",
+   "c": [
+    "Sólido",
+    "Gasoso",
+    "Líquido",
+    "Ardente"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Que produit un haut-parleur ?",
+   "c": [
+    "De la glace",
+    "De l'ombre",
+    "De la neige",
+    "Du son"
+   ]
+  },
+  "en": {
+   "q": "What does a loudspeaker produce?",
+   "c": [
+    "Ice",
+    "Shadow",
+    "Snow",
+    "Sound"
+   ]
+  },
+  "ar": {
+   "q": "ماذا تُنتج مكبّرة الصوت؟",
+   "c": [
+    "الجليد",
+    "الظل",
+    "الثلج",
+    "الصوت"
+   ]
+  },
+  "es": {
+   "q": "¿Qué produce un altavoz?",
+   "c": [
+    "Hielo",
+    "Sombra",
+    "Nieve",
+    "Sonido"
+   ]
+  },
+  "pt": {
+   "q": "O que um alto-falante produz?",
+   "c": [
+    "Gelo",
+    "Sombra",
+    "Neve",
+    "Som"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Que ressent-on près d'un feu de camp ?",
+   "c": [
+    "Du froid",
+    "Du givre",
+    "De la neige",
+    "De la chaleur"
+   ]
+  },
+  "en": {
+   "q": "What do you feel near a campfire?",
+   "c": [
+    "Cold",
+    "Frost",
+    "Snow",
+    "Heat"
+   ]
+  },
+  "ar": {
+   "q": "ماذا تشعر بالقرب من نار المخيّم؟",
+   "c": [
+    "البرد",
+    "الصقيع",
+    "الثلج",
+    "الدفء"
+   ]
+  },
+  "es": {
+   "q": "¿Qué se siente cerca de una fogata?",
+   "c": [
+    "Frío",
+    "Escarcha",
+    "Nieve",
+    "Calor"
+   ]
+  },
+  "pt": {
+   "q": "O que se sente perto de uma fogueira?",
+   "c": [
+    "Frio",
+    "Geada",
+    "Neve",
+    "Calor"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "D'où tombe la pluie ?",
+   "c": [
+    "De la Lune",
+    "Des arbres",
+    "Du sol",
+    "Des nuages"
+   ]
+  },
+  "en": {
+   "q": "Where does rain fall from?",
+   "c": [
+    "The Moon",
+    "Trees",
+    "The ground",
+    "Clouds"
+   ]
+  },
+  "ar": {
+   "q": "من أين تسقط الأمطار؟",
+   "c": [
+    "من القمر",
+    "من الأشجار",
+    "من الأرض",
+    "من الغيوم"
+   ]
+  },
+  "es": {
+   "q": "¿De dónde cae la lluvia?",
+   "c": [
+    "De la Luna",
+    "De los árboles",
+    "Del suelo",
+    "De las nubes"
+   ]
+  },
+  "pt": {
+   "q": "De onde cai a chuva?",
+   "c": [
+    "Da Lua",
+    "Das árvores",
+    "Do chão",
+    "Das nuvens"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel objet nous renvoie notre image ?",
+   "c": [
+    "Un caillou",
+    "Une planche",
+    "Une brique",
+    "Un miroir"
+   ]
+  },
+  "en": {
+   "q": "Which object shows us our reflection?",
+   "c": [
+    "A pebble",
+    "A board",
+    "A brick",
+    "A mirror"
+   ]
+  },
+  "ar": {
+   "q": "ما الشيء الذي يعكس صورتنا؟",
+   "c": [
+    "الحصاة",
+    "اللوح الخشبي",
+    "الطوبة",
+    "المرآة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué objeto nos devuelve nuestra imagen?",
+   "c": [
+    "Una piedra",
+    "Una tabla",
+    "Un ladrillo",
+    "Un espejo"
+   ]
+  },
+  "pt": {
+   "q": "Que objeto nos devolve a nossa imagem?",
+   "c": [
+    "Uma pedra",
+    "Uma tábua",
+    "Um tijolo",
+    "Um espelho"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel bruit fort suit l'éclair pendant un orage ?",
+   "c": [
+    "Un murmure",
+    "Le tonnerre",
+    "Un sifflet",
+    "Un tintement"
+   ]
+  },
+  "en": {
+   "q": "What loud noise follows lightning in a storm?",
+   "c": [
+    "A whisper",
+    "Thunder",
+    "A whistle",
+    "A jingle"
+   ]
+  },
+  "ar": {
+   "q": "ما الصوت القوي الذي يتبع البرق أثناء العاصفة؟",
+   "c": [
+    "همس",
+    "الرعد",
+    "صفير",
+    "رنين"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ruido fuerte sigue al relámpago en una tormenta?",
+   "c": [
+    "Un murmullo",
+    "El trueno",
+    "Un silbato",
+    "Un tintineo"
+   ]
+  },
+  "pt": {
+   "q": "Que barulho forte segue o relâmpago numa tempestade?",
+   "c": [
+    "Um murmúrio",
+    "O trovão",
+    "Um apito",
+    "Um tilintar"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Qu'est-ce qui fait tourner une éolienne ?",
+   "c": [
+    "Le feu",
+    "Le vent",
+    "La neige",
+    "Le sable"
+   ]
+  },
+  "en": {
+   "q": "What makes a wind turbine spin?",
+   "c": [
+    "Fire",
+    "Wind",
+    "Snow",
+    "Sand"
+   ]
+  },
+  "ar": {
+   "q": "ما الذي يُدير التوربين الهوائي؟",
+   "c": [
+    "النار",
+    "الرياح",
+    "الثلج",
+    "الرمل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué hace girar un aerogenerador?",
+   "c": [
+    "El fuego",
+    "El viento",
+    "La nieve",
+    "La arena"
+   ]
+  },
+  "pt": {
+   "q": "O que faz um aerogerador girar?",
+   "c": [
+    "O fogo",
+    "O vento",
+    "A neve",
+    "A areia"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Que mesure une balance de cuisine ?",
+   "c": [
+    "L'heure",
+    "La température",
+    "La vitesse",
+    "Le poids"
+   ]
+  },
+  "en": {
+   "q": "What does a kitchen scale measure?",
+   "c": [
+    "Time",
+    "Temperature",
+    "Speed",
+    "Weight"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يقيس ميزان المطبخ؟",
+   "c": [
+    "الوقت",
+    "درجة الحرارة",
+    "السرعة",
+    "الوزن"
+   ]
+  },
+  "es": {
+   "q": "¿Qué mide una balanza de cocina?",
+   "c": [
+    "La hora",
+    "La temperatura",
+    "La velocidad",
+    "El peso"
+   ]
+  },
+  "pt": {
+   "q": "O que uma balança de cozinha mede?",
+   "c": [
+    "A hora",
+    "A temperatura",
+    "A velocidade",
+    "O peso"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Qu'est-ce qui fait fondre le beurre dans une poêle ?",
+   "c": [
+    "L'ombre",
+    "Le froid",
+    "Le silence",
+    "La chaleur"
+   ]
+  },
+  "en": {
+   "q": "What melts butter in a pan?",
+   "c": [
+    "Shade",
+    "Cold",
+    "Silence",
+    "Heat"
+   ]
+  },
+  "ar": {
+   "q": "ما الذي يُذيب الزبدة في المقلاة؟",
+   "c": [
+    "الظل",
+    "البرد",
+    "الصمت",
+    "الحرارة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué derrite la mantequilla en una sartén?",
+   "c": [
+    "La sombra",
+    "El frío",
+    "El silencio",
+    "El calor"
+   ]
+  },
+  "pt": {
+   "q": "O que derrete a manteiga numa frigideira?",
+   "c": [
+    "A sombra",
+    "O frio",
+    "O silêncio",
+    "O calor"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
    "q": "Qu'est-ce qui va le plus vite ?",
    "c": [
     "Une voiture",
@@ -1246,6 +1846,656 @@
    ]
   },
   "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel gaz fait pétiller les boissons gazeuses ?",
+   "c": [
+    "L'hélium",
+    "Le néon",
+    "L'argon",
+    "Le dioxyde de carbone"
+   ]
+  },
+  "en": {
+   "q": "Which gas makes fizzy drinks bubble?",
+   "c": [
+    "Helium",
+    "Neon",
+    "Argon",
+    "Carbon dioxide"
+   ]
+  },
+  "ar": {
+   "q": "ما الغاز الذي يجعل المشروبات الغازية فوّارة؟",
+   "c": [
+    "الهيليوم",
+    "النيون",
+    "الأرغون",
+    "ثاني أكسيد الكربون"
+   ]
+  },
+  "es": {
+   "q": "¿Qué gas hace burbujear las bebidas gaseosas?",
+   "c": [
+    "El helio",
+    "El neón",
+    "El argón",
+    "El dióxido de carbono"
+   ]
+  },
+  "pt": {
+   "q": "Que gás faz as bebidas gaseificadas borbulharem?",
+   "c": [
+    "O hélio",
+    "O néon",
+    "O argônio",
+    "O dióxido de carbono"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel est le symbole chimique de l'oxygène ?",
+   "c": [
+    "Oy",
+    "Ox",
+    "Oz",
+    "O"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical symbol for oxygen?",
+   "c": [
+    "Oy",
+    "Ox",
+    "Oz",
+    "O"
+   ]
+  },
+  "ar": {
+   "q": "ما الرمز الكيميائي للأكسجين؟",
+   "c": [
+    "Oy",
+    "Ox",
+    "Oz",
+    "O"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el símbolo químico del oxígeno?",
+   "c": [
+    "Oy",
+    "Ox",
+    "Oz",
+    "O"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o símbolo químico do oxigênio?",
+   "c": [
+    "Oy",
+    "Ox",
+    "Oz",
+    "O"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Que forme l'eau qui tombe du ciel quand il fait très froid ?",
+   "c": [
+    "De la neige",
+    "Du verre",
+    "De la fumée",
+    "Du sable"
+   ]
+  },
+  "en": {
+   "q": "What does water falling from the sky form when it is very cold?",
+   "c": [
+    "Snow",
+    "Glass",
+    "Smoke",
+    "Sand"
+   ]
+  },
+  "ar": {
+   "q": "ماذا تُشكّل المياه المتساقطة من السماء عندما يشتد البرد؟",
+   "c": [
+    "الثلج",
+    "الزجاج",
+    "الدخان",
+    "الرمل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué forma el agua que cae del cielo cuando hace mucho frío?",
+   "c": [
+    "Nieve",
+    "Vidrio",
+    "Humo",
+    "Arena"
+   ]
+  },
+  "pt": {
+   "q": "O que forma a água que cai do céu quando faz muito frio?",
+   "c": [
+    "Neve",
+    "Vidro",
+    "Fumaça",
+    "Areia"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel métal est attiré par un aimant ?",
+   "c": [
+    "Le fer",
+    "L'aluminium",
+    "Le cuivre",
+    "L'or"
+   ]
+  },
+  "en": {
+   "q": "Which metal is attracted by a magnet?",
+   "c": [
+    "Iron",
+    "Aluminum",
+    "Copper",
+    "Gold"
+   ]
+  },
+  "ar": {
+   "q": "أي معدن ينجذب إلى المغناطيس؟",
+   "c": [
+    "الحديد",
+    "الألمنيوم",
+    "النحاس",
+    "الذهب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué metal es atraído por un imán?",
+   "c": [
+    "El hierro",
+    "El aluminio",
+    "El cobre",
+    "El oro"
+   ]
+  },
+  "pt": {
+   "q": "Que metal é atraído por um ímã?",
+   "c": [
+    "O ferro",
+    "O alumínio",
+    "O cobre",
+    "O ouro"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Dans quel état de la matière l'air se trouve-t-il ?",
+   "c": [
+    "Liquide",
+    "Gazeux",
+    "Congelé",
+    "Solide"
+   ]
+  },
+  "en": {
+   "q": "What state of matter is air in?",
+   "c": [
+    "Liquid",
+    "Gas",
+    "Frozen",
+    "Solid"
+   ]
+  },
+  "ar": {
+   "q": "في أي حالة من حالات المادة يوجد الهواء؟",
+   "c": [
+    "سائلة",
+    "غازية",
+    "متجمّدة",
+    "صلبة"
+   ]
+  },
+  "es": {
+   "q": "¿En qué estado de la materia se encuentra el aire?",
+   "c": [
+    "Líquido",
+    "Gaseoso",
+    "Congelado",
+    "Sólido"
+   ]
+  },
+  "pt": {
+   "q": "Em que estado da matéria o ar se encontra?",
+   "c": [
+    "Líquido",
+    "Gasoso",
+    "Congelado",
+    "Sólido"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Qu'est-ce qui produit un son ?",
+   "c": [
+    "Un aimant",
+    "Une vibration",
+    "Une couleur",
+    "Une ombre"
+   ]
+  },
+  "en": {
+   "q": "What produces a sound?",
+   "c": [
+    "A magnet",
+    "A vibration",
+    "A color",
+    "A shadow"
+   ]
+  },
+  "ar": {
+   "q": "ما الذي يُنتج الصوت؟",
+   "c": [
+    "المغناطيس",
+    "الاهتزاز",
+    "اللون",
+    "الظل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué produce un sonido?",
+   "c": [
+    "Un imán",
+    "Una vibración",
+    "Un color",
+    "Una sombra"
+   ]
+  },
+  "pt": {
+   "q": "O que produz um som?",
+   "c": [
+    "Um ímã",
+    "Uma vibração",
+    "Uma cor",
+    "Uma sombra"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel élément fait tourner les turbines d'un barrage ?",
+   "c": [
+    "Le sable",
+    "Le verre",
+    "L'eau",
+    "La neige"
+   ]
+  },
+  "en": {
+   "q": "What makes the turbines of a dam spin?",
+   "c": [
+    "Sand",
+    "Glass",
+    "Water",
+    "Snow"
+   ]
+  },
+  "ar": {
+   "q": "ما الذي يُدير توربينات السد؟",
+   "c": [
+    "الرمل",
+    "الزجاج",
+    "الماء",
+    "الثلج"
+   ]
+  },
+  "es": {
+   "q": "¿Qué hace girar las turbinas de una presa?",
+   "c": [
+    "La arena",
+    "El vidrio",
+    "El agua",
+    "La nieve"
+   ]
+  },
+  "pt": {
+   "q": "O que faz girar as turbinas de uma barragem?",
+   "c": [
+    "A areia",
+    "O vidro",
+    "A água",
+    "A neve"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Que forme la vapeur d'eau qui refroidit en altitude ?",
+   "c": [
+    "Du sable",
+    "Du métal",
+    "Des nuages",
+    "Des pierres"
+   ]
+  },
+  "en": {
+   "q": "What does water vapor form when it cools high in the sky?",
+   "c": [
+    "Sand",
+    "Metal",
+    "Clouds",
+    "Stones"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يُكوّن بخار الماء عندما يبرد في الأعالي؟",
+   "c": [
+    "الرمل",
+    "المعدن",
+    "الغيوم",
+    "الحجارة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué forma el vapor de agua que se enfría en las alturas?",
+   "c": [
+    "Arena",
+    "Metal",
+    "Nubes",
+    "Piedras"
+   ]
+  },
+  "pt": {
+   "q": "O que forma o vapor de água que esfria nas alturas?",
+   "c": [
+    "Areia",
+    "Metal",
+    "Nuvens",
+    "Pedras"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Lequel de ces matériaux est transparent ?",
+   "c": [
+    "Le verre",
+    "Le bois",
+    "Le béton",
+    "Le carton"
+   ]
+  },
+  "en": {
+   "q": "Which of these materials is transparent?",
+   "c": [
+    "Glass",
+    "Wood",
+    "Concrete",
+    "Cardboard"
+   ]
+  },
+  "ar": {
+   "q": "أي من هذه المواد شفاف؟",
+   "c": [
+    "الزجاج",
+    "الخشب",
+    "الخرسانة",
+    "الكرتون"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál de estos materiales es transparente?",
+   "c": [
+    "El vidrio",
+    "La madera",
+    "El hormigón",
+    "El cartón"
+   ]
+  },
+  "pt": {
+   "q": "Qual destes materiais é transparente?",
+   "c": [
+    "O vidro",
+    "A madeira",
+    "O concreto",
+    "O papelão"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel appareil transforme l'électricité en lumière ?",
+   "c": [
+    "Un parapluie",
+    "Une ampoule",
+    "Un livre",
+    "Un stylo"
+   ]
+  },
+  "en": {
+   "q": "Which device turns electricity into light?",
+   "c": [
+    "An umbrella",
+    "A light bulb",
+    "A book",
+    "A pen"
+   ]
+  },
+  "ar": {
+   "q": "أي جهاز يحوّل الكهرباء إلى ضوء؟",
+   "c": [
+    "المظلة",
+    "المصباح",
+    "الكتاب",
+    "القلم"
+   ]
+  },
+  "es": {
+   "q": "¿Qué aparato transforma la electricidad en luz?",
+   "c": [
+    "Un paraguas",
+    "Una bombilla",
+    "Un libro",
+    "Un bolígrafo"
+   ]
+  },
+  "pt": {
+   "q": "Que aparelho transforma eletricidade em luz?",
+   "c": [
+    "Um guarda-chuva",
+    "Uma lâmpada",
+    "Um livro",
+    "Uma caneta"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Contre quoi un paratonnerre protège-t-il un bâtiment ?",
+   "c": [
+    "La neige",
+    "Le vent",
+    "La foudre",
+    "La pluie"
+   ]
+  },
+  "en": {
+   "q": "What does a lightning rod protect a building from?",
+   "c": [
+    "Snow",
+    "Wind",
+    "Lightning",
+    "Rain"
+   ]
+  },
+  "ar": {
+   "q": "مما تحمي مانعة الصواعق المبنى؟",
+   "c": [
+    "الثلج",
+    "الرياح",
+    "الصاعقة",
+    "المطر"
+   ]
+  },
+  "es": {
+   "q": "¿De qué protege un pararrayos a un edificio?",
+   "c": [
+    "De la nieve",
+    "Del viento",
+    "Del rayo",
+    "De la lluvia"
+   ]
+  },
+  "pt": {
+   "q": "Do que um para-raios protege um edifício?",
+   "c": [
+    "Da neve",
+    "Do vento",
+    "Do raio",
+    "Da chuva"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle force ralentit la chute d'un parachute ?",
+   "c": [
+    "La lumière",
+    "Le magnétisme",
+    "L'électricité",
+    "La résistance de l'air"
+   ]
+  },
+  "en": {
+   "q": "What force slows down a parachute's fall?",
+   "c": [
+    "Light",
+    "Magnetism",
+    "Electricity",
+    "Air resistance"
+   ]
+  },
+  "ar": {
+   "q": "ما القوة التي تُبطئ سقوط المظلة الهوائية؟",
+   "c": [
+    "الضوء",
+    "المغناطيسية",
+    "الكهرباء",
+    "مقاومة الهواء"
+   ]
+  },
+  "es": {
+   "q": "¿Qué fuerza frena la caída de un paracaídas?",
+   "c": [
+    "La luz",
+    "El magnetismo",
+    "La electricidad",
+    "La resistencia del aire"
+   ]
+  },
+  "pt": {
+   "q": "Que força freia a queda de um paraquedas?",
+   "c": [
+    "A luz",
+    "O magnetismo",
+    "A eletricidade",
+    "A resistência do ar"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel astre produit sa propre lumière ?",
+   "c": [
+    "Mars",
+    "Le Soleil",
+    "Vénus",
+    "La Lune"
+   ]
+  },
+  "en": {
+   "q": "Which heavenly body makes its own light?",
+   "c": [
+    "Mars",
+    "The Sun",
+    "Venus",
+    "The Moon"
+   ]
+  },
+  "ar": {
+   "q": "أي جرم سماوي يُنتج ضوءه بنفسه؟",
+   "c": [
+    "المريخ",
+    "الشمس",
+    "الزهرة",
+    "القمر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué astro produce su propia luz?",
+   "c": [
+    "Marte",
+    "El Sol",
+    "Venus",
+    "La Luna"
+   ]
+  },
+  "pt": {
+   "q": "Que astro produz a sua própria luz?",
+   "c": [
+    "Marte",
+    "O Sol",
+    "Vênus",
+    "A Lua"
+   ]
+  },
+  "a": 1,
   "image": null,
   "level": 2
  },
@@ -1851,6 +3101,556 @@
  },
  {
   "fr": {
+   "q": "Quel est le symbole chimique de l'hélium ?",
+   "c": [
+    "He",
+    "Le",
+    "Hl",
+    "Hm"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical symbol for helium?",
+   "c": [
+    "He",
+    "Le",
+    "Hl",
+    "Hm"
+   ]
+  },
+  "ar": {
+   "q": "ما الرمز الكيميائي للهيليوم؟",
+   "c": [
+    "He",
+    "Le",
+    "Hl",
+    "Hm"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el símbolo químico del helio?",
+   "c": [
+    "He",
+    "Le",
+    "Hl",
+    "Hm"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o símbolo químico do hélio?",
+   "c": [
+    "He",
+    "Le",
+    "Hl",
+    "Hm"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle unité mesure la masse ?",
+   "c": [
+    "Le litre",
+    "La seconde",
+    "Le mètre",
+    "Le kilogramme"
+   ]
+  },
+  "en": {
+   "q": "Which unit measures mass?",
+   "c": [
+    "The liter",
+    "The second",
+    "The meter",
+    "The kilogram"
+   ]
+  },
+  "ar": {
+   "q": "ما الوحدة التي تقيس الكتلة؟",
+   "c": [
+    "اللتر",
+    "الثانية",
+    "المتر",
+    "الكيلوغرام"
+   ]
+  },
+  "es": {
+   "q": "¿Qué unidad mide la masa?",
+   "c": [
+    "El litro",
+    "El segundo",
+    "El metro",
+    "El kilogramo"
+   ]
+  },
+  "pt": {
+   "q": "Que unidade mede a massa?",
+   "c": [
+    "O litro",
+    "O segundo",
+    "O metro",
+    "O quilograma"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle unité mesure une longueur ?",
+   "c": [
+    "La seconde",
+    "Le litre",
+    "Le kilogramme",
+    "Le mètre"
+   ]
+  },
+  "en": {
+   "q": "Which unit measures a length?",
+   "c": [
+    "The second",
+    "The liter",
+    "The kilogram",
+    "The meter"
+   ]
+  },
+  "ar": {
+   "q": "ما الوحدة التي تقيس الطول؟",
+   "c": [
+    "الثانية",
+    "اللتر",
+    "الكيلوغرام",
+    "المتر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué unidad mide una longitud?",
+   "c": [
+    "El segundo",
+    "El litro",
+    "El kilogramo",
+    "El metro"
+   ]
+  },
+  "pt": {
+   "q": "Que unidade mede um comprimento?",
+   "c": [
+    "O segundo",
+    "O litro",
+    "O quilograma",
+    "O metro"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle est la formule chimique du gaz carbonique ?",
+   "c": [
+    "H2",
+    "CO2",
+    "NaCl",
+    "O2"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical formula of carbon dioxide?",
+   "c": [
+    "H2",
+    "CO2",
+    "NaCl",
+    "O2"
+   ]
+  },
+  "ar": {
+   "q": "ما الصيغة الكيميائية لثاني أكسيد الكربون؟",
+   "c": [
+    "H2",
+    "CO2",
+    "NaCl",
+    "O2"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la fórmula química del dióxido de carbono?",
+   "c": [
+    "H2",
+    "CO2",
+    "NaCl",
+    "O2"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a fórmula química do dióxido de carbono?",
+   "c": [
+    "H2",
+    "CO2",
+    "NaCl",
+    "O2"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle est l'unité de la tension électrique ?",
+   "c": [
+    "Le volt",
+    "Le litre",
+    "Le gramme",
+    "Le mètre"
+   ]
+  },
+  "en": {
+   "q": "What is the unit of electric voltage?",
+   "c": [
+    "The volt",
+    "The liter",
+    "The gram",
+    "The meter"
+   ]
+  },
+  "ar": {
+   "q": "ما وحدة قياس الجهد الكهربائي؟",
+   "c": [
+    "الفولت",
+    "اللتر",
+    "الغرام",
+    "المتر"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la unidad de la tensión eléctrica?",
+   "c": [
+    "El voltio",
+    "El litro",
+    "El gramo",
+    "El metro"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a unidade da tensão elétrica?",
+   "c": [
+    "O volt",
+    "O litro",
+    "O grama",
+    "O metro"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Que transporte un fil électrique ?",
+   "c": [
+    "Du son",
+    "De l'eau",
+    "Du vent",
+    "Du courant électrique"
+   ]
+  },
+  "en": {
+   "q": "What does an electric wire carry?",
+   "c": [
+    "Sound",
+    "Water",
+    "Wind",
+    "Electric current"
+   ]
+  },
+  "ar": {
+   "q": "ماذا ينقل السلك الكهربائي؟",
+   "c": [
+    "الصوت",
+    "الماء",
+    "الرياح",
+    "التيار الكهربائي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué transporta un cable eléctrico?",
+   "c": [
+    "Sonido",
+    "Agua",
+    "Viento",
+    "Corriente eléctrica"
+   ]
+  },
+  "pt": {
+   "q": "O que um fio elétrico transporta?",
+   "c": [
+    "Som",
+    "Água",
+    "Vento",
+    "Corrente elétrica"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel est le symbole chimique de l'azote ?",
+   "c": [
+    "Ne",
+    "Na",
+    "N",
+    "No"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical symbol for nitrogen?",
+   "c": [
+    "Ne",
+    "Na",
+    "N",
+    "No"
+   ]
+  },
+  "ar": {
+   "q": "ما الرمز الكيميائي للنيتروجين؟",
+   "c": [
+    "Ne",
+    "Na",
+    "N",
+    "No"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el símbolo químico del nitrógeno?",
+   "c": [
+    "Ne",
+    "Na",
+    "N",
+    "No"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o símbolo químico do nitrogênio?",
+   "c": [
+    "Ne",
+    "Na",
+    "N",
+    "No"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle unité sert à mesurer la vitesse d'une voiture sur la route ?",
+   "c": [
+    "Les kilogrammes",
+    "Les degrés",
+    "Les kilomètres par heure",
+    "Les litres"
+   ]
+  },
+  "en": {
+   "q": "Which unit is used to measure a car's speed on the road?",
+   "c": [
+    "Kilograms",
+    "Degrees",
+    "Kilometers per hour",
+    "Liters"
+   ]
+  },
+  "ar": {
+   "q": "ما الوحدة المستخدمة لقياس سرعة السيارة على الطريق؟",
+   "c": [
+    "كيلوغرام",
+    "درجة",
+    "كيلومتر في الساعة",
+    "لتر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué unidad se usa para medir la velocidad de un coche en la carretera?",
+   "c": [
+    "Kilogramos",
+    "Grados",
+    "Kilómetros por hora",
+    "Litros"
+   ]
+  },
+  "pt": {
+   "q": "Que unidade se usa para medir a velocidade de um carro na estrada?",
+   "c": [
+    "Quilogramas",
+    "Graus",
+    "Quilômetros por hora",
+    "Litros"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Que mesure un litre ?",
+   "c": [
+    "Un volume",
+    "Une température",
+    "Une masse",
+    "Une longueur"
+   ]
+  },
+  "en": {
+   "q": "What does a liter measure?",
+   "c": [
+    "A volume",
+    "A temperature",
+    "A mass",
+    "A length"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يقيس اللتر؟",
+   "c": [
+    "الحجم",
+    "درجة الحرارة",
+    "الكتلة",
+    "الطول"
+   ]
+  },
+  "es": {
+   "q": "¿Qué mide un litro?",
+   "c": [
+    "Un volumen",
+    "Una temperatura",
+    "Una masa",
+    "Una longitud"
+   ]
+  },
+  "pt": {
+   "q": "O que um litro mede?",
+   "c": [
+    "Um volume",
+    "Uma temperatura",
+    "Uma massa",
+    "Um comprimento"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle force freine un objet qui glisse sur le sol ?",
+   "c": [
+    "Le son",
+    "La lumière",
+    "Le frottement",
+    "Le magnétisme"
+   ]
+  },
+  "en": {
+   "q": "What force slows down an object sliding on the ground?",
+   "c": [
+    "Sound",
+    "Light",
+    "Friction",
+    "Magnetism"
+   ]
+  },
+  "ar": {
+   "q": "ما القوة التي تُبطئ جسماً ينزلق على الأرض؟",
+   "c": [
+    "الصوت",
+    "الضوء",
+    "الاحتكاك",
+    "المغناطيسية"
+   ]
+  },
+  "es": {
+   "q": "¿Qué fuerza frena un objeto que se desliza por el suelo?",
+   "c": [
+    "El sonido",
+    "La luz",
+    "El rozamiento",
+    "El magnetismo"
+   ]
+  },
+  "pt": {
+   "q": "Que força freia um objeto que desliza pelo chão?",
+   "c": [
+    "O som",
+    "A luz",
+    "O atrito",
+    "O magnetismo"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle est la température normale du corps humain ?",
+   "c": [
+    "50 °C",
+    "45 °C",
+    "37 °C",
+    "25 °C"
+   ]
+  },
+  "en": {
+   "q": "What is the normal temperature of the human body?",
+   "c": [
+    "50 °C",
+    "45 °C",
+    "37 °C",
+    "25 °C"
+   ]
+  },
+  "ar": {
+   "q": "ما درجة حرارة جسم الإنسان الطبيعية؟",
+   "c": [
+    "50 °C",
+    "45 °C",
+    "37 °C",
+    "25 °C"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la temperatura normal del cuerpo humano?",
+   "c": [
+    "50 °C",
+    "45 °C",
+    "37 °C",
+    "25 °C"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a temperatura normal do corpo humano?",
+   "c": [
+    "50 °C",
+    "45 °C",
+    "37 °C",
+    "25 °C"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
    "q": "Quelle est l'unité de la résistance électrique (dans le SI) ?",
    "c": [
     "Le watt",
@@ -2296,6 +4096,506 @@
    ]
   },
   "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel est le symbole chimique de l'argent ?",
+   "c": [
+    "Au",
+    "Al",
+    "Ar",
+    "Ag"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical symbol for silver?",
+   "c": [
+    "Au",
+    "Al",
+    "Ar",
+    "Ag"
+   ]
+  },
+  "ar": {
+   "q": "ما الرمز الكيميائي للفضة؟",
+   "c": [
+    "Au",
+    "Al",
+    "Ar",
+    "Ag"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el símbolo químico de la plata?",
+   "c": [
+    "Au",
+    "Al",
+    "Ar",
+    "Ag"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o símbolo químico da prata?",
+   "c": [
+    "Au",
+    "Al",
+    "Ar",
+    "Ag"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel matériau conduit bien l'électricité ?",
+   "c": [
+    "Le cuivre",
+    "Le caoutchouc",
+    "Le bois sec",
+    "Le plastique"
+   ]
+  },
+  "en": {
+   "q": "Which material conducts electricity well?",
+   "c": [
+    "Copper",
+    "Rubber",
+    "Dry wood",
+    "Plastic"
+   ]
+  },
+  "ar": {
+   "q": "أي مادة توصّل الكهرباء جيداً؟",
+   "c": [
+    "النحاس",
+    "المطاط",
+    "الخشب الجاف",
+    "البلاستيك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué material conduce bien la electricidad?",
+   "c": [
+    "El cobre",
+    "El caucho",
+    "La madera seca",
+    "El plástico"
+   ]
+  },
+  "pt": {
+   "q": "Que material conduz bem a eletricidade?",
+   "c": [
+    "O cobre",
+    "A borracha",
+    "A madeira seca",
+    "O plástico"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Lequel de ces matériaux est un isolant électrique ?",
+   "c": [
+    "L'argent",
+    "Le cuivre",
+    "Le fer",
+    "Le plastique"
+   ]
+  },
+  "en": {
+   "q": "Which of these materials is an electrical insulator?",
+   "c": [
+    "Silver",
+    "Copper",
+    "Iron",
+    "Plastic"
+   ]
+  },
+  "ar": {
+   "q": "أي من هذه المواد عازل كهربائي؟",
+   "c": [
+    "الفضة",
+    "النحاس",
+    "الحديد",
+    "البلاستيك"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál de estos materiales es un aislante eléctrico?",
+   "c": [
+    "La plata",
+    "El cobre",
+    "El hierro",
+    "El plástico"
+   ]
+  },
+  "pt": {
+   "q": "Qual destes materiais é um isolante elétrico?",
+   "c": [
+    "A prata",
+    "O cobre",
+    "O ferro",
+    "O plástico"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle énergie renouvelable utilise la chaleur du sous-sol ?",
+   "c": [
+    "Le pétrole",
+    "Le gaz naturel",
+    "Le charbon",
+    "La géothermie"
+   ]
+  },
+  "en": {
+   "q": "Which renewable energy uses heat from underground?",
+   "c": [
+    "Oil",
+    "Natural gas",
+    "Coal",
+    "Geothermal"
+   ]
+  },
+  "ar": {
+   "q": "أي طاقة متجددة تستخدم حرارة باطن الأرض؟",
+   "c": [
+    "النفط",
+    "الغاز الطبيعي",
+    "الفحم",
+    "الطاقة الحرارية الأرضية"
+   ]
+  },
+  "es": {
+   "q": "¿Qué energía renovable utiliza el calor del subsuelo?",
+   "c": [
+    "El petróleo",
+    "El gas natural",
+    "El carbón",
+    "La geotérmica"
+   ]
+  },
+  "pt": {
+   "q": "Que energia renovável usa o calor do subsolo?",
+   "c": [
+    "O petróleo",
+    "O gás natural",
+    "O carvão",
+    "A geotérmica"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel inventeur est célèbre pour avoir perfectionné l'ampoule électrique ?",
+   "c": [
+    "Charles Darwin",
+    "Thomas Edison",
+    "Louis Pasteur",
+    "Isaac Newton"
+   ]
+  },
+  "en": {
+   "q": "Which inventor is famous for perfecting the electric light bulb?",
+   "c": [
+    "Charles Darwin",
+    "Thomas Edison",
+    "Louis Pasteur",
+    "Isaac Newton"
+   ]
+  },
+  "ar": {
+   "q": "أي مخترع اشتهر بتطوير المصباح الكهربائي؟",
+   "c": [
+    "تشارلز داروين",
+    "توماس إديسون",
+    "لويس باستور",
+    "إسحاق نيوتن"
+   ]
+  },
+  "es": {
+   "q": "¿Qué inventor es famoso por perfeccionar la bombilla eléctrica?",
+   "c": [
+    "Charles Darwin",
+    "Thomas Edison",
+    "Louis Pasteur",
+    "Isaac Newton"
+   ]
+  },
+  "pt": {
+   "q": "Que inventor é famoso por aperfeiçoar a lâmpada elétrica?",
+   "c": [
+    "Charles Darwin",
+    "Thomas Edison",
+    "Louis Pasteur",
+    "Isaac Newton"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel savant italien a inventé la pile électrique ?",
+   "c": [
+    "Galilée",
+    "Christophe Colomb",
+    "Alessandro Volta",
+    "Léonard de Vinci"
+   ]
+  },
+  "en": {
+   "q": "Which Italian scientist invented the electric battery?",
+   "c": [
+    "Galileo",
+    "Christopher Columbus",
+    "Alessandro Volta",
+    "Leonardo da Vinci"
+   ]
+  },
+  "ar": {
+   "q": "أي عالم إيطالي اخترع البطارية الكهربائية؟",
+   "c": [
+    "غاليليو",
+    "كريستوفر كولومبوس",
+    "أليساندرو فولتا",
+    "ليوناردو دا فينشي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué científico italiano inventó la pila eléctrica?",
+   "c": [
+    "Galileo",
+    "Cristóbal Colón",
+    "Alessandro Volta",
+    "Leonardo da Vinci"
+   ]
+  },
+  "pt": {
+   "q": "Que cientista italiano inventou a pilha elétrica?",
+   "c": [
+    "Galileu",
+    "Cristóvão Colombo",
+    "Alessandro Volta",
+    "Leonardo da Vinci"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel est le symbole chimique du cuivre ?",
+   "c": [
+    "Co",
+    "Cu",
+    "Ca",
+    "Cr"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical symbol for copper?",
+   "c": [
+    "Co",
+    "Cu",
+    "Ca",
+    "Cr"
+   ]
+  },
+  "ar": {
+   "q": "ما الرمز الكيميائي للنحاس؟",
+   "c": [
+    "Co",
+    "Cu",
+    "Ca",
+    "Cr"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el símbolo químico del cobre?",
+   "c": [
+    "Co",
+    "Cu",
+    "Ca",
+    "Cr"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o símbolo químico do cobre?",
+   "c": [
+    "Co",
+    "Cu",
+    "Ca",
+    "Cr"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel est le symbole chimique du chlore ?",
+   "c": [
+    "Ch",
+    "Cl",
+    "C",
+    "Cr"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical symbol for chlorine?",
+   "c": [
+    "Ch",
+    "Cl",
+    "C",
+    "Cr"
+   ]
+  },
+  "ar": {
+   "q": "ما الرمز الكيميائي للكلور؟",
+   "c": [
+    "Ch",
+    "Cl",
+    "C",
+    "Cr"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el símbolo químico del cloro?",
+   "c": [
+    "Ch",
+    "Cl",
+    "C",
+    "Cr"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o símbolo químico do cloro?",
+   "c": [
+    "Ch",
+    "Cl",
+    "C",
+    "Cr"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle énergie est produite dans une centrale qui utilise de l'uranium ?",
+   "c": [
+    "L'énergie hydraulique",
+    "L'énergie nucléaire",
+    "L'énergie solaire",
+    "L'énergie éolienne"
+   ]
+  },
+  "en": {
+   "q": "What energy is produced in a power plant that uses uranium?",
+   "c": [
+    "Hydroelectric energy",
+    "Nuclear energy",
+    "Solar energy",
+    "Wind energy"
+   ]
+  },
+  "ar": {
+   "q": "ما الطاقة التي تُنتَج في محطة تستخدم اليورانيوم؟",
+   "c": [
+    "الطاقة المائية",
+    "الطاقة النووية",
+    "الطاقة الشمسية",
+    "طاقة الرياح"
+   ]
+  },
+  "es": {
+   "q": "¿Qué energía se produce en una central que usa uranio?",
+   "c": [
+    "Energía hidráulica",
+    "Energía nuclear",
+    "Energía solar",
+    "Energía eólica"
+   ]
+  },
+  "pt": {
+   "q": "Que energia é produzida numa central que usa urânio?",
+   "c": [
+    "Energia hidráulica",
+    "Energia nuclear",
+    "Energia solar",
+    "Energia eólica"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel instrument mesure la vitesse du vent ?",
+   "c": [
+    "Un baromètre",
+    "Un thermomètre",
+    "Un anémomètre",
+    "Un sismographe"
+   ]
+  },
+  "en": {
+   "q": "Which instrument measures wind speed?",
+   "c": [
+    "A barometer",
+    "A thermometer",
+    "An anemometer",
+    "A seismograph"
+   ]
+  },
+  "ar": {
+   "q": "أي أداة تقيس سرعة الرياح؟",
+   "c": [
+    "البارومتر",
+    "الترمومتر",
+    "مقياس الرياح",
+    "جهاز الزلازل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué instrumento mide la velocidad del viento?",
+   "c": [
+    "Un barómetro",
+    "Un termómetro",
+    "Un anemómetro",
+    "Un sismógrafo"
+   ]
+  },
+  "pt": {
+   "q": "Que instrumento mede a velocidade do vento?",
+   "c": [
+    "Um barômetro",
+    "Um termômetro",
+    "Um anemômetro",
+    "Um sismógrafo"
+   ]
+  },
+  "a": 2,
   "image": null,
   "level": 4
  },
@@ -3246,6 +5546,56 @@
    ]
   },
   "a": 2,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Pourquoi l'huile flotte-t-elle sur l'eau ?",
+   "c": [
+    "Elle est moins dense",
+    "Elle est plus salée",
+    "Elle est plus chaude",
+    "Elle est plus lourde"
+   ]
+  },
+  "en": {
+   "q": "Why does oil float on water?",
+   "c": [
+    "It is less dense",
+    "It is saltier",
+    "It is hotter",
+    "It is heavier"
+   ]
+  },
+  "ar": {
+   "q": "لماذا يطفو الزيت على الماء؟",
+   "c": [
+    "لأنه أقل كثافة",
+    "لأنه أكثر ملوحة",
+    "لأنه أسخن",
+    "لأنه أثقل"
+   ]
+  },
+  "es": {
+   "q": "¿Por qué el aceite flota sobre el agua?",
+   "c": [
+    "Es menos denso",
+    "Es más salado",
+    "Está más caliente",
+    "Es más pesado"
+   ]
+  },
+  "pt": {
+   "q": "Por que o óleo flutua sobre a água?",
+   "c": [
+    "É menos denso",
+    "É mais salgado",
+    "Está mais quente",
+    "É mais pesado"
+   ]
+  },
+  "a": 0,
   "image": null,
   "level": 5
  },

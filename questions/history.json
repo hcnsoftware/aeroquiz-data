@@ -601,6 +601,656 @@
  },
  {
   "fr": {
+   "q": "Dans quelle ville se trouve le célèbre Colisée ?",
+   "c": [
+    "Le Caire",
+    "Rome",
+    "Paris",
+    "Athènes"
+   ]
+  },
+  "en": {
+   "q": "In which city is the famous Colosseum?",
+   "c": [
+    "Cairo",
+    "Rome",
+    "Paris",
+    "Athens"
+   ]
+  },
+  "ar": {
+   "q": "في أي مدينة يقع الكولوسيوم الشهير؟",
+   "c": [
+    "القاهرة",
+    "روما",
+    "باريس",
+    "أثينا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué ciudad está el famoso Coliseo?",
+   "c": [
+    "El Cairo",
+    "Roma",
+    "París",
+    "Atenas"
+   ]
+  },
+  "pt": {
+   "q": "Em que cidade fica o famoso Coliseu?",
+   "c": [
+    "Cairo",
+    "Roma",
+    "Paris",
+    "Atenas"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel dessin voit-on sur le drapeau des pirates ?",
+   "c": [
+    "Une étoile",
+    "Une tête de mort",
+    "Un soleil",
+    "Un cœur"
+   ]
+  },
+  "en": {
+   "q": "What picture is on a pirate flag?",
+   "c": [
+    "A star",
+    "A skull",
+    "A sun",
+    "A heart"
+   ]
+  },
+  "ar": {
+   "q": "ما الرسم الموجود على علم القراصنة؟",
+   "c": [
+    "نجمة",
+    "جمجمة",
+    "شمس",
+    "قلب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué dibujo tiene la bandera pirata?",
+   "c": [
+    "Una estrella",
+    "Una calavera",
+    "Un sol",
+    "Un corazón"
+   ]
+  },
+  "pt": {
+   "q": "Que desenho tem a bandeira dos piratas?",
+   "c": [
+    "Uma estrela",
+    "Uma caveira",
+    "Um sol",
+    "Um coração"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle découverte a permis aux hommes préhistoriques de cuire leur viande ?",
+   "c": [
+    "Le gaz",
+    "Le four micro-ondes",
+    "Le feu",
+    "L'électricité"
+   ]
+  },
+  "en": {
+   "q": "Which discovery let prehistoric people cook their meat?",
+   "c": [
+    "Gas",
+    "The microwave",
+    "Fire",
+    "Electricity"
+   ]
+  },
+  "ar": {
+   "q": "ما الاكتشاف الذي سمح لإنسان ما قبل التاريخ بطهي لحمه؟",
+   "c": [
+    "الغاز",
+    "الميكروويف",
+    "النار",
+    "الكهرباء"
+   ]
+  },
+  "es": {
+   "q": "¿Qué descubrimiento permitió a los hombres prehistóricos cocinar su carne?",
+   "c": [
+    "El gas",
+    "El microondas",
+    "El fuego",
+    "La electricidad"
+   ]
+  },
+  "pt": {
+   "q": "Que descoberta permitiu aos homens pré-históricos cozinhar a carne?",
+   "c": [
+    "O gás",
+    "O micro-ondas",
+    "O fogo",
+    "A eletricidade"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle arme un chevalier portait-il à la ceinture ?",
+   "c": [
+    "Un laser",
+    "Une mitraillette",
+    "Un fusil",
+    "Une épée"
+   ]
+  },
+  "en": {
+   "q": "What weapon did a knight wear at his belt?",
+   "c": [
+    "A laser",
+    "A machine gun",
+    "A rifle",
+    "A sword"
+   ]
+  },
+  "ar": {
+   "q": "ما السلاح الذي كان الفارس يحمله على خصره؟",
+   "c": [
+    "ليزر",
+    "رشاش",
+    "بندقية",
+    "سيف"
+   ]
+  },
+  "es": {
+   "q": "¿Qué arma llevaba un caballero en el cinturón?",
+   "c": [
+    "Un láser",
+    "Una ametralladora",
+    "Un fusil",
+    "Una espada"
+   ]
+  },
+  "pt": {
+   "q": "Que arma um cavaleiro levava na cintura?",
+   "c": [
+    "Um laser",
+    "Uma metralhadora",
+    "Uma espingarda",
+    "Uma espada"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quels frères ont réalisé les premiers vols en avion à moteur ?",
+   "c": [
+    "Les frères Dalton",
+    "Les frères Wright",
+    "Les frères Lumière",
+    "Les frères Grimm"
+   ]
+  },
+  "en": {
+   "q": "Which brothers made the first powered airplane flights?",
+   "c": [
+    "The Dalton brothers",
+    "The Wright brothers",
+    "The Lumière brothers",
+    "The Grimm brothers"
+   ]
+  },
+  "ar": {
+   "q": "أي أخوين قاما بأولى الرحلات بطائرة ذات محرك؟",
+   "c": [
+    "الأخوان دالتون",
+    "الأخوان رايت",
+    "الأخوان لوميير",
+    "الأخوان غريم"
+   ]
+  },
+  "es": {
+   "q": "¿Qué hermanos hicieron los primeros vuelos en avión con motor?",
+   "c": [
+    "Los hermanos Dalton",
+    "Los hermanos Wright",
+    "Los hermanos Lumière",
+    "Los hermanos Grimm"
+   ]
+  },
+  "pt": {
+   "q": "Que irmãos fizeram os primeiros voos de avião a motor?",
+   "c": [
+    "Os irmãos Dalton",
+    "Os irmãos Wright",
+    "Os irmãos Lumière",
+    "Os irmãos Grimm"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Sur quoi les Égyptiens de l'Antiquité écrivaient-ils ?",
+   "c": [
+    "Sur des écrans",
+    "Sur du papyrus",
+    "Sur du carton",
+    "Sur du plastique"
+   ]
+  },
+  "en": {
+   "q": "What did the ancient Egyptians write on?",
+   "c": [
+    "Screens",
+    "Papyrus",
+    "Cardboard",
+    "Plastic"
+   ]
+  },
+  "ar": {
+   "q": "على ماذا كان المصريون القدماء يكتبون؟",
+   "c": [
+    "الشاشات",
+    "البردي",
+    "الكرتون",
+    "البلاستيك"
+   ]
+  },
+  "es": {
+   "q": "¿Sobre qué escribían los antiguos egipcios?",
+   "c": [
+    "Pantallas",
+    "Papiro",
+    "Cartón",
+    "Plástico"
+   ]
+  },
+  "pt": {
+   "q": "Sobre o que os antigos egípcios escreviam?",
+   "c": [
+    "Telas",
+    "Papiro",
+    "Papelão",
+    "Plástico"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Sur quel animal un chevalier partait-il au combat ?",
+   "c": [
+    "Un panda",
+    "Un kangourou",
+    "Un cheval",
+    "Un dauphin"
+   ]
+  },
+  "en": {
+   "q": "Which animal did a knight ride into battle?",
+   "c": [
+    "A panda",
+    "A kangaroo",
+    "A horse",
+    "A dolphin"
+   ]
+  },
+  "ar": {
+   "q": "على أي حيوان كان الفارس يذهب إلى المعركة؟",
+   "c": [
+    "باندا",
+    "كنغر",
+    "حصان",
+    "دلفين"
+   ]
+  },
+  "es": {
+   "q": "¿En qué animal iba un caballero al combate?",
+   "c": [
+    "Un panda",
+    "Un canguro",
+    "Un caballo",
+    "Un delfín"
+   ]
+  },
+  "pt": {
+   "q": "Em que animal um cavaleiro ia para o combate?",
+   "c": [
+    "Um panda",
+    "Um canguru",
+    "Um cavalo",
+    "Um golfinho"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quels animaux Hannibal a-t-il emmenés pour traverser les Alpes ?",
+   "c": [
+    "Des girafes",
+    "Des dauphins",
+    "Des éléphants",
+    "Des pandas"
+   ]
+  },
+  "en": {
+   "q": "Which animals did Hannibal take across the Alps?",
+   "c": [
+    "Giraffes",
+    "Dolphins",
+    "Elephants",
+    "Pandas"
+   ]
+  },
+  "ar": {
+   "q": "ما الحيوانات التي اصطحبها حنبعل لعبور جبال الألب؟",
+   "c": [
+    "الزرافات",
+    "الدلافين",
+    "الفيلة",
+    "الباندا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animales llevó Aníbal para cruzar los Alpes?",
+   "c": [
+    "Jirafas",
+    "Delfines",
+    "Elefantes",
+    "Pandas"
+   ]
+  },
+  "pt": {
+   "q": "Que animais Aníbal levou para atravessar os Alpes?",
+   "c": [
+    "Girafas",
+    "Golfinhos",
+    "Elefantes",
+    "Pandas"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Que faisaient les Égyptiens pour conserver le corps des pharaons ?",
+   "c": [
+    "Ils les momifiaient",
+    "Ils les fumaient",
+    "Ils les congelaient",
+    "Ils les transformaient en pierre"
+   ]
+  },
+  "en": {
+   "q": "What did the Egyptians do to preserve pharaohs' bodies?",
+   "c": [
+    "They mummified them",
+    "They smoked them",
+    "They froze them",
+    "They turned them to stone"
+   ]
+  },
+  "ar": {
+   "q": "ماذا كان المصريون يفعلون لحفظ جثث الفراعنة؟",
+   "c": [
+    "كانوا يحنطونها",
+    "كانوا يدخنونها",
+    "كانوا يجمدونها",
+    "كانوا يحولونها إلى حجر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué hacían los egipcios para conservar el cuerpo de los faraones?",
+   "c": [
+    "Los momificaban",
+    "Los ahumaban",
+    "Los congelaban",
+    "Los convertían en piedra"
+   ]
+  },
+  "pt": {
+   "q": "O que os egípcios faziam para conservar o corpo dos faraós?",
+   "c": [
+    "Eles os mumificavam",
+    "Eles os defumavam",
+    "Eles os congelavam",
+    "Eles os transformavam em pedra"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Avec quelle matière les hommes préhistoriques fabriquaient-ils leurs premiers outils ?",
+   "c": [
+    "Le caoutchouc",
+    "L'acier",
+    "Le plastique",
+    "La pierre"
+   ]
+  },
+  "en": {
+   "q": "What material did prehistoric people use for their first tools?",
+   "c": [
+    "Rubber",
+    "Steel",
+    "Plastic",
+    "Stone"
+   ]
+  },
+  "ar": {
+   "q": "من أي مادة صنع إنسان ما قبل التاريخ أولى أدواته؟",
+   "c": [
+    "المطاط",
+    "الفولاذ",
+    "البلاستيك",
+    "الحجر"
+   ]
+  },
+  "es": {
+   "q": "¿Con qué material fabricaban sus primeras herramientas los hombres prehistóricos?",
+   "c": [
+    "Caucho",
+    "Acero",
+    "Plástico",
+    "Piedra"
+   ]
+  },
+  "pt": {
+   "q": "Com que material os homens pré-históricos faziam as primeiras ferramentas?",
+   "c": [
+    "Borracha",
+    "Aço",
+    "Plástico",
+    "Pedra"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Que portait un chevalier sur la tête pour se protéger ?",
+   "c": [
+    "Un chapeau de paille",
+    "Une casquette",
+    "Un casque",
+    "Un bonnet de bain"
+   ]
+  },
+  "en": {
+   "q": "What did a knight wear on his head for protection?",
+   "c": [
+    "A straw hat",
+    "A cap",
+    "A helmet",
+    "A swimming cap"
+   ]
+  },
+  "ar": {
+   "q": "ماذا كان الفارس يضع على رأسه للحماية؟",
+   "c": [
+    "قبعة قش",
+    "قبعة رياضية",
+    "خوذة",
+    "قبعة سباحة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué llevaba un caballero en la cabeza para protegerse?",
+   "c": [
+    "Un sombrero de paja",
+    "Una gorra",
+    "Un casco",
+    "Un gorro de baño"
+   ]
+  },
+  "pt": {
+   "q": "O que um cavaleiro usava na cabeça para se proteger?",
+   "c": [
+    "Um chapéu de palha",
+    "Um boné",
+    "Um capacete",
+    "Uma touca de banho"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel pays est célèbre pour ses samouraïs ?",
+   "c": [
+    "Le Japon",
+    "L'Égypte",
+    "L'Islande",
+    "Le Brésil"
+   ]
+  },
+  "en": {
+   "q": "Which country is famous for its samurai?",
+   "c": [
+    "Japan",
+    "Egypt",
+    "Iceland",
+    "Brazil"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد مشهور بالساموراي؟",
+   "c": [
+    "اليابان",
+    "مصر",
+    "آيسلندا",
+    "البرازيل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país es famoso por sus samuráis?",
+   "c": [
+    "Japón",
+    "Egipto",
+    "Islandia",
+    "Brasil"
+   ]
+  },
+  "pt": {
+   "q": "Que país é famoso pelos seus samurais?",
+   "c": [
+    "O Japão",
+    "O Egito",
+    "A Islândia",
+    "O Brasil"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Que cherchent les pirates avec une carte au trésor ?",
+   "c": [
+    "Un dinosaure",
+    "Un volcan",
+    "Un trésor",
+    "Un château"
+   ]
+  },
+  "en": {
+   "q": "What do pirates look for with a treasure map?",
+   "c": [
+    "A dinosaur",
+    "A volcano",
+    "A treasure",
+    "A castle"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يبحث القراصنة بواسطة خريطة الكنز؟",
+   "c": [
+    "ديناصور",
+    "بركان",
+    "كنز",
+    "قلعة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué buscan los piratas con un mapa del tesoro?",
+   "c": [
+    "Un dinosaurio",
+    "Un volcán",
+    "Un tesoro",
+    "Un castillo"
+   ]
+  },
+  "pt": {
+   "q": "O que os piratas procuram com um mapa do tesouro?",
+   "c": [
+    "Um dinossauro",
+    "Um vulcão",
+    "Um tesouro",
+    "Um castelo"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
    "q": "Qui fut le premier président des États-Unis ?",
    "c": [
     "John Adams",
@@ -1193,6 +1843,656 @@
     "Josef Stálin",
     "Adolf Hitler",
     "Benito Mussolini"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on la période avant l'invention de l'écriture ?",
+   "c": [
+    "Les Temps modernes",
+    "L'Antiquité",
+    "Le Moyen Âge",
+    "La Préhistoire"
+   ]
+  },
+  "en": {
+   "q": "What is the period before writing was invented called?",
+   "c": [
+    "The Modern Age",
+    "Antiquity",
+    "The Middle Ages",
+    "Prehistory"
+   ]
+  },
+  "ar": {
+   "q": "ما اسم الفترة التي سبقت اختراع الكتابة؟",
+   "c": [
+    "العصر الحديث",
+    "العصور القديمة",
+    "العصور الوسطى",
+    "عصور ما قبل التاريخ"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama el período anterior a la invención de la escritura?",
+   "c": [
+    "La Edad Moderna",
+    "La Antigüedad",
+    "La Edad Media",
+    "La Prehistoria"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama o período anterior à invenção da escrita?",
+   "c": [
+    "A Idade Moderna",
+    "A Antiguidade",
+    "A Idade Média",
+    "A Pré-História"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle ville romaine a été ensevelie par l'éruption du Vésuve en 79 ?",
+   "c": [
+    "Athènes",
+    "Pompéi",
+    "Alexandrie",
+    "Carthage"
+   ]
+  },
+  "en": {
+   "q": "Which Roman city was buried by Mount Vesuvius in 79?",
+   "c": [
+    "Athens",
+    "Pompeii",
+    "Alexandria",
+    "Carthage"
+   ]
+  },
+  "ar": {
+   "q": "أي مدينة رومانية دفنها ثوران جبل فيزوف عام 79؟",
+   "c": [
+    "أثينا",
+    "بومبي",
+    "الإسكندرية",
+    "قرطاج"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ciudad romana quedó sepultada por la erupción del Vesubio en el año 79?",
+   "c": [
+    "Atenas",
+    "Pompeya",
+    "Alejandría",
+    "Cartago"
+   ]
+  },
+  "pt": {
+   "q": "Que cidade romana foi soterrada pela erupção do Vesúvio em 79?",
+   "c": [
+    "Atenas",
+    "Pompeia",
+    "Alexandria",
+    "Cartago"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle reine de France a été guillotinée en 1793 ?",
+   "c": [
+    "Marie-Antoinette",
+    "Cléopâtre",
+    "Anne de Bretagne",
+    "Catherine de Médicis"
+   ]
+  },
+  "en": {
+   "q": "Which queen of France was guillotined in 1793?",
+   "c": [
+    "Marie Antoinette",
+    "Cleopatra",
+    "Anne of Brittany",
+    "Catherine de' Medici"
+   ]
+  },
+  "ar": {
+   "q": "أي ملكة لفرنسا أُعدمت بالمقصلة عام 1793؟",
+   "c": [
+    "ماري أنطوانيت",
+    "كليوباترا",
+    "آن دي بريتاني",
+    "كاترين دي ميديشي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué reina de Francia fue guillotinada en 1793?",
+   "c": [
+    "María Antonieta",
+    "Cleopatra",
+    "Ana de Bretaña",
+    "Catalina de Médici"
+   ]
+  },
+  "pt": {
+   "q": "Que rainha da França foi guilhotinada em 1793?",
+   "c": [
+    "Maria Antonieta",
+    "Cleópatra",
+    "Ana da Bretanha",
+    "Catarina de Médici"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Dans la légende, quel objet géant les Grecs ont-ils laissé devant Troie ?",
+   "c": [
+    "Un cheval de bois",
+    "Un éléphant de bronze",
+    "Une statue d'or",
+    "Un bateau de pierre"
+   ]
+  },
+  "en": {
+   "q": "In legend, what giant object did the Greeks leave outside Troy?",
+   "c": [
+    "A wooden horse",
+    "A bronze elephant",
+    "A golden statue",
+    "A stone boat"
+   ]
+  },
+  "ar": {
+   "q": "حسب الأسطورة، ما الشيء الضخم الذي تركه الإغريق أمام طروادة؟",
+   "c": [
+    "حصان خشبي",
+    "فيل برونزي",
+    "تمثال ذهبي",
+    "قارب حجري"
+   ]
+  },
+  "es": {
+   "q": "Según la leyenda, ¿qué objeto gigante dejaron los griegos ante Troya?",
+   "c": [
+    "Un caballo de madera",
+    "Un elefante de bronce",
+    "Una estatua de oro",
+    "Un barco de piedra"
+   ]
+  },
+  "pt": {
+   "q": "Segundo a lenda, que objeto gigante os gregos deixaram diante de Troia?",
+   "c": [
+    "Um cavalo de madeira",
+    "Um elefante de bronze",
+    "Uma estátua de ouro",
+    "Um barco de pedra"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel peuple a construit la cité du Machu Picchu ?",
+   "c": [
+    "Les Romains",
+    "Les Incas",
+    "Les Vikings",
+    "Les Mongols"
+   ]
+  },
+  "en": {
+   "q": "Which people built the city of Machu Picchu?",
+   "c": [
+    "The Romans",
+    "The Incas",
+    "The Vikings",
+    "The Mongols"
+   ]
+  },
+  "ar": {
+   "q": "أي شعب بنى مدينة ماتشو بيتشو؟",
+   "c": [
+    "الرومان",
+    "الإنكا",
+    "الفايكنغ",
+    "المغول"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pueblo construyó la ciudad de Machu Picchu?",
+   "c": [
+    "Los romanos",
+    "Los incas",
+    "Los vikingos",
+    "Los mongoles"
+   ]
+  },
+  "pt": {
+   "q": "Que povo construiu a cidade de Machu Picchu?",
+   "c": [
+    "Os romanos",
+    "Os incas",
+    "Os vikings",
+    "Os mongóis"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel peuple antique a construit des routes et des aqueducs dans tout son empire ?",
+   "c": [
+    "Les Mongols",
+    "Les Romains",
+    "Les Aztèques",
+    "Les Vikings"
+   ]
+  },
+  "en": {
+   "q": "Which ancient people built roads and aqueducts across their empire?",
+   "c": [
+    "The Mongols",
+    "The Romans",
+    "The Aztecs",
+    "The Vikings"
+   ]
+  },
+  "ar": {
+   "q": "أي شعب قديم بنى الطرق والقنوات المائية في أنحاء إمبراطوريته؟",
+   "c": [
+    "المغول",
+    "الرومان",
+    "الأزتيك",
+    "الفايكنغ"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pueblo antiguo construyó calzadas y acueductos por todo su imperio?",
+   "c": [
+    "Los mongoles",
+    "Los romanos",
+    "Los aztecas",
+    "Los vikingos"
+   ]
+  },
+  "pt": {
+   "q": "Que povo antigo construiu estradas e aquedutos por todo o seu império?",
+   "c": [
+    "Os mongóis",
+    "Os romanos",
+    "Os astecas",
+    "Os vikings"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve le Taj Mahal, magnifique tombeau de marbre blanc ?",
+   "c": [
+    "L'Inde",
+    "Le Mexique",
+    "Le Maroc",
+    "La Chine"
+   ]
+  },
+  "en": {
+   "q": "In which country is the Taj Mahal, the white marble tomb?",
+   "c": [
+    "India",
+    "Mexico",
+    "Morocco",
+    "China"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد يقع تاج محل، الضريح الرخامي الأبيض؟",
+   "c": [
+    "الهند",
+    "المكسيك",
+    "المغرب",
+    "الصين"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está el Taj Mahal, la tumba de mármol blanco?",
+   "c": [
+    "India",
+    "México",
+    "Marruecos",
+    "China"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica o Taj Mahal, o túmulo de mármore branco?",
+   "c": [
+    "Índia",
+    "México",
+    "Marrocos",
+    "China"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel peuple écrivait avec des hiéroglyphes ?",
+   "c": [
+    "Les Vikings",
+    "Les Romains",
+    "Les Égyptiens",
+    "Les Grecs"
+   ]
+  },
+  "en": {
+   "q": "Which people wrote with hieroglyphs?",
+   "c": [
+    "The Vikings",
+    "The Romans",
+    "The Egyptians",
+    "The Greeks"
+   ]
+  },
+  "ar": {
+   "q": "أي شعب كتب بالهيروغليفية؟",
+   "c": [
+    "الفايكنغ",
+    "الرومان",
+    "المصريون",
+    "الإغريق"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pueblo escribía con jeroglíficos?",
+   "c": [
+    "Los vikingos",
+    "Los romanos",
+    "Los egipcios",
+    "Los griegos"
+   ]
+  },
+  "pt": {
+   "q": "Que povo escrevia com hieróglifos?",
+   "c": [
+    "Os vikings",
+    "Os romanos",
+    "Os egípcios",
+    "Os gregos"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Chez quel peuple antique est née la démocratie ?",
+   "c": [
+    "Les Mongols",
+    "Les Grecs",
+    "Les Vikings",
+    "Les Aztèques"
+   ]
+  },
+  "en": {
+   "q": "Which ancient people invented democracy?",
+   "c": [
+    "The Mongols",
+    "The Greeks",
+    "The Vikings",
+    "The Aztecs"
+   ]
+  },
+  "ar": {
+   "q": "أي شعب قديم ابتكر الديمقراطية؟",
+   "c": [
+    "المغول",
+    "الإغريق",
+    "الفايكنغ",
+    "الأزتيك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pueblo antiguo inventó la democracia?",
+   "c": [
+    "Los mongoles",
+    "Los griegos",
+    "Los vikingos",
+    "Los aztecas"
+   ]
+  },
+  "pt": {
+   "q": "Que povo antigo inventou a democracia?",
+   "c": [
+    "Os mongóis",
+    "Os gregos",
+    "Os vikings",
+    "Os astecas"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel Américain a prononcé le discours « I have a dream » ?",
+   "c": [
+    "Martin Luther King",
+    "Elvis Presley",
+    "Abraham Lincoln",
+    "Muhammad Ali"
+   ]
+  },
+  "en": {
+   "q": "Which American gave the \"I have a dream\" speech?",
+   "c": [
+    "Martin Luther King",
+    "Elvis Presley",
+    "Abraham Lincoln",
+    "Muhammad Ali"
+   ]
+  },
+  "ar": {
+   "q": "من هو الأمريكي الذي ألقى خطاب «لديّ حلم»؟",
+   "c": [
+    "مارتن لوثر كينغ",
+    "إلفيس بريسلي",
+    "أبراهام لينكولن",
+    "محمد علي كلاي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué estadounidense pronunció el discurso «Tengo un sueño»?",
+   "c": [
+    "Martin Luther King",
+    "Elvis Presley",
+    "Abraham Lincoln",
+    "Muhammad Ali"
+   ]
+  },
+  "pt": {
+   "q": "Que americano fez o discurso «Eu tenho um sonho»?",
+   "c": [
+    "Martin Luther King",
+    "Elvis Presley",
+    "Abraham Lincoln",
+    "Muhammad Ali"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle cité grecque était célèbre pour ses guerriers très durs ?",
+   "c": [
+    "Épidaure",
+    "Olympie",
+    "Delphes",
+    "Sparte"
+   ]
+  },
+  "en": {
+   "q": "Which Greek city was famous for its very tough warriors?",
+   "c": [
+    "Epidaurus",
+    "Olympia",
+    "Delphi",
+    "Sparta"
+   ]
+  },
+  "ar": {
+   "q": "أي مدينة إغريقية اشتهرت بمحاربيها الأشداء؟",
+   "c": [
+    "إبيداوروس",
+    "أولمبيا",
+    "دلفي",
+    "إسبرطة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ciudad griega era famosa por sus guerreros muy duros?",
+   "c": [
+    "Epidauro",
+    "Olimpia",
+    "Delfos",
+    "Esparta"
+   ]
+  },
+  "pt": {
+   "q": "Que cidade grega era famosa pelos seus guerreiros muito duros?",
+   "c": [
+    "Epidauro",
+    "Olímpia",
+    "Delfos",
+    "Esparta"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel pays a inventé le papier ?",
+   "c": [
+    "Le Pérou",
+    "La Chine",
+    "L'Italie",
+    "La Norvège"
+   ]
+  },
+  "en": {
+   "q": "Which country invented paper?",
+   "c": [
+    "Peru",
+    "China",
+    "Italy",
+    "Norway"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد اخترع الورق؟",
+   "c": [
+    "بيرو",
+    "الصين",
+    "إيطاليا",
+    "النرويج"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país inventó el papel?",
+   "c": [
+    "Perú",
+    "China",
+    "Italia",
+    "Noruega"
+   ]
+  },
+  "pt": {
+   "q": "Que país inventou o papel?",
+   "c": [
+    "O Peru",
+    "A China",
+    "A Itália",
+    "A Noruega"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on aussi la Première Guerre mondiale ?",
+   "c": [
+    "La guerre des Gaules",
+    "La guerre froide",
+    "La Grande Guerre",
+    "La guerre de Cent Ans"
+   ]
+  },
+  "en": {
+   "q": "What is the First World War also called?",
+   "c": [
+    "The Gallic Wars",
+    "The Cold War",
+    "The Great War",
+    "The Hundred Years' War"
+   ]
+  },
+  "ar": {
+   "q": "ماذا تُسمّى أيضًا الحرب العالمية الأولى؟",
+   "c": [
+    "حروب بلاد الغال",
+    "الحرب الباردة",
+    "الحرب الكبرى",
+    "حرب المئة عام"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama también la Primera Guerra Mundial?",
+   "c": [
+    "Las guerras de las Galias",
+    "La Guerra Fría",
+    "La Gran Guerra",
+    "La guerra de los Cien Años"
+   ]
+  },
+  "pt": {
+   "q": "Como também se chama a Primeira Guerra Mundial?",
+   "c": [
+    "As Guerras da Gália",
+    "A Guerra Fria",
+    "A Grande Guerra",
+    "A Guerra dos Cem Anos"
    ]
   },
   "a": 2,
@@ -1801,6 +3101,606 @@
  },
  {
   "fr": {
+   "q": "Quel savant grec est célèbre pour avoir crié « Eurêka ! » dans son bain ?",
+   "c": [
+    "Platon",
+    "Archimède",
+    "Homère",
+    "Aristote"
+   ]
+  },
+  "en": {
+   "q": "Which Greek scholar is famous for shouting \"Eureka!\" in his bath?",
+   "c": [
+    "Plato",
+    "Archimedes",
+    "Homer",
+    "Aristotle"
+   ]
+  },
+  "ar": {
+   "q": "أي عالم إغريقي اشتهر بصرخة «وجدتها!» في حمّامه؟",
+   "c": [
+    "أفلاطون",
+    "أرخميدس",
+    "هوميروس",
+    "أرسطو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué sabio griego es famoso por gritar «¡Eureka!» en su baño?",
+   "c": [
+    "Platón",
+    "Arquímedes",
+    "Homero",
+    "Aristóteles"
+   ]
+  },
+  "pt": {
+   "q": "Que sábio grego é famoso por gritar «Eureka!» no banho?",
+   "c": [
+    "Platão",
+    "Arquimedes",
+    "Homero",
+    "Aristóteles"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel savant français a créé un vaccin contre la rage ?",
+   "c": [
+    "Louis Pasteur",
+    "Jules Verne",
+    "Gustave Eiffel",
+    "Victor Hugo"
+   ]
+  },
+  "en": {
+   "q": "Which French scientist created a vaccine against rabies?",
+   "c": [
+    "Louis Pasteur",
+    "Jules Verne",
+    "Gustave Eiffel",
+    "Victor Hugo"
+   ]
+  },
+  "ar": {
+   "q": "أي عالم فرنسي ابتكر لقاحًا ضد داء الكلب؟",
+   "c": [
+    "لويس باستور",
+    "جول فيرن",
+    "غوستاف إيفل",
+    "فيكتور هوغو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué científico francés creó una vacuna contra la rabia?",
+   "c": [
+    "Louis Pasteur",
+    "Julio Verne",
+    "Gustave Eiffel",
+    "Victor Hugo"
+   ]
+  },
+  "pt": {
+   "q": "Que cientista francês criou uma vacina contra a raiva?",
+   "c": [
+    "Louis Pasteur",
+    "Júlio Verne",
+    "Gustave Eiffel",
+    "Victor Hugo"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle scientifique a reçu deux prix Nobel, en physique puis en chimie ?",
+   "c": [
+    "Ada Lovelace",
+    "Marie Curie",
+    "Florence Nightingale",
+    "Cléopâtre"
+   ]
+  },
+  "en": {
+   "q": "Which scientist won two Nobel Prizes, in physics and then in chemistry?",
+   "c": [
+    "Ada Lovelace",
+    "Marie Curie",
+    "Florence Nightingale",
+    "Cleopatra"
+   ]
+  },
+  "ar": {
+   "q": "أي عالمة نالت جائزتي نوبل في الفيزياء ثم الكيمياء؟",
+   "c": [
+    "أدا لافليس",
+    "ماري كوري",
+    "فلورنس نايتنغيل",
+    "كليوباترا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué científica ganó dos premios Nobel, de física y de química?",
+   "c": [
+    "Ada Lovelace",
+    "Marie Curie",
+    "Florence Nightingale",
+    "Cleopatra"
+   ]
+  },
+  "pt": {
+   "q": "Que cientista ganhou dois prêmios Nobel, de física e de química?",
+   "c": [
+    "Ada Lovelace",
+    "Marie Curie",
+    "Florence Nightingale",
+    "Cleópatra"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel Premier ministre britannique est célèbre pour avoir résisté à Hitler en 1940 ?",
+   "c": [
+    "Winston Churchill",
+    "Margaret Thatcher",
+    "David Lloyd George",
+    "Tony Blair"
+   ]
+  },
+  "en": {
+   "q": "Which British Prime Minister is famous for standing up to Hitler in 1940?",
+   "c": [
+    "Winston Churchill",
+    "Margaret Thatcher",
+    "David Lloyd George",
+    "Tony Blair"
+   ]
+  },
+  "ar": {
+   "q": "أي رئيس وزراء بريطاني اشتهر بمقاومة هتلر عام 1940؟",
+   "c": [
+    "ونستون تشرشل",
+    "مارغريت تاتشر",
+    "ديفيد لويد جورج",
+    "توني بلير"
+   ]
+  },
+  "es": {
+   "q": "¿Qué primer ministro británico es famoso por haber resistido a Hitler en 1940?",
+   "c": [
+    "Winston Churchill",
+    "Margaret Thatcher",
+    "David Lloyd George",
+    "Tony Blair"
+   ]
+  },
+  "pt": {
+   "q": "Que primeiro-ministro britânico ficou famoso por resistir a Hitler em 1940?",
+   "c": [
+    "Winston Churchill",
+    "Margaret Thatcher",
+    "David Lloyd George",
+    "Tony Blair"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle guerre a opposé le Nord et le Sud des États-Unis au XIXe siècle ?",
+   "c": [
+    "La guerre du Vietnam",
+    "La guerre de Cent Ans",
+    "La guerre de Sécession",
+    "La guerre de Troie"
+   ]
+  },
+  "en": {
+   "q": "Which war pitted the North against the South in the United States in the 19th century?",
+   "c": [
+    "The Vietnam War",
+    "The Hundred Years' War",
+    "The American Civil War",
+    "The Trojan War"
+   ]
+  },
+  "ar": {
+   "q": "أي حرب جمعت الشمال والجنوب في الولايات المتحدة في القرن 19؟",
+   "c": [
+    "حرب فيتنام",
+    "حرب المئة عام",
+    "الحرب الأهلية الأمريكية",
+    "حرب طروادة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué guerra enfrentó al Norte y al Sur de Estados Unidos en el siglo XIX?",
+   "c": [
+    "La guerra de Vietnam",
+    "La guerra de los Cien Años",
+    "La guerra de Secesión",
+    "La guerra de Troya"
+   ]
+  },
+  "pt": {
+   "q": "Que guerra opôs o Norte ao Sul dos Estados Unidos no século XIX?",
+   "c": [
+    "A Guerra do Vietnã",
+    "A Guerra dos Cem Anos",
+    "A Guerra de Secessão",
+    "A Guerra de Troia"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Sur quelle île Napoléon est-il mort en exil ?",
+   "c": [
+    "Sainte-Hélène",
+    "Malte",
+    "Chypre",
+    "La Corse"
+   ]
+  },
+  "en": {
+   "q": "On which island did Napoleon die in exile?",
+   "c": [
+    "Saint Helena",
+    "Malta",
+    "Cyprus",
+    "Corsica"
+   ]
+  },
+  "ar": {
+   "q": "في أي جزيرة مات نابليون في المنفى؟",
+   "c": [
+    "سانت هيلانة",
+    "مالطا",
+    "قبرص",
+    "كورسيكا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué isla murió Napoleón en el exilio?",
+   "c": [
+    "Santa Elena",
+    "Malta",
+    "Chipre",
+    "Córcega"
+   ]
+  },
+  "pt": {
+   "q": "Em que ilha Napoleão morreu no exílio?",
+   "c": [
+    "Santa Helena",
+    "Malta",
+    "Chipre",
+    "Córsega"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle ville japonaise a subi la première bombe atomique en 1945 ?",
+   "c": [
+    "Osaka",
+    "Tokyo",
+    "Hiroshima",
+    "Kyoto"
+   ]
+  },
+  "en": {
+   "q": "Which Japanese city was hit by the first atomic bomb in 1945?",
+   "c": [
+    "Osaka",
+    "Tokyo",
+    "Hiroshima",
+    "Kyoto"
+   ]
+  },
+  "ar": {
+   "q": "أي مدينة يابانية تعرضت لأول قنبلة ذرية عام 1945؟",
+   "c": [
+    "أوساكا",
+    "طوكيو",
+    "هيروشيما",
+    "كيوتو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ciudad japonesa sufrió la primera bomba atómica en 1945?",
+   "c": [
+    "Osaka",
+    "Tokio",
+    "Hiroshima",
+    "Kioto"
+   ]
+  },
+  "pt": {
+   "q": "Que cidade japonesa sofreu a primeira bomba atômica em 1945?",
+   "c": [
+    "Osaka",
+    "Tóquio",
+    "Hiroshima",
+    "Quioto"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel pays a lancé le premier satellite artificiel, Spoutnik ?",
+   "c": [
+    "La France",
+    "La Chine",
+    "L'URSS",
+    "Les États-Unis"
+   ]
+  },
+  "en": {
+   "q": "Which country launched the first artificial satellite, Sputnik?",
+   "c": [
+    "France",
+    "China",
+    "The USSR",
+    "The United States"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد أطلق أول قمر صناعي، سبوتنيك؟",
+   "c": [
+    "فرنسا",
+    "الصين",
+    "الاتحاد السوفياتي",
+    "الولايات المتحدة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país lanzó el primer satélite artificial, el Sputnik?",
+   "c": [
+    "Francia",
+    "China",
+    "La URSS",
+    "Estados Unidos"
+   ]
+  },
+  "pt": {
+   "q": "Que país lançou o primeiro satélite artificial, o Sputnik?",
+   "c": [
+    "A França",
+    "A China",
+    "A URSS",
+    "Os Estados Unidos"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Dans quelle ville ont eu lieu les premiers Jeux olympiques modernes ?",
+   "c": [
+    "Rome",
+    "Paris",
+    "Athènes",
+    "Londres"
+   ]
+  },
+  "en": {
+   "q": "In which city were the first modern Olympic Games held?",
+   "c": [
+    "Rome",
+    "Paris",
+    "Athens",
+    "London"
+   ]
+  },
+  "ar": {
+   "q": "في أي مدينة أُقيمت أولى الألعاب الأولمبية الحديثة؟",
+   "c": [
+    "روما",
+    "باريس",
+    "أثينا",
+    "لندن"
+   ]
+  },
+  "es": {
+   "q": "¿En qué ciudad se celebraron los primeros Juegos Olímpicos modernos?",
+   "c": [
+    "Roma",
+    "París",
+    "Atenas",
+    "Londres"
+   ]
+  },
+  "pt": {
+   "q": "Em que cidade foram realizados os primeiros Jogos Olímpicos modernos?",
+   "c": [
+    "Roma",
+    "Paris",
+    "Atenas",
+    "Londres"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle Américaine a refusé de céder sa place dans un bus en 1955 ?",
+   "c": [
+    "Rosa Parks",
+    "Marilyn Monroe",
+    "Joséphine Baker",
+    "Oprah Winfrey"
+   ]
+  },
+  "en": {
+   "q": "Which American woman refused to give up her bus seat in 1955?",
+   "c": [
+    "Rosa Parks",
+    "Marilyn Monroe",
+    "Josephine Baker",
+    "Oprah Winfrey"
+   ]
+  },
+  "ar": {
+   "q": "أي أمريكية رفضت التخلي عن مقعدها في حافلة عام 1955؟",
+   "c": [
+    "روزا باركس",
+    "مارلين مونرو",
+    "جوزفين بيكر",
+    "أوبرا وينفري"
+   ]
+  },
+  "es": {
+   "q": "¿Qué estadounidense se negó a ceder su asiento en un autobús en 1955?",
+   "c": [
+    "Rosa Parks",
+    "Marilyn Monroe",
+    "Josephine Baker",
+    "Oprah Winfrey"
+   ]
+  },
+  "pt": {
+   "q": "Que americana se recusou a ceder seu assento em um ônibus em 1955?",
+   "c": [
+    "Rosa Parks",
+    "Marilyn Monroe",
+    "Josephine Baker",
+    "Oprah Winfrey"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle jeune fille a écrit un célèbre journal en se cachant des nazis ?",
+   "c": [
+    "Malala Yousafzai",
+    "Jeanne d'Arc",
+    "Anne Frank",
+    "Marie Curie"
+   ]
+  },
+  "en": {
+   "q": "Which young girl wrote a famous diary while hiding from the Nazis?",
+   "c": [
+    "Malala Yousafzai",
+    "Joan of Arc",
+    "Anne Frank",
+    "Marie Curie"
+   ]
+  },
+  "ar": {
+   "q": "أي فتاة كتبت يوميات شهيرة وهي مختبئة من النازيين؟",
+   "c": [
+    "ملالا يوسفزاي",
+    "جان دارك",
+    "آن فرانك",
+    "ماري كوري"
+   ]
+  },
+  "es": {
+   "q": "¿Qué joven escribió un famoso diario mientras se escondía de los nazis?",
+   "c": [
+    "Malala Yousafzai",
+    "Juana de Arco",
+    "Ana Frank",
+    "Marie Curie"
+   ]
+  },
+  "pt": {
+   "q": "Que jovem escreveu um famoso diário enquanto se escondia dos nazistas?",
+   "c": [
+    "Malala Yousafzai",
+    "Joana d'Arc",
+    "Anne Frank",
+    "Marie Curie"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel Suédois a inventé la dynamite et fondé les prix Nobel ?",
+   "c": [
+    "Graham Bell",
+    "Alfred Nobel",
+    "Gustave Eiffel",
+    "Thomas Edison"
+   ]
+  },
+  "en": {
+   "q": "Which Swede invented dynamite and founded the Nobel Prizes?",
+   "c": [
+    "Graham Bell",
+    "Alfred Nobel",
+    "Gustave Eiffel",
+    "Thomas Edison"
+   ]
+  },
+  "ar": {
+   "q": "أي سويدي اخترع الديناميت وأسس جوائز نوبل؟",
+   "c": [
+    "غراهام بيل",
+    "ألفريد نوبل",
+    "غوستاف إيفل",
+    "توماس إديسون"
+   ]
+  },
+  "es": {
+   "q": "¿Qué sueco inventó la dinamita y fundó los premios Nobel?",
+   "c": [
+    "Graham Bell",
+    "Alfred Nobel",
+    "Gustave Eiffel",
+    "Thomas Edison"
+   ]
+  },
+  "pt": {
+   "q": "Que sueco inventou a dinamite e fundou os prêmios Nobel?",
+   "c": [
+    "Graham Bell",
+    "Alfred Nobel",
+    "Gustave Eiffel",
+    "Thomas Edison"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
    "q": "En quelle année le mur de Berlin est-il tombé ?",
    "c": [
     "1985",
@@ -2396,6 +4296,356 @@
    ]
   },
   "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Selon la légende, quel empereur jouait de la lyre pendant l'incendie de Rome ?",
+   "c": [
+    "Marc Aurèle",
+    "Néron",
+    "Auguste",
+    "Hadrien"
+   ]
+  },
+  "en": {
+   "q": "According to legend, which emperor played the lyre while Rome burned?",
+   "c": [
+    "Marcus Aurelius",
+    "Nero",
+    "Augustus",
+    "Hadrian"
+   ]
+  },
+  "ar": {
+   "q": "حسب الأسطورة، أي إمبراطور عزف على القيثارة بينما كانت روما تحترق؟",
+   "c": [
+    "ماركوس أوريليوس",
+    "نيرون",
+    "أغسطس",
+    "هادريان"
+   ]
+  },
+  "es": {
+   "q": "Según la leyenda, ¿qué emperador tocaba la lira mientras ardía Roma?",
+   "c": [
+    "Marco Aurelio",
+    "Nerón",
+    "Augusto",
+    "Adriano"
+   ]
+  },
+  "pt": {
+   "q": "Segundo a lenda, que imperador tocava lira enquanto Roma ardia?",
+   "c": [
+    "Marco Aurélio",
+    "Nero",
+    "Augusto",
+    "Adriano"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle reine britannique a régné de 1952 à 2022 ?",
+   "c": [
+    "Élisabeth II",
+    "Élisabeth I",
+    "Anne",
+    "Victoria"
+   ]
+  },
+  "en": {
+   "q": "Which British queen reigned from 1952 to 2022?",
+   "c": [
+    "Elizabeth II",
+    "Elizabeth I",
+    "Anne",
+    "Victoria"
+   ]
+  },
+  "ar": {
+   "q": "أي ملكة بريطانية حكمت من 1952 إلى 2022؟",
+   "c": [
+    "إليزابيث الثانية",
+    "إليزابيث الأولى",
+    "آن",
+    "فيكتوريا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué reina británica reinó de 1952 a 2022?",
+   "c": [
+    "Isabel II",
+    "Isabel I",
+    "Ana",
+    "Victoria"
+   ]
+  },
+  "pt": {
+   "q": "Que rainha britânica reinou de 1952 a 2022?",
+   "c": [
+    "Isabel II",
+    "Isabel I",
+    "Ana",
+    "Vitória"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel général a lancé l'appel du 18 juin 1940 depuis Londres ?",
+   "c": [
+    "Philippe Pétain",
+    "Jean Moulin",
+    "Charles de Gaulle",
+    "Ferdinand Foch"
+   ]
+  },
+  "en": {
+   "q": "Which general made the appeal of 18 June 1940 from London?",
+   "c": [
+    "Philippe Pétain",
+    "Jean Moulin",
+    "Charles de Gaulle",
+    "Ferdinand Foch"
+   ]
+  },
+  "ar": {
+   "q": "أي جنرال أطلق نداء 18 يونيو 1940 من لندن؟",
+   "c": [
+    "فيليب بيتان",
+    "جان مولان",
+    "شارل ديغول",
+    "فرديناند فوش"
+   ]
+  },
+  "es": {
+   "q": "¿Qué general lanzó desde Londres el llamamiento del 18 de junio de 1940?",
+   "c": [
+    "Philippe Pétain",
+    "Jean Moulin",
+    "Charles de Gaulle",
+    "Ferdinand Foch"
+   ]
+  },
+  "pt": {
+   "q": "Que general lançou de Londres o apelo de 18 de junho de 1940?",
+   "c": [
+    "Philippe Pétain",
+    "Jean Moulin",
+    "Charles de Gaulle",
+    "Ferdinand Foch"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel explorateur portugais a lancé le premier tour du monde en bateau en 1519 ?",
+   "c": [
+    "James Cook",
+    "Francis Drake",
+    "Christophe Colomb",
+    "Magellan"
+   ]
+  },
+  "en": {
+   "q": "Which Portuguese explorer launched the first voyage around the world in 1519?",
+   "c": [
+    "James Cook",
+    "Francis Drake",
+    "Christopher Columbus",
+    "Magellan"
+   ]
+  },
+  "ar": {
+   "q": "أي مستكشف برتغالي بدأ أول رحلة حول العالم عام 1519؟",
+   "c": [
+    "جيمس كوك",
+    "فرانسيس دريك",
+    "كريستوفر كولومبوس",
+    "ماجلان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué explorador portugués inició en 1519 la primera vuelta al mundo?",
+   "c": [
+    "James Cook",
+    "Francis Drake",
+    "Cristóbal Colón",
+    "Magallanes"
+   ]
+  },
+  "pt": {
+   "q": "Que explorador português iniciou em 1519 a primeira volta ao mundo?",
+   "c": [
+    "James Cook",
+    "Francis Drake",
+    "Cristóvão Colombo",
+    "Fernão de Magalhães"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel roi d'Angleterre a eu six épouses ?",
+   "c": [
+    "Georges III",
+    "Richard Cœur de Lion",
+    "Henri VIII",
+    "Édouard Ier"
+   ]
+  },
+  "en": {
+   "q": "Which king of England had six wives?",
+   "c": [
+    "George III",
+    "Richard the Lionheart",
+    "Henry VIII",
+    "Edward I"
+   ]
+  },
+  "ar": {
+   "q": "أي ملك إنجليزي تزوج ست مرات؟",
+   "c": [
+    "جورج الثالث",
+    "ريتشارد قلب الأسد",
+    "هنري الثامن",
+    "إدوارد الأول"
+   ]
+  },
+  "es": {
+   "q": "¿Qué rey de Inglaterra tuvo seis esposas?",
+   "c": [
+    "Jorge III",
+    "Ricardo Corazón de León",
+    "Enrique VIII",
+    "Eduardo I"
+   ]
+  },
+  "pt": {
+   "q": "Que rei da Inglaterra teve seis esposas?",
+   "c": [
+    "Jorge III",
+    "Ricardo Coração de Leão",
+    "Henrique VIII",
+    "Eduardo I"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle bataille de 1066 a fait de Guillaume le Conquérant le roi d'Angleterre ?",
+   "c": [
+    "Poitiers",
+    "Hastings",
+    "Azincourt",
+    "Waterloo"
+   ]
+  },
+  "en": {
+   "q": "Which 1066 battle made William the Conqueror king of England?",
+   "c": [
+    "Poitiers",
+    "Hastings",
+    "Agincourt",
+    "Waterloo"
+   ]
+  },
+  "ar": {
+   "q": "أي معركة عام 1066 جعلت ويليام الفاتح ملكًا لإنجلترا؟",
+   "c": [
+    "بواتييه",
+    "هاستينغز",
+    "أجينكور",
+    "واترلو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué batalla de 1066 convirtió a Guillermo el Conquistador en rey de Inglaterra?",
+   "c": [
+    "Poitiers",
+    "Hastings",
+    "Azincourt",
+    "Waterloo"
+   ]
+  },
+  "pt": {
+   "q": "Que batalha de 1066 tornou Guilherme, o Conquistador, rei da Inglaterra?",
+   "c": [
+    "Poitiers",
+    "Hastings",
+    "Azincourt",
+    "Waterloo"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel pays a connu le régime de l'apartheid ?",
+   "c": [
+    "L'Inde",
+    "Le Brésil",
+    "L'Afrique du Sud",
+    "L'Australie"
+   ]
+  },
+  "en": {
+   "q": "Which country had the apartheid regime?",
+   "c": [
+    "India",
+    "Brazil",
+    "South Africa",
+    "Australia"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد عرف نظام الفصل العنصري؟",
+   "c": [
+    "الهند",
+    "البرازيل",
+    "جنوب أفريقيا",
+    "أستراليا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país vivió el régimen del apartheid?",
+   "c": [
+    "India",
+    "Brasil",
+    "Sudáfrica",
+    "Australia"
+   ]
+  },
+  "pt": {
+   "q": "Que país viveu sob o regime do apartheid?",
+   "c": [
+    "A Índia",
+    "O Brasil",
+    "A África do Sul",
+    "A Austrália"
+   ]
+  },
+  "a": 2,
   "image": null,
   "level": 4
  },

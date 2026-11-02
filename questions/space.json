@@ -103,49 +103,49 @@
   "fr": {
    "q": "Quelle planète est surnommée la planète rouge ?",
    "c": [
+    "Neptune",
     "Mars",
     "Mercure",
-    "Neptune",
     "Vénus"
    ]
   },
   "en": {
    "q": "Which planet is called the red planet?",
    "c": [
+    "Neptune",
     "Mars",
     "Mercury",
-    "Neptune",
     "Venus"
    ]
   },
   "ar": {
    "q": "أي كوكب يُلقَّب بالكوكب الأحمر؟",
    "c": [
+    "نبتون",
     "المريخ",
     "عطارد",
-    "نبتون",
     "الزهرة"
    ]
   },
   "es": {
    "q": "¿Qué planeta se llama el planeta rojo?",
    "c": [
+    "Neptuno",
     "Marte",
     "Mercurio",
-    "Neptuno",
     "Venus"
    ]
   },
   "pt": {
    "q": "Qual planeta é chamado de planeta vermelho?",
    "c": [
+    "Netuno",
     "Marte",
     "Mercúrio",
-    "Netuno",
     "Vênus"
    ]
   },
-  "a": 0,
+  "a": 1,
   "image": null,
   "level": 1
  },
@@ -651,51 +651,651 @@
  },
  {
   "fr": {
+   "q": "De quelle couleur voit-on la Terre depuis l'espace ?",
+   "c": [
+    "Rouge",
+    "Jaune",
+    "Bleue",
+    "Verte"
+   ]
+  },
+  "en": {
+   "q": "What color does Earth look from space?",
+   "c": [
+    "Red",
+    "Yellow",
+    "Blue",
+    "Green"
+   ]
+  },
+  "ar": {
+   "q": "ما لون الأرض كما تُرى من الفضاء؟",
+   "c": [
+    "أحمر",
+    "أصفر",
+    "أزرق",
+    "أخضر"
+   ]
+  },
+  "es": {
+   "q": "¿De qué color se ve la Tierra desde el espacio?",
+   "c": [
+    "Roja",
+    "Amarilla",
+    "Azul",
+    "Verde"
+   ]
+  },
+  "pt": {
+   "q": "De que cor vemos a Terra do espaço?",
+   "c": [
+    "Vermelha",
+    "Amarela",
+    "Azul",
+    "Verde"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Que porte un astronaute pour sortir dans l'espace ?",
+   "c": [
+    "Un manteau de ski",
+    "Un pyjama",
+    "Un maillot de bain",
+    "Une combinaison spatiale"
+   ]
+  },
+  "en": {
+   "q": "What does an astronaut wear to go out into space?",
+   "c": [
+    "A ski jacket",
+    "Pajamas",
+    "A swimsuit",
+    "A space suit"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يرتدي رائد الفضاء ليخرج إلى الفضاء؟",
+   "c": [
+    "معطف تزلج",
+    "بيجامة",
+    "ثوب سباحة",
+    "بدلة فضاء"
+   ]
+  },
+  "es": {
+   "q": "¿Qué lleva un astronauta para salir al espacio?",
+   "c": [
+    "Un abrigo de esquí",
+    "Un pijama",
+    "Un traje de baño",
+    "Un traje espacial"
+   ]
+  },
+  "pt": {
+   "q": "O que um astronauta veste para sair no espaço?",
+   "c": [
+    "Um casaco de esqui",
+    "Um pijama",
+    "Um maiô",
+    "Um traje espacial"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle est la forme de la Terre ?",
+   "c": [
+    "Un cube",
+    "Une sphère",
+    "Un disque plat",
+    "Un triangle"
+   ]
+  },
+  "en": {
+   "q": "What shape is the Earth?",
+   "c": [
+    "A cube",
+    "A sphere",
+    "A flat disc",
+    "A triangle"
+   ]
+  },
+  "ar": {
+   "q": "ما شكل الأرض؟",
+   "c": [
+    "مكعب",
+    "كرة",
+    "قرص مسطح",
+    "مثلث"
+   ]
+  },
+  "es": {
+   "q": "¿Qué forma tiene la Tierra?",
+   "c": [
+    "Un cubo",
+    "Una esfera",
+    "Un disco plano",
+    "Un triángulo"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a forma da Terra?",
+   "c": [
+    "Um cubo",
+    "Uma esfera",
+    "Um disco plano",
+    "Um triângulo"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Qu'est-ce que le Soleil ?",
+   "c": [
+    "Une planète",
+    "Une étoile",
+    "Une comète",
+    "Une lune"
+   ]
+  },
+  "en": {
+   "q": "What is the Sun?",
+   "c": [
+    "A planet",
+    "A star",
+    "A comet",
+    "A moon"
+   ]
+  },
+  "ar": {
+   "q": "ما هي الشمس؟",
+   "c": [
+    "كوكب",
+    "نجم",
+    "مذنّب",
+    "قمر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué es el Sol?",
+   "c": [
+    "Un planeta",
+    "Una estrella",
+    "Un cometa",
+    "Una luna"
+   ]
+  },
+  "pt": {
+   "q": "O que é o Sol?",
+   "c": [
+    "Um planeta",
+    "Uma estrela",
+    "Um cometa",
+    "Uma lua"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel astre tourne autour de la Terre ?",
+   "c": [
+    "Jupiter",
+    "Mars",
+    "La Lune",
+    "Le Soleil"
+   ]
+  },
+  "en": {
+   "q": "Which body orbits the Earth?",
+   "c": [
+    "Jupiter",
+    "Mars",
+    "The Moon",
+    "The Sun"
+   ]
+  },
+  "ar": {
+   "q": "أي جرم يدور حول الأرض؟",
+   "c": [
+    "المشتري",
+    "المريخ",
+    "القمر",
+    "الشمس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué astro gira alrededor de la Tierra?",
+   "c": [
+    "Júpiter",
+    "Marte",
+    "La Luna",
+    "El Sol"
+   ]
+  },
+  "pt": {
+   "q": "Que astro gira em torno da Terra?",
+   "c": [
+    "Júpiter",
+    "Marte",
+    "A Lua",
+    "O Sol"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on le décompte avant le décollage d'une fusée ?",
+   "c": [
+    "Le compte à rebours",
+    "Le grand saut",
+    "Le tour de piste",
+    "La course d'élan"
+   ]
+  },
+  "en": {
+   "q": "What is the countdown before a rocket launch called?",
+   "c": [
+    "The countdown",
+    "The big jump",
+    "The lap",
+    "The run-up"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمّي العدّ قبل إطلاق الصاروخ؟",
+   "c": [
+    "العدّ التنازلي",
+    "القفزة الكبيرة",
+    "دورة الحلبة",
+    "شوط الانطلاق"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama la cuenta atrás antes del despegue de un cohete?",
+   "c": [
+    "La cuenta atrás",
+    "El gran salto",
+    "La vuelta de pista",
+    "La carrera de impulso"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama a contagem antes da decolagem de um foguete?",
+   "c": [
+    "A contagem regressiva",
+    "O grande salto",
+    "A volta na pista",
+    "A corrida de impulso"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quand voit-on le mieux les étoiles ?",
+   "c": [
+    "Le matin",
+    "La nuit",
+    "À midi",
+    "L'après-midi"
+   ]
+  },
+  "en": {
+   "q": "When do we see stars best?",
+   "c": [
+    "In the morning",
+    "At night",
+    "At noon",
+    "In the afternoon"
+   ]
+  },
+  "ar": {
+   "q": "متى نرى النجوم بشكل أفضل؟",
+   "c": [
+    "في الصباح",
+    "في الليل",
+    "عند الظهيرة",
+    "بعد الظهر"
+   ]
+  },
+  "es": {
+   "q": "¿Cuándo se ven mejor las estrellas?",
+   "c": [
+    "Por la mañana",
+    "De noche",
+    "Al mediodía",
+    "Por la tarde"
+   ]
+  },
+  "pt": {
+   "q": "Quando vemos melhor as estrelas?",
+   "c": [
+    "De manhã",
+    "À noite",
+    "Ao meio-dia",
+    "À tarde"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel astre, visible depuis la Terre, est criblé de cratères ?",
+   "c": [
+    "Le Soleil",
+    "Saturne",
+    "La Lune",
+    "Jupiter"
+   ]
+  },
+  "en": {
+   "q": "Which body, visible from Earth, is covered in craters?",
+   "c": [
+    "The Sun",
+    "Saturn",
+    "The Moon",
+    "Jupiter"
+   ]
+  },
+  "ar": {
+   "q": "أي جرم يُرى من الأرض ومليء بالفوهات؟",
+   "c": [
+    "الشمس",
+    "زحل",
+    "القمر",
+    "المشتري"
+   ]
+  },
+  "es": {
+   "q": "¿Qué astro, visible desde la Tierra, está lleno de cráteres?",
+   "c": [
+    "El Sol",
+    "Saturno",
+    "La Luna",
+    "Júpiter"
+   ]
+  },
+  "pt": {
+   "q": "Que astro, visível da Terra, é cheio de crateras?",
+   "c": [
+    "O Sol",
+    "Saturno",
+    "A Lua",
+    "Júpiter"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Combien de Soleils y a-t-il dans notre ciel ?",
+   "c": [
+    "Deux",
+    "Dix",
+    "Un",
+    "Trois"
+   ]
+  },
+  "en": {
+   "q": "How many Suns are there in our sky?",
+   "c": [
+    "Two",
+    "Ten",
+    "One",
+    "Three"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد الشموس في سمائنا؟",
+   "c": [
+    "اثنتان",
+    "عشر",
+    "واحدة",
+    "ثلاث"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos Soles hay en nuestro cielo?",
+   "c": [
+    "Dos",
+    "Diez",
+    "Uno",
+    "Tres"
+   ]
+  },
+  "pt": {
+   "q": "Quantos Sóis existem no nosso céu?",
+   "c": [
+    "Dois",
+    "Dez",
+    "Um",
+    "Três"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Que fait une fusée au début de son voyage ?",
+   "c": [
+    "Elle plonge",
+    "Elle décolle",
+    "Elle s'endort",
+    "Elle atterrit"
+   ]
+  },
+  "en": {
+   "q": "What does a rocket do at the start of its trip?",
+   "c": [
+    "It dives",
+    "It lifts off",
+    "It falls asleep",
+    "It lands"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يفعل الصاروخ في بداية رحلته؟",
+   "c": [
+    "يغطس",
+    "ينطلق",
+    "ينام",
+    "يهبط"
+   ]
+  },
+  "es": {
+   "q": "¿Qué hace un cohete al comenzar su viaje?",
+   "c": [
+    "Se zambulle",
+    "Despega",
+    "Se duerme",
+    "Aterriza"
+   ]
+  },
+  "pt": {
+   "q": "O que um foguete faz no início da viagem?",
+   "c": [
+    "Mergulha",
+    "Decola",
+    "Adormece",
+    "Pousa"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "D'où partent les fusées ?",
+   "c": [
+    "D'une piscine",
+    "D'une gare",
+    "D'un centre spatial",
+    "D'un port"
+   ]
+  },
+  "en": {
+   "q": "Where do rockets take off from?",
+   "c": [
+    "A swimming pool",
+    "A train station",
+    "A space center",
+    "A harbor"
+   ]
+  },
+  "ar": {
+   "q": "من أين تنطلق الصواريخ؟",
+   "c": [
+    "من مسبح",
+    "من محطة قطار",
+    "من مركز فضاء",
+    "من ميناء"
+   ]
+  },
+  "es": {
+   "q": "¿De dónde despegan los cohetes?",
+   "c": [
+    "De una piscina",
+    "De una estación de tren",
+    "De un centro espacial",
+    "De un puerto"
+   ]
+  },
+  "pt": {
+   "q": "De onde partem os foguetes?",
+   "c": [
+    "De uma piscina",
+    "De uma estação de trem",
+    "De um centro espacial",
+    "De um porto"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Lequel de ces astres brille de sa propre lumière ?",
+   "c": [
+    "La Lune",
+    "Mars",
+    "La Terre",
+    "Le Soleil"
+   ]
+  },
+  "en": {
+   "q": "Which of these bodies shines with its own light?",
+   "c": [
+    "The Moon",
+    "Mars",
+    "The Earth",
+    "The Sun"
+   ]
+  },
+  "ar": {
+   "q": "أي من هذه الأجرام يضيء بنوره الخاص؟",
+   "c": [
+    "القمر",
+    "المريخ",
+    "الأرض",
+    "الشمس"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál de estos astros brilla con luz propia?",
+   "c": [
+    "La Luna",
+    "Marte",
+    "La Tierra",
+    "El Sol"
+   ]
+  },
+  "pt": {
+   "q": "Qual destes astros brilha com luz própria?",
+   "c": [
+    "A Lua",
+    "Marte",
+    "A Terra",
+    "O Sol"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
    "q": "Comment s'appelle notre galaxie ?",
    "c": [
-    "La Voie lactée",
-    "Le Triangle",
     "Le Sombrero",
-    "Andromède"
+    "La Voie lactée",
+    "Andromède",
+    "Le Triangle"
    ]
   },
   "en": {
    "q": "What is the name of our galaxy?",
    "c": [
-    "The Milky Way",
-    "Triangulum",
     "Sombrero",
-    "Andromeda"
+    "The Milky Way",
+    "Andromeda",
+    "Triangulum"
    ]
   },
   "ar": {
    "q": "ما اسم مجرتنا؟",
    "c": [
-    "درب التبانة",
-    "المثلث",
     "السومبريرو",
-    "المرأة المسلسلة"
+    "درب التبانة",
+    "المرأة المسلسلة",
+    "المثلث"
    ]
   },
   "es": {
    "q": "¿Cómo se llama nuestra galaxia?",
    "c": [
-    "La Vía Láctea",
-    "Triángulo",
     "Sombrero",
-    "Andrómeda"
+    "La Vía Láctea",
+    "Andrómeda",
+    "Triángulo"
    ]
   },
   "pt": {
    "q": "Qual é o nome da nossa galáxia?",
    "c": [
-    "A Via Láctea",
-    "Triângulo",
     "Sombreiro",
-    "Andrômeda"
+    "A Via Láctea",
+    "Andrômeda",
+    "Triângulo"
    ]
   },
-  "a": 0,
+  "a": 1,
   "image": null,
   "level": 2
  },
@@ -805,8 +1405,8 @@
    "c": [
     "Youri Gagarine",
     "Thomas Pesquet",
-    "Neil Armstrong",
-    "Buzz Aldrin"
+    "Buzz Aldrin",
+    "Neil Armstrong"
    ]
   },
   "en": {
@@ -814,8 +1414,8 @@
    "c": [
     "Yuri Gagarin",
     "Thomas Pesquet",
-    "Neil Armstrong",
-    "Buzz Aldrin"
+    "Buzz Aldrin",
+    "Neil Armstrong"
    ]
   },
   "ar": {
@@ -823,8 +1423,8 @@
    "c": [
     "يوري غاغارين",
     "توماس بيسكيه",
-    "نيل أرمسترونغ",
-    "باز ألدرين"
+    "باز ألدرين",
+    "نيل أرمسترونغ"
    ]
   },
   "es": {
@@ -832,8 +1432,8 @@
    "c": [
     "Yuri Gagarin",
     "Thomas Pesquet",
-    "Neil Armstrong",
-    "Buzz Aldrin"
+    "Buzz Aldrin",
+    "Neil Armstrong"
    ]
   },
   "pt": {
@@ -841,8 +1441,8 @@
    "c": [
     "Yuri Gagarin",
     "Thomas Pesquet",
-    "Neil Armstrong",
-    "Buzz Aldrin"
+    "Buzz Aldrin",
+    "Neil Armstrong"
    ]
   },
   "a": 0,
@@ -903,49 +1503,49 @@
   "fr": {
    "q": "Qu'est-ce qui provoque l'alternance du jour et de la nuit ?",
    "c": [
-    "La rotation de la Terre sur elle-même",
-    "Le Soleil qui s'éteint la nuit",
+    "Le tour de la Lune autour de la Terre",
     "Les nuages qui cachent le Soleil",
-    "Le tour de la Lune autour de la Terre"
+    "Le Soleil qui s'éteint la nuit",
+    "La rotation de la Terre sur elle-même"
    ]
   },
   "en": {
    "q": "What causes day and night to alternate?",
    "c": [
-    "The Earth spinning on itself",
-    "The Sun switching off at night",
+    "The Moon going around the Earth",
     "Clouds hiding the Sun",
-    "The Moon going around the Earth"
+    "The Sun switching off at night",
+    "The Earth spinning on itself"
    ]
   },
   "ar": {
    "q": "ما سبب تعاقب الليل والنهار؟",
    "c": [
-    "دوران الأرض حول نفسها",
-    "انطفاء الشمس ليلا",
+    "دوران القمر حول الأرض",
     "الغيوم التي تحجب الشمس",
-    "دوران القمر حول الأرض"
+    "انطفاء الشمس ليلا",
+    "دوران الأرض حول نفسها"
    ]
   },
   "es": {
    "q": "¿Qué provoca la alternancia del día y la noche?",
    "c": [
-    "La rotación de la Tierra sobre sí misma",
-    "El Sol que se apaga por la noche",
+    "La vuelta de la Luna alrededor de la Tierra",
     "Las nubes que tapan el Sol",
-    "La vuelta de la Luna alrededor de la Tierra"
+    "El Sol que se apaga por la noche",
+    "La rotación de la Tierra sobre sí misma"
    ]
   },
   "pt": {
    "q": "O que provoca a alternância entre o dia e a noite?",
    "c": [
-    "A rotação da Terra em torno de si mesma",
-    "O Sol que se apaga à noite",
+    "A volta da Lua em torno da Terra",
     "As nuvens que escondem o Sol",
-    "A volta da Lua em torno da Terra"
+    "O Sol que se apaga à noite",
+    "A rotação da Terra em torno de si mesma"
    ]
   },
-  "a": 0,
+  "a": 3,
   "image": null,
   "level": 2
  },
@@ -1003,49 +1603,49 @@
   "fr": {
    "q": "Comment s'appelle la célèbre agence spatiale américaine ?",
    "c": [
+    "L'UNESCO",
     "La NASA",
     "La FIFA",
-    "L'OTAN",
-    "L'UNESCO"
+    "L'OTAN"
    ]
   },
   "en": {
    "q": "What is the famous American space agency called?",
    "c": [
+    "UNESCO",
     "NASA",
     "FIFA",
-    "NATO",
-    "UNESCO"
+    "NATO"
    ]
   },
   "ar": {
    "q": "ما اسم وكالة الفضاء الأمريكية الشهيرة؟",
    "c": [
+    "اليونسكو",
     "ناسا",
     "فيفا",
-    "الناتو",
-    "اليونسكو"
+    "الناتو"
    ]
   },
   "es": {
    "q": "¿Cómo se llama la famosa agencia espacial estadounidense?",
    "c": [
+    "La UNESCO",
     "La NASA",
     "La FIFA",
-    "La OTAN",
-    "La UNESCO"
+    "La OTAN"
    ]
   },
   "pt": {
    "q": "Como se chama a famosa agência espacial americana?",
    "c": [
+    "A UNESCO",
     "A NASA",
     "A FIFA",
-    "A OTAN",
-    "A UNESCO"
+    "A OTAN"
    ]
   },
-  "a": 0,
+  "a": 1,
   "image": null,
   "level": 2
  },
@@ -1053,49 +1653,49 @@
   "fr": {
    "q": "Quelle planète est célèbre pour sa Grande Tache rouge ?",
    "c": [
-    "Jupiter",
-    "Neptune",
     "Mars",
-    "Vénus"
+    "Neptune",
+    "Vénus",
+    "Jupiter"
    ]
   },
   "en": {
    "q": "Which planet is famous for its Great Red Spot?",
    "c": [
-    "Jupiter",
-    "Neptune",
     "Mars",
-    "Venus"
+    "Neptune",
+    "Venus",
+    "Jupiter"
    ]
   },
   "ar": {
    "q": "أي كوكب مشهور ببقعته الحمراء الكبرى؟",
    "c": [
-    "المشتري",
-    "نبتون",
     "المريخ",
-    "الزهرة"
+    "نبتون",
+    "الزهرة",
+    "المشتري"
    ]
   },
   "es": {
    "q": "¿Qué planeta es famoso por su Gran Mancha Roja?",
    "c": [
-    "Júpiter",
-    "Neptuno",
     "Marte",
-    "Venus"
+    "Neptuno",
+    "Venus",
+    "Júpiter"
    ]
   },
   "pt": {
    "q": "Que planeta é famoso por sua Grande Mancha Vermelha?",
    "c": [
-    "Júpiter",
-    "Netuno",
     "Marte",
-    "Vênus"
+    "Netuno",
+    "Vênus",
+    "Júpiter"
    ]
   },
-  "a": 0,
+  "a": 3,
   "image": null,
   "level": 2
  },
@@ -1246,6 +1846,656 @@
    ]
   },
   "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle planète porte le nom de la déesse de l'amour ?",
+   "c": [
+    "Jupiter",
+    "Mars",
+    "Vénus",
+    "Mercure"
+   ]
+  },
+  "en": {
+   "q": "Which planet is named after the goddess of love?",
+   "c": [
+    "Jupiter",
+    "Mars",
+    "Venus",
+    "Mercury"
+   ]
+  },
+  "ar": {
+   "q": "أي كوكب يحمل اسم إلهة الحب؟",
+   "c": [
+    "المشتري",
+    "المريخ",
+    "الزهرة",
+    "عطارد"
+   ]
+  },
+  "es": {
+   "q": "¿Qué planeta lleva el nombre de la diosa del amor?",
+   "c": [
+    "Júpiter",
+    "Marte",
+    "Venus",
+    "Mercurio"
+   ]
+  },
+  "pt": {
+   "q": "Que planeta leva o nome da deusa do amor?",
+   "c": [
+    "Júpiter",
+    "Marte",
+    "Vênus",
+    "Mercúrio"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Qu'est-ce qu'une étoile filante en réalité ?",
+   "c": [
+    "Un petit caillou qui brûle dans le ciel",
+    "Une vraie étoile qui tombe",
+    "Un avion très rapide",
+    "Un satellite qui explose"
+   ]
+  },
+  "en": {
+   "q": "What is a shooting star really?",
+   "c": [
+    "A small rock burning up in the sky",
+    "A real star falling",
+    "A very fast plane",
+    "An exploding satellite"
+   ]
+  },
+  "ar": {
+   "q": "ما هو النجم المتساقط في الحقيقة؟",
+   "c": [
+    "حجر صغير يحترق في السماء",
+    "نجم حقيقي يسقط",
+    "طائرة سريعة جدًا",
+    "قمر صناعي ينفجر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué es en realidad una estrella fugaz?",
+   "c": [
+    "Una piedrecita que arde en el cielo",
+    "Una estrella de verdad que cae",
+    "Un avión muy rápido",
+    "Un satélite que explota"
+   ]
+  },
+  "pt": {
+   "q": "O que é na verdade uma estrela cadente?",
+   "c": [
+    "Uma pedrinha que queima no céu",
+    "Uma estrela de verdade que cai",
+    "Um avião muito rápido",
+    "Um satélite que explode"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Lors d'une éclipse de Lune, quel astre projette son ombre sur la Lune ?",
+   "c": [
+    "Mars",
+    "Vénus",
+    "La Terre",
+    "Jupiter"
+   ]
+  },
+  "en": {
+   "q": "During a lunar eclipse, which body casts its shadow on the Moon?",
+   "c": [
+    "Mars",
+    "Venus",
+    "The Earth",
+    "Jupiter"
+   ]
+  },
+  "ar": {
+   "q": "في خسوف القمر، أي جرم يُلقي ظلّه على القمر؟",
+   "c": [
+    "المريخ",
+    "الزهرة",
+    "الأرض",
+    "المشتري"
+   ]
+  },
+  "es": {
+   "q": "En un eclipse de Luna, ¿qué astro proyecta su sombra sobre la Luna?",
+   "c": [
+    "Marte",
+    "Venus",
+    "La Tierra",
+    "Júpiter"
+   ]
+  },
+  "pt": {
+   "q": "Num eclipse lunar, que astro projeta sua sombra sobre a Lua?",
+   "c": [
+    "Marte",
+    "Vênus",
+    "A Terra",
+    "Júpiter"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Combien de lunes naturelles la Terre a-t-elle ?",
+   "c": [
+    "Deux",
+    "Aucune",
+    "Une",
+    "Trois"
+   ]
+  },
+  "en": {
+   "q": "How many natural moons does the Earth have?",
+   "c": [
+    "Two",
+    "None",
+    "One",
+    "Three"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد أقمار الأرض الطبيعية؟",
+   "c": [
+    "اثنان",
+    "لا شيء",
+    "واحد",
+    "ثلاثة"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántas lunas naturales tiene la Tierra?",
+   "c": [
+    "Dos",
+    "Ninguna",
+    "Una",
+    "Tres"
+   ]
+  },
+  "pt": {
+   "q": "Quantas luas naturais a Terra tem?",
+   "c": [
+    "Duas",
+    "Nenhuma",
+    "Uma",
+    "Três"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel pays a envoyé des hommes marcher sur la Lune ?",
+   "c": [
+    "Le Japon",
+    "La France",
+    "Les États-Unis",
+    "Le Brésil"
+   ]
+  },
+  "en": {
+   "q": "Which country sent people to walk on the Moon?",
+   "c": [
+    "Japan",
+    "France",
+    "The United States",
+    "Brazil"
+   ]
+  },
+  "ar": {
+   "q": "أي دولة أرسلت بشرًا ليمشوا على القمر؟",
+   "c": [
+    "اليابان",
+    "فرنسا",
+    "الولايات المتحدة",
+    "البرازيل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país envió personas a caminar sobre la Luna?",
+   "c": [
+    "Japón",
+    "Francia",
+    "Estados Unidos",
+    "Brasil"
+   ]
+  },
+  "pt": {
+   "q": "Que país enviou pessoas para caminhar na Lua?",
+   "c": [
+    "O Japão",
+    "A França",
+    "Os Estados Unidos",
+    "O Brasil"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel est le nom de l'agence spatiale européenne ?",
+   "c": [
+    "Roscosmos",
+    "L'ESA",
+    "La JAXA",
+    "La NASA"
+   ]
+  },
+  "en": {
+   "q": "What is the European space agency called?",
+   "c": [
+    "Roscosmos",
+    "The ESA",
+    "JAXA",
+    "NASA"
+   ]
+  },
+  "ar": {
+   "q": "ما اسم وكالة الفضاء الأوروبية؟",
+   "c": [
+    "Roscosmos",
+    "ESA",
+    "JAXA",
+    "NASA"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama la agencia espacial europea?",
+   "c": [
+    "Roscosmos",
+    "La ESA",
+    "La JAXA",
+    "La NASA"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama a agência espacial europeia?",
+   "c": [
+    "Roscosmos",
+    "A ESA",
+    "A JAXA",
+    "A NASA"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "De quel côté le Soleil se lève-t-il ?",
+   "c": [
+    "Au nord",
+    "Au sud",
+    "À l'ouest",
+    "À l'est"
+   ]
+  },
+  "en": {
+   "q": "In which direction does the Sun rise?",
+   "c": [
+    "In the north",
+    "In the south",
+    "In the west",
+    "In the east"
+   ]
+  },
+  "ar": {
+   "q": "من أي جهة تشرق الشمس؟",
+   "c": [
+    "من الشمال",
+    "من الجنوب",
+    "من الغرب",
+    "من الشرق"
+   ]
+  },
+  "es": {
+   "q": "¿Por dónde sale el Sol?",
+   "c": [
+    "Por el norte",
+    "Por el sur",
+    "Por el oeste",
+    "Por el este"
+   ]
+  },
+  "pt": {
+   "q": "Por onde o Sol nasce?",
+   "c": [
+    "Pelo norte",
+    "Pelo sul",
+    "Pelo oeste",
+    "Pelo leste"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on un groupe d'étoiles qui forme un dessin dans le ciel ?",
+   "c": [
+    "Une comète",
+    "Une constellation",
+    "Une éclipse",
+    "Un cratère"
+   ]
+  },
+  "en": {
+   "q": "What do we call a group of stars forming a pattern in the sky?",
+   "c": [
+    "A comet",
+    "A constellation",
+    "An eclipse",
+    "A crater"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمّي مجموعة نجوم تشكّل رسمًا في السماء؟",
+   "c": [
+    "مذنّب",
+    "كوكبة",
+    "كسوف",
+    "فوهة"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama un grupo de estrellas que forma un dibujo en el cielo?",
+   "c": [
+    "Un cometa",
+    "Una constelación",
+    "Un eclipse",
+    "Un cráter"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama um grupo de estrelas que forma um desenho no céu?",
+   "c": [
+    "Um cometa",
+    "Uma constelação",
+    "Um eclipse",
+    "Uma cratera"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on la trajectoire d'une planète autour du Soleil ?",
+   "c": [
+    "Une orbite",
+    "Une nébuleuse",
+    "Un météore",
+    "Un cratère"
+   ]
+  },
+  "en": {
+   "q": "What is the path of a planet around the Sun called?",
+   "c": [
+    "An orbit",
+    "A nebula",
+    "A meteor",
+    "A crater"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمّي مسار الكوكب حول الشمس؟",
+   "c": [
+    "مدار",
+    "سديم",
+    "شهاب",
+    "فوهة"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama la trayectoria de un planeta alrededor del Sol?",
+   "c": [
+    "Una órbita",
+    "Una nebulosa",
+    "Un meteoro",
+    "Un cráter"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama a trajetória de um planeta ao redor do Sol?",
+   "c": [
+    "Uma órbita",
+    "Uma nebulosa",
+    "Um meteoro",
+    "Uma cratera"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Que se passe-t-il en plein jour lors d'une éclipse totale de Soleil ?",
+   "c": [
+    "Le ciel s'assombrit",
+    "Le Soleil double de taille",
+    "Il se met à pleuvoir",
+    "Il se met à neiger"
+   ]
+  },
+  "en": {
+   "q": "What happens in broad daylight during a total solar eclipse?",
+   "c": [
+    "The sky gets dark",
+    "The Sun doubles in size",
+    "It starts to rain",
+    "It starts to snow"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يحدث في وضح النهار خلال كسوف كلي للشمس؟",
+   "c": [
+    "تظلم السماء",
+    "تتضاعف الشمس حجمًا",
+    "يبدأ المطر بالهطول",
+    "يبدأ الثلج بالتساقط"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pasa en pleno día durante un eclipse total de Sol?",
+   "c": [
+    "El cielo se oscurece",
+    "El Sol duplica su tamaño",
+    "Empieza a llover",
+    "Empieza a nevar"
+   ]
+  },
+  "pt": {
+   "q": "O que acontece em pleno dia durante um eclipse solar total?",
+   "c": [
+    "O céu escurece",
+    "O Sol dobra de tamanho",
+    "Começa a chover",
+    "Começa a nevar"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on un véhicule robot qui roule sur Mars ?",
+   "c": [
+    "Un satellite",
+    "Un télescope",
+    "Un ballon",
+    "Un rover"
+   ]
+  },
+  "en": {
+   "q": "What do we call a robot vehicle that drives on Mars?",
+   "c": [
+    "A satellite",
+    "A telescope",
+    "A balloon",
+    "A rover"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمّي المركبة الآلية التي تتجول على المريخ؟",
+   "c": [
+    "قمر صناعي",
+    "تلسكوب",
+    "منطاد",
+    "مركبة جوّالة"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama un vehículo robot que rueda sobre Marte?",
+   "c": [
+    "Un satélite",
+    "Un telescopio",
+    "Un globo",
+    "Un rover"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama um veículo robô que anda em Marte?",
+   "c": [
+    "Um satélite",
+    "Um telescópio",
+    "Um balão",
+    "Um rover"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on la Lune quand elle est entièrement ronde et lumineuse ?",
+   "c": [
+    "Le quartier",
+    "La nouvelle lune",
+    "Le croissant",
+    "La pleine lune"
+   ]
+  },
+  "en": {
+   "q": "What do we call the Moon when it is completely round and bright?",
+   "c": [
+    "The quarter",
+    "The new moon",
+    "The crescent",
+    "The full moon"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمّي القمر حين يكون مستديرًا ومضيئًا بالكامل؟",
+   "c": [
+    "التربيع",
+    "المحاق",
+    "الهلال",
+    "البدر"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama la Luna cuando está totalmente redonda y brillante?",
+   "c": [
+    "El cuarto",
+    "La luna nueva",
+    "El creciente",
+    "La luna llena"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama a Lua quando está totalmente redonda e brilhante?",
+   "c": [
+    "O quarto",
+    "A lua nova",
+    "O crescente",
+    "A lua cheia"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on le fait de flotter sans poids dans l'espace ?",
+   "c": [
+    "L'apesanteur",
+    "L'orbite",
+    "Le vertige",
+    "La gravité"
+   ]
+  },
+  "en": {
+   "q": "What is floating weightlessly in space called?",
+   "c": [
+    "Weightlessness",
+    "Orbit",
+    "Vertigo",
+    "Gravity"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمّي الطفو بلا وزن في الفضاء؟",
+   "c": [
+    "انعدام الوزن",
+    "المدار",
+    "الدوار",
+    "الجاذبية"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama flotar sin peso en el espacio?",
+   "c": [
+    "La ingravidez",
+    "La órbita",
+    "El vértigo",
+    "La gravedad"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama flutuar sem peso no espaço?",
+   "c": [
+    "A ausência de peso",
+    "A órbita",
+    "A vertigem",
+    "A gravidade"
+   ]
+  },
+  "a": 0,
   "image": null,
   "level": 2
  },
@@ -1453,49 +2703,49 @@
   "fr": {
    "q": "Quelle planète est la plus proche du Soleil ?",
    "c": [
-    "Mercure",
     "Jupiter",
     "Vénus",
+    "Mercure",
     "Mars"
    ]
   },
   "en": {
    "q": "Which planet is closest to the Sun?",
    "c": [
-    "Mercury",
     "Jupiter",
     "Venus",
+    "Mercury",
     "Mars"
    ]
   },
   "ar": {
    "q": "أي كوكب هو الأقرب إلى الشمس؟",
    "c": [
-    "عطارد",
     "المشتري",
     "الزهرة",
+    "عطارد",
     "المريخ"
    ]
   },
   "es": {
    "q": "¿Qué planeta es el más cercano al Sol?",
    "c": [
-    "Mercurio",
     "Júpiter",
     "Venus",
+    "Mercurio",
     "Marte"
    ]
   },
   "pt": {
    "q": "Qual planeta é o mais próximo do Sol?",
    "c": [
-    "Mercúrio",
     "Júpiter",
     "Vênus",
+    "Mercúrio",
     "Marte"
    ]
   },
-  "a": 0,
+  "a": 2,
   "image": null,
   "level": 3
  },
@@ -1703,49 +2953,49 @@
   "fr": {
    "q": "Pourquoi y a-t-il des saisons sur Terre ?",
    "c": [
+    "À cause de la rotation du Soleil",
     "À cause de l'inclinaison de l'axe de la Terre",
-    "À cause des taches du Soleil",
     "À cause des phases de la Lune",
-    "À cause de la rotation du Soleil"
+    "À cause des taches du Soleil"
    ]
   },
   "en": {
    "q": "Why are there seasons on Earth?",
    "c": [
+    "Because of the Sun's rotation",
     "Because of the tilt of the Earth's axis",
-    "Because of sunspots",
     "Because of the phases of the Moon",
-    "Because of the Sun's rotation"
+    "Because of sunspots"
    ]
   },
   "ar": {
    "q": "لماذا توجد فصول على الأرض؟",
    "c": [
+    "بسبب دوران الشمس",
     "بسبب ميل محور الأرض",
-    "بسبب البقع الشمسية",
     "بسبب أطوار القمر",
-    "بسبب دوران الشمس"
+    "بسبب البقع الشمسية"
    ]
   },
   "es": {
    "q": "¿Por qué hay estaciones en la Tierra?",
    "c": [
+    "Por la rotación del Sol",
     "Por la inclinación del eje de la Tierra",
-    "Por las manchas solares",
     "Por las fases de la Luna",
-    "Por la rotación del Sol"
+    "Por las manchas solares"
    ]
   },
   "pt": {
    "q": "Por que existem estações do ano na Terra?",
    "c": [
+    "Por causa da rotação do Sol",
     "Por causa da inclinação do eixo da Terra",
-    "Por causa das manchas solares",
     "Por causa das fases da Lua",
-    "Por causa da rotação do Sol"
+    "Por causa das manchas solares"
    ]
   },
-  "a": 0,
+  "a": 1,
   "image": null,
   "level": 3
  },
@@ -1803,49 +3053,699 @@
   "fr": {
    "q": "Quel savant italien a observé les lunes de Jupiter avec une lunette en 1610 ?",
    "c": [
-    "Galilée",
-    "Louis Pasteur",
     "Isaac Newton",
-    "Albert Einstein"
+    "Albert Einstein",
+    "Louis Pasteur",
+    "Galilée"
    ]
   },
   "en": {
    "q": "Which Italian scholar observed the moons of Jupiter with a telescope in 1610?",
    "c": [
-    "Galileo",
-    "Louis Pasteur",
     "Isaac Newton",
-    "Albert Einstein"
+    "Albert Einstein",
+    "Louis Pasteur",
+    "Galileo"
    ]
   },
   "ar": {
    "q": "أي عالم إيطالي رصد أقمار المشتري بالتلسكوب عام 1610؟",
    "c": [
-    "غاليليو",
-    "لويس باستور",
     "إسحاق نيوتن",
-    "ألبرت أينشتاين"
+    "ألبرت أينشتاين",
+    "لويس باستور",
+    "غاليليو"
    ]
   },
   "es": {
    "q": "¿Qué sabio italiano observó las lunas de Júpiter con un telescopio en 1610?",
    "c": [
-    "Galileo",
-    "Louis Pasteur",
     "Isaac Newton",
-    "Albert Einstein"
+    "Albert Einstein",
+    "Louis Pasteur",
+    "Galileo"
    ]
   },
   "pt": {
    "q": "Que sábio italiano observou as luas de Júpiter com uma luneta em 1610?",
    "c": [
-    "Galileu",
-    "Louis Pasteur",
     "Isaac Newton",
-    "Albert Einstein"
+    "Albert Einstein",
+    "Louis Pasteur",
+    "Galileu"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle planète se trouve entre Vénus et Mars ?",
+   "c": [
+    "Saturne",
+    "Jupiter",
+    "Mercure",
+    "La Terre"
+   ]
+  },
+  "en": {
+   "q": "Which planet lies between Venus and Mars?",
+   "c": [
+    "Saturn",
+    "Jupiter",
+    "Mercury",
+    "The Earth"
+   ]
+  },
+  "ar": {
+   "q": "أي كوكب يقع بين الزهرة والمريخ؟",
+   "c": [
+    "زحل",
+    "المشتري",
+    "عطارد",
+    "الأرض"
+   ]
+  },
+  "es": {
+   "q": "¿Qué planeta está entre Venus y Marte?",
+   "c": [
+    "Saturno",
+    "Júpiter",
+    "Mercurio",
+    "La Tierra"
+   ]
+  },
+  "pt": {
+   "q": "Que planeta fica entre Vênus e Marte?",
+   "c": [
+    "Saturno",
+    "Júpiter",
+    "Mercúrio",
+    "A Terra"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle planète vient juste après Mars en s'éloignant du Soleil ?",
+   "c": [
+    "Saturne",
+    "Jupiter",
+    "Mercure",
+    "Vénus"
+   ]
+  },
+  "en": {
+   "q": "Which planet comes right after Mars, moving away from the Sun?",
+   "c": [
+    "Saturn",
+    "Jupiter",
+    "Mercury",
+    "Venus"
+   ]
+  },
+  "ar": {
+   "q": "أي كوكب يأتي مباشرة بعد المريخ بالابتعاد عن الشمس؟",
+   "c": [
+    "زحل",
+    "المشتري",
+    "عطارد",
+    "الزهرة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué planeta viene justo después de Marte, alejándose del Sol?",
+   "c": [
+    "Saturno",
+    "Júpiter",
+    "Mercurio",
+    "Venus"
+   ]
+  },
+  "pt": {
+   "q": "Que planeta vem logo depois de Marte, afastando-se do Sol?",
+   "c": [
+    "Saturno",
+    "Júpiter",
+    "Mercúrio",
+    "Vênus"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Qui est Thomas Pesquet ?",
+   "c": [
+    "Un chanteur",
+    "Un astronaute français",
+    "Un footballeur",
+    "Un pilote de rallye"
+   ]
+  },
+  "en": {
+   "q": "Who is Thomas Pesquet?",
+   "c": [
+    "A singer",
+    "A French astronaut",
+    "A footballer",
+    "A rally driver"
+   ]
+  },
+  "ar": {
+   "q": "من هو توماس بيسكي؟",
+   "c": [
+    "مغنٍّ",
+    "رائد فضاء فرنسي",
+    "لاعب كرة قدم",
+    "سائق رالي"
+   ]
+  },
+  "es": {
+   "q": "¿Quién es Thomas Pesquet?",
+   "c": [
+    "Un cantante",
+    "Un astronauta francés",
+    "Un futbolista",
+    "Un piloto de rally"
+   ]
+  },
+  "pt": {
+   "q": "Quem é Thomas Pesquet?",
+   "c": [
+    "Um cantor",
+    "Um astronauta francês",
+    "Um jogador de futebol",
+    "Um piloto de rali"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle planète porte le nom du dieu romain de la guerre ?",
+   "c": [
+    "Mercure",
+    "Vénus",
+    "Neptune",
+    "Mars"
+   ]
+  },
+  "en": {
+   "q": "Which planet is named after the Roman god of war?",
+   "c": [
+    "Mercury",
+    "Venus",
+    "Neptune",
+    "Mars"
+   ]
+  },
+  "ar": {
+   "q": "أي كوكب يحمل اسم إله الحرب الروماني؟",
+   "c": [
+    "عطارد",
+    "الزهرة",
+    "نبتون",
+    "المريخ"
+   ]
+  },
+  "es": {
+   "q": "¿Qué planeta lleva el nombre del dios romano de la guerra?",
+   "c": [
+    "Mercurio",
+    "Venus",
+    "Neptuno",
+    "Marte"
+   ]
+  },
+  "pt": {
+   "q": "Que planeta leva o nome do deus romano da guerra?",
+   "c": [
+    "Mercúrio",
+    "Vênus",
+    "Netuno",
+    "Marte"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle fusée décolle depuis la Guyane française ?",
+   "c": [
+    "Falcon 9",
+    "Saturn V",
+    "Ariane",
+    "Proton"
+   ]
+  },
+  "en": {
+   "q": "Which rocket lifts off from French Guiana?",
+   "c": [
+    "Falcon 9",
+    "Saturn V",
+    "Ariane",
+    "Proton"
+   ]
+  },
+  "ar": {
+   "q": "أي صاروخ ينطلق من غويانا الفرنسية؟",
+   "c": [
+    "Falcon 9",
+    "Saturn V",
+    "Ariane",
+    "Proton"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cohete despega desde la Guayana Francesa?",
+   "c": [
+    "Falcon 9",
+    "Saturn V",
+    "Ariane",
+    "Proton"
+   ]
+  },
+  "pt": {
+   "q": "Que foguete decola da Guiana Francesa?",
+   "c": [
+    "Falcon 9",
+    "Saturn V",
+    "Ariane",
+    "Proton"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle est la deuxième plus grosse planète du système solaire ?",
+   "c": [
+    "Saturne",
+    "La Terre",
+    "Neptune",
+    "Uranus"
+   ]
+  },
+  "en": {
+   "q": "Which is the second largest planet in the solar system?",
+   "c": [
+    "Saturn",
+    "The Earth",
+    "Neptune",
+    "Uranus"
+   ]
+  },
+  "ar": {
+   "q": "ما هو ثاني أكبر كوكب في المجموعة الشمسية؟",
+   "c": [
+    "زحل",
+    "الأرض",
+    "نبتون",
+    "أورانوس"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el segundo planeta más grande del sistema solar?",
+   "c": [
+    "Saturno",
+    "La Tierra",
+    "Neptuno",
+    "Urano"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o segundo maior planeta do sistema solar?",
+   "c": [
+    "Saturno",
+    "A Terra",
+    "Netuno",
+    "Urano"
    ]
   },
   "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle est la couleur du ciel vu depuis la Lune ?",
+   "c": [
+    "Noir",
+    "Vert",
+    "Bleu",
+    "Rose"
+   ]
+  },
+  "en": {
+   "q": "What color is the sky seen from the Moon?",
+   "c": [
+    "Black",
+    "Green",
+    "Blue",
+    "Pink"
+   ]
+  },
+  "ar": {
+   "q": "ما لون السماء كما تُرى من القمر؟",
+   "c": [
+    "أسود",
+    "أخضر",
+    "أزرق",
+    "وردي"
+   ]
+  },
+  "es": {
+   "q": "¿De qué color es el cielo visto desde la Luna?",
+   "c": [
+    "Negro",
+    "Verde",
+    "Azul",
+    "Rosa"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a cor do céu visto da Lua?",
+   "c": [
+    "Preto",
+    "Verde",
+    "Azul",
+    "Rosa"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Qu'est-ce qu'un astéroïde ?",
+   "c": [
+    "Un gros rocher qui flotte dans l'espace",
+    "Une planète de gaz",
+    "Une étoile très chaude",
+    "Un nuage de gaz"
+   ]
+  },
+  "en": {
+   "q": "What is an asteroid?",
+   "c": [
+    "A big rock floating in space",
+    "A gas planet",
+    "A very hot star",
+    "A cloud of gas"
+   ]
+  },
+  "ar": {
+   "q": "ما هو الكويكب؟",
+   "c": [
+    "صخرة كبيرة تطفو في الفضاء",
+    "كوكب غازي",
+    "نجم شديد الحرارة",
+    "سحابة غاز"
+   ]
+  },
+  "es": {
+   "q": "¿Qué es un asteroide?",
+   "c": [
+    "Una gran roca que flota en el espacio",
+    "Un planeta de gas",
+    "Una estrella muy caliente",
+    "Una nube de gas"
+   ]
+  },
+  "pt": {
+   "q": "O que é um asteroide?",
+   "c": [
+    "Uma grande rocha que flutua no espaço",
+    "Um planeta de gás",
+    "Uma estrela muito quente",
+    "Uma nuvem de gás"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Qui a affirmé que la Terre tourne autour du Soleil ?",
+   "c": [
+    "Ptolémée",
+    "Platon",
+    "Copernic",
+    "Aristote"
+   ]
+  },
+  "en": {
+   "q": "Who claimed that the Earth orbits the Sun?",
+   "c": [
+    "Ptolemy",
+    "Plato",
+    "Copernicus",
+    "Aristotle"
+   ]
+  },
+  "ar": {
+   "q": "من الذي قال إن الأرض تدور حول الشمس؟",
+   "c": [
+    "بطليموس",
+    "أفلاطون",
+    "كوبرنيكوس",
+    "أرسطو"
+   ]
+  },
+  "es": {
+   "q": "¿Quién afirmó que la Tierra gira alrededor del Sol?",
+   "c": [
+    "Ptolomeo",
+    "Platón",
+    "Copérnico",
+    "Aristóteles"
+   ]
+  },
+  "pt": {
+   "q": "Quem afirmou que a Terra gira em torno do Sol?",
+   "c": [
+    "Ptolomeu",
+    "Platão",
+    "Copérnico",
+    "Aristóteles"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle planète porte le nom du dieu romain de la mer ?",
+   "c": [
+    "Mars",
+    "Vénus",
+    "Mercure",
+    "Neptune"
+   ]
+  },
+  "en": {
+   "q": "Which planet is named after the Roman god of the sea?",
+   "c": [
+    "Mars",
+    "Venus",
+    "Mercury",
+    "Neptune"
+   ]
+  },
+  "ar": {
+   "q": "أي كوكب يحمل اسم إله البحر الروماني؟",
+   "c": [
+    "المريخ",
+    "الزهرة",
+    "عطارد",
+    "نبتون"
+   ]
+  },
+  "es": {
+   "q": "¿Qué planeta lleva el nombre del dios romano del mar?",
+   "c": [
+    "Marte",
+    "Venus",
+    "Mercurio",
+    "Neptuno"
+   ]
+  },
+  "pt": {
+   "q": "Que planeta leva o nome do deus romano do mar?",
+   "c": [
+    "Marte",
+    "Vênus",
+    "Mercúrio",
+    "Netuno"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle forme a notre galaxie, la Voie lactée ?",
+   "c": [
+    "Une spirale",
+    "Un carré",
+    "Un triangle",
+    "Une boule parfaite"
+   ]
+  },
+  "en": {
+   "q": "What shape is our galaxy, the Milky Way?",
+   "c": [
+    "A spiral",
+    "A square",
+    "A triangle",
+    "A perfect ball"
+   ]
+  },
+  "ar": {
+   "q": "ما شكل مجرتنا درب التبانة؟",
+   "c": [
+    "حلزونية",
+    "مربع",
+    "مثلث",
+    "كرة مثالية"
+   ]
+  },
+  "es": {
+   "q": "¿Qué forma tiene nuestra galaxia, la Vía Láctea?",
+   "c": [
+    "Una espiral",
+    "Un cuadrado",
+    "Un triángulo",
+    "Una bola perfecta"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a forma da nossa galáxia, a Via Láctea?",
+   "c": [
+    "Uma espiral",
+    "Um quadrado",
+    "Um triângulo",
+    "Uma bola perfeita"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel savant a découvert la gravitation en voyant, dit-on, tomber une pomme ?",
+   "c": [
+    "Newton",
+    "Pasteur",
+    "Galilée",
+    "Einstein"
+   ]
+  },
+  "en": {
+   "q": "Which scientist discovered gravity, they say, by watching an apple fall?",
+   "c": [
+    "Newton",
+    "Pasteur",
+    "Galileo",
+    "Einstein"
+   ]
+  },
+  "ar": {
+   "q": "أي عالم اكتشف الجاذبية، كما يُقال، حين رأى تفاحة تسقط؟",
+   "c": [
+    "نيوتن",
+    "باستور",
+    "غاليليو",
+    "أينشتاين"
+   ]
+  },
+  "es": {
+   "q": "¿Qué sabio descubrió la gravedad, dicen, al ver caer una manzana?",
+   "c": [
+    "Newton",
+    "Pasteur",
+    "Galileo",
+    "Einstein"
+   ]
+  },
+  "pt": {
+   "q": "Que cientista descobriu a gravidade, dizem, ao ver uma maçã cair?",
+   "c": [
+    "Newton",
+    "Pasteur",
+    "Galileu",
+    "Einstein"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Pourquoi la Lune brille-t-elle dans le ciel ?",
+   "c": [
+    "Elle est couverte de lampes",
+    "Elle est chauffée par la Terre",
+    "Elle reflète la lumière du Soleil",
+    "Elle produit sa propre lumière"
+   ]
+  },
+  "en": {
+   "q": "Why does the Moon shine in the sky?",
+   "c": [
+    "It is covered in lamps",
+    "It is heated by the Earth",
+    "It reflects sunlight",
+    "It makes its own light"
+   ]
+  },
+  "ar": {
+   "q": "لماذا يلمع القمر في السماء؟",
+   "c": [
+    "مغطى بالمصابيح",
+    "الأرض تسخّنه",
+    "يعكس ضوء الشمس",
+    "يصنع ضوءه الخاص"
+   ]
+  },
+  "es": {
+   "q": "¿Por qué brilla la Luna en el cielo?",
+   "c": [
+    "Está cubierta de lámparas",
+    "La Tierra la calienta",
+    "Refleja la luz del Sol",
+    "Produce su propia luz"
+   ]
+  },
+  "pt": {
+   "q": "Por que a Lua brilha no céu?",
+   "c": [
+    "Ela é coberta de lâmpadas",
+    "Ela é aquecida pela Terra",
+    "Ela reflete a luz do Sol",
+    "Ela produz sua própria luz"
+   ]
+  },
+  "a": 2,
   "image": null,
   "level": 3
  },
@@ -1953,49 +3853,49 @@
   "fr": {
    "q": "Quel est le nom du rover de la NASA qui a atterri sur Mars en février 2021 pour y chercher des traces de vie ancienne ?",
    "c": [
-    "Perseverance",
+    "Opportunity",
     "Spirit",
     "Curiosity",
-    "Opportunity"
+    "Perseverance"
    ]
   },
   "en": {
    "q": "What is the name of the NASA rover that landed on Mars in February 2021 to search for signs of ancient life?",
    "c": [
-    "Perseverance",
+    "Opportunity",
     "Spirit",
     "Curiosity",
-    "Opportunity"
+    "Perseverance"
    ]
   },
   "ar": {
    "q": "ما هو اسم مسبار ناسا الذي هبط على المريخ في فبراير 2021 للبحث عن آثار حياة قديمة؟",
    "c": [
-    "Perseverance (المثابرة)",
+    "Opportunity",
     "Spirit",
     "Curiosity",
-    "Opportunity"
+    "Perseverance (المثابرة)"
    ]
   },
   "es": {
    "q": "¿Cómo se llama el róver de la NASA que aterrizó en Marte en febrero de 2021 para buscar rastros de vida antigua?",
    "c": [
-    "Perseverance",
+    "Opportunity",
     "Spirit",
     "Curiosity",
-    "Opportunity"
+    "Perseverance"
    ]
   },
   "pt": {
    "q": "Qual é o nome do rover da NASA que pousou em Marte em fevereiro de 2021 para procurar vestígios de vida antiga?",
    "c": [
-    "Perseverance",
+    "Opportunity",
     "Spirit",
     "Curiosity",
-    "Opportunity"
+    "Perseverance"
    ]
   },
-  "a": 0,
+  "a": 3,
   "image": null,
   "level": 4
  },
@@ -2153,49 +4053,49 @@
   "fr": {
    "q": "Quel est le nom de la première femme à être allé dans l'espace en 1963 ?",
    "c": [
-    "Valentina Terechkova",
-    "Mae Jemison",
+    "Sally Ride",
     "Peggy Whitson",
-    "Sally Ride"
+    "Mae Jemison",
+    "Valentina Terechkova"
    ]
   },
   "en": {
    "q": "What is the name of the first woman to go into space in 1963?",
    "c": [
-    "Valentina Tereshkova",
-    "Mae Jemison",
+    "Sally Ride",
     "Peggy Whitson",
-    "Sally Ride"
+    "Mae Jemison",
+    "Valentina Tereshkova"
    ]
   },
   "ar": {
    "q": "ما هو اسم أول امرأة صعدت إلى الفضاء عام 1963؟",
    "c": [
-    "فالنتينا تيريشكوفا",
-    "ماي جيميسون",
+    "سالي رايد",
     "بيغي ويتسون",
-    "سالي رايد"
+    "ماي جيميسون",
+    "فالنتينا تيريشكوفا"
    ]
   },
   "es": {
    "q": "¿Cómo se llama la primera mujer en viajar al espacio en 1963?",
    "c": [
-    "Valentina Tereshkova",
-    "Mae Jemison",
+    "Sally Ride",
     "Peggy Whitson",
-    "Sally Ride"
+    "Mae Jemison",
+    "Valentina Tereshkova"
    ]
   },
   "pt": {
    "q": "Qual é a nome da primeira mulher a ir ao espaço em 1963?",
    "c": [
-    "Valentina Tereshkova",
-    "Mae Jemison",
+    "Sally Ride",
     "Peggy Whitson",
-    "Sally Ride"
+    "Mae Jemison",
+    "Valentina Tereshkova"
    ]
   },
-  "a": 0,
+  "a": 3,
   "image": null,
   "level": 4
  },
@@ -2346,6 +4246,506 @@
    ]
   },
   "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle est la planète la plus chaude du système solaire ?",
+   "c": [
+    "Mars",
+    "Mercure",
+    "Vénus",
+    "Jupiter"
+   ]
+  },
+  "en": {
+   "q": "Which is the hottest planet in the solar system?",
+   "c": [
+    "Mars",
+    "Mercury",
+    "Venus",
+    "Jupiter"
+   ]
+  },
+  "ar": {
+   "q": "ما هو أشد كواكب المجموعة الشمسية حرارة؟",
+   "c": [
+    "المريخ",
+    "عطارد",
+    "الزهرة",
+    "المشتري"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el planeta más caliente del sistema solar?",
+   "c": [
+    "Marte",
+    "Mercurio",
+    "Venus",
+    "Júpiter"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o planeta mais quente do sistema solar?",
+   "c": [
+    "Marte",
+    "Mercúrio",
+    "Vênus",
+    "Júpiter"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Laquelle de ces lunes tourne autour de Jupiter ?",
+   "c": [
+    "Triton",
+    "Titan",
+    "Io",
+    "Phobos"
+   ]
+  },
+  "en": {
+   "q": "Which of these moons orbits Jupiter?",
+   "c": [
+    "Triton",
+    "Titan",
+    "Io",
+    "Phobos"
+   ]
+  },
+  "ar": {
+   "q": "أي من هذه الأقمار يدور حول المشتري؟",
+   "c": [
+    "تريتون",
+    "تيتان",
+    "آيو",
+    "فوبوس"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál de estas lunas gira alrededor de Júpiter?",
+   "c": [
+    "Tritón",
+    "Titán",
+    "Io",
+    "Fobos"
+   ]
+  },
+  "pt": {
+   "q": "Qual destas luas gira em torno de Júpiter?",
+   "c": [
+    "Tritão",
+    "Titã",
+    "Io",
+    "Fobos"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Que mesure une année-lumière ?",
+   "c": [
+    "Une distance",
+    "Une durée",
+    "Une vitesse",
+    "Une masse"
+   ]
+  },
+  "en": {
+   "q": "What does a light-year measure?",
+   "c": [
+    "A distance",
+    "A time",
+    "A speed",
+    "A mass"
+   ]
+  },
+  "ar": {
+   "q": "ماذا تقيس السنة الضوئية؟",
+   "c": [
+    "مسافة",
+    "مدة",
+    "سرعة",
+    "كتلة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué mide un año luz?",
+   "c": [
+    "Una distancia",
+    "Una duración",
+    "Una velocidad",
+    "Una masa"
+   ]
+  },
+  "pt": {
+   "q": "O que mede um ano-luz?",
+   "c": [
+    "Uma distância",
+    "Uma duração",
+    "Uma velocidade",
+    "Uma massa"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Sur quelle planète roule le rover Curiosity ?",
+   "c": [
+    "Jupiter",
+    "Mars",
+    "Vénus",
+    "Mercure"
+   ]
+  },
+  "en": {
+   "q": "On which planet does the Curiosity rover drive?",
+   "c": [
+    "Jupiter",
+    "Mars",
+    "Venus",
+    "Mercury"
+   ]
+  },
+  "ar": {
+   "q": "على أي كوكب تتجول المركبة كيوريوسيتي؟",
+   "c": [
+    "المشتري",
+    "المريخ",
+    "الزهرة",
+    "عطارد"
+   ]
+  },
+  "es": {
+   "q": "¿En qué planeta rueda el rover Curiosity?",
+   "c": [
+    "Júpiter",
+    "Marte",
+    "Venus",
+    "Mercurio"
+   ]
+  },
+  "pt": {
+   "q": "Em que planeta anda o rover Curiosity?",
+   "c": [
+    "Júpiter",
+    "Marte",
+    "Vênus",
+    "Mercúrio"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel astronaute a marché sur la Lune avec Neil Armstrong ?",
+   "c": [
+    "Buzz Aldrin",
+    "Yang Liwei",
+    "John Glenn",
+    "Youri Gagarine"
+   ]
+  },
+  "en": {
+   "q": "Which astronaut walked on the Moon with Neil Armstrong?",
+   "c": [
+    "Buzz Aldrin",
+    "Yang Liwei",
+    "John Glenn",
+    "Yuri Gagarin"
+   ]
+  },
+  "ar": {
+   "q": "أي رائد فضاء مشى على القمر مع نيل أرمسترونغ؟",
+   "c": [
+    "بز ألدرين",
+    "يانغ ليوي",
+    "جون غلين",
+    "يوري غاغارين"
+   ]
+  },
+  "es": {
+   "q": "¿Qué astronauta caminó por la Luna con Neil Armstrong?",
+   "c": [
+    "Buzz Aldrin",
+    "Yang Liwei",
+    "John Glenn",
+    "Yuri Gagarin"
+   ]
+  },
+  "pt": {
+   "q": "Que astronauta caminhou na Lua com Neil Armstrong?",
+   "c": [
+    "Buzz Aldrin",
+    "Yang Liwei",
+    "John Glenn",
+    "Yuri Gagarin"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelle la région pleine de rochers entre Mars et Jupiter ?",
+   "c": [
+    "Les anneaux de Saturne",
+    "Le nuage d'Oort",
+    "La Voie lactée",
+    "La ceinture d'astéroïdes"
+   ]
+  },
+  "en": {
+   "q": "What is the rocky region between Mars and Jupiter called?",
+   "c": [
+    "Saturn's rings",
+    "The Oort cloud",
+    "The Milky Way",
+    "The asteroid belt"
+   ]
+  },
+  "ar": {
+   "q": "ماذا تُسمّى المنطقة المليئة بالصخور بين المريخ والمشتري؟",
+   "c": [
+    "حلقات زحل",
+    "سحابة أورت",
+    "درب التبانة",
+    "حزام الكويكبات"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama la región llena de rocas entre Marte y Júpiter?",
+   "c": [
+    "Los anillos de Saturno",
+    "La nube de Oort",
+    "La Vía Láctea",
+    "El cinturón de asteroides"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama a região cheia de rochas entre Marte e Júpiter?",
+   "c": [
+    "Os anéis de Saturno",
+    "A nuvem de Oort",
+    "A Via Láctea",
+    "O cinturão de asteroides"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle comète porte le nom d'un astronome anglais et revient tous les 76 ans ?",
+   "c": [
+    "Swift-Tuttle",
+    "Hale-Bopp",
+    "Halley",
+    "Encke"
+   ]
+  },
+  "en": {
+   "q": "Which comet is named after an English astronomer and returns every 76 years?",
+   "c": [
+    "Swift-Tuttle",
+    "Hale-Bopp",
+    "Halley",
+    "Encke"
+   ]
+  },
+  "ar": {
+   "q": "أي مذنّب يحمل اسم فلكي إنجليزي ويعود كل 76 سنة؟",
+   "c": [
+    "سويفت-توتل",
+    "هيل-بوب",
+    "هالي",
+    "إنكه"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cometa lleva el nombre de un astrónomo inglés y regresa cada 76 años?",
+   "c": [
+    "Swift-Tuttle",
+    "Hale-Bopp",
+    "Halley",
+    "Encke"
+   ]
+  },
+  "pt": {
+   "q": "Que cometa leva o nome de um astrônomo inglês e volta a cada 76 anos?",
+   "c": [
+    "Swift-Tuttle",
+    "Hale-Bopp",
+    "Halley",
+    "Encke"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Comment surnomme-t-on la Lune rougeâtre lors d'une éclipse totale de Lune ?",
+   "c": [
+    "La Lune de sang",
+    "La Lune d'argent",
+    "La Super Lune",
+    "La Lune bleue"
+   ]
+  },
+  "en": {
+   "q": "What is the reddish Moon during a total lunar eclipse nicknamed?",
+   "c": [
+    "The Blood Moon",
+    "The Silver Moon",
+    "The Supermoon",
+    "The Blue Moon"
+   ]
+  },
+  "ar": {
+   "q": "بماذا يُلقَّب القمر المحمرّ أثناء الخسوف الكلي؟",
+   "c": [
+    "قمر الدم",
+    "القمر الفضي",
+    "القمر العملاق",
+    "القمر الأزرق"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se apoda a la Luna rojiza durante un eclipse total de Luna?",
+   "c": [
+    "La Luna de sangre",
+    "La Luna de plata",
+    "La Superluna",
+    "La Luna azul"
+   ]
+  },
+  "pt": {
+   "q": "Como se apelida a Lua avermelhada durante um eclipse lunar total?",
+   "c": [
+    "A Lua de sangue",
+    "A Lua de prata",
+    "A Superlua",
+    "A Lua azul"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle est l'étoile la plus brillante du ciel nocturne ?",
+   "c": [
+    "Polaris",
+    "Sirius",
+    "Bételgeuse",
+    "Vega"
+   ]
+  },
+  "en": {
+   "q": "Which is the brightest star in the night sky?",
+   "c": [
+    "Polaris",
+    "Sirius",
+    "Betelgeuse",
+    "Vega"
+   ]
+  },
+  "ar": {
+   "q": "ما هو ألمع نجم في سماء الليل؟",
+   "c": [
+    "Polaris",
+    "الشعرى اليمانية",
+    "منكب الجوزاء",
+    "النسر الواقع"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la estrella más brillante del cielo nocturno?",
+   "c": [
+    "Polaris",
+    "Sirio",
+    "Betelgeuse",
+    "Vega"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a estrela mais brilhante do céu noturno?",
+   "c": [
+    "Polaris",
+    "Sirius",
+    "Betelgeuse",
+    "Vega"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle étoile est appelée l'étoile du Nord ?",
+   "c": [
+    "Sirius",
+    "Polaris",
+    "Bételgeuse",
+    "Vega"
+   ]
+  },
+  "en": {
+   "q": "Which star is called the North Star?",
+   "c": [
+    "Sirius",
+    "Polaris",
+    "Betelgeuse",
+    "Vega"
+   ]
+  },
+  "ar": {
+   "q": "أي نجم يُسمّى نجمة الشمال؟",
+   "c": [
+    "الشعرى اليمانية",
+    "Polaris",
+    "منكب الجوزاء",
+    "النسر الواقع"
+   ]
+  },
+  "es": {
+   "q": "¿Qué estrella se llama la estrella del Norte?",
+   "c": [
+    "Sirio",
+    "Polaris",
+    "Betelgeuse",
+    "Vega"
+   ]
+  },
+  "pt": {
+   "q": "Que estrela é chamada de estrela do Norte?",
+   "c": [
+    "Sirius",
+    "Polaris",
+    "Betelgeuse",
+    "Vega"
+   ]
+  },
+  "a": 1,
   "image": null,
   "level": 4
  },
@@ -2803,49 +5203,49 @@
   "fr": {
    "q": "Quel est le nom de la première sonde humaine à avoir traversé l'héliopause et pénétré dans le milieu interstellaire ?",
    "c": [
-    "Voyager 1",
-    "Cassini-Huygens",
     "New Horizons",
-    "Pioneer 10"
+    "Pioneer 10",
+    "Voyager 1",
+    "Cassini-Huygens"
    ]
   },
   "en": {
    "q": "What is the name of the first human-made probe to cross the heliopause and enter interstellar space?",
    "c": [
-    "Voyager 1",
-    "Cassini-Huygens",
     "New Horizons",
-    "Pioneer 10"
+    "Pioneer 10",
+    "Voyager 1",
+    "Cassini-Huygens"
    ]
   },
   "ar": {
    "q": "ما هو اسم أول مسبار بشري يعبر الحفاة الشمسية ويدخل الفضاء بين النجمي؟",
    "c": [
-    "فوييجر 1",
-    "كاسيني-هويغنز",
     "نيو هورايزونز",
-    "بايونير 10"
+    "بايونير 10",
+    "فوييجر 1",
+    "كاسيني-هويغنز"
    ]
   },
   "es": {
    "q": "¿Cómo se llama la primera sonda espacial humana en cruzar la heliopausa y entrar en el espacio interestelar?",
    "c": [
-    "Voyager 1",
-    "Cassini-Huygens",
     "New Horizons",
-    "Pioneer 10"
+    "Pioneer 10",
+    "Voyager 1",
+    "Cassini-Huygens"
    ]
   },
   "pt": {
    "q": "Qual é o nome da primeira sonda espacial humana a cruzar a heliopausa e entrar no espaço interestelar?",
    "c": [
-    "Voyager 1",
-    "Cassini-Huygens",
     "New Horizons",
-    "Pioneer 10"
+    "Pioneer 10",
+    "Voyager 1",
+    "Cassini-Huygens"
    ]
   },
-  "a": 0,
+  "a": 2,
   "image": null,
   "level": 5
  },
@@ -3201,6 +5601,156 @@
  },
  {
   "fr": {
+   "q": "Pourquoi la Lune semble-t-elle changer de forme ?",
+   "c": [
+    "On voit une part différente de sa face éclairée",
+    "L'ombre de la Terre la cache",
+    "Elle change de couleur",
+    "Elle grossit puis rétrécit"
+   ]
+  },
+  "en": {
+   "q": "Why does the Moon seem to change shape?",
+   "c": [
+    "We see a different part of its lit side",
+    "Earth's shadow hides it",
+    "It changes color",
+    "It grows then shrinks"
+   ]
+  },
+  "ar": {
+   "q": "لماذا يبدو القمر وكأنه يغيّر شكله؟",
+   "c": [
+    "نرى جزءًا مختلفًا من وجهه المضاء",
+    "ظلّ الأرض يحجبه",
+    "يغيّر لونه",
+    "يكبر ثم يصغر"
+   ]
+  },
+  "es": {
+   "q": "¿Por qué parece cambiar de forma la Luna?",
+   "c": [
+    "Vemos una parte distinta de su cara iluminada",
+    "La sombra de la Tierra la oculta",
+    "Cambia de color",
+    "Crece y luego se encoge"
+   ]
+  },
+  "pt": {
+   "q": "Por que a Lua parece mudar de forma?",
+   "c": [
+    "Vemos uma parte diferente da sua face iluminada",
+    "A sombra da Terra a esconde",
+    "Ela muda de cor",
+    "Ela cresce e depois encolhe"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Pourquoi les astronautes flottent-ils dans la station spatiale ?",
+   "c": [
+    "L'air les soulève",
+    "Il n'y a aucune gravité là-haut",
+    "Ils sont en chute libre autour de la Terre",
+    "Ils sont attachés au plafond"
+   ]
+  },
+  "en": {
+   "q": "Why do astronauts float in the space station?",
+   "c": [
+    "The air lifts them",
+    "There is no gravity up there",
+    "They are in free fall around the Earth",
+    "They are tied to the ceiling"
+   ]
+  },
+  "ar": {
+   "q": "لماذا يطفو رواد الفضاء في المحطة الفضائية؟",
+   "c": [
+    "الهواء يرفعهم",
+    "لا توجد جاذبية هناك",
+    "هم في سقوط حر حول الأرض",
+    "هم مربوطون بالسقف"
+   ]
+  },
+  "es": {
+   "q": "¿Por qué flotan los astronautas en la estación espacial?",
+   "c": [
+    "El aire los levanta",
+    "Allí no hay gravedad",
+    "Están en caída libre alrededor de la Tierra",
+    "Están atados al techo"
+   ]
+  },
+  "pt": {
+   "q": "Por que os astronautas flutuam na estação espacial?",
+   "c": [
+    "O ar os levanta",
+    "Lá em cima não há gravidade",
+    "Estão em queda livre ao redor da Terra",
+    "Estão presos ao teto"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Pourquoi voit-on toujours la même face de la Lune ?",
+   "c": [
+    "Elle met autant de temps à tourner sur elle-même qu'autour de la Terre",
+    "Le Soleil la maintient immobile",
+    "Elle ne tourne pas du tout sur elle-même",
+    "Elle est plate comme un disque"
+   ]
+  },
+  "en": {
+   "q": "Why do we always see the same side of the Moon?",
+   "c": [
+    "It takes as long to spin once as to orbit the Earth",
+    "The Sun holds it still",
+    "It does not spin at all",
+    "It is flat like a disc"
+   ]
+  },
+  "ar": {
+   "q": "لماذا نرى دائمًا الوجه نفسه من القمر؟",
+   "c": [
+    "يستغرق دورانه حول نفسه مثل دورانه حول الأرض",
+    "الشمس تبقيه ثابتًا",
+    "لا يدور حول نفسه إطلاقًا",
+    "هو مسطح كالقرص"
+   ]
+  },
+  "es": {
+   "q": "¿Por qué vemos siempre la misma cara de la Luna?",
+   "c": [
+    "Tarda lo mismo en girar sobre sí misma que alrededor de la Tierra",
+    "El Sol la mantiene quieta",
+    "No gira sobre sí misma",
+    "Es plana como un disco"
+   ]
+  },
+  "pt": {
+   "q": "Por que vemos sempre o mesmo lado da Lua?",
+   "c": [
+    "Ela leva o mesmo tempo para girar sobre si e em torno da Terra",
+    "O Sol a mantém parada",
+    "Ela não gira sobre si mesma",
+    "Ela é plana como um disco"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
    "q": "Combien de temps met la planète Neptune pour faire une révolution complète autour du Soleil ?",
    "c": [
     "Environ 165 ans",
@@ -3253,49 +5803,49 @@
   "fr": {
    "q": "Quel est le nom de la plus grande lune de Neptune, connue pour son activité cryovolcanique et son orbite rétrograde ?",
    "c": [
-    "Triton",
-    "Protée",
     "Larissa",
+    "Protée",
+    "Triton",
     "Néréide"
    ]
   },
   "en": {
    "q": "What is the name of Neptune's largest moon, known for its cryovolcanic activity and retrograde orbit?",
    "c": [
-    "Triton",
-    "Proteus",
     "Larissa",
+    "Proteus",
+    "Triton",
     "Nereid"
    ]
   },
   "ar": {
    "q": "ما هو اسم أكبر أقمار نبتون، المعروف بنشاطه البريخي الجليدي ومداره التراجعي؟",
    "c": [
-    "تريتون",
-    "بروتيوس",
     "لاريسا",
+    "بروتيوس",
+    "تريتون",
     "نيريد"
    ]
   },
   "es": {
    "q": "¿Cómo se llama la luna más grande de Neptuno, conocida por su actividad criovolcánica y su órbita retrógrada?",
    "c": [
-    "Tritón",
-    "Proteo",
     "Larissa",
+    "Proteo",
+    "Tritón",
     "Nereida"
    ]
   },
   "pt": {
    "q": "Qual é o nome da maior lua de Netuno, conhecida por sua atividade criovulcânica e órbita retrógrada?",
    "c": [
-    "Tritão",
-    "Proteu",
     "Larissa",
+    "Proteu",
+    "Tritão",
     "Nereida"
    ]
   },
-  "a": 0,
+  "a": 2,
   "image": null,
   "level": 6
  },
@@ -3453,49 +6003,49 @@
   "fr": {
    "q": "Quel est le nom de la plus grande lune de Jupiter et de tout le système solaire ?",
    "c": [
-    "Ganymède",
+    "Titan",
     "Io",
-    "Callisto",
-    "Titan"
+    "Ganymède",
+    "Callisto"
    ]
   },
   "en": {
    "q": "What is the name of the largest moon of Jupiter and the entire solar system?",
    "c": [
-    "Ganymede",
+    "Titan",
     "Io",
-    "Callisto",
-    "Titan"
+    "Ganymede",
+    "Callisto"
    ]
   },
   "ar": {
    "q": "ما هو اسم أكبر أقمار المشتري والمجموعة الشمسية بأكملها؟",
    "c": [
-    "جانيميد (Ganymede)",
+    "تيتان",
     "آيو",
-    "كالستو",
-    "تيتان"
+    "جانيميد (Ganymede)",
+    "كالستو"
    ]
   },
   "es": {
    "q": "¿Cómo se llama la luna más grande de Júpiter y de todo el sistema solar?",
    "c": [
-    "Ganímedes",
+    "Titán",
     "Ío",
-    "Calisto",
-    "Titán"
+    "Ganímedes",
+    "Calisto"
    ]
   },
   "pt": {
    "q": "Qual é o nome da maior lua de Júpiter e de todo o sistema solar?",
    "c": [
-    "Ganimedes",
+    "Titã",
     "Io",
-    "Calisto",
-    "Titã"
+    "Ganimedes",
+    "Calisto"
    ]
   },
-  "a": 0,
+  "a": 2,
   "image": null,
   "level": 6
  },
@@ -3553,49 +6103,49 @@
   "fr": {
    "q": "Quel est le nom de la limite de masse qui détermine si une protoétoile devient une étoile classique ou une naine brune ?",
    "c": [
+    "La limite de Jeans",
     "La limite de masse de substellaires (environ 0,08 masse solaire)",
     "La limite de Chandrasekhar",
-    "La limite d'Oppenheimer-Volkoff",
-    "La limite de Jeans"
+    "La limite d'Oppenheimer-Volkoff"
    ]
   },
   "en": {
    "q": "What is the mass limit that determines whether a protostar becomes a regular star or a brown dwarf called?",
    "c": [
+    "The Jeans limit",
     "The sub-stellar mass limit (about 0.08 solar masses)",
     "The Chandrasekhar limit",
-    "The Oppenheimer-Volkoff limit",
-    "The Jeans limit"
+    "The Oppenheimer-Volkoff limit"
    ]
   },
   "ar": {
    "q": "ما اسم حد الكتلة الذي يحدد ما إذا كان النجم الأولي سيصبح نجماً حقيقياً أم قزماً بني اللون؟",
    "c": [
+    "حد جينز",
     "حد كتلة ما دون النجوم (حوالي 0.08 من كتلة الشمس)",
     "حد شاندراسيخار",
-    "حد أوبنهايمر-ولكوف",
-    "حد جينز"
+    "حد أوبنهايمر-ولكوف"
    ]
   },
   "es": {
    "q": "¿Cómo se llama el límite de masa que determina si una protoestrella se convierte en una estrella convencional o en una enana marrón?",
    "c": [
+    "El límite de Jeans",
     "El límite de masa subestelar (aprox. 0,08 masas solares)",
     "El límite de Chandrasekhar",
-    "El límite de Oppenheimer-Volkoff",
-    "El límite de Jeans"
+    "El límite de Oppenheimer-Volkoff"
    ]
   },
   "pt": {
    "q": "Qual é o limite de massa que determina se uma protoestrela se torna uma estrela convencional ou uma anã marrom?",
    "c": [
+    "O limite de Jeans",
     "O limite de massa subestelar (cerca de 0,08 massas solares)",
     "O limite de Chandrasekhar",
-    "O limite de Oppenheimer-Volkoff",
-    "O limite de Jeans"
+    "O limite de Oppenheimer-Volkoff"
    ]
   },
-  "a": 0,
+  "a": 1,
   "image": null,
   "level": 6
  },
@@ -3903,49 +6453,49 @@
   "fr": {
    "q": "Quel nom donne-t-on au rayon limite d'une masse sphérique non-rotative sous lequel elle devient un trou noir ?",
    "c": [
-    "Le rayon de Schwarzschild",
-    "Le rayon de Larmor",
+    "Le rayon de Hubble",
     "Le rayon de Bohr",
-    "Le rayon de Hubble"
+    "Le rayon de Larmor",
+    "Le rayon de Schwarzschild"
    ]
   },
   "en": {
    "q": "What is the name of the limiting radius for a non-rotating spherical mass below which it becomes a black hole?",
    "c": [
-    "Schwarzschild radius",
-    "Larmor radius",
+    "Hubble radius",
     "Bohr radius",
-    "Hubble radius"
+    "Larmor radius",
+    "Schwarzschild radius"
    ]
   },
   "ar": {
    "q": "ما اسم نصف القطر الحدي لكتلة كروية غير دوارة يصبح تحتها ثقباً أسود؟",
    "c": [
-    "نصف قطر شوارزشيلد",
-    "نصف قطر لارمور",
+    "نصف قطر هابل",
     "نصف قطر بور",
-    "نصف قطر هابل"
+    "نصف قطر لارمور",
+    "نصف قطر شوارزشيلد"
    ]
   },
   "es": {
    "q": "¿Cómo se llama el radio límite de una masa esférica no rotativa por debajo del cual se convierte en un agujero negro?",
    "c": [
-    "Radio de Schwarzschild",
-    "Radio de Larmor",
+    "Radio de Hubble",
     "Radio de Bohr",
-    "Radio de Hubble"
+    "Radio de Larmor",
+    "Radio de Schwarzschild"
    ]
   },
   "pt": {
    "q": "Qual é o nome do raio limite de uma massa esférica não rotativa abaixo do qual ela se torna um buraco negro?",
    "c": [
-    "Raio de Schwarzschild",
-    "Raio de Larmor",
+    "Raio de Hubble",
     "Raio de Bohr",
-    "Raio de Hubble"
+    "Raio de Larmor",
+    "Raio de Schwarzschild"
    ]
   },
-  "a": 0,
+  "a": 3,
   "image": null,
   "level": 6
  },
@@ -3953,49 +6503,49 @@
   "fr": {
    "q": "Quelle est l'origine du nom 'matière noire' dans l'astrophysique moderne ?",
    "c": [
-    "Une forme de matière invisible qui n'émet ni n'absorbe la lumière mais exerce une attraction gravitationnelle",
     "Des trous noirs primordiaux cachés",
+    "De la poussière cosmique opaque et sombre",
     "Des planètes errantes sans étoiles",
-    "De la poussière cosmique opaque et sombre"
+    "Une forme de matière invisible qui n'émet ni n'absorbe la lumière mais exerce une attraction gravitationnelle"
    ]
   },
   "en": {
    "q": "What is the origin of the term 'dark matter' in modern astrophysics?",
    "c": [
-    "An invisible form of matter that neither emits nor absorbs light but exerts gravitational pull",
     "Hidden primordial black holes",
+    "Opaque and dark cosmic dust",
     "Rogue planets without stars",
-    "Opaque and dark cosmic dust"
+    "An invisible form of matter that neither emits nor absorbs light but exerts gravitational pull"
    ]
   },
   "ar": {
    "q": "ما هو أصل مصطلح 'المادة المظلمة' في الفيزياء الفلكية الحديثة؟",
    "c": [
-    "شكل من أطياف المادة غير المرئية التي لا تبث ولا تمتص الضوء لكنها تمارس جاذبية",
     "ثقوب سوداء بدائية مخفية",
+    "غبار كوني معتم ومظلم",
     "كواكب سائبة بدون نجوم",
-    "غبار كوني معتم ومظلم"
+    "شكل من أطياف المادة غير المرئية التي لا تبث ولا تمتص الضوء لكنها تمارس جاذبية"
    ]
   },
   "es": {
    "q": "¿Cuál es el origen del término 'materia oscura' en la astrofísica moderna?",
    "c": [
-    "Una forma de materia invisible que no emite ni absorbe luz pero ejerce atracción gravitacional",
     "Agujeros negros primordiales ocultos",
+    "Polvo cósmico opaco y oscuro",
     "Planetas errantes sin estrellas",
-    "Polvo cósmico opaco y oscuro"
+    "Una forma de materia invisible que no emite ni absorbe luz pero ejerce atracción gravitacional"
    ]
   },
   "pt": {
    "q": "Qual é a origem do termo 'matéria escura' na astrofísica moderna?",
    "c": [
-    "Uma forma invisível de matéria que não emite nem absorve luz, mas exerce atração gravitacional",
     "Buracos negros primordiais ocultos",
+    "Poeira cósmica opaca e escura",
     "Planetas órfãos sem estrelas",
-    "Poeira cósmica opaca e escura"
+    "Uma forma invisível de matéria que não emite nem absorve luz, mas exerce atração gravitacional"
    ]
   },
-  "a": 0,
+  "a": 3,
   "image": null,
   "level": 6
  },
@@ -4453,49 +7003,49 @@
   "fr": {
    "q": "Quel astronome a proposé la classification morphologique des galaxies dite 'séquence en diapason' (tuning fork diagram) ?",
    "c": [
-    "Edwin Hubble",
-    "Harlow Shapley",
     "Allan Sandage",
+    "Harlow Shapley",
+    "Edwin Hubble",
     "Gerard Kuiper"
    ]
   },
   "en": {
    "q": "Which astronomer proposed the morphological classification of galaxies known as the 'tuning fork diagram'?",
    "c": [
-    "Edwin Hubble",
-    "Harlow Shapley",
     "Allan Sandage",
+    "Harlow Shapley",
+    "Edwin Hubble",
     "Gerard Kuiper"
    ]
   },
   "ar": {
    "q": "أي فلكي اقترح التصنيف المورفولوجي للمجرات المعروف باسم 'مخطط الشوكة الرنانة'؟",
    "c": [
-    "إدوين هابل",
-    "هارلو شابلي",
     "ألان سانديج",
+    "هارلو شابلي",
+    "إدوين هابل",
     "جيرارد كويبر"
    ]
   },
   "es": {
    "q": "¿Qué astrónomo propuso la clasificación morfológica de las galaxias conocida como el 'diagrama de horquilla' (tuning fork)?",
    "c": [
-    "Edwin Hubble",
-    "Harlow Shapley",
     "Allan Sandage",
+    "Harlow Shapley",
+    "Edwin Hubble",
     "Gerard Kuiper"
    ]
   },
   "pt": {
    "q": "Qual astrônomo propôs a classificação morfológica de galáxias conhecida como 'diagrama de diapasão'?",
    "c": [
-    "Edwin Hubble",
-    "Harlow Shapley",
     "Allan Sandage",
+    "Harlow Shapley",
+    "Edwin Hubble",
     "Gerard Kuiper"
    ]
   },
-  "a": 0,
+  "a": 2,
   "image": null,
   "level": 7
  },
@@ -4753,49 +7303,49 @@
   "fr": {
    "q": "Quel astrophysicien indien a calculé la limite de masse au-delà de laquelle une naine blanche ne peut supporter sa propre pression et s'effondre ?",
    "c": [
-    "Subrahmanyan Chandrasekhar",
-    "Satyendra Nath Bose",
     "Meghnad Saha",
+    "Satyendra Nath Bose",
+    "Subrahmanyan Chandrasekhar",
     "C.V. Raman"
    ]
   },
   "en": {
    "q": "Which Indian astrophysicist calculated the mass limit beyond which a white dwarf cannot support its own pressure and collapses?",
    "c": [
-    "Subrahmanyan Chandrasekhar",
-    "Satyendra Nath Bose",
     "Meghnad Saha",
+    "Satyendra Nath Bose",
+    "Subrahmanyan Chandrasekhar",
     "C.V. Raman"
    ]
   },
   "ar": {
    "q": "أي عالم فلك هندي حسب حد الكتلة الذي لا يستطيع القزم الأبيض تحمله فوقه فينهار تحت ضغطه الذاتي؟",
    "c": [
-    "سوبراهمانيان تشاندراسيخار",
-    "ساتيندرا ناث بوس",
     "ميغناد ساها",
+    "ساتيندرا ناث بوس",
+    "سوبراهمانيان تشاندراسيخار",
     "سي. في. رامان"
    ]
   },
   "es": {
    "q": "¿Qué astrofísico indio calculó el límite de masa más allá del cual una enana blanca no puede soportar su propia presión y colapsa?",
    "c": [
-    "Subrahmanyan Chandrasekhar",
-    "Satyendra Nath Bose",
     "Meghnad Saha",
+    "Satyendra Nath Bose",
+    "Subrahmanyan Chandrasekhar",
     "C.V. Raman"
    ]
   },
   "pt": {
    "q": "Qual astrofísico indiano calculou o limite de massa além do qual uma anã branca não pode suportar sua própria pressão e colapsa?",
    "c": [
-    "Subrahmanyan Chandrasekhar",
-    "Satyendra Nath Bose",
     "Meghnad Saha",
+    "Satyendra Nath Bose",
+    "Subrahmanyan Chandrasekhar",
     "C.V. Raman"
    ]
   },
-  "a": 0,
+  "a": 2,
   "image": null,
   "level": 7
  },
@@ -4803,49 +7353,49 @@
   "fr": {
    "q": "Quel type de résonance orbitale est particulièrement visible dans les anneaux de Saturne ou les orbites des lunes galiléennes ?",
    "c": [
-    "La résonance de mean-motion (moyen mouvement)",
-    "La résonance de spin-orbite simple",
     "La résonance magnétique",
-    "La résonance thermique"
+    "La résonance thermique",
+    "La résonance de spin-orbite simple",
+    "La résonance de mean-motion (moyen mouvement)"
    ]
   },
   "en": {
    "q": "What type of orbital resonance is particularly visible in Saturn's rings or the orbits of Galilean moons?",
    "c": [
-    "Mean-motion resonance",
-    "Simple spin-orbit resonance",
     "Magnetic resonance",
-    "Thermal resonance"
+    "Thermal resonance",
+    "Simple spin-orbit resonance",
+    "Mean-motion resonance"
    ]
   },
   "ar": {
    "q": "ما هو نوع الرنين المداري الواضح بشكل خاص في حلقات زحل أو مدارات أقمار غاليليو؟",
    "c": [
-    "رنين متوسط الحركة (Mean-motion resonance)",
-    "رنين الدوران البسيط",
     "رنين مغناطيسي",
-    "رنين حراري"
+    "رنين حراري",
+    "رنين الدوران البسيط",
+    "رنين متوسط الحركة (Mean-motion resonance)"
    ]
   },
   "es": {
    "q": "¿Qué tipo de resonancia orbital es particularmente visible en los anillos de Saturno o las órbitas de las lunas galileanas?",
    "c": [
-    "Resonancia de movimiento medio",
-    "Resonancia de espín-órbita simple",
     "Resonancia magnética",
-    "Resonancia térmica"
+    "Resonancia térmica",
+    "Resonancia de espín-órbita simple",
+    "Resonancia de movimiento medio"
    ]
   },
   "pt": {
    "q": "Que tipo de ressonância orbital é particularmente visível nos anéis de Saturno ou nas órbitas das luas galileanas?",
    "c": [
-    "Ressonância de movimento médio",
-    "Ressonância simples de rotação-órbita",
     "Ressonância magnética",
-    "Ressonância térmica"
+    "Ressonância térmica",
+    "Ressonância simples de rotação-órbita",
+    "Ressonância de movimento médio"
    ]
   },
-  "a": 0,
+  "a": 3,
   "image": null,
   "level": 7
  },
@@ -4853,49 +7403,49 @@
   "fr": {
    "q": "Quel est le nom de la première exoplanète confirmée orbitant autour d'une étoile semblable au Soleil (découverte en 1995 par Mayor et Queloz) ?",
    "c": [
-    "51 Pegasi b",
-    "Kepler-22b",
     "Proxima Centauri b",
-    "TRAPPIST-1e"
+    "51 Pegasi b",
+    "TRAPPIST-1e",
+    "Kepler-22b"
    ]
   },
   "en": {
    "q": "What is the name of the first confirmed exoplanet orbiting a Sun-like star, discovered in 1995 by Mayor and Queloz?",
    "c": [
-    "51 Pegasi b",
-    "Kepler-22b",
     "Proxima Centauri b",
-    "TRAPPIST-1e"
+    "51 Pegasi b",
+    "TRAPPIST-1e",
+    "Kepler-22b"
    ]
   },
   "ar": {
    "q": "ما اسم أول كوكب خارجي مؤكد يدور حول نجم شبيه بالشمس (اكتشفه مايور وكيلوز عام 1995)؟",
    "c": [
-    "51 بيغاسي بي (51 Pegasi b)",
-    "كيبلر-22بي",
     "بروكسيما سنتاوري بي",
-    "ترابيست-1إي"
+    "51 بيغاسي بي (51 Pegasi b)",
+    "ترابيست-1إي",
+    "كيبلر-22بي"
    ]
   },
   "es": {
    "q": "¿Cómo se llama el primer exoplaneta confirmado que orbita alrededor de una estrella similar al Sol (descubierto en 1995 por Mayor y Queloz)?",
    "c": [
-    "51 Pegasi b",
-    "Kepler-22b",
     "Proxima Centauri b",
-    "TRAPPIST-1e"
+    "51 Pegasi b",
+    "TRAPPIST-1e",
+    "Kepler-22b"
    ]
   },
   "pt": {
    "q": "Qual é o nome do primeiro exoplaneta confirmado orbitando uma estrela semelhante ao Sol (descoberto em 1995 por Mayor e Queloz)?",
    "c": [
-    "51 Pegasi b",
-    "Kepler-22b",
     "Proxima Centauri b",
-    "TRAPPIST-1e"
+    "51 Pegasi b",
+    "TRAPPIST-1e",
+    "Kepler-22b"
    ]
   },
-  "a": 0,
+  "a": 1,
   "image": null,
   "level": 7
  },
@@ -5353,49 +7903,49 @@
   "fr": {
    "q": "Quel est le nom de la collaboration internationale ayant permis la toute première image d'un trou noir (M87*) en 2019 ?",
    "c": [
-    "Event Horizon Telescope (EHT)",
-    "LIGO-Virgo",
     "SKA Organization",
-    "CERN"
+    "Event Horizon Telescope (EHT)",
+    "CERN",
+    "LIGO-Virgo"
    ]
   },
   "en": {
    "q": "What is the name of the international collaboration that captured the very first image of a black hole (M87*) in 2019?",
    "c": [
-    "Event Horizon Telescope (EHT)",
-    "LIGO-Virgo",
     "SKA Organization",
-    "CERN"
+    "Event Horizon Telescope (EHT)",
+    "CERN",
+    "LIGO-Virgo"
    ]
   },
   "ar": {
    "q": "ما اسم التعاون الدولي الذي حقق أول صورة على الإطلاق لثقب أسود (M87*) عام 2019؟",
    "c": [
-    "تلسكوب أفق الحدث (Event Horizon Telescope)",
-    "لايجو-فيرجو",
     "منظمة SKA",
-    "سيرن"
+    "تلسكوب أفق الحدث (Event Horizon Telescope)",
+    "سيرن",
+    "لايجو-فيرجو"
    ]
   },
   "es": {
    "q": "¿Cómo se llama la colaboración internacional que logró la primera imagen de un agujero negro (M87*) en 2019?",
    "c": [
-    "Event Horizon Telescope (EHT)",
-    "LIGO-Virgo",
     "SKA Organization",
-    "CERN"
+    "Event Horizon Telescope (EHT)",
+    "CERN",
+    "LIGO-Virgo"
    ]
   },
   "pt": {
    "q": "Qual é o nome da colaboração internacional que capturou a primeira imagem de um buraco negro (M87*) em 2019?",
    "c": [
-    "Event Horizon Telescope (EHT)",
-    "LIGO-Virgo",
     "SKA Organization",
-    "CERN"
+    "Event Horizon Telescope (EHT)",
+    "CERN",
+    "LIGO-Virgo"
    ]
   },
-  "a": 0,
+  "a": 1,
   "image": null,
   "level": 8
  },
@@ -5404,8 +7954,8 @@
    "q": "Quel type de lentille gravitationnelle se produit lorsque l'alignement est si parfait qu'il forme un cercle lumineux parfait autour de l'objet d'arrière-plan ?",
    "q-en": "What type of gravitational lensing occurs when the alignment is so perfect it forms a complete bright ring around the background object?",
    "c": [
-    "Un anneau d'Einstein",
     "Un mirage de double image",
+    "Un anneau d'Einstein",
     "Une distorsion de cusp",
     "Une lentille microgravitationnelle"
    ]
@@ -5413,8 +7963,8 @@
   "en": {
    "q": "What type of gravitational lensing occurs when the alignment is so perfect it forms a complete bright ring around the background object?",
    "c": [
-    "An Einstein ring",
     "Double-image mirage",
+    "An Einstein ring",
     "Cusp distortion",
     "Microlensing"
    ]
@@ -5422,8 +7972,8 @@
   "ar": {
    "q": "ما نوع عدسة الجاذبية التي تحدث عندما يكون المحاذاة مثالية لدرجة تكوين حلقة مضيئة كاملة حول الجسم الخلفي؟",
    "c": [
-    "حلقة أينشتاين",
     "سراب الصورة المزدوجة",
+    "حلقة أينشتاين",
     "تشوه حاد",
     "عدسة صغرى تثاقلية"
    ]
@@ -5431,8 +7981,8 @@
   "es": {
    "q": "¿Qué tipo de lente gravitacional ocurre cuando la alineación es tan perfecta que forma un anillo brillante completo alrededor del objeto de fondo?",
    "c": [
-    "Un anillo de Einstein",
     "Espejismo de doble imagen",
+    "Un anillo de Einstein",
     "Distorsión en cúspide",
     "Lente gravitacional débil"
    ]
@@ -5440,13 +7990,13 @@
   "pt": {
    "q": "Que tipo de lente gravitacional ocorre quando o alinhamento é tão perfeito que forma um anel brilhante completo ao redor do objeto de fundo?",
    "c": [
-    "Um anel de Einstein",
     "Miragem de imagem dupla",
+    "Um anel de Einstein",
     "Distorção em cúspide",
     "Microlente gravitacional"
    ]
   },
-  "a": 0,
+  "a": 1,
   "image": null,
   "level": 8
  },
@@ -5604,49 +8154,49 @@
   "fr": {
    "q": "Quel astronome a démontré pour la première fois l'existence des galaxies en dehors de la Voie lactée (comme Andromède) dans les années 1920 ?",
    "c": [
-    "Edwin Hubble",
-    "Harlow Shapley",
     "Heber Curtis",
-    "Vesto Slipher"
+    "Harlow Shapley",
+    "Vesto Slipher",
+    "Edwin Hubble"
    ]
   },
   "en": {
    "q": "Which astronomer first demonstrated the existence of galaxies outside the Milky Way (like Andromeda) in the 1920s?",
    "c": [
-    "Edwin Hubble",
-    "Harlow Shapley",
     "Heber Curtis",
-    "Vesto Slipher"
+    "Harlow Shapley",
+    "Vesto Slipher",
+    "Edwin Hubble"
    ]
   },
   "ar": {
    "q": "أي فلكي أثبت لأول مرة وجود مجرات خارج درب التبانة (مثل أندروميدا) في عشرينيات القرن الماضي؟",
    "c": [
-    "إدوين هابل",
-    "هارلو شابلي",
     "هيبر كيرتس",
-    "فستو سليفر"
+    "هارلو شابلي",
+    "فستو سليفر",
+    "إدوين هابل"
    ]
   },
   "es": {
    "q": "¿Qué astrónomo demostró por primera vez la existencia de galaxias fuera de la Vía Láctea (como Andrómeda) en la década de 1920?",
    "c": [
-    "Edwin Hubble",
-    "Harlow Shapley",
     "Heber Curtis",
-    "Vesto Slipher"
+    "Harlow Shapley",
+    "Vesto Slipher",
+    "Edwin Hubble"
    ]
   },
   "pt": {
    "q": "Qual astrônomo demonstrou pela primeira vez a existência de galáxias fora da Via Láctea (como Andrômeda) na década de 1920?",
    "c": [
-    "Edwin Hubble",
-    "Harlow Shapley",
     "Heber Curtis",
-    "Vesto Slipher"
+    "Harlow Shapley",
+    "Vesto Slipher",
+    "Edwin Hubble"
    ]
   },
-  "a": 0,
+  "a": 3,
   "image": null,
   "level": 8
  },
@@ -5704,49 +8254,49 @@
   "fr": {
    "q": "Quel type d'onde gravitationnelle a été détecté pour la première fois en 2015 par l'expérience LIGO, confirmant la prédiction d'Einstein ?",
    "c": [
-    "La fusion de deux trous noirs stellaires",
+    "L'explosion d'une supernova asymétrique",
     "Des fluctuations quantiques du fond primordial",
-    "La collision de deux pulsars",
-    "L'explosion d'une supernova asymétrique"
+    "La fusion de deux trous noirs stellaires",
+    "La collision de deux pulsars"
    ]
   },
   "en": {
    "q": "What type of gravitational wave event was first detected in 2015 by LIGO, confirming Einstein's prediction?",
    "c": [
-    "The merger of two stellar-mass black holes",
+    "An asymmetric supernova explosion",
     "Quantum fluctuations of the primordial background",
-    "The collision of two pulsars",
-    "An asymmetric supernova explosion"
+    "The merger of two stellar-mass black holes",
+    "The collision of two pulsars"
    ]
   },
   "ar": {
    "q": "ما هو نوع حدث الموجات الثقالية الذي تم رصده لأول مرة عام 2015 بواسطة لايجو (LIGO)، مؤكداً تنبؤ أينشتاين؟",
    "c": [
-    "اندماج ثقبين أسودين بكتلة نجمية",
+    "انفجار مستعر أعظم غير متماثل",
     "تقلبات كمومية للخلفية البدائية",
-    "اصطدام نجمين نابضين",
-    "انفجار مستعر أعظم غير متماثل"
+    "اندماج ثقبين أسودين بكتلة نجمية",
+    "اصطدام نجمين نابضين"
    ]
   },
   "es": {
    "q": "¿Qué tipo de evento de ondas gravitacionales fue detectado por primera vez en 2015 por LIGO, confirmando la predicción de Einstein?",
    "c": [
-    "La fusión de dos agujeros negros de masa estelar",
+    "La explosión de una supernova asimétrica",
     "Fluctuaciones cuánticas del fondo primordial",
-    "La colisión de dos púlsars",
-    "La explosión de una supernova asimétrica"
+    "La fusión de dos agujeros negros de masa estelar",
+    "La colisión de dos púlsars"
    ]
   },
   "pt": {
    "q": "Que tipo de evento de onda gravitacional foi detectado pela primeira vez em 2015 pelo LIGO, confirmando a previsão de Einstein?",
    "c": [
-    "A fusão de dois buracos negros de massa estelar",
+    "A explosão de uma supernova assimétrica",
     "Flutuações quânticas do fundo primordial",
-    "A colisão de dois pulsares",
-    "A explosão de uma supernova assimétrica"
+    "A fusão de dois buracos negros de massa estelar",
+    "A colisão de dois pulsares"
    ]
   },
-  "a": 0,
+  "a": 2,
   "image": null,
   "level": 8
  },
@@ -5854,49 +8404,49 @@
   "fr": {
    "q": "Quel est le nom de l'hypothèse selon laquelle notre univers ne serait qu'une simulation informatique générée par une civilisation supérieure ?",
    "c": [
-    "L'hypothèse de la simulation",
-    "Le principe anthropique fort",
     "L'hypothèse du monde holographique",
-    "L'hypothèse du multivers infini"
+    "L'hypothèse du multivers infini",
+    "L'hypothèse de la simulation",
+    "Le principe anthropique fort"
    ]
   },
   "en": {
    "q": "What is the name of the hypothesis proposing that our universe is a computer simulation run by an advanced civilization?",
    "c": [
-    "The simulation hypothesis",
-    "The strong anthropic principle",
     "The holographic universe hypothesis",
-    "The infinite multiverse hypothesis"
+    "The infinite multiverse hypothesis",
+    "The simulation hypothesis",
+    "The strong anthropic principle"
    ]
   },
   "ar": {
    "q": "ما اسم الفرضية القائلة بأن كوننا ليس سوى محاكاة حاسوبية تولدها حضارة متقدمة؟",
    "c": [
-    "فرضية المحاكاة",
-    "المبدأ الأنثروبي القوي",
     "فرضية الكون الهولوغرافي",
-    "فرضية الكون المتعدد اللانهائي"
+    "فرضية الكون المتعدد اللانهائي",
+    "فرضية المحاكاة",
+    "المبدأ الأنثروبي القوي"
    ]
   },
   "es": {
    "q": "¿Cómo se llama la hipótesis que propone que nuestro universo es una simulación por ordenador ejecutada por una civilización avanzada?",
    "c": [
-    "La hipótesis de la simulación",
-    "El principio antrópico fuerte",
     "La hipótesis del universo holográfico",
-    "La hipótesis del multiverso infinito"
+    "La hipótesis del multiverso infinito",
+    "La hipótesis de la simulación",
+    "El principio antrópico fuerte"
    ]
   },
   "pt": {
    "q": "Qual é o nome da hipótese que propõe que nosso universo é uma simulação de computador executada por uma civilização avançada?",
    "c": [
-    "A hipótese da simulação",
-    "O princípio antrópico forte",
     "A hipótese do universo holográfico",
-    "A hipótese do multiverso infinito"
+    "A hipótese do multiverso infinito",
+    "A hipótese da simulação",
+    "O princípio antrópico forte"
    ]
   },
-  "a": 0,
+  "a": 2,
   "image": null,
   "level": 9
  },
@@ -6005,45 +8555,45 @@
    "q": "Quel physicien a introduit le concept de 'gravité quantique à boucles' (Loop Quantum Gravity) aux côtés de Lee Smolin et Carlo Rovelli ?",
    "c": [
     "Abhay Ashtekar",
-    "Stephen Hawking",
     "Leonard Susskind",
-    "Kip Thorne"
+    "Kip Thorne",
+    "Stephen Hawking"
    ]
   },
   "en": {
    "q": "Which physicist introduced the concept of Loop Quantum Gravity alongside Lee Smolin and Carlo Rovelli?",
    "c": [
     "Abhay Ashtekar",
-    "Stephen Hawking",
     "Leonard Susskind",
-    "Kip Thorne"
+    "Kip Thorne",
+    "Stephen Hawking"
    ]
   },
   "ar": {
    "q": "أي فيزيائي أدخل مفهوم 'الجاذبية الكمية للحلقات' (Loop Quantum Gravity) جنباً إلى جنب مع لي سمولين كارلو روشيلي؟",
    "c": [
     "أبهاي أشتيكار (Abhay Ashtekar)",
-    "ستيفن هوكينغ",
     "ليونارد ساسكيند",
-    "كيب ثورن"
+    "كيب ثورن",
+    "ستيفن هوكينغ"
    ]
   },
   "es": {
    "q": "¿Qué físico introdujo el concepto de 'gravedad cuántica de bucles' junto con Lee Smolin y Carlo Rovelli?",
    "c": [
     "Abhay Ashtekar",
-    "Stephen Hawking",
     "Leonard Susskind",
-    "Kip Thorne"
+    "Kip Thorne",
+    "Stephen Hawking"
    ]
   },
   "pt": {
    "q": "Qual físico introduziu o conceito de 'gravidade quântica em loop' junto com Lee Smolin e Carlo Rovelli?",
    "c": [
     "Abhay Ashtekar",
-    "Stephen Hawking",
     "Leonard Susskind",
-    "Kip Thorne"
+    "Kip Thorne",
+    "Stephen Hawking"
    ]
   },
   "a": 0,
@@ -6105,45 +8655,45 @@
    "q": "Quelle solution de trou noir en rotation électriquement chargée est décrite par la métrique générale la plus complète en astrophysique ?",
    "c": [
     "La métrique de Kerr-Newman",
+    "La métrique de Reissner-Nordström",
     "La métrique de Kerr",
-    "La métrique de Schwarzschild",
-    "La métrique de Reissner-Nordström"
+    "La métrique de Schwarzschild"
    ]
   },
   "en": {
    "q": "What is the most general exact black hole solution describing a rotating, electrically charged black hole called?",
    "c": [
     "Kerr-Newman metric",
+    "Reissner-Nordström metric",
     "Kerr metric",
-    "Schwarzschild metric",
-    "Reissner-Nordström metric"
+    "Schwarzschild metric"
    ]
   },
   "ar": {
    "q": "ما هو حل الثقب الأسود الدوار والمشحون كهربائياً والذي توصفه المترية الأكثر شمولاً في الفيزياء الفلكية؟",
    "c": [
     "مترية كير-نيومان (Kerr-Newman)",
+    "مترية ريسنر-نوردستروم",
     "مترية كير",
-    "مترية شوارزشيلد",
-    "مترية ريسنر-نوردستروم"
+    "مترية شوارزشيلد"
    ]
   },
   "es": {
    "q": "¿Cómo se llama la solución exacta más general de un agujero negro en rotación y cargado eléctricamente?",
    "c": [
     "La métrica de Kerr-Newman",
+    "La métrica de Reissner-Nordström",
     "La métrica de Kerr",
-    "La métrica de Schwarzschild",
-    "La métrica de Reissner-Nordström"
+    "La métrica de Schwarzschild"
    ]
   },
   "pt": {
    "q": "Qual é a solução exata mais geral de um buraco negro em rotação e eletricamente carregado chamada?",
    "c": [
     "A métrica de Kerr-Newman",
+    "A métrica de Reissner-Nordström",
     "A métrica de Kerr",
-    "A métrica de Schwarzschild",
-    "A métrica de Reissner-Nordström"
+    "A métrica de Schwarzschild"
    ]
   },
   "a": 0,
@@ -6204,49 +8754,49 @@
   "fr": {
    "q": "Quel nom porte la conjecture mathématique formulée par Roger Penrose selon laquelle toutes les singularités gravitationnelles nues sont cachées par un horizon d'événements ?",
    "c": [
-    "La conjecture de censure cosmique",
     "Le théorème de calvitie",
     "La conjecture de la cosmic string",
+    "La conjecture de censure cosmique",
     "Le théorème d'unicité"
    ]
   },
   "en": {
    "q": "What is the name of the mathematical conjecture formulated by Roger Penrose stating that all naked gravitational singularities are hidden behind an event horizon?",
    "c": [
-    "Cosmic censorship hypothesis",
     "No-hair theorem",
     "Cosmic string conjecture",
+    "Cosmic censorship hypothesis",
     "Uniqueness theorem"
    ]
   },
   "ar": {
    "q": "ما اسم الحدسية الرياضية التي صاغها روجر بنروز والتي تنص على أن كل التفردات التثاقلية العارية مخفية خلف أفق الحدث؟",
    "c": [
-    "فرضية الرقابة الكونية (Cosmic censorship hypothesis)",
     "مبرهنة الصلع (No-hair theorem)",
     "حدسية الأوتار الكونية",
+    "فرضية الرقابة الكونية (Cosmic censorship hypothesis)",
     "مبرهنة الوحدانية"
    ]
   },
   "es": {
    "q": "¿Cómo se llama la conjetura matemática formulada por Roger Penrose que establece que todas las singularidades gravitacionales desnudas están ocultas tras un horizonte de eventos?",
    "c": [
-    "La conjetura de censura cósmica",
     "Teorema de calvicie",
     "Conjetura de la cuerda cósmica",
+    "La conjetura de censura cósmica",
     "Teorema de unicidad"
    ]
   },
   "pt": {
    "q": "Qual é o nome da conjectura matemática formulada por Roger Penrose que afirma que todas as singularidades gravitacionais nuas estão ocultas por trás de um horizonte de eventos?",
    "c": [
-    "A conjectura da censura cósmica",
     "Teorema da calvície",
     "Conjectura da corda cósmica",
+    "A conjectura da censura cósmica",
     "Teorema da unicidade"
    ]
   },
-  "a": 0,
+  "a": 2,
   "image": null,
   "level": 9
  },
@@ -6255,8 +8805,8 @@
    "q": "Quel concept topologique et géométrique avancé suggère que deux points éloignés de l'espace-temps peuvent être reliés par un 'tunnel' court (Pont d'Einstein-Rosen) ?",
    "c": [
     "Un trou de ver (Wormhole)",
-    "Une brane extradimensionnelle",
     "Un univers de de Sitter",
+    "Une brane extradimensionnelle",
     "Une singularité nue"
    ]
   },
@@ -6264,8 +8814,8 @@
    "q": "What advanced topological and geometric concept suggests that two distant points in spacetime can be connected by a short 'tunnel' (Einstein-Rosen bridge)?",
    "c": [
     "A wormhole",
-    "An extra-dimensional brane",
     "A de Sitter universe",
+    "An extra-dimensional brane",
     "A naked singularity"
    ]
   },
@@ -6273,8 +8823,8 @@
    "q": "ما هو المفهوم الطوبولوجي والهندسي المتقدم الذي يقترح إمكانية ربط نقطتين بعيدتين في الزمكان عبر 'نفق' قصير (جسر أينشتاين-روزن)؟",
    "c": [
     "ثقب دودي (Wormhole)",
-    "غشاء أبعاد إضافية",
     "كون دي سيتر",
+    "غشاء أبعاد إضافية",
     "تفرد عار"
    ]
   },
@@ -6282,8 +8832,8 @@
    "q": "¿Qué concepto topológico y geométrico avanzado sugiere que dos puntos distantes en el espacio-tiempo pueden estar conectados por un 'túnel' corto (puente de Einstein-Rosen)?",
    "c": [
     "Un agujero de gusano (Wormhole)",
-    "Una brana extradimensional",
     "Un universo de de Sitter",
+    "Una brana extradimensional",
     "Una singularidad desnuda"
    ]
   },
@@ -6291,8 +8841,8 @@
    "q": "Qual conceito topológico e geométrico avançado sugere que dois pontos distantes no espaço-tempo podem ser conectados por um curto 'túnel' (ponte de Einstein-Rosen)?",
    "c": [
     "Um buraco de minhoca (Wormhole)",
-    "Uma brana extradimensional",
     "Um universo de de Sitter",
+    "Uma brana extradimensional",
     "Uma singularidade nua"
    ]
   },
@@ -6405,45 +8955,45 @@
    "q": "Quel est le nom du paradoxe de la physique quantique et de la gravitation qui stipule que l'information tombant dans un trou noir semble s'y perdre, violant l'unitarité quantique ?",
    "c": [
     "Le paradoxe de la perte d'information (Information paradox)",
-    "Le paradoxe de Klein",
+    "Le paradoxe EPR",
     "Le paradoxe d'Ehrenfest",
-    "Le paradoxe EPR"
+    "Le paradoxe de Klein"
    ]
   },
   "en": {
    "q": "What is the name of the paradox regarding the apparent loss of physical information falling into a black hole, violating quantum unitarity?",
    "c": [
     "The black hole information paradox",
-    "Klein paradox",
+    "The EPR paradox",
     "Ehrenfest paradox",
-    "The EPR paradox"
+    "Klein paradox"
    ]
   },
   "ar": {
    "q": "ما اسم المفارقة في الفيزياء الكمية والجاذبية التي تنص على أن المعلومات التي تسقط في الثقب الأسود يبدو أنها تضيع، مما ينتهك الوحدانية الكمية؟",
    "c": [
     "مفارقة فقدان المعلومات في الثقب الأسود (Information paradox)",
-    "مفارقة كلاين",
+    "مفارقة EPR",
     "مفارقة إريننفست",
-    "مفارقة EPR"
+    "مفارقة كلاين"
    ]
   },
   "es": {
    "q": "¿Cómo se llama la paradoja sobre la aparente pérdida de información que cae en un agujero negro, violando la unitariedad cuántica?",
    "c": [
     "La paradoja de la pérdida de información en agujeros negros",
-    "La paradoja de Klein",
+    "La paradoja EPR",
     "La paradoja de Ehrenfest",
-    "La paradoja EPR"
+    "La paradoja de Klein"
    ]
   },
   "pt": {
    "q": "Qual é o nome do paradoxo sobre a aparente perda de informação que cai em um buraco negro, violando a unitariedade quântica?",
    "c": [
     "O paradoxo da perda de informação do buraco negro",
-    "O paradoxo de Klein",
+    "O paradoxo EPR",
     "O paradoxo de Ehrenfest",
-    "O paradoxo EPR"
+    "O paradoxo de Klein"
    ]
   },
   "a": 0,
@@ -6654,49 +9204,49 @@
   "fr": {
    "q": "Quel modèle cosmologique cyclique propose que notre univers subit des collisions périodiques de 'branes' dans un espace à dimensions supplémentaires ?",
    "c": [
+    "La cosmologie quantique standard",
     "Le modèle ekpyrotique (cyclique de Steinhardt-Turok)",
     "Le modèle de l'univers chiffonné",
-    "Le modèle du plasma cosmique turbulent",
-    "La cosmologie quantique standard"
+    "Le modèle du plasma cosmique turbulent"
    ]
   },
   "en": {
    "q": "What cyclic cosmological model proposes that our universe undergoes periodic collisions of 'branes' in a higher-dimensional space?",
    "c": [
+    "Standard quantum cosmology",
     "The ekpyrotic model (Steinhardt-Turok cyclic model)",
     "The lumpy universe model",
-    "The turbulent cosmic plasma model",
-    "Standard quantum cosmology"
+    "The turbulent cosmic plasma model"
    ]
   },
   "ar": {
    "q": "ما هو النموذج الكوني الدوري الذي يقترح أن كوننا يخضع لاصطدامات دورية للـ 'برانات' (Brane) في فضاء ذي أبعاد أعلى؟",
    "c": [
+    "علم الكون الكمومي القياسي",
     "النموذج الإكبيري (نموذج ستاينهارت-توروك الدوري)",
     "نموذج الكون المجعد",
-    "نموذج البلازما الكونية المضطربة",
-    "علم الكون الكمومي القياسي"
+    "نموذج البلازما الكونية المضطربة"
    ]
   },
   "es": {
    "q": "¿Qué modelo cosmológico cíclico propone que nuestro universo experimenta colisiones periódicas de 'branas' en un espacio de dimensiones superiores?",
    "c": [
+    "Cosmología cuántica estándar",
     "El modelo ekpirótico (modelo cíclico de Steinhardt-Turok)",
     "El modelo del universo rugoso",
-    "El modelo de plasma cósmico turbulento",
-    "Cosmología cuántica estándar"
+    "El modelo de plasma cósmico turbulento"
    ]
   },
   "pt": {
    "q": "Qual modelo cosmológico cíclico propõe que nosso universo sofre colisões periódicas de 'branas' em um espaço de dimensões superiores?",
    "c": [
+    "Cosmologia quântica padrão",
     "O modelo ekpirótico (modelo cíclico de Steinhardt-Turok)",
     "O modelo do universo enrugado",
-    "O modelo de plasma cósmico turbulento",
-    "Cosmologia quântica padrão"
+    "O modelo de plasma cósmico turbulento"
    ]
   },
-  "a": 0,
+  "a": 1,
   "image": null,
   "level": 10
  },
