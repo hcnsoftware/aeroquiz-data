@@ -3398,5 +3398,1205 @@
   "a": 3,
   "image": null,
   "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel animal donne du lait que l'on boit ?",
+   "c": [
+    "La vache",
+    "Le lion",
+    "Le serpent",
+    "L'aigle"
+   ]
+  },
+  "en": {
+   "q": "Which animal gives milk that we drink?",
+   "c": [
+    "The cow",
+    "The lion",
+    "The snake",
+    "The eagle"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يعطينا الحليب الذي نشربه؟",
+   "c": [
+    "البقرة",
+    "الأسد",
+    "الثعبان",
+    "النسر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal nos da la leche que bebemos?",
+   "c": [
+    "La vaca",
+    "El león",
+    "La serpiente",
+    "El águila"
+   ]
+  },
+  "pt": {
+   "q": "Que animal nos dá o leite que bebemos?",
+   "c": [
+    "A vaca",
+    "O leão",
+    "A cobra",
+    "A águia"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Combien de pattes a une araignée ?",
+   "c": [
+    "6",
+    "8",
+    "10",
+    "4"
+   ]
+  },
+  "en": {
+   "q": "How many legs does a spider have?",
+   "c": [
+    "6",
+    "8",
+    "10",
+    "4"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد أرجل العنكبوت؟",
+   "c": [
+    "6",
+    "8",
+    "10",
+    "4"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántas patas tiene una araña?",
+   "c": [
+    "6",
+    "8",
+    "10",
+    "4"
+   ]
+  },
+  "pt": {
+   "q": "Quantas patas tem uma aranha?",
+   "c": [
+    "6",
+    "8",
+    "10",
+    "4"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Avec quoi voit-on ?",
+   "c": [
+    "Les oreilles",
+    "Le nez",
+    "Les yeux",
+    "Les mains"
+   ]
+  },
+  "en": {
+   "q": "What do we see with?",
+   "c": [
+    "The ears",
+    "The nose",
+    "The eyes",
+    "The hands"
+   ]
+  },
+  "ar": {
+   "q": "بماذا نرى؟",
+   "c": [
+    "الأذنان",
+    "الأنف",
+    "العينان",
+    "اليدان"
+   ]
+  },
+  "es": {
+   "q": "¿Con qué vemos?",
+   "c": [
+    "Las orejas",
+    "La nariz",
+    "Los ojos",
+    "Las manos"
+   ]
+  },
+  "pt": {
+   "q": "Com o que vemos?",
+   "c": [
+    "As orelhas",
+    "O nariz",
+    "Os olhos",
+    "As mãos"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "De quelle couleur est la neige ?",
+   "c": [
+    "Rouge",
+    "Verte",
+    "Bleue",
+    "Blanche"
+   ]
+  },
+  "en": {
+   "q": "What color is snow?",
+   "c": [
+    "Red",
+    "Green",
+    "Blue",
+    "White"
+   ]
+  },
+  "ar": {
+   "q": "ما لون الثلج؟",
+   "c": [
+    "أحمر",
+    "أخضر",
+    "أزرق",
+    "أبيض"
+   ]
+  },
+  "es": {
+   "q": "¿De qué color es la nieve?",
+   "c": [
+    "Roja",
+    "Verde",
+    "Azul",
+    "Blanca"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a cor da neve?",
+   "c": [
+    "Vermelha",
+    "Verde",
+    "Azul",
+    "Branca"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Que mange volontiers un lapin ?",
+   "c": [
+    "La carotte",
+    "La viande",
+    "Le poisson",
+    "Le fromage"
+   ]
+  },
+  "en": {
+   "q": "What does a rabbit like to eat?",
+   "c": [
+    "Carrots",
+    "Meat",
+    "Fish",
+    "Cheese"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يحب الأرنب أن يأكل؟",
+   "c": [
+    "الجزر",
+    "اللحم",
+    "السمك",
+    "الجبن"
+   ]
+  },
+  "es": {
+   "q": "¿Qué le gusta comer a un conejo?",
+   "c": [
+    "Zanahoria",
+    "Carne",
+    "Pescado",
+    "Queso"
+   ]
+  },
+  "pt": {
+   "q": "O que um coelho gosta de comer?",
+   "c": [
+    "Cenoura",
+    "Carne",
+    "Peixe",
+    "Queijo"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel animal pond des œufs ?",
+   "c": [
+    "La vache",
+    "Le chat",
+    "Le chien",
+    "La poule"
+   ]
+  },
+  "en": {
+   "q": "Which animal lays eggs?",
+   "c": [
+    "The cow",
+    "The cat",
+    "The dog",
+    "The hen"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يبيض؟",
+   "c": [
+    "البقرة",
+    "القطة",
+    "الكلب",
+    "الدجاجة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal pone huevos?",
+   "c": [
+    "La vaca",
+    "El gato",
+    "El perro",
+    "La gallina"
+   ]
+  },
+  "pt": {
+   "q": "Qual animal põe ovos?",
+   "c": [
+    "A vaca",
+    "O gato",
+    "O cachorro",
+    "A galinha"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel mammifère peut voler ?",
+   "c": [
+    "Le chien",
+    "La chauve-souris",
+    "Le cheval",
+    "L'ours"
+   ]
+  },
+  "en": {
+   "q": "Which mammal can fly?",
+   "c": [
+    "The dog",
+    "The bat",
+    "The horse",
+    "The bear"
+   ]
+  },
+  "ar": {
+   "q": "أي ثديي يستطيع الطيران؟",
+   "c": [
+    "الكلب",
+    "الخفاش",
+    "الحصان",
+    "الدب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué mamífero puede volar?",
+   "c": [
+    "El perro",
+    "El murciélago",
+    "El caballo",
+    "El oso"
+   ]
+  },
+  "pt": {
+   "q": "Qual mamífero consegue voar?",
+   "c": [
+    "O cachorro",
+    "O morcego",
+    "O cavalo",
+    "O urso"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Avec quoi fait-on principalement le pain ?",
+   "c": [
+    "Du sucre",
+    "Du riz",
+    "De la farine",
+    "Du lait"
+   ]
+  },
+  "en": {
+   "q": "What is bread mainly made from?",
+   "c": [
+    "Sugar",
+    "Rice",
+    "Flour",
+    "Milk"
+   ]
+  },
+  "ar": {
+   "q": "مما يُصنع الخبز أساساً؟",
+   "c": [
+    "السكر",
+    "الأرز",
+    "الدقيق",
+    "الحليب"
+   ]
+  },
+  "es": {
+   "q": "¿De qué se hace principalmente el pan?",
+   "c": [
+    "Azúcar",
+    "Arroz",
+    "Harina",
+    "Leche"
+   ]
+  },
+  "pt": {
+   "q": "Do que o pão é feito principalmente?",
+   "c": [
+    "Açúcar",
+    "Arroz",
+    "Farinha",
+    "Leite"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel organe utilise-t-on pour respirer ?",
+   "c": [
+    "Le foie",
+    "Les reins",
+    "L'estomac",
+    "Les poumons"
+   ]
+  },
+  "en": {
+   "q": "Which organs do we use to breathe?",
+   "c": [
+    "The liver",
+    "The kidneys",
+    "The stomach",
+    "The lungs"
+   ]
+  },
+  "ar": {
+   "q": "أي عضو نستخدمه للتنفس؟",
+   "c": [
+    "الكبد",
+    "الكليتان",
+    "المعدة",
+    "الرئتان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué órgano usamos para respirar?",
+   "c": [
+    "El hígado",
+    "Los riñones",
+    "El estómago",
+    "Los pulmones"
+   ]
+  },
+  "pt": {
+   "q": "Qual órgão usamos para respirar?",
+   "c": [
+    "O fígado",
+    "Os rins",
+    "O estômago",
+    "Os pulmões"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel animal possède une trompe ?",
+   "c": [
+    "Le rhinocéros",
+    "L'éléphant",
+    "L'hippopotame",
+    "La girafe"
+   ]
+  },
+  "en": {
+   "q": "Which animal has a trunk?",
+   "c": [
+    "The rhinoceros",
+    "The elephant",
+    "The hippopotamus",
+    "The giraffe"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان لديه خرطوم؟",
+   "c": [
+    "وحيد القرن",
+    "الفيل",
+    "فرس النهر",
+    "الزرافة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal tiene trompa?",
+   "c": [
+    "El rinoceronte",
+    "El elefante",
+    "El hipopótamo",
+    "La jirafa"
+   ]
+  },
+  "pt": {
+   "q": "Qual animal tem tromba?",
+   "c": [
+    "O rinoceronte",
+    "O elefante",
+    "O hipopótamo",
+    "A girafa"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle vitamine le soleil nous aide-t-il à fabriquer ?",
+   "c": [
+    "Vitamine A",
+    "Vitamine C",
+    "Vitamine D",
+    "Vitamine K"
+   ]
+  },
+  "en": {
+   "q": "Which vitamin does sunlight help our body make?",
+   "c": [
+    "Vitamin A",
+    "Vitamin C",
+    "Vitamin D",
+    "Vitamin K"
+   ]
+  },
+  "ar": {
+   "q": "أي فيتامين تساعد الشمس جسمنا على تكوينه؟",
+   "c": [
+    "فيتامين أ",
+    "فيتامين ج",
+    "فيتامين د",
+    "فيتامين ك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué vitamina nos ayuda a producir el sol?",
+   "c": [
+    "Vitamina A",
+    "Vitamina C",
+    "Vitamina D",
+    "Vitamina K"
+   ]
+  },
+  "pt": {
+   "q": "Qual vitamina o sol ajuda nosso corpo a produzir?",
+   "c": [
+    "Vitamina A",
+    "Vitamina C",
+    "Vitamina D",
+    "Vitamina K"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel pays est célèbre pour les pyramides de Gizeh ?",
+   "c": [
+    "Le Mexique",
+    "L'Irak",
+    "La Grèce",
+    "L'Égypte"
+   ]
+  },
+  "en": {
+   "q": "Which country is famous for the pyramids of Giza?",
+   "c": [
+    "Mexico",
+    "Iraq",
+    "Greece",
+    "Egypt"
+   ]
+  },
+  "ar": {
+   "q": "أي دولة تشتهر بأهرامات الجيزة؟",
+   "c": [
+    "المكسيك",
+    "العراق",
+    "اليونان",
+    "مصر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país es famoso por las pirámides de Guiza?",
+   "c": [
+    "México",
+    "Irak",
+    "Grecia",
+    "Egipto"
+   ]
+  },
+  "pt": {
+   "q": "Qual país é famoso pelas pirâmides de Gizé?",
+   "c": [
+    "México",
+    "Iraque",
+    "Grécia",
+    "Egito"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle langue parle-t-on principalement en Argentine ?",
+   "c": [
+    "L'espagnol",
+    "Le portugais",
+    "L'anglais",
+    "L'italien"
+   ]
+  },
+  "en": {
+   "q": "Which language is mainly spoken in Argentina?",
+   "c": [
+    "Spanish",
+    "Portuguese",
+    "English",
+    "Italian"
+   ]
+  },
+  "ar": {
+   "q": "ما اللغة الرئيسية المتحدث بها في الأرجنتين؟",
+   "c": [
+    "الإسبانية",
+    "البرتغالية",
+    "الإنجليزية",
+    "الإيطالية"
+   ]
+  },
+  "es": {
+   "q": "¿Qué idioma se habla principalmente en Argentina?",
+   "c": [
+    "Español",
+    "Portugués",
+    "Inglés",
+    "Italiano"
+   ]
+  },
+  "pt": {
+   "q": "Qual idioma é falado principalmente na Argentina?",
+   "c": [
+    "Espanhol",
+    "Português",
+    "Inglês",
+    "Italiano"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel animal peut changer de couleur pour se camoufler ?",
+   "c": [
+    "Le crocodile",
+    "Le caméléon",
+    "Le hérisson",
+    "La tortue"
+   ]
+  },
+  "en": {
+   "q": "Which animal can change color to camouflage itself?",
+   "c": [
+    "The crocodile",
+    "The chameleon",
+    "The hedgehog",
+    "The turtle"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يستطيع تغيير لونه للتمويه؟",
+   "c": [
+    "التمساح",
+    "الحرباء",
+    "القنفذ",
+    "السلحفاة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal puede cambiar de color para camuflarse?",
+   "c": [
+    "El cocodrilo",
+    "El camaleón",
+    "El erizo",
+    "La tortuga"
+   ]
+  },
+  "pt": {
+   "q": "Qual animal pode mudar de cor para se camuflar?",
+   "c": [
+    "O crocodilo",
+    "O camaleão",
+    "O ouriço",
+    "A tartaruga"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel organe filtre le sang pour produire l'urine ?",
+   "c": [
+    "Le foie",
+    "Les poumons",
+    "Le cœur",
+    "Les reins"
+   ]
+  },
+  "en": {
+   "q": "Which organs filter the blood to produce urine?",
+   "c": [
+    "The liver",
+    "The lungs",
+    "The heart",
+    "The kidneys"
+   ]
+  },
+  "ar": {
+   "q": "أي عضو يرشّح الدم لإنتاج البول؟",
+   "c": [
+    "الكبد",
+    "الرئتان",
+    "القلب",
+    "الكليتان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué órganos filtran la sangre para producir orina?",
+   "c": [
+    "El hígado",
+    "Los pulmones",
+    "El corazón",
+    "Los riñones"
+   ]
+  },
+  "pt": {
+   "q": "Quais órgãos filtram o sangue para produzir urina?",
+   "c": [
+    "O fígado",
+    "Os pulmões",
+    "O coração",
+    "Os rins"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve le Machu Picchu ?",
+   "c": [
+    "Le Pérou",
+    "Le Brésil",
+    "Le Chili",
+    "Le Mexique"
+   ]
+  },
+  "en": {
+   "q": "In which country is Machu Picchu located?",
+   "c": [
+    "Peru",
+    "Brazil",
+    "Chile",
+    "Mexico"
+   ]
+  },
+  "ar": {
+   "q": "في أي دولة يقع ماتشو بيتشو؟",
+   "c": [
+    "بيرو",
+    "البرازيل",
+    "تشيلي",
+    "المكسيك"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país se encuentra Machu Picchu?",
+   "c": [
+    "Perú",
+    "Brasil",
+    "Chile",
+    "México"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica Machu Picchu?",
+   "c": [
+    "Peru",
+    "Brasil",
+    "Chile",
+    "México"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand oiseau du monde ?",
+   "c": [
+    "L'aigle",
+    "Le pélican",
+    "Le cygne",
+    "L'autruche"
+   ]
+  },
+  "en": {
+   "q": "What is the largest bird in the world?",
+   "c": [
+    "The eagle",
+    "The pelican",
+    "The swan",
+    "The ostrich"
+   ]
+  },
+  "ar": {
+   "q": "ما هو أكبر طائر في العالم؟",
+   "c": [
+    "النسر",
+    "البجع",
+    "التم",
+    "النعامة"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el ave más grande del mundo?",
+   "c": [
+    "El águila",
+    "El pelícano",
+    "El cisne",
+    "El avestruz"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a maior ave do mundo?",
+   "c": [
+    "A águia",
+    "O pelicano",
+    "O cisne",
+    "O avestruz"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel animal fait « miaou » ?",
+   "c": [
+    "Le chat",
+    "Le chien",
+    "La vache",
+    "Le cheval"
+   ]
+  },
+  "en": {
+   "q": "Which animal says \"meow\"?",
+   "c": [
+    "The cat",
+    "The dog",
+    "The cow",
+    "The horse"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يموء؟",
+   "c": [
+    "القطة",
+    "الكلب",
+    "البقرة",
+    "الحصان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal hace «miau»?",
+   "c": [
+    "El gato",
+    "El perro",
+    "La vaca",
+    "El caballo"
+   ]
+  },
+  "pt": {
+   "q": "Que animal faz «miau»?",
+   "c": [
+    "O gato",
+    "O cão",
+    "A vaca",
+    "O cavalo"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle est la saison la plus froide ?",
+   "c": [
+    "L'été",
+    "L'hiver",
+    "Le printemps",
+    "L'automne"
+   ]
+  },
+  "en": {
+   "q": "Which is the coldest season?",
+   "c": [
+    "Summer",
+    "Winter",
+    "Spring",
+    "Autumn"
+   ]
+  },
+  "ar": {
+   "q": "ما هو أبرد فصل في السنة؟",
+   "c": [
+    "الصيف",
+    "الشتاء",
+    "الربيع",
+    "الخريف"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la estación más fría?",
+   "c": [
+    "El verano",
+    "El invierno",
+    "La primavera",
+    "El otoño"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a estação mais fria?",
+   "c": [
+    "O verão",
+    "O inverno",
+    "A primavera",
+    "O outono"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Combien de mois y a-t-il dans une année ?",
+   "c": [
+    "10",
+    "11",
+    "12",
+    "13"
+   ]
+  },
+  "en": {
+   "q": "How many months are there in a year?",
+   "c": [
+    "10",
+    "11",
+    "12",
+    "13"
+   ]
+  },
+  "ar": {
+   "q": "كم شهرًا في السنة؟",
+   "c": [
+    "10",
+    "11",
+    "12",
+    "13"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos meses tiene un año?",
+   "c": [
+    "10",
+    "11",
+    "12",
+    "13"
+   ]
+  },
+  "pt": {
+   "q": "Quantos meses tem um ano?",
+   "c": [
+    "10",
+    "11",
+    "12",
+    "13"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel fruit est jaune et allongé ?",
+   "c": [
+    "La pomme",
+    "La fraise",
+    "Le raisin",
+    "La banane"
+   ]
+  },
+  "en": {
+   "q": "Which fruit is yellow and long?",
+   "c": [
+    "The apple",
+    "The strawberry",
+    "The grape",
+    "The banana"
+   ]
+  },
+  "ar": {
+   "q": "أي فاكهة صفراء ومستطيلة؟",
+   "c": [
+    "التفاحة",
+    "الفراولة",
+    "العنب",
+    "الموزة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué fruta es amarilla y alargada?",
+   "c": [
+    "La manzana",
+    "La fresa",
+    "La uva",
+    "El plátano"
+   ]
+  },
+  "pt": {
+   "q": "Que fruta é amarela e comprida?",
+   "c": [
+    "A maçã",
+    "O morango",
+    "A uva",
+    "A banana"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand animal terrestre ?",
+   "c": [
+    "L'éléphant",
+    "La girafe",
+    "Le rhinocéros",
+    "L'ours"
+   ]
+  },
+  "en": {
+   "q": "What is the largest land animal?",
+   "c": [
+    "The elephant",
+    "The giraffe",
+    "The rhinoceros",
+    "The bear"
+   ]
+  },
+  "ar": {
+   "q": "ما هو أكبر حيوان بري؟",
+   "c": [
+    "الفيل",
+    "الزرافة",
+    "وحيد القرن",
+    "الدب"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el animal terrestre más grande?",
+   "c": [
+    "El elefante",
+    "La jirafa",
+    "El rinoceronte",
+    "El oso"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior animal terrestre?",
+   "c": [
+    "O elefante",
+    "A girafa",
+    "O rinoceronte",
+    "O urso"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle boisson est indispensable à la vie ?",
+   "c": [
+    "Le jus",
+    "L'eau",
+    "Le café",
+    "Le lait"
+   ]
+  },
+  "en": {
+   "q": "Which drink is essential for life?",
+   "c": [
+    "Juice",
+    "Water",
+    "Coffee",
+    "Milk"
+   ]
+  },
+  "ar": {
+   "q": "ما المشروب الضروري للحياة؟",
+   "c": [
+    "العصير",
+    "الماء",
+    "القهوة",
+    "الحليب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué bebida es indispensable para la vida?",
+   "c": [
+    "El jugo",
+    "El agua",
+    "El café",
+    "La leche"
+   ]
+  },
+  "pt": {
+   "q": "Que bebida é indispensável para a vida?",
+   "c": [
+    "O suco",
+    "A água",
+    "O café",
+    "O leite"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Combien de dents a un adulte, dents de sagesse comprises ?",
+   "c": [
+    "28",
+    "30",
+    "32",
+    "36"
+   ]
+  },
+  "en": {
+   "q": "How many teeth does an adult have, wisdom teeth included?",
+   "c": [
+    "28",
+    "30",
+    "32",
+    "36"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد أسنان البالغ بما فيها أسنان العقل؟",
+   "c": [
+    "28",
+    "30",
+    "32",
+    "36"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos dientes tiene un adulto, incluidas las muelas del juicio?",
+   "c": [
+    "28",
+    "30",
+    "32",
+    "36"
+   ]
+  },
+  "pt": {
+   "q": "Quantos dentes tem um adulto, incluindo os sisos?",
+   "c": [
+    "28",
+    "30",
+    "32",
+    "36"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
  }
 ]

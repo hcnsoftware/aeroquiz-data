@@ -6786,5 +6786,1205 @@
   "pt": {
    "q": "Em que ano Constantinopla caiu nas mãos dos otomanos?"
   }
+ },
+ {
+  "fr": {
+   "q": "Quel inventeur américain est célèbre pour l'ampoule électrique ?",
+   "c": [
+    "Thomas Edison",
+    "Isaac Newton",
+    "Louis Pasteur",
+    "Graham Bell"
+   ]
+  },
+  "en": {
+   "q": "Which American inventor is famous for the light bulb?",
+   "c": [
+    "Thomas Edison",
+    "Isaac Newton",
+    "Louis Pasteur",
+    "Graham Bell"
+   ]
+  },
+  "ar": {
+   "q": "أي مخترع أمريكي اشتهر بالمصباح الكهربائي؟",
+   "c": [
+    "توماس إديسون",
+    "إسحاق نيوتن",
+    "لويس باستور",
+    "غراهام بيل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué inventor estadounidense es famoso por la bombilla eléctrica?",
+   "c": [
+    "Thomas Edison",
+    "Isaac Newton",
+    "Louis Pasteur",
+    "Graham Bell"
+   ]
+  },
+  "pt": {
+   "q": "Qual inventor americano é famoso pela lâmpada elétrica?",
+   "c": [
+    "Thomas Edison",
+    "Isaac Newton",
+    "Louis Pasteur",
+    "Graham Bell"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel pays a construit la Grande Muraille ?",
+   "c": [
+    "Le Japon",
+    "La Chine",
+    "L'Inde",
+    "L'Égypte"
+   ]
+  },
+  "en": {
+   "q": "Which country built the Great Wall?",
+   "c": [
+    "Japan",
+    "China",
+    "India",
+    "Egypt"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد بنى سور الصين العظيم؟",
+   "c": [
+    "اليابان",
+    "الصين",
+    "الهند",
+    "مصر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país construyó la Gran Muralla?",
+   "c": [
+    "Japón",
+    "China",
+    "India",
+    "Egipto"
+   ]
+  },
+  "pt": {
+   "q": "Qual país construiu a Grande Muralha?",
+   "c": [
+    "Japão",
+    "China",
+    "Índia",
+    "Egito"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle ville était la capitale de l'Empire romain ?",
+   "c": [
+    "Athènes",
+    "Paris",
+    "Rome",
+    "Londres"
+   ]
+  },
+  "en": {
+   "q": "Which city was the capital of the Roman Empire?",
+   "c": [
+    "Athens",
+    "Paris",
+    "Rome",
+    "London"
+   ]
+  },
+  "ar": {
+   "q": "أي مدينة كانت عاصمة الإمبراطورية الرومانية؟",
+   "c": [
+    "أثينا",
+    "باريس",
+    "روما",
+    "لندن"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ciudad era la capital del Imperio romano?",
+   "c": [
+    "Atenas",
+    "París",
+    "Roma",
+    "Londres"
+   ]
+  },
+  "pt": {
+   "q": "Qual cidade era a capital do Império Romano?",
+   "c": [
+    "Atenas",
+    "Paris",
+    "Roma",
+    "Londres"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel monument parisien a été construit pour l'Exposition universelle de 1889 ?",
+   "c": [
+    "L'Arc de Triomphe",
+    "Notre-Dame",
+    "Le Louvre",
+    "La tour Eiffel"
+   ]
+  },
+  "en": {
+   "q": "Which Paris monument was built for the 1889 World's Fair?",
+   "c": [
+    "The Arc de Triomphe",
+    "Notre-Dame",
+    "The Louvre",
+    "The Eiffel Tower"
+   ]
+  },
+  "ar": {
+   "q": "أي معلم في باريس بُني للمعرض العالمي عام 1889؟",
+   "c": [
+    "قوس النصر",
+    "نوتردام",
+    "اللوفر",
+    "برج إيفل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué monumento de París se construyó para la Exposición Universal de 1889?",
+   "c": [
+    "El Arco del Triunfo",
+    "Notre-Dame",
+    "El Louvre",
+    "La Torre Eiffel"
+   ]
+  },
+  "pt": {
+   "q": "Qual monumento de Paris foi construído para a Exposição Universal de 1889?",
+   "c": [
+    "O Arco do Triunfo",
+    "Notre-Dame",
+    "O Louvre",
+    "A Torre Eiffel"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quels frères ont réalisé le premier vol en avion en 1903 ?",
+   "c": [
+    "Les frères Wright",
+    "Les frères Lumière",
+    "Les frères Grimm",
+    "Les frères Marx"
+   ]
+  },
+  "en": {
+   "q": "Which brothers made the first airplane flight in 1903?",
+   "c": [
+    "The Wright brothers",
+    "The Lumière brothers",
+    "The Grimm brothers",
+    "The Marx brothers"
+   ]
+  },
+  "ar": {
+   "q": "أي أخوين قاما بأول رحلة طيران بالطائرة عام 1903؟",
+   "c": [
+    "الأخوان رايت",
+    "الأخوان لوميير",
+    "الأخوان غريم",
+    "الأخوان ماركس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué hermanos realizaron el primer vuelo en avión en 1903?",
+   "c": [
+    "Los hermanos Wright",
+    "Los hermanos Lumière",
+    "Los hermanos Grimm",
+    "Los hermanos Marx"
+   ]
+  },
+  "pt": {
+   "q": "Quais irmãos fizeram o primeiro voo de avião em 1903?",
+   "c": [
+    "Os irmãos Wright",
+    "Os irmãos Lumière",
+    "Os irmãos Grimm",
+    "Os irmãos Marx"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel animal Hannibal a-t-il emmené à travers les Alpes ?",
+   "c": [
+    "Des chameaux",
+    "Des éléphants",
+    "Des girafes",
+    "Des lions"
+   ]
+  },
+  "en": {
+   "q": "Which animals did Hannibal take across the Alps?",
+   "c": [
+    "Camels",
+    "Elephants",
+    "Giraffes",
+    "Lions"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوانات اصطحبها حنبعل عبر جبال الألب؟",
+   "c": [
+    "الجمال",
+    "الفيلة",
+    "الزرافات",
+    "الأسود"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animales llevó Aníbal a través de los Alpes?",
+   "c": [
+    "Camellos",
+    "Elefantes",
+    "Jirafas",
+    "Leones"
+   ]
+  },
+  "pt": {
+   "q": "Quais animais Aníbal levou através dos Alpes?",
+   "c": [
+    "Camelos",
+    "Elefantes",
+    "Girafas",
+    "Leões"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel savant français a mis au point le vaccin contre la rage ?",
+   "c": [
+    "Antoine Lavoisier",
+    "Denis Diderot",
+    "Louis Pasteur",
+    "Voltaire"
+   ]
+  },
+  "en": {
+   "q": "Which French scientist developed the rabies vaccine?",
+   "c": [
+    "Antoine Lavoisier",
+    "Denis Diderot",
+    "Louis Pasteur",
+    "Voltaire"
+   ]
+  },
+  "ar": {
+   "q": "أي عالم فرنسي طوّر لقاح داء الكلب؟",
+   "c": [
+    "أنطوان لافوازييه",
+    "ديدرو",
+    "لويس باستور",
+    "فولتير"
+   ]
+  },
+  "es": {
+   "q": "¿Qué científico francés desarrolló la vacuna contra la rabia?",
+   "c": [
+    "Antoine Lavoisier",
+    "Denis Diderot",
+    "Louis Pasteur",
+    "Voltaire"
+   ]
+  },
+  "pt": {
+   "q": "Qual cientista francês desenvolveu a vacina contra a raiva?",
+   "c": [
+    "Antoine Lavoisier",
+    "Denis Diderot",
+    "Louis Pasteur",
+    "Voltaire"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle civilisation a construit le Machu Picchu ?",
+   "c": [
+    "Les Aztèques",
+    "Les Mayas",
+    "Les Romains",
+    "Les Incas"
+   ]
+  },
+  "en": {
+   "q": "Which civilization built Machu Picchu?",
+   "c": [
+    "The Aztecs",
+    "The Maya",
+    "The Romans",
+    "The Incas"
+   ]
+  },
+  "ar": {
+   "q": "أي حضارة بنت ماتشو بيتشو؟",
+   "c": [
+    "الأزتك",
+    "المايا",
+    "الرومان",
+    "الإنكا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué civilización construyó Machu Picchu?",
+   "c": [
+    "Los aztecas",
+    "Los mayas",
+    "Los romanos",
+    "Los incas"
+   ]
+  },
+  "pt": {
+   "q": "Qual civilização construiu Machu Picchu?",
+   "c": [
+    "Os astecas",
+    "Os maias",
+    "Os romanos",
+    "Os incas"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel savant est célèbre pour sa théorie de la gravitation universelle ?",
+   "c": [
+    "Isaac Newton",
+    "Albert Einstein",
+    "Charles Darwin",
+    "Marie Curie"
+   ]
+  },
+  "en": {
+   "q": "Which scientist is famous for the theory of universal gravitation?",
+   "c": [
+    "Isaac Newton",
+    "Albert Einstein",
+    "Charles Darwin",
+    "Marie Curie"
+   ]
+  },
+  "ar": {
+   "q": "أي عالم اشتهر بنظرية الجاذبية العامة؟",
+   "c": [
+    "إسحاق نيوتن",
+    "ألبرت أينشتاين",
+    "تشارلز داروين",
+    "ماري كوري"
+   ]
+  },
+  "es": {
+   "q": "¿Qué científico es famoso por la teoría de la gravitación universal?",
+   "c": [
+    "Isaac Newton",
+    "Albert Einstein",
+    "Charles Darwin",
+    "Marie Curie"
+   ]
+  },
+  "pt": {
+   "q": "Qual cientista é famoso pela teoria da gravitação universal?",
+   "c": [
+    "Isaac Newton",
+    "Albert Einstein",
+    "Charles Darwin",
+    "Marie Curie"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle ville romaine a été ensevelie par l'éruption du Vésuve en 79 ?",
+   "c": [
+    "Athènes",
+    "Pompéi",
+    "Carthage",
+    "Alexandrie"
+   ]
+  },
+  "en": {
+   "q": "Which Roman city was buried by the eruption of Vesuvius in 79 AD?",
+   "c": [
+    "Athens",
+    "Pompeii",
+    "Carthage",
+    "Alexandria"
+   ]
+  },
+  "ar": {
+   "q": "أي مدينة رومانية دُفنت بسبب ثوران بركان فيزوف عام 79م؟",
+   "c": [
+    "أثينا",
+    "بومبي",
+    "قرطاج",
+    "الإسكندرية"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ciudad romana quedó sepultada por la erupción del Vesubio en el año 79?",
+   "c": [
+    "Atenas",
+    "Pompeya",
+    "Cartago",
+    "Alejandría"
+   ]
+  },
+  "pt": {
+   "q": "Qual cidade romana foi soterrada pela erupção do Vesúvio em 79 d.C.?",
+   "c": [
+    "Atenas",
+    "Pompeia",
+    "Cartago",
+    "Alexandria"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle femme scientifique a reçu deux prix Nobel ?",
+   "c": [
+    "Ada Lovelace",
+    "Mère Teresa",
+    "Marie Curie",
+    "Jeanne d'Arc"
+   ]
+  },
+  "en": {
+   "q": "Which woman scientist won two Nobel Prizes?",
+   "c": [
+    "Ada Lovelace",
+    "Mother Teresa",
+    "Marie Curie",
+    "Joan of Arc"
+   ]
+  },
+  "ar": {
+   "q": "أي عالمة حصلت على جائزتي نوبل؟",
+   "c": [
+    "آدا لوفلايس",
+    "الأم تيريزا",
+    "ماري كوري",
+    "جان دارك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué científica ganó dos premios Nobel?",
+   "c": [
+    "Ada Lovelace",
+    "Madre Teresa",
+    "Marie Curie",
+    "Juana de Arco"
+   ]
+  },
+  "pt": {
+   "q": "Qual cientista ganhou dois prêmios Nobel?",
+   "c": [
+    "Ada Lovelace",
+    "Madre Teresa",
+    "Marie Curie",
+    "Joana d'Arc"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel pays était dirigé par des tsars avant 1917 ?",
+   "c": [
+    "L'Espagne",
+    "L'Égypte",
+    "L'Italie",
+    "La Russie"
+   ]
+  },
+  "en": {
+   "q": "Which country was ruled by tsars before 1917?",
+   "c": [
+    "Spain",
+    "Egypt",
+    "Italy",
+    "Russia"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد كان يحكمه القياصرة قبل عام 1917؟",
+   "c": [
+    "إسبانيا",
+    "مصر",
+    "إيطاليا",
+    "روسيا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país estaba gobernado por zares antes de 1917?",
+   "c": [
+    "España",
+    "Egipto",
+    "Italia",
+    "Rusia"
+   ]
+  },
+  "pt": {
+   "q": "Qual país era governado por czares antes de 1917?",
+   "c": [
+    "Espanha",
+    "Egito",
+    "Itália",
+    "Rússia"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelle la guerre américaine entre le Nord et le Sud (1861-1865) ?",
+   "c": [
+    "La guerre d'indépendance",
+    "La guerre de Sécession",
+    "La guerre de Cent Ans",
+    "La guerre froide"
+   ]
+  },
+  "en": {
+   "q": "What is the American war between North and South (1861-1865) called?",
+   "c": [
+    "The War of Independence",
+    "The Civil War",
+    "The Hundred Years' War",
+    "The Cold War"
+   ]
+  },
+  "ar": {
+   "q": "ماذا تسمى الحرب الأمريكية بين الشمال والجنوب (1861-1865)؟",
+   "c": [
+    "حرب الاستقلال",
+    "الحرب الأهلية",
+    "حرب المئة عام",
+    "الحرب الباردة"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama la guerra estadounidense entre el Norte y el Sur (1861-1865)?",
+   "c": [
+    "La guerra de independencia",
+    "La guerra de Secesión",
+    "La guerra de los Cien Años",
+    "La guerra fría"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama a guerra americana entre o Norte e o Sul (1861-1865)?",
+   "c": [
+    "A guerra de independência",
+    "A guerra de Secessão",
+    "A guerra dos Cem Anos",
+    "A guerra fria"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel roi de France a été guillotiné en 1793 ?",
+   "c": [
+    "Louis XIV",
+    "Henri IV",
+    "Louis XVI",
+    "Charles X"
+   ]
+  },
+  "en": {
+   "q": "Which king of France was guillotined in 1793?",
+   "c": [
+    "Louis XIV",
+    "Henry IV",
+    "Louis XVI",
+    "Charles X"
+   ]
+  },
+  "ar": {
+   "q": "أي ملك فرنسي أُعدم بالمقصلة عام 1793؟",
+   "c": [
+    "لويس الرابع عشر",
+    "هنري الرابع",
+    "لويس السادس عشر",
+    "شارل العاشر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué rey de Francia fue guillotinado en 1793?",
+   "c": [
+    "Luis XIV",
+    "Enrique IV",
+    "Luis XVI",
+    "Carlos X"
+   ]
+  },
+  "pt": {
+   "q": "Qual rei da França foi guilhotinado em 1793?",
+   "c": [
+    "Luís XIV",
+    "Henrique IV",
+    "Luís XVI",
+    "Carlos X"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Qui a dirigé la France libre pendant la Seconde Guerre mondiale ?",
+   "c": [
+    "Philippe Pétain",
+    "Georges Clemenceau",
+    "Napoléon III",
+    "Charles de Gaulle"
+   ]
+  },
+  "en": {
+   "q": "Who led the Free French during World War II?",
+   "c": [
+    "Philippe Pétain",
+    "Georges Clemenceau",
+    "Napoleon III",
+    "Charles de Gaulle"
+   ]
+  },
+  "ar": {
+   "q": "من قاد فرنسا الحرة خلال الحرب العالمية الثانية؟",
+   "c": [
+    "فيليب بيتان",
+    "جورج كليمنصو",
+    "نابليون الثالث",
+    "شارل ديغول"
+   ]
+  },
+  "es": {
+   "q": "¿Quién lideró la Francia Libre durante la Segunda Guerra Mundial?",
+   "c": [
+    "Philippe Pétain",
+    "Georges Clemenceau",
+    "Napoleón III",
+    "Charles de Gaulle"
+   ]
+  },
+  "pt": {
+   "q": "Quem liderou a França Livre durante a Segunda Guerra Mundial?",
+   "c": [
+    "Philippe Pétain",
+    "Georges Clemenceau",
+    "Napoleão III",
+    "Charles de Gaulle"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel peuple de Mésopotamie a inventé l'écriture cunéiforme ?",
+   "c": [
+    "Les Sumériens",
+    "Les Égyptiens",
+    "Les Mayas",
+    "Les Vikings"
+   ]
+  },
+  "en": {
+   "q": "Which Mesopotamian people invented cuneiform writing?",
+   "c": [
+    "The Sumerians",
+    "The Egyptians",
+    "The Maya",
+    "The Vikings"
+   ]
+  },
+  "ar": {
+   "q": "أي شعب من بلاد الرافدين اخترع الكتابة المسمارية؟",
+   "c": [
+    "السومريون",
+    "المصريون",
+    "المايا",
+    "الفايكنغ"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pueblo de Mesopotamia inventó la escritura cuneiforme?",
+   "c": [
+    "Los sumerios",
+    "Los egipcios",
+    "Los mayas",
+    "Los vikingos"
+   ]
+  },
+  "pt": {
+   "q": "Qual povo da Mesopotâmia inventou a escrita cuneiforme?",
+   "c": [
+    "Os sumérios",
+    "Os egípcios",
+    "Os maias",
+    "Os vikings"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel explorateur a lancé le premier tour du monde en bateau en 1519 ?",
+   "c": [
+    "James Cook",
+    "Magellan",
+    "Amerigo Vespucci",
+    "Marco Polo"
+   ]
+  },
+  "en": {
+   "q": "Which explorer launched the first voyage around the world in 1519?",
+   "c": [
+    "James Cook",
+    "Magellan",
+    "Amerigo Vespucci",
+    "Marco Polo"
+   ]
+  },
+  "ar": {
+   "q": "أي مستكشف قاد أول رحلة بحرية حول العالم عام 1519؟",
+   "c": [
+    "جيمس كوك",
+    "ماجلان",
+    "أمريغو فيسبوتشي",
+    "ماركو بولو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué explorador inició la primera vuelta al mundo en barco en 1519?",
+   "c": [
+    "James Cook",
+    "Magallanes",
+    "Américo Vespucio",
+    "Marco Polo"
+   ]
+  },
+  "pt": {
+   "q": "Qual explorador iniciou a primeira viagem de circum-navegação em 1519?",
+   "c": [
+    "James Cook",
+    "Magalhães",
+    "Américo Vespúcio",
+    "Marco Polo"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle ville fut la capitale du califat abbasside ?",
+   "c": [
+    "Damas",
+    "Le Caire",
+    "Bagdad",
+    "Cordoue"
+   ]
+  },
+  "en": {
+   "q": "Which city was the capital of the Abbasid Caliphate?",
+   "c": [
+    "Damascus",
+    "Cairo",
+    "Baghdad",
+    "Córdoba"
+   ]
+  },
+  "ar": {
+   "q": "أي مدينة كانت عاصمة الخلافة العباسية؟",
+   "c": [
+    "دمشق",
+    "القاهرة",
+    "بغداد",
+    "قرطبة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ciudad fue la capital del califato abasí?",
+   "c": [
+    "Damasco",
+    "El Cairo",
+    "Bagdad",
+    "Córdoba"
+   ]
+  },
+  "pt": {
+   "q": "Qual cidade foi a capital do califado abássida?",
+   "c": [
+    "Damasco",
+    "Cairo",
+    "Bagdá",
+    "Córdoba"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel savant a proposé que la Terre tourne autour du Soleil au XVIe siècle ?",
+   "c": [
+    "Aristote",
+    "Ptolémée",
+    "Hippocrate",
+    "Copernic"
+   ]
+  },
+  "en": {
+   "q": "Which scholar proposed in the 16th century that the Earth orbits the Sun?",
+   "c": [
+    "Aristotle",
+    "Ptolemy",
+    "Hippocrates",
+    "Copernicus"
+   ]
+  },
+  "ar": {
+   "q": "أي عالم اقترح في القرن السادس عشر أن الأرض تدور حول الشمس؟",
+   "c": [
+    "أرسطو",
+    "بطليموس",
+    "أبقراط",
+    "كوبرنيكوس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué sabio propuso en el siglo XVI que la Tierra gira alrededor del Sol?",
+   "c": [
+    "Aristóteles",
+    "Ptolomeo",
+    "Hipócrates",
+    "Copérnico"
+   ]
+  },
+  "pt": {
+   "q": "Qual sábio propôs no século XVI que a Terra gira em torno do Sol?",
+   "c": [
+    "Aristóteles",
+    "Ptolomeu",
+    "Hipócrates",
+    "Copérnico"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle cité grecque antique était célèbre pour ses guerriers ?",
+   "c": [
+    "Sparte",
+    "Corinthe",
+    "Delphes",
+    "Thèbes"
+   ]
+  },
+  "en": {
+   "q": "Which ancient Greek city was famous for its warriors?",
+   "c": [
+    "Sparta",
+    "Corinth",
+    "Delphi",
+    "Thebes"
+   ]
+  },
+  "ar": {
+   "q": "أي مدينة إغريقية قديمة اشتهرت بمحاربيها؟",
+   "c": [
+    "إسبرطة",
+    "كورنثة",
+    "دلفي",
+    "طيبة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ciudad griega antigua era famosa por sus guerreros?",
+   "c": [
+    "Esparta",
+    "Corinto",
+    "Delfos",
+    "Tebas"
+   ]
+  },
+  "pt": {
+   "q": "Qual cidade grega antiga era famosa por seus guerreiros?",
+   "c": [
+    "Esparta",
+    "Corinto",
+    "Delfos",
+    "Tebas"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Hannibal était un général de quelle cité ?",
+   "c": [
+    "Rome",
+    "Carthage",
+    "Athènes",
+    "Babylone"
+   ]
+  },
+  "en": {
+   "q": "Hannibal was a general from which city?",
+   "c": [
+    "Rome",
+    "Carthage",
+    "Athens",
+    "Babylon"
+   ]
+  },
+  "ar": {
+   "q": "حنبعل كان قائداً من أي مدينة؟",
+   "c": [
+    "روما",
+    "قرطاج",
+    "أثينا",
+    "بابل"
+   ]
+  },
+  "es": {
+   "q": "¿De qué ciudad era general Aníbal?",
+   "c": [
+    "Roma",
+    "Cartago",
+    "Atenas",
+    "Babilonia"
+   ]
+  },
+  "pt": {
+   "q": "Aníbal era general de qual cidade?",
+   "c": [
+    "Roma",
+    "Cartago",
+    "Atenas",
+    "Babilônia"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Dans quelle ville espagnole se trouve l'Alhambra ?",
+   "c": [
+    "Séville",
+    "Madrid",
+    "Grenade",
+    "Barcelone"
+   ]
+  },
+  "en": {
+   "q": "In which Spanish city is the Alhambra located?",
+   "c": [
+    "Seville",
+    "Madrid",
+    "Granada",
+    "Barcelona"
+   ]
+  },
+  "ar": {
+   "q": "في أي مدينة إسبانية يقع قصر الحمراء؟",
+   "c": [
+    "إشبيلية",
+    "مدريد",
+    "غرناطة",
+    "برشلونة"
+   ]
+  },
+  "es": {
+   "q": "¿En qué ciudad española se encuentra la Alhambra?",
+   "c": [
+    "Sevilla",
+    "Madrid",
+    "Granada",
+    "Barcelona"
+   ]
+  },
+  "pt": {
+   "q": "Em qual cidade espanhola fica a Alhambra?",
+   "c": [
+    "Sevilha",
+    "Madri",
+    "Granada",
+    "Barcelona"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays la Renaissance est-elle née au XVe siècle ?",
+   "c": [
+    "La France",
+    "L'Espagne",
+    "L'Angleterre",
+    "L'Italie"
+   ]
+  },
+  "en": {
+   "q": "In which country did the Renaissance begin in the 15th century?",
+   "c": [
+    "France",
+    "Spain",
+    "England",
+    "Italy"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد بدأ عصر النهضة في القرن الخامس عشر؟",
+   "c": [
+    "فرنسا",
+    "إسبانيا",
+    "إنجلترا",
+    "إيطاليا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país nació el Renacimiento en el siglo XV?",
+   "c": [
+    "Francia",
+    "España",
+    "Inglaterra",
+    "Italia"
+   ]
+  },
+  "pt": {
+   "q": "Em qual país nasceu o Renascimento no século XV?",
+   "c": [
+    "França",
+    "Espanha",
+    "Inglaterra",
+    "Itália"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel empereur français a été vaincu à Waterloo en 1815 ?",
+   "c": [
+    "Napoléon Ier",
+    "Louis XIV",
+    "Charlemagne",
+    "Henri IV"
+   ]
+  },
+  "en": {
+   "q": "Which French emperor was defeated at Waterloo in 1815?",
+   "c": [
+    "Napoleon I",
+    "Louis XIV",
+    "Charlemagne",
+    "Henry IV"
+   ]
+  },
+  "ar": {
+   "q": "أي إمبراطور فرنسي هُزم في واترلو عام 1815؟",
+   "c": [
+    "نابليون الأول",
+    "لويس الرابع عشر",
+    "شارلمان",
+    "هنري الرابع"
+   ]
+  },
+  "es": {
+   "q": "¿Qué emperador francés fue derrotado en Waterloo en 1815?",
+   "c": [
+    "Napoleón I",
+    "Luis XIV",
+    "Carlomagno",
+    "Enrique IV"
+   ]
+  },
+  "pt": {
+   "q": "Que imperador francês foi derrotado em Waterloo em 1815?",
+   "c": [
+    "Napoleão I",
+    "Luís XIV",
+    "Carlos Magno",
+    "Henrique IV"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
  }
 ]

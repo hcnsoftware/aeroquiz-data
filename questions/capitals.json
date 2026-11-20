@@ -6992,5 +6992,1205 @@
     "Coreia do Sul"
    ]
   }
+ },
+ {
+  "fr": {
+   "q": "Sur quel continent se trouve l'Algérie ?",
+   "c": [
+    "Afrique",
+    "Europe",
+    "Asie",
+    "Amérique"
+   ]
+  },
+  "en": {
+   "q": "On which continent is Algeria?",
+   "c": [
+    "Africa",
+    "Europe",
+    "Asia",
+    "America"
+   ]
+  },
+  "ar": {
+   "q": "في أي قارة تقع الجزائر؟",
+   "c": [
+    "أفريقيا",
+    "أوروبا",
+    "آسيا",
+    "أمريكا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué continente está Argelia?",
+   "c": [
+    "África",
+    "Europa",
+    "Asia",
+    "América"
+   ]
+  },
+  "pt": {
+   "q": "Em que continente fica a Argélia?",
+   "c": [
+    "África",
+    "Europa",
+    "Ásia",
+    "América"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel grand désert couvre le sud de l'Algérie ?",
+   "c": [
+    "Gobi",
+    "Kalahari",
+    "Sahara",
+    "Atacama"
+   ]
+  },
+  "en": {
+   "q": "Which great desert covers southern Algeria?",
+   "c": [
+    "Gobi",
+    "Kalahari",
+    "Sahara",
+    "Atacama"
+   ]
+  },
+  "ar": {
+   "q": "ما هي الصحراء الكبيرة التي تغطي جنوب الجزائر؟",
+   "c": [
+    "غوبي",
+    "كالاهاري",
+    "الصحراء الكبرى",
+    "أتاكاما"
+   ]
+  },
+  "es": {
+   "q": "¿Qué gran desierto cubre el sur de Argelia?",
+   "c": [
+    "Gobi",
+    "Kalahari",
+    "Sáhara",
+    "Atacama"
+   ]
+  },
+  "pt": {
+   "q": "Que grande deserto cobre o sul da Argélia?",
+   "c": [
+    "Gobi",
+    "Kalahari",
+    "Saara",
+    "Atacama"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel fleuve traverse l'Égypte ?",
+   "c": [
+    "Seine",
+    "Amazone",
+    "Danube",
+    "Nil"
+   ]
+  },
+  "en": {
+   "q": "Which river flows through Egypt?",
+   "c": [
+    "Seine",
+    "Amazon",
+    "Danube",
+    "Nile"
+   ]
+  },
+  "ar": {
+   "q": "أي نهر يعبر مصر؟",
+   "c": [
+    "السين",
+    "الأمازون",
+    "الدانوب",
+    "النيل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué río atraviesa Egipto?",
+   "c": [
+    "Sena",
+    "Amazonas",
+    "Danubio",
+    "Nilo"
+   ]
+  },
+  "pt": {
+   "q": "Que rio atravessa o Egito?",
+   "c": [
+    "Sena",
+    "Amazonas",
+    "Danúbio",
+    "Nilo"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve la ville de New York ?",
+   "c": [
+    "États-Unis",
+    "Canada",
+    "Royaume-Uni",
+    "Australie"
+   ]
+  },
+  "en": {
+   "q": "In which country is New York City?",
+   "c": [
+    "United States",
+    "Canada",
+    "United Kingdom",
+    "Australia"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد تقع مدينة نيويورك؟",
+   "c": [
+    "الولايات المتحدة",
+    "كندا",
+    "المملكة المتحدة",
+    "أستراليا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está la ciudad de Nueva York?",
+   "c": [
+    "Estados Unidos",
+    "Canadá",
+    "Reino Unido",
+    "Australia"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica a cidade de Nova Iorque?",
+   "c": [
+    "Estados Unidos",
+    "Canadá",
+    "Reino Unido",
+    "Austrália"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle mer borde le nord de l'Algérie ?",
+   "c": [
+    "Mer Rouge",
+    "Méditerranée",
+    "Mer Noire",
+    "Mer Baltique"
+   ]
+  },
+  "en": {
+   "q": "Which sea borders northern Algeria?",
+   "c": [
+    "Red Sea",
+    "Mediterranean Sea",
+    "Black Sea",
+    "Baltic Sea"
+   ]
+  },
+  "ar": {
+   "q": "أي بحر يطل على شمال الجزائر؟",
+   "c": [
+    "البحر الأحمر",
+    "البحر الأبيض المتوسط",
+    "البحر الأسود",
+    "بحر البلطيق"
+   ]
+  },
+  "es": {
+   "q": "¿Qué mar baña el norte de Argelia?",
+   "c": [
+    "Mar Rojo",
+    "Mar Mediterráneo",
+    "Mar Negro",
+    "Mar Báltico"
+   ]
+  },
+  "pt": {
+   "q": "Que mar banha o norte da Argélia?",
+   "c": [
+    "Mar Vermelho",
+    "Mar Mediterrâneo",
+    "Mar Negro",
+    "Mar Báltico"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Dans quelle ville se trouve la Kaaba ?",
+   "c": [
+    "Médine",
+    "Riyad",
+    "La Mecque",
+    "Jérusalem"
+   ]
+  },
+  "en": {
+   "q": "In which city is the Kaaba?",
+   "c": [
+    "Medina",
+    "Riyadh",
+    "Mecca",
+    "Jerusalem"
+   ]
+  },
+  "ar": {
+   "q": "في أي مدينة تقع الكعبة؟",
+   "c": [
+    "المدينة المنورة",
+    "الرياض",
+    "مكة المكرمة",
+    "القدس"
+   ]
+  },
+  "es": {
+   "q": "¿En qué ciudad se encuentra la Kaaba?",
+   "c": [
+    "Medina",
+    "Riad",
+    "La Meca",
+    "Jerusalén"
+   ]
+  },
+  "pt": {
+   "q": "Em que cidade fica a Caaba?",
+   "c": [
+    "Medina",
+    "Riade",
+    "Meca",
+    "Jerusalém"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel pays a la forme d'une botte ?",
+   "c": [
+    "Italie",
+    "Espagne",
+    "Grèce",
+    "Portugal"
+   ]
+  },
+  "en": {
+   "q": "Which country is shaped like a boot?",
+   "c": [
+    "Italy",
+    "Spain",
+    "Greece",
+    "Portugal"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد على شكل حذاء طويل؟",
+   "c": [
+    "إيطاليا",
+    "إسبانيا",
+    "اليونان",
+    "البرتغال"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país tiene forma de bota?",
+   "c": [
+    "Italia",
+    "España",
+    "Grecia",
+    "Portugal"
+   ]
+  },
+  "pt": {
+   "q": "Que país tem a forma de uma bota?",
+   "c": [
+    "Itália",
+    "Espanha",
+    "Grécia",
+    "Portugal"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus haut sommet du monde ?",
+   "c": [
+    "Mont Blanc",
+    "Everest",
+    "Kilimandjaro",
+    "Mont Fuji"
+   ]
+  },
+  "en": {
+   "q": "What is the highest mountain in the world?",
+   "c": [
+    "Mont Blanc",
+    "Everest",
+    "Kilimanjaro",
+    "Mount Fuji"
+   ]
+  },
+  "ar": {
+   "q": "ما هو أعلى جبل في العالم؟",
+   "c": [
+    "مونت بلان",
+    "جبل إفرست",
+    "كليمنجارو",
+    "جبل فوجي"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la montaña más alta del mundo?",
+   "c": [
+    "Mont Blanc",
+    "Everest",
+    "Kilimanjaro",
+    "Monte Fuji"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a montanha mais alta do mundo?",
+   "c": [
+    "Monte Branco",
+    "Everest",
+    "Kilimanjaro",
+    "Monte Fuji"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle ville est surnommée « la Grosse Pomme » ?",
+   "c": [
+    "Los Angeles",
+    "Chicago",
+    "New York",
+    "Miami"
+   ]
+  },
+  "en": {
+   "q": "Which city is nicknamed “the Big Apple”?",
+   "c": [
+    "Los Angeles",
+    "Chicago",
+    "New York",
+    "Miami"
+   ]
+  },
+  "ar": {
+   "q": "أي مدينة تُلقَّب بـ «التفاحة الكبيرة»؟",
+   "c": [
+    "لوس أنجلوس",
+    "شيكاغو",
+    "نيويورك",
+    "ميامي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ciudad es conocida como «la Gran Manzana»?",
+   "c": [
+    "Los Ángeles",
+    "Chicago",
+    "Nueva York",
+    "Miami"
+   ]
+  },
+  "pt": {
+   "q": "Que cidade é conhecida como «a Grande Maçã»?",
+   "c": [
+    "Los Angeles",
+    "Chicago",
+    "Nova Iorque",
+    "Miami"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel fleuve traverse Paris ?",
+   "c": [
+    "Loire",
+    "Rhône",
+    "Garonne",
+    "Seine"
+   ]
+  },
+  "en": {
+   "q": "Which river flows through Paris?",
+   "c": [
+    "Loire",
+    "Rhône",
+    "Garonne",
+    "Seine"
+   ]
+  },
+  "ar": {
+   "q": "أي نهر يعبر باريس؟",
+   "c": [
+    "اللوار",
+    "الرون",
+    "الغارون",
+    "السين"
+   ]
+  },
+  "es": {
+   "q": "¿Qué río atraviesa París?",
+   "c": [
+    "Loira",
+    "Ródano",
+    "Garona",
+    "Sena"
+   ]
+  },
+  "pt": {
+   "q": "Que rio atravessa Paris?",
+   "c": [
+    "Loire",
+    "Ródano",
+    "Garona",
+    "Sena"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale du Liban ?",
+   "c": [
+    "Beyrouth",
+    "Damas",
+    "Amman",
+    "Bagdad"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of Lebanon?",
+   "c": [
+    "Beirut",
+    "Damascus",
+    "Amman",
+    "Baghdad"
+   ]
+  },
+  "ar": {
+   "q": "ما هي عاصمة لبنان؟",
+   "c": [
+    "بيروت",
+    "دمشق",
+    "عمّان",
+    "بغداد"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital del Líbano?",
+   "c": [
+    "Beirut",
+    "Damasco",
+    "Amán",
+    "Bagdad"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital do Líbano?",
+   "c": [
+    "Beirute",
+    "Damasco",
+    "Amã",
+    "Bagdá"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel fleuve traverse Londres ?",
+   "c": [
+    "Seine",
+    "Tamise",
+    "Rhin",
+    "Tibre"
+   ]
+  },
+  "en": {
+   "q": "Which river flows through London?",
+   "c": [
+    "Seine",
+    "Thames",
+    "Rhine",
+    "Tiber"
+   ]
+  },
+  "ar": {
+   "q": "أي نهر يعبر لندن؟",
+   "c": [
+    "السين",
+    "التيمز",
+    "الراين",
+    "التيبر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué río atraviesa Londres?",
+   "c": [
+    "Sena",
+    "Támesis",
+    "Rin",
+    "Tíber"
+   ]
+  },
+  "pt": {
+   "q": "Que rio atravessa Londres?",
+   "c": [
+    "Sena",
+    "Tâmisa",
+    "Reno",
+    "Tibre"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve la ville de Marrakech ?",
+   "c": [
+    "Tunisie",
+    "Égypte",
+    "Maroc",
+    "Algérie"
+   ]
+  },
+  "en": {
+   "q": "In which country is the city of Marrakesh?",
+   "c": [
+    "Tunisia",
+    "Egypt",
+    "Morocco",
+    "Algeria"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد تقع مدينة مراكش؟",
+   "c": [
+    "تونس",
+    "مصر",
+    "المغرب",
+    "الجزائر"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está la ciudad de Marrakech?",
+   "c": [
+    "Túnez",
+    "Egipto",
+    "Marruecos",
+    "Argelia"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica a cidade de Marraquexe?",
+   "c": [
+    "Tunísia",
+    "Egito",
+    "Marrocos",
+    "Argélia"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Dans quelle ville se trouve le Kremlin ?",
+   "c": [
+    "Moscou",
+    "Saint-Pétersbourg",
+    "Kiev",
+    "Varsovie"
+   ]
+  },
+  "en": {
+   "q": "In which city is the Kremlin?",
+   "c": [
+    "Moscow",
+    "Saint Petersburg",
+    "Kyiv",
+    "Warsaw"
+   ]
+  },
+  "ar": {
+   "q": "في أي مدينة يقع الكرملين؟",
+   "c": [
+    "موسكو",
+    "سانت بطرسبرغ",
+    "كييف",
+    "وارسو"
+   ]
+  },
+  "es": {
+   "q": "¿En qué ciudad se encuentra el Kremlin?",
+   "c": [
+    "Moscú",
+    "San Petersburgo",
+    "Kiev",
+    "Varsovia"
+   ]
+  },
+  "pt": {
+   "q": "Em que cidade fica o Kremlin?",
+   "c": [
+    "Moscou",
+    "São Petersburgo",
+    "Kiev",
+    "Varsóvia"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle ville est surnommée « la Ville éternelle » ?",
+   "c": [
+    "Athènes",
+    "Rome",
+    "Paris",
+    "Istanbul"
+   ]
+  },
+  "en": {
+   "q": "Which city is nicknamed “the Eternal City”?",
+   "c": [
+    "Athens",
+    "Rome",
+    "Paris",
+    "Istanbul"
+   ]
+  },
+  "ar": {
+   "q": "أي مدينة تُلقَّب بـ «المدينة الخالدة»؟",
+   "c": [
+    "أثينا",
+    "روما",
+    "باريس",
+    "إسطنبول"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ciudad es conocida como «la Ciudad Eterna»?",
+   "c": [
+    "Atenas",
+    "Roma",
+    "París",
+    "Estambul"
+   ]
+  },
+  "pt": {
+   "q": "Que cidade é conhecida como «a Cidade Eterna»?",
+   "c": [
+    "Atenas",
+    "Roma",
+    "Paris",
+    "Istambul"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale de la Syrie ?",
+   "c": [
+    "Beyrouth",
+    "Alep",
+    "Damas",
+    "Bagdad"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of Syria?",
+   "c": [
+    "Beirut",
+    "Aleppo",
+    "Damascus",
+    "Baghdad"
+   ]
+  },
+  "ar": {
+   "q": "ما هي عاصمة سوريا؟",
+   "c": [
+    "بيروت",
+    "حلب",
+    "دمشق",
+    "بغداد"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Siria?",
+   "c": [
+    "Beirut",
+    "Alepo",
+    "Damasco",
+    "Bagdad"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital da Síria?",
+   "c": [
+    "Beirute",
+    "Alepo",
+    "Damasco",
+    "Bagdá"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale du Qatar ?",
+   "c": [
+    "Manama",
+    "Mascate",
+    "Koweït",
+    "Doha"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of Qatar?",
+   "c": [
+    "Manama",
+    "Muscat",
+    "Kuwait City",
+    "Doha"
+   ]
+  },
+  "ar": {
+   "q": "ما هي عاصمة قطر؟",
+   "c": [
+    "المنامة",
+    "مسقط",
+    "مدينة الكويت",
+    "الدوحة"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Catar?",
+   "c": [
+    "Manama",
+    "Mascate",
+    "Ciudad de Kuwait",
+    "Doha"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital do Catar?",
+   "c": [
+    "Manama",
+    "Mascate",
+    "Cidade do Kuwait",
+    "Doha"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale du Danemark ?",
+   "c": [
+    "Copenhague",
+    "Oslo",
+    "Stockholm",
+    "Helsinki"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of Denmark?",
+   "c": [
+    "Copenhagen",
+    "Oslo",
+    "Stockholm",
+    "Helsinki"
+   ]
+  },
+  "ar": {
+   "q": "ما هي عاصمة الدنمارك؟",
+   "c": [
+    "كوبنهاغن",
+    "أوسلو",
+    "ستوكهولم",
+    "هلسنكي"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Dinamarca?",
+   "c": [
+    "Copenhague",
+    "Oslo",
+    "Estocolmo",
+    "Helsinki"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital da Dinamarca?",
+   "c": [
+    "Copenhague",
+    "Oslo",
+    "Estocolmo",
+    "Helsinque"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale du Mali ?",
+   "c": [
+    "Dakar",
+    "Bamako",
+    "Niamey",
+    "Ouagadougou"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of Mali?",
+   "c": [
+    "Dakar",
+    "Bamako",
+    "Niamey",
+    "Ouagadougou"
+   ]
+  },
+  "ar": {
+   "q": "ما هي عاصمة مالي؟",
+   "c": [
+    "داكار",
+    "باماكو",
+    "نيامي",
+    "واغادوغو"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Malí?",
+   "c": [
+    "Dakar",
+    "Bamako",
+    "Niamey",
+    "Uagadugú"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital do Mali?",
+   "c": [
+    "Dacar",
+    "Bamaco",
+    "Niamei",
+    "Uagadugu"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale de la province canadienne du Québec ?",
+   "c": [
+    "Montréal",
+    "Ottawa",
+    "Ville de Québec",
+    "Toronto"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of the Canadian province of Quebec?",
+   "c": [
+    "Montreal",
+    "Ottawa",
+    "Quebec City",
+    "Toronto"
+   ]
+  },
+  "ar": {
+   "q": "ما هي عاصمة مقاطعة كيبك الكندية؟",
+   "c": [
+    "مونتريال",
+    "أوتاوا",
+    "مدينة كيبك",
+    "تورونتو"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de la provincia canadiense de Quebec?",
+   "c": [
+    "Montreal",
+    "Ottawa",
+    "Ciudad de Quebec",
+    "Toronto"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital da província canadense de Quebec?",
+   "c": [
+    "Montreal",
+    "Ottawa",
+    "Cidade de Quebec",
+    "Toronto"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel est le pays le plus peuplé d'Afrique ?",
+   "c": [
+    "Éthiopie",
+    "Égypte",
+    "Afrique du Sud",
+    "Nigeria"
+   ]
+  },
+  "en": {
+   "q": "What is the most populous country in Africa?",
+   "c": [
+    "Ethiopia",
+    "Egypt",
+    "South Africa",
+    "Nigeria"
+   ]
+  },
+  "ar": {
+   "q": "ما هي أكثر دولة سكانًا في أفريقيا؟",
+   "c": [
+    "إثيوبيا",
+    "مصر",
+    "جنوب أفريقيا",
+    "نيجيريا"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el país más poblado de África?",
+   "c": [
+    "Etiopía",
+    "Egipto",
+    "Sudáfrica",
+    "Nigeria"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o país mais populoso da África?",
+   "c": [
+    "Etiópia",
+    "Egito",
+    "África do Sul",
+    "Nigéria"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve le Grand Canyon ?",
+   "c": [
+    "Les États-Unis",
+    "Le Canada",
+    "Le Mexique",
+    "Le Brésil"
+   ]
+  },
+  "en": {
+   "q": "In which country is the Grand Canyon?",
+   "c": [
+    "The United States",
+    "Canada",
+    "Mexico",
+    "Brazil"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد يقع الوادي العظيم (غراند كانيون)؟",
+   "c": [
+    "الولايات المتحدة",
+    "كندا",
+    "المكسيك",
+    "البرازيل"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está el Gran Cañón?",
+   "c": [
+    "Estados Unidos",
+    "Canadá",
+    "México",
+    "Brasil"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica o Grand Canyon?",
+   "c": [
+    "Estados Unidos",
+    "Canadá",
+    "México",
+    "Brasil"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve la tour de Pise ?",
+   "c": [
+    "L'Espagne",
+    "L'Italie",
+    "La France",
+    "La Grèce"
+   ]
+  },
+  "en": {
+   "q": "In which country is the Leaning Tower of Pisa?",
+   "c": [
+    "Spain",
+    "Italy",
+    "France",
+    "Greece"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد يقع برج بيزا المائل؟",
+   "c": [
+    "إسبانيا",
+    "إيطاليا",
+    "فرنسا",
+    "اليونان"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está la torre de Pisa?",
+   "c": [
+    "España",
+    "Italia",
+    "Francia",
+    "Grecia"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica a Torre de Pisa?",
+   "c": [
+    "Espanha",
+    "Itália",
+    "França",
+    "Grécia"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel détroit sépare l'Espagne du Maroc ?",
+   "c": [
+    "Le Bosphore",
+    "Le détroit d'Ormuz",
+    "Le détroit de Gibraltar",
+    "Le détroit de Magellan"
+   ]
+  },
+  "en": {
+   "q": "Which strait separates Spain from Morocco?",
+   "c": [
+    "The Bosphorus",
+    "The Strait of Hormuz",
+    "The Strait of Gibraltar",
+    "The Strait of Magellan"
+   ]
+  },
+  "ar": {
+   "q": "أي مضيق يفصل إسبانيا عن المغرب؟",
+   "c": [
+    "البوسفور",
+    "مضيق هرمز",
+    "مضيق جبل طارق",
+    "مضيق ماجلان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué estrecho separa España de Marruecos?",
+   "c": [
+    "El Bósforo",
+    "El estrecho de Ormuz",
+    "El estrecho de Gibraltar",
+    "El estrecho de Magallanes"
+   ]
+  },
+  "pt": {
+   "q": "Que estreito separa a Espanha de Marrocos?",
+   "c": [
+    "O Bósforo",
+    "O Estreito de Ormuz",
+    "O Estreito de Gibraltar",
+    "O Estreito de Magalhães"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
  }
 ]

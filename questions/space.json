@@ -7098,5 +7098,1205 @@
   "pt": {
    "q": "Em que ano o ser humano caminhou pela primeira vez na Lua?"
   }
+ },
+ {
+  "fr": {
+   "q": "Quelle est la forme de la Terre ?",
+   "c": [
+    "Presque ronde",
+    "Plate",
+    "Carrée",
+    "Triangulaire"
+   ]
+  },
+  "en": {
+   "q": "What shape is the Earth?",
+   "c": [
+    "Almost round",
+    "Flat",
+    "Square",
+    "Triangular"
+   ]
+  },
+  "ar": {
+   "q": "ما شكل الأرض؟",
+   "c": [
+    "شبه كروية",
+    "مسطحة",
+    "مربعة",
+    "مثلثة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué forma tiene la Tierra?",
+   "c": [
+    "Casi redonda",
+    "Plana",
+    "Cuadrada",
+    "Triangular"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a forma da Terra?",
+   "c": [
+    "Quase redonda",
+    "Plana",
+    "Quadrada",
+    "Triangular"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Combien de lunes la Terre a-t-elle ?",
+   "c": [
+    "0",
+    "1",
+    "2",
+    "4"
+   ]
+  },
+  "en": {
+   "q": "How many moons does the Earth have?",
+   "c": [
+    "0",
+    "1",
+    "2",
+    "4"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد أقمار الأرض الطبيعية؟",
+   "c": [
+    "0",
+    "1",
+    "2",
+    "4"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántas lunas tiene la Tierra?",
+   "c": [
+    "0",
+    "1",
+    "2",
+    "4"
+   ]
+  },
+  "pt": {
+   "q": "Quantas luas a Terra tem?",
+   "c": [
+    "0",
+    "1",
+    "2",
+    "4"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on un groupe d'étoiles qui forme un dessin dans le ciel ?",
+   "c": [
+    "Une comète",
+    "Un cratère",
+    "Une constellation",
+    "Une éclipse"
+   ]
+  },
+  "en": {
+   "q": "What do we call a group of stars forming a pattern in the sky?",
+   "c": [
+    "A comet",
+    "A crater",
+    "A constellation",
+    "An eclipse"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي مجموعة النجوم التي ترسم شكلاً في السماء؟",
+   "c": [
+    "مذنّب",
+    "فوهة",
+    "كوكبة",
+    "كسوف"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama un grupo de estrellas que forma un dibujo en el cielo?",
+   "c": [
+    "Un cometa",
+    "Un cráter",
+    "Una constelación",
+    "Un eclipse"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama um grupo de estrelas que forma um desenho no céu?",
+   "c": [
+    "Um cometa",
+    "Uma cratera",
+    "Uma constelação",
+    "Um eclipse"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "De quelle couleur est l'espace entre les étoiles ?",
+   "c": [
+    "Vert",
+    "Rose",
+    "Jaune",
+    "Noir"
+   ]
+  },
+  "en": {
+   "q": "What color is space between the stars?",
+   "c": [
+    "Green",
+    "Pink",
+    "Yellow",
+    "Black"
+   ]
+  },
+  "ar": {
+   "q": "ما لون الفضاء بين النجوم؟",
+   "c": [
+    "أخضر",
+    "وردي",
+    "أصفر",
+    "أسود"
+   ]
+  },
+  "es": {
+   "q": "¿De qué color es el espacio entre las estrellas?",
+   "c": [
+    "Verde",
+    "Rosa",
+    "Amarillo",
+    "Negro"
+   ]
+  },
+  "pt": {
+   "q": "De que cor é o espaço entre as estrelas?",
+   "c": [
+    "Verde",
+    "Rosa",
+    "Amarelo",
+    "Preto"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Que porte un astronaute pour sortir dans l'espace ?",
+   "c": [
+    "Une combinaison spatiale",
+    "Un maillot de bain",
+    "Un manteau d'hiver",
+    "Un pyjama"
+   ]
+  },
+  "en": {
+   "q": "What does an astronaut wear to go outside in space?",
+   "c": [
+    "A spacesuit",
+    "A swimsuit",
+    "A winter coat",
+    "Pajamas"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يرتدي رائد الفضاء عند الخروج إلى الفضاء؟",
+   "c": [
+    "بدلة فضاء",
+    "ملابس سباحة",
+    "معطفاً شتوياً",
+    "بيجامة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué lleva un astronauta para salir al espacio?",
+   "c": [
+    "Un traje espacial",
+    "Un bañador",
+    "Un abrigo de invierno",
+    "Un pijama"
+   ]
+  },
+  "pt": {
+   "q": "O que um astronauta veste para sair ao espaço?",
+   "c": [
+    "Um traje espacial",
+    "Um maiô",
+    "Um casaco de inverno",
+    "Um pijama"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on un objet envoyé en orbite pour observer la Terre ou relayer la télévision ?",
+   "c": [
+    "Une comète",
+    "Un satellite",
+    "Une planète",
+    "Un volcan"
+   ]
+  },
+  "en": {
+   "q": "What do we call an object sent into orbit to observe Earth or relay TV signals?",
+   "c": [
+    "A comet",
+    "A satellite",
+    "A planet",
+    "A volcano"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي الجسم الذي يُرسل إلى المدار لمراقبة الأرض أو نقل البث التلفزيوني؟",
+   "c": [
+    "مذنّب",
+    "قمر صناعي",
+    "كوكب",
+    "بركان"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama un objeto enviado a órbita para observar la Tierra o retransmitir la televisión?",
+   "c": [
+    "Un cometa",
+    "Un satélite",
+    "Un planeta",
+    "Un volcán"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama um objeto enviado à órbita para observar a Terra ou retransmitir a televisão?",
+   "c": [
+    "Um cometa",
+    "Um satélite",
+    "Um planeta",
+    "Um vulcão"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Que sont réellement les étoiles filantes ?",
+   "c": [
+    "Des étoiles qui tombent",
+    "Des avions",
+    "Des satellites",
+    "De petits cailloux qui brûlent dans l'atmosphère"
+   ]
+  },
+  "en": {
+   "q": "What are shooting stars really?",
+   "c": [
+    "Falling stars",
+    "Airplanes",
+    "Satellites",
+    "Small rocks burning up in the atmosphere"
+   ]
+  },
+  "ar": {
+   "q": "ما هي النجوم الساقطة (الشهب) في الحقيقة؟",
+   "c": [
+    "نجوم تسقط",
+    "طائرات",
+    "أقمار صناعية",
+    "صخور صغيرة تحترق في الغلاف الجوي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué son realmente las estrellas fugaces?",
+   "c": [
+    "Estrellas que caen",
+    "Aviones",
+    "Satélites",
+    "Pequeñas rocas que se queman en la atmósfera"
+   ]
+  },
+  "pt": {
+   "q": "O que são realmente as estrelas cadentes?",
+   "c": [
+    "Estrelas que caem",
+    "Aviões",
+    "Satélites",
+    "Pequenas rochas que queimam na atmosfera"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on l'état où les astronautes flottent dans la station spatiale ?",
+   "c": [
+    "L'apesanteur",
+    "La pression",
+    "Le vent",
+    "La marée"
+   ]
+  },
+  "en": {
+   "q": "What is the state called where astronauts float inside the space station?",
+   "c": [
+    "Weightlessness",
+    "Pressure",
+    "Wind",
+    "Tide"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي الحالة التي يطفو فيها روّاد الفضاء داخل المحطة الفضائية؟",
+   "c": [
+    "انعدام الوزن",
+    "الضغط",
+    "الرياح",
+    "المدّ"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama el estado en el que los astronautas flotan en la estación espacial?",
+   "c": [
+    "Ingravidez",
+    "Presión",
+    "Viento",
+    "Marea"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama o estado em que os astronautas flutuam na estação espacial?",
+   "c": [
+    "Ausência de peso",
+    "Pressão",
+    "Vento",
+    "Maré"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle est l'agence spatiale de l'Europe ?",
+   "c": [
+    "NASA",
+    "JAXA",
+    "ESA",
+    "ISRO"
+   ]
+  },
+  "en": {
+   "q": "Which is the space agency of Europe?",
+   "c": [
+    "NASA",
+    "JAXA",
+    "ESA",
+    "ISRO"
+   ]
+  },
+  "ar": {
+   "q": "ما هي وكالة الفضاء الأوروبية؟",
+   "c": [
+    "ناسا",
+    "جاكسا",
+    "إيسا (ESA)",
+    "إيسرو"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la agencia espacial de Europa?",
+   "c": [
+    "NASA",
+    "JAXA",
+    "ESA",
+    "ISRO"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a agência espacial da Europa?",
+   "c": [
+    "NASA",
+    "JAXA",
+    "ESA",
+    "ISRO"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelle le programme américain qui a envoyé des hommes sur la Lune ?",
+   "c": [
+    "Gemini",
+    "Apollo",
+    "Vostok",
+    "Voyager"
+   ]
+  },
+  "en": {
+   "q": "What was the American program that sent men to the Moon called?",
+   "c": [
+    "Gemini",
+    "Apollo",
+    "Vostok",
+    "Voyager"
+   ]
+  },
+  "ar": {
+   "q": "ما اسم البرنامج الأمريكي الذي أرسل رجالاً إلى القمر؟",
+   "c": [
+    "جيميني",
+    "أبولو",
+    "فوستوك",
+    "فوياجر"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llamó el programa estadounidense que llevó hombres a la Luna?",
+   "c": [
+    "Gemini",
+    "Apolo",
+    "Vostok",
+    "Voyager"
+   ]
+  },
+  "pt": {
+   "q": "Como se chamou o programa americano que levou homens à Lua?",
+   "c": [
+    "Gemini",
+    "Apollo",
+    "Vostok",
+    "Voyager"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on l'avion spatial réutilisable de la NASA ?",
+   "c": [
+    "Une navette spatiale",
+    "Une sonde",
+    "Un satellite",
+    "Une montgolfière"
+   ]
+  },
+  "en": {
+   "q": "What was NASA's reusable spaceplane called?",
+   "c": [
+    "A space shuttle",
+    "A probe",
+    "A satellite",
+    "A hot-air balloon"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي مركبة الفضاء القابلة لإعادة الاستخدام التابعة لناسا؟",
+   "c": [
+    "مكوك فضائي",
+    "مسبار",
+    "قمر صناعي",
+    "منطاد"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llamaba el avión espacial reutilizable de la NASA?",
+   "c": [
+    "Un transbordador espacial",
+    "Una sonda",
+    "Un satélite",
+    "Un globo aerostático"
+   ]
+  },
+  "pt": {
+   "q": "Como se chamava a nave espacial reutilizável da NASA?",
+   "c": [
+    "Um ônibus espacial",
+    "Uma sonda",
+    "Um satélite",
+    "Um balão de ar quente"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Comment appelait-on les astronautes soviétiques ?",
+   "c": [
+    "Taïkonautes",
+    "Cosmonautes",
+    "Aquanautes",
+    "Aéronautes"
+   ]
+  },
+  "en": {
+   "q": "What were Soviet astronauts called?",
+   "c": [
+    "Taikonauts",
+    "Cosmonauts",
+    "Aquanauts",
+    "Aeronauts"
+   ]
+  },
+  "ar": {
+   "q": "ماذا كان يُسمّى رواد الفضاء السوفييت؟",
+   "c": [
+    "تايكونوت",
+    "كوزمونوت",
+    "أكوانوت",
+    "إيرونوت"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llamaba a los astronautas soviéticos?",
+   "c": [
+    "Taikonautas",
+    "Cosmonautas",
+    "Acuanautas",
+    "Aeronautas"
+   ]
+  },
+  "pt": {
+   "q": "Como eram chamados os astronautas soviéticos?",
+   "c": [
+    "Taikonautas",
+    "Cosmonautas",
+    "Aquanautas",
+    "Aeronautas"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Entre quelles planètes se trouve la ceinture d'astéroïdes ?",
+   "c": [
+    "Terre et Mars",
+    "Vénus et Terre",
+    "Mars et Jupiter",
+    "Saturne et Uranus"
+   ]
+  },
+  "en": {
+   "q": "Between which planets is the asteroid belt located?",
+   "c": [
+    "Earth and Mars",
+    "Venus and Earth",
+    "Mars and Jupiter",
+    "Saturn and Uranus"
+   ]
+  },
+  "ar": {
+   "q": "بين أي كوكبين تقع حزام الكويكبات؟",
+   "c": [
+    "الأرض والمريخ",
+    "الزهرة والأرض",
+    "المريخ والمشتري",
+    "زحل وأورانوس"
+   ]
+  },
+  "es": {
+   "q": "¿Entre qué planetas se encuentra el cinturón de asteroides?",
+   "c": [
+    "Tierra y Marte",
+    "Venus y Tierra",
+    "Marte y Júpiter",
+    "Saturno y Urano"
+   ]
+  },
+  "pt": {
+   "q": "Entre quais planetas fica o cinturão de asteroides?",
+   "c": [
+    "Terra e Marte",
+    "Vênus e Terra",
+    "Marte e Júpiter",
+    "Saturno e Urano"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle planète est la plus grande après Jupiter ?",
+   "c": [
+    "Saturne",
+    "Neptune",
+    "Uranus",
+    "Mars"
+   ]
+  },
+  "en": {
+   "q": "Which planet is the largest after Jupiter?",
+   "c": [
+    "Saturn",
+    "Neptune",
+    "Uranus",
+    "Mars"
+   ]
+  },
+  "ar": {
+   "q": "أي كوكب هو الأكبر بعد المشتري؟",
+   "c": [
+    "زحل",
+    "نبتون",
+    "أورانوس",
+    "المريخ"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el planeta más grande después de Júpiter?",
+   "c": [
+    "Saturno",
+    "Neptuno",
+    "Urano",
+    "Marte"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior planeta depois de Júpiter?",
+   "c": [
+    "Saturno",
+    "Netuno",
+    "Urano",
+    "Marte"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel astre provoque surtout les marées sur Terre ?",
+   "c": [
+    "Mars",
+    "La Lune",
+    "Jupiter",
+    "Vénus"
+   ]
+  },
+  "en": {
+   "q": "Which celestial body mainly causes the tides on Earth?",
+   "c": [
+    "Mars",
+    "The Moon",
+    "Jupiter",
+    "Venus"
+   ]
+  },
+  "ar": {
+   "q": "أي جرم سماوي يسبب المدّ والجزر على الأرض بشكل رئيسي؟",
+   "c": [
+    "المريخ",
+    "القمر",
+    "المشتري",
+    "الزهرة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué astro provoca principalmente las mareas en la Tierra?",
+   "c": [
+    "Marte",
+    "La Luna",
+    "Júpiter",
+    "Venus"
+   ]
+  },
+  "pt": {
+   "q": "Qual astro causa principalmente as marés na Terra?",
+   "c": [
+    "Marte",
+    "A Lua",
+    "Júpiter",
+    "Vênus"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle étoile indique à peu près le nord ?",
+   "c": [
+    "Sirius",
+    "Véga",
+    "Bételgeuse",
+    "L'étoile polaire"
+   ]
+  },
+  "en": {
+   "q": "Which star points roughly to the north?",
+   "c": [
+    "Sirius",
+    "Vega",
+    "Betelgeuse",
+    "The North Star"
+   ]
+  },
+  "ar": {
+   "q": "أي نجم يشير تقريباً إلى الشمال؟",
+   "c": [
+    "الشعرى اليمانية",
+    "النسر الواقع",
+    "منكب الجوزاء",
+    "النجم القطبي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué estrella indica aproximadamente el norte?",
+   "c": [
+    "Sirio",
+    "Vega",
+    "Betelgeuse",
+    "La Estrella Polar"
+   ]
+  },
+  "pt": {
+   "q": "Qual estrela indica aproximadamente o norte?",
+   "c": [
+    "Sírius",
+    "Vega",
+    "Betelgeuse",
+    "A Estrela Polar"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Que mesure une année-lumière ?",
+   "c": [
+    "Une distance",
+    "Un temps",
+    "Une vitesse",
+    "Une température"
+   ]
+  },
+  "en": {
+   "q": "What does a light-year measure?",
+   "c": [
+    "A distance",
+    "A time",
+    "A speed",
+    "A temperature"
+   ]
+  },
+  "ar": {
+   "q": "ماذا تقيس السنة الضوئية؟",
+   "c": [
+    "مسافة",
+    "زمناً",
+    "سرعة",
+    "درجة حرارة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué mide un año luz?",
+   "c": [
+    "Una distancia",
+    "Un tiempo",
+    "Una velocidad",
+    "Una temperatura"
+   ]
+  },
+  "pt": {
+   "q": "O que mede um ano-luz?",
+   "c": [
+    "Uma distância",
+    "Um tempo",
+    "Uma velocidade",
+    "Uma temperatura"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Combien de planètes sont plus proches du Soleil que la Terre ?",
+   "c": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  "en": {
+   "q": "How many planets are closer to the Sun than the Earth?",
+   "c": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  "ar": {
+   "q": "كم كوكباً أقرب إلى الشمس من الأرض؟",
+   "c": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos planetas están más cerca del Sol que la Tierra?",
+   "c": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  "pt": {
+   "q": "Quantos planetas estão mais perto do Sol do que a Terra?",
+   "c": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "De quoi sont principalement faits les anneaux de Saturne ?",
+   "c": [
+    "De gaz",
+    "De glace et de roche",
+    "De lave",
+    "D'eau liquide"
+   ]
+  },
+  "en": {
+   "q": "What are Saturn's rings mainly made of?",
+   "c": [
+    "Gas",
+    "Ice and rock",
+    "Lava",
+    "Liquid water"
+   ]
+  },
+  "ar": {
+   "q": "مم تتكوّن حلقات زحل أساساً؟",
+   "c": [
+    "غاز",
+    "جليد وصخور",
+    "حمم",
+    "ماء سائل"
+   ]
+  },
+  "es": {
+   "q": "¿De qué están hechos principalmente los anillos de Saturno?",
+   "c": [
+    "De gas",
+    "De hielo y roca",
+    "De lava",
+    "De agua líquida"
+   ]
+  },
+  "pt": {
+   "q": "Do que são feitos principalmente os anéis de Saturno?",
+   "c": [
+    "De gás",
+    "De gelo e rocha",
+    "De lava",
+    "De água líquida"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Qui accompagnait Neil Armstrong sur la Lune lors d'Apollo 11 ?",
+   "c": [
+    "Michael Collins",
+    "John Glenn",
+    "Alan Shepard",
+    "Buzz Aldrin"
+   ]
+  },
+  "en": {
+   "q": "Who walked on the Moon with Neil Armstrong during Apollo 11?",
+   "c": [
+    "Michael Collins",
+    "John Glenn",
+    "Alan Shepard",
+    "Buzz Aldrin"
+   ]
+  },
+  "ar": {
+   "q": "من رافق نيل أرمسترونغ في السير على القمر خلال أبولو 11؟",
+   "c": [
+    "مايكل كولينز",
+    "جون غلين",
+    "آلان شيبارد",
+    "باز ألدرين"
+   ]
+  },
+  "es": {
+   "q": "¿Quién caminó por la Luna con Neil Armstrong en el Apolo 11?",
+   "c": [
+    "Michael Collins",
+    "John Glenn",
+    "Alan Shepard",
+    "Buzz Aldrin"
+   ]
+  },
+  "pt": {
+   "q": "Quem caminhou na Lua com Neil Armstrong na Apollo 11?",
+   "c": [
+    "Michael Collins",
+    "John Glenn",
+    "Alan Shepard",
+    "Buzz Aldrin"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle est l'étoile la plus brillante du ciel nocturne ?",
+   "c": [
+    "Sirius",
+    "L'étoile polaire",
+    "Bételgeuse",
+    "Antarès"
+   ]
+  },
+  "en": {
+   "q": "Which is the brightest star in the night sky?",
+   "c": [
+    "Sirius",
+    "The North Star",
+    "Betelgeuse",
+    "Antares"
+   ]
+  },
+  "ar": {
+   "q": "ما هو ألمع نجم في سماء الليل؟",
+   "c": [
+    "الشعرى اليمانية",
+    "النجم القطبي",
+    "منكب الجوزاء",
+    "قلب العقرب"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la estrella más brillante del cielo nocturno?",
+   "c": [
+    "Sirio",
+    "La Estrella Polar",
+    "Betelgeuse",
+    "Antares"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a estrela mais brilhante do céu noturno?",
+   "c": [
+    "Sírius",
+    "A Estrela Polar",
+    "Betelgeuse",
+    "Antares"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle mission lunaire est célèbre pour la phrase « Houston, nous avons un problème » ?",
+   "c": [
+    "Apollo 8",
+    "Apollo 11",
+    "Apollo 13",
+    "Apollo 17"
+   ]
+  },
+  "en": {
+   "q": "Which Moon mission is famous for the phrase \"Houston, we have a problem\"?",
+   "c": [
+    "Apollo 8",
+    "Apollo 11",
+    "Apollo 13",
+    "Apollo 17"
+   ]
+  },
+  "ar": {
+   "q": "أي مهمة قمرية اشتهرت بعبارة «هيوستن، لدينا مشكلة»؟",
+   "c": [
+    "أبولو 8",
+    "أبولو 11",
+    "أبولو 13",
+    "أبولو 17"
+   ]
+  },
+  "es": {
+   "q": "¿Qué misión lunar es famosa por la frase «Houston, tenemos un problema»?",
+   "c": [
+    "Apolo 8",
+    "Apolo 11",
+    "Apolo 13",
+    "Apolo 17"
+   ]
+  },
+  "pt": {
+   "q": "Qual missão lunar é famosa pela frase «Houston, temos um problema»?",
+   "c": [
+    "Apollo 8",
+    "Apollo 11",
+    "Apollo 13",
+    "Apollo 17"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Pourquoi Mars est-elle rouge ?",
+   "c": [
+    "Elle est couverte de lave",
+    "Elle reflète le Soleil rouge",
+    "Elle est très chaude",
+    "Son sol contient de la rouille"
+   ]
+  },
+  "en": {
+   "q": "Why is Mars red?",
+   "c": [
+    "It is covered in lava",
+    "It reflects a red Sun",
+    "It is very hot",
+    "Its soil contains rust"
+   ]
+  },
+  "ar": {
+   "q": "لماذا المريخ أحمر؟",
+   "c": [
+    "لأنه مغطى بالحمم",
+    "لأنه يعكس شمساً حمراء",
+    "لأنه شديد الحرارة",
+    "لأن تربته تحتوي على الصدأ"
+   ]
+  },
+  "es": {
+   "q": "¿Por qué Marte es rojo?",
+   "c": [
+    "Está cubierto de lava",
+    "Refleja un Sol rojo",
+    "Es muy caliente",
+    "Su suelo contiene óxido"
+   ]
+  },
+  "pt": {
+   "q": "Por que Marte é vermelho?",
+   "c": [
+    "Está coberto de lava",
+    "Reflete um Sol vermelho",
+    "É muito quente",
+    "Seu solo contém ferrugem"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Qu'est-ce qu'une exoplanète ?",
+   "c": [
+    "Une étoile très brillante",
+    "Une planète hors du système solaire",
+    "Une lune de Jupiter",
+    "Une comète géante"
+   ]
+  },
+  "en": {
+   "q": "What is an exoplanet?",
+   "c": [
+    "A very bright star",
+    "A planet outside our solar system",
+    "A moon of Jupiter",
+    "A giant comet"
+   ]
+  },
+  "ar": {
+   "q": "ما هو الكوكب الخارجي؟",
+   "c": [
+    "نجم شديد السطوع",
+    "كوكب خارج المجموعة الشمسية",
+    "قمر للمشتري",
+    "مذنّب عملاق"
+   ]
+  },
+  "es": {
+   "q": "¿Qué es un exoplaneta?",
+   "c": [
+    "Una estrella muy brillante",
+    "Un planeta fuera del sistema solar",
+    "Una luna de Júpiter",
+    "Un cometa gigante"
+   ]
+  },
+  "pt": {
+   "q": "O que é um exoplaneta?",
+   "c": [
+    "Uma estrela muito brilhante",
+    "Um planeta fora do sistema solar",
+    "Uma lua de Júpiter",
+    "Um cometa gigante"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
  }
 ]

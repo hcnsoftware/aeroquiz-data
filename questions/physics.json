@@ -6751,5 +6751,1205 @@
    "q": "Qual é a velocidade da luz no vácuo (em milhares de km/s)?",
    "u": "000 km/s"
   }
+ },
+ {
+  "fr": {
+   "q": "Quel objet reflète notre image ?",
+   "c": [
+    "Un miroir",
+    "Un coussin",
+    "Un tapis",
+    "Un livre"
+   ]
+  },
+  "en": {
+   "q": "Which object reflects our image?",
+   "c": [
+    "A mirror",
+    "A cushion",
+    "A rug",
+    "A book"
+   ]
+  },
+  "ar": {
+   "q": "أي شيء يعكس صورتنا؟",
+   "c": [
+    "مرآة",
+    "وسادة",
+    "سجادة",
+    "كتاب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué objeto refleja nuestra imagen?",
+   "c": [
+    "Un espejo",
+    "Un cojín",
+    "Una alfombra",
+    "Un libro"
+   ]
+  },
+  "pt": {
+   "q": "Que objeto reflete a nossa imagem?",
+   "c": [
+    "Um espelho",
+    "Uma almofada",
+    "Um tapete",
+    "Um livro"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Que produit une ampoule allumée ?",
+   "c": [
+    "Du vent",
+    "De la lumière",
+    "De la neige",
+    "De l'eau"
+   ]
+  },
+  "en": {
+   "q": "What does a lit light bulb produce?",
+   "c": [
+    "Wind",
+    "Light",
+    "Snow",
+    "Water"
+   ]
+  },
+  "ar": {
+   "q": "ماذا ينتج المصباح المضاء؟",
+   "c": [
+    "الريح",
+    "الضوء",
+    "الثلج",
+    "الماء"
+   ]
+  },
+  "es": {
+   "q": "¿Qué produce una bombilla encendida?",
+   "c": [
+    "Viento",
+    "Luz",
+    "Nieve",
+    "Agua"
+   ]
+  },
+  "pt": {
+   "q": "O que produz uma lâmpada acesa?",
+   "c": [
+    "Vento",
+    "Luz",
+    "Neve",
+    "Água"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Dans quel état se trouve la glace ?",
+   "c": [
+    "Liquide",
+    "Gazeux",
+    "Solide",
+    "Fumée"
+   ]
+  },
+  "en": {
+   "q": "In which state is ice?",
+   "c": [
+    "Liquid",
+    "Gas",
+    "Solid",
+    "Smoke"
+   ]
+  },
+  "ar": {
+   "q": "في أي حالة يكون الجليد؟",
+   "c": [
+    "سائلة",
+    "غازية",
+    "صلبة",
+    "دخان"
+   ]
+  },
+  "es": {
+   "q": "¿En qué estado se encuentra el hielo?",
+   "c": [
+    "Líquido",
+    "Gaseoso",
+    "Sólido",
+    "Humo"
+   ]
+  },
+  "pt": {
+   "q": "Em que estado está o gelo?",
+   "c": [
+    "Líquido",
+    "Gasoso",
+    "Sólido",
+    "Fumaça"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Qu'entend-on pendant un orage, après l'éclair ?",
+   "c": [
+    "La pluie fine",
+    "Le chant des oiseaux",
+    "Le silence total",
+    "Le tonnerre"
+   ]
+  },
+  "en": {
+   "q": "What do we hear during a storm after the lightning?",
+   "c": [
+    "Light drizzle",
+    "Birdsong",
+    "Total silence",
+    "Thunder"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمع أثناء العاصفة بعد البرق؟",
+   "c": [
+    "المطر الخفيف",
+    "تغريد الطيور",
+    "صمتاً تاماً",
+    "الرعد"
+   ]
+  },
+  "es": {
+   "q": "¿Qué se oye en una tormenta después del relámpago?",
+   "c": [
+    "La llovizna",
+    "El canto de los pájaros",
+    "El silencio total",
+    "El trueno"
+   ]
+  },
+  "pt": {
+   "q": "O que se ouve numa tempestade depois do relâmpago?",
+   "c": [
+    "A garoa",
+    "O canto dos pássaros",
+    "O silêncio total",
+    "O trovão"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Qu'est-ce qui fait avancer un voilier ?",
+   "c": [
+    "La lune",
+    "Le vent",
+    "Les nuages",
+    "Le sable"
+   ]
+  },
+  "en": {
+   "q": "What makes a sailboat move?",
+   "c": [
+    "The moon",
+    "The wind",
+    "Clouds",
+    "Sand"
+   ]
+  },
+  "ar": {
+   "q": "ما الذي يدفع القارب الشراعي إلى الأمام؟",
+   "c": [
+    "القمر",
+    "الريح",
+    "الغيوم",
+    "الرمل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué hace avanzar a un velero?",
+   "c": [
+    "La luna",
+    "El viento",
+    "Las nubes",
+    "La arena"
+   ]
+  },
+  "pt": {
+   "q": "O que faz um veleiro avançar?",
+   "c": [
+    "A lua",
+    "O vento",
+    "As nuvens",
+    "A areia"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Que voit-on dans le ciel quand il pleut et qu'il y a du soleil ?",
+   "c": [
+    "Une aurore polaire",
+    "Une étoile filante",
+    "Un arc-en-ciel",
+    "Une éclipse"
+   ]
+  },
+  "en": {
+   "q": "What do we see in the sky when it rains and the sun shines?",
+   "c": [
+    "A polar aurora",
+    "A shooting star",
+    "A rainbow",
+    "An eclipse"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نرى في السماء عندما تمطر والشمس مشرقة؟",
+   "c": [
+    "شفقاً قطبياً",
+    "شهاباً",
+    "قوس قزح",
+    "كسوفاً"
+   ]
+  },
+  "es": {
+   "q": "¿Qué vemos en el cielo cuando llueve y hay sol?",
+   "c": [
+    "Una aurora polar",
+    "Una estrella fugaz",
+    "Un arcoíris",
+    "Un eclipse"
+   ]
+  },
+  "pt": {
+   "q": "O que vemos no céu quando chove e há sol?",
+   "c": [
+    "Uma aurora polar",
+    "Uma estrela cadente",
+    "Um arco-íris",
+    "Um eclipse"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Le son peut-il voyager dans le vide de l'espace ?",
+   "c": [
+    "Oui",
+    "Seulement la nuit",
+    "Seulement vers la Terre",
+    "Non"
+   ]
+  },
+  "en": {
+   "q": "Can sound travel through the vacuum of space?",
+   "c": [
+    "Yes",
+    "Only at night",
+    "Only toward Earth",
+    "No"
+   ]
+  },
+  "ar": {
+   "q": "هل ينتقل الصوت في فراغ الفضاء؟",
+   "c": [
+    "نعم",
+    "في الليل فقط",
+    "نحو الأرض فقط",
+    "لا"
+   ]
+  },
+  "es": {
+   "q": "¿Puede el sonido viajar por el vacío del espacio?",
+   "c": [
+    "Sí",
+    "Solo de noche",
+    "Solo hacia la Tierra",
+    "No"
+   ]
+  },
+  "pt": {
+   "q": "O som pode viajar no vácuo do espaço?",
+   "c": [
+    "Sim",
+    "Só à noite",
+    "Só em direção à Terra",
+    "Não"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Qu'est-ce qui arrive en premier à nos yeux : l'éclair ou le tonnerre ?",
+   "c": [
+    "L'éclair",
+    "Le tonnerre",
+    "Les deux en même temps",
+    "Cela dépend de la pluie"
+   ]
+  },
+  "en": {
+   "q": "During a storm, which reaches us first: the lightning or the thunder?",
+   "c": [
+    "The lightning",
+    "The thunder",
+    "Both at the same time",
+    "It depends on the rain"
+   ]
+  },
+  "ar": {
+   "q": "أيهما يصلنا أولاً أثناء العاصفة: البرق أم الرعد؟",
+   "c": [
+    "البرق",
+    "الرعد",
+    "كلاهما معاً",
+    "يعتمد على المطر"
+   ]
+  },
+  "es": {
+   "q": "En una tormenta, ¿qué nos llega primero: el relámpago o el trueno?",
+   "c": [
+    "El relámpago",
+    "El trueno",
+    "Los dos a la vez",
+    "Depende de la lluvia"
+   ]
+  },
+  "pt": {
+   "q": "Numa tempestade, o que chega primeiro: o relâmpago ou o trovão?",
+   "c": [
+    "O relâmpago",
+    "O trovão",
+    "Os dois ao mesmo tempo",
+    "Depende da chuva"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel matériau conduit bien l'électricité ?",
+   "c": [
+    "Le plastique",
+    "Le bois",
+    "Le cuivre",
+    "Le caoutchouc"
+   ]
+  },
+  "en": {
+   "q": "Which material conducts electricity well?",
+   "c": [
+    "Plastic",
+    "Wood",
+    "Copper",
+    "Rubber"
+   ]
+  },
+  "ar": {
+   "q": "أي مادة توصل الكهرباء جيداً؟",
+   "c": [
+    "البلاستيك",
+    "الخشب",
+    "النحاس",
+    "المطاط"
+   ]
+  },
+  "es": {
+   "q": "¿Qué material conduce bien la electricidad?",
+   "c": [
+    "El plástico",
+    "La madera",
+    "El cobre",
+    "El caucho"
+   ]
+  },
+  "pt": {
+   "q": "Que material conduz bem a eletricidade?",
+   "c": [
+    "O plástico",
+    "A madeira",
+    "O cobre",
+    "A borracha"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel état de la matière garde sa forme sans récipient ?",
+   "c": [
+    "Le liquide",
+    "Le solide",
+    "Le gaz",
+    "Aucun"
+   ]
+  },
+  "en": {
+   "q": "Which state of matter keeps its shape without a container?",
+   "c": [
+    "Liquid",
+    "Solid",
+    "Gas",
+    "None"
+   ]
+  },
+  "ar": {
+   "q": "أي حالة من المادة تحافظ على شكلها دون وعاء؟",
+   "c": [
+    "السائل",
+    "الصلب",
+    "الغاز",
+    "لا شيء"
+   ]
+  },
+  "es": {
+   "q": "¿Qué estado de la materia conserva su forma sin recipiente?",
+   "c": [
+    "El líquido",
+    "El sólido",
+    "El gas",
+    "Ninguno"
+   ]
+  },
+  "pt": {
+   "q": "Que estado da matéria mantém a forma sem recipiente?",
+   "c": [
+    "O líquido",
+    "O sólido",
+    "O gás",
+    "Nenhum"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle lumière obtient-on en mélangeant toutes les couleurs de l'arc-en-ciel ?",
+   "c": [
+    "La lumière blanche",
+    "La lumière noire",
+    "La lumière rouge",
+    "La lumière verte"
+   ]
+  },
+  "en": {
+   "q": "What light do we get by mixing all the colors of the rainbow?",
+   "c": [
+    "White light",
+    "Black light",
+    "Red light",
+    "Green light"
+   ]
+  },
+  "ar": {
+   "q": "أي ضوء نحصل عليه بمزج كل ألوان قوس قزح؟",
+   "c": [
+    "الضوء الأبيض",
+    "الضوء الأسود",
+    "الضوء الأحمر",
+    "الضوء الأخضر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué luz se obtiene al mezclar todos los colores del arcoíris?",
+   "c": [
+    "La luz blanca",
+    "La luz negra",
+    "La luz roja",
+    "La luz verde"
+   ]
+  },
+  "pt": {
+   "q": "Que luz se obtém misturando todas as cores do arco-íris?",
+   "c": [
+    "A luz branca",
+    "A luz preta",
+    "A luz vermelha",
+    "A luz verde"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Qu'est-ce qui ralentit un vélo quand on arrête de pédaler ?",
+   "c": [
+    "La lumière",
+    "Le magnétisme",
+    "L'écho",
+    "Les frottements"
+   ]
+  },
+  "en": {
+   "q": "What slows a bike down when you stop pedaling?",
+   "c": [
+    "Light",
+    "Magnetism",
+    "Echo",
+    "Friction"
+   ]
+  },
+  "ar": {
+   "q": "ما الذي يبطئ الدراجة عندما نتوقف عن الدواس؟",
+   "c": [
+    "الضوء",
+    "المغناطيسية",
+    "الصدى",
+    "الاحتكاك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué frena una bicicleta cuando dejamos de pedalear?",
+   "c": [
+    "La luz",
+    "El magnetismo",
+    "El eco",
+    "El rozamiento"
+   ]
+  },
+  "pt": {
+   "q": "O que desacelera uma bicicleta quando paramos de pedalar?",
+   "c": [
+    "A luz",
+    "O magnetismo",
+    "O eco",
+    "O atrito"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Dans quel état de la matière les particules bougent-elles le plus librement ?",
+   "c": [
+    "Solide",
+    "Gaz",
+    "Liquide",
+    "Glace"
+   ]
+  },
+  "en": {
+   "q": "In which state of matter do particles move most freely?",
+   "c": [
+    "Solid",
+    "Gas",
+    "Liquid",
+    "Ice"
+   ]
+  },
+  "ar": {
+   "q": "في أي حالة من المادة تتحرك الجسيمات بحرية أكبر؟",
+   "c": [
+    "الصلب",
+    "الغاز",
+    "السائل",
+    "الجليد"
+   ]
+  },
+  "es": {
+   "q": "¿En qué estado de la materia se mueven más libremente las partículas?",
+   "c": [
+    "Sólido",
+    "Gas",
+    "Líquido",
+    "Hielo"
+   ]
+  },
+  "pt": {
+   "q": "Em que estado da matéria as partículas se movem mais livremente?",
+   "c": [
+    "Sólido",
+    "Gás",
+    "Líquido",
+    "Gelo"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel appareil transforme l'énergie électrique en mouvement ?",
+   "c": [
+    "Un moteur électrique",
+    "Une pile",
+    "Un thermomètre",
+    "Une loupe"
+   ]
+  },
+  "en": {
+   "q": "Which device turns electrical energy into motion?",
+   "c": [
+    "An electric motor",
+    "A battery",
+    "A thermometer",
+    "A magnifying glass"
+   ]
+  },
+  "ar": {
+   "q": "أي جهاز يحول الطاقة الكهربائية إلى حركة؟",
+   "c": [
+    "محرك كهربائي",
+    "بطارية",
+    "مقياس حرارة",
+    "عدسة مكبرة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué aparato transforma la energía eléctrica en movimiento?",
+   "c": [
+    "Un motor eléctrico",
+    "Una pila",
+    "Un termómetro",
+    "Una lupa"
+   ]
+  },
+  "pt": {
+   "q": "Que aparelho transforma energia elétrica em movimento?",
+   "c": [
+    "Um motor elétrico",
+    "Uma pilha",
+    "Um termômetro",
+    "Uma lupa"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Que fait une loupe de la lumière du Soleil ?",
+   "c": [
+    "Elle la rend plus froide",
+    "Elle l'éteint",
+    "Elle la concentre",
+    "Elle la transforme en son"
+   ]
+  },
+  "en": {
+   "q": "What does a magnifying glass do to sunlight?",
+   "c": [
+    "Makes it colder",
+    "Switches it off",
+    "Focuses it",
+    "Turns it into sound"
+   ]
+  },
+  "ar": {
+   "q": "ماذا تفعل العدسة المكبرة بضوء الشمس؟",
+   "c": [
+    "تجعله أبرد",
+    "تطفئه",
+    "تركّزه",
+    "تحوله إلى صوت"
+   ]
+  },
+  "es": {
+   "q": "¿Qué hace una lupa con la luz del Sol?",
+   "c": [
+    "La enfría",
+    "La apaga",
+    "La concentra",
+    "La convierte en sonido"
+   ]
+  },
+  "pt": {
+   "q": "O que faz uma lupa com a luz do Sol?",
+   "c": [
+    "Torna-a mais fria",
+    "Apaga-a",
+    "Concentra-a",
+    "Transforma-a em som"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle énergie est stockée dans une pile ?",
+   "c": [
+    "Mécanique",
+    "Nucléaire",
+    "Sonore",
+    "Chimique"
+   ]
+  },
+  "en": {
+   "q": "What energy is stored in a battery?",
+   "c": [
+    "Mechanical",
+    "Nuclear",
+    "Sound",
+    "Chemical"
+   ]
+  },
+  "ar": {
+   "q": "ما الطاقة المخزنة في البطارية؟",
+   "c": [
+    "ميكانيكية",
+    "نووية",
+    "صوتية",
+    "كيميائية"
+   ]
+  },
+  "es": {
+   "q": "¿Qué energía se almacena en una pila?",
+   "c": [
+    "Mecánica",
+    "Nuclear",
+    "Sonora",
+    "Química"
+   ]
+  },
+  "pt": {
+   "q": "Que energia está armazenada numa pilha?",
+   "c": [
+    "Mecânica",
+    "Nuclear",
+    "Sonora",
+    "Química"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelle le passage de la vapeur d'eau à l'eau liquide ?",
+   "c": [
+    "La fusion",
+    "La condensation",
+    "La congélation",
+    "L'évaporation"
+   ]
+  },
+  "en": {
+   "q": "What is the change from water vapor to liquid water called?",
+   "c": [
+    "Melting",
+    "Condensation",
+    "Freezing",
+    "Evaporation"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يسمى تحول بخار الماء إلى ماء سائل؟",
+   "c": [
+    "الانصهار",
+    "التكاثف",
+    "التجمد",
+    "التبخر"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama el paso del vapor de agua a agua líquida?",
+   "c": [
+    "Fusión",
+    "Condensación",
+    "Congelación",
+    "Evaporación"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama a passagem do vapor de água para água líquida?",
+   "c": [
+    "Fusão",
+    "Condensação",
+    "Congelamento",
+    "Evaporação"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Dans quel milieu le son va-t-il le plus vite ?",
+   "c": [
+    "L'air",
+    "L'eau",
+    "L'acier",
+    "Le vide"
+   ]
+  },
+  "en": {
+   "q": "In which medium does sound travel fastest?",
+   "c": [
+    "Air",
+    "Water",
+    "Steel",
+    "Vacuum"
+   ]
+  },
+  "ar": {
+   "q": "في أي وسط ينتقل الصوت بأسرع ما يمكن؟",
+   "c": [
+    "الهواء",
+    "الماء",
+    "الفولاذ",
+    "الفراغ"
+   ]
+  },
+  "es": {
+   "q": "¿En qué medio viaja más rápido el sonido?",
+   "c": [
+    "El aire",
+    "El agua",
+    "El acero",
+    "El vacío"
+   ]
+  },
+  "pt": {
+   "q": "Em que meio o som viaja mais rápido?",
+   "c": [
+    "O ar",
+    "A água",
+    "O aço",
+    "O vácuo"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Un astronaute pèse-t-il plus ou moins sur la Lune que sur la Terre ?",
+   "c": [
+    "Moins",
+    "Plus",
+    "Pareil",
+    "Il ne pèse rien"
+   ]
+  },
+  "en": {
+   "q": "Does an astronaut weigh more or less on the Moon than on Earth?",
+   "c": [
+    "Less",
+    "More",
+    "The same",
+    "Nothing"
+   ]
+  },
+  "ar": {
+   "q": "هل يزن رائد الفضاء على القمر أكثر أم أقل مما يزن على الأرض؟",
+   "c": [
+    "أقل",
+    "أكثر",
+    "نفس الوزن",
+    "لا يزن شيئاً"
+   ]
+  },
+  "es": {
+   "q": "¿Un astronauta pesa más o menos en la Luna que en la Tierra?",
+   "c": [
+    "Menos",
+    "Más",
+    "Lo mismo",
+    "No pesa nada"
+   ]
+  },
+  "pt": {
+   "q": "Um astronauta pesa mais ou menos na Lua do que na Terra?",
+   "c": [
+    "Menos",
+    "Mais",
+    "O mesmo",
+    "Não pesa nada"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle est l'unité de la fréquence ?",
+   "c": [
+    "Le mètre",
+    "Le watt",
+    "Le kilogramme",
+    "Le hertz"
+   ]
+  },
+  "en": {
+   "q": "What is the unit of frequency?",
+   "c": [
+    "Meter",
+    "Watt",
+    "Kilogram",
+    "Hertz"
+   ]
+  },
+  "ar": {
+   "q": "ما وحدة قياس التردد؟",
+   "c": [
+    "المتر",
+    "الواط",
+    "الكيلوغرام",
+    "الهرتز"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la unidad de la frecuencia?",
+   "c": [
+    "El metro",
+    "El vatio",
+    "El kilogramo",
+    "El hercio"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a unidade de frequência?",
+   "c": [
+    "O metro",
+    "O watt",
+    "O quilograma",
+    "O hertz"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Qu'est-ce qui produit un son ?",
+   "c": [
+    "Une lumière",
+    "Une vibration",
+    "Un aimant",
+    "Une ombre"
+   ]
+  },
+  "en": {
+   "q": "What produces a sound?",
+   "c": [
+    "A light",
+    "A vibration",
+    "A magnet",
+    "A shadow"
+   ]
+  },
+  "ar": {
+   "q": "ما الذي ينتج الصوت؟",
+   "c": [
+    "الضوء",
+    "الاهتزاز",
+    "المغناطيس",
+    "الظل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué produce un sonido?",
+   "c": [
+    "Una luz",
+    "Una vibración",
+    "Un imán",
+    "Una sombra"
+   ]
+  },
+  "pt": {
+   "q": "O que produz um som?",
+   "c": [
+    "Uma luz",
+    "Uma vibração",
+    "Um ímã",
+    "Uma sombra"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelle la déviation de la lumière quand elle passe de l'air à l'eau ?",
+   "c": [
+    "La réflexion",
+    "La diffusion",
+    "La réfraction",
+    "L'absorption"
+   ]
+  },
+  "en": {
+   "q": "What is the bending of light when it passes from air into water called?",
+   "c": [
+    "Reflection",
+    "Scattering",
+    "Refraction",
+    "Absorption"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يسمى انحراف الضوء عند انتقاله من الهواء إلى الماء؟",
+   "c": [
+    "الانعكاس",
+    "التشتت",
+    "الانكسار",
+    "الامتصاص"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama la desviación de la luz al pasar del aire al agua?",
+   "c": [
+    "Reflexión",
+    "Dispersión",
+    "Refracción",
+    "Absorción"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama o desvio da luz ao passar do ar para a água?",
+   "c": [
+    "Reflexão",
+    "Dispersão",
+    "Refração",
+    "Absorção"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle unité mesure l'intensité d'un son ?",
+   "c": [
+    "Le décibel",
+    "Le volt",
+    "Le newton",
+    "Le degré"
+   ]
+  },
+  "en": {
+   "q": "Which unit measures how loud a sound is?",
+   "c": [
+    "Decibel",
+    "Volt",
+    "Newton",
+    "Degree"
+   ]
+  },
+  "ar": {
+   "q": "ما الوحدة التي تقيس شدة الصوت؟",
+   "c": [
+    "الديسيبل",
+    "الفولت",
+    "النيوتن",
+    "الدرجة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué unidad mide la intensidad de un sonido?",
+   "c": [
+    "El decibelio",
+    "El voltio",
+    "El newton",
+    "El grado"
+   ]
+  },
+  "pt": {
+   "q": "Que unidade mede a intensidade de um som?",
+   "c": [
+    "O decibel",
+    "O volt",
+    "O newton",
+    "O grau"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Dans un circuit en série, que se passe-t-il si une ampoule grille ?",
+   "c": [
+    "Les autres brillent plus fort",
+    "Rien ne change",
+    "Les autres explosent",
+    "Les autres s'éteignent"
+   ]
+  },
+  "en": {
+   "q": "In a series circuit, what happens if one bulb burns out?",
+   "c": [
+    "The others get brighter",
+    "Nothing changes",
+    "The others explode",
+    "The others go out"
+   ]
+  },
+  "ar": {
+   "q": "في دارة على التسلسل، ماذا يحدث إذا احترق أحد المصابيح؟",
+   "c": [
+    "تسطع الأخرى أكثر",
+    "لا شيء يتغير",
+    "تنفجر الأخرى",
+    "تنطفئ الأخرى"
+   ]
+  },
+  "es": {
+   "q": "En un circuito en serie, ¿qué pasa si se funde una bombilla?",
+   "c": [
+    "Las demás brillan más",
+    "No cambia nada",
+    "Las demás explotan",
+    "Las demás se apagan"
+   ]
+  },
+  "pt": {
+   "q": "Num circuito em série, o que acontece se uma lâmpada queimar?",
+   "c": [
+    "As outras brilham mais",
+    "Nada muda",
+    "As outras explodem",
+    "As outras apagam"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
  }
 ]

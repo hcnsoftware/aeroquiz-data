@@ -5735,5 +5735,1205 @@
   "pt": {
    "q": "Quantas cordas tem um violão/guitarra padrão?"
   }
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelle le héros du film Disney « Le Roi lion » ?",
+   "c": [
+    "Simba",
+    "Mickey",
+    "Aladdin",
+    "Nemo"
+   ]
+  },
+  "en": {
+   "q": "What is the name of the hero of Disney's \"The Lion King\"?",
+   "c": [
+    "Simba",
+    "Mickey",
+    "Aladdin",
+    "Nemo"
+   ]
+  },
+  "ar": {
+   "q": "ما اسم بطل فيلم ديزني «الأسد الملك»؟",
+   "c": [
+    "سيمبا",
+    "ميكي",
+    "علاء الدين",
+    "نيمو"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama el protagonista de la película Disney «El rey león»?",
+   "c": [
+    "Simba",
+    "Mickey",
+    "Aladdín",
+    "Nemo"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o nome do herói do filme da Disney «O Rei Leão»?",
+   "c": [
+    "Simba",
+    "Mickey",
+    "Aladdin",
+    "Nemo"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel personnage de « La Reine des neiges » est un bonhomme de neige ?",
+   "c": [
+    "Elsa",
+    "Sven",
+    "Olaf",
+    "Anna"
+   ]
+  },
+  "en": {
+   "q": "Which character in \"Frozen\" is a snowman?",
+   "c": [
+    "Elsa",
+    "Sven",
+    "Olaf",
+    "Anna"
+   ]
+  },
+  "ar": {
+   "q": "أي شخصية في فيلم «ثلج وجليد» هي رجل ثلج؟",
+   "c": [
+    "إلسا",
+    "سفين",
+    "أولاف",
+    "آنا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué personaje de «Frozen» es un muñeco de nieve?",
+   "c": [
+    "Elsa",
+    "Sven",
+    "Olaf",
+    "Anna"
+   ]
+  },
+  "pt": {
+   "q": "Qual personagem de «Frozen» é um boneco de neve?",
+   "c": [
+    "Elsa",
+    "Sven",
+    "Olaf",
+    "Anna"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel animal est Nemo dans le film d'animation ?",
+   "c": [
+    "Un requin",
+    "Une tortue",
+    "Un dauphin",
+    "Un poisson-clown"
+   ]
+  },
+  "en": {
+   "q": "What kind of animal is Nemo in the animated film?",
+   "c": [
+    "A shark",
+    "A turtle",
+    "A dolphin",
+    "A clownfish"
+   ]
+  },
+  "ar": {
+   "q": "ما نوع الحيوان الذي يمثله نيمو في فيلم الرسوم المتحركة؟",
+   "c": [
+    "قرش",
+    "سلحفاة",
+    "دولفين",
+    "سمكة المهرج"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal es Nemo en la película de animación?",
+   "c": [
+    "Un tiburón",
+    "Una tortuga",
+    "Un delfín",
+    "Un pez payaso"
+   ]
+  },
+  "pt": {
+   "q": "Que animal é o Nemo no filme de animação?",
+   "c": [
+    "Um tubarão",
+    "Uma tartaruga",
+    "Um golfinho",
+    "Um peixe-palhaço"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle princesse Disney danse avec une Bête dans un grand château ?",
+   "c": [
+    "Belle",
+    "Cendrillon",
+    "Ariel",
+    "Raiponce"
+   ]
+  },
+  "en": {
+   "q": "Which Disney princess dances with a Beast in a big castle?",
+   "c": [
+    "Belle",
+    "Cinderella",
+    "Ariel",
+    "Rapunzel"
+   ]
+  },
+  "ar": {
+   "q": "أي أميرة من ديزني ترقص مع وحش في قلعة كبيرة؟",
+   "c": [
+    "بيل",
+    "سندريلا",
+    "آريل",
+    "رابونزل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué princesa de Disney baila con una Bestia en un gran castillo?",
+   "c": [
+    "Bella",
+    "Cenicienta",
+    "Ariel",
+    "Rapunzel"
+   ]
+  },
+  "pt": {
+   "q": "Qual princesa da Disney dança com uma Fera em um grande castelo?",
+   "c": [
+    "Bela",
+    "Cinderela",
+    "Ariel",
+    "Rapunzel"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on un film fait de dessins qui bougent ?",
+   "c": [
+    "Un documentaire",
+    "Un western",
+    "Un journal télévisé",
+    "Un dessin animé"
+   ]
+  },
+  "en": {
+   "q": "What do we call a film made of moving drawings?",
+   "c": [
+    "A documentary",
+    "A western",
+    "A news report",
+    "A cartoon"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي الفيلم المصنوع من رسومات تتحرك؟",
+   "c": [
+    "فيلم وثائقي",
+    "فيلم رعاة البقر",
+    "نشرة أخبار",
+    "رسوم متحركة"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama una película hecha de dibujos que se mueven?",
+   "c": [
+    "Un documental",
+    "Un wéstern",
+    "Un noticiero",
+    "Un dibujo animado"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama um filme feito de desenhos que se movem?",
+   "c": [
+    "Um documentário",
+    "Um faroeste",
+    "Um telejornal",
+    "Um desenho animado"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Qui a écrit « Le Petit Prince » ?",
+   "c": [
+    "Victor Hugo",
+    "Antoine de Saint-Exupéry",
+    "Jules Verne",
+    "Molière"
+   ]
+  },
+  "en": {
+   "q": "Who wrote \"The Little Prince\"?",
+   "c": [
+    "Victor Hugo",
+    "Antoine de Saint-Exupéry",
+    "Jules Verne",
+    "Molière"
+   ]
+  },
+  "ar": {
+   "q": "من كتب «الأمير الصغير»؟",
+   "c": [
+    "فيكتور هوغو",
+    "أنطوان دو سانت إكزوبيري",
+    "جول فيرن",
+    "موليير"
+   ]
+  },
+  "es": {
+   "q": "¿Quién escribió «El principito»?",
+   "c": [
+    "Victor Hugo",
+    "Antoine de Saint-Exupéry",
+    "Julio Verne",
+    "Molière"
+   ]
+  },
+  "pt": {
+   "q": "Quem escreveu «O Pequeno Príncipe»?",
+   "c": [
+    "Victor Hugo",
+    "Antoine de Saint-Exupéry",
+    "Júlio Verne",
+    "Molière"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "De quel instrument jouait le jazzman Louis Armstrong ?",
+   "c": [
+    "Du piano",
+    "Du violon",
+    "De la trompette",
+    "De la harpe"
+   ]
+  },
+  "en": {
+   "q": "Which instrument did jazz musician Louis Armstrong play?",
+   "c": [
+    "Piano",
+    "Violin",
+    "Trumpet",
+    "Harp"
+   ]
+  },
+  "ar": {
+   "q": "أي آلة كان يعزف عليها موسيقي الجاز لويس أرمسترونغ؟",
+   "c": [
+    "البيانو",
+    "الكمان",
+    "البوق",
+    "القيثارة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué instrumento tocaba el jazzista Louis Armstrong?",
+   "c": [
+    "Piano",
+    "Violín",
+    "Trompeta",
+    "Arpa"
+   ]
+  },
+  "pt": {
+   "q": "Qual instrumento o músico de jazz Louis Armstrong tocava?",
+   "c": [
+    "Piano",
+    "Violino",
+    "Trompete",
+    "Harpa"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelle le jeune sorcier à lunettes créé par J.K. Rowling ?",
+   "c": [
+    "Harry Potter",
+    "Merlin",
+    "Gandalf",
+    "Peter Pan"
+   ]
+  },
+  "en": {
+   "q": "What is the name of the young bespectacled wizard created by J.K. Rowling?",
+   "c": [
+    "Harry Potter",
+    "Merlin",
+    "Gandalf",
+    "Peter Pan"
+   ]
+  },
+  "ar": {
+   "q": "ما اسم الساحر الشاب ذي النظارات الذي ابتكرته ج. ك. رولينغ؟",
+   "c": [
+    "هاري بوتر",
+    "ميرلين",
+    "غاندالف",
+    "بيتر بان"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama el joven mago con gafas creado por J.K. Rowling?",
+   "c": [
+    "Harry Potter",
+    "Merlín",
+    "Gandalf",
+    "Peter Pan"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama o jovem bruxo de óculos criado por J.K. Rowling?",
+   "c": [
+    "Harry Potter",
+    "Merlin",
+    "Gandalf",
+    "Peter Pan"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Parmi ces couleurs, laquelle est une couleur primaire en peinture ?",
+   "c": [
+    "Vert",
+    "Orange",
+    "Bleu",
+    "Violet"
+   ]
+  },
+  "en": {
+   "q": "Which of these colors is a primary color in painting?",
+   "c": [
+    "Green",
+    "Orange",
+    "Blue",
+    "Purple"
+   ]
+  },
+  "ar": {
+   "q": "أي من هذه الألوان هو لون أساسي في الرسم؟",
+   "c": [
+    "الأخضر",
+    "البرتقالي",
+    "الأزرق",
+    "البنفسجي"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál de estos colores es un color primario en la pintura?",
+   "c": [
+    "Verde",
+    "Naranja",
+    "Azul",
+    "Morado"
+   ]
+  },
+  "pt": {
+   "q": "Qual destas cores é uma cor primária na pintura?",
+   "c": [
+    "Verde",
+    "Laranja",
+    "Azul",
+    "Roxo"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Dans quel film un grand paquebot coule-t-il après avoir heurté un iceberg ?",
+   "c": [
+    "Avatar",
+    "Gladiator",
+    "Matrix",
+    "Titanic"
+   ]
+  },
+  "en": {
+   "q": "In which film does a huge ocean liner sink after hitting an iceberg?",
+   "c": [
+    "Avatar",
+    "Gladiator",
+    "The Matrix",
+    "Titanic"
+   ]
+  },
+  "ar": {
+   "q": "في أي فيلم تغرق سفينة ضخمة بعد اصطدامها بجبل جليدي؟",
+   "c": [
+    "أفاتار",
+    "المصارع",
+    "ماتريكس",
+    "تيتانيك"
+   ]
+  },
+  "es": {
+   "q": "¿En qué película se hunde un gran transatlántico tras chocar con un iceberg?",
+   "c": [
+    "Avatar",
+    "Gladiador",
+    "Matrix",
+    "Titanic"
+   ]
+  },
+  "pt": {
+   "q": "Em qual filme um grande transatlântico afunda depois de bater num iceberg?",
+   "c": [
+    "Avatar",
+    "Gladiador",
+    "Matrix",
+    "Titanic"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel célèbre détective a été créé par Arthur Conan Doyle ?",
+   "c": [
+    "Hercule Poirot",
+    "Sherlock Holmes",
+    "Arsène Lupin",
+    "James Bond"
+   ]
+  },
+  "en": {
+   "q": "Which famous detective was created by Arthur Conan Doyle?",
+   "c": [
+    "Hercule Poirot",
+    "Sherlock Holmes",
+    "Arsène Lupin",
+    "James Bond"
+   ]
+  },
+  "ar": {
+   "q": "أي مخبر شهير ابتكره آرثر كونان دويل؟",
+   "c": [
+    "هيركيول بوارو",
+    "شيرلوك هولمز",
+    "أرسين لوبين",
+    "جيمس بوند"
+   ]
+  },
+  "es": {
+   "q": "¿Qué famoso detective creó Arthur Conan Doyle?",
+   "c": [
+    "Hércules Poirot",
+    "Sherlock Holmes",
+    "Arsène Lupin",
+    "James Bond"
+   ]
+  },
+  "pt": {
+   "q": "Qual famoso detetive foi criado por Arthur Conan Doyle?",
+   "c": [
+    "Hercule Poirot",
+    "Sherlock Holmes",
+    "Arsène Lupin",
+    "James Bond"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel instrument à vent est typique de l'Écosse ?",
+   "c": [
+    "La cornemuse",
+    "L'harmonica",
+    "L'accordéon",
+    "Le banjo"
+   ]
+  },
+  "en": {
+   "q": "Which wind instrument is typical of Scotland?",
+   "c": [
+    "The bagpipes",
+    "The harmonica",
+    "The accordion",
+    "The banjo"
+   ]
+  },
+  "ar": {
+   "q": "أي آلة نفخ تشتهر بها اسكتلندا؟",
+   "c": [
+    "القرْبة",
+    "الهارمونيكا",
+    "الأكورديون",
+    "البانجو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué instrumento de viento es típico de Escocia?",
+   "c": [
+    "La gaita",
+    "La armónica",
+    "El acordeón",
+    "El banjo"
+   ]
+  },
+  "pt": {
+   "q": "Qual instrumento de sopro é típico da Escócia?",
+   "c": [
+    "A gaita de foles",
+    "A gaita de boca",
+    "O acordeão",
+    "O banjo"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Qui a réalisé les films « Les Dents de la mer » et « E.T. » ?",
+   "c": [
+    "George Lucas",
+    "Steven Spielberg",
+    "Tim Burton",
+    "Ridley Scott"
+   ]
+  },
+  "en": {
+   "q": "Who directed the films \"Jaws\" and \"E.T.\"?",
+   "c": [
+    "George Lucas",
+    "Steven Spielberg",
+    "Tim Burton",
+    "Ridley Scott"
+   ]
+  },
+  "ar": {
+   "q": "من أخرج فيلمي «الفك المفترس» و«إي تي»؟",
+   "c": [
+    "جورج لوكاس",
+    "ستيفن سبيلبرغ",
+    "تيم بيرتون",
+    "ريدلي سكوت"
+   ]
+  },
+  "es": {
+   "q": "¿Quién dirigió las películas «Tiburón» y «E.T.»?",
+   "c": [
+    "George Lucas",
+    "Steven Spielberg",
+    "Tim Burton",
+    "Ridley Scott"
+   ]
+  },
+  "pt": {
+   "q": "Quem dirigiu os filmes «Tubarão» e «E.T.»?",
+   "c": [
+    "George Lucas",
+    "Steven Spielberg",
+    "Tim Burton",
+    "Ridley Scott"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle chanteuse a sorti la chanson « Rolling in the Deep » ?",
+   "c": [
+    "Beyoncé",
+    "Rihanna",
+    "Adele",
+    "Shakira"
+   ]
+  },
+  "en": {
+   "q": "Which singer released the song \"Rolling in the Deep\"?",
+   "c": [
+    "Beyoncé",
+    "Rihanna",
+    "Adele",
+    "Shakira"
+   ]
+  },
+  "ar": {
+   "q": "أي مغنية أصدرت أغنية «Rolling in the Deep»؟",
+   "c": [
+    "بيونسيه",
+    "ريهانا",
+    "أديل",
+    "شاكيرا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cantante lanzó la canción «Rolling in the Deep»?",
+   "c": [
+    "Beyoncé",
+    "Rihanna",
+    "Adele",
+    "Shakira"
+   ]
+  },
+  "pt": {
+   "q": "Qual cantora lançou a música «Rolling in the Deep»?",
+   "c": [
+    "Beyoncé",
+    "Rihanna",
+    "Adele",
+    "Shakira"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Qui a écrit « Le Comte de Monte-Cristo » ?",
+   "c": [
+    "Balzac",
+    "Zola",
+    "Flaubert",
+    "Alexandre Dumas"
+   ]
+  },
+  "en": {
+   "q": "Who wrote \"The Count of Monte Cristo\"?",
+   "c": [
+    "Balzac",
+    "Zola",
+    "Flaubert",
+    "Alexandre Dumas"
+   ]
+  },
+  "ar": {
+   "q": "من كتب «الكونت دي مونتي كريستو»؟",
+   "c": [
+    "بلزاك",
+    "زولا",
+    "فلوبير",
+    "ألكسندر دوما"
+   ]
+  },
+  "es": {
+   "q": "¿Quién escribió «El conde de Montecristo»?",
+   "c": [
+    "Balzac",
+    "Zola",
+    "Flaubert",
+    "Alexandre Dumas"
+   ]
+  },
+  "pt": {
+   "q": "Quem escreveu «O Conde de Monte Cristo»?",
+   "c": [
+    "Balzac",
+    "Zola",
+    "Flaubert",
+    "Alexandre Dumas"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays est né le flamenco ?",
+   "c": [
+    "Le Portugal",
+    "L'Italie",
+    "L'Espagne",
+    "Le Mexique"
+   ]
+  },
+  "en": {
+   "q": "In which country did flamenco originate?",
+   "c": [
+    "Portugal",
+    "Italy",
+    "Spain",
+    "Mexico"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد نشأ الفلامنكو؟",
+   "c": [
+    "البرتغال",
+    "إيطاليا",
+    "إسبانيا",
+    "المكسيك"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país nació el flamenco?",
+   "c": [
+    "Portugal",
+    "Italia",
+    "España",
+    "México"
+   ]
+  },
+  "pt": {
+   "q": "Em que país nasceu o flamenco?",
+   "c": [
+    "Portugal",
+    "Itália",
+    "Espanha",
+    "México"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel film d'animation met en scène un ogre vert ?",
+   "c": [
+    "Shrek",
+    "Ratatouille",
+    "Cars",
+    "Madagascar"
+   ]
+  },
+  "en": {
+   "q": "Which animated film features a green ogre?",
+   "c": [
+    "Shrek",
+    "Ratatouille",
+    "Cars",
+    "Madagascar"
+   ]
+  },
+  "ar": {
+   "q": "أي فيلم رسوم متحركة بطله غول أخضر؟",
+   "c": [
+    "شريك",
+    "راتاتوي",
+    "سيارات",
+    "مدغشقر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué película de animación tiene como protagonista a un ogro verde?",
+   "c": [
+    "Shrek",
+    "Ratatouille",
+    "Cars",
+    "Madagascar"
+   ]
+  },
+  "pt": {
+   "q": "Qual filme de animação tem como protagonista um ogro verde?",
+   "c": [
+    "Shrek",
+    "Ratatouille",
+    "Carros",
+    "Madagascar"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Qui a écrit « Le Seigneur des anneaux » ?",
+   "c": [
+    "C.S. Lewis",
+    "J.R.R. Tolkien",
+    "J.K. Rowling",
+    "Roald Dahl"
+   ]
+  },
+  "en": {
+   "q": "Who wrote \"The Lord of the Rings\"?",
+   "c": [
+    "C.S. Lewis",
+    "J.R.R. Tolkien",
+    "J.K. Rowling",
+    "Roald Dahl"
+   ]
+  },
+  "ar": {
+   "q": "من كتب «سيد الخواتم»؟",
+   "c": [
+    "سي. إس. لويس",
+    "ج. ر. ر. تولكين",
+    "ج. ك. رولينغ",
+    "رولد دال"
+   ]
+  },
+  "es": {
+   "q": "¿Quién escribió «El señor de los anillos»?",
+   "c": [
+    "C.S. Lewis",
+    "J.R.R. Tolkien",
+    "J.K. Rowling",
+    "Roald Dahl"
+   ]
+  },
+  "pt": {
+   "q": "Quem escreveu «O Senhor dos Anéis»?",
+   "c": [
+    "C.S. Lewis",
+    "J.R.R. Tolkien",
+    "J.K. Rowling",
+    "Roald Dahl"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Qui a réalisé les films « Psychose » et « Les Oiseaux » ?",
+   "c": [
+    "Alfred Hitchcock",
+    "Stanley Kubrick",
+    "Orson Welles",
+    "Charlie Chaplin"
+   ]
+  },
+  "en": {
+   "q": "Who directed the films \"Psycho\" and \"The Birds\"?",
+   "c": [
+    "Alfred Hitchcock",
+    "Stanley Kubrick",
+    "Orson Welles",
+    "Charlie Chaplin"
+   ]
+  },
+  "ar": {
+   "q": "من أخرج فيلمي «سايكو» و«الطيور»؟",
+   "c": [
+    "ألفريد هيتشكوك",
+    "ستانلي كوبريك",
+    "أورسون ويلز",
+    "شارلي شابلن"
+   ]
+  },
+  "es": {
+   "q": "¿Quién dirigió las películas «Psicosis» y «Los pájaros»?",
+   "c": [
+    "Alfred Hitchcock",
+    "Stanley Kubrick",
+    "Orson Welles",
+    "Charlie Chaplin"
+   ]
+  },
+  "pt": {
+   "q": "Quem dirigiu os filmes «Psicose» e «Os Pássaros»?",
+   "c": [
+    "Alfred Hitchcock",
+    "Stanley Kubrick",
+    "Orson Welles",
+    "Charlie Chaplin"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel dessinateur a créé le personnage de Tintin ?",
+   "c": [
+    "Uderzo",
+    "Goscinny",
+    "Morris",
+    "Hergé"
+   ]
+  },
+  "en": {
+   "q": "Which cartoonist created the character Tintin?",
+   "c": [
+    "Uderzo",
+    "Goscinny",
+    "Morris",
+    "Hergé"
+   ]
+  },
+  "ar": {
+   "q": "أي رسام ابتكر شخصية تان تان؟",
+   "c": [
+    "أوديرزو",
+    "غوسيني",
+    "موريس",
+    "هيرجيه"
+   ]
+  },
+  "es": {
+   "q": "¿Qué dibujante creó al personaje de Tintín?",
+   "c": [
+    "Uderzo",
+    "Goscinny",
+    "Morris",
+    "Hergé"
+   ]
+  },
+  "pt": {
+   "q": "Qual desenhista criou o personagem Tintim?",
+   "c": [
+    "Uderzo",
+    "Goscinny",
+    "Morris",
+    "Hergé"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand instrument à cordes frottées de l'orchestre ?",
+   "c": [
+    "Le violoncelle",
+    "L'alto",
+    "La contrebasse",
+    "La harpe"
+   ]
+  },
+  "en": {
+   "q": "What is the largest bowed string instrument in the orchestra?",
+   "c": [
+    "The cello",
+    "The viola",
+    "The double bass",
+    "The harp"
+   ]
+  },
+  "ar": {
+   "q": "ما أكبر آلة وترية تُعزف بالقوس في الأوركسترا؟",
+   "c": [
+    "التشيللو",
+    "الفيولا",
+    "الكونترباص",
+    "القيثارة"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el instrumento de cuerda frotada más grande de la orquesta?",
+   "c": [
+    "El violonchelo",
+    "La viola",
+    "El contrabajo",
+    "El arpa"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior instrumento de cordas friccionadas da orquestra?",
+   "c": [
+    "O violoncelo",
+    "A viola",
+    "O contrabaixo",
+    "A harpa"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel écrivain britannique a créé « Oliver Twist » ?",
+   "c": [
+    "William Shakespeare",
+    "Charles Dickens",
+    "Oscar Wilde",
+    "Lewis Carroll"
+   ]
+  },
+  "en": {
+   "q": "Which British writer created \"Oliver Twist\"?",
+   "c": [
+    "William Shakespeare",
+    "Charles Dickens",
+    "Oscar Wilde",
+    "Lewis Carroll"
+   ]
+  },
+  "ar": {
+   "q": "أي كاتب بريطاني ألّف «أوليفر تويست»؟",
+   "c": [
+    "ويليام شكسبير",
+    "تشارلز ديكنز",
+    "أوسكار وايلد",
+    "لويس كارول"
+   ]
+  },
+  "es": {
+   "q": "¿Qué escritor británico creó «Oliver Twist»?",
+   "c": [
+    "William Shakespeare",
+    "Charles Dickens",
+    "Oscar Wilde",
+    "Lewis Carroll"
+   ]
+  },
+  "pt": {
+   "q": "Qual escritor britânico criou «Oliver Twist»?",
+   "c": [
+    "William Shakespeare",
+    "Charles Dickens",
+    "Oscar Wilde",
+    "Lewis Carroll"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel pays est à l'origine du manga ?",
+   "c": [
+    "La Chine",
+    "La Corée du Sud",
+    "L'Inde",
+    "Le Japon"
+   ]
+  },
+  "en": {
+   "q": "Which country is the origin of manga?",
+   "c": [
+    "China",
+    "South Korea",
+    "India",
+    "Japan"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد هو أصل المانغا؟",
+   "c": [
+    "الصين",
+    "كوريا الجنوبية",
+    "الهند",
+    "اليابان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país es el origen del manga?",
+   "c": [
+    "China",
+    "Corea del Sur",
+    "India",
+    "Japón"
+   ]
+  },
+  "pt": {
+   "q": "Qual país é a origem do mangá?",
+   "c": [
+    "China",
+    "Coreia do Sul",
+    "Índia",
+    "Japão"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle couleur obtient-on en mélangeant du rouge et du blanc ?",
+   "c": [
+    "Rose",
+    "Orange",
+    "Vert",
+    "Marron"
+   ]
+  },
+  "en": {
+   "q": "Which colour do you get by mixing red and white?",
+   "c": [
+    "Pink",
+    "Orange",
+    "Green",
+    "Brown"
+   ]
+  },
+  "ar": {
+   "q": "ما اللون الناتج عن خلط الأحمر مع الأبيض؟",
+   "c": [
+    "الوردي",
+    "البرتقالي",
+    "الأخضر",
+    "البني"
+   ]
+  },
+  "es": {
+   "q": "¿Qué color se obtiene al mezclar rojo y blanco?",
+   "c": [
+    "Rosa",
+    "Naranja",
+    "Verde",
+    "Marrón"
+   ]
+  },
+  "pt": {
+   "q": "Que cor se obtém misturando vermelho e branco?",
+   "c": [
+    "Rosa",
+    "Laranja",
+    "Verde",
+    "Marrom"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
  }
 ]

@@ -5815,5 +5815,1205 @@
    "q": "Qual é a distância de uma maratona (em km)?",
    "u": "km"
   }
+ },
+ {
+  "fr": {
+   "q": "Quelle est la couleur du carton d'avertissement au football ?",
+   "c": [
+    "Jaune",
+    "Rouge",
+    "Vert",
+    "Bleu"
+   ]
+  },
+  "en": {
+   "q": "What color is the warning card in football?",
+   "c": [
+    "Yellow",
+    "Red",
+    "Green",
+    "Blue"
+   ]
+  },
+  "ar": {
+   "q": "ما لون البطاقة التحذيرية في كرة القدم؟",
+   "c": [
+    "أصفر",
+    "أحمر",
+    "أخضر",
+    "أزرق"
+   ]
+  },
+  "es": {
+   "q": "¿De qué color es la tarjeta de advertencia en el fútbol?",
+   "c": [
+    "Amarilla",
+    "Roja",
+    "Verde",
+    "Azul"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a cor do cartão de advertência no futebol?",
+   "c": [
+    "Amarelo",
+    "Vermelho",
+    "Verde",
+    "Azul"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel sport se joue avec un ballon ovale ?",
+   "c": [
+    "Basket-ball",
+    "Rugby",
+    "Tennis",
+    "Volley-ball"
+   ]
+  },
+  "en": {
+   "q": "Which sport is played with an oval ball?",
+   "c": [
+    "Basketball",
+    "Rugby",
+    "Tennis",
+    "Volleyball"
+   ]
+  },
+  "ar": {
+   "q": "أي رياضة تُلعب بكرة بيضاوية؟",
+   "c": [
+    "كرة السلة",
+    "الرغبي",
+    "التنس",
+    "الكرة الطائرة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué deporte se juega con un balón ovalado?",
+   "c": [
+    "Baloncesto",
+    "Rugby",
+    "Tenis",
+    "Voleibol"
+   ]
+  },
+  "pt": {
+   "q": "Qual esporte se joga com uma bola oval?",
+   "c": [
+    "Basquete",
+    "Rúgbi",
+    "Tênis",
+    "Vôlei"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel sport se pratique sur la glace avec un palet ?",
+   "c": [
+    "Curling",
+    "Patinage artistique",
+    "Ski",
+    "Hockey sur glace"
+   ]
+  },
+  "en": {
+   "q": "Which sport is played on ice with a puck?",
+   "c": [
+    "Curling",
+    "Figure skating",
+    "Skiing",
+    "Ice hockey"
+   ]
+  },
+  "ar": {
+   "q": "أي رياضة تُلعب على الجليد باستخدام القرص؟",
+   "c": [
+    "الكيرلنغ",
+    "التزلج الفني",
+    "التزلج على الثلج",
+    "هوكي الجليد"
+   ]
+  },
+  "es": {
+   "q": "¿Qué deporte se juega sobre hielo con un disco?",
+   "c": [
+    "Curling",
+    "Patinaje artístico",
+    "Esquí",
+    "Hockey sobre hielo"
+   ]
+  },
+  "pt": {
+   "q": "Qual esporte se joga no gelo com um disco?",
+   "c": [
+    "Curling",
+    "Patinação artística",
+    "Esqui",
+    "Hóquei no gelo"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Michael Jordan est une légende de quel sport ?",
+   "c": [
+    "Football",
+    "Tennis",
+    "Basket-ball",
+    "Golf"
+   ]
+  },
+  "en": {
+   "q": "Michael Jordan is a legend of which sport?",
+   "c": [
+    "Soccer",
+    "Tennis",
+    "Basketball",
+    "Golf"
+   ]
+  },
+  "ar": {
+   "q": "مايكل جوردان أسطورة في أي رياضة؟",
+   "c": [
+    "كرة القدم",
+    "التنس",
+    "كرة السلة",
+    "الغولف"
+   ]
+  },
+  "es": {
+   "q": "¿Michael Jordan es una leyenda de qué deporte?",
+   "c": [
+    "Fútbol",
+    "Tenis",
+    "Baloncesto",
+    "Golf"
+   ]
+  },
+  "pt": {
+   "q": "Michael Jordan é uma lenda de qual esporte?",
+   "c": [
+    "Futebol",
+    "Tênis",
+    "Basquete",
+    "Golfe"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelle le joueur qui défend le but au football ?",
+   "c": [
+    "L'arbitre",
+    "L'attaquant",
+    "L'entraîneur",
+    "Le gardien"
+   ]
+  },
+  "en": {
+   "q": "What is the player who defends the goal in football called?",
+   "c": [
+    "The referee",
+    "The striker",
+    "The coach",
+    "The goalkeeper"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يُسمى اللاعب الذي يدافع عن المرمى في كرة القدم؟",
+   "c": [
+    "الحكم",
+    "المهاجم",
+    "المدرب",
+    "حارس المرمى"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama el jugador que defiende la portería en el fútbol?",
+   "c": [
+    "El árbitro",
+    "El delantero",
+    "El entrenador",
+    "El portero"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama o jogador que defende o gol no futebol?",
+   "c": [
+    "O árbitro",
+    "O atacante",
+    "O treinador",
+    "O goleiro"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Au football, un joueur de champ n'a pas le droit de toucher le ballon avec…",
+   "c": [
+    "les mains",
+    "les pieds",
+    "la tête",
+    "le genou"
+   ]
+  },
+  "en": {
+   "q": "In football, an outfield player cannot touch the ball with their…",
+   "c": [
+    "hands",
+    "feet",
+    "head",
+    "knee"
+   ]
+  },
+  "ar": {
+   "q": "في كرة القدم، لا يحق للاعب الميدان لمس الكرة بـ...",
+   "c": [
+    "اليدين",
+    "القدمين",
+    "الرأس",
+    "الركبة"
+   ]
+  },
+  "es": {
+   "q": "En el fútbol, un jugador de campo no puede tocar el balón con…",
+   "c": [
+    "las manos",
+    "los pies",
+    "la cabeza",
+    "la rodilla"
+   ]
+  },
+  "pt": {
+   "q": "No futebol, um jogador de linha não pode tocar na bola com…",
+   "c": [
+    "as mãos",
+    "os pés",
+    "a cabeça",
+    "o joelho"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Au basket, combien de points rapporte un tir réussi derrière l'arc ?",
+   "c": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "en": {
+   "q": "In basketball, how many points is a shot made from behind the arc worth?",
+   "c": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "ar": {
+   "q": "في كرة السلة، كم نقطة يمنحها تسديد ناجح من خلف القوس؟",
+   "c": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "es": {
+   "q": "En el baloncesto, ¿cuántos puntos vale un tiro convertido desde detrás del arco?",
+   "c": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "pt": {
+   "q": "No basquete, quantos pontos vale um arremesso convertido de trás do arco?",
+   "c": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays le football moderne est-il né ?",
+   "c": [
+    "Brésil",
+    "Angleterre",
+    "Italie",
+    "Espagne"
+   ]
+  },
+  "en": {
+   "q": "In which country was modern football born?",
+   "c": [
+    "Brazil",
+    "England",
+    "Italy",
+    "Spain"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد ظهرت كرة القدم الحديثة؟",
+   "c": [
+    "البرازيل",
+    "إنجلترا",
+    "إيطاليا",
+    "إسبانيا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país nació el fútbol moderno?",
+   "c": [
+    "Brasil",
+    "Inglaterra",
+    "Italia",
+    "España"
+   ]
+  },
+  "pt": {
+   "q": "Em que país nasceu o futebol moderno?",
+   "c": [
+    "Brasil",
+    "Inglaterra",
+    "Itália",
+    "Espanha"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel est le surnom de l'équipe de France de football ?",
+   "c": [
+    "Les Rouges",
+    "Les Verts",
+    "Les Blancs",
+    "Les Bleus"
+   ]
+  },
+  "en": {
+   "q": "What is the nickname of the French national football team?",
+   "c": [
+    "Les Rouges",
+    "Les Verts",
+    "Les Blancs",
+    "Les Bleus"
+   ]
+  },
+  "ar": {
+   "q": "ما لقب منتخب فرنسا لكرة القدم؟",
+   "c": [
+    "الحمر",
+    "الخضر",
+    "البيض",
+    "الزرق"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el apodo de la selección francesa de fútbol?",
+   "c": [
+    "Les Rouges",
+    "Les Verts",
+    "Les Blancs",
+    "Les Bleus"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o apelido da seleção francesa de futebol?",
+   "c": [
+    "Les Rouges",
+    "Les Verts",
+    "Les Blancs",
+    "Les Bleus"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle est la longueur d'un tour de piste d'athlétisme standard ?",
+   "c": [
+    "400 m",
+    "100 m",
+    "200 m",
+    "800 m"
+   ]
+  },
+  "en": {
+   "q": "How long is one lap of a standard athletics track?",
+   "c": [
+    "400 m",
+    "100 m",
+    "200 m",
+    "800 m"
+   ]
+  },
+  "ar": {
+   "q": "ما طول لفة واحدة في مضمار ألعاب القوى القياسي؟",
+   "c": [
+    "400 م",
+    "100 م",
+    "200 م",
+    "800 م"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto mide una vuelta a una pista de atletismo estándar?",
+   "c": [
+    "400 m",
+    "100 m",
+    "200 m",
+    "800 m"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o comprimento de uma volta em uma pista de atletismo padrão?",
+   "c": [
+    "400 m",
+    "100 m",
+    "200 m",
+    "800 m"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel club français joue au Parc des Princes ?",
+   "c": [
+    "Marseille",
+    "Lyon",
+    "Paris Saint-Germain",
+    "Lille"
+   ]
+  },
+  "en": {
+   "q": "Which French club plays at the Parc des Princes?",
+   "c": [
+    "Marseille",
+    "Lyon",
+    "Paris Saint-Germain",
+    "Lille"
+   ]
+  },
+  "ar": {
+   "q": "أي نادٍ فرنسي يلعب في ملعب بارك دي برانس؟",
+   "c": [
+    "مارسيليا",
+    "ليون",
+    "باريس سان جيرمان",
+    "ليل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué club francés juega en el Parc des Princes?",
+   "c": [
+    "Marsella",
+    "Lyon",
+    "París Saint-Germain",
+    "Lille"
+   ]
+  },
+  "pt": {
+   "q": "Qual clube francês joga no Parc des Princes?",
+   "c": [
+    "Marselha",
+    "Lyon",
+    "Paris Saint-Germain",
+    "Lille"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Kylian Mbappé joue à quel sport ?",
+   "c": [
+    "Tennis",
+    "Football",
+    "Rugby",
+    "Basket-ball"
+   ]
+  },
+  "en": {
+   "q": "Which sport does Kylian Mbappé play?",
+   "c": [
+    "Tennis",
+    "Soccer",
+    "Rugby",
+    "Basketball"
+   ]
+  },
+  "ar": {
+   "q": "أي رياضة يمارس كيليان مبابي؟",
+   "c": [
+    "التنس",
+    "كرة القدم",
+    "الرغبي",
+    "كرة السلة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué deporte practica Kylian Mbappé?",
+   "c": [
+    "Tenis",
+    "Fútbol",
+    "Rugby",
+    "Baloncesto"
+   ]
+  },
+  "pt": {
+   "q": "Qual esporte Kylian Mbappé pratica?",
+   "c": [
+    "Tênis",
+    "Futebol",
+    "Rúgbi",
+    "Basquete"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle ville a accueilli les Jeux olympiques d'été de 2012 ?",
+   "c": [
+    "Londres",
+    "Pékin",
+    "Athènes",
+    "Sydney"
+   ]
+  },
+  "en": {
+   "q": "Which city hosted the 2012 Summer Olympics?",
+   "c": [
+    "London",
+    "Beijing",
+    "Athens",
+    "Sydney"
+   ]
+  },
+  "ar": {
+   "q": "أي مدينة استضافت الألعاب الأولمبية الصيفية عام 2012؟",
+   "c": [
+    "لندن",
+    "بكين",
+    "أثينا",
+    "سيدني"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ciudad acogió los Juegos Olímpicos de verano de 2012?",
+   "c": [
+    "Londres",
+    "Pekín",
+    "Atenas",
+    "Sídney"
+   ]
+  },
+  "pt": {
+   "q": "Qual cidade sediou os Jogos Olímpicos de verão de 2012?",
+   "c": [
+    "Londres",
+    "Pequim",
+    "Atenas",
+    "Sydney"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel pays a accueilli la Coupe du monde de football 2018 ?",
+   "c": [
+    "Qatar",
+    "Russie",
+    "Allemagne",
+    "Brésil"
+   ]
+  },
+  "en": {
+   "q": "Which country hosted the 2018 football World Cup?",
+   "c": [
+    "Qatar",
+    "Russia",
+    "Germany",
+    "Brazil"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد استضاف كأس العالم لكرة القدم 2018؟",
+   "c": [
+    "قطر",
+    "روسيا",
+    "ألمانيا",
+    "البرازيل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país acogió el Mundial de fútbol de 2018?",
+   "c": [
+    "Catar",
+    "Rusia",
+    "Alemania",
+    "Brasil"
+   ]
+  },
+  "pt": {
+   "q": "Qual país sediou a Copa do Mundo de futebol de 2018?",
+   "c": [
+    "Catar",
+    "Rússia",
+    "Alemanha",
+    "Brasil"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel club joue au stade du Camp Nou ?",
+   "c": [
+    "Real Madrid",
+    "Atlético de Madrid",
+    "FC Valence",
+    "FC Barcelone"
+   ]
+  },
+  "en": {
+   "q": "Which club plays at Camp Nou?",
+   "c": [
+    "Real Madrid",
+    "Atlético Madrid",
+    "Valencia",
+    "FC Barcelona"
+   ]
+  },
+  "ar": {
+   "q": "أي نادٍ يلعب على ملعب كامب نو؟",
+   "c": [
+    "ريال مدريد",
+    "أتلتيكو مدريد",
+    "فالنسيا",
+    "برشلونة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué club juega en el Camp Nou?",
+   "c": [
+    "Real Madrid",
+    "Atlético de Madrid",
+    "Valencia CF",
+    "FC Barcelona"
+   ]
+  },
+  "pt": {
+   "q": "Qual clube joga no Camp Nou?",
+   "c": [
+    "Real Madrid",
+    "Atlético de Madrid",
+    "Valência",
+    "FC Barcelona"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays sont nés les Jeux olympiques antiques ?",
+   "c": [
+    "Italie",
+    "Égypte",
+    "Grèce",
+    "Turquie"
+   ]
+  },
+  "en": {
+   "q": "In which country were the ancient Olympic Games born?",
+   "c": [
+    "Italy",
+    "Egypt",
+    "Greece",
+    "Turkey"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد نشأت الألعاب الأولمبية القديمة؟",
+   "c": [
+    "إيطاليا",
+    "مصر",
+    "اليونان",
+    "تركيا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país nacieron los Juegos Olímpicos antiguos?",
+   "c": [
+    "Italia",
+    "Egipto",
+    "Grecia",
+    "Turquía"
+   ]
+  },
+  "pt": {
+   "q": "Em que país nasceram os Jogos Olímpicos antigos?",
+   "c": [
+    "Itália",
+    "Egito",
+    "Grécia",
+    "Turquia"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel basketteur est surnommé « King James » ?",
+   "c": [
+    "Kobe Bryant",
+    "LeBron James",
+    "Stephen Curry",
+    "Michael Jordan"
+   ]
+  },
+  "en": {
+   "q": "Which basketball player is nicknamed “King James”?",
+   "c": [
+    "Kobe Bryant",
+    "LeBron James",
+    "Stephen Curry",
+    "Michael Jordan"
+   ]
+  },
+  "ar": {
+   "q": "أي لاعب كرة سلة يُلقب بـ«الملك جيمس»؟",
+   "c": [
+    "كوبي براينت",
+    "ليبرون جيمس",
+    "ستيفن كاري",
+    "مايكل جوردان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué baloncestista es apodado «King James»?",
+   "c": [
+    "Kobe Bryant",
+    "LeBron James",
+    "Stephen Curry",
+    "Michael Jordan"
+   ]
+  },
+  "pt": {
+   "q": "Qual jogador de basquete é apelidado de «King James»?",
+   "c": [
+    "Kobe Bryant",
+    "LeBron James",
+    "Stephen Curry",
+    "Michael Jordan"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Combien de joueurs par équipe sont sur le terrain au handball ?",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "en": {
+   "q": "How many players per team are on the court in handball?",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد اللاعبين في كل فريق داخل الملعب في كرة اليد؟",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos jugadores por equipo hay en la pista en el balonmano?",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "pt": {
+   "q": "Quantos jogadores por equipe há em quadra no handebol?",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel pays a remporté l'Euro 2016 de football ?",
+   "c": [
+    "France",
+    "Allemagne",
+    "Italie",
+    "Portugal"
+   ]
+  },
+  "en": {
+   "q": "Which country won Euro 2016?",
+   "c": [
+    "France",
+    "Germany",
+    "Italy",
+    "Portugal"
+   ]
+  },
+  "ar": {
+   "q": "أي منتخب فاز ببطولة أمم أوروبا 2016؟",
+   "c": [
+    "فرنسا",
+    "ألمانيا",
+    "إيطاليا",
+    "البرتغال"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país ganó la Eurocopa 2016?",
+   "c": [
+    "Francia",
+    "Alemania",
+    "Italia",
+    "Portugal"
+   ]
+  },
+  "pt": {
+   "q": "Qual país venceu a Eurocopa de 2016?",
+   "c": [
+    "França",
+    "Alemanha",
+    "Itália",
+    "Portugal"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel joueur de tennis suisse a remporté huit fois Wimbledon ?",
+   "c": [
+    "Roger Federer",
+    "Rafael Nadal",
+    "Novak Djokovic",
+    "Andy Murray"
+   ]
+  },
+  "en": {
+   "q": "Which Swiss tennis player won Wimbledon eight times?",
+   "c": [
+    "Roger Federer",
+    "Rafael Nadal",
+    "Novak Djokovic",
+    "Andy Murray"
+   ]
+  },
+  "ar": {
+   "q": "أي لاعب تنس سويسري فاز ببطولة ويمبلدون ثماني مرات؟",
+   "c": [
+    "روجر فيدرر",
+    "رافائيل نادال",
+    "نوفاك ديوكوفيتش",
+    "آندي موراي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué tenista suizo ganó Wimbledon ocho veces?",
+   "c": [
+    "Roger Federer",
+    "Rafael Nadal",
+    "Novak Djokovic",
+    "Andy Murray"
+   ]
+  },
+  "pt": {
+   "q": "Qual tenista suíço venceu Wimbledon oito vezes?",
+   "c": [
+    "Roger Federer",
+    "Rafael Nadal",
+    "Novak Djokovic",
+    "Andy Murray"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel pays a remporté la Coupe du monde de football 2010 ?",
+   "c": [
+    "Espagne",
+    "Pays-Bas",
+    "Allemagne",
+    "Uruguay"
+   ]
+  },
+  "en": {
+   "q": "Which country won the 2010 football World Cup?",
+   "c": [
+    "Spain",
+    "Netherlands",
+    "Germany",
+    "Uruguay"
+   ]
+  },
+  "ar": {
+   "q": "أي منتخب فاز بكأس العالم لكرة القدم 2010؟",
+   "c": [
+    "إسبانيا",
+    "هولندا",
+    "ألمانيا",
+    "الأوروغواي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país ganó el Mundial de fútbol de 2010?",
+   "c": [
+    "España",
+    "Países Bajos",
+    "Alemania",
+    "Uruguay"
+   ]
+  },
+  "pt": {
+   "q": "Qual país venceu a Copa do Mundo de futebol de 2010?",
+   "c": [
+    "Espanha",
+    "Países Baixos",
+    "Alemanha",
+    "Uruguai"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel sport joue-t-on lors du Super Bowl ?",
+   "c": [
+    "Baseball",
+    "Basket-ball",
+    "Football américain",
+    "Hockey sur glace"
+   ]
+  },
+  "en": {
+   "q": "Which sport is played at the Super Bowl?",
+   "c": [
+    "Baseball",
+    "Basketball",
+    "American football",
+    "Ice hockey"
+   ]
+  },
+  "ar": {
+   "q": "أي رياضة تُلعب في السوبر بول؟",
+   "c": [
+    "البيسبول",
+    "كرة السلة",
+    "كرة القدم الأمريكية",
+    "هوكي الجليد"
+   ]
+  },
+  "es": {
+   "q": "¿Qué deporte se juega en el Super Bowl?",
+   "c": [
+    "Béisbol",
+    "Baloncesto",
+    "Fútbol americano",
+    "Hockey sobre hielo"
+   ]
+  },
+  "pt": {
+   "q": "Qual esporte é jogado no Super Bowl?",
+   "c": [
+    "Beisebol",
+    "Basquete",
+    "Futebol americano",
+    "Hóquei no gelo"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel pays a accueilli les Jeux olympiques d'été de 2008 ?",
+   "c": [
+    "Japon",
+    "Grèce",
+    "Corée du Sud",
+    "Chine"
+   ]
+  },
+  "en": {
+   "q": "Which country hosted the 2008 Summer Olympics?",
+   "c": [
+    "Japan",
+    "Greece",
+    "South Korea",
+    "China"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد استضاف الألعاب الأولمبية الصيفية عام 2008؟",
+   "c": [
+    "اليابان",
+    "اليونان",
+    "كوريا الجنوبية",
+    "الصين"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país acogió los Juegos Olímpicos de verano de 2008?",
+   "c": [
+    "Japón",
+    "Grecia",
+    "Corea del Sur",
+    "China"
+   ]
+  },
+  "pt": {
+   "q": "Qual país sediou os Jogos Olímpicos de verão de 2008?",
+   "c": [
+    "Japão",
+    "Grécia",
+    "Coreia do Sul",
+    "China"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel club italien est surnommé « la Vieille Dame » ?",
+   "c": [
+    "AC Milan",
+    "Juventus",
+    "Inter Milan",
+    "Naples"
+   ]
+  },
+  "en": {
+   "q": "Which Italian club is nicknamed “the Old Lady”?",
+   "c": [
+    "AC Milan",
+    "Juventus",
+    "Inter Milan",
+    "Napoli"
+   ]
+  },
+  "ar": {
+   "q": "أي نادٍ إيطالي يُلقب بـ«السيدة العجوز»؟",
+   "c": [
+    "ميلان",
+    "يوفنتوس",
+    "إنتر ميلان",
+    "نابولي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué club italiano es apodado «la Vecchia Signora»?",
+   "c": [
+    "AC Milan",
+    "Juventus",
+    "Inter de Milán",
+    "Nápoles"
+   ]
+  },
+  "pt": {
+   "q": "Qual clube italiano é apelidado de «a Velha Senhora»?",
+   "c": [
+    "Milan",
+    "Juventus",
+    "Inter de Milão",
+    "Napoli"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
  }
 ]
