@@ -1,4 +1,4 @@
 {
-  "version": 5,
+  "version": 6,
   "files": ["space", "physics", "capitals", "arts", "sports", "history", "math", "general"]
 }
