@@ -1,6 +1,1256 @@
 [
  {
   "fr": {
+   "q": "Qui porte une couronne et dirige un royaume ?",
+   "c": [
+    "Un boulanger",
+    "Un roi",
+    "Un clown",
+    "Un pilote"
+   ]
+  },
+  "en": {
+   "q": "Who wears a crown and rules a kingdom?",
+   "c": [
+    "A baker",
+    "A king",
+    "A clown",
+    "A pilot"
+   ]
+  },
+  "ar": {
+   "q": "من يرتدي تاجًا ويحكم مملكة؟",
+   "c": [
+    "خباز",
+    "ملك",
+    "مهرج",
+    "طيار"
+   ]
+  },
+  "es": {
+   "q": "¿Quién lleva una corona y gobierna un reino?",
+   "c": [
+    "Un panadero",
+    "Un rey",
+    "Un payaso",
+    "Un piloto"
+   ]
+  },
+  "pt": {
+   "q": "Quem usa uma coroa e governa um reino?",
+   "c": [
+    "Um padeiro",
+    "Um rei",
+    "Um palhaço",
+    "Um piloto"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle invention ronde permet aux charrettes et aux voitures de rouler ?",
+   "c": [
+    "La fourchette",
+    "Le crayon",
+    "La roue",
+    "La lampe"
+   ]
+  },
+  "en": {
+   "q": "Which round invention lets carts and cars roll?",
+   "c": [
+    "The fork",
+    "The pencil",
+    "The wheel",
+    "The lamp"
+   ]
+  },
+  "ar": {
+   "q": "ما الاختراع المستدير الذي يجعل العربات والسيارات تتحرك؟",
+   "c": [
+    "الشوكة",
+    "القلم",
+    "العجلة",
+    "المصباح"
+   ]
+  },
+  "es": {
+   "q": "¿Qué invento redondo permite que las carretas y los coches rueden?",
+   "c": [
+    "El tenedor",
+    "El lápiz",
+    "La rueda",
+    "La lámpara"
+   ]
+  },
+  "pt": {
+   "q": "Que invenção redonda permite que carroças e carros rodem?",
+   "c": [
+    "O garfo",
+    "O lápis",
+    "A roda",
+    "A lâmpada"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle découverte servait aux hommes préhistoriques à se réchauffer et à cuire la nourriture ?",
+   "c": [
+    "Le téléphone",
+    "La télévision",
+    "L'ordinateur",
+    "Le feu"
+   ]
+  },
+  "en": {
+   "q": "Which discovery did prehistoric people use to keep warm and cook food?",
+   "c": [
+    "The telephone",
+    "Television",
+    "The computer",
+    "Fire"
+   ]
+  },
+  "ar": {
+   "q": "ما الاكتشاف الذي استخدمه إنسان ما قبل التاريخ للتدفئة وطهي الطعام؟",
+   "c": [
+    "الهاتف",
+    "التلفاز",
+    "الحاسوب",
+    "النار"
+   ]
+  },
+  "es": {
+   "q": "¿Qué descubrimiento usaban los hombres prehistóricos para calentarse y cocinar?",
+   "c": [
+    "El teléfono",
+    "La televisión",
+    "El ordenador",
+    "El fuego"
+   ]
+  },
+  "pt": {
+   "q": "Que descoberta os homens pré-históricos usavam para se aquecer e cozinhar?",
+   "c": [
+    "O telefone",
+    "A televisão",
+    "O computador",
+    "O fogo"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "De quel pays Paris est-elle la capitale ?",
+   "c": [
+    "La France",
+    "L'Italie",
+    "Le Japon",
+    "Le Brésil"
+   ]
+  },
+  "en": {
+   "q": "Paris is the capital of which country?",
+   "c": [
+    "France",
+    "Italy",
+    "Japan",
+    "Brazil"
+   ]
+  },
+  "ar": {
+   "q": "باريس هي عاصمة أي بلد؟",
+   "c": [
+    "فرنسا",
+    "إيطاليا",
+    "اليابان",
+    "البرازيل"
+   ]
+  },
+  "es": {
+   "q": "¿De qué país es capital París?",
+   "c": [
+    "Francia",
+    "Italia",
+    "Japón",
+    "Brasil"
+   ]
+  },
+  "pt": {
+   "q": "De que país Paris é a capital?",
+   "c": [
+    "França",
+    "Itália",
+    "Japão",
+    "Brasil"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on les corps conservés dans des bandelettes en Égypte antique ?",
+   "c": [
+    "Des robots",
+    "Des fantômes",
+    "Des momies",
+    "Des géants"
+   ]
+  },
+  "en": {
+   "q": "What are bodies wrapped in bandages in ancient Egypt called?",
+   "c": [
+    "Robots",
+    "Ghosts",
+    "Mummies",
+    "Giants"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي الأجساد المحفوظة والملفوفة بالأربطة في مصر القديمة؟",
+   "c": [
+    "روبوتات",
+    "أشباح",
+    "مومياوات",
+    "عمالقة"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llaman los cuerpos conservados con vendas en el antiguo Egipto?",
+   "c": [
+    "Robots",
+    "Fantasmas",
+    "Momias",
+    "Gigantes"
+   ]
+  },
+  "pt": {
+   "q": "Como se chamam os corpos conservados com faixas no antigo Egito?",
+   "c": [
+    "Robôs",
+    "Fantasmas",
+    "Múmias",
+    "Gigantes"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quelles sont les couleurs principales du drapeau de l'Algérie ?",
+   "c": [
+    "Bleu, blanc et rouge",
+    "Noir, jaune et rouge",
+    "Vert, blanc et rouge",
+    "Orange et violet"
+   ]
+  },
+  "en": {
+   "q": "What are the main colors of the Algerian flag?",
+   "c": [
+    "Blue, white and red",
+    "Black, yellow and red",
+    "Green, white and red",
+    "Orange and purple"
+   ]
+  },
+  "ar": {
+   "q": "ما الألوان الرئيسية لعلم الجزائر؟",
+   "c": [
+    "الأزرق والأبيض والأحمر",
+    "الأسود والأصفر والأحمر",
+    "الأخضر والأبيض والأحمر",
+    "البرتقالي والبنفسجي"
+   ]
+  },
+  "es": {
+   "q": "¿Cuáles son los colores principales de la bandera de Argelia?",
+   "c": [
+    "Azul, blanco y rojo",
+    "Negro, amarillo y rojo",
+    "Verde, blanco y rojo",
+    "Naranja y morado"
+   ]
+  },
+  "pt": {
+   "q": "Quais são as cores principais da bandeira da Argélia?",
+   "c": [
+    "Azul, branco e vermelho",
+    "Preto, amarelo e vermelho",
+    "Verde, branco e vermelho",
+    "Laranja e roxo"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel animal est un symbole de la France ?",
+   "c": [
+    "Le coq",
+    "Le panda",
+    "Le kangourou",
+    "Le chameau"
+   ]
+  },
+  "en": {
+   "q": "Which animal is a symbol of France?",
+   "c": [
+    "The rooster",
+    "The panda",
+    "The kangaroo",
+    "The camel"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان هو رمز لفرنسا؟",
+   "c": [
+    "الديك",
+    "الباندا",
+    "الكنغر",
+    "الجمل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal es un símbolo de Francia?",
+   "c": [
+    "El gallo",
+    "El panda",
+    "El canguro",
+    "El camello"
+   ]
+  },
+  "pt": {
+   "q": "Que animal é um símbolo da França?",
+   "c": [
+    "O galo",
+    "O panda",
+    "O canguru",
+    "O camelo"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve le Colisée, le grand amphithéâtre de la Rome antique ?",
+   "c": [
+    "Le Japon",
+    "L'Italie",
+    "Le Brésil",
+    "L'Égypte"
+   ]
+  },
+  "en": {
+   "q": "In which country is the Colosseum, the great amphitheater of ancient Rome?",
+   "c": [
+    "Japan",
+    "Italy",
+    "Brazil",
+    "Egypt"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد يقع الكولوسيوم، المدرج الكبير في روما القديمة؟",
+   "c": [
+    "اليابان",
+    "إيطاليا",
+    "البرازيل",
+    "مصر"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está el Coliseo, el gran anfiteatro de la Roma antigua?",
+   "c": [
+    "Japón",
+    "Italia",
+    "Brasil",
+    "Egipto"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica o Coliseu, o grande anfiteatro da Roma antiga?",
+   "c": [
+    "Japão",
+    "Itália",
+    "Brasil",
+    "Egito"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "En quoi étaient faits les outils des hommes préhistoriques ?",
+   "c": [
+    "En plastique",
+    "En acier",
+    "En pierre",
+    "En verre"
+   ]
+  },
+  "en": {
+   "q": "What were prehistoric people's tools made of?",
+   "c": [
+    "Plastic",
+    "Steel",
+    "Stone",
+    "Glass"
+   ]
+  },
+  "ar": {
+   "q": "مم كانت أدوات إنسان ما قبل التاريخ مصنوعة؟",
+   "c": [
+    "من البلاستيك",
+    "من الفولاذ",
+    "من الحجر",
+    "من الزجاج"
+   ]
+  },
+  "es": {
+   "q": "¿De qué estaban hechas las herramientas de los hombres prehistóricos?",
+   "c": [
+    "De plástico",
+    "De acero",
+    "De piedra",
+    "De vidrio"
+   ]
+  },
+  "pt": {
+   "q": "De que eram feitas as ferramentas dos homens pré-históricos?",
+   "c": [
+    "De plástico",
+    "De aço",
+    "De pedra",
+    "De vidro"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel jour fête-t-on la fête nationale en France ?",
+   "c": [
+    "Le 25 décembre",
+    "Le 1er janvier",
+    "Le 31 octobre",
+    "Le 14 juillet"
+   ]
+  },
+  "en": {
+   "q": "On which date is France's national day?",
+   "c": [
+    "25 December",
+    "1 January",
+    "31 October",
+    "14 July"
+   ]
+  },
+  "ar": {
+   "q": "في أي يوم تحتفل فرنسا بعيدها الوطني؟",
+   "c": [
+    "25 ديسمبر",
+    "1 يناير",
+    "31 أكتوبر",
+    "14 يوليو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué día se celebra la fiesta nacional en Francia?",
+   "c": [
+    "El 25 de diciembre",
+    "El 1 de enero",
+    "El 31 de octubre",
+    "El 14 de julio"
+   ]
+  },
+  "pt": {
+   "q": "Em que dia se comemora a festa nacional na França?",
+   "c": [
+    "25 de dezembro",
+    "1º de janeiro",
+    "31 de outubro",
+    "14 de julho"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve le magnifique Taj Mahal ?",
+   "c": [
+    "L'Inde",
+    "Le Canada",
+    "Le Maroc",
+    "L'Argentine"
+   ]
+  },
+  "en": {
+   "q": "In which country is the beautiful Taj Mahal?",
+   "c": [
+    "India",
+    "Canada",
+    "Morocco",
+    "Argentina"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد يقع تاج محل الرائع؟",
+   "c": [
+    "الهند",
+    "كندا",
+    "المغرب",
+    "الأرجنتين"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está el hermoso Taj Mahal?",
+   "c": [
+    "La India",
+    "Canadá",
+    "Marruecos",
+    "Argentina"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica o belo Taj Mahal?",
+   "c": [
+    "Índia",
+    "Canadá",
+    "Marrocos",
+    "Argentina"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel instrument aide les marins à trouver le nord ?",
+   "c": [
+    "Le thermomètre",
+    "La boussole",
+    "La balance",
+    "Le sablier"
+   ]
+  },
+  "en": {
+   "q": "Which instrument helps sailors find north?",
+   "c": [
+    "The thermometer",
+    "The compass",
+    "The scale",
+    "The hourglass"
+   ]
+  },
+  "ar": {
+   "q": "ما الأداة التي تساعد البحارة على إيجاد الشمال؟",
+   "c": [
+    "مقياس الحرارة",
+    "البوصلة",
+    "الميزان",
+    "الساعة الرملية"
+   ]
+  },
+  "es": {
+   "q": "¿Qué instrumento ayuda a los marineros a encontrar el norte?",
+   "c": [
+    "El termómetro",
+    "La brújula",
+    "La balanza",
+    "El reloj de arena"
+   ]
+  },
+  "pt": {
+   "q": "Que instrumento ajuda os marinheiros a encontrar o norte?",
+   "c": [
+    "O termômetro",
+    "A bússola",
+    "A balança",
+    "A ampulheta"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel pays est célèbre pour ses samouraïs ?",
+   "c": [
+    "La Norvège",
+    "Le Pérou",
+    "Le Japon",
+    "L'Égypte"
+   ]
+  },
+  "en": {
+   "q": "Which country is famous for its samurai?",
+   "c": [
+    "Norway",
+    "Peru",
+    "Japan",
+    "Egypt"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد مشهور بالساموراي؟",
+   "c": [
+    "النرويج",
+    "بيرو",
+    "اليابان",
+    "مصر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país es famoso por sus samuráis?",
+   "c": [
+    "Noruega",
+    "Perú",
+    "Japón",
+    "Egipto"
+   ]
+  },
+  "pt": {
+   "q": "Que país é famoso por seus samurais?",
+   "c": [
+    "Noruega",
+    "Peru",
+    "Japão",
+    "Egito"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel peuple de l'Antiquité a construit le Parthénon à Athènes ?",
+   "c": [
+    "Les Vikings",
+    "Les Mayas",
+    "Les Mongols",
+    "Les Grecs"
+   ]
+  },
+  "en": {
+   "q": "Which ancient people built the Parthenon in Athens?",
+   "c": [
+    "The Vikings",
+    "The Mayas",
+    "The Mongols",
+    "The Greeks"
+   ]
+  },
+  "ar": {
+   "q": "أي شعب قديم بنى البارثينون في أثينا؟",
+   "c": [
+    "الفايكنغ",
+    "المايا",
+    "المغول",
+    "الإغريق"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pueblo de la Antigüedad construyó el Partenón en Atenas?",
+   "c": [
+    "Los vikingos",
+    "Los mayas",
+    "Los mongoles",
+    "Los griegos"
+   ]
+  },
+  "pt": {
+   "q": "Que povo da Antiguidade construiu o Partenon em Atenas?",
+   "c": [
+    "Os vikings",
+    "Os maias",
+    "Os mongóis",
+    "Os gregos"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel inventeur est célèbre pour avoir créé le téléphone ?",
+   "c": [
+    "Graham Bell",
+    "Napoléon",
+    "Cléopâtre",
+    "Mozart"
+   ]
+  },
+  "en": {
+   "q": "Which inventor is famous for creating the telephone?",
+   "c": [
+    "Graham Bell",
+    "Napoleon",
+    "Cleopatra",
+    "Mozart"
+   ]
+  },
+  "ar": {
+   "q": "أي مخترع اشتهر باختراع الهاتف؟",
+   "c": [
+    "غراهام بيل",
+    "نابليون",
+    "كليوباترا",
+    "موزارت"
+   ]
+  },
+  "es": {
+   "q": "¿Qué inventor es famoso por crear el teléfono?",
+   "c": [
+    "Graham Bell",
+    "Napoleón",
+    "Cleopatra",
+    "Mozart"
+   ]
+  },
+  "pt": {
+   "q": "Que inventor é famoso por criar o telefone?",
+   "c": [
+    "Graham Bell",
+    "Napoleão",
+    "Cleópatra",
+    "Mozart"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel célèbre savant a découvert la théorie de la relativité ?",
+   "c": [
+    "Mozart",
+    "Albert Einstein",
+    "Napoléon",
+    "Christophe Colomb"
+   ]
+  },
+  "en": {
+   "q": "Which famous scientist developed the theory of relativity?",
+   "c": [
+    "Mozart",
+    "Albert Einstein",
+    "Napoleon",
+    "Christopher Columbus"
+   ]
+  },
+  "ar": {
+   "q": "أي عالم مشهور وضع نظرية النسبية؟",
+   "c": [
+    "موزارت",
+    "ألبرت أينشتاين",
+    "نابليون",
+    "كريستوفر كولومبوس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué famoso científico formuló la teoría de la relatividad?",
+   "c": [
+    "Mozart",
+    "Albert Einstein",
+    "Napoleón",
+    "Cristóbal Colón"
+   ]
+  },
+  "pt": {
+   "q": "Que famoso cientista formulou a teoria da relatividade?",
+   "c": [
+    "Mozart",
+    "Albert Einstein",
+    "Napoleão",
+    "Cristóvão Colombo"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel peuple d'Amérique a construit la pyramide de Chichén Itzá ?",
+   "c": [
+    "Les Vikings",
+    "Les Romains",
+    "Les Mayas",
+    "Les Gaulois"
+   ]
+  },
+  "en": {
+   "q": "Which people of the Americas built the pyramid of Chichén Itzá?",
+   "c": [
+    "The Vikings",
+    "The Romans",
+    "The Mayas",
+    "The Gauls"
+   ]
+  },
+  "ar": {
+   "q": "أي شعب في الأمريكتين بنى هرم تشيتشن إتزا؟",
+   "c": [
+    "الفايكنغ",
+    "الرومان",
+    "المايا",
+    "الغاليون"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pueblo de América construyó la pirámide de Chichén Itzá?",
+   "c": [
+    "Los vikingos",
+    "Los romanos",
+    "Los mayas",
+    "Los galos"
+   ]
+  },
+  "pt": {
+   "q": "Que povo da América construiu a pirâmide de Chichén Itzá?",
+   "c": [
+    "Os vikings",
+    "Os romanos",
+    "Os maias",
+    "Os gauleses"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel chef gaulois a affronté Jules César ?",
+   "c": [
+    "Louis XIV",
+    "Charlemagne",
+    "Cléopâtre",
+    "Vercingétorix"
+   ]
+  },
+  "en": {
+   "q": "Which Gaulish chief faced Julius Caesar?",
+   "c": [
+    "Louis XIV",
+    "Charlemagne",
+    "Cleopatra",
+    "Vercingetorix"
+   ]
+  },
+  "ar": {
+   "q": "أي زعيم غالي واجه يوليوس قيصر؟",
+   "c": [
+    "لويس الرابع عشر",
+    "شارلمان",
+    "كليوباترا",
+    "فرسنجتريكس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué jefe galo se enfrentó a Julio César?",
+   "c": [
+    "Luis XIV",
+    "Carlomagno",
+    "Cleopatra",
+    "Vercingétorix"
+   ]
+  },
+  "pt": {
+   "q": "Que chefe gaulês enfrentou Júlio César?",
+   "c": [
+    "Luís XIV",
+    "Carlos Magno",
+    "Cleópatra",
+    "Vercingetórix"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on l'écriture en dessins des anciens Égyptiens ?",
+   "c": [
+    "Les hiéroglyphes",
+    "Les emojis",
+    "Les lettres latines",
+    "Le braille"
+   ]
+  },
+  "en": {
+   "q": "What is the picture writing of the ancient Egyptians called?",
+   "c": [
+    "Hieroglyphs",
+    "Emojis",
+    "Latin letters",
+    "Braille"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي كتابة المصريين القدماء بالرسوم؟",
+   "c": [
+    "الهيروغليفية",
+    "الرموز التعبيرية",
+    "الحروف اللاتينية",
+    "برايل"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama la escritura con dibujos de los antiguos egipcios?",
+   "c": [
+    "Los jeroglíficos",
+    "Los emojis",
+    "Las letras latinas",
+    "El braille"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama a escrita em desenhos dos antigos egípcios?",
+   "c": [
+    "Os hieróglifos",
+    "Os emojis",
+    "As letras latinas",
+    "O braile"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel peuple, aussi appelé Berbères, vit depuis très longtemps en Afrique du Nord ?",
+   "c": [
+    "Les Vikings",
+    "Les Amazighs",
+    "Les Mayas",
+    "Les Samouraïs"
+   ]
+  },
+  "en": {
+   "q": "Which people, also called Berbers, have lived in North Africa for a very long time?",
+   "c": [
+    "The Vikings",
+    "The Amazigh",
+    "The Mayas",
+    "The Samurai"
+   ]
+  },
+  "ar": {
+   "q": "أي شعب، يُسمى أيضًا البربر، يعيش في شمال أفريقيا منذ زمن بعيد جدًا؟",
+   "c": [
+    "الفايكنغ",
+    "الأمازيغ",
+    "المايا",
+    "الساموراي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pueblo, llamado también bereberes, vive desde hace mucho tiempo en el norte de África?",
+   "c": [
+    "Los vikingos",
+    "Los amazigh",
+    "Los mayas",
+    "Los samuráis"
+   ]
+  },
+  "pt": {
+   "q": "Que povo, também chamado berberes, vive há muito tempo no norte da África?",
+   "c": [
+    "Os vikings",
+    "Os amazigh",
+    "Os maias",
+    "Os samurais"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quels frères français ont inventé le cinéma ?",
+   "c": [
+    "Les frères Dalton",
+    "Les frères Grimm",
+    "Les frères Lumière",
+    "Les frères Marx"
+   ]
+  },
+  "en": {
+   "q": "Which French brothers invented the cinema?",
+   "c": [
+    "The Dalton brothers",
+    "The Grimm brothers",
+    "The Lumière brothers",
+    "The Marx brothers"
+   ]
+  },
+  "ar": {
+   "q": "أي أخوين فرنسيين اخترعا السينما؟",
+   "c": [
+    "الأخوان دالتون",
+    "الأخوان غريم",
+    "الأخوان لوميير",
+    "الأخوان ماركس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué hermanos franceses inventaron el cine?",
+   "c": [
+    "Los hermanos Dalton",
+    "Los hermanos Grimm",
+    "Los hermanos Lumière",
+    "Los hermanos Marx"
+   ]
+  },
+  "pt": {
+   "q": "Que irmãos franceses inventaram o cinema?",
+   "c": [
+    "Os irmãos Dalton",
+    "Os irmãos Grimm",
+    "Os irmãos Lumière",
+    "Os irmãos Marx"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel pharaon a fait construire la Grande Pyramide de Gizeh ?",
+   "c": [
+    "Toutânkhamon",
+    "Ramsès II",
+    "Cléopâtre",
+    "Khéops"
+   ]
+  },
+  "en": {
+   "q": "Which pharaoh had the Great Pyramid of Giza built?",
+   "c": [
+    "Tutankhamun",
+    "Ramesses II",
+    "Cleopatra",
+    "Khufu (Cheops)"
+   ]
+  },
+  "ar": {
+   "q": "أي فرعون بنى الهرم الأكبر في الجيزة؟",
+   "c": [
+    "توت عنخ آمون",
+    "رمسيس الثاني",
+    "كليوباترا",
+    "خوفو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué faraón mandó construir la Gran Pirámide de Guiza?",
+   "c": [
+    "Tutankamón",
+    "Ramsés II",
+    "Cleopatra",
+    "Keops"
+   ]
+  },
+  "pt": {
+   "q": "Que faraó mandou construir a Grande Pirâmide de Gizé?",
+   "c": [
+    "Tutancâmon",
+    "Ramsés II",
+    "Cleópatra",
+    "Quéops"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on une période de mille ans ?",
+   "c": [
+    "Un millénaire",
+    "Un siècle",
+    "Une décennie",
+    "Une année"
+   ]
+  },
+  "en": {
+   "q": "What is a period of one thousand years called?",
+   "c": [
+    "A millennium",
+    "A century",
+    "A decade",
+    "A year"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي فترة مدتها ألف سنة؟",
+   "c": [
+    "ألفية",
+    "قرن",
+    "عقد",
+    "سنة"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama un periodo de mil años?",
+   "c": [
+    "Un milenio",
+    "Un siglo",
+    "Una década",
+    "Un año"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama um período de mil anos?",
+   "c": [
+    "Um milênio",
+    "Um século",
+    "Uma década",
+    "Um ano"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel pays a inventé le papier il y a environ 2000 ans ?",
+   "c": [
+    "Le Brésil",
+    "Le Canada",
+    "La Chine",
+    "L'Australie"
+   ]
+  },
+  "en": {
+   "q": "Which country invented paper about 2,000 years ago?",
+   "c": [
+    "Brazil",
+    "Canada",
+    "China",
+    "Australia"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد اخترع الورق قبل نحو 2000 عام؟",
+   "c": [
+    "البرازيل",
+    "كندا",
+    "الصين",
+    "أستراليا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país inventó el papel hace unos 2000 años?",
+   "c": [
+    "Brasil",
+    "Canadá",
+    "China",
+    "Australia"
+   ]
+  },
+  "pt": {
+   "q": "Que país inventou o papel há cerca de 2000 anos?",
+   "c": [
+    "Brasil",
+    "Canadá",
+    "China",
+    "Austrália"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel peuple a construit le Colisée à Rome ?",
+   "c": [
+    "Les Vikings",
+    "Les Romains",
+    "Les Gaulois",
+    "Les Aztèques"
+   ]
+  },
+  "en": {
+   "q": "Which people built the Colosseum in Rome?",
+   "c": [
+    "The Vikings",
+    "The Romans",
+    "The Gauls",
+    "The Aztecs"
+   ]
+  },
+  "ar": {
+   "q": "أي شعب بنى الكولوسيوم في روما؟",
+   "c": [
+    "الفايكنغ",
+    "الرومان",
+    "الغال",
+    "الأزتك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pueblo construyó el Coliseo de Roma?",
+   "c": [
+    "Los vikingos",
+    "Los romanos",
+    "Los galos",
+    "Los aztecas"
+   ]
+  },
+  "pt": {
+   "q": "Que povo construiu o Coliseu em Roma?",
+   "c": [
+    "Os vikings",
+    "Os romanos",
+    "Os gauleses",
+    "Os astecas"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
    "q": "Quelle civilisation antique a construit les pyramides de Gizeh ?",
    "c": [
     "Les Perses",
@@ -47,7 +1297,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -97,7 +1347,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -147,7 +1397,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -197,7 +1447,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -247,7 +1497,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -297,7 +1547,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -347,7 +1597,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -397,7 +1647,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -447,7 +1697,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -497,7 +1747,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -547,7 +1797,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -597,7 +1847,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -647,7 +1897,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -697,7 +1947,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -747,7 +1997,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -797,7 +2047,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -847,7 +2097,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -897,7 +2147,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -947,7 +2197,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -997,7 +2247,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1047,7 +2297,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1097,7 +2347,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1147,7 +2397,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1197,7 +2447,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1247,7 +2497,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1297,7 +2547,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1347,7 +2597,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1397,7 +2647,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1447,7 +2697,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1497,7 +2747,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1547,7 +2797,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1597,7 +2847,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "en": {
@@ -1647,7 +2897,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1697,7 +2947,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1747,7 +2997,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1797,7 +3047,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1847,7 +3097,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -1897,7 +3147,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -1947,7 +3197,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -1997,7 +3247,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2047,7 +3297,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2097,7 +3347,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2147,7 +3397,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2197,7 +3447,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2247,7 +3497,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2297,7 +3547,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2347,7 +3597,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "en": {
@@ -2397,7 +3647,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2447,7 +3697,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2497,7 +3747,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2547,7 +3797,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2597,7 +3847,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2647,7 +3897,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2697,7 +3947,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2747,7 +3997,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2797,7 +4047,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2847,7 +4097,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2897,7 +4147,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2947,7 +4197,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2997,7 +4247,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -3047,7 +4297,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -3097,7 +4347,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -3147,7 +4397,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -3197,7 +4447,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -3247,7 +4497,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -3297,7 +4547,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -3347,7 +4597,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -3397,7 +4647,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -3447,7 +4697,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -3497,7 +4747,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "en": {
@@ -3547,7 +4797,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "en": {
@@ -3597,7 +4847,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "en": {
@@ -3647,7 +4897,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "en": {
@@ -3697,7 +4947,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -3747,7 +4997,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3797,7 +5047,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3847,7 +5097,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3897,7 +5147,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3947,7 +5197,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3997,7 +5247,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -4047,7 +5297,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -4097,7 +5347,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -4147,7 +5397,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -4197,7 +5447,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -4247,7 +5497,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "en": {
@@ -4297,7 +5547,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "en": {
@@ -4347,7 +5597,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "en": {
@@ -4397,7 +5647,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -4447,7 +5697,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -4497,7 +5747,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -4547,7 +5797,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -4597,7 +5847,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -4647,7 +5897,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -4697,7 +5947,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -4747,7 +5997,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -4797,7 +6047,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -4847,7 +6097,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -4897,7 +6147,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "en": {
@@ -4947,7 +6197,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "en": {
@@ -4997,7 +6247,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -5047,7 +6297,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -5097,7 +6347,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -5147,7 +6397,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -5197,7 +6447,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -5247,7 +6497,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -5297,7 +6547,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -5347,7 +6597,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -5397,7 +6647,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -5447,7 +6697,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -5497,7 +6747,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -5547,7 +6797,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -5597,7 +6847,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -5647,7 +6897,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -5697,7 +6947,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -5747,7 +6997,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -5797,7 +7047,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -5847,7 +7097,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -5897,7 +7147,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -5947,7 +7197,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -5997,7 +7247,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -6047,7 +7297,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -6097,7 +7347,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -6147,7 +7397,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -6197,7 +7447,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -6247,7 +7497,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -6297,7 +7547,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -6347,7 +7597,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -6397,7 +7647,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -6447,7 +7697,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -6497,11 +7747,11 @@
   },
   "a": 3,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "type": "order",
-  "level": 4,
+  "level": 9,
   "image": null,
   "a": 0,
   "fr": {
@@ -6552,7 +7802,7 @@
  },
  {
   "type": "order",
-  "level": 7,
+  "level": 12,
   "image": null,
   "a": 0,
   "fr": {
@@ -6603,7 +7853,7 @@
  },
  {
   "type": "match",
-  "level": 3,
+  "level": 8,
   "image": null,
   "a": 0,
   "fr": {
@@ -6714,7 +7964,7 @@
  },
  {
   "type": "number",
-  "level": 6,
+  "level": 11,
   "image": null,
   "a": 1789,
   "min": 1700,
@@ -6739,7 +7989,7 @@
  },
  {
   "type": "number",
-  "level": 4,
+  "level": 9,
   "image": null,
   "a": 1962,
   "min": 1900,
@@ -6764,7 +8014,7 @@
  },
  {
   "type": "number",
-  "level": 8,
+  "level": 13,
   "image": null,
   "a": 1453,
   "min": 1200,
@@ -6835,7 +8085,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -6885,7 +8135,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -6935,7 +8185,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -6985,7 +8235,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -7035,7 +8285,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -7085,7 +8335,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -7135,7 +8385,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -7185,7 +8435,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -7235,7 +8485,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -7285,7 +8535,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -7335,7 +8585,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -7385,7 +8635,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -7435,7 +8685,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -7485,7 +8735,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -7535,7 +8785,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -7585,7 +8835,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -7635,7 +8885,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -7685,7 +8935,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -7735,7 +8985,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -7785,7 +9035,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -7835,7 +9085,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -7885,7 +9135,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -7935,7 +9185,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -7985,6 +9235,6 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  }
 ]

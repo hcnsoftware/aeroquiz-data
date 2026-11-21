@@ -1,6 +1,1506 @@
 [
  {
   "fr": {
+   "q": "Avec quelle partie du corps frappe-t-on surtout le ballon au football ?",
+   "c": [
+    "L'oreille",
+    "Le pied",
+    "Le coude",
+    "Le nez"
+   ]
+  },
+  "en": {
+   "q": "With which part of the body do you mostly kick the ball in football?",
+   "c": [
+    "The ear",
+    "The foot",
+    "The elbow",
+    "The nose"
+   ]
+  },
+  "ar": {
+   "q": "بأي جزء من الجسم نضرب الكرة غالبًا في كرة القدم؟",
+   "c": [
+    "الأذن",
+    "القدم",
+    "المرفق",
+    "الأنف"
+   ]
+  },
+  "es": {
+   "q": "¿Con qué parte del cuerpo se golpea sobre todo el balón en el fútbol?",
+   "c": [
+    "La oreja",
+    "El pie",
+    "El codo",
+    "La nariz"
+   ]
+  },
+  "pt": {
+   "q": "Com que parte do corpo se chuta principalmente a bola no futebol?",
+   "c": [
+    "A orelha",
+    "O pé",
+    "O cotovelo",
+    "O nariz"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Que porte le gardien de but sur les mains pour attraper le ballon ?",
+   "c": [
+    "Des palmes",
+    "Des skis",
+    "Des gants",
+    "Des patins"
+   ]
+  },
+  "en": {
+   "q": "What does a goalkeeper wear on their hands to catch the ball?",
+   "c": [
+    "Flippers",
+    "Skis",
+    "Gloves",
+    "Skates"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يرتدي حارس المرمى في يديه لالتقاط الكرة؟",
+   "c": [
+    "زعانف",
+    "زلاجات ثلج",
+    "قفازات",
+    "أحذية تزلج"
+   ]
+  },
+  "es": {
+   "q": "¿Qué lleva el portero en las manos para atrapar el balón?",
+   "c": [
+    "Aletas",
+    "Esquís",
+    "Guantes",
+    "Patines"
+   ]
+  },
+  "pt": {
+   "q": "O que o goleiro usa nas mãos para pegar a bola?",
+   "c": [
+    "Nadadeiras",
+    "Esquis",
+    "Luvas",
+    "Patins"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Dans quel sport glisse-t-on sur la neige avec deux longues planches aux pieds ?",
+   "c": [
+    "La natation",
+    "Le basket",
+    "Le judo",
+    "Le ski"
+   ]
+  },
+  "en": {
+   "q": "In which sport do you slide on snow with two long boards on your feet?",
+   "c": [
+    "Swimming",
+    "Basketball",
+    "Judo",
+    "Skiing"
+   ]
+  },
+  "ar": {
+   "q": "في أي رياضة ننزلق على الثلج بلوحين طويلين في القدمين؟",
+   "c": [
+    "السباحة",
+    "كرة السلة",
+    "الجودو",
+    "التزلج على الثلج"
+   ]
+  },
+  "es": {
+   "q": "¿En qué deporte se desliza sobre la nieve con dos tablas largas en los pies?",
+   "c": [
+    "La natación",
+    "El baloncesto",
+    "El judo",
+    "El esquí"
+   ]
+  },
+  "pt": {
+   "q": "Em que esporte se desliza na neve com duas pranchas longas nos pés?",
+   "c": [
+    "A natação",
+    "O basquete",
+    "O judô",
+    "O esqui"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Dans quel sport frappe-t-on une petite balle jaune avec une raquette ?",
+   "c": [
+    "Le tennis",
+    "La natation",
+    "Le judo",
+    "Le ski"
+   ]
+  },
+  "en": {
+   "q": "In which sport do you hit a small yellow ball with a racket?",
+   "c": [
+    "Tennis",
+    "Swimming",
+    "Judo",
+    "Skiing"
+   ]
+  },
+  "ar": {
+   "q": "في أي رياضة نضرب كرة صغيرة صفراء بمضرب؟",
+   "c": [
+    "التنس",
+    "السباحة",
+    "الجودو",
+    "التزلج"
+   ]
+  },
+  "es": {
+   "q": "¿En qué deporte se golpea una pequeña pelota amarilla con una raqueta?",
+   "c": [
+    "El tenis",
+    "La natación",
+    "El judo",
+    "El esquí"
+   ]
+  },
+  "pt": {
+   "q": "Em que esporte se bate numa pequena bola amarela com uma raquete?",
+   "c": [
+    "O tênis",
+    "A natação",
+    "O judô",
+    "O esqui"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Que faut-il marquer pour gagner un match de football ?",
+   "c": [
+    "Des paniers",
+    "Des buts",
+    "Des cartons",
+    "Des gants"
+   ]
+  },
+  "en": {
+   "q": "What do you need to score to win a football match?",
+   "c": [
+    "Baskets",
+    "Goals",
+    "Cards",
+    "Gloves"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يجب أن نسجل للفوز في مباراة كرة القدم؟",
+   "c": [
+    "سلالًا",
+    "أهدافًا",
+    "بطاقات",
+    "قفازات"
+   ]
+  },
+  "es": {
+   "q": "¿Qué hay que marcar para ganar un partido de fútbol?",
+   "c": [
+    "Canastas",
+    "Goles",
+    "Tarjetas",
+    "Guantes"
+   ]
+  },
+  "pt": {
+   "q": "O que é preciso marcar para ganhar uma partida de futebol?",
+   "c": [
+    "Cestas",
+    "Gols",
+    "Cartões",
+    "Luvas"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel animal monte-t-on pour faire de l'équitation ?",
+   "c": [
+    "Le chat",
+    "Le poisson",
+    "Le cheval",
+    "L'oiseau"
+   ]
+  },
+  "en": {
+   "q": "Which animal do you ride in horse riding?",
+   "c": [
+    "The cat",
+    "The fish",
+    "The horse",
+    "The bird"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان نركبه في رياضة الفروسية؟",
+   "c": [
+    "القط",
+    "السمكة",
+    "الحصان",
+    "العصفور"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal se monta en la equitación?",
+   "c": [
+    "El gato",
+    "El pez",
+    "El caballo",
+    "El pájaro"
+   ]
+  },
+  "pt": {
+   "q": "Que animal se monta na equitação?",
+   "c": [
+    "O gato",
+    "O peixe",
+    "O cavalo",
+    "O pássaro"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Au basket, combien de points vaut un panier réussi à l'intérieur de la ligne des trois points ?",
+   "c": [
+    "5",
+    "10",
+    "2",
+    "7"
+   ]
+  },
+  "en": {
+   "q": "In basketball, how many points is a basket scored inside the three-point line worth?",
+   "c": [
+    "5",
+    "10",
+    "2",
+    "7"
+   ]
+  },
+  "ar": {
+   "q": "في كرة السلة، كم نقطة تساوي سلة مسجلة داخل خط الثلاث نقاط؟",
+   "c": [
+    "5",
+    "10",
+    "2",
+    "7"
+   ]
+  },
+  "es": {
+   "q": "En baloncesto, ¿cuántos puntos vale una canasta dentro de la línea de tres puntos?",
+   "c": [
+    "5",
+    "10",
+    "2",
+    "7"
+   ]
+  },
+  "pt": {
+   "q": "No basquete, quantos pontos vale uma cesta feita dentro da linha de três pontos?",
+   "c": [
+    "5",
+    "10",
+    "2",
+    "7"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "De quelle couleur est généralement un ballon de basket ?",
+   "c": [
+    "Vert",
+    "Violet",
+    "Rose",
+    "Orange"
+   ]
+  },
+  "en": {
+   "q": "What color is a basketball usually?",
+   "c": [
+    "Green",
+    "Purple",
+    "Pink",
+    "Orange"
+   ]
+  },
+  "ar": {
+   "q": "ما لون كرة السلة عادةً؟",
+   "c": [
+    "أخضر",
+    "بنفسجي",
+    "وردي",
+    "برتقالي"
+   ]
+  },
+  "es": {
+   "q": "¿De qué color suele ser un balón de baloncesto?",
+   "c": [
+    "Verde",
+    "Morado",
+    "Rosa",
+    "Naranja"
+   ]
+  },
+  "pt": {
+   "q": "Qual é normalmente a cor de uma bola de basquete?",
+   "c": [
+    "Verde",
+    "Roxo",
+    "Rosa",
+    "Laranja"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Dans quel sport les athlètes se battent-ils avec des gants sur un ring ?",
+   "c": [
+    "La boxe",
+    "La natation",
+    "Le tennis",
+    "Le golf"
+   ]
+  },
+  "en": {
+   "q": "In which sport do athletes fight with gloves in a ring?",
+   "c": [
+    "Boxing",
+    "Swimming",
+    "Tennis",
+    "Golf"
+   ]
+  },
+  "ar": {
+   "q": "في أي رياضة يتقاتل الرياضيون بقفازات داخل حلبة؟",
+   "c": [
+    "الملاكمة",
+    "السباحة",
+    "التنس",
+    "الغولف"
+   ]
+  },
+  "es": {
+   "q": "¿En qué deporte los atletas pelean con guantes en un ring?",
+   "c": [
+    "El boxeo",
+    "La natación",
+    "El tenis",
+    "El golf"
+   ]
+  },
+  "pt": {
+   "q": "Em que esporte os atletas lutam com luvas num ringue?",
+   "c": [
+    "O boxe",
+    "A natação",
+    "O tênis",
+    "O golfe"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Dans quel sport deux équipes se renvoient un ballon par-dessus un filet avec les mains ?",
+   "c": [
+    "Le football",
+    "Le volley-ball",
+    "Le golf",
+    "La natation"
+   ]
+  },
+  "en": {
+   "q": "In which sport do two teams send a ball over a net using their hands?",
+   "c": [
+    "Football",
+    "Volleyball",
+    "Golf",
+    "Swimming"
+   ]
+  },
+  "ar": {
+   "q": "في أي رياضة يتبادل فريقان كرة فوق شبكة بأيديهم؟",
+   "c": [
+    "كرة القدم",
+    "الكرة الطائرة",
+    "الغولف",
+    "السباحة"
+   ]
+  },
+  "es": {
+   "q": "¿En qué deporte dos equipos se pasan un balón por encima de una red con las manos?",
+   "c": [
+    "El fútbol",
+    "El voleibol",
+    "El golf",
+    "La natación"
+   ]
+  },
+  "pt": {
+   "q": "Em que esporte dois times passam uma bola por cima de uma rede com as mãos?",
+   "c": [
+    "O futebol",
+    "O vôlei",
+    "O golfe",
+    "A natação"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Que lance-t-on au bowling pour faire tomber les quilles ?",
+   "c": [
+    "Une raquette",
+    "Un volant",
+    "Une lourde boule",
+    "Un frisbee"
+   ]
+  },
+  "en": {
+   "q": "What do you roll in bowling to knock down the pins?",
+   "c": [
+    "A racket",
+    "A shuttlecock",
+    "A heavy ball",
+    "A frisbee"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نُدحرج في البولينغ لإسقاط الدبابيس؟",
+   "c": [
+    "مضرب",
+    "ريشة",
+    "كرة ثقيلة",
+    "قرص طائر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué se lanza en los bolos para derribar los pinos?",
+   "c": [
+    "Una raqueta",
+    "Un volante",
+    "Una bola pesada",
+    "Un frisbi"
+   ]
+  },
+  "pt": {
+   "q": "O que se lança no boliche para derrubar os pinos?",
+   "c": [
+    "Uma raquete",
+    "Uma peteca",
+    "Uma bola pesada",
+    "Um frisbee"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Combien de places y a-t-il sur un podium olympique (or, argent, bronze) ?",
+   "c": [
+    "2",
+    "5",
+    "10",
+    "3"
+   ]
+  },
+  "en": {
+   "q": "How many places are there on an Olympic podium (gold, silver, bronze)?",
+   "c": [
+    "2",
+    "5",
+    "10",
+    "3"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد المراكز على منصة التتويج الأولمبية (ذهب، فضة، برونز)؟",
+   "c": [
+    "2",
+    "5",
+    "10",
+    "3"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos puestos hay en un podio olímpico (oro, plata, bronce)?",
+   "c": [
+    "2",
+    "5",
+    "10",
+    "3"
+   ]
+  },
+  "pt": {
+   "q": "Quantos lugares há num pódio olímpico (ouro, prata, bronze)?",
+   "c": [
+    "2",
+    "5",
+    "10",
+    "3"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "De quel pays vient le footballeur Neymar ?",
+   "c": [
+    "Le Japon",
+    "Le Canada",
+    "L'Égypte",
+    "Le Brésil"
+   ]
+  },
+  "en": {
+   "q": "Which country is the footballer Neymar from?",
+   "c": [
+    "Japan",
+    "Canada",
+    "Egypt",
+    "Brazil"
+   ]
+  },
+  "ar": {
+   "q": "من أي بلد هو لاعب كرة القدم نيمار؟",
+   "c": [
+    "اليابان",
+    "كندا",
+    "مصر",
+    "البرازيل"
+   ]
+  },
+  "es": {
+   "q": "¿De qué país es el futbolista Neymar?",
+   "c": [
+    "Japón",
+    "Canadá",
+    "Egipto",
+    "Brasil"
+   ]
+  },
+  "pt": {
+   "q": "De que país é o jogador Neymar?",
+   "c": [
+    "Japão",
+    "Canadá",
+    "Egito",
+    "Brasil"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quelle équipe nationale de football est surnommée « les Fennecs » ?",
+   "c": [
+    "L'Algérie",
+    "Le Brésil",
+    "La France",
+    "Le Japon"
+   ]
+  },
+  "en": {
+   "q": "Which national football team is nicknamed “the Fennecs”?",
+   "c": [
+    "Algeria",
+    "Brazil",
+    "France",
+    "Japan"
+   ]
+  },
+  "ar": {
+   "q": "أي منتخب وطني لكرة القدم يُلقب بـ«ثعالب الصحراء» (الفناك)؟",
+   "c": [
+    "الجزائر",
+    "البرازيل",
+    "فرنسا",
+    "اليابان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué selección de fútbol es apodada «los Fénecs»?",
+   "c": [
+    "Argelia",
+    "Brasil",
+    "Francia",
+    "Japón"
+   ]
+  },
+  "pt": {
+   "q": "Qual seleção de futebol é apelidada de «Fennecs»?",
+   "c": [
+    "Argélia",
+    "Brasil",
+    "França",
+    "Japão"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel sport pratique la championne Serena Williams ?",
+   "c": [
+    "Le football",
+    "Le tennis",
+    "Le hockey",
+    "La boxe"
+   ]
+  },
+  "en": {
+   "q": "Which sport does champion Serena Williams play?",
+   "c": [
+    "Football",
+    "Tennis",
+    "Hockey",
+    "Boxing"
+   ]
+  },
+  "ar": {
+   "q": "ما الرياضة التي تمارسها البطلة سيرينا ويليامز؟",
+   "c": [
+    "كرة القدم",
+    "التنس",
+    "الهوكي",
+    "الملاكمة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué deporte practica la campeona Serena Williams?",
+   "c": [
+    "El fútbol",
+    "El tenis",
+    "El hockey",
+    "El boxeo"
+   ]
+  },
+  "pt": {
+   "q": "Que esporte pratica a campeã Serena Williams?",
+   "c": [
+    "O futebol",
+    "O tênis",
+    "O hóquei",
+    "O boxe"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Qu'utilise l'arbitre pour arrêter le jeu ?",
+   "c": [
+    "Une cloche",
+    "Un tambour",
+    "Un sifflet",
+    "Une trompette"
+   ]
+  },
+  "en": {
+   "q": "What does the referee use to stop the game?",
+   "c": [
+    "A bell",
+    "A drum",
+    "A whistle",
+    "A trumpet"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يستخدم الحكم لإيقاف اللعب؟",
+   "c": [
+    "جرس",
+    "طبل",
+    "صافرة",
+    "بوق"
+   ]
+  },
+  "es": {
+   "q": "¿Qué usa el árbitro para detener el juego?",
+   "c": [
+    "Una campana",
+    "Un tambor",
+    "Un silbato",
+    "Una trompeta"
+   ]
+  },
+  "pt": {
+   "q": "O que o árbitro usa para parar o jogo?",
+   "c": [
+    "Um sino",
+    "Um tambor",
+    "Um apito",
+    "Uma trombeta"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Dans quel sport glisse-t-on sur les vagues avec une planche ?",
+   "c": [
+    "Le ski",
+    "La boxe",
+    "Le tennis",
+    "Le surf"
+   ]
+  },
+  "en": {
+   "q": "In which sport do you glide on waves with a board?",
+   "c": [
+    "Skiing",
+    "Boxing",
+    "Tennis",
+    "Surfing"
+   ]
+  },
+  "ar": {
+   "q": "في أي رياضة ننزلق على الأمواج بلوح؟",
+   "c": [
+    "التزلج على الثلج",
+    "الملاكمة",
+    "التنس",
+    "ركوب الأمواج"
+   ]
+  },
+  "es": {
+   "q": "¿En qué deporte se desliza sobre las olas con una tabla?",
+   "c": [
+    "El esquí",
+    "El boxeo",
+    "El tenis",
+    "El surf"
+   ]
+  },
+  "pt": {
+   "q": "Em que esporte se desliza nas ondas com uma prancha?",
+   "c": [
+    "O esqui",
+    "O boxe",
+    "O tênis",
+    "O surfe"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel sport se pratique avec un arc et des flèches ?",
+   "c": [
+    "Le tir à l'arc",
+    "La natation",
+    "Le golf",
+    "Le judo"
+   ]
+  },
+  "en": {
+   "q": "Which sport is played with a bow and arrows?",
+   "c": [
+    "Archery",
+    "Swimming",
+    "Golf",
+    "Judo"
+   ]
+  },
+  "ar": {
+   "q": "ما الرياضة التي تُمارس بقوس وسهام؟",
+   "c": [
+    "الرماية بالقوس والسهم",
+    "السباحة",
+    "الغولف",
+    "الجودو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué deporte se practica con arco y flechas?",
+   "c": [
+    "El tiro con arco",
+    "La natación",
+    "El golf",
+    "El judo"
+   ]
+  },
+  "pt": {
+   "q": "Que esporte se pratica com arco e flechas?",
+   "c": [
+    "O tiro com arco",
+    "A natação",
+    "O golfe",
+    "O judô"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on un panier marqué en mettant le ballon dans le cercle depuis le haut, avec la main ?",
+   "c": [
+    "Un dunk",
+    "Un penalty",
+    "Un ace",
+    "Un essai"
+   ]
+  },
+  "en": {
+   "q": "What is it called when a player scores by slamming the ball down into the hoop from above?",
+   "c": [
+    "A dunk",
+    "A penalty",
+    "An ace",
+    "A try"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي تسجيل السلة بإدخال الكرة في الحلقة من الأعلى باليد؟",
+   "c": [
+    "دانك",
+    "ركلة جزاء",
+    "إيس",
+    "لمسة (تراي)"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama una canasta en la que se mete el balón en el aro desde arriba con la mano?",
+   "c": [
+    "Un mate",
+    "Un penalti",
+    "Un ace",
+    "Un ensayo"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama a cesta em que se enterra a bola no aro, de cima para baixo, com a mão?",
+   "c": [
+    "Uma enterrada",
+    "Um pênalti",
+    "Um ace",
+    "Um try"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "De quel pays vient la célèbre équipe de rugby des « All Blacks » ?",
+   "c": [
+    "L'Algérie",
+    "La Nouvelle-Zélande",
+    "Le Canada",
+    "La Chine"
+   ]
+  },
+  "en": {
+   "q": "Which country is the famous rugby team the “All Blacks” from?",
+   "c": [
+    "Algeria",
+    "New Zealand",
+    "Canada",
+    "China"
+   ]
+  },
+  "ar": {
+   "q": "من أي بلد فريق الرغبي الشهير «أول بلاكس»؟",
+   "c": [
+    "الجزائر",
+    "نيوزيلندا",
+    "كندا",
+    "الصين"
+   ]
+  },
+  "es": {
+   "q": "¿De qué país es el famoso equipo de rugby los «All Blacks»?",
+   "c": [
+    "Argelia",
+    "Nueva Zelanda",
+    "Canadá",
+    "China"
+   ]
+  },
+  "pt": {
+   "q": "De que país é a famosa equipe de rúgbi os «All Blacks»?",
+   "c": [
+    "Argélia",
+    "Nova Zelândia",
+    "Canadá",
+    "China"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel autre nom donne-t-on au tennis de table ?",
+   "c": [
+    "Le badminton",
+    "Le golf",
+    "Le ping-pong",
+    "Le bowling"
+   ]
+  },
+  "en": {
+   "q": "What is another name for table tennis?",
+   "c": [
+    "Badminton",
+    "Golf",
+    "Ping-pong",
+    "Bowling"
+   ]
+  },
+  "ar": {
+   "q": "ما الاسم الآخر لكرة الطاولة؟",
+   "c": [
+    "الريشة الطائرة",
+    "الغولف",
+    "بينغ بونغ",
+    "البولينغ"
+   ]
+  },
+  "es": {
+   "q": "¿Qué otro nombre recibe el tenis de mesa?",
+   "c": [
+    "Bádminton",
+    "Golf",
+    "Ping-pong",
+    "Bolos"
+   ]
+  },
+  "pt": {
+   "q": "Que outro nome se dá ao tênis de mesa?",
+   "c": [
+    "Badminton",
+    "Golfe",
+    "Pingue-pongue",
+    "Boliche"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "De quelle couleur est le maillot principal de l'équipe du Brésil de football ?",
+   "c": [
+    "Rouge",
+    "Noir",
+    "Violet",
+    "Jaune"
+   ]
+  },
+  "en": {
+   "q": "What color is the main shirt of the Brazil football team?",
+   "c": [
+    "Red",
+    "Black",
+    "Purple",
+    "Yellow"
+   ]
+  },
+  "ar": {
+   "q": "ما لون القميص الأساسي لمنتخب البرازيل لكرة القدم؟",
+   "c": [
+    "أحمر",
+    "أسود",
+    "بنفسجي",
+    "أصفر"
+   ]
+  },
+  "es": {
+   "q": "¿De qué color es la camiseta principal de la selección de fútbol de Brasil?",
+   "c": [
+    "Rojo",
+    "Negro",
+    "Morado",
+    "Amarillo"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a cor da camisa principal da seleção brasileira de futebol?",
+   "c": [
+    "Vermelha",
+    "Preta",
+    "Roxa",
+    "Amarela"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "De quelle couleur est le maillot du leader du Tour de France ?",
+   "c": [
+    "Jaune",
+    "Bleu",
+    "Noir",
+    "Orange"
+   ]
+  },
+  "en": {
+   "q": "What color is the Tour de France leader's jersey?",
+   "c": [
+    "Yellow",
+    "Blue",
+    "Black",
+    "Orange"
+   ]
+  },
+  "ar": {
+   "q": "ما لون قميص المتصدر في سباق طواف فرنسا؟",
+   "c": [
+    "أصفر",
+    "أزرق",
+    "أسود",
+    "برتقالي"
+   ]
+  },
+  "es": {
+   "q": "¿De qué color es el maillot del líder del Tour de Francia?",
+   "c": [
+    "Amarillo",
+    "Azul",
+    "Negro",
+    "Naranja"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a cor da camisa do líder do Tour de France?",
+   "c": [
+    "Amarela",
+    "Azul",
+    "Preta",
+    "Laranja"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel sport se joue avec des boules en métal et un petit « cochonnet » ?",
+   "c": [
+    "Le golf",
+    "La pétanque",
+    "Le bowling",
+    "Le volley-ball"
+   ]
+  },
+  "en": {
+   "q": "Which sport is played with metal balls and a small target ball called a “jack”?",
+   "c": [
+    "Golf",
+    "Petanque",
+    "Bowling",
+    "Volleyball"
+   ]
+  },
+  "ar": {
+   "q": "ما الرياضة التي تُلعب بكرات معدنية وكرة صغيرة تُسمى «الهدف»؟",
+   "c": [
+    "الغولف",
+    "البيتانك",
+    "البولينغ",
+    "الكرة الطائرة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué deporte se juega con bolas de metal y una bola pequeña llamada «boliche»?",
+   "c": [
+    "El golf",
+    "La petanca",
+    "Los bolos",
+    "El voleibol"
+   ]
+  },
+  "pt": {
+   "q": "Que esporte se joga com bolas de metal e uma bolinha pequena chamada «bolim»?",
+   "c": [
+    "O golfe",
+    "A petanca",
+    "O boliche",
+    "O vôlei"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Au tennis, comment appelle-t-on un service que l'adversaire ne parvient pas à toucher ?",
+   "c": [
+    "Un dunk",
+    "Un ace",
+    "Un essai",
+    "Un penalty"
+   ]
+  },
+  "en": {
+   "q": "In tennis, what is a serve the opponent cannot touch called?",
+   "c": [
+    "A dunk",
+    "An ace",
+    "A try",
+    "A penalty"
+   ]
+  },
+  "ar": {
+   "q": "في التنس، ماذا نسمي الإرسال الذي لا يستطيع الخصم لمسه؟",
+   "c": [
+    "دانك",
+    "إيس",
+    "لمسة (تراي)",
+    "ركلة جزاء"
+   ]
+  },
+  "es": {
+   "q": "En tenis, ¿cómo se llama un saque que el rival no logra tocar?",
+   "c": [
+    "Un mate",
+    "Un ace",
+    "Un ensayo",
+    "Un penalti"
+   ]
+  },
+  "pt": {
+   "q": "No tênis, como se chama um saque que o adversário não consegue tocar?",
+   "c": [
+    "Uma enterrada",
+    "Um ace",
+    "Um try",
+    "Um pênalti"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelle la grande compétition de football entre les pays d'Afrique ?",
+   "c": [
+    "La Ligue des champions",
+    "L'Euro",
+    "La Coupe d'Afrique des nations",
+    "La Copa América"
+   ]
+  },
+  "en": {
+   "q": "What is the big football competition between African countries called?",
+   "c": [
+    "The Champions League",
+    "The Euros",
+    "The Africa Cup of Nations",
+    "The Copa América"
+   ]
+  },
+  "ar": {
+   "q": "ما اسم البطولة الكبرى لكرة القدم بين الدول الأفريقية؟",
+   "c": [
+    "دوري أبطال أوروبا",
+    "بطولة أمم أوروبا",
+    "كأس الأمم الأفريقية",
+    "كوبا أمريكا"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama la gran competición de fútbol entre países africanos?",
+   "c": [
+    "La Liga de Campeones",
+    "La Eurocopa",
+    "La Copa Africana de Naciones",
+    "La Copa América"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama a grande competição de futebol entre países africanos?",
+   "c": [
+    "A Liga dos Campeões",
+    "A Eurocopa",
+    "A Copa Africana de Nações",
+    "A Copa América"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Au rugby, comment appelle-t-on le fait de marquer en posant le ballon derrière la ligne adverse ?",
+   "c": [
+    "Un panier",
+    "Un ace",
+    "Un dunk",
+    "Un essai"
+   ]
+  },
+  "en": {
+   "q": "In rugby, what is it called when you score by placing the ball over the opponent's line?",
+   "c": [
+    "A basket",
+    "An ace",
+    "A dunk",
+    "A try"
+   ]
+  },
+  "ar": {
+   "q": "في الرغبي، ماذا نسمي التسجيل بوضع الكرة خلف خط الخصم؟",
+   "c": [
+    "سلة",
+    "إيس",
+    "دانك",
+    "لمسة (تراي)"
+   ]
+  },
+  "es": {
+   "q": "En rugby, ¿cómo se llama anotar apoyando el balón detrás de la línea rival?",
+   "c": [
+    "Una canasta",
+    "Un ace",
+    "Un mate",
+    "Un ensayo"
+   ]
+  },
+  "pt": {
+   "q": "No rúgbi, como se chama marcar apoiando a bola atrás da linha adversária?",
+   "c": [
+    "Uma cesta",
+    "Um ace",
+    "Uma enterrada",
+    "Um try"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "De quel pays vient le footballeur Mohamed Salah ?",
+   "c": [
+    "L'Égypte",
+    "Le Japon",
+    "Le Chili",
+    "La Pologne"
+   ]
+  },
+  "en": {
+   "q": "Which country is the footballer Mohamed Salah from?",
+   "c": [
+    "Egypt",
+    "Japan",
+    "Chile",
+    "Poland"
+   ]
+  },
+  "ar": {
+   "q": "من أي بلد هو لاعب كرة القدم محمد صلاح؟",
+   "c": [
+    "مصر",
+    "اليابان",
+    "تشيلي",
+    "بولندا"
+   ]
+  },
+  "es": {
+   "q": "¿De qué país es el futbolista Mohamed Salah?",
+   "c": [
+    "Egipto",
+    "Japón",
+    "Chile",
+    "Polonia"
+   ]
+  },
+  "pt": {
+   "q": "De que país é o jogador Mohamed Salah?",
+   "c": [
+    "Egito",
+    "Japão",
+    "Chile",
+    "Polônia"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel sport pratique le champion Tiger Woods ?",
+   "c": [
+    "Le tennis",
+    "Le golf",
+    "La boxe",
+    "Le rugby"
+   ]
+  },
+  "en": {
+   "q": "Which sport does champion Tiger Woods play?",
+   "c": [
+    "Tennis",
+    "Golf",
+    "Boxing",
+    "Rugby"
+   ]
+  },
+  "ar": {
+   "q": "ما الرياضة التي يمارسها البطل تايغر وودز؟",
+   "c": [
+    "التنس",
+    "الغولف",
+    "الملاكمة",
+    "الرغبي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué deporte practica el campeón Tiger Woods?",
+   "c": [
+    "El tenis",
+    "El golf",
+    "El boxeo",
+    "El rugby"
+   ]
+  },
+  "pt": {
+   "q": "Que esporte pratica o campeão Tiger Woods?",
+   "c": [
+    "O tênis",
+    "O golfe",
+    "O boxe",
+    "O rúgbi"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Au football, comment appelle-t-on le tir donné depuis le point de réparation après une faute dans la surface ?",
+   "c": [
+    "Un service",
+    "Un smash",
+    "Un penalty",
+    "Un dunk"
+   ]
+  },
+  "en": {
+   "q": "In football, what is the shot taken from the penalty spot after a foul in the box called?",
+   "c": [
+    "A serve",
+    "A smash",
+    "A penalty",
+    "A dunk"
+   ]
+  },
+  "ar": {
+   "q": "في كرة القدم، ماذا نسمي الركلة التي تُنفَّذ من نقطة الجزاء بعد خطأ داخل منطقة الجزاء؟",
+   "c": [
+    "إرسال",
+    "ضربة ساحقة",
+    "ركلة جزاء",
+    "دانك"
+   ]
+  },
+  "es": {
+   "q": "En el fútbol, ¿cómo se llama el tiro desde el punto de penalti tras una falta en el área?",
+   "c": [
+    "Un saque",
+    "Un remate",
+    "Un penalti",
+    "Un mate"
+   ]
+  },
+  "pt": {
+   "q": "No futebol, como se chama a cobrança feita da marca do pênalti após uma falta dentro da área?",
+   "c": [
+    "Um saque",
+    "Uma cortada",
+    "Um pênalti",
+    "Uma enterrada"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
    "q": "Combien de joueurs par équipe sur le terrain au football ?",
    "c": [
     "9",
@@ -47,7 +1547,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -97,7 +1597,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -147,7 +1647,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -197,7 +1697,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -247,7 +1747,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -297,7 +1797,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -347,7 +1847,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -397,7 +1897,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -447,7 +1947,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -497,7 +1997,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -547,7 +2047,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -597,7 +2097,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -647,7 +2147,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -697,7 +2197,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -747,7 +2247,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -797,7 +2297,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -847,7 +2347,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -897,7 +2397,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -947,7 +2447,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -997,7 +2497,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1047,7 +2547,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1097,7 +2597,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1147,7 +2647,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1197,7 +2697,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1247,7 +2747,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1297,7 +2797,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1347,7 +2847,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1397,7 +2897,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1447,7 +2947,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1497,7 +2997,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1547,7 +3047,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1597,7 +3097,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1647,7 +3147,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1697,7 +3197,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1747,7 +3247,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1797,7 +3297,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1847,7 +3347,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -1897,7 +3397,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -1947,7 +3447,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -1997,7 +3497,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2047,7 +3547,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2097,7 +3597,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2147,7 +3647,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2197,7 +3697,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2247,7 +3747,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2297,7 +3797,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2347,7 +3847,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2397,7 +3897,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2447,7 +3947,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2497,7 +3997,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2547,7 +4047,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2597,7 +4097,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2647,7 +4147,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2697,7 +4197,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2747,7 +4247,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2797,7 +4297,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2847,7 +4347,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2897,7 +4397,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2947,7 +4447,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "en": {
@@ -2997,7 +4497,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -3047,7 +4547,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3097,7 +4597,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3147,7 +4647,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3197,7 +4697,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3247,7 +4747,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3297,7 +4797,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3347,7 +4847,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3397,7 +4897,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3447,7 +4947,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3497,7 +4997,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3547,7 +5047,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "en": {
@@ -3597,7 +5097,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3647,7 +5147,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -3697,7 +5197,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -3747,7 +5247,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -3797,7 +5297,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -3847,7 +5347,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -3897,7 +5397,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -3947,7 +5447,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -3997,7 +5497,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -4047,7 +5547,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -4097,7 +5597,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -4147,7 +5647,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -4197,7 +5697,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -4247,7 +5747,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -4297,7 +5797,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -4347,7 +5847,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "en": {
@@ -4397,7 +5897,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -4447,7 +5947,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -4497,7 +5997,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -4547,7 +6047,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -4597,7 +6097,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -4647,7 +6147,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -4697,7 +6197,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -4747,7 +6247,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -4797,7 +6297,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -4847,7 +6347,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -4897,7 +6397,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -4947,7 +6447,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -4997,7 +6497,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -5047,7 +6547,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -5097,7 +6597,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -5147,7 +6647,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -5197,7 +6697,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -5247,7 +6747,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "en": {
@@ -5297,7 +6797,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -5347,7 +6847,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -5397,7 +6897,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -5447,7 +6947,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -5497,7 +6997,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -5547,7 +7047,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -5597,11 +7097,11 @@
   },
   "a": 2,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "type": "order",
-  "level": 4,
+  "level": 9,
   "image": null,
   "a": 0,
   "fr": {
@@ -5652,7 +7152,7 @@
  },
  {
   "type": "match",
-  "level": 3,
+  "level": 8,
   "image": null,
   "a": 0,
   "fr": {
@@ -5763,7 +7263,7 @@
  },
  {
   "type": "number",
-  "level": 5,
+  "level": 10,
   "image": null,
   "a": 1896,
   "min": 1850,
@@ -5788,7 +7288,7 @@
  },
  {
   "type": "number",
-  "level": 4,
+  "level": 9,
   "image": null,
   "a": 42,
   "min": 20,
@@ -5864,7 +7364,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -5914,7 +7414,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -5964,7 +7464,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -6014,7 +7514,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -6064,7 +7564,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -6114,7 +7614,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -6164,7 +7664,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -6214,7 +7714,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -6264,7 +7764,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -6314,7 +7814,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -6364,7 +7864,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -6414,7 +7914,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -6464,7 +7964,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -6514,7 +8014,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -6564,7 +8064,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -6614,7 +8114,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -6664,7 +8164,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -6714,7 +8214,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -6764,7 +8264,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -6814,7 +8314,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -6864,7 +8364,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -6914,7 +8414,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -6964,7 +8464,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -7014,6 +8514,6 @@
   },
   "a": 1,
   "image": null,
-  "level": 4
+  "level": 9
  }
 ]

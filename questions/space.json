@@ -1,6 +1,1506 @@
 [
  {
   "fr": {
+   "q": "Qu'est-ce que le Soleil ?",
+   "c": [
+    "Une étoile",
+    "Une planète",
+    "Un nuage",
+    "Une lune"
+   ]
+  },
+  "en": {
+   "q": "What is the Sun?",
+   "c": [
+    "A star",
+    "A planet",
+    "A cloud",
+    "A moon"
+   ]
+  },
+  "ar": {
+   "q": "ما هي الشمس؟",
+   "c": [
+    "نجم",
+    "كوكب",
+    "سحابة",
+    "قمر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué es el Sol?",
+   "c": [
+    "Una estrella",
+    "Un planeta",
+    "Una nube",
+    "Una luna"
+   ]
+  },
+  "pt": {
+   "q": "O que é o Sol?",
+   "c": [
+    "Uma estrela",
+    "Um planeta",
+    "Uma nuvem",
+    "Uma lua"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quand voit-on le mieux les étoiles ?",
+   "c": [
+    "À midi",
+    "La nuit",
+    "Le matin",
+    "Au déjeuner"
+   ]
+  },
+  "en": {
+   "q": "When can we see stars best?",
+   "c": [
+    "At noon",
+    "At night",
+    "In the morning",
+    "At lunchtime"
+   ]
+  },
+  "ar": {
+   "q": "متى نرى النجوم بشكل أفضل؟",
+   "c": [
+    "عند الظهر",
+    "ليلاً",
+    "في الصباح",
+    "وقت الغداء"
+   ]
+  },
+  "es": {
+   "q": "¿Cuándo se ven mejor las estrellas?",
+   "c": [
+    "Al mediodía",
+    "De noche",
+    "Por la mañana",
+    "A la hora del almuerzo"
+   ]
+  },
+  "pt": {
+   "q": "Quando vemos melhor as estrelas?",
+   "c": [
+    "Ao meio-dia",
+    "À noite",
+    "De manhã",
+    "À hora do almoço"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Combien de Soleils y a-t-il dans notre ciel ?",
+   "c": [
+    "Deux",
+    "Cinq",
+    "Un",
+    "Dix"
+   ]
+  },
+  "en": {
+   "q": "How many Suns are there in our sky?",
+   "c": [
+    "Two",
+    "Five",
+    "One",
+    "Ten"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد الشموس في سمائنا؟",
+   "c": [
+    "اثنتان",
+    "خمس",
+    "واحدة",
+    "عشر"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos Soles hay en nuestro cielo?",
+   "c": [
+    "Dos",
+    "Cinco",
+    "Uno",
+    "Diez"
+   ]
+  },
+  "pt": {
+   "q": "Quantos Sóis há no nosso céu?",
+   "c": [
+    "Dois",
+    "Cinco",
+    "Um",
+    "Dez"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Qu'est-ce qui est le plus gros ?",
+   "c": [
+    "La Terre",
+    "La Lune",
+    "Un ballon",
+    "Le Soleil"
+   ]
+  },
+  "en": {
+   "q": "Which is the biggest?",
+   "c": [
+    "The Earth",
+    "The Moon",
+    "A ball",
+    "The Sun"
+   ]
+  },
+  "ar": {
+   "q": "أيّها الأكبر؟",
+   "c": [
+    "الأرض",
+    "القمر",
+    "كرة",
+    "الشمس"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el más grande?",
+   "c": [
+    "La Tierra",
+    "La Luna",
+    "Una pelota",
+    "El Sol"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior?",
+   "c": [
+    "A Terra",
+    "A Lua",
+    "Uma bola",
+    "O Sol"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle forme a la pleine lune ?",
+   "c": [
+    "Carrée",
+    "Ronde",
+    "Triangulaire",
+    "En cœur"
+   ]
+  },
+  "en": {
+   "q": "What shape is the full moon?",
+   "c": [
+    "Square",
+    "Round",
+    "Triangular",
+    "Heart-shaped"
+   ]
+  },
+  "ar": {
+   "q": "ما شكل القمر عندما يكون بدراً؟",
+   "c": [
+    "مربع",
+    "مستدير",
+    "مثلث",
+    "على شكل قلب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué forma tiene la luna llena?",
+   "c": [
+    "Cuadrada",
+    "Redonda",
+    "Triangular",
+    "De corazón"
+   ]
+  },
+  "pt": {
+   "q": "Que forma tem a lua cheia?",
+   "c": [
+    "Quadrada",
+    "Redonda",
+    "Triangular",
+    "De coração"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on l'endroit où se trouvent les planètes et les étoiles ?",
+   "c": [
+    "La mer",
+    "La forêt",
+    "L'espace",
+    "Le désert"
+   ]
+  },
+  "en": {
+   "q": "What do we call the place where planets and stars are?",
+   "c": [
+    "The sea",
+    "The forest",
+    "Space",
+    "The desert"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي المكان الذي توجد فيه الكواكب والنجوم؟",
+   "c": [
+    "البحر",
+    "الغابة",
+    "الفضاء",
+    "الصحراء"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama el lugar donde están los planetas y las estrellas?",
+   "c": [
+    "El mar",
+    "El bosque",
+    "El espacio",
+    "El desierto"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama o lugar onde estão os planetas e as estrelas?",
+   "c": [
+    "O mar",
+    "A floresta",
+    "O espaço",
+    "O deserto"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on les trous ronds à la surface de la Lune ?",
+   "c": [
+    "Des lacs",
+    "Des puits",
+    "Des tunnels",
+    "Des cratères"
+   ]
+  },
+  "en": {
+   "q": "What are the round holes on the Moon's surface called?",
+   "c": [
+    "Lakes",
+    "Wells",
+    "Tunnels",
+    "Craters"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي الحفر المستديرة على سطح القمر؟",
+   "c": [
+    "بحيرات",
+    "آبار",
+    "أنفاق",
+    "فوّهات"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llaman los hoyos redondos de la superficie de la Luna?",
+   "c": [
+    "Lagos",
+    "Pozos",
+    "Túneles",
+    "Cráteres"
+   ]
+  },
+  "pt": {
+   "q": "Como se chamam os buracos redondos na superfície da Lua?",
+   "c": [
+    "Lagos",
+    "Poços",
+    "Túneis",
+    "Crateras"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Que doivent emporter les astronautes pour respirer dans l'espace ?",
+   "c": [
+    "De l'air",
+    "Du sable",
+    "Des pierres",
+    "De la neige"
+   ]
+  },
+  "en": {
+   "q": "What must astronauts bring to breathe in space?",
+   "c": [
+    "Air",
+    "Sand",
+    "Stones",
+    "Snow"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يجب أن يحمل رواد الفضاء ليتنفسوا في الفضاء؟",
+   "c": [
+    "الهواء",
+    "الرمل",
+    "الحجارة",
+    "الثلج"
+   ]
+  },
+  "es": {
+   "q": "¿Qué deben llevar los astronautas para respirar en el espacio?",
+   "c": [
+    "Aire",
+    "Arena",
+    "Piedras",
+    "Nieve"
+   ]
+  },
+  "pt": {
+   "q": "O que os astronautas precisam levar para respirar no espaço?",
+   "c": [
+    "Ar",
+    "Areia",
+    "Pedras",
+    "Neve"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Combien d'heures dure un jour sur Terre ?",
+   "c": [
+    "1",
+    "100",
+    "24",
+    "7"
+   ]
+  },
+  "en": {
+   "q": "How many hours are in a day on Earth?",
+   "c": [
+    "1",
+    "100",
+    "24",
+    "7"
+   ]
+  },
+  "ar": {
+   "q": "كم ساعة في اليوم على الأرض؟",
+   "c": [
+    "1",
+    "100",
+    "24",
+    "7"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántas horas tiene un día en la Tierra?",
+   "c": [
+    "1",
+    "100",
+    "24",
+    "7"
+   ]
+  },
+  "pt": {
+   "q": "Quantas horas tem um dia na Terra?",
+   "c": [
+    "1",
+    "100",
+    "24",
+    "7"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Que nous donne le Soleil ?",
+   "c": [
+    "De la neige",
+    "De la pluie",
+    "Du brouillard",
+    "De la lumière et de la chaleur"
+   ]
+  },
+  "en": {
+   "q": "What does the Sun give us?",
+   "c": [
+    "Snow",
+    "Rain",
+    "Fog",
+    "Light and heat"
+   ]
+  },
+  "ar": {
+   "q": "ماذا تعطينا الشمس؟",
+   "c": [
+    "الثلج",
+    "المطر",
+    "الضباب",
+    "الضوء والحرارة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué nos da el Sol?",
+   "c": [
+    "Nieve",
+    "Lluvia",
+    "Niebla",
+    "Luz y calor"
+   ]
+  },
+  "pt": {
+   "q": "O que o Sol nos dá?",
+   "c": [
+    "Neve",
+    "Chuva",
+    "Neblina",
+    "Luz e calor"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel engin roule sur Mars pour l'explorer ?",
+   "c": [
+    "Un robot",
+    "Un bateau",
+    "Un sous-marin",
+    "Un train"
+   ]
+  },
+  "en": {
+   "q": "What rolls on Mars to explore it?",
+   "c": [
+    "A robot",
+    "A boat",
+    "A submarine",
+    "A train"
+   ]
+  },
+  "ar": {
+   "q": "ما الذي يتجول على المريخ لاستكشافه؟",
+   "c": [
+    "روبوت",
+    "قارب",
+    "غواصة",
+    "قطار"
+   ]
+  },
+  "es": {
+   "q": "¿Qué rueda por Marte para explorarlo?",
+   "c": [
+    "Un robot",
+    "Un barco",
+    "Un submarino",
+    "Un tren"
+   ]
+  },
+  "pt": {
+   "q": "O que anda por Marte para explorá-lo?",
+   "c": [
+    "Um robô",
+    "Um barco",
+    "Um submarino",
+    "Um trem"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "De quelle couleur la Terre paraît-elle vue de l'espace ?",
+   "c": [
+    "Rouge",
+    "Bleue",
+    "Orange",
+    "Violette"
+   ]
+  },
+  "en": {
+   "q": "What color does Earth look from space?",
+   "c": [
+    "Red",
+    "Blue",
+    "Orange",
+    "Purple"
+   ]
+  },
+  "ar": {
+   "q": "ما لون الأرض عند رؤيتها من الفضاء؟",
+   "c": [
+    "حمراء",
+    "زرقاء",
+    "برتقالية",
+    "بنفسجية"
+   ]
+  },
+  "es": {
+   "q": "¿De qué color se ve la Tierra desde el espacio?",
+   "c": [
+    "Roja",
+    "Azul",
+    "Naranja",
+    "Morada"
+   ]
+  },
+  "pt": {
+   "q": "De que cor a Terra parece vista do espaço?",
+   "c": [
+    "Vermelha",
+    "Azul",
+    "Laranja",
+    "Roxa"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle planète vient juste après la Terre en s'éloignant du Soleil ?",
+   "c": [
+    "Saturne",
+    "Neptune",
+    "Mercure",
+    "Mars"
+   ]
+  },
+  "en": {
+   "q": "Which planet comes right after Earth, moving away from the Sun?",
+   "c": [
+    "Saturn",
+    "Neptune",
+    "Mercury",
+    "Mars"
+   ]
+  },
+  "ar": {
+   "q": "أي كوكب يأتي بعد الأرض مباشرة في اتجاه الابتعاد عن الشمس؟",
+   "c": [
+    "زحل",
+    "نبتون",
+    "عطارد",
+    "المريخ"
+   ]
+  },
+  "es": {
+   "q": "¿Qué planeta viene justo después de la Tierra, alejándose del Sol?",
+   "c": [
+    "Saturno",
+    "Neptuno",
+    "Mercurio",
+    "Marte"
+   ]
+  },
+  "pt": {
+   "q": "Qual planeta vem logo depois da Terra, afastando-se do Sol?",
+   "c": [
+    "Saturno",
+    "Netuno",
+    "Mercúrio",
+    "Marte"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel astre est le plus proche de la Terre ?",
+   "c": [
+    "La Lune",
+    "Mars",
+    "Jupiter",
+    "Saturne"
+   ]
+  },
+  "en": {
+   "q": "Which celestial body is closest to Earth?",
+   "c": [
+    "The Moon",
+    "Mars",
+    "Jupiter",
+    "Saturn"
+   ]
+  },
+  "ar": {
+   "q": "أي جرم سماوي هو الأقرب إلى الأرض؟",
+   "c": [
+    "القمر",
+    "المريخ",
+    "المشتري",
+    "زحل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué astro está más cerca de la Tierra?",
+   "c": [
+    "La Luna",
+    "Marte",
+    "Júpiter",
+    "Saturno"
+   ]
+  },
+  "pt": {
+   "q": "Qual astro está mais perto da Terra?",
+   "c": [
+    "A Lua",
+    "Marte",
+    "Júpiter",
+    "Saturno"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "De quoi la Lune est-elle faite ?",
+   "c": [
+    "D'eau",
+    "De roche",
+    "De nuages",
+    "De feu"
+   ]
+  },
+  "en": {
+   "q": "What is the Moon made of?",
+   "c": [
+    "Water",
+    "Rock",
+    "Clouds",
+    "Fire"
+   ]
+  },
+  "ar": {
+   "q": "مم يتكوّن القمر؟",
+   "c": [
+    "من الماء",
+    "من الصخور",
+    "من السحب",
+    "من النار"
+   ]
+  },
+  "es": {
+   "q": "¿De qué está hecha la Luna?",
+   "c": [
+    "De agua",
+    "De roca",
+    "De nubes",
+    "De fuego"
+   ]
+  },
+  "pt": {
+   "q": "De que é feita a Lua?",
+   "c": [
+    "De água",
+    "De rocha",
+    "De nuvens",
+    "De fogo"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Qu'y a-t-il au centre du système solaire ?",
+   "c": [
+    "La Terre",
+    "La Lune",
+    "Le Soleil",
+    "Jupiter"
+   ]
+  },
+  "en": {
+   "q": "What is at the center of the solar system?",
+   "c": [
+    "The Earth",
+    "The Moon",
+    "The Sun",
+    "Jupiter"
+   ]
+  },
+  "ar": {
+   "q": "ما الذي يوجد في مركز المجموعة الشمسية؟",
+   "c": [
+    "الأرض",
+    "القمر",
+    "الشمس",
+    "المشتري"
+   ]
+  },
+  "es": {
+   "q": "¿Qué hay en el centro del sistema solar?",
+   "c": [
+    "La Tierra",
+    "La Luna",
+    "El Sol",
+    "Júpiter"
+   ]
+  },
+  "pt": {
+   "q": "O que há no centro do sistema solar?",
+   "c": [
+    "A Terra",
+    "A Lua",
+    "O Sol",
+    "Júpiter"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on le moment où une fusée quitte le sol ?",
+   "c": [
+    "Le décollage",
+    "L'atterrissage",
+    "Le freinage",
+    "Le plongeon"
+   ]
+  },
+  "en": {
+   "q": "What do we call the moment a rocket leaves the ground?",
+   "c": [
+    "Takeoff",
+    "Landing",
+    "Braking",
+    "Diving"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي لحظة مغادرة الصاروخ للأرض؟",
+   "c": [
+    "الإقلاع",
+    "الهبوط",
+    "الفرملة",
+    "الغوص"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama el momento en que un cohete despega del suelo?",
+   "c": [
+    "El despegue",
+    "El aterrizaje",
+    "El frenado",
+    "El buceo"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama o momento em que um foguete sai do chão?",
+   "c": [
+    "A decolagem",
+    "A aterrissagem",
+    "A freada",
+    "O mergulho"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on une personne qui étudie les étoiles ?",
+   "c": [
+    "Un boulanger",
+    "Un astronome",
+    "Un pilote",
+    "Un jardinier"
+   ]
+  },
+  "en": {
+   "q": "What do we call a person who studies the stars?",
+   "c": [
+    "A baker",
+    "An astronomer",
+    "A pilot",
+    "A gardener"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي الشخص الذي يدرس النجوم؟",
+   "c": [
+    "خباز",
+    "فلكي",
+    "طيار",
+    "بستاني"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama una persona que estudia las estrellas?",
+   "c": [
+    "Un panadero",
+    "Un astrónomo",
+    "Un piloto",
+    "Un jardinero"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama uma pessoa que estuda as estrelas?",
+   "c": [
+    "Um padeiro",
+    "Um astrônomo",
+    "Um piloto",
+    "Um jardineiro"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Pourquoi la Lune brille-t-elle ?",
+   "c": [
+    "Elle produit sa propre lumière",
+    "Elle est couverte de lampes",
+    "Elle reflète la lumière du Soleil",
+    "Elle est en or"
+   ]
+  },
+  "en": {
+   "q": "Why does the Moon shine?",
+   "c": [
+    "It makes its own light",
+    "It is covered in lamps",
+    "It reflects sunlight",
+    "It is made of gold"
+   ]
+  },
+  "ar": {
+   "q": "لماذا يلمع القمر؟",
+   "c": [
+    "لأنه يصنع ضوءه بنفسه",
+    "لأنه مغطى بالمصابيح",
+    "لأنه يعكس ضوء الشمس",
+    "لأنه من ذهب"
+   ]
+  },
+  "es": {
+   "q": "¿Por qué brilla la Luna?",
+   "c": [
+    "Produce su propia luz",
+    "Está cubierta de lámparas",
+    "Refleja la luz del Sol",
+    "Es de oro"
+   ]
+  },
+  "pt": {
+   "q": "Por que a Lua brilha?",
+   "c": [
+    "Ela produz a própria luz",
+    "Ela é coberta de lâmpadas",
+    "Ela reflete a luz do Sol",
+    "Ela é de ouro"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on une pierre venue de l'espace et tombée sur Terre ?",
+   "c": [
+    "Un volcan",
+    "Un diamant",
+    "Un coquillage",
+    "Une météorite"
+   ]
+  },
+  "en": {
+   "q": "What do we call a rock from space that fell to Earth?",
+   "c": [
+    "A volcano",
+    "A diamond",
+    "A seashell",
+    "A meteorite"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي صخرة قادمة من الفضاء سقطت على الأرض؟",
+   "c": [
+    "بركان",
+    "ألماس",
+    "صدفة",
+    "نيزك"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama una roca del espacio que cae a la Tierra?",
+   "c": [
+    "Un volcán",
+    "Un diamante",
+    "Una concha",
+    "Un meteorito"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama uma rocha do espaço que cai na Terra?",
+   "c": [
+    "Um vulcão",
+    "Um diamante",
+    "Uma concha",
+    "Um meteorito"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Sur la Lune, un astronaute peut facilement…",
+   "c": [
+    "Voler comme un oiseau",
+    "Sauter très haut",
+    "Respirer sans aide",
+    "Nager"
+   ]
+  },
+  "en": {
+   "q": "On the Moon, an astronaut can easily…",
+   "c": [
+    "Fly like a bird",
+    "Jump very high",
+    "Breathe without help",
+    "Swim"
+   ]
+  },
+  "ar": {
+   "q": "على سطح القمر، يستطيع رائد الفضاء بسهولة أن…",
+   "c": [
+    "يطير كالطائر",
+    "يقفز عالياً جداً",
+    "يتنفس دون مساعدة",
+    "يسبح"
+   ]
+  },
+  "es": {
+   "q": "En la Luna, un astronauta puede fácilmente…",
+   "c": [
+    "Volar como un pájaro",
+    "Saltar muy alto",
+    "Respirar sin ayuda",
+    "Nadar"
+   ]
+  },
+  "pt": {
+   "q": "Na Lua, um astronauta pode facilmente…",
+   "c": [
+    "Voar como um pássaro",
+    "Pular muito alto",
+    "Respirar sem ajuda",
+    "Nadar"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel pays a planté son drapeau sur la Lune avec Apollo 11 ?",
+   "c": [
+    "La France",
+    "Le Brésil",
+    "Les États-Unis",
+    "L'Égypte"
+   ]
+  },
+  "en": {
+   "q": "Which country planted its flag on the Moon with Apollo 11?",
+   "c": [
+    "France",
+    "Brazil",
+    "The United States",
+    "Egypt"
+   ]
+  },
+  "ar": {
+   "q": "أي دولة نصبت علمها على القمر مع أبولو 11؟",
+   "c": [
+    "فرنسا",
+    "البرازيل",
+    "الولايات المتحدة",
+    "مصر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país plantó su bandera en la Luna con el Apolo 11?",
+   "c": [
+    "Francia",
+    "Brasil",
+    "Estados Unidos",
+    "Egipto"
+   ]
+  },
+  "pt": {
+   "q": "Qual país fincou sua bandeira na Lua com a Apollo 11?",
+   "c": [
+    "França",
+    "Brasil",
+    "Estados Unidos",
+    "Egito"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle est la troisième planète en partant du Soleil ?",
+   "c": [
+    "Mars",
+    "Vénus",
+    "Jupiter",
+    "La Terre"
+   ]
+  },
+  "en": {
+   "q": "What is the third planet from the Sun?",
+   "c": [
+    "Mars",
+    "Venus",
+    "Jupiter",
+    "Earth"
+   ]
+  },
+  "ar": {
+   "q": "ما هو الكوكب الثالث بعد الشمس؟",
+   "c": [
+    "المريخ",
+    "الزهرة",
+    "المشتري",
+    "الأرض"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el tercer planeta desde el Sol?",
+   "c": [
+    "Marte",
+    "Venus",
+    "Júpiter",
+    "La Tierra"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o terceiro planeta a partir do Sol?",
+   "c": [
+    "Marte",
+    "Vênus",
+    "Júpiter",
+    "A Terra"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Le Soleil est une énorme boule de…",
+   "c": [
+    "Gaz très chaud",
+    "Glace",
+    "Roche froide",
+    "Eau"
+   ]
+  },
+  "en": {
+   "q": "The Sun is a huge ball of…",
+   "c": [
+    "Very hot gas",
+    "Ice",
+    "Cold rock",
+    "Water"
+   ]
+  },
+  "ar": {
+   "q": "الشمس كرة ضخمة من…",
+   "c": [
+    "الغازات شديدة الحرارة",
+    "الجليد",
+    "الصخور الباردة",
+    "الماء"
+   ]
+  },
+  "es": {
+   "q": "El Sol es una enorme bola de…",
+   "c": [
+    "Gas muy caliente",
+    "Hielo",
+    "Roca fría",
+    "Agua"
+   ]
+  },
+  "pt": {
+   "q": "O Sol é uma enorme bola de…",
+   "c": [
+    "Gás muito quente",
+    "Gelo",
+    "Rocha fria",
+    "Água"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quelle planète est la deuxième à partir du Soleil ?",
+   "c": [
+    "Mars",
+    "Jupiter",
+    "Vénus",
+    "Uranus"
+   ]
+  },
+  "en": {
+   "q": "Which planet is second from the Sun?",
+   "c": [
+    "Mars",
+    "Jupiter",
+    "Venus",
+    "Uranus"
+   ]
+  },
+  "ar": {
+   "q": "ما هو الكوكب الثاني بعد الشمس؟",
+   "c": [
+    "المريخ",
+    "المشتري",
+    "الزهرة",
+    "أورانوس"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el segundo planeta desde el Sol?",
+   "c": [
+    "Marte",
+    "Júpiter",
+    "Venus",
+    "Urano"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o segundo planeta a partir do Sol?",
+   "c": [
+    "Marte",
+    "Júpiter",
+    "Vênus",
+    "Urano"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Ariane est le nom d'une…",
+   "c": [
+    "Planète",
+    "Étoile",
+    "Comète",
+    "Fusée"
+   ]
+  },
+  "en": {
+   "q": "Ariane is the name of a…",
+   "c": [
+    "Planet",
+    "Star",
+    "Comet",
+    "Rocket"
+   ]
+  },
+  "ar": {
+   "q": "«آريان» هو اسم…",
+   "c": [
+    "كوكب",
+    "نجم",
+    "مذنّب",
+    "صاروخ"
+   ]
+  },
+  "es": {
+   "q": "Ariane es el nombre de un…",
+   "c": [
+    "Planeta",
+    "Estrella",
+    "Cometa",
+    "Cohete"
+   ]
+  },
+  "pt": {
+   "q": "Ariane é o nome de um…",
+   "c": [
+    "Planeta",
+    "Estrela",
+    "Cometa",
+    "Foguete"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel astronaute français a vécu dans la Station spatiale internationale ?",
+   "c": [
+    "Thomas Pesquet",
+    "Zinedine Zidane",
+    "Louis Pasteur",
+    "Napoléon"
+   ]
+  },
+  "en": {
+   "q": "Which French astronaut lived on the International Space Station?",
+   "c": [
+    "Thomas Pesquet",
+    "Zinedine Zidane",
+    "Louis Pasteur",
+    "Napoleon"
+   ]
+  },
+  "ar": {
+   "q": "أي رائد فضاء فرنسي عاش على متن محطة الفضاء الدولية؟",
+   "c": [
+    "توماس بيسكيه",
+    "زين الدين زيدان",
+    "لويس باستور",
+    "نابليون"
+   ]
+  },
+  "es": {
+   "q": "¿Qué astronauta francés vivió en la Estación Espacial Internacional?",
+   "c": [
+    "Thomas Pesquet",
+    "Zinedine Zidane",
+    "Louis Pasteur",
+    "Napoleón"
+   ]
+  },
+  "pt": {
+   "q": "Qual astronauta francês viveu na Estação Espacial Internacional?",
+   "c": [
+    "Thomas Pesquet",
+    "Zinedine Zidane",
+    "Louis Pasteur",
+    "Napoleão"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Qu'est-ce qui produit sa propre lumière ?",
+   "c": [
+    "Une planète",
+    "Une étoile",
+    "La Lune",
+    "Un astéroïde"
+   ]
+  },
+  "en": {
+   "q": "Which one makes its own light?",
+   "c": [
+    "A planet",
+    "A star",
+    "The Moon",
+    "An asteroid"
+   ]
+  },
+  "ar": {
+   "q": "أيّ منها يصنع ضوءه بنفسه؟",
+   "c": [
+    "كوكب",
+    "نجم",
+    "القمر",
+    "كويكب"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál produce su propia luz?",
+   "c": [
+    "Un planeta",
+    "Una estrella",
+    "La Luna",
+    "Un asteroide"
+   ]
+  },
+  "pt": {
+   "q": "Qual produz a própria luz?",
+   "c": [
+    "Um planeta",
+    "Uma estrela",
+    "A Lua",
+    "Um asteroide"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on un gros caillou qui voyage dans l'espace ?",
+   "c": [
+    "Un scaphandre",
+    "Un croissant",
+    "Une éclipse",
+    "Un astéroïde"
+   ]
+  },
+  "en": {
+   "q": "What do we call a big rock traveling through space?",
+   "c": [
+    "A spacesuit",
+    "A crescent",
+    "An eclipse",
+    "An asteroid"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي صخرة كبيرة تسافر في الفضاء؟",
+   "c": [
+    "بدلة فضاء",
+    "هلال",
+    "كسوف",
+    "كويكب"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama una gran roca que viaja por el espacio?",
+   "c": [
+    "Un traje espacial",
+    "Un creciente",
+    "Un eclipse",
+    "Un asteroide"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama uma grande rocha que viaja pelo espaço?",
+   "c": [
+    "Um traje espacial",
+    "Um crescente",
+    "Um eclipse",
+    "Um asteroide"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on un immense groupe de milliards d'étoiles ?",
+   "c": [
+    "Une galaxie",
+    "Une comète",
+    "Un cratère",
+    "Une orbite"
+   ]
+  },
+  "en": {
+   "q": "What do we call a huge group of billions of stars?",
+   "c": [
+    "A galaxy",
+    "A comet",
+    "A crater",
+    "An orbit"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي مجموعة هائلة من مليارات النجوم؟",
+   "c": [
+    "مجرّة",
+    "مذنّب",
+    "فوّهة",
+    "مدار"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama un enorme grupo de miles de millones de estrellas?",
+   "c": [
+    "Una galaxia",
+    "Un cometa",
+    "Un cráter",
+    "Una órbita"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama um enorme grupo de bilhões de estrelas?",
+   "c": [
+    "Uma galáxia",
+    "Um cometa",
+    "Uma cratera",
+    "Uma órbita"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
    "q": "Quelle est la plus grande planète du système solaire ?",
    "c": [
     "Saturne",
@@ -47,7 +1547,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -97,7 +1597,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -147,7 +1647,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -197,7 +1697,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -247,7 +1747,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -297,7 +1797,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -347,7 +1847,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -397,7 +1897,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -447,7 +1947,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -497,7 +1997,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -547,7 +2047,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -597,7 +2097,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -647,7 +2147,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -697,7 +2197,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -747,7 +2247,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -797,7 +2297,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -847,7 +2347,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -897,7 +2397,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -947,7 +2447,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -997,7 +2497,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1047,7 +2547,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1097,7 +2597,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1147,7 +2647,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1197,7 +2697,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1247,7 +2747,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1297,7 +2797,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1347,7 +2847,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1397,7 +2897,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1447,7 +2947,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1497,7 +2997,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1547,7 +3047,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1597,7 +3097,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1647,7 +3147,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1697,7 +3197,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1747,7 +3247,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1797,7 +3297,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1847,7 +3347,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1897,7 +3397,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -1947,7 +3447,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -1997,7 +3497,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2047,7 +3547,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2097,7 +3597,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2147,7 +3647,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2197,7 +3697,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2247,7 +3747,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2297,7 +3797,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2347,7 +3847,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2397,7 +3897,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2447,7 +3947,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2497,7 +3997,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2547,7 +4047,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2597,7 +4097,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2647,7 +4147,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2697,7 +4197,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2747,7 +4247,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2797,7 +4297,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2847,7 +4347,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2897,7 +4397,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2947,7 +4447,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2997,7 +4497,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -3047,7 +4547,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -3097,7 +4597,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -3147,7 +4647,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -3197,7 +4697,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -3247,7 +4747,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3297,7 +4797,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3347,7 +4847,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3397,7 +4897,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3447,7 +4947,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3497,7 +4997,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3547,7 +5047,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3597,7 +5097,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3647,7 +5147,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3697,7 +5197,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3747,7 +5247,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3797,7 +5297,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3847,7 +5347,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3897,7 +5397,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3947,7 +5447,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -3997,7 +5497,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -4047,7 +5547,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "en": {
@@ -4097,7 +5597,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "en": {
@@ -4147,7 +5647,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "en": {
@@ -4197,7 +5697,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "en": {
@@ -4247,7 +5747,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "en": {
@@ -4297,7 +5797,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -4347,7 +5847,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -4397,7 +5897,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -4447,7 +5947,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -4497,7 +5997,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -4547,7 +6047,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -4597,7 +6097,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -4647,7 +6147,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -4697,7 +6197,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -4747,7 +6247,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -4797,7 +6297,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -4847,7 +6347,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -4897,7 +6397,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "en": {
@@ -4947,7 +6447,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "en": {
@@ -4997,7 +6497,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "en": {
@@ -5047,7 +6547,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "en": {
@@ -5097,7 +6597,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "en": {
@@ -5147,7 +6647,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -5197,7 +6697,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -5247,7 +6747,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -5297,7 +6797,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -5347,7 +6847,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -5397,7 +6897,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -5448,7 +6948,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -5498,7 +6998,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -5548,7 +7048,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -5598,7 +7098,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -5648,7 +7148,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -5698,7 +7198,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -5748,7 +7248,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -5798,7 +7298,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -5848,7 +7348,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -5898,7 +7398,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -5948,7 +7448,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -5998,7 +7498,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -6048,7 +7548,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -6098,7 +7598,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -6148,7 +7648,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -6198,7 +7698,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -6248,7 +7748,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "fr": {
@@ -6298,7 +7798,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -6348,7 +7848,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -6398,7 +7898,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -6448,7 +7948,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -6498,7 +7998,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -6548,7 +8048,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -6598,7 +8098,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -6648,7 +8148,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -6698,7 +8198,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "fr": {
@@ -6748,11 +8248,11 @@
   },
   "a": 3,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "type": "order",
-  "level": 3,
+  "level": 8,
   "image": null,
   "a": 0,
   "fr": {
@@ -6803,7 +8303,7 @@
  },
  {
   "type": "order",
-  "level": 5,
+  "level": 10,
   "image": null,
   "a": 0,
   "fr": {
@@ -6854,7 +8354,7 @@
  },
  {
   "type": "order",
-  "level": 6,
+  "level": 11,
   "image": null,
   "a": 0,
   "fr": {
@@ -6905,7 +8405,7 @@
  },
  {
   "type": "match",
-  "level": 2,
+  "level": 7,
   "image": null,
   "a": 0,
   "fr": {
@@ -7016,7 +8516,7 @@
  },
  {
   "type": "number",
-  "level": 4,
+  "level": 9,
   "image": null,
   "a": 8,
   "min": 1,
@@ -7046,7 +8546,7 @@
  },
  {
   "type": "number",
-  "level": 6,
+  "level": 11,
   "image": null,
   "a": 384,
   "min": 100,
@@ -7076,7 +8576,7 @@
  },
  {
   "type": "number",
-  "level": 5,
+  "level": 10,
   "image": null,
   "a": 1969,
   "min": 1940,
@@ -7147,7 +8647,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -7197,7 +8697,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -7247,7 +8747,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -7297,7 +8797,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -7347,7 +8847,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -7397,7 +8897,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -7447,7 +8947,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -7497,7 +8997,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -7547,7 +9047,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -7597,7 +9097,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -7647,7 +9147,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -7697,7 +9197,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -7747,7 +9247,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -7797,7 +9297,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -7847,7 +9347,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -7897,7 +9397,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -7947,7 +9447,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -7997,7 +9497,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -8047,7 +9547,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -8097,7 +9597,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -8147,7 +9647,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -8197,7 +9697,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -8247,7 +9747,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -8297,6 +9797,6 @@
   },
   "a": 1,
   "image": null,
-  "level": 4
+  "level": 9
  }
 ]

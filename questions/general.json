@@ -1,6 +1,1406 @@
 [
  {
   "fr": {
+   "q": "Quel animal fait « ouaf » ?",
+   "c": [
+    "Le chien",
+    "Le chat",
+    "La vache",
+    "La poule"
+   ]
+  },
+  "en": {
+   "q": "Which animal says \"woof\"?",
+   "c": [
+    "The dog",
+    "The cat",
+    "The cow",
+    "The hen"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يقول «هاو»؟",
+   "c": [
+    "الكلب",
+    "القط",
+    "البقرة",
+    "الدجاجة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal hace «guau»?",
+   "c": [
+    "El perro",
+    "El gato",
+    "La vaca",
+    "La gallina"
+   ]
+  },
+  "pt": {
+   "q": "Qual animal faz «au au»?",
+   "c": [
+    "O cachorro",
+    "O gato",
+    "A vaca",
+    "A galinha"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "De quelle couleur est l'herbe ?",
+   "c": [
+    "Rouge",
+    "Verte",
+    "Bleue",
+    "Noire"
+   ]
+  },
+  "en": {
+   "q": "What color is grass?",
+   "c": [
+    "Red",
+    "Green",
+    "Blue",
+    "Black"
+   ]
+  },
+  "ar": {
+   "q": "ما لون العشب؟",
+   "c": [
+    "أحمر",
+    "أخضر",
+    "أزرق",
+    "أسود"
+   ]
+  },
+  "es": {
+   "q": "¿De qué color es la hierba?",
+   "c": [
+    "Roja",
+    "Verde",
+    "Azul",
+    "Negra"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a cor da grama?",
+   "c": [
+    "Vermelha",
+    "Verde",
+    "Azul",
+    "Preta"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel fruit est orange ?",
+   "c": [
+    "La fraise",
+    "Le citron",
+    "L'orange",
+    "Le raisin"
+   ]
+  },
+  "en": {
+   "q": "Which fruit is orange?",
+   "c": [
+    "The strawberry",
+    "The lemon",
+    "The orange",
+    "The grape"
+   ]
+  },
+  "ar": {
+   "q": "أي فاكهة لونها برتقالي؟",
+   "c": [
+    "الفراولة",
+    "الليمونة",
+    "البرتقالة",
+    "العنب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué fruta es naranja?",
+   "c": [
+    "La fresa",
+    "El limón",
+    "La naranja",
+    "La uva"
+   ]
+  },
+  "pt": {
+   "q": "Qual fruta é laranja?",
+   "c": [
+    "O morango",
+    "O limão",
+    "A laranja",
+    "A uva"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Combien d'yeux avons-nous ?",
+   "c": [
+    "1",
+    "3",
+    "4",
+    "2"
+   ]
+  },
+  "en": {
+   "q": "How many eyes do we have?",
+   "c": [
+    "1",
+    "3",
+    "4",
+    "2"
+   ]
+  },
+  "ar": {
+   "q": "كم عينا لدينا؟",
+   "c": [
+    "1",
+    "3",
+    "4",
+    "2"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos ojos tenemos?",
+   "c": [
+    "1",
+    "3",
+    "4",
+    "2"
+   ]
+  },
+  "pt": {
+   "q": "Quantos olhos nós temos?",
+   "c": [
+    "1",
+    "3",
+    "4",
+    "2"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel animal vit dans l'eau et a des nageoires ?",
+   "c": [
+    "Le poisson",
+    "Le chien",
+    "L'oiseau",
+    "Le lapin"
+   ]
+  },
+  "en": {
+   "q": "Which animal lives in water and has fins?",
+   "c": [
+    "The fish",
+    "The dog",
+    "The bird",
+    "The rabbit"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يعيش في الماء وله زعانف؟",
+   "c": [
+    "السمكة",
+    "الكلب",
+    "الطائر",
+    "الأرنب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal vive en el agua y tiene aletas?",
+   "c": [
+    "El pez",
+    "El perro",
+    "El pájaro",
+    "El conejo"
+   ]
+  },
+  "pt": {
+   "q": "Qual animal vive na água e tem barbatanas?",
+   "c": [
+    "O peixe",
+    "O cachorro",
+    "O pássaro",
+    "O coelho"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel objet sert à écrire ?",
+   "c": [
+    "Une cuillère",
+    "Un stylo",
+    "Une chaise",
+    "Un ballon"
+   ]
+  },
+  "en": {
+   "q": "Which object is used for writing?",
+   "c": [
+    "A spoon",
+    "A pen",
+    "A chair",
+    "A ball"
+   ]
+  },
+  "ar": {
+   "q": "أي أداة تُستخدم للكتابة؟",
+   "c": [
+    "ملعقة",
+    "قلم",
+    "كرسي",
+    "كرة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué objeto sirve para escribir?",
+   "c": [
+    "Una cuchara",
+    "Un bolígrafo",
+    "Una silla",
+    "Una pelota"
+   ]
+  },
+  "pt": {
+   "q": "Qual objeto serve para escrever?",
+   "c": [
+    "Uma colher",
+    "Uma caneta",
+    "Uma cadeira",
+    "Uma bola"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel animal fait « meuh » ?",
+   "c": [
+    "Le mouton",
+    "Le cheval",
+    "La vache",
+    "Le canard"
+   ]
+  },
+  "en": {
+   "q": "Which animal says \"moo\"?",
+   "c": [
+    "The sheep",
+    "The horse",
+    "The cow",
+    "The duck"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يقول «موو»؟",
+   "c": [
+    "الخروف",
+    "الحصان",
+    "البقرة",
+    "البطة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal hace «muu»?",
+   "c": [
+    "La oveja",
+    "El caballo",
+    "La vaca",
+    "El pato"
+   ]
+  },
+  "pt": {
+   "q": "Qual animal faz «muuu»?",
+   "c": [
+    "A ovelha",
+    "O cavalo",
+    "A vaca",
+    "O pato"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "De quelle couleur est une tomate mûre ?",
+   "c": [
+    "Bleue",
+    "Violette",
+    "Noire",
+    "Rouge"
+   ]
+  },
+  "en": {
+   "q": "What color is a ripe tomato?",
+   "c": [
+    "Blue",
+    "Purple",
+    "Black",
+    "Red"
+   ]
+  },
+  "ar": {
+   "q": "ما لون الطماطم الناضجة؟",
+   "c": [
+    "أزرق",
+    "بنفسجي",
+    "أسود",
+    "أحمر"
+   ]
+  },
+  "es": {
+   "q": "¿De qué color es un tomate maduro?",
+   "c": [
+    "Azul",
+    "Morado",
+    "Negro",
+    "Rojo"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a cor de um tomate maduro?",
+   "c": [
+    "Azul",
+    "Roxo",
+    "Preto",
+    "Vermelho"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Avec quoi mange-t-on la soupe ?",
+   "c": [
+    "Une cuillère",
+    "Un crayon",
+    "Un peigne",
+    "Une brosse"
+   ]
+  },
+  "en": {
+   "q": "What do we eat soup with?",
+   "c": [
+    "A spoon",
+    "A pencil",
+    "A comb",
+    "A brush"
+   ]
+  },
+  "ar": {
+   "q": "بماذا نأكل الحساء؟",
+   "c": [
+    "بملعقة",
+    "بقلم رصاص",
+    "بمشط",
+    "بفرشاة"
+   ]
+  },
+  "es": {
+   "q": "¿Con qué se come la sopa?",
+   "c": [
+    "Una cuchara",
+    "Un lápiz",
+    "Un peine",
+    "Un cepillo"
+   ]
+  },
+  "pt": {
+   "q": "Com o que se toma a sopa?",
+   "c": [
+    "Uma colher",
+    "Um lápis",
+    "Um pente",
+    "Uma escova"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Combien de doigts a une main ?",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "10"
+   ]
+  },
+  "en": {
+   "q": "How many fingers does a hand have?",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "10"
+   ]
+  },
+  "ar": {
+   "q": "كم إصبعا في اليد الواحدة؟",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "10"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos dedos tiene una mano?",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "10"
+   ]
+  },
+  "pt": {
+   "q": "Quantos dedos tem uma mão?",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "10"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel animal est très lent et a une carapace ?",
+   "c": [
+    "Le lapin",
+    "Le chien",
+    "La tortue",
+    "Le cheval"
+   ]
+  },
+  "en": {
+   "q": "Which animal is very slow and has a shell?",
+   "c": [
+    "The rabbit",
+    "The dog",
+    "The turtle",
+    "The horse"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان بطيء جدا وله درع؟",
+   "c": [
+    "الأرنب",
+    "الكلب",
+    "السلحفاة",
+    "الحصان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal es muy lento y tiene caparazón?",
+   "c": [
+    "El conejo",
+    "El perro",
+    "La tortuga",
+    "El caballo"
+   ]
+  },
+  "pt": {
+   "q": "Qual animal é muito lento e tem casco?",
+   "c": [
+    "O coelho",
+    "O cachorro",
+    "A tartaruga",
+    "O cavalo"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel fruit est rouge avec de petites graines à l'extérieur ?",
+   "c": [
+    "La fraise",
+    "La banane",
+    "Le citron",
+    "La poire"
+   ]
+  },
+  "en": {
+   "q": "Which fruit is red with tiny seeds on the outside?",
+   "c": [
+    "The strawberry",
+    "The banana",
+    "The lemon",
+    "The pear"
+   ]
+  },
+  "ar": {
+   "q": "أي فاكهة حمراء وبذورها الصغيرة في الخارج؟",
+   "c": [
+    "الفراولة",
+    "الموز",
+    "الليمون",
+    "الكمثرى"
+   ]
+  },
+  "es": {
+   "q": "¿Qué fruta es roja y tiene semillas pequeñas por fuera?",
+   "c": [
+    "La fresa",
+    "El plátano",
+    "El limón",
+    "La pera"
+   ]
+  },
+  "pt": {
+   "q": "Qual fruta é vermelha com sementes pequenas por fora?",
+   "c": [
+    "O morango",
+    "A banana",
+    "O limão",
+    "A pera"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel animal est surnommé le roi des animaux ?",
+   "c": [
+    "L'ours",
+    "Le lion",
+    "Le loup",
+    "Le renard"
+   ]
+  },
+  "en": {
+   "q": "Which animal is called the king of the animals?",
+   "c": [
+    "The bear",
+    "The lion",
+    "The wolf",
+    "The fox"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يُلقب بملك الحيوانات؟",
+   "c": [
+    "الدب",
+    "الأسد",
+    "الذئب",
+    "الثعلب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal es llamado el rey de los animales?",
+   "c": [
+    "El oso",
+    "El león",
+    "El lobo",
+    "El zorro"
+   ]
+  },
+  "pt": {
+   "q": "Qual animal é chamado de rei dos animais?",
+   "c": [
+    "O urso",
+    "O leão",
+    "O lobo",
+    "A raposa"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel légume est orange et aimé des lapins ?",
+   "c": [
+    "La pomme de terre",
+    "Le concombre",
+    "La carotte",
+    "Le chou"
+   ]
+  },
+  "en": {
+   "q": "Which vegetable is orange and loved by rabbits?",
+   "c": [
+    "The potato",
+    "The cucumber",
+    "The carrot",
+    "The cabbage"
+   ]
+  },
+  "ar": {
+   "q": "أي خضار برتقالي ويحبه الأرانب؟",
+   "c": [
+    "البطاطس",
+    "الخيار",
+    "الجزرة",
+    "الملفوف"
+   ]
+  },
+  "es": {
+   "q": "¿Qué verdura es naranja y les gusta a los conejos?",
+   "c": [
+    "La patata",
+    "El pepino",
+    "La zanahoria",
+    "El repollo"
+   ]
+  },
+  "pt": {
+   "q": "Qual legume é laranja e os coelhos adoram?",
+   "c": [
+    "A batata",
+    "O pepino",
+    "A cenoura",
+    "O repolho"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Combien de pattes a un chien ?",
+   "c": [
+    "2",
+    "6",
+    "8",
+    "4"
+   ]
+  },
+  "en": {
+   "q": "How many legs does a dog have?",
+   "c": [
+    "2",
+    "6",
+    "8",
+    "4"
+   ]
+  },
+  "ar": {
+   "q": "كم رجلا للكلب؟",
+   "c": [
+    "2",
+    "6",
+    "8",
+    "4"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántas patas tiene un perro?",
+   "c": [
+    "2",
+    "6",
+    "8",
+    "4"
+   ]
+  },
+  "pt": {
+   "q": "Quantas patas tem um cachorro?",
+   "c": [
+    "2",
+    "6",
+    "8",
+    "4"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Avec quoi se brosse-t-on les dents ?",
+   "c": [
+    "Un peigne",
+    "Une brosse à dents",
+    "Une éponge",
+    "Un balai"
+   ]
+  },
+  "en": {
+   "q": "What do we brush our teeth with?",
+   "c": [
+    "A comb",
+    "A toothbrush",
+    "A sponge",
+    "A broom"
+   ]
+  },
+  "ar": {
+   "q": "بماذا ننظف أسناننا؟",
+   "c": [
+    "مشط",
+    "فرشاة الأسنان",
+    "إسفنجة",
+    "مكنسة"
+   ]
+  },
+  "es": {
+   "q": "¿Con qué nos cepillamos los dientes?",
+   "c": [
+    "Un peine",
+    "Un cepillo de dientes",
+    "Una esponja",
+    "Una escoba"
+   ]
+  },
+  "pt": {
+   "q": "Com o que escovamos os dentes?",
+   "c": [
+    "Um pente",
+    "Uma escova de dentes",
+    "Uma esponja",
+    "Uma vassoura"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel animal donne la laine ?",
+   "c": [
+    "Le cheval",
+    "La poule",
+    "Le mouton",
+    "Le cochon"
+   ]
+  },
+  "en": {
+   "q": "Which animal gives wool?",
+   "c": [
+    "The horse",
+    "The hen",
+    "The sheep",
+    "The pig"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يعطينا الصوف؟",
+   "c": [
+    "الحصان",
+    "الدجاجة",
+    "الخروف",
+    "الخنزير"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal da lana?",
+   "c": [
+    "El caballo",
+    "La gallina",
+    "La oveja",
+    "El cerdo"
+   ]
+  },
+  "pt": {
+   "q": "Qual animal dá lã?",
+   "c": [
+    "O cavalo",
+    "A galinha",
+    "A ovelha",
+    "O porco"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Avec quelle partie du corps sent-on les odeurs ?",
+   "c": [
+    "Les oreilles",
+    "Les mains",
+    "Les genoux",
+    "Le nez"
+   ]
+  },
+  "en": {
+   "q": "Which body part do we smell with?",
+   "c": [
+    "The ears",
+    "The hands",
+    "The knees",
+    "The nose"
+   ]
+  },
+  "ar": {
+   "q": "بأي جزء من الجسم نشم الروائح؟",
+   "c": [
+    "الأذنان",
+    "اليدان",
+    "الركبتان",
+    "الأنف"
+   ]
+  },
+  "es": {
+   "q": "¿Con qué parte del cuerpo olemos?",
+   "c": [
+    "Las orejas",
+    "Las manos",
+    "Las rodillas",
+    "La nariz"
+   ]
+  },
+  "pt": {
+   "q": "Com qual parte do corpo sentimos cheiros?",
+   "c": [
+    "As orelhas",
+    "As mãos",
+    "Os joelhos",
+    "O nariz"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel fruit pousse sur un pommier ?",
+   "c": [
+    "La pomme",
+    "La poire",
+    "L'orange",
+    "La fraise"
+   ]
+  },
+  "en": {
+   "q": "Which fruit grows on an apple tree?",
+   "c": [
+    "The apple",
+    "The pear",
+    "The orange",
+    "The strawberry"
+   ]
+  },
+  "ar": {
+   "q": "أي ثمرة تنمو على شجرة التفاح؟",
+   "c": [
+    "التفاحة",
+    "الكمثرى",
+    "البرتقالة",
+    "الفراولة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué fruta crece en un manzano?",
+   "c": [
+    "La manzana",
+    "La pera",
+    "La naranja",
+    "La fresa"
+   ]
+  },
+  "pt": {
+   "q": "Qual fruta cresce em uma macieira?",
+   "c": [
+    "A maçã",
+    "A pera",
+    "A laranja",
+    "O morango"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel animal a des rayures noires et blanches ?",
+   "c": [
+    "Le lion",
+    "Le zèbre",
+    "La girafe",
+    "L'éléphant"
+   ]
+  },
+  "en": {
+   "q": "Which animal has black and white stripes?",
+   "c": [
+    "The lion",
+    "The zebra",
+    "The giraffe",
+    "The elephant"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان له خطوط سوداء وبيضاء؟",
+   "c": [
+    "الأسد",
+    "الحمار الوحشي",
+    "الزرافة",
+    "الفيل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal tiene rayas negras y blancas?",
+   "c": [
+    "El león",
+    "La cebra",
+    "La jirafa",
+    "El elefante"
+   ]
+  },
+  "pt": {
+   "q": "Qual animal tem listras pretas e brancas?",
+   "c": [
+    "O leão",
+    "A zebra",
+    "A girafa",
+    "O elefante"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel animal a un très long cou ?",
+   "c": [
+    "Le chat",
+    "Le lapin",
+    "La girafe",
+    "Le cochon"
+   ]
+  },
+  "en": {
+   "q": "Which animal has a very long neck?",
+   "c": [
+    "The cat",
+    "The rabbit",
+    "The giraffe",
+    "The pig"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان له رقبة طويلة جدا؟",
+   "c": [
+    "القط",
+    "الأرنب",
+    "الزرافة",
+    "الخنزير"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal tiene el cuello muy largo?",
+   "c": [
+    "El gato",
+    "El conejo",
+    "La jirafa",
+    "El cerdo"
+   ]
+  },
+  "pt": {
+   "q": "Qual animal tem o pescoço muito comprido?",
+   "c": [
+    "O gato",
+    "O coelho",
+    "A girafa",
+    "O porco"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel objet donne l'heure ?",
+   "c": [
+    "Un miroir",
+    "Une lampe",
+    "Une fourchette",
+    "Une montre"
+   ]
+  },
+  "en": {
+   "q": "Which object tells the time?",
+   "c": [
+    "A mirror",
+    "A lamp",
+    "A fork",
+    "A watch"
+   ]
+  },
+  "ar": {
+   "q": "أي أداة تُعطينا الوقت؟",
+   "c": [
+    "مرآة",
+    "مصباح",
+    "شوكة",
+    "ساعة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué objeto da la hora?",
+   "c": [
+    "Un espejo",
+    "Una lámpara",
+    "Un tenedor",
+    "Un reloj"
+   ]
+  },
+  "pt": {
+   "q": "Qual objeto diz as horas?",
+   "c": [
+    "Um espelho",
+    "Uma lâmpada",
+    "Um garfo",
+    "Um relógio"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel animal est un mammifère marin ?",
+   "c": [
+    "Le dauphin",
+    "Le requin",
+    "Le thon",
+    "La sardine"
+   ]
+  },
+  "en": {
+   "q": "Which animal is a marine mammal?",
+   "c": [
+    "The dolphin",
+    "The shark",
+    "The tuna",
+    "The sardine"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان من الثدييات البحرية؟",
+   "c": [
+    "الدلفين",
+    "القرش",
+    "التونة",
+    "السردين"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal es un mamífero marino?",
+   "c": [
+    "El delfín",
+    "El tiburón",
+    "El atún",
+    "La sardina"
+   ]
+  },
+  "pt": {
+   "q": "Qual animal é um mamífero marinho?",
+   "c": [
+    "O golfinho",
+    "O tubarão",
+    "O atum",
+    "A sardinha"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quelle partie de la plante absorbe l'eau du sol ?",
+   "c": [
+    "Les feuilles",
+    "Les racines",
+    "Les fleurs",
+    "Les fruits"
+   ]
+  },
+  "en": {
+   "q": "Which part of a plant absorbs water from the soil?",
+   "c": [
+    "The leaves",
+    "The roots",
+    "The flowers",
+    "The fruits"
+   ]
+  },
+  "ar": {
+   "q": "أي جزء من النبات يمتص الماء من التربة؟",
+   "c": [
+    "الأوراق",
+    "الجذور",
+    "الأزهار",
+    "الثمار"
+   ]
+  },
+  "es": {
+   "q": "¿Qué parte de la planta absorbe el agua del suelo?",
+   "c": [
+    "Las hojas",
+    "Las raíces",
+    "Las flores",
+    "Los frutos"
+   ]
+  },
+  "pt": {
+   "q": "Qual parte da planta absorve a água do solo?",
+   "c": [
+    "As folhas",
+    "As raízes",
+    "As flores",
+    "Os frutos"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel objet utilise-t-on pour couper du papier ?",
+   "c": [
+    "Une cuillère",
+    "Un peigne",
+    "Des ciseaux",
+    "Une gomme"
+   ]
+  },
+  "en": {
+   "q": "Which object do we use to cut paper?",
+   "c": [
+    "A spoon",
+    "A comb",
+    "Scissors",
+    "An eraser"
+   ]
+  },
+  "ar": {
+   "q": "أي أداة نستعملها لقص الورق؟",
+   "c": [
+    "ملعقة",
+    "مشط",
+    "المقص",
+    "ممحاة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué objeto usamos para cortar papel?",
+   "c": [
+    "Una cuchara",
+    "Un peine",
+    "Unas tijeras",
+    "Una goma"
+   ]
+  },
+  "pt": {
+   "q": "Qual objeto usamos para cortar papel?",
+   "c": [
+    "Uma colher",
+    "Um pente",
+    "Uma tesoura",
+    "Uma borracha"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quelle partie du corps protège le cerveau ?",
+   "c": [
+    "Les côtes",
+    "Les genoux",
+    "Les doigts",
+    "Le crâne"
+   ]
+  },
+  "en": {
+   "q": "Which part of the body protects the brain?",
+   "c": [
+    "The ribs",
+    "The knees",
+    "The fingers",
+    "The skull"
+   ]
+  },
+  "ar": {
+   "q": "أي جزء من الجسم يحمي الدماغ؟",
+   "c": [
+    "الأضلاع",
+    "الركبتان",
+    "الأصابع",
+    "الجمجمة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué parte del cuerpo protege el cerebro?",
+   "c": [
+    "Las costillas",
+    "Las rodillas",
+    "Los dedos",
+    "El cráneo"
+   ]
+  },
+  "pt": {
+   "q": "Qual parte do corpo protege o cérebro?",
+   "c": [
+    "As costelas",
+    "Os joelhos",
+    "Os dedos",
+    "O crânio"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel produit fabrique-t-on avec du lait ?",
+   "c": [
+    "Le fromage",
+    "Le pain",
+    "Le sucre",
+    "Le riz"
+   ]
+  },
+  "en": {
+   "q": "Which food is made from milk?",
+   "c": [
+    "Cheese",
+    "Bread",
+    "Sugar",
+    "Rice"
+   ]
+  },
+  "ar": {
+   "q": "أي طعام يُصنع من الحليب؟",
+   "c": [
+    "الجبن",
+    "الخبز",
+    "السكر",
+    "الأرز"
+   ]
+  },
+  "es": {
+   "q": "¿Qué alimento se hace con leche?",
+   "c": [
+    "El queso",
+    "El pan",
+    "El azúcar",
+    "El arroz"
+   ]
+  },
+  "pt": {
+   "q": "Qual alimento é feito com leite?",
+   "c": [
+    "O queijo",
+    "O pão",
+    "O açúcar",
+    "O arroz"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Lequel de ces animaux est un oiseau ?",
+   "c": [
+    "Le chat",
+    "Le perroquet",
+    "Le poisson",
+    "La grenouille"
+   ]
+  },
+  "en": {
+   "q": "Which of these animals is a bird?",
+   "c": [
+    "The cat",
+    "The parrot",
+    "The fish",
+    "The frog"
+   ]
+  },
+  "ar": {
+   "q": "أي من هذه الحيوانات طائر؟",
+   "c": [
+    "القط",
+    "الببغاء",
+    "السمكة",
+    "الضفدع"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál de estos animales es un ave?",
+   "c": [
+    "El gato",
+    "El loro",
+    "El pez",
+    "La rana"
+   ]
+  },
+  "pt": {
+   "q": "Qual destes animais é uma ave?",
+   "c": [
+    "O gato",
+    "O papagaio",
+    "O peixe",
+    "O sapo"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
    "q": "Combien y a-t-il de continents ?",
    "c": [
     "5",
@@ -47,7 +1447,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -97,7 +1497,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -147,7 +1547,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -197,7 +1597,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -247,7 +1647,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -297,7 +1697,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -347,7 +1747,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -397,7 +1797,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -447,7 +1847,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -497,7 +1897,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -547,7 +1947,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -597,7 +1997,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -647,7 +2047,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -697,7 +2097,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -747,7 +2147,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "en": {
@@ -787,7 +2187,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -837,7 +2237,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -887,7 +2287,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -937,7 +2337,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -987,7 +2387,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1037,7 +2437,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1087,7 +2487,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1137,7 +2537,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1187,7 +2587,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1237,7 +2637,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "en": {
@@ -1277,7 +2677,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "en": {
@@ -1317,7 +2717,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1367,7 +2767,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1417,7 +2817,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -1467,7 +2867,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1517,7 +2917,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1567,7 +2967,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1617,7 +3017,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1667,7 +3067,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1717,7 +3117,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1767,7 +3167,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "en": {
@@ -1807,7 +3207,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1857,7 +3257,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1907,7 +3307,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -1957,7 +3357,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -2007,7 +3407,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -2057,7 +3457,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -2107,7 +3507,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2157,7 +3557,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2207,7 +3607,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "en": {
@@ -2247,7 +3647,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "en": {
@@ -2287,7 +3687,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "en": {
@@ -2327,7 +3727,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "en": {
@@ -2367,7 +3767,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2417,7 +3817,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2467,7 +3867,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2517,7 +3917,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2567,7 +3967,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2617,7 +4017,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2667,7 +4067,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2717,7 +4117,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2767,7 +4167,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2817,7 +4217,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2867,7 +4267,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2917,7 +4317,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -2967,7 +4367,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -3017,7 +4417,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -3067,7 +4467,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -3117,7 +4517,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -3167,7 +4567,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "en": {
@@ -3207,7 +4607,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "en": {
@@ -3247,7 +4647,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "en": {
@@ -3297,7 +4697,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "en": {
@@ -3347,7 +4747,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "en": {
@@ -3397,7 +4797,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "fr": {
@@ -3447,7 +4847,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -3497,7 +4897,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -3547,7 +4947,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -3597,7 +4997,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -3647,7 +5047,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -3697,7 +5097,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -3747,7 +5147,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -3797,7 +5197,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -3847,7 +5247,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -3897,7 +5297,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -3947,7 +5347,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -3997,7 +5397,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -4047,7 +5447,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -4097,7 +5497,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -4147,7 +5547,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -4197,7 +5597,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -4247,7 +5647,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -4297,7 +5697,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -4347,7 +5747,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -4397,7 +5797,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -4447,7 +5847,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -4497,7 +5897,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -4547,7 +5947,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -4597,6 +5997,6 @@
   },
   "a": 2,
   "image": null,
-  "level": 4
+  "level": 9
  }
 ]

@@ -1,5 +1,1405 @@
 [
  {
+  "fr": {
+   "q": "Quel pantin en bois a un long nez quand il ment ?",
+   "c": [
+    "Aladdin",
+    "Pinocchio",
+    "Tarzan",
+    "Shrek"
+   ]
+  },
+  "en": {
+   "q": "Which wooden puppet's nose grows when he lies?",
+   "c": [
+    "Aladdin",
+    "Pinocchio",
+    "Tarzan",
+    "Shrek"
+   ]
+  },
+  "ar": {
+   "q": "أي دمية خشبية يطول أنفها عندما يكذب؟",
+   "c": [
+    "علاء الدين",
+    "بينوكيو",
+    "طرزان",
+    "شريك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué muñeco de madera tiene la nariz larga cuando miente?",
+   "c": [
+    "Aladino",
+    "Pinocho",
+    "Tarzán",
+    "Shrek"
+   ]
+  },
+  "pt": {
+   "q": "Que boneco de madeira fica com o nariz comprido quando mente?",
+   "c": [
+    "Aladim",
+    "Pinóquio",
+    "Tarzan",
+    "Shrek"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel instrument de musique a des cordes et se gratte avec les doigts ?",
+   "c": [
+    "La flûte",
+    "Le tambour",
+    "La guitare",
+    "La trompette"
+   ]
+  },
+  "en": {
+   "q": "Which instrument has strings that you strum with your fingers?",
+   "c": [
+    "The flute",
+    "The drum",
+    "The guitar",
+    "The trumpet"
+   ]
+  },
+  "ar": {
+   "q": "أي آلة موسيقية لها أوتار نعزف عليها بالأصابع؟",
+   "c": [
+    "الناي",
+    "الطبل",
+    "الغيتار",
+    "البوق"
+   ]
+  },
+  "es": {
+   "q": "¿Qué instrumento tiene cuerdas que se rasguean con los dedos?",
+   "c": [
+    "La flauta",
+    "El tambor",
+    "La guitarra",
+    "La trompeta"
+   ]
+  },
+  "pt": {
+   "q": "Que instrumento tem cordas que se tocam com os dedos?",
+   "c": [
+    "A flauta",
+    "O tambor",
+    "A guitarra",
+    "O trompete"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel personnage de dessin animé est une éponge jaune qui vit sous la mer ?",
+   "c": [
+    "Mickey",
+    "Tintin",
+    "Pikachu",
+    "Bob l'éponge"
+   ]
+  },
+  "en": {
+   "q": "Which cartoon character is a yellow sponge living under the sea?",
+   "c": [
+    "Mickey Mouse",
+    "Tintin",
+    "Pikachu",
+    "SpongeBob"
+   ]
+  },
+  "ar": {
+   "q": "أي شخصية كرتونية هي إسفنجة صفراء تعيش تحت البحر؟",
+   "c": [
+    "ميكي ماوس",
+    "تان تان",
+    "بيكاتشو",
+    "سبونج بوب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué personaje de dibujos es una esponja amarilla que vive bajo el mar?",
+   "c": [
+    "Mickey Mouse",
+    "Tintín",
+    "Pikachu",
+    "Bob Esponja"
+   ]
+  },
+  "pt": {
+   "q": "Que personagem de desenho animado é uma esponja amarela que vive no fundo do mar?",
+   "c": [
+    "Mickey Mouse",
+    "Tintim",
+    "Pikachu",
+    "Bob Esponja"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quel animal est Bambi dans le film de Disney ?",
+   "c": [
+    "Un faon",
+    "Un lapin",
+    "Un ours",
+    "Un loup"
+   ]
+  },
+  "en": {
+   "q": "What animal is Bambi in the Disney film?",
+   "c": [
+    "A fawn",
+    "A rabbit",
+    "A bear",
+    "A wolf"
+   ]
+  },
+  "ar": {
+   "q": "ما هو الحيوان بامبي في فيلم ديزني؟",
+   "c": [
+    "غزال صغير",
+    "أرنب",
+    "دب",
+    "ذئب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal es Bambi en la película de Disney?",
+   "c": [
+    "Un cervatillo",
+    "Un conejo",
+    "Un oso",
+    "Un lobo"
+   ]
+  },
+  "pt": {
+   "q": "Que animal é o Bambi no filme da Disney?",
+   "c": [
+    "Um veadinho",
+    "Um coelho",
+    "Um urso",
+    "Um lobo"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelle le célèbre canard de Disney ?",
+   "c": [
+    "Mickey",
+    "Donald",
+    "Dingo",
+    "Nemo"
+   ]
+  },
+  "en": {
+   "q": "What is the famous Disney duck called?",
+   "c": [
+    "Mickey",
+    "Donald",
+    "Goofy",
+    "Nemo"
+   ]
+  },
+  "ar": {
+   "q": "ما اسم البطّ الشهير في ديزني؟",
+   "c": [
+    "ميكي",
+    "دونالد",
+    "غوفي",
+    "نيمو"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama el famoso pato de Disney?",
+   "c": [
+    "Mickey",
+    "Donald",
+    "Goofy",
+    "Nemo"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama o famoso pato da Disney?",
+   "c": [
+    "Mickey",
+    "Donald",
+    "Pateta",
+    "Nemo"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 1
+ },
+ {
+  "fr": {
+   "q": "Quelle couleur obtient-on en mélangeant du bleu et du rouge ?",
+   "c": [
+    "Vert",
+    "Orange",
+    "Violet",
+    "Jaune"
+   ]
+  },
+  "en": {
+   "q": "What color do you get by mixing blue and red?",
+   "c": [
+    "Green",
+    "Orange",
+    "Purple",
+    "Yellow"
+   ]
+  },
+  "ar": {
+   "q": "ما اللون الناتج عن خلط الأزرق والأحمر؟",
+   "c": [
+    "الأخضر",
+    "البرتقالي",
+    "البنفسجي",
+    "الأصفر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué color se obtiene al mezclar azul y rojo?",
+   "c": [
+    "Verde",
+    "Naranja",
+    "Morado",
+    "Amarillo"
+   ]
+  },
+  "pt": {
+   "q": "Que cor se obtém misturando azul e vermelho?",
+   "c": [
+    "Verde",
+    "Laranja",
+    "Roxo",
+    "Amarelo"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle princesse perd sa chaussure de verre en quittant le bal ?",
+   "c": [
+    "Blanche-Neige",
+    "Raiponce",
+    "La Belle au bois dormant",
+    "Cendrillon"
+   ]
+  },
+  "en": {
+   "q": "Which princess loses her glass slipper as she leaves the ball?",
+   "c": [
+    "Snow White",
+    "Rapunzel",
+    "Sleeping Beauty",
+    "Cinderella"
+   ]
+  },
+  "ar": {
+   "q": "أي أميرة تفقد حذاءها الزجاجي وهي تغادر الحفل؟",
+   "c": [
+    "بياض الثلج",
+    "رابونزل",
+    "الأميرة النائمة",
+    "سندريلا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué princesa pierde su zapatilla de cristal al salir del baile?",
+   "c": [
+    "Blancanieves",
+    "Rapunzel",
+    "La Bella Durmiente",
+    "Cenicienta"
+   ]
+  },
+  "pt": {
+   "q": "Que princesa perde o sapatinho de cristal ao sair do baile?",
+   "c": [
+    "Branca de Neve",
+    "Rapunzel",
+    "A Bela Adormecida",
+    "Cinderela"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelle le chien de Mickey ?",
+   "c": [
+    "Pluto",
+    "Snoopy",
+    "Scooby-Doo",
+    "Idéfix"
+   ]
+  },
+  "en": {
+   "q": "What is Mickey's dog called?",
+   "c": [
+    "Pluto",
+    "Snoopy",
+    "Scooby-Doo",
+    "Dogmatix"
+   ]
+  },
+  "ar": {
+   "q": "ما اسم كلب ميكي؟",
+   "c": [
+    "بلوتو",
+    "سنوبي",
+    "سكوبي دو",
+    "إيديفيكس"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama el perro de Mickey?",
+   "c": [
+    "Pluto",
+    "Snoopy",
+    "Scooby-Doo",
+    "Idéfix"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama o cão do Mickey?",
+   "c": [
+    "Pluto",
+    "Snoopy",
+    "Scooby-Doo",
+    "Ideafix"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel garçon ne veut pas grandir et vit au Pays imaginaire ?",
+   "c": [
+    "Aladdin",
+    "Tarzan",
+    "Peter Pan",
+    "Simba"
+   ]
+  },
+  "en": {
+   "q": "Which boy never wants to grow up and lives in Neverland?",
+   "c": [
+    "Aladdin",
+    "Tarzan",
+    "Peter Pan",
+    "Simba"
+   ]
+  },
+  "ar": {
+   "q": "أي صبي لا يريد أن يكبر ويعيش في أرض نيفرلاند؟",
+   "c": [
+    "علاء الدين",
+    "طرزان",
+    "بيتر بان",
+    "سيمبا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué niño no quiere crecer y vive en el País de Nunca Jamás?",
+   "c": [
+    "Aladino",
+    "Tarzán",
+    "Peter Pan",
+    "Simba"
+   ]
+  },
+  "pt": {
+   "q": "Que menino não quer crescer e vive na Terra do Nunca?",
+   "c": [
+    "Aladim",
+    "Tarzan",
+    "Peter Pan",
+    "Simba"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quelle couleur obtient-on en mélangeant du noir et du blanc ?",
+   "c": [
+    "Marron",
+    "Rose",
+    "Vert",
+    "Gris"
+   ]
+  },
+  "en": {
+   "q": "What color do you get by mixing black and white?",
+   "c": [
+    "Brown",
+    "Pink",
+    "Green",
+    "Gray"
+   ]
+  },
+  "ar": {
+   "q": "ما اللون الناتج عن خلط الأسود والأبيض؟",
+   "c": [
+    "البني",
+    "الوردي",
+    "الأخضر",
+    "الرمادي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué color se obtiene al mezclar negro y blanco?",
+   "c": [
+    "Marrón",
+    "Rosa",
+    "Verde",
+    "Gris"
+   ]
+  },
+  "pt": {
+   "q": "Que cor se obtém misturando preto e branco?",
+   "c": [
+    "Marrom",
+    "Rosa",
+    "Verde",
+    "Cinza"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 2
+ },
+ {
+  "fr": {
+   "q": "Quel héros gaulois boit une potion magique ?",
+   "c": [
+    "Astérix",
+    "Tintin",
+    "Lucky Luke",
+    "Spirou"
+   ]
+  },
+  "en": {
+   "q": "Which Gaulish hero drinks a magic potion?",
+   "c": [
+    "Asterix",
+    "Tintin",
+    "Lucky Luke",
+    "Spirou"
+   ]
+  },
+  "ar": {
+   "q": "أي بطل غالي يشرب جرعة سحرية؟",
+   "c": [
+    "أستريكس",
+    "تان تان",
+    "لوكي لوك",
+    "سبيرو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué héroe galo bebe una poción mágica?",
+   "c": [
+    "Astérix",
+    "Tintín",
+    "Lucky Luke",
+    "Spirou"
+   ]
+  },
+  "pt": {
+   "q": "Que herói gaulês bebe uma poção mágica?",
+   "c": [
+    "Asterix",
+    "Tintim",
+    "Lucky Luke",
+    "Spirou"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel super-héros porte une cape rouge et un grand S sur la poitrine ?",
+   "c": [
+    "Spider-Man",
+    "Superman",
+    "Iron Man",
+    "Hulk"
+   ]
+  },
+  "en": {
+   "q": "Which superhero wears a red cape and a big S on his chest?",
+   "c": [
+    "Spider-Man",
+    "Superman",
+    "Iron Man",
+    "Hulk"
+   ]
+  },
+  "ar": {
+   "q": "أي بطل خارق يرتدي رداءً أحمر وحرف S كبيراً على صدره؟",
+   "c": [
+    "سبايدرمان",
+    "سوبرمان",
+    "آيرون مان",
+    "هالك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué superhéroe lleva capa roja y una gran S en el pecho?",
+   "c": [
+    "Spider-Man",
+    "Superman",
+    "Iron Man",
+    "Hulk"
+   ]
+  },
+  "pt": {
+   "q": "Que super-herói usa capa vermelha e um grande S no peito?",
+   "c": [
+    "Homem-Aranha",
+    "Superman",
+    "Homem de Ferro",
+    "Hulk"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel grand instrument doré à cordes se joue avec les deux mains ?",
+   "c": [
+    "Le tambour",
+    "La trompette",
+    "La harpe",
+    "La flûte"
+   ]
+  },
+  "en": {
+   "q": "Which large golden string instrument is played with both hands?",
+   "c": [
+    "The drum",
+    "The trumpet",
+    "The harp",
+    "The flute"
+   ]
+  },
+  "ar": {
+   "q": "أي آلة وترية كبيرة ذهبية يُعزف عليها بكلتا اليدين؟",
+   "c": [
+    "الطبل",
+    "البوق",
+    "الهارب",
+    "الناي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué gran instrumento dorado de cuerdas se toca con las dos manos?",
+   "c": [
+    "El tambor",
+    "La trompeta",
+    "El arpa",
+    "La flauta"
+   ]
+  },
+  "pt": {
+   "q": "Que grande instrumento dourado de cordas se toca com as duas mãos?",
+   "c": [
+    "O tambor",
+    "O trompete",
+    "A harpa",
+    "A flauta"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel pirate a un crochet à la place d'une main et déteste Peter Pan ?",
+   "c": [
+    "Capitaine Haddock",
+    "Jack Sparrow",
+    "Barbe Noire",
+    "Capitaine Crochet"
+   ]
+  },
+  "en": {
+   "q": "Which pirate has a hook instead of a hand and is Peter Pan's enemy?",
+   "c": [
+    "Captain Haddock",
+    "Jack Sparrow",
+    "Blackbeard",
+    "Captain Hook"
+   ]
+  },
+  "ar": {
+   "q": "أي قرصان له خُطّاف بدل يده وهو عدو بيتر بان؟",
+   "c": [
+    "الكابتن هادوك",
+    "جاك سبارو",
+    "لحية سوداء",
+    "الكابتن هوك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pirata tiene un garfio en lugar de mano y es enemigo de Peter Pan?",
+   "c": [
+    "Capitán Haddock",
+    "Jack Sparrow",
+    "Barbanegra",
+    "Capitán Garfio"
+   ]
+  },
+  "pt": {
+   "q": "Que pirata tem um gancho no lugar da mão e é inimigo do Peter Pan?",
+   "c": [
+    "Capitão Haddock",
+    "Jack Sparrow",
+    "Barba Negra",
+    "Capitão Gancho"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel conte parle d'une petite fille à la capuche rouge et d'un loup ?",
+   "c": [
+    "Le Petit Chaperon rouge",
+    "Cendrillon",
+    "Le Chat botté",
+    "Pinocchio"
+   ]
+  },
+  "en": {
+   "q": "Which fairy tale is about a little girl in a red hood and a wolf?",
+   "c": [
+    "Little Red Riding Hood",
+    "Cinderella",
+    "Puss in Boots",
+    "Pinocchio"
+   ]
+  },
+  "ar": {
+   "q": "أي حكاية تدور حول فتاة صغيرة بغطاء رأس أحمر وذئب؟",
+   "c": [
+    "ذات الرداء الأحمر",
+    "سندريلا",
+    "القط ذو الحذاء",
+    "بينوكيو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cuento trata de una niña con capucha roja y un lobo?",
+   "c": [
+    "Caperucita Roja",
+    "Cenicienta",
+    "El Gato con Botas",
+    "Pinocho"
+   ]
+  },
+  "pt": {
+   "q": "Que conto fala de uma menina com capuz vermelho e um lobo?",
+   "c": [
+    "Chapeuzinho Vermelho",
+    "Cinderela",
+    "O Gato de Botas",
+    "Pinóquio"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Quel petit éléphant de Disney vole grâce à ses grandes oreilles ?",
+   "c": [
+    "Babar",
+    "Dumbo",
+    "Bambi",
+    "Simba"
+   ]
+  },
+  "en": {
+   "q": "Which little Disney elephant flies with his big ears?",
+   "c": [
+    "Babar",
+    "Dumbo",
+    "Bambi",
+    "Simba"
+   ]
+  },
+  "ar": {
+   "q": "أي فيل صغير من ديزني يطير بفضل أذنيه الكبيرتين؟",
+   "c": [
+    "بابار",
+    "دامبو",
+    "بامبي",
+    "سيمبا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué elefantito de Disney vuela gracias a sus grandes orejas?",
+   "c": [
+    "Babar",
+    "Dumbo",
+    "Bambi",
+    "Simba"
+   ]
+  },
+  "pt": {
+   "q": "Que elefantinho da Disney voa graças às suas grandes orelhas?",
+   "c": [
+    "Babar",
+    "Dumbo",
+    "Bambi",
+    "Simba"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 3
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelle la princesse du film Aladdin ?",
+   "c": [
+    "Elsa",
+    "Belle",
+    "Jasmine",
+    "Mulan"
+   ]
+  },
+  "en": {
+   "q": "What is the name of the princess in Aladdin?",
+   "c": [
+    "Elsa",
+    "Belle",
+    "Jasmine",
+    "Mulan"
+   ]
+  },
+  "ar": {
+   "q": "ما اسم الأميرة في فيلم علاء الدين؟",
+   "c": [
+    "إلسا",
+    "بيل",
+    "ياسمين",
+    "مولان"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama la princesa de la película Aladdín?",
+   "c": [
+    "Elsa",
+    "Bella",
+    "Jasmine",
+    "Mulán"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama a princesa do filme Aladdin?",
+   "c": [
+    "Elsa",
+    "Bela",
+    "Jasmine",
+    "Mulan"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel jouet de Toy Story est un cow-boy ?",
+   "c": [
+    "Buzz l'Éclair",
+    "Rex",
+    "M. Patate",
+    "Woody"
+   ]
+  },
+  "en": {
+   "q": "Which Toy Story toy is a cowboy?",
+   "c": [
+    "Buzz Lightyear",
+    "Rex",
+    "Mr. Potato Head",
+    "Woody"
+   ]
+  },
+  "ar": {
+   "q": "أي لعبة في «توي ستوري» هي راعي بقر؟",
+   "c": [
+    "باز لايتيير",
+    "ريكس",
+    "السيد بطاطا",
+    "وودي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué juguete de Toy Story es un vaquero?",
+   "c": [
+    "Buzz Lightyear",
+    "Rex",
+    "Sr. Cara de Papa",
+    "Woody"
+   ]
+  },
+  "pt": {
+   "q": "Que brinquedo de Toy Story é um cowboy?",
+   "c": [
+    "Buzz Lightyear",
+    "Rex",
+    "Sr. Cabeça de Batata",
+    "Woody"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel instrument se tient sous le menton pour en jouer ?",
+   "c": [
+    "Le violon",
+    "Le violoncelle",
+    "Le piano",
+    "La harpe"
+   ]
+  },
+  "en": {
+   "q": "Which instrument do you hold under your chin to play it?",
+   "c": [
+    "The violin",
+    "The cello",
+    "The piano",
+    "The harp"
+   ]
+  },
+  "ar": {
+   "q": "أي آلة تُوضع تحت الذقن للعزف عليها؟",
+   "c": [
+    "الكمان",
+    "التشيلو",
+    "البيانو",
+    "الهارب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué instrumento se sostiene bajo la barbilla para tocarlo?",
+   "c": [
+    "El violín",
+    "El violonchelo",
+    "El piano",
+    "El arpa"
+   ]
+  },
+  "pt": {
+   "q": "Que instrumento se segura debaixo do queixo para tocar?",
+   "c": [
+    "O violino",
+    "O violoncelo",
+    "O piano",
+    "A harpa"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel super-héros masqué protège la ville de Gotham ?",
+   "c": [
+    "Superman",
+    "Batman",
+    "Spider-Man",
+    "Hulk"
+   ]
+  },
+  "en": {
+   "q": "Which masked superhero protects Gotham City?",
+   "c": [
+    "Superman",
+    "Batman",
+    "Spider-Man",
+    "Hulk"
+   ]
+  },
+  "ar": {
+   "q": "أي بطل خارق مقنّع يحمي مدينة غوثام؟",
+   "c": [
+    "سوبرمان",
+    "باتمان",
+    "سبايدرمان",
+    "هالك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué superhéroe enmascarado protege Ciudad Gótica?",
+   "c": [
+    "Superman",
+    "Batman",
+    "Spider-Man",
+    "Hulk"
+   ]
+  },
+  "pt": {
+   "q": "Que super-herói mascarado protege Gotham City?",
+   "c": [
+    "Superman",
+    "Batman",
+    "Homem-Aranha",
+    "Hulk"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel petit ours de dessin animé adore le miel ?",
+   "c": [
+    "Bambi",
+    "Dumbo",
+    "Winnie l'Ourson",
+    "Simba"
+   ]
+  },
+  "en": {
+   "q": "Which little cartoon bear loves honey?",
+   "c": [
+    "Bambi",
+    "Dumbo",
+    "Winnie the Pooh",
+    "Simba"
+   ]
+  },
+  "ar": {
+   "q": "أي دب صغير في الرسوم المتحركة يحب العسل؟",
+   "c": [
+    "بامبي",
+    "دامبو",
+    "ويني الدبدوب",
+    "سيمبا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué osito de dibujos animados adora la miel?",
+   "c": [
+    "Bambi",
+    "Dumbo",
+    "Winnie the Pooh",
+    "Simba"
+   ]
+  },
+  "pt": {
+   "q": "Que ursinho de desenho animado adora mel?",
+   "c": [
+    "Bambi",
+    "Dumbo",
+    "Ursinho Pooh",
+    "Simba"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelle la petite sirène de Disney ?",
+   "c": [
+    "Belle",
+    "Raiponce",
+    "Mulan",
+    "Ariel"
+   ]
+  },
+  "en": {
+   "q": "What is Disney's little mermaid called?",
+   "c": [
+    "Belle",
+    "Rapunzel",
+    "Mulan",
+    "Ariel"
+   ]
+  },
+  "ar": {
+   "q": "ما اسم حورية البحر الصغيرة في ديزني؟",
+   "c": [
+    "بيل",
+    "رابونزل",
+    "مولان",
+    "أريل"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama la sirenita de Disney?",
+   "c": [
+    "Bella",
+    "Rapunzel",
+    "Mulán",
+    "Ariel"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama a pequena sereia da Disney?",
+   "c": [
+    "Bela",
+    "Rapunzel",
+    "Mulan",
+    "Ariel"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 4
+ },
+ {
+  "fr": {
+   "q": "Quel peintre est célèbre pour ses tableaux de tournesols ?",
+   "c": [
+    "Van Gogh",
+    "Picasso",
+    "Monet",
+    "Dalí"
+   ]
+  },
+  "en": {
+   "q": "Which painter is famous for his paintings of sunflowers?",
+   "c": [
+    "Van Gogh",
+    "Picasso",
+    "Monet",
+    "Dalí"
+   ]
+  },
+  "ar": {
+   "q": "أي رسام مشهور بلوحات عباد الشمس؟",
+   "c": [
+    "فان غوخ",
+    "بيكاسو",
+    "مونيه",
+    "دالي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pintor es famoso por sus cuadros de girasoles?",
+   "c": [
+    "Van Gogh",
+    "Picasso",
+    "Monet",
+    "Dalí"
+   ]
+  },
+  "pt": {
+   "q": "Que pintor é famoso pelos seus quadros de girassóis?",
+   "c": [
+    "Van Gogh",
+    "Picasso",
+    "Monet",
+    "Dalí"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Qui a créé Mickey Mouse ?",
+   "c": [
+    "Charlie Chaplin",
+    "Walt Disney",
+    "Steven Spielberg",
+    "George Lucas"
+   ]
+  },
+  "en": {
+   "q": "Who created Mickey Mouse?",
+   "c": [
+    "Charlie Chaplin",
+    "Walt Disney",
+    "Steven Spielberg",
+    "George Lucas"
+   ]
+  },
+  "ar": {
+   "q": "من الذي ابتكر شخصية ميكي ماوس؟",
+   "c": [
+    "تشارلي شابلن",
+    "والت ديزني",
+    "ستيفن سبيلبرغ",
+    "جورج لوكاس"
+   ]
+  },
+  "es": {
+   "q": "¿Quién creó a Mickey Mouse?",
+   "c": [
+    "Charlie Chaplin",
+    "Walt Disney",
+    "Steven Spielberg",
+    "George Lucas"
+   ]
+  },
+  "pt": {
+   "q": "Quem criou o Mickey Mouse?",
+   "c": [
+    "Charlie Chaplin",
+    "Walt Disney",
+    "Steven Spielberg",
+    "George Lucas"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel grand instrument à tuyaux et à clavier trouve-t-on souvent dans les églises ?",
+   "c": [
+    "Le violon",
+    "La flûte",
+    "L'orgue",
+    "La batterie"
+   ]
+  },
+  "en": {
+   "q": "Which large instrument with pipes and a keyboard is often found in churches?",
+   "c": [
+    "The violin",
+    "The flute",
+    "The organ",
+    "The drums"
+   ]
+  },
+  "ar": {
+   "q": "أي آلة كبيرة ذات أنابيب ولوحة مفاتيح توجد غالباً في الكنائس؟",
+   "c": [
+    "الكمان",
+    "الناي",
+    "الأرغن",
+    "الطبول"
+   ]
+  },
+  "es": {
+   "q": "¿Qué gran instrumento con tubos y teclado se encuentra a menudo en las iglesias?",
+   "c": [
+    "El violín",
+    "La flauta",
+    "El órgano",
+    "La batería"
+   ]
+  },
+  "pt": {
+   "q": "Que grande instrumento com tubos e teclado se encontra muitas vezes nas igrejas?",
+   "c": [
+    "O violino",
+    "A flauta",
+    "O órgão",
+    "A bateria"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Qui a écrit la fable « Le Corbeau et le Renard » ?",
+   "c": [
+    "Victor Hugo",
+    "Molière",
+    "Charles Perrault",
+    "Jean de La Fontaine"
+   ]
+  },
+  "en": {
+   "q": "Who wrote the fable “The Crow and the Fox”?",
+   "c": [
+    "Victor Hugo",
+    "Molière",
+    "Charles Perrault",
+    "Jean de La Fontaine"
+   ]
+  },
+  "ar": {
+   "q": "من كتب خرافة «الغراب والثعلب»؟",
+   "c": [
+    "فيكتور هوغو",
+    "موليير",
+    "شارل بيرو",
+    "جان دو لافونتين"
+   ]
+  },
+  "es": {
+   "q": "¿Quién escribió la fábula «El cuervo y el zorro»?",
+   "c": [
+    "Victor Hugo",
+    "Molière",
+    "Charles Perrault",
+    "Jean de La Fontaine"
+   ]
+  },
+  "pt": {
+   "q": "Quem escreveu a fábula «O Corvo e a Raposa»?",
+   "c": [
+    "Victor Hugo",
+    "Molière",
+    "Charles Perrault",
+    "Jean de La Fontaine"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel animal est Baloo dans Le Livre de la jungle ?",
+   "c": [
+    "Un ours",
+    "Un tigre",
+    "Un singe",
+    "Un serpent"
+   ]
+  },
+  "en": {
+   "q": "What animal is Baloo in The Jungle Book?",
+   "c": [
+    "A bear",
+    "A tiger",
+    "A monkey",
+    "A snake"
+   ]
+  },
+  "ar": {
+   "q": "ما هو الحيوان بالو في «كتاب الأدغال»؟",
+   "c": [
+    "دب",
+    "نمر",
+    "قرد",
+    "ثعبان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal es Baloo en El libro de la selva?",
+   "c": [
+    "Un oso",
+    "Un tigre",
+    "Un mono",
+    "Una serpiente"
+   ]
+  },
+  "pt": {
+   "q": "Que animal é o Balu em O Livro da Selva?",
+   "c": [
+    "Um urso",
+    "Um tigre",
+    "Um macaco",
+    "Uma cobra"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 5
+ },
+ {
+  "fr": {
+   "q": "Quel grand compositeur a continué à composer en devenant sourd ?",
+   "c": [
+    "Mozart",
+    "Beethoven",
+    "Chopin",
+    "Bach"
+   ]
+  },
+  "en": {
+   "q": "Which great composer kept composing as he went deaf?",
+   "c": [
+    "Mozart",
+    "Beethoven",
+    "Chopin",
+    "Bach"
+   ]
+  },
+  "ar": {
+   "q": "أي مؤلف موسيقي عظيم واصل التأليف رغم أنه أصبح أصمّ؟",
+   "c": [
+    "موزارت",
+    "بيتهوفن",
+    "شوبان",
+    "باخ"
+   ]
+  },
+  "es": {
+   "q": "¿Qué gran compositor siguió componiendo aunque se quedó sordo?",
+   "c": [
+    "Mozart",
+    "Beethoven",
+    "Chopin",
+    "Bach"
+   ]
+  },
+  "pt": {
+   "q": "Que grande compositor continuou a compor mesmo ficando surdo?",
+   "c": [
+    "Mozart",
+    "Beethoven",
+    "Chopin",
+    "Bach"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 5
+ },
+ {
   "en": {
    "q": "Who painted the Mona Lisa?",
    "c": [
@@ -47,7 +1447,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "en": {
@@ -97,7 +1497,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "en": {
@@ -147,7 +1547,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "en": {
@@ -197,7 +1597,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "en": {
@@ -247,7 +1647,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "en": {
@@ -297,7 +1697,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -347,7 +1747,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -397,7 +1797,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -447,7 +1847,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -497,7 +1897,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -547,7 +1947,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -597,7 +1997,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -647,7 +2047,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -697,7 +2097,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "en": {
@@ -747,7 +2147,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "en": {
@@ -797,7 +2197,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "en": {
@@ -847,7 +2247,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "en": {
@@ -897,7 +2297,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "en": {
@@ -947,7 +2347,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "en": {
@@ -997,7 +2397,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "en": {
@@ -1047,7 +2447,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "en": {
@@ -1097,7 +2497,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "en": {
@@ -1147,7 +2547,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "en": {
@@ -1197,7 +2597,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "en": {
@@ -1247,7 +2647,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "en": {
@@ -1297,7 +2697,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "en": {
@@ -1347,7 +2747,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "en": {
@@ -1397,7 +2797,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "en": {
@@ -1447,7 +2847,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "en": {
@@ -1497,7 +2897,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "en": {
@@ -1547,7 +2947,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "en": {
@@ -1597,7 +2997,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "en": {
@@ -1647,7 +3047,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "en": {
@@ -1697,7 +3097,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "en": {
@@ -1747,7 +3147,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "en": {
@@ -1797,7 +3197,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "en": {
@@ -1847,7 +3247,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "en": {
@@ -1897,7 +3297,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "en": {
@@ -1947,7 +3347,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "en": {
@@ -1997,7 +3397,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "en": {
@@ -2047,7 +3447,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "en": {
@@ -2097,7 +3497,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "en": {
@@ -2147,7 +3547,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "en": {
@@ -2197,7 +3597,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "en": {
@@ -2247,7 +3647,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "en": {
@@ -2297,7 +3697,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2347,7 +3747,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2397,7 +3797,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -2447,7 +3847,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "en": {
@@ -2497,7 +3897,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "en": {
@@ -2547,7 +3947,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "en": {
@@ -2597,7 +3997,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "en": {
@@ -2647,7 +4047,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "en": {
@@ -2697,7 +4097,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "en": {
@@ -2747,7 +4147,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "en": {
@@ -2797,7 +4197,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "en": {
@@ -2847,7 +4247,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "en": {
@@ -2897,7 +4297,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "en": {
@@ -2947,7 +4347,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "en": {
@@ -2997,7 +4397,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "en": {
@@ -3047,7 +4447,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 5
+  "level": 10
  },
  {
   "en": {
@@ -3097,7 +4497,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "en": {
@@ -3147,7 +4547,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "en": {
@@ -3197,7 +4597,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "en": {
@@ -3247,7 +4647,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "en": {
@@ -3297,7 +4697,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "en": {
@@ -3347,7 +4747,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "en": {
@@ -3397,7 +4797,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "en": {
@@ -3447,7 +4847,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "en": {
@@ -3497,7 +4897,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "en": {
@@ -3547,7 +4947,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "en": {
@@ -3597,7 +4997,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "en": {
@@ -3647,7 +5047,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "en": {
@@ -3697,7 +5097,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "en": {
@@ -3747,7 +5147,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "en": {
@@ -3797,7 +5197,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "en": {
@@ -3847,7 +5247,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "en": {
@@ -3897,7 +5297,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "en": {
@@ -3947,7 +5347,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "en": {
@@ -3997,7 +5397,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "en": {
@@ -4047,7 +5447,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "en": {
@@ -4097,7 +5497,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "en": {
@@ -4147,7 +5547,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "en": {
@@ -4197,7 +5597,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "en": {
@@ -4247,7 +5647,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "en": {
@@ -4297,7 +5697,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "en": {
@@ -4347,7 +5747,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "en": {
@@ -4397,7 +5797,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "en": {
@@ -4447,7 +5847,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "en": {
@@ -4497,7 +5897,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "en": {
@@ -4547,7 +5947,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "en": {
@@ -4597,7 +5997,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "en": {
@@ -4647,7 +6047,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "en": {
@@ -4697,7 +6097,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "en": {
@@ -4747,7 +6147,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "en": {
@@ -4797,7 +6197,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "en": {
@@ -4847,7 +6247,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "en": {
@@ -4897,7 +6297,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "en": {
@@ -4947,7 +6347,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "en": {
@@ -4997,7 +6397,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "en": {
@@ -5047,7 +6447,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 9
+  "level": 14
  },
  {
   "en": {
@@ -5097,7 +6497,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "en": {
@@ -5147,7 +6547,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "en": {
@@ -5197,7 +6597,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "en": {
@@ -5247,7 +6647,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "en": {
@@ -5297,7 +6697,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "en": {
@@ -5347,7 +6747,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "en": {
@@ -5397,7 +6797,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "en": {
@@ -5447,7 +6847,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "en": {
@@ -5497,7 +6897,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "en": {
@@ -5547,11 +6947,11 @@
   },
   "a": 1,
   "image": null,
-  "level": 10
+  "level": 15
  },
  {
   "type": "order",
-  "level": 5,
+  "level": 10,
   "image": null,
   "a": 0,
   "fr": {
@@ -5602,7 +7002,7 @@
  },
  {
   "type": "match",
-  "level": 2,
+  "level": 7,
   "image": null,
   "a": 0,
   "fr": {
@@ -5713,7 +7113,7 @@
  },
  {
   "type": "number",
-  "level": 2,
+  "level": 7,
   "image": null,
   "a": 6,
   "min": 2,
@@ -5784,7 +7184,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -5834,7 +7234,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -5884,7 +7284,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -5934,7 +7334,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -5984,7 +7384,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 1
+  "level": 6
  },
  {
   "fr": {
@@ -6034,7 +7434,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -6084,7 +7484,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -6134,7 +7534,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -6184,7 +7584,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -6234,7 +7634,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -6284,7 +7684,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 2
+  "level": 7
  },
  {
   "fr": {
@@ -6334,7 +7734,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -6384,7 +7784,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -6434,7 +7834,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -6484,7 +7884,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -6534,7 +7934,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -6584,7 +7984,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 3
+  "level": 8
  },
  {
   "fr": {
@@ -6634,7 +8034,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -6684,7 +8084,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -6734,7 +8134,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -6784,7 +8184,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -6834,7 +8234,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -6884,7 +8284,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 4
+  "level": 9
  },
  {
   "fr": {
@@ -6934,6 +8334,6 @@
   },
   "a": 0,
   "image": null,
-  "level": 2
+  "level": 7
  }
 ]
