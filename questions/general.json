@@ -1401,6 +1401,3006 @@
  },
  {
   "fr": {
+   "q": "Quel animal fait « coin-coin » ?",
+   "c": [
+    "Le canard",
+    "Le chat",
+    "Le cheval",
+    "Le poisson"
+   ]
+  },
+  "en": {
+   "q": "Which animal says \"quack\"?",
+   "c": [
+    "Duck",
+    "Cat",
+    "Horse",
+    "Fish"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يقول «كواك»؟",
+   "c": [
+    "البطة",
+    "القطة",
+    "الحصان",
+    "السمكة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal hace «cuac»?",
+   "c": [
+    "El pato",
+    "El gato",
+    "El caballo",
+    "El pez"
+   ]
+  },
+  "pt": {
+   "q": "Que animal faz «quá-quá»?",
+   "c": [
+    "O pato",
+    "O gato",
+    "O cavalo",
+    "O peixe"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Combien y a-t-il de jours dans une semaine ?",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "en": {
+   "q": "How many days are there in a week?",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد أيام الأسبوع؟",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos días tiene una semana?",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "pt": {
+   "q": "Quantos dias tem uma semana?",
+   "c": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Quelle saison vient après l'hiver ?",
+   "c": [
+    "Automne",
+    "Été",
+    "Printemps",
+    "Hiver"
+   ]
+  },
+  "en": {
+   "q": "Which season comes after winter?",
+   "c": [
+    "Autumn",
+    "Summer",
+    "Spring",
+    "Winter"
+   ]
+  },
+  "ar": {
+   "q": "أي فصل يأتي بعد الشتاء؟",
+   "c": [
+    "الخريف",
+    "الصيف",
+    "الربيع",
+    "الشتاء"
+   ]
+  },
+  "es": {
+   "q": "¿Qué estación viene después del invierno?",
+   "c": [
+    "Otoño",
+    "Verano",
+    "Primavera",
+    "Invierno"
+   ]
+  },
+  "pt": {
+   "q": "Que estação vem depois do inverno?",
+   "c": [
+    "Outono",
+    "Verão",
+    "Primavera",
+    "Inverno"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "De quelle couleur est le ciel par temps clair ?",
+   "c": [
+    "Vert",
+    "Bleu",
+    "Rouge",
+    "Noir"
+   ]
+  },
+  "en": {
+   "q": "What color is the sky on a clear day?",
+   "c": [
+    "Green",
+    "Blue",
+    "Red",
+    "Black"
+   ]
+  },
+  "ar": {
+   "q": "ما لون السماء في يوم صافٍ؟",
+   "c": [
+    "الأخضر",
+    "الأزرق",
+    "الأحمر",
+    "الأسود"
+   ]
+  },
+  "es": {
+   "q": "¿De qué color es el cielo en un día despejado?",
+   "c": [
+    "Verde",
+    "Azul",
+    "Rojo",
+    "Negro"
+   ]
+  },
+  "pt": {
+   "q": "De que cor é o céu num dia de céu limpo?",
+   "c": [
+    "Verde",
+    "Azul",
+    "Vermelho",
+    "Preto"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Quel animal de la ferme adore se rouler dans la boue ?",
+   "c": [
+    "Le cochon",
+    "Le mouton",
+    "La poule",
+    "L'âne"
+   ]
+  },
+  "en": {
+   "q": "Which farm animal loves rolling in mud?",
+   "c": [
+    "Pig",
+    "Sheep",
+    "Hen",
+    "Donkey"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان من حيوانات المزرعة يحب التمرغ في الطين؟",
+   "c": [
+    "الخنزير",
+    "الخروف",
+    "الدجاجة",
+    "الحمار"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal de granja adora revolcarse en el barro?",
+   "c": [
+    "El cerdo",
+    "La oveja",
+    "La gallina",
+    "El burro"
+   ]
+  },
+  "pt": {
+   "q": "Que animal de fazenda adora se rolar na lama?",
+   "c": [
+    "O porco",
+    "A ovelha",
+    "A galinha",
+    "O burro"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Que porte-t-on aux pieds ?",
+   "c": [
+    "Un chapeau",
+    "Des gants",
+    "Des chaussures",
+    "Une écharpe"
+   ]
+  },
+  "en": {
+   "q": "What do we wear on our feet?",
+   "c": [
+    "A hat",
+    "Gloves",
+    "Shoes",
+    "A scarf"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نرتدي في أقدامنا؟",
+   "c": [
+    "قبعة",
+    "قفازات",
+    "حذاء",
+    "وشاح"
+   ]
+  },
+  "es": {
+   "q": "¿Qué nos ponemos en los pies?",
+   "c": [
+    "Un sombrero",
+    "Guantes",
+    "Zapatos",
+    "Una bufanda"
+   ]
+  },
+  "pt": {
+   "q": "O que usamos nos pés?",
+   "c": [
+    "Um chapéu",
+    "Luvas",
+    "Sapatos",
+    "Um cachecol"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Combien de roues a un vélo ?",
+   "c": [
+    "Une",
+    "Deux",
+    "Trois",
+    "Quatre"
+   ]
+  },
+  "en": {
+   "q": "How many wheels does a bicycle have?",
+   "c": [
+    "One",
+    "Two",
+    "Three",
+    "Four"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد عجلات الدراجة الهوائية؟",
+   "c": [
+    "واحدة",
+    "اثنتان",
+    "ثلاث",
+    "أربع"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántas ruedas tiene una bicicleta?",
+   "c": [
+    "Una",
+    "Dos",
+    "Tres",
+    "Cuatro"
+   ]
+  },
+  "pt": {
+   "q": "Quantas rodas tem uma bicicleta?",
+   "c": [
+    "Uma",
+    "Duas",
+    "Três",
+    "Quatro"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Quel animal saute et porte son petit dans une poche ?",
+   "c": [
+    "Le lapin",
+    "L'écureuil",
+    "Le cerf",
+    "Le kangourou"
+   ]
+  },
+  "en": {
+   "q": "Which animal hops and carries its baby in a pouch?",
+   "c": [
+    "Rabbit",
+    "Squirrel",
+    "Deer",
+    "Kangaroo"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يقفز ويحمل صغيره في كيس؟",
+   "c": [
+    "الأرنب",
+    "السنجاب",
+    "الغزال",
+    "الكنغر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal salta y lleva a su cría en una bolsa?",
+   "c": [
+    "El conejo",
+    "La ardilla",
+    "El ciervo",
+    "El canguro"
+   ]
+  },
+  "pt": {
+   "q": "Que animal salta e carrega o filhote numa bolsa?",
+   "c": [
+    "O coelho",
+    "O esquilo",
+    "O veado",
+    "O canguru"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Que utilise-t-on pour ne pas être mouillé sous la pluie ?",
+   "c": [
+    "Un parapluie",
+    "Un éventail",
+    "Un miroir",
+    "Un balai"
+   ]
+  },
+  "en": {
+   "q": "What do we use to stay dry in the rain?",
+   "c": [
+    "An umbrella",
+    "A fan",
+    "A mirror",
+    "A broom"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نستخدم لنبقى جافين تحت المطر؟",
+   "c": [
+    "المظلة",
+    "المروحة",
+    "المرآة",
+    "المكنسة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué usamos para no mojarnos con la lluvia?",
+   "c": [
+    "Un paraguas",
+    "Un abanico",
+    "Un espejo",
+    "Una escoba"
+   ]
+  },
+  "pt": {
+   "q": "O que usamos para não nos molharmos na chuva?",
+   "c": [
+    "Um guarda-chuva",
+    "Um leque",
+    "Um espelho",
+    "Uma vassoura"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Quel repas prend-on le matin ?",
+   "c": [
+    "Le dîner",
+    "Le petit-déjeuner",
+    "Le déjeuner",
+    "Le dessert"
+   ]
+  },
+  "en": {
+   "q": "Which meal do we eat in the morning?",
+   "c": [
+    "Dinner",
+    "Breakfast",
+    "Lunch",
+    "Dessert"
+   ]
+  },
+  "ar": {
+   "q": "ما اسم الوجبة التي نتناولها في الصباح؟",
+   "c": [
+    "العشاء",
+    "الفطور",
+    "الغداء",
+    "الحلوى"
+   ]
+  },
+  "es": {
+   "q": "¿Qué comida tomamos por la mañana?",
+   "c": [
+    "La cena",
+    "El desayuno",
+    "El almuerzo",
+    "El postre"
+   ]
+  },
+  "pt": {
+   "q": "Que refeição fazemos de manhã?",
+   "c": [
+    "O jantar",
+    "O café da manhã",
+    "O almoço",
+    "A sobremesa"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Quel oiseau vit dans les terres glacées et ne vole pas ?",
+   "c": [
+    "L'aigle",
+    "Le manchot",
+    "Le perroquet",
+    "Le cygne"
+   ]
+  },
+  "en": {
+   "q": "Which bird lives in icy lands and cannot fly?",
+   "c": [
+    "Eagle",
+    "Penguin",
+    "Parrot",
+    "Swan"
+   ]
+  },
+  "ar": {
+   "q": "أي طائر يعيش في الأراضي الجليدية ولا يستطيع الطيران؟",
+   "c": [
+    "النسر",
+    "البطريق",
+    "الببغاء",
+    "البجعة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ave vive en tierras heladas y no puede volar?",
+   "c": [
+    "El águila",
+    "El pingüino",
+    "El loro",
+    "El cisne"
+   ]
+  },
+  "pt": {
+   "q": "Que ave vive em terras geladas e não voa?",
+   "c": [
+    "A águia",
+    "O pinguim",
+    "O papagaio",
+    "O cisne"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on le petit du chien ?",
+   "c": [
+    "Chaton",
+    "Veau",
+    "Poussin",
+    "Chiot"
+   ]
+  },
+  "en": {
+   "q": "What is a baby dog called?",
+   "c": [
+    "Kitten",
+    "Calf",
+    "Chick",
+    "Puppy"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي صغير الكلب؟",
+   "c": [
+    "قطة صغيرة",
+    "العجل",
+    "الكتكوت",
+    "الجرو"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama la cría del perro?",
+   "c": [
+    "Gatito",
+    "Ternero",
+    "Pollito",
+    "Cachorro"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama o filhote do cão?",
+   "c": [
+    "Gatinho",
+    "Bezerro",
+    "Pintinho",
+    "Cachorrinho"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 6
+ },
+ {
+  "fr": {
+   "q": "Combien de pattes a un oiseau ?",
+   "c": [
+    "Deux",
+    "Quatre",
+    "Six",
+    "Huit"
+   ]
+  },
+  "en": {
+   "q": "How many legs does a bird have?",
+   "c": [
+    "Two",
+    "Four",
+    "Six",
+    "Eight"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد أرجل الطائر؟",
+   "c": [
+    "اثنتان",
+    "أربع",
+    "ست",
+    "ثمانٍ"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántas patas tiene un ave?",
+   "c": [
+    "Dos",
+    "Cuatro",
+    "Seis",
+    "Ocho"
+   ]
+  },
+  "pt": {
+   "q": "Quantas patas tem uma ave?",
+   "c": [
+    "Duas",
+    "Quatro",
+    "Seis",
+    "Oito"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Avec quoi entend-on ?",
+   "c": [
+    "Les yeux",
+    "Les oreilles",
+    "Le nez",
+    "La bouche"
+   ]
+  },
+  "en": {
+   "q": "Which body part do we hear with?",
+   "c": [
+    "Eyes",
+    "Ears",
+    "Nose",
+    "Mouth"
+   ]
+  },
+  "ar": {
+   "q": "بماذا نسمع؟",
+   "c": [
+    "العينين",
+    "الأذنين",
+    "الأنف",
+    "الفم"
+   ]
+  },
+  "es": {
+   "q": "¿Con qué oímos?",
+   "c": [
+    "Los ojos",
+    "Los oídos",
+    "La nariz",
+    "La boca"
+   ]
+  },
+  "pt": {
+   "q": "Com o que ouvimos?",
+   "c": [
+    "Os olhos",
+    "Os ouvidos",
+    "O nariz",
+    "A boca"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale de la France ?",
+   "c": [
+    "Rome",
+    "Madrid",
+    "Londres",
+    "Paris"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of France?",
+   "c": [
+    "Rome",
+    "Madrid",
+    "London",
+    "Paris"
+   ]
+  },
+  "ar": {
+   "q": "ما عاصمة فرنسا؟",
+   "c": [
+    "روما",
+    "مدريد",
+    "لندن",
+    "باريس"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Francia?",
+   "c": [
+    "Roma",
+    "Madrid",
+    "Londres",
+    "París"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital da França?",
+   "c": [
+    "Roma",
+    "Madrid",
+    "Londres",
+    "Paris"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Sur quelle planète vivons-nous ?",
+   "c": [
+    "Mars",
+    "Vénus",
+    "La Terre",
+    "Jupiter"
+   ]
+  },
+  "en": {
+   "q": "On which planet do we live?",
+   "c": [
+    "Mars",
+    "Venus",
+    "Earth",
+    "Jupiter"
+   ]
+  },
+  "ar": {
+   "q": "على أي كوكب نعيش؟",
+   "c": [
+    "المريخ",
+    "الزهرة",
+    "الأرض",
+    "المشتري"
+   ]
+  },
+  "es": {
+   "q": "¿En qué planeta vivimos?",
+   "c": [
+    "Marte",
+    "Venus",
+    "La Tierra",
+    "Júpiter"
+   ]
+  },
+  "pt": {
+   "q": "Em que planeta vivemos?",
+   "c": [
+    "Marte",
+    "Vênus",
+    "A Terra",
+    "Júpiter"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Qu'est-ce qui brille dans le ciel la nuit et tourne autour de la Terre ?",
+   "c": [
+    "La Lune",
+    "Le Soleil",
+    "Mars",
+    "Une comète"
+   ]
+  },
+  "en": {
+   "q": "What shines in the night sky and goes around the Earth?",
+   "c": [
+    "The Moon",
+    "The Sun",
+    "Mars",
+    "A comet"
+   ]
+  },
+  "ar": {
+   "q": "ما الذي يضيء سماء الليل ويدور حول الأرض؟",
+   "c": [
+    "القمر",
+    "الشمس",
+    "المريخ",
+    "مذنب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué brilla en el cielo de noche y gira alrededor de la Tierra?",
+   "c": [
+    "La Luna",
+    "El Sol",
+    "Marte",
+    "Un cometa"
+   ]
+  },
+  "pt": {
+   "q": "O que brilha no céu à noite e gira em torno da Terra?",
+   "c": [
+    "A Lua",
+    "O Sol",
+    "Marte",
+    "Um cometa"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Quel légume nous fait souvent pleurer quand on le coupe ?",
+   "c": [
+    "La carotte",
+    "La pomme de terre",
+    "L'oignon",
+    "La tomate"
+   ]
+  },
+  "en": {
+   "q": "Which vegetable often makes us cry when we cut it?",
+   "c": [
+    "Carrot",
+    "Potato",
+    "Onion",
+    "Tomato"
+   ]
+  },
+  "ar": {
+   "q": "أي خضار يجعلنا نبكي غالبًا عند تقطيعه؟",
+   "c": [
+    "الجزر",
+    "البطاطا",
+    "البصل",
+    "الطماطم"
+   ]
+  },
+  "es": {
+   "q": "¿Qué verdura nos hace llorar a menudo al cortarla?",
+   "c": [
+    "La zanahoria",
+    "La papa",
+    "La cebolla",
+    "El tomate"
+   ]
+  },
+  "pt": {
+   "q": "Que legume costuma nos fazer chorar quando o cortamos?",
+   "c": [
+    "A cenoura",
+    "A batata",
+    "A cebola",
+    "O tomate"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Qui fabrique le pain dans une boulangerie ?",
+   "c": [
+    "Le facteur",
+    "Le boulanger",
+    "Le pilote",
+    "Le médecin"
+   ]
+  },
+  "en": {
+   "q": "Who makes bread in a bakery?",
+   "c": [
+    "A postman",
+    "A baker",
+    "A pilot",
+    "A doctor"
+   ]
+  },
+  "ar": {
+   "q": "من يصنع الخبز في المخبز؟",
+   "c": [
+    "ساعي البريد",
+    "الخبّاز",
+    "الطيار",
+    "الطبيب"
+   ]
+  },
+  "es": {
+   "q": "¿Quién hace el pan en una panadería?",
+   "c": [
+    "El cartero",
+    "El panadero",
+    "El piloto",
+    "El médico"
+   ]
+  },
+  "pt": {
+   "q": "Quem faz o pão numa padaria?",
+   "c": [
+    "O carteiro",
+    "O padeiro",
+    "O piloto",
+    "O médico"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Combien d'heures y a-t-il dans une journée ?",
+   "c": [
+    "12",
+    "20",
+    "36",
+    "24"
+   ]
+  },
+  "en": {
+   "q": "How many hours are there in one day?",
+   "c": [
+    "12",
+    "20",
+    "36",
+    "24"
+   ]
+  },
+  "ar": {
+   "q": "كم ساعة في اليوم الواحد؟",
+   "c": [
+    "12",
+    "20",
+    "36",
+    "24"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántas horas tiene un día?",
+   "c": [
+    "12",
+    "20",
+    "36",
+    "24"
+   ]
+  },
+  "pt": {
+   "q": "Quantas horas tem um dia?",
+   "c": [
+    "12",
+    "20",
+    "36",
+    "24"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Quel animal mange surtout du bambou ?",
+   "c": [
+    "Le panda",
+    "Le lion",
+    "Le zèbre",
+    "Le loup"
+   ]
+  },
+  "en": {
+   "q": "Which animal mainly eats bamboo?",
+   "c": [
+    "Panda",
+    "Lion",
+    "Zebra",
+    "Wolf"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يأكل الخيزران بشكل أساسي؟",
+   "c": [
+    "الباندا",
+    "الأسد",
+    "الحمار الوحشي",
+    "الذئب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal come sobre todo bambú?",
+   "c": [
+    "El panda",
+    "El león",
+    "La cebra",
+    "El lobo"
+   ]
+  },
+  "pt": {
+   "q": "Que animal come principalmente bambu?",
+   "c": [
+    "O panda",
+    "O leão",
+    "A zebra",
+    "O lobo"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Quel sens utilise-t-on avec la langue ?",
+   "c": [
+    "L'odorat",
+    "L'ouïe",
+    "Le goût",
+    "La vue"
+   ]
+  },
+  "en": {
+   "q": "Which sense do we use our tongue for?",
+   "c": [
+    "Smell",
+    "Hearing",
+    "Taste",
+    "Sight"
+   ]
+  },
+  "ar": {
+   "q": "أي حاسة نستخدم فيها اللسان؟",
+   "c": [
+    "الشم",
+    "السمع",
+    "التذوق",
+    "البصر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué sentido usamos con la lengua?",
+   "c": [
+    "El olfato",
+    "El oído",
+    "El gusto",
+    "La vista"
+   ]
+  },
+  "pt": {
+   "q": "Que sentido usamos com a língua?",
+   "c": [
+    "O olfato",
+    "A audição",
+    "O paladar",
+    "A visão"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Combien de minutes y a-t-il dans une heure ?",
+   "c": [
+    "30",
+    "45",
+    "100",
+    "60"
+   ]
+  },
+  "en": {
+   "q": "How many minutes are there in one hour?",
+   "c": [
+    "30",
+    "45",
+    "100",
+    "60"
+   ]
+  },
+  "ar": {
+   "q": "كم دقيقة في الساعة الواحدة؟",
+   "c": [
+    "30",
+    "45",
+    "100",
+    "60"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos minutos tiene una hora?",
+   "c": [
+    "30",
+    "45",
+    "100",
+    "60"
+   ]
+  },
+  "pt": {
+   "q": "Quantos minutos tem uma hora?",
+   "c": [
+    "30",
+    "45",
+    "100",
+    "60"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Quel fruit sèche-t-on pour obtenir des raisins secs ?",
+   "c": [
+    "La prune",
+    "Le raisin",
+    "La figue",
+    "L'abricot"
+   ]
+  },
+  "en": {
+   "q": "Which fruit is dried to make raisins?",
+   "c": [
+    "Plum",
+    "Grape",
+    "Fig",
+    "Apricot"
+   ]
+  },
+  "ar": {
+   "q": "أي فاكهة تُجفَّف للحصول على الزبيب؟",
+   "c": [
+    "البرقوق",
+    "العنب",
+    "التين",
+    "المشمش"
+   ]
+  },
+  "es": {
+   "q": "¿Qué fruta se seca para obtener pasas?",
+   "c": [
+    "Ciruela",
+    "Uva",
+    "Higo",
+    "Albaricoque"
+   ]
+  },
+  "pt": {
+   "q": "Que fruta é desidratada para fazer passas?",
+   "c": [
+    "Ameixa",
+    "Uva",
+    "Figo",
+    "Damasco"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 7
+ },
+ {
+  "fr": {
+   "q": "Quelle planète est la plus proche du Soleil ?",
+   "c": [
+    "Vénus",
+    "La Terre",
+    "Mercure",
+    "Mars"
+   ]
+  },
+  "en": {
+   "q": "Which planet is closest to the Sun?",
+   "c": [
+    "Venus",
+    "Earth",
+    "Mercury",
+    "Mars"
+   ]
+  },
+  "ar": {
+   "q": "أي كوكب هو الأقرب إلى الشمس؟",
+   "c": [
+    "الزهرة",
+    "الأرض",
+    "عطارد",
+    "المريخ"
+   ]
+  },
+  "es": {
+   "q": "¿Qué planeta es el más cercano al Sol?",
+   "c": [
+    "Venus",
+    "La Tierra",
+    "Mercurio",
+    "Marte"
+   ]
+  },
+  "pt": {
+   "q": "Que planeta é o mais próximo do Sol?",
+   "c": [
+    "Vênus",
+    "A Terra",
+    "Mercúrio",
+    "Marte"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale de l'Italie ?",
+   "c": [
+    "Rome",
+    "Athènes",
+    "Vienne",
+    "Lisbonne"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of Italy?",
+   "c": [
+    "Rome",
+    "Athens",
+    "Vienna",
+    "Lisbon"
+   ]
+  },
+  "ar": {
+   "q": "ما عاصمة إيطاليا؟",
+   "c": [
+    "روما",
+    "أثينا",
+    "فيينا",
+    "لشبونة"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Italia?",
+   "c": [
+    "Roma",
+    "Atenas",
+    "Viena",
+    "Lisboa"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital da Itália?",
+   "c": [
+    "Roma",
+    "Atenas",
+    "Viena",
+    "Lisboa"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Combien de pattes a un insecte ?",
+   "c": [
+    "4",
+    "6",
+    "8",
+    "10"
+   ]
+  },
+  "en": {
+   "q": "How many legs does an insect have?",
+   "c": [
+    "4",
+    "6",
+    "8",
+    "10"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد أرجل الحشرة؟",
+   "c": [
+    "4",
+    "6",
+    "8",
+    "10"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántas patas tiene un insecto?",
+   "c": [
+    "4",
+    "6",
+    "8",
+    "10"
+   ]
+  },
+  "pt": {
+   "q": "Quantas patas tem um inseto?",
+   "c": [
+    "4",
+    "6",
+    "8",
+    "10"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Quelle saison est connue pour la chute des feuilles ?",
+   "c": [
+    "Printemps",
+    "Été",
+    "Automne",
+    "Hiver"
+   ]
+  },
+  "en": {
+   "q": "Which season is known for falling leaves?",
+   "c": [
+    "Spring",
+    "Summer",
+    "Autumn",
+    "Winter"
+   ]
+  },
+  "ar": {
+   "q": "أي فصل يشتهر بتساقط أوراق الأشجار؟",
+   "c": [
+    "الربيع",
+    "الصيف",
+    "الخريف",
+    "الشتاء"
+   ]
+  },
+  "es": {
+   "q": "¿Qué estación es famosa por la caída de las hojas?",
+   "c": [
+    "Primavera",
+    "Verano",
+    "Otoño",
+    "Invierno"
+   ]
+  },
+  "pt": {
+   "q": "Que estação é conhecida pela queda das folhas?",
+   "c": [
+    "Primavera",
+    "Verão",
+    "Outono",
+    "Inverno"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on les animaux qui ne mangent que des plantes ?",
+   "c": [
+    "Carnivores",
+    "Omnivores",
+    "Prédateurs",
+    "Herbivores"
+   ]
+  },
+  "en": {
+   "q": "What do we call animals that eat only plants?",
+   "c": [
+    "Carnivores",
+    "Omnivores",
+    "Predators",
+    "Herbivores"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي الحيوانات التي تأكل النباتات فقط؟",
+   "c": [
+    "آكلة اللحوم",
+    "آكلة كل شيء",
+    "المفترسة",
+    "آكلة العشب"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llaman los animales que solo comen plantas?",
+   "c": [
+    "Carnívoros",
+    "Omnívoros",
+    "Depredadores",
+    "Herbívoros"
+   ]
+  },
+  "pt": {
+   "q": "Como se chamam os animais que comem apenas plantas?",
+   "c": [
+    "Carnívoros",
+    "Onívoros",
+    "Predadores",
+    "Herbívoros"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Quel sport se joue avec une raquette et une petite balle jaune au-dessus d'un filet ?",
+   "c": [
+    "Le golf",
+    "Le tennis",
+    "Le rugby",
+    "Le hockey"
+   ]
+  },
+  "en": {
+   "q": "Which sport is played with a racket and a small yellow ball over a net?",
+   "c": [
+    "Golf",
+    "Tennis",
+    "Rugby",
+    "Hockey"
+   ]
+  },
+  "ar": {
+   "q": "أي رياضة تُلعب بمضرب وكرة صغيرة صفراء فوق شبكة؟",
+   "c": [
+    "الغولف",
+    "التنس",
+    "الرجبي",
+    "الهوكي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué deporte se juega con raqueta y una pelota amarilla sobre una red?",
+   "c": [
+    "Golf",
+    "Tenis",
+    "Rugby",
+    "Hockey"
+   ]
+  },
+  "pt": {
+   "q": "Em que modalidade se usa raquete e uma bolinha amarela sobre uma rede?",
+   "c": [
+    "Golfe",
+    "Tênis",
+    "Rúgbi",
+    "Hóquei"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Quel oiseau est le symbole de la paix ?",
+   "c": [
+    "La colombe",
+    "L'aigle",
+    "Le corbeau",
+    "La chouette"
+   ]
+  },
+  "en": {
+   "q": "Which bird is a symbol of peace?",
+   "c": [
+    "Dove",
+    "Eagle",
+    "Crow",
+    "Owl"
+   ]
+  },
+  "ar": {
+   "q": "أي طائر هو رمز السلام؟",
+   "c": [
+    "الحمامة",
+    "النسر",
+    "الغراب",
+    "البومة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ave es símbolo de la paz?",
+   "c": [
+    "La paloma",
+    "El águila",
+    "El cuervo",
+    "El búho"
+   ]
+  },
+  "pt": {
+   "q": "Que ave é símbolo da paz?",
+   "c": [
+    "A pomba",
+    "A águia",
+    "O corvo",
+    "A coruja"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "De quel gaz de l'air avons-nous besoin pour survivre ?",
+   "c": [
+    "L'azote",
+    "L'hélium",
+    "L'hydrogène",
+    "L'oxygène"
+   ]
+  },
+  "en": {
+   "q": "Which gas in the air do we need to survive?",
+   "c": [
+    "Nitrogen",
+    "Helium",
+    "Hydrogen",
+    "Oxygen"
+   ]
+  },
+  "ar": {
+   "q": "ما الغاز الموجود في الهواء الذي نحتاجه للبقاء على قيد الحياة؟",
+   "c": [
+    "النيتروجين",
+    "الهيليوم",
+    "الهيدروجين",
+    "الأكسجين"
+   ]
+  },
+  "es": {
+   "q": "¿Qué gas del aire necesitamos para sobrevivir?",
+   "c": [
+    "Nitrógeno",
+    "Helio",
+    "Hidrógeno",
+    "Oxígeno"
+   ]
+  },
+  "pt": {
+   "q": "De que gás do ar precisamos para sobreviver?",
+   "c": [
+    "Nitrogênio",
+    "Hélio",
+    "Hidrogênio",
+    "Oxigênio"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve le Taj Mahal ?",
+   "c": [
+    "Égypte",
+    "Turquie",
+    "Inde",
+    "Thaïlande"
+   ]
+  },
+  "en": {
+   "q": "In which country is the Taj Mahal?",
+   "c": [
+    "Egypt",
+    "Turkey",
+    "India",
+    "Thailand"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد يقع تاج محل؟",
+   "c": [
+    "مصر",
+    "تركيا",
+    "الهند",
+    "تايلاند"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está el Taj Mahal?",
+   "c": [
+    "Egipto",
+    "Turquía",
+    "India",
+    "Tailandia"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica o Taj Mahal?",
+   "c": [
+    "Egito",
+    "Turquia",
+    "Índia",
+    "Tailândia"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on le petit de la grenouille ?",
+   "c": [
+    "Le têtard",
+    "Le veau",
+    "Le poussin",
+    "L'agneau"
+   ]
+  },
+  "en": {
+   "q": "What do we call a baby frog?",
+   "c": [
+    "Tadpole",
+    "Calf",
+    "Chick",
+    "Lamb"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي صغير الضفدع؟",
+   "c": [
+    "الشرغوف",
+    "العجل",
+    "الكتكوت",
+    "الحمل"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama la cría de la rana?",
+   "c": [
+    "Renacuajo",
+    "Ternero",
+    "Pollito",
+    "Cordero"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama o filhote da rã?",
+   "c": [
+    "Girino",
+    "Bezerro",
+    "Pintinho",
+    "Cordeiro"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Quel instrument utilise-t-on pour observer les étoiles et les planètes ?",
+   "c": [
+    "Le microscope",
+    "Le télescope",
+    "Le thermomètre",
+    "La boussole"
+   ]
+  },
+  "en": {
+   "q": "Which instrument do we use to observe stars and planets?",
+   "c": [
+    "Microscope",
+    "Telescope",
+    "Thermometer",
+    "Compass"
+   ]
+  },
+  "ar": {
+   "q": "ما الأداة التي نستخدمها لرصد النجوم والكواكب؟",
+   "c": [
+    "المجهر",
+    "التلسكوب",
+    "الترمومتر",
+    "البوصلة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué instrumento se usa para observar estrellas y planetas?",
+   "c": [
+    "Microscopio",
+    "Telescopio",
+    "Termómetro",
+    "Brújula"
+   ]
+  },
+  "pt": {
+   "q": "Que instrumento se usa para observar estrelas e planetas?",
+   "c": [
+    "Microscópio",
+    "Telescópio",
+    "Termômetro",
+    "Bússola"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "De quelles graines est fait le chocolat ?",
+   "c": [
+    "Café",
+    "Soja",
+    "Vanille",
+    "Cacao"
+   ]
+  },
+  "en": {
+   "q": "Which seeds is chocolate made from?",
+   "c": [
+    "Coffee",
+    "Soy",
+    "Vanilla",
+    "Cocoa"
+   ]
+  },
+  "ar": {
+   "q": "من أي بذور تُصنع الشوكولاتة؟",
+   "c": [
+    "القهوة",
+    "الصويا",
+    "الفانيليا",
+    "الكاكاو"
+   ]
+  },
+  "es": {
+   "q": "¿De qué semillas se hace el chocolate?",
+   "c": [
+    "Café",
+    "Soja",
+    "Vainilla",
+    "Cacao"
+   ]
+  },
+  "pt": {
+   "q": "De quais sementes é feito o chocolate?",
+   "c": [
+    "Café",
+    "Soja",
+    "Baunilha",
+    "Cacau"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 8
+ },
+ {
+  "fr": {
+   "q": "Combien de planètes compte notre système solaire ?",
+   "c": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "en": {
+   "q": "How many planets are there in our Solar System?",
+   "c": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد كواكب المجموعة الشمسية؟",
+   "c": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos planetas tiene el Sistema Solar?",
+   "c": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "pt": {
+   "q": "Quantos planetas tem o Sistema Solar?",
+   "c": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Quel instrument a des touches noires et blanches ?",
+   "c": [
+    "La guitare",
+    "Le violon",
+    "Le piano",
+    "Le tambour"
+   ]
+  },
+  "en": {
+   "q": "Which instrument has black and white keys?",
+   "c": [
+    "Guitar",
+    "Violin",
+    "Piano",
+    "Drum"
+   ]
+  },
+  "ar": {
+   "q": "أي آلة موسيقية لها مفاتيح سوداء وبيضاء؟",
+   "c": [
+    "الغيتار",
+    "الكمان",
+    "البيانو",
+    "الطبل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué instrumento tiene teclas blancas y negras?",
+   "c": [
+    "La guitarra",
+    "El violín",
+    "El piano",
+    "El tambor"
+   ]
+  },
+  "pt": {
+   "q": "Que instrumento tem teclas pretas e brancas?",
+   "c": [
+    "O violão",
+    "O violino",
+    "O piano",
+    "O tambor"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale du Japon ?",
+   "c": [
+    "Tokyo",
+    "Séoul",
+    "Pékin",
+    "Bangkok"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of Japan?",
+   "c": [
+    "Tokyo",
+    "Seoul",
+    "Beijing",
+    "Bangkok"
+   ]
+  },
+  "ar": {
+   "q": "ما عاصمة اليابان؟",
+   "c": [
+    "طوكيو",
+    "سيول",
+    "بكين",
+    "بانكوك"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Japón?",
+   "c": [
+    "Tokio",
+    "Seúl",
+    "Pekín",
+    "Bangkok"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital do Japão?",
+   "c": [
+    "Tóquio",
+    "Seul",
+    "Pequim",
+    "Bangcoc"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Quel animal est surnommé « le vaisseau du désert » ?",
+   "c": [
+    "Le cheval",
+    "L'éléphant",
+    "L'âne",
+    "Le chameau"
+   ]
+  },
+  "en": {
+   "q": "Which animal is nicknamed the \"ship of the desert\"?",
+   "c": [
+    "Horse",
+    "Elephant",
+    "Donkey",
+    "Camel"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يُلقَّب بـ«سفينة الصحراء»؟",
+   "c": [
+    "الحصان",
+    "الفيل",
+    "الحمار",
+    "الجمل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal es conocido como «el barco del desierto»?",
+   "c": [
+    "El caballo",
+    "El elefante",
+    "El burro",
+    "El camello"
+   ]
+  },
+  "pt": {
+   "q": "Que animal é chamado de «navio do deserto»?",
+   "c": [
+    "O cavalo",
+    "O elefante",
+    "O burro",
+    "O camelo"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Quelle est la matière naturelle la plus dure ?",
+   "c": [
+    "Le diamant",
+    "L'or",
+    "Le fer",
+    "Le verre"
+   ]
+  },
+  "en": {
+   "q": "What is the hardest natural material?",
+   "c": [
+    "Diamond",
+    "Gold",
+    "Iron",
+    "Glass"
+   ]
+  },
+  "ar": {
+   "q": "ما أصلب مادة طبيعية؟",
+   "c": [
+    "الألماس",
+    "الذهب",
+    "الحديد",
+    "الزجاج"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el material natural más duro?",
+   "c": [
+    "El diamante",
+    "El oro",
+    "El hierro",
+    "El vidrio"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o material natural mais duro?",
+   "c": [
+    "O diamante",
+    "O ouro",
+    "O ferro",
+    "O vidro"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Combien de sens principaux les humains ont-ils ?",
+   "c": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ]
+  },
+  "en": {
+   "q": "How many main senses do humans have?",
+   "c": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد الحواس الرئيسية لدى الإنسان؟",
+   "c": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos sentidos principales tiene el ser humano?",
+   "c": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ]
+  },
+  "pt": {
+   "q": "Quantos sentidos principais tem o ser humano?",
+   "c": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Quel insecte aux ailes colorées commence sa vie comme chenille ?",
+   "c": [
+    "Le moustique",
+    "Le papillon",
+    "La fourmi",
+    "L'abeille"
+   ]
+  },
+  "en": {
+   "q": "Which insect has colorful wings and starts life as a caterpillar?",
+   "c": [
+    "Mosquito",
+    "Butterfly",
+    "Ant",
+    "Bee"
+   ]
+  },
+  "ar": {
+   "q": "أي حشرة ذات أجنحة ملوّنة تبدأ حياتها على شكل يرقة تُسمّى اليسروع؟",
+   "c": [
+    "البعوضة",
+    "الفراشة",
+    "النملة",
+    "النحلة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué insecto de alas coloridas empieza su vida como oruga?",
+   "c": [
+    "Mosquito",
+    "Mariposa",
+    "Hormiga",
+    "Abeja"
+   ]
+  },
+  "pt": {
+   "q": "Que inseto de asas coloridas começa a vida como lagarta?",
+   "c": [
+    "Mosquito",
+    "Borboleta",
+    "Formiga",
+    "Abelha"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Quel gaz notre corps produit-il comme déchet et rejette-t-il en expirant ?",
+   "c": [
+    "L'oxygène",
+    "L'azote",
+    "L'hydrogène",
+    "Le dioxyde de carbone"
+   ]
+  },
+  "en": {
+   "q": "Which waste gas does our body produce and breathe out?",
+   "c": [
+    "Oxygen",
+    "Nitrogen",
+    "Hydrogen",
+    "Carbon dioxide"
+   ]
+  },
+  "ar": {
+   "q": "ما الغاز الذي ينتجه جسمنا كفضلات ونطرده عند الزفير؟",
+   "c": [
+    "الأكسجين",
+    "النيتروجين",
+    "الهيدروجين",
+    "ثاني أكسيد الكربون"
+   ]
+  },
+  "es": {
+   "q": "¿Qué gas de desecho produce nuestro cuerpo y expulsa al exhalar?",
+   "c": [
+    "Oxígeno",
+    "Nitrógeno",
+    "Hidrógeno",
+    "Dióxido de carbono"
+   ]
+  },
+  "pt": {
+   "q": "Que gás de descarte nosso corpo produz e expele ao expirar?",
+   "c": [
+    "Oxigênio",
+    "Nitrogênio",
+    "Hidrogênio",
+    "Dióxido de carbono"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Pour quelle invention les frères Wright sont-ils célèbres ?",
+   "c": [
+    "L'avion",
+    "L'automobile",
+    "La bicyclette",
+    "Le téléphone"
+   ]
+  },
+  "en": {
+   "q": "Which invention are the Wright brothers famous for?",
+   "c": [
+    "The airplane",
+    "The car",
+    "The bicycle",
+    "The telephone"
+   ]
+  },
+  "ar": {
+   "q": "ما الاختراع الذي اشتهر به الأخوان رايت؟",
+   "c": [
+    "الطائرة",
+    "السيارة",
+    "الدراجة",
+    "الهاتف"
+   ]
+  },
+  "es": {
+   "q": "¿Por qué invento son famosos los hermanos Wright?",
+   "c": [
+    "El avión",
+    "El automóvil",
+    "La bicicleta",
+    "El teléfono"
+   ]
+  },
+  "pt": {
+   "q": "Por qual invenção os irmãos Wright são famosos?",
+   "c": [
+    "O avião",
+    "O automóvel",
+    "A bicicleta",
+    "O telefone"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "À quelle température l'eau gèle-t-elle, en °C ?",
+   "c": [
+    "10 °C",
+    "-10 °C",
+    "0 °C",
+    "32 °C"
+   ]
+  },
+  "en": {
+   "q": "At what temperature does water freeze, in °C?",
+   "c": [
+    "10 °C",
+    "-10 °C",
+    "0 °C",
+    "32 °C"
+   ]
+  },
+  "ar": {
+   "q": "عند أي درجة حرارة بالسيلسيوس يتجمد الماء؟",
+   "c": [
+    "10 °م",
+    "-10 °م",
+    "0 °م",
+    "32 °م"
+   ]
+  },
+  "es": {
+   "q": "¿A qué temperatura se congela el agua, en °C?",
+   "c": [
+    "10 °C",
+    "-10 °C",
+    "0 °C",
+    "32 °C"
+   ]
+  },
+  "pt": {
+   "q": "A que temperatura a água congela, em °C?",
+   "c": [
+    "10 °C",
+    "-10 °C",
+    "0 °C",
+    "32 °C"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Quelle est la base d'un sushi ?",
+   "c": [
+    "Des nouilles",
+    "Des pommes de terre",
+    "Du pain",
+    "Du riz"
+   ]
+  },
+  "en": {
+   "q": "What is the main base of sushi?",
+   "c": [
+    "Noodles",
+    "Potato",
+    "Bread",
+    "Rice"
+   ]
+  },
+  "ar": {
+   "q": "ما أساس السوشي؟",
+   "c": [
+    "النودلز",
+    "البطاطا",
+    "الخبز",
+    "الأرز"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la base del sushi?",
+   "c": [
+    "Fideos",
+    "Papa",
+    "Pan",
+    "Arroz"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a base do sushi?",
+   "c": [
+    "Macarrão",
+    "Batata",
+    "Pão",
+    "Arroz"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Sur quel continent se trouve le Kenya ?",
+   "c": [
+    "Asie",
+    "Afrique",
+    "Europe",
+    "Amérique du Sud"
+   ]
+  },
+  "en": {
+   "q": "Which continent is Kenya in?",
+   "c": [
+    "Asia",
+    "Africa",
+    "Europe",
+    "South America"
+   ]
+  },
+  "ar": {
+   "q": "في أي قارة تقع كينيا؟",
+   "c": [
+    "آسيا",
+    "أفريقيا",
+    "أوروبا",
+    "أمريكا الجنوبية"
+   ]
+  },
+  "es": {
+   "q": "¿En qué continente está Kenia?",
+   "c": [
+    "Asia",
+    "África",
+    "Europa",
+    "América del Sur"
+   ]
+  },
+  "pt": {
+   "q": "Em que continente fica o Quênia?",
+   "c": [
+    "Ásia",
+    "África",
+    "Europa",
+    "América do Sul"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 9
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale de l'Égypte ?",
+   "c": [
+    "Le Caire",
+    "Alexandrie",
+    "Khartoum",
+    "Tripoli"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of Egypt?",
+   "c": [
+    "Cairo",
+    "Alexandria",
+    "Khartoum",
+    "Tripoli"
+   ]
+  },
+  "ar": {
+   "q": "ما عاصمة مصر؟",
+   "c": [
+    "القاهرة",
+    "الإسكندرية",
+    "الخرطوم",
+    "طرابلس"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Egipto?",
+   "c": [
+    "El Cairo",
+    "Alejandría",
+    "Jartum",
+    "Trípoli"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital do Egito?",
+   "c": [
+    "Cairo",
+    "Alexandria",
+    "Cartum",
+    "Trípoli"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 10
+ },
+ {
+  "fr": {
+   "q": "Quelle planète est surtout connue pour ses anneaux brillants ?",
+   "c": [
+    "Mars",
+    "Vénus",
+    "Saturne",
+    "Mercure"
+   ]
+  },
+  "en": {
+   "q": "Which planet is best known for its bright rings?",
+   "c": [
+    "Mars",
+    "Venus",
+    "Saturn",
+    "Mercury"
+   ]
+  },
+  "ar": {
+   "q": "أي كوكب اشتهر بحلقاته اللامعة؟",
+   "c": [
+    "المريخ",
+    "الزهرة",
+    "زحل",
+    "عطارد"
+   ]
+  },
+  "es": {
+   "q": "¿Qué planeta es más famoso por sus anillos brillantes?",
+   "c": [
+    "Marte",
+    "Venus",
+    "Saturno",
+    "Mercurio"
+   ]
+  },
+  "pt": {
+   "q": "Que planeta é mais famoso pelos seus anéis brilhantes?",
+   "c": [
+    "Marte",
+    "Vênus",
+    "Saturno",
+    "Mercúrio"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 10
+ },
+ {
+  "fr": {
+   "q": "Pour quelle vitamine les oranges sont-elles réputées ?",
+   "c": [
+    "Vitamine A",
+    "Vitamine K",
+    "Vitamine D",
+    "Vitamine C"
+   ]
+  },
+  "en": {
+   "q": "Which vitamin are oranges famous for?",
+   "c": [
+    "Vitamin A",
+    "Vitamin K",
+    "Vitamin D",
+    "Vitamin C"
+   ]
+  },
+  "ar": {
+   "q": "بأي فيتامين تشتهر البرتقالات؟",
+   "c": [
+    "فيتامين أ",
+    "فيتامين ك",
+    "فيتامين د",
+    "فيتامين سي"
+   ]
+  },
+  "es": {
+   "q": "¿Por qué vitamina son famosas las naranjas?",
+   "c": [
+    "Vitamina A",
+    "Vitamina K",
+    "Vitamina D",
+    "Vitamina C"
+   ]
+  },
+  "pt": {
+   "q": "Por qual vitamina as laranjas são famosas?",
+   "c": [
+    "Vitamina A",
+    "Vitamina K",
+    "Vitamina D",
+    "Vitamina C"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 10
+ },
+ {
+  "fr": {
+   "q": "Combien de cordes a une guitare classique ?",
+   "c": [
+    "4",
+    "6",
+    "8",
+    "12"
+   ]
+  },
+  "en": {
+   "q": "How many strings does a classical guitar have?",
+   "c": [
+    "4",
+    "6",
+    "8",
+    "12"
+   ]
+  },
+  "ar": {
+   "q": "كم وتراً في الغيتار الكلاسيكي؟",
+   "c": [
+    "4",
+    "6",
+    "8",
+    "12"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántas cuerdas tiene una guitarra clásica?",
+   "c": [
+    "4",
+    "6",
+    "8",
+    "12"
+   ]
+  },
+  "pt": {
+   "q": "Quantas cordas tem uma guitarra clássica?",
+   "c": [
+    "4",
+    "6",
+    "8",
+    "12"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 10
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand des félins ?",
+   "c": [
+    "Le tigre",
+    "Le lion",
+    "Le léopard",
+    "Le jaguar"
+   ]
+  },
+  "en": {
+   "q": "Which is the largest cat species?",
+   "c": [
+    "Tiger",
+    "Lion",
+    "Leopard",
+    "Jaguar"
+   ]
+  },
+  "ar": {
+   "q": "ما أكبر أنواع القطط حجماً؟",
+   "c": [
+    "النمر",
+    "الأسد",
+    "الفهد",
+    "اليغوار"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el felino más grande?",
+   "c": [
+    "El tigre",
+    "El león",
+    "El leopardo",
+    "El jaguar"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior felino?",
+   "c": [
+    "O tigre",
+    "O leão",
+    "O leopardo",
+    "A onça-pintada"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 10
+ },
+ {
+  "fr": {
+   "q": "Quelles cellules du sang transportent l'oxygène ?",
+   "c": [
+    "Les globules blancs",
+    "Les plaquettes",
+    "Les cellules de la peau",
+    "Les globules rouges"
+   ]
+  },
+  "en": {
+   "q": "Which blood cells carry oxygen around the body?",
+   "c": [
+    "White blood cells",
+    "Platelets",
+    "Skin cells",
+    "Red blood cells"
+   ]
+  },
+  "ar": {
+   "q": "أي خلايا الدم تنقل الأكسجين في الجسم؟",
+   "c": [
+    "خلايا الدم البيضاء",
+    "الصفائح الدموية",
+    "خلايا الجلد",
+    "خلايا الدم الحمراء"
+   ]
+  },
+  "es": {
+   "q": "¿Qué células de la sangre transportan el oxígeno por el cuerpo?",
+   "c": [
+    "Glóbulos blancos",
+    "Plaquetas",
+    "Células de la piel",
+    "Glóbulos rojos"
+   ]
+  },
+  "pt": {
+   "q": "Que células do sangue transportam o oxigênio pelo corpo?",
+   "c": [
+    "Glóbulos brancos",
+    "Plaquetas",
+    "Células da pele",
+    "Glóbulos vermelhos"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 10
+ },
+ {
+  "fr": {
+   "q": "Quel océan se trouve entre l'Afrique et l'Australie ?",
+   "c": [
+    "Atlantique",
+    "Indien",
+    "Arctique",
+    "Pacifique"
+   ]
+  },
+  "en": {
+   "q": "Which ocean lies between Africa and Australia?",
+   "c": [
+    "Atlantic",
+    "Indian",
+    "Arctic",
+    "Pacific"
+   ]
+  },
+  "ar": {
+   "q": "أي محيط يقع بين أفريقيا وأستراليا؟",
+   "c": [
+    "الأطلسي",
+    "الهندي",
+    "المتجمد الشمالي",
+    "الهادئ"
+   ]
+  },
+  "es": {
+   "q": "¿Qué océano está entre África y Australia?",
+   "c": [
+    "Atlántico",
+    "Índico",
+    "Ártico",
+    "Pacífico"
+   ]
+  },
+  "pt": {
+   "q": "Que oceano fica entre a África e a Austrália?",
+   "c": [
+    "Atlântico",
+    "Índico",
+    "Ártico",
+    "Pacífico"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 10
+ },
+ {
+  "fr": {
+   "q": "Qui a inventé l'imprimerie en Europe vers 1450 ?",
+   "c": [
+    "Newton",
+    "Galilée",
+    "Gutenberg",
+    "Edison"
+   ]
+  },
+  "en": {
+   "q": "Who invented the printing press in Europe around 1450?",
+   "c": [
+    "Newton",
+    "Galileo",
+    "Gutenberg",
+    "Edison"
+   ]
+  },
+  "ar": {
+   "q": "من اخترع المطبعة في أوروبا حوالي عام 1450؟",
+   "c": [
+    "نيوتن",
+    "غاليليو",
+    "غوتنبرغ",
+    "إديسون"
+   ]
+  },
+  "es": {
+   "q": "¿Quién inventó la imprenta en Europa hacia 1450?",
+   "c": [
+    "Newton",
+    "Galileo",
+    "Gutenberg",
+    "Edison"
+   ]
+  },
+  "pt": {
+   "q": "Quem inventou a imprensa na Europa por volta de 1450?",
+   "c": [
+    "Newton",
+    "Galileu",
+    "Gutenberg",
+    "Edison"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 10
+ },
+ {
+  "fr": {
+   "q": "Quel pays a offert la statue de la Liberté aux États-Unis ?",
+   "c": [
+    "La France",
+    "L'Espagne",
+    "L'Italie",
+    "L'Allemagne"
+   ]
+  },
+  "en": {
+   "q": "Which country gave the Statue of Liberty to the United States?",
+   "c": [
+    "France",
+    "Spain",
+    "Italy",
+    "Germany"
+   ]
+  },
+  "ar": {
+   "q": "أي دولة أهدت تمثال الحرية إلى الولايات المتحدة؟",
+   "c": [
+    "فرنسا",
+    "إسبانيا",
+    "إيطاليا",
+    "ألمانيا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país regaló la Estatua de la Libertad a Estados Unidos?",
+   "c": [
+    "Francia",
+    "España",
+    "Italia",
+    "Alemania"
+   ]
+  },
+  "pt": {
+   "q": "Que país deu a Estátua da Liberdade aos Estados Unidos?",
+   "c": [
+    "França",
+    "Espanha",
+    "Itália",
+    "Alemanha"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 10
+ },
+ {
+  "fr": {
+   "q": "Quelle force attire les objets vers la Terre ?",
+   "c": [
+    "Le magnétisme",
+    "Le frottement",
+    "Le vent",
+    "La gravité"
+   ]
+  },
+  "en": {
+   "q": "What force pulls objects toward the Earth?",
+   "c": [
+    "Magnetism",
+    "Friction",
+    "Wind",
+    "Gravity"
+   ]
+  },
+  "ar": {
+   "q": "ما القوة التي تجذب الأجسام نحو الأرض؟",
+   "c": [
+    "المغناطيسية",
+    "الاحتكاك",
+    "الرياح",
+    "الجاذبية"
+   ]
+  },
+  "es": {
+   "q": "¿Qué fuerza atrae los objetos hacia la Tierra?",
+   "c": [
+    "El magnetismo",
+    "La fricción",
+    "El viento",
+    "La gravedad"
+   ]
+  },
+  "pt": {
+   "q": "Que força atrai os objetos em direção à Terra?",
+   "c": [
+    "O magnetismo",
+    "O atrito",
+    "O vento",
+    "A gravidade"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 10
+ },
+ {
+  "fr": {
+   "q": "Combien de zéros compte le nombre un million ?",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ]
+  },
+  "en": {
+   "q": "How many zeros are in the number one million?",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ]
+  },
+  "ar": {
+   "q": "كم صفراً في العدد مليون؟",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos ceros tiene el número un millón?",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ]
+  },
+  "pt": {
+   "q": "Quantos zeros tem o número um milhão?",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 10
+ },
+ {
+  "fr": {
+   "q": "Quelle est la plus grande île du monde ?",
+   "c": [
+    "Madagascar",
+    "Groenland",
+    "Islande",
+    "Bornéo"
+   ]
+  },
+  "en": {
+   "q": "Which is the largest island in the world?",
+   "c": [
+    "Madagascar",
+    "Greenland",
+    "Iceland",
+    "Borneo"
+   ]
+  },
+  "ar": {
+   "q": "ما أكبر جزيرة في العالم؟",
+   "c": [
+    "مدغشقر",
+    "غرينلاند",
+    "آيسلندا",
+    "بورنيو"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la isla más grande del mundo?",
+   "c": [
+    "Madagascar",
+    "Groenlandia",
+    "Islandia",
+    "Borneo"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a maior ilha do mundo?",
+   "c": [
+    "Madagascar",
+    "Gronelândia",
+    "Islândia",
+    "Bornéu"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 10
+ },
+ {
+  "fr": {
    "q": "Combien y a-t-il de continents ?",
    "c": [
     "5",
@@ -1447,7 +4447,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -1497,7 +4497,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -1547,7 +4547,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -1597,7 +4597,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -1647,7 +4647,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -1697,7 +4697,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -1747,7 +4747,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -1797,7 +4797,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -1847,7 +4847,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -1897,7 +4897,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -1947,7 +4947,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -1997,7 +4997,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -2047,7 +5047,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -2097,7 +5097,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -2147,7 +5147,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "en": {
@@ -2187,2617 +5187,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 6
- },
- {
-  "fr": {
-   "q": "Quel est le plus long fleuve d'Afrique ?",
-   "c": [
-    "Le Nil",
-    "Le Congo",
-    "Le Niger",
-    "Le Zambèze"
-   ]
-  },
-  "en": {
-   "q": "What is the longest river in Africa?",
-   "c": [
-    "The Nile",
-    "The Congo",
-    "The Niger",
-    "The Zambezi"
-   ]
-  },
-  "ar": {
-   "q": "ما هو أطول نهر في أفريقيا؟",
-   "c": [
-    "نهر النيل",
-    "نهر الكونغو",
-    "نهر النيجر",
-    "نهر زامبيزي"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el río más largo de África?",
-   "c": [
-    "El Nilo",
-    "El Congo",
-    "El Níger",
-    "El Zambeze"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o rio mais longo da África?",
-   "c": [
-    "O Nilo",
-    "O Congo",
-    "O Níger",
-    "O Zambeze"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 7
- },
- {
-  "fr": {
-   "q": "Quel est le plus petit pays du monde ?",
-   "c": [
-    "Malte",
-    "Saint-Marin",
-    "Monaco",
-    "Le Vatican"
-   ]
-  },
-  "en": {
-   "q": "What is the smallest country in the world?",
-   "c": [
-    "Malta",
-    "San Marino",
-    "Monaco",
-    "Vatican City"
-   ]
-  },
-  "ar": {
-   "q": "ما هي أصغر دولة في العالم؟",
-   "c": [
-    "مالطا",
-    "سان مارينو",
-    "موناكو",
-    "الفاتيكان"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el país más pequeño del mundo?",
-   "c": [
-    "Malta",
-    "San Marino",
-    "Mónaco",
-    "Ciudad del Vaticano"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o menor país do mundo?",
-   "c": [
-    "Malta",
-    "San Marino",
-    "Mônaco",
-    "Cidade do Vaticano"
-   ]
-  },
-  "a": 3,
-  "image": null,
-  "level": 7
- },
- {
-  "fr": {
-   "q": "Quel est le plus grand désert chaud du monde ?",
-   "c": [
-    "Le Kalahari",
-    "Le Gobi",
-    "Le désert d'Arabie",
-    "Le Sahara"
-   ]
-  },
-  "en": {
-   "q": "What is the largest hot desert in the world?",
-   "c": [
-    "Kalahari",
-    "Gobi",
-    "Arabian Desert",
-    "Sahara"
-   ]
-  },
-  "ar": {
-   "q": "ما هي أكبر صحراء حارة في العالم؟",
-   "c": [
-    "صحراء كالاهاري",
-    "صحراء غوبي",
-    "الصحراء العربية",
-    "الصحراء الكبرى"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el desierto cálido más grande del mundo?",
-   "c": [
-    "El Kalahari",
-    "El Gobi",
-    "El desierto de Arabia",
-    "El Sahara"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o maior deserto quente do mundo?",
-   "c": [
-    "O Kalahari",
-    "O Gobi",
-    "O deserto da Arábia",
-    "O Saara"
-   ]
-  },
-  "a": 3,
-  "image": null,
-  "level": 7
- },
- {
-  "fr": {
-   "q": "Quelle est la monnaie du Japon ?",
-   "c": [
-    "Le dollar",
-    "Le yen",
-    "Le won",
-    "Le yuan"
-   ]
-  },
-  "en": {
-   "q": "What is the currency of Japan?",
-   "c": [
-    "Dollar",
-    "Yen",
-    "Won",
-    "Yuan"
-   ]
-  },
-  "ar": {
-   "q": "ما هي عملة اليابان؟",
-   "c": [
-    "الدولار",
-    "الين",
-    "الوون",
-    "اليوان"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es la moneda de Japón?",
-   "c": [
-    "El dólar",
-    "El yen",
-    "El won",
-    "El yuan"
-   ]
-  },
-  "pt": {
-   "q": "Qual é a moeda do Japão?",
-   "c": [
-    "O dólar",
-    "O iene",
-    "O won",
-    "O yuan"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 7
- },
- {
-  "fr": {
-   "q": "Quel est le plus grand mammifère ?",
-   "c": [
-    "Le requin-baleine",
-    "La girafe",
-    "L'éléphant",
-    "La baleine bleue"
-   ]
-  },
-  "en": {
-   "q": "What is the largest mammal?",
-   "c": [
-    "Whale shark",
-    "Giraffe",
-    "Elephant",
-    "Blue whale"
-   ]
-  },
-  "ar": {
-   "q": "ما هو أكبر حيوان ثديي؟",
-   "c": [
-    "القرش الحوتي",
-    "الزرافة",
-    "الفيل",
-    "الحوت الأزرق"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el mamífero más grande?",
-   "c": [
-    "El tiburón ballena",
-    "La jirafa",
-    "El elefante",
-    "La ballena azul"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o maior mamífero?",
-   "c": [
-    "O tubarão-baleia",
-    "A girafa",
-    "O elefante",
-    "A baleia-azul"
-   ]
-  },
-  "a": 3,
-  "image": null,
-  "level": 7
- },
- {
-  "fr": {
-   "q": "Quelle est la langue officielle du Brésil ?",
-   "c": [
-    "Le français",
-    "L'anglais",
-    "Le portugais",
-    "L'espagnol"
-   ]
-  },
-  "en": {
-   "q": "What is the official language of Brazil?",
-   "c": [
-    "French",
-    "English",
-    "Portuguese",
-    "Spanish"
-   ]
-  },
-  "ar": {
-   "q": "ما هي اللغة الرسمية في البرازيل؟",
-   "c": [
-    "الفرنسية",
-    "الإنجليزية",
-    "البرتغالية",
-    "الإسبانية"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el idioma oficial de Brasil?",
-   "c": [
-    "Francés",
-    "Inglés",
-    "Portugués",
-    "Español"
-   ]
-  },
-  "pt": {
-   "q": "Qual é a língua oficial do Brasil?",
-   "c": [
-    "Francês",
-    "Inglês",
-    "Português",
-    "Espanhol"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "level": 7
- },
- {
-  "fr": {
-   "q": "Combien de jours y a-t-il dans une année non bissextile ?",
-   "c": [
-    "366",
-    "365",
-    "370",
-    "360"
-   ]
-  },
-  "en": {
-   "q": "How many days are there in a standard (non-leap) year?",
-   "c": [
-    "366",
-    "365",
-    "370",
-    "360"
-   ]
-  },
-  "ar": {
-   "q": "كم عدد الأيام في السنة البسيطة (غير الكبيسة)؟",
-   "c": [
-    "366",
-    "365",
-    "370",
-    "360"
-   ]
-  },
-  "es": {
-   "q": "¿Cuántos días hay en un año no bisiesto?",
-   "c": [
-    "366",
-    "365",
-    "370",
-    "360"
-   ]
-  },
-  "pt": {
-   "q": "Quantos dias há em um ano comum (não bissexto)?",
-   "c": [
-    "366",
-    "365",
-    "370",
-    "360"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 7
- },
- {
-  "fr": {
-   "q": "Quel est l'état de l'eau lorsqu'elle est sous forme de glace ?",
-   "c": [
-    "Liquide",
-    "Gazeux",
-    "Plasma",
-    "Solide"
-   ]
-  },
-  "en": {
-   "q": "What is the state of water when it is in the form of ice?",
-   "c": [
-    "Liquid",
-    "Gas",
-    "Plasma",
-    "Solid"
-   ]
-  },
-  "ar": {
-   "q": "ما هي حالة الماء عندما يكون على شكل ثلج؟",
-   "c": [
-    "سائلة",
-    "غازية",
-    "بلازما",
-    "صلبة"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el estado del agua cuando está en forma de hielo?",
-   "c": [
-    "Líquido",
-    "Gaseoso",
-    "Plasma",
-    "Sólido"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o estado da água quando está na forma de gelo?",
-   "c": [
-    "Líquido",
-    "Gasoso",
-    "Plasma",
-    "Sólido"
-   ]
-  },
-  "a": 3,
-  "image": null,
-  "level": 7
- },
- {
-  "fr": {
-   "q": "Quelle planète est surnommée la 'planète rouge' ?",
-   "c": [
-    "Jupiter",
-    "Vénus",
-    "Mars",
-    "Saturne"
-   ]
-  },
-  "en": {
-   "q": "Which planet is nicknamed the 'red planet'?",
-   "c": [
-    "Jupiter",
-    "Venus",
-    "Mars",
-    "Saturn"
-   ]
-  },
-  "ar": {
-   "q": "ما هو الكوكب الملقب بـ 'الكوكب الأحمر'؟",
-   "c": [
-    "المشتري",
-    "الزهرة",
-    "المريخ",
-    "زحل"
-   ]
-  },
-  "es": {
-   "q": "¿Qué planeta es conocido como el 'planeta rojo'?",
-   "c": [
-    "Júpiter",
-    "Venus",
-    "Marte",
-    "Saturno"
-   ]
-  },
-  "pt": {
-   "q": "Qual planeta é apelidado de 'planeta vermelho'?",
-   "c": [
-    "Júpiter",
-    "Vênus",
-    "Marte",
-    "Saturno"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "level": 7
- },
- {
-  "en": {
-   "q": "True or false: Spiders are insects.",
-   "c": [
-    "True",
-    "False"
-   ]
-  },
-  "fr": {
-   "q": "Vrai ou faux : Les araignées sont des insectes.",
-   "c": [
-    "Vrai",
-    "Faux"
-   ]
-  },
-  "es": {
-   "q": "Verdadero o falso: Las arañas son insectos.",
-   "c": [
-    "Verdadero",
-    "Falso"
-   ]
-  },
-  "pt": {
-   "q": "Verdadeiro ou falso: As aranhas são insetos.",
-   "c": [
-    "Verdadeiro",
-    "Falso"
-   ]
-  },
-  "ar": {
-   "q": "صحيح أم خطأ؟ العناكب حشرات.",
-   "c": [
-    "صحيح",
-    "خطأ"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 7
- },
- {
-  "en": {
-   "q": "True or false: At sea level, water boils at 100 °C.",
-   "c": [
-    "True",
-    "False"
-   ]
-  },
-  "fr": {
-   "q": "Vrai ou faux : Au niveau de la mer, l'eau bout à 100 °C.",
-   "c": [
-    "Vrai",
-    "Faux"
-   ]
-  },
-  "es": {
-   "q": "Verdadero o falso: A nivel del mar, el agua hierve a 100 °C.",
-   "c": [
-    "Verdadero",
-    "Falso"
-   ]
-  },
-  "pt": {
-   "q": "Verdadeiro ou falso: Ao nível do mar, a água ferve a 100 °C.",
-   "c": [
-    "Verdadeiro",
-    "Falso"
-   ]
-  },
-  "ar": {
-   "q": "صحيح أم خطأ؟ عند مستوى سطح البحر يغلي الماء عند 100 درجة مئوية.",
-   "c": [
-    "صحيح",
-    "خطأ"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 7
- },
- {
-  "fr": {
-   "q": "Quel est le plus grand continent par sa superficie ?",
-   "c": [
-    "L'Afrique",
-    "L'Amérique du Sud",
-    "L'Asie",
-    "L'Europe"
-   ]
-  },
-  "en": {
-   "q": "Which is the largest continent by area?",
-   "c": [
-    "Africa",
-    "South America",
-    "Asia",
-    "Europe"
-   ]
-  },
-  "ar": {
-   "q": "ما أكبر قارة من حيث المساحة؟",
-   "c": [
-    "أفريقيا",
-    "أمريكا الجنوبية",
-    "آسيا",
-    "أوروبا"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el continente más grande por superficie?",
-   "c": [
-    "África",
-    "América del Sur",
-    "Asia",
-    "Europa"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o maior continente em área?",
-   "c": [
-    "África",
-    "América do Sul",
-    "Ásia",
-    "Europa"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "level": 7
- },
- {
-  "fr": {
-   "q": "Quelle est la capitale de l'Espagne ?",
-   "c": [
-    "Valence",
-    "Séville",
-    "Madrid",
-    "Barcelone"
-   ]
-  },
-  "en": {
-   "q": "What is the capital of Spain?",
-   "c": [
-    "Valencia",
-    "Seville",
-    "Madrid",
-    "Barcelona"
-   ]
-  },
-  "ar": {
-   "q": "ما عاصمة إسبانيا؟",
-   "c": [
-    "فالنسيا",
-    "إشبيلية",
-    "مدريد",
-    "برشلونة"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es la capital de España?",
-   "c": [
-    "Valencia",
-    "Sevilla",
-    "Madrid",
-    "Barcelona"
-   ]
-  },
-  "pt": {
-   "q": "Qual é a capital da Espanha?",
-   "c": [
-    "Valência",
-    "Sevilha",
-    "Madri",
-    "Barcelona"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "level": 7
- },
- {
-  "fr": {
-   "q": "Quel gaz est le plus présent dans l'air ?",
-   "c": [
-    "L'oxygène",
-    "L'azote",
-    "L'hydrogène",
-    "Le CO2"
-   ]
-  },
-  "en": {
-   "q": "Which gas is most abundant in the air?",
-   "c": [
-    "Oxygen",
-    "Nitrogen",
-    "Hydrogen",
-    "CO2"
-   ]
-  },
-  "ar": {
-   "q": "ما هو الغاز الأكثر وفرة في الهواء؟",
-   "c": [
-    "الأكسجين",
-    "النيتروجين",
-    "الهيدروجين",
-    "ثاني أكسيد الكربون"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el gas más abundante del aire?",
-   "c": [
-    "Oxígeno",
-    "Nitrógeno",
-    "Hidrógeno",
-    "CO2"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o gás mais abundante no ar?",
-   "c": [
-    "Oxigênio",
-    "Nitrogênio",
-    "Hidrogênio",
-    "CO2"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 8
- },
- {
-  "fr": {
-   "q": "Combien d'os a un adulte (environ) ?",
-   "c": [
-    "106",
-    "206",
-    "306",
-    "406"
-   ]
-  },
-  "en": {
-   "q": "About how many bones does an adult have?",
-   "c": [
-    "106",
-    "206",
-    "306",
-    "406"
-   ]
-  },
-  "ar": {
-   "q": "كم عدد عظام الإنسان البالغ تقريبًا؟",
-   "c": [
-    "106",
-    "206",
-    "306",
-    "406"
-   ]
-  },
-  "es": {
-   "q": "¿Cuántos huesos tiene un adulto, aproximadamente?",
-   "c": [
-    "106",
-    "206",
-    "306",
-    "406"
-   ]
-  },
-  "pt": {
-   "q": "Quantos ossos tem um adulto, aproximadamente?",
-   "c": [
-    "106",
-    "206",
-    "306",
-    "406"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 8
- },
- {
-  "fr": {
-   "q": "Quel métal est liquide à température ambiante ?",
-   "c": [
-    "Le mercure",
-    "L'aluminium",
-    "L'or",
-    "Le fer"
-   ]
-  },
-  "en": {
-   "q": "Which metal is liquid at room temperature?",
-   "c": [
-    "Mercury",
-    "Aluminium",
-    "Gold",
-    "Iron"
-   ]
-  },
-  "ar": {
-   "q": "أي فلز يكون سائلًا في درجة حرارة الغرفة؟",
-   "c": [
-    "الزئبق",
-    "الألمنيوم",
-    "الذهب",
-    "الحديد"
-   ]
-  },
-  "es": {
-   "q": "¿Qué metal es líquido a temperatura ambiente?",
-   "c": [
-    "Mercurio",
-    "Aluminio",
-    "Oro",
-    "Hierro"
-   ]
-  },
-  "pt": {
-   "q": "Qual metal é líquido à temperatura ambiente?",
-   "c": [
-    "Mercúrio",
-    "Alumínio",
-    "Ouro",
-    "Ferro"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 8
- },
- {
-  "fr": {
-   "q": "Combien font 7 multiplié par 8 ?",
-   "c": [
-    "56",
-    "49",
-    "54",
-    "64"
-   ]
-  },
-  "en": {
-   "q": "What is 7 multiplied by 8?",
-   "c": [
-    "56",
-    "49",
-    "54",
-    "64"
-   ]
-  },
-  "ar": {
-   "q": "كم ناتج ضرب 7 في 8؟",
-   "c": [
-    "56",
-    "49",
-    "54",
-    "64"
-   ]
-  },
-  "es": {
-   "q": "¿Cuánto es 7 multiplicado por 8?",
-   "c": [
-    "56",
-    "49",
-    "54",
-    "64"
-   ]
-  },
-  "pt": {
-   "q": "Quanto é 7 multiplicado por 8?",
-   "c": [
-    "56",
-    "49",
-    "54",
-    "64"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 8
- },
- {
-  "fr": {
-   "q": "Quel est l'élément chimique dont le symbole est 'O' ?",
-   "c": [
-    "L'oxygène",
-    "L'osmium",
-    "L'or",
-    "L'oganesson"
-   ]
-  },
-  "en": {
-   "q": "What is the chemical element whose symbol is 'O'?",
-   "c": [
-    "Oxygen",
-    "Osmium",
-    "Gold",
-    "Oganesson"
-   ]
-  },
-  "ar": {
-   "q": "ما هو العنصر الكيميائي الذي رمزه 'O'؟",
-   "c": [
-    "الأكسجين",
-    "الأوسميوم",
-    "الذهب",
-    "الأوغانيسون"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el elemento químico cuyo símbolo es 'O'?",
-   "c": [
-    "Oxígeno",
-    "Osmio",
-    "Oro",
-    "Oganesón"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o elemento químico cujo símbolo é 'O'?",
-   "c": [
-    "Oxigênio",
-    "Ósmio",
-    "Ouro",
-    "Oganessônio"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 8
- },
- {
-  "fr": {
-   "q": "Quel est le plus grand mammifère terrestre ?",
-   "c": [
-    "L'hippopotame",
-    "L'éléphant d'Afrique",
-    "La girafe",
-    "La baleine bleue"
-   ]
-  },
-  "en": {
-   "q": "What is the largest land mammal?",
-   "c": [
-    "Hippopotamus",
-    "African bush elephant",
-    "Giraffe",
-    "Blue whale"
-   ]
-  },
-  "ar": {
-   "q": "ما هو أكبر حيوان ثديي بري؟",
-   "c": [
-    "فرس النهر",
-    "الفيل الأفريقي",
-    "الزرافة",
-    "الحوت الأزرق"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el mamífero terrestre más grande?",
-   "c": [
-    "Hipopótamo",
-    "Elefante africano",
-    "Jirafa",
-    "Ballena azul"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o maior mamífero terrestre?",
-   "c": [
-    "Hipopótamo",
-    "Elefante africano",
-    "Girafa",
-    "Baleia azul"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 8
- },
- {
-  "fr": {
-   "q": "Quel auteur a écrit 'Les Misérables' ?",
-   "c": [
-    "Victor Hugo",
-    "Molière",
-    "Émile Zola",
-    "Albert Camus"
-   ]
-  },
-  "en": {
-   "q": "Which author wrote 'Les Misérables'?",
-   "c": [
-    "Victor Hugo",
-    "Molière",
-    "Émile Zola",
-    "Albert Camus"
-   ]
-  },
-  "ar": {
-   "q": "من هو المؤلف الذي كتب رواية 'البؤساء'؟",
-   "c": [
-    "فيكتور هوغو",
-    "مولير",
-    "إميل زولا",
-    "ألبير كامو"
-   ]
-  },
-  "es": {
-   "q": "¿Qué autor escribió 'Los Miserables'?",
-   "c": [
-    "Victor Hugo",
-    "Molière",
-    "Émile Zola",
-    "Albert Camus"
-   ]
-  },
-  "pt": {
-   "q": "Qual autor escreveu 'Os Miseráveis'?",
-   "c": [
-    "Victor Hugo",
-    "Molière",
-    "Émile Zola",
-    "Albert Camus"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 8
- },
- {
-  "en": {
-   "q": "True or false: Lightning never strikes the same place twice.",
-   "c": [
-    "True",
-    "False"
-   ]
-  },
-  "fr": {
-   "q": "Vrai ou faux : La foudre ne tombe jamais deux fois au même endroit.",
-   "c": [
-    "Vrai",
-    "Faux"
-   ]
-  },
-  "es": {
-   "q": "Verdadero o falso: Un rayo nunca cae dos veces en el mismo lugar.",
-   "c": [
-    "Verdadero",
-    "Falso"
-   ]
-  },
-  "pt": {
-   "q": "Verdadeiro ou falso: Um raio nunca cai duas vezes no mesmo lugar.",
-   "c": [
-    "Verdadeiro",
-    "Falso"
-   ]
-  },
-  "ar": {
-   "q": "صحيح أم خطأ؟ الصاعقة لا تضرب المكان نفسه مرتين أبدًا.",
-   "c": [
-    "صحيح",
-    "خطأ"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 8
- },
- {
-  "fr": {
-   "q": "Qui a peint la Joconde ?",
-   "c": [
-    "Léonard de Vinci",
-    "Michel-Ange",
-    "Pablo Picasso",
-    "Vincent van Gogh"
-   ]
-  },
-  "en": {
-   "q": "Who painted the Mona Lisa?",
-   "c": [
-    "Leonardo da Vinci",
-    "Michelangelo",
-    "Pablo Picasso",
-    "Vincent van Gogh"
-   ]
-  },
-  "ar": {
-   "q": "من رسم لوحة الموناليزا؟",
-   "c": [
-    "ليوناردو دا فينشي",
-    "مايكل أنجلو",
-    "بابلو بيكاسو",
-    "فنسنت فان غوخ"
-   ]
-  },
-  "es": {
-   "q": "¿Quién pintó la Mona Lisa?",
-   "c": [
-    "Leonardo da Vinci",
-    "Miguel Ángel",
-    "Pablo Picasso",
-    "Vincent van Gogh"
-   ]
-  },
-  "pt": {
-   "q": "Quem pintou a Mona Lisa?",
-   "c": [
-    "Leonardo da Vinci",
-    "Michelangelo",
-    "Pablo Picasso",
-    "Vincent van Gogh"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 8
- },
- {
-  "fr": {
-   "q": "Quelle est la capitale de l'Allemagne ?",
-   "c": [
-    "Munich",
-    "Berlin",
-    "Hambourg",
-    "Francfort"
-   ]
-  },
-  "en": {
-   "q": "What is the capital of Germany?",
-   "c": [
-    "Munich",
-    "Berlin",
-    "Hamburg",
-    "Frankfurt"
-   ]
-  },
-  "ar": {
-   "q": "ما عاصمة ألمانيا؟",
-   "c": [
-    "ميونخ",
-    "برلين",
-    "هامبورغ",
-    "فرانكفورت"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es la capital de Alemania?",
-   "c": [
-    "Múnich",
-    "Berlín",
-    "Hamburgo",
-    "Fráncfort"
-   ]
-  },
-  "pt": {
-   "q": "Qual é a capital da Alemanha?",
-   "c": [
-    "Munique",
-    "Berlim",
-    "Hamburgo",
-    "Frankfurt"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 8
- },
- {
-  "fr": {
-   "q": "Combien de joueurs une équipe de football a-t-elle sur le terrain, gardien compris ?",
-   "c": [
-    "13",
-    "15",
-    "9",
-    "11"
-   ]
-  },
-  "en": {
-   "q": "How many players does a football (soccer) team have on the field, goalkeeper included?",
-   "c": [
-    "13",
-    "15",
-    "9",
-    "11"
-   ]
-  },
-  "ar": {
-   "q": "كم عدد لاعبي فريق كرة القدم في الملعب بما في ذلك حارس المرمى؟",
-   "c": [
-    "13",
-    "15",
-    "9",
-    "11"
-   ]
-  },
-  "es": {
-   "q": "¿Cuántos jugadores tiene un equipo de fútbol en el campo, portero incluido?",
-   "c": [
-    "13",
-    "15",
-    "9",
-    "11"
-   ]
-  },
-  "pt": {
-   "q": "Quantos jogadores tem uma equipe de futebol em campo, incluindo o goleiro?",
-   "c": [
-    "13",
-    "15",
-    "9",
-    "11"
-   ]
-  },
-  "a": 3,
-  "image": null,
-  "level": 8
- },
- {
-  "fr": {
-   "q": "Quelle est la plus grande planète du système solaire ?",
-   "c": [
-    "Saturne",
-    "Jupiter",
-    "Neptune",
-    "La Terre"
-   ]
-  },
-  "en": {
-   "q": "What is the largest planet in the solar system?",
-   "c": [
-    "Saturn",
-    "Jupiter",
-    "Neptune",
-    "Earth"
-   ]
-  },
-  "ar": {
-   "q": "ما أكبر كوكب في المجموعة الشمسية؟",
-   "c": [
-    "زحل",
-    "المشتري",
-    "نبتون",
-    "الأرض"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el planeta más grande del sistema solar?",
-   "c": [
-    "Saturno",
-    "Júpiter",
-    "Neptuno",
-    "La Tierra"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o maior planeta do sistema solar?",
-   "c": [
-    "Saturno",
-    "Júpiter",
-    "Netuno",
-    "A Terra"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 8
- },
- {
-  "fr": {
-   "q": "Quel océan sépare l'Europe de l'Amérique ?",
-   "c": [
-    "L'océan Arctique",
-    "L'océan Pacifique",
-    "L'océan Indien",
-    "L'océan Atlantique"
-   ]
-  },
-  "en": {
-   "q": "Which ocean separates Europe from America?",
-   "c": [
-    "The Arctic Ocean",
-    "The Pacific Ocean",
-    "The Indian Ocean",
-    "The Atlantic Ocean"
-   ]
-  },
-  "ar": {
-   "q": "أي محيط يفصل أوروبا عن أمريكا؟",
-   "c": [
-    "المحيط المتجمد الشمالي",
-    "المحيط الهادئ",
-    "المحيط الهندي",
-    "المحيط الأطلسي"
-   ]
-  },
-  "es": {
-   "q": "¿Qué océano separa Europa de América?",
-   "c": [
-    "El océano Ártico",
-    "El océano Pacífico",
-    "El océano Índico",
-    "El océano Atlántico"
-   ]
-  },
-  "pt": {
-   "q": "Que oceano separa a Europa da América?",
-   "c": [
-    "O oceano Ártico",
-    "O oceano Pacífico",
-    "O oceano Índico",
-    "O oceano Atlântico"
-   ]
-  },
-  "a": 3,
-  "image": null,
-  "level": 8
- },
- {
-  "fr": {
-   "q": "Quel gaz les plantes absorbent-elles principalement pour la photosynthèse ?",
-   "c": [
-    "L'azote",
-    "L'oxygène",
-    "Le dioxyde de carbone",
-    "L'hydrogène"
-   ]
-  },
-  "en": {
-   "q": "What gas do plants primarily absorb for photosynthesis?",
-   "c": [
-    "Nitrogen",
-    "Oxygen",
-    "Carbon dioxide",
-    "Hydrogen"
-   ]
-  },
-  "ar": {
-   "q": "ما هو الغاز الذي تمتصه النباتات بشكل أساسي من أجل عملية البناء الضوئي؟",
-   "c": [
-    "النيتروجين",
-    "الأكسجين",
-    "ثاني أكسيد الكربون",
-    "الهيدروجين"
-   ]
-  },
-  "es": {
-   "q": "¿Qué gas absorben principalmente las plantas para la fotosíntesis?",
-   "c": [
-    "Nitrógeno",
-    "Oxígeno",
-    "Dióxido de carbono",
-    "Hidrógeno"
-   ]
-  },
-  "pt": {
-   "q": "Qual gás as plantas absorvem principalmente para a fotossíntese?",
-   "c": [
-    "Nitrogênio",
-    "Oxigênio",
-    "Dióxido de carbono",
-    "Hidrogênio"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "level": 9
- },
- {
-  "fr": {
-   "q": "Combien de dents a un adulte (dents de sagesse incluses) ?",
-   "c": [
-    "28",
-    "30",
-    "32",
-    "36"
-   ]
-  },
-  "en": {
-   "q": "How many teeth does an adult have (wisdom teeth included)?",
-   "c": [
-    "28",
-    "30",
-    "32",
-    "36"
-   ]
-  },
-  "ar": {
-   "q": "كم عدد أسنان الشخص البالغ (مع ضرس العقل)؟",
-   "c": [
-    "28",
-    "30",
-    "32",
-    "36"
-   ]
-  },
-  "es": {
-   "q": "¿Cuántos dientes tiene un adulto (con las muelas del juicio)?",
-   "c": [
-    "28",
-    "30",
-    "32",
-    "36"
-   ]
-  },
-  "pt": {
-   "q": "Quantos dentes tem um adulto (com os sisos)?",
-   "c": [
-    "28",
-    "30",
-    "32",
-    "36"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "level": 9
- },
- {
-  "fr": {
-   "q": "Quel pays est le plus peuplé du monde ?",
-   "c": [
-    "L'Indonésie",
-    "Les États-Unis",
-    "La Chine",
-    "L'Inde"
-   ]
-  },
-  "en": {
-   "q": "Which country has the largest population?",
-   "c": [
-    "Indonesia",
-    "United States",
-    "China",
-    "India"
-   ]
-  },
-  "ar": {
-   "q": "ما هي أكثر دولة في العالم من حيث عدد السكان؟",
-   "c": [
-    "إندونيسيا",
-    "الولايات المتحدة",
-    "الصين",
-    "الهند"
-   ]
-  },
-  "es": {
-   "q": "¿Qué país tiene más habitantes del mundo?",
-   "c": [
-    "Indonesia",
-    "Estados Unidos",
-    "China",
-    "India"
-   ]
-  },
-  "pt": {
-   "q": "Qual país tem a maior população do mundo?",
-   "c": [
-    "Indonésia",
-    "Estados Unidos",
-    "China",
-    "Índia"
-   ]
-  },
-  "a": 3,
-  "image": null,
-  "level": 9
- },
- {
-  "en": {
-   "q": "True or false: The Great Wall of China is visible to the naked eye from the Moon.",
-   "c": [
-    "True",
-    "False"
-   ]
-  },
-  "fr": {
-   "q": "Vrai ou faux : La Grande Muraille de Chine est visible à l'œil nu depuis la Lune.",
-   "c": [
-    "Vrai",
-    "Faux"
-   ]
-  },
-  "es": {
-   "q": "Verdadero o falso: La Gran Muralla China se ve a simple vista desde la Luna.",
-   "c": [
-    "Verdadero",
-    "Falso"
-   ]
-  },
-  "pt": {
-   "q": "Verdadeiro ou falso: A Grande Muralha da China é visível a olho nu a partir da Lua.",
-   "c": [
-    "Verdadeiro",
-    "Falso"
-   ]
-  },
-  "ar": {
-   "q": "صحيح أم خطأ؟ سور الصين العظيم مرئي بالعين المجردة من القمر.",
-   "c": [
-    "صحيح",
-    "خطأ"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 9
- },
- {
-  "en": {
-   "q": "True or false: Sound travels faster in water than in air.",
-   "c": [
-    "True",
-    "False"
-   ]
-  },
-  "fr": {
-   "q": "Vrai ou faux : Le son se propage plus vite dans l'eau que dans l'air.",
-   "c": [
-    "Vrai",
-    "Faux"
-   ]
-  },
-  "es": {
-   "q": "Verdadero o falso: El sonido viaja más rápido en el agua que en el aire.",
-   "c": [
-    "Verdadero",
-    "Falso"
-   ]
-  },
-  "pt": {
-   "q": "Verdadeiro ou falso: O som se propaga mais rápido na água do que no ar.",
-   "c": [
-    "Verdadeiro",
-    "Falso"
-   ]
-  },
-  "ar": {
-   "q": "صحيح أم خطأ؟ ينتقل الصوت في الماء أسرع من انتقاله في الهواء.",
-   "c": [
-    "صحيح",
-    "خطأ"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 9
- },
- {
-  "en": {
-   "q": "True or false: Bats are blind.",
-   "c": [
-    "True",
-    "False"
-   ]
-  },
-  "fr": {
-   "q": "Vrai ou faux : Les chauves-souris sont aveugles.",
-   "c": [
-    "Vrai",
-    "Faux"
-   ]
-  },
-  "es": {
-   "q": "Verdadero o falso: Los murciélagos son ciegos.",
-   "c": [
-    "Verdadero",
-    "Falso"
-   ]
-  },
-  "pt": {
-   "q": "Verdadeiro ou falso: Os morcegos são cegos.",
-   "c": [
-    "Verdadeiro",
-    "Falso"
-   ]
-  },
-  "ar": {
-   "q": "صحيح أم خطأ؟ الخفافيش عمياء.",
-   "c": [
-    "صحيح",
-    "خطأ"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 9
- },
- {
-  "en": {
-   "q": "True or false: Botanically, a tomato is a fruit.",
-   "c": [
-    "True",
-    "False"
-   ]
-  },
-  "fr": {
-   "q": "Vrai ou faux : Du point de vue botanique, la tomate est un fruit.",
-   "c": [
-    "Vrai",
-    "Faux"
-   ]
-  },
-  "es": {
-   "q": "Verdadero o falso: Botánicamente, el tomate es una fruta.",
-   "c": [
-    "Verdadero",
-    "Falso"
-   ]
-  },
-  "pt": {
-   "q": "Verdadeiro ou falso: Botanicamente, o tomate é uma fruta.",
-   "c": [
-    "Verdadeiro",
-    "Falso"
-   ]
-  },
-  "ar": {
-   "q": "صحيح أم خطأ؟ من الناحية النباتية، الطماطم ثمرة.",
-   "c": [
-    "صحيح",
-    "خطأ"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 9
- },
- {
-  "fr": {
-   "q": "Qui a écrit « Roméo et Juliette » ?",
-   "c": [
-    "William Shakespeare",
-    "Charles Dickens",
-    "Victor Hugo",
-    "Molière"
-   ]
-  },
-  "en": {
-   "q": "Who wrote \"Romeo and Juliet\"?",
-   "c": [
-    "William Shakespeare",
-    "Charles Dickens",
-    "Victor Hugo",
-    "Molière"
-   ]
-  },
-  "ar": {
-   "q": "من كتب «روميو وجولييت»؟",
-   "c": [
-    "ويليام شكسبير",
-    "تشارلز ديكنز",
-    "فيكتور هوغو",
-    "موليير"
-   ]
-  },
-  "es": {
-   "q": "¿Quién escribió «Romeo y Julieta»?",
-   "c": [
-    "William Shakespeare",
-    "Charles Dickens",
-    "Victor Hugo",
-    "Molière"
-   ]
-  },
-  "pt": {
-   "q": "Quem escreveu «Romeu e Julieta»?",
-   "c": [
-    "William Shakespeare",
-    "Charles Dickens",
-    "Victor Hugo",
-    "Molière"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 9
- },
- {
-  "fr": {
-   "q": "Quelle est la capitale de l'Australie ?",
-   "c": [
-    "Sydney",
-    "Canberra",
-    "Perth",
-    "Melbourne"
-   ]
-  },
-  "en": {
-   "q": "What is the capital of Australia?",
-   "c": [
-    "Sydney",
-    "Canberra",
-    "Perth",
-    "Melbourne"
-   ]
-  },
-  "ar": {
-   "q": "ما عاصمة أستراليا؟",
-   "c": [
-    "سيدني",
-    "كانبرا",
-    "بيرث",
-    "ملبورن"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es la capital de Australia?",
-   "c": [
-    "Sídney",
-    "Canberra",
-    "Perth",
-    "Melbourne"
-   ]
-  },
-  "pt": {
-   "q": "Qual é a capital da Austrália?",
-   "c": [
-    "Sydney",
-    "Canberra",
-    "Perth",
-    "Melbourne"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 9
- },
- {
-  "fr": {
-   "q": "Quel est le plus grand pays d'Amérique du Sud par sa superficie ?",
-   "c": [
-    "Le Pérou",
-    "La Colombie",
-    "L'Argentine",
-    "Le Brésil"
-   ]
-  },
-  "en": {
-   "q": "Which is the largest country in South America by area?",
-   "c": [
-    "Peru",
-    "Colombia",
-    "Argentina",
-    "Brazil"
-   ]
-  },
-  "ar": {
-   "q": "ما أكبر دولة في أمريكا الجنوبية من حيث المساحة؟",
-   "c": [
-    "بيرو",
-    "كولومبيا",
-    "الأرجنتين",
-    "البرازيل"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el país más grande de América del Sur por superficie?",
-   "c": [
-    "Perú",
-    "Colombia",
-    "Argentina",
-    "Brasil"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o maior país da América do Sul em área?",
-   "c": [
-    "Peru",
-    "Colômbia",
-    "Argentina",
-    "Brasil"
-   ]
-  },
-  "a": 3,
-  "image": null,
-  "level": 9
- },
- {
-  "fr": {
-   "q": "Quel compositeur a écrit « La Lettre à Élise » ?",
-   "c": [
-    "Wolfgang Amadeus Mozart",
-    "Jean-Sébastien Bach",
-    "Ludwig van Beethoven",
-    "Frédéric Chopin"
-   ]
-  },
-  "en": {
-   "q": "Which composer wrote \"Für Elise\"?",
-   "c": [
-    "Wolfgang Amadeus Mozart",
-    "Johann Sebastian Bach",
-    "Ludwig van Beethoven",
-    "Frédéric Chopin"
-   ]
-  },
-  "ar": {
-   "q": "من الملحن الذي ألف مقطوعة «إلى إليز»؟",
-   "c": [
-    "فولفغانغ أماديوس موتسارت",
-    "يوهان سيباستيان باخ",
-    "لودفيج فان بيتهوفن",
-    "فريدريك شوبان"
-   ]
-  },
-  "es": {
-   "q": "¿Qué compositor escribió «Para Elisa»?",
-   "c": [
-    "Wolfgang Amadeus Mozart",
-    "Johann Sebastian Bach",
-    "Ludwig van Beethoven",
-    "Frédéric Chopin"
-   ]
-  },
-  "pt": {
-   "q": "Que compositor escreveu «Para Elisa»?",
-   "c": [
-    "Wolfgang Amadeus Mozart",
-    "Johann Sebastian Bach",
-    "Ludwig van Beethoven",
-    "Frédéric Chopin"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "level": 9
- },
- {
-  "fr": {
-   "q": "Quelle est la capitale du Canada ?",
-   "c": [
-    "Montréal",
-    "Vancouver",
-    "Toronto",
-    "Ottawa"
-   ]
-  },
-  "en": {
-   "q": "What is the capital of Canada?",
-   "c": [
-    "Montreal",
-    "Vancouver",
-    "Toronto",
-    "Ottawa"
-   ]
-  },
-  "ar": {
-   "q": "ما عاصمة كندا؟",
-   "c": [
-    "مونتريال",
-    "فانكوفر",
-    "تورونتو",
-    "أوتاوا"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es la capital de Canadá?",
-   "c": [
-    "Montreal",
-    "Vancouver",
-    "Toronto",
-    "Ottawa"
-   ]
-  },
-  "pt": {
-   "q": "Qual é a capital do Canadá?",
-   "c": [
-    "Montreal",
-    "Vancouver",
-    "Toronto",
-    "Ottawa"
-   ]
-  },
-  "a": 3,
-  "image": null,
-  "level": 9
- },
- {
-  "fr": {
-   "q": "Quel est l'élément chimique le plus abondant dans l'univers ?",
-   "c": [
-    "Le carbone",
-    "L'hélium",
-    "L'oxygène",
-    "L'hydrogène"
-   ]
-  },
-  "en": {
-   "q": "What is the most abundant chemical element in the universe?",
-   "c": [
-    "Carbon",
-    "Helium",
-    "Oxygen",
-    "Hydrogen"
-   ]
-  },
-  "ar": {
-   "q": "ما هو العنصر الكيميائي الأكثر وفراً في الكون؟",
-   "c": [
-    "الكربون",
-    "الهيليوم",
-    "الأكسجين",
-    "الهيدروجين"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el elemento químico más abundante en el universo?",
-   "c": [
-    "Carbono",
-    "Helio",
-    "Oxígeno",
-    "Hidrógeno"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o elemento químico mais abundante no universo?",
-   "c": [
-    "Carbono",
-    "Hélio",
-    "Oxigênio",
-    "Hidrogênio"
-   ]
-  },
-  "a": 3,
-  "image": null,
-  "level": 10
- },
- {
-  "fr": {
-   "q": "Combien de cœurs possède une pieuvre ?",
-   "c": [
-    "1",
-    "2",
-    "3",
-    "4"
-   ]
-  },
-  "en": {
-   "q": "How many hearts does an octopus have?",
-   "c": [
-    "1",
-    "2",
-    "3",
-    "4"
-   ]
-  },
-  "ar": {
-   "q": "كم عدد قلوب الأخطبوط؟",
-   "c": [
-    "1",
-    "2",
-    "3",
-    "4"
-   ]
-  },
-  "es": {
-   "q": "¿Cuántos corazones tiene un pulpo?",
-   "c": [
-    "1",
-    "2",
-    "3",
-    "4"
-   ]
-  },
-  "pt": {
-   "q": "Quantos corações tem um polvo?",
-   "c": [
-    "1",
-    "2",
-    "3",
-    "4"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "level": 10
- },
- {
-  "fr": {
-   "q": "Quel est le plus long fleuve d'Europe ?",
-   "c": [
-    "Le Danube",
-    "La Volga",
-    "La Seine",
-    "Le Rhin"
-   ]
-  },
-  "en": {
-   "q": "What is the longest river in Europe?",
-   "c": [
-    "The Danube",
-    "The Volga",
-    "The Seine",
-    "The Rhine"
-   ]
-  },
-  "ar": {
-   "q": "ما هو أطول نهر في أوروبا؟",
-   "c": [
-    "نهر الدانوب",
-    "نهر الفولغا",
-    "نهر السين",
-    "نهر الراين"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el río más largo de Europa?",
-   "c": [
-    "El Danubio",
-    "El Volga",
-    "El Sena",
-    "El Rin"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o rio mais longo da Europa?",
-   "c": [
-    "O Danúbio",
-    "O Volga",
-    "O Sena",
-    "O Reno"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 10
- },
- {
-  "fr": {
-   "q": "Quel est le plus grand lac d'Afrique ?",
-   "c": [
-    "Le lac Victoria",
-    "Le lac Tchad",
-    "Le lac Tanganyika",
-    "Le lac Malawi"
-   ]
-  },
-  "en": {
-   "q": "What is the largest lake in Africa?",
-   "c": [
-    "Lake Victoria",
-    "Lake Chad",
-    "Lake Tanganyika",
-    "Lake Malawi"
-   ]
-  },
-  "ar": {
-   "q": "ما هي أكبر بحيرة في أفريقيا؟",
-   "c": [
-    "بحيرة فيكتوريا",
-    "بحيرة تشاد",
-    "بحيرة تنجانيقا",
-    "بحيرة مالاوي"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el lago más grande de África?",
-   "c": [
-    "Lago Victoria",
-    "Lago Chad",
-    "Lago Tanganica",
-    "Lago Malaui"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o maior lago da África?",
-   "c": [
-    "Lago Vitória",
-    "Lago Chade",
-    "Lago Tanganica",
-    "Lago Malawi"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 10
- },
- {
-  "fr": {
-   "q": "Qui a découvert la pénicilline ?",
-   "c": [
-    "Louis Pasteur",
-    "Marie Curie",
-    "Robert Koch",
-    "Alexander Fleming"
-   ]
-  },
-  "en": {
-   "q": "Who discovered penicillin?",
-   "c": [
-    "Louis Pasteur",
-    "Marie Curie",
-    "Robert Koch",
-    "Alexander Fleming"
-   ]
-  },
-  "ar": {
-   "q": "من اكتشف البنسلين؟",
-   "c": [
-    "لويس باستور",
-    "ماري كوري",
-    "روبرت كوخ",
-    "ألكسندر فلمنغ"
-   ]
-  },
-  "es": {
-   "q": "¿Quién descubrió la penicilina?",
-   "c": [
-    "Louis Pasteur",
-    "Marie Curie",
-    "Robert Koch",
-    "Alexander Fleming"
-   ]
-  },
-  "pt": {
-   "q": "Quem descobriu a penicilina?",
-   "c": [
-    "Louis Pasteur",
-    "Marie Curie",
-    "Robert Koch",
-    "Alexander Fleming"
-   ]
-  },
-  "a": 3,
-  "image": null,
-  "level": 10
- },
- {
-  "fr": {
-   "q": "Quel est le plus grand pays du monde par superficie ?",
-   "c": [
-    "Les États-Unis",
-    "Le Canada",
-    "La Chine",
-    "La Russie"
-   ]
-  },
-  "en": {
-   "q": "Which is the largest country by area?",
-   "c": [
-    "United States",
-    "Canada",
-    "China",
-    "Russia"
-   ]
-  },
-  "ar": {
-   "q": "ما هي أكبر دولة في العالم من حيث المساحة؟",
-   "c": [
-    "الولايات المتحدة",
-    "كندا",
-    "الصين",
-    "روسيا"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el país más grande del mundo por superficie?",
-   "c": [
-    "Estados Unidos",
-    "Canadá",
-    "China",
-    "Rusia"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o maior país do mundo em área?",
-   "c": [
-    "Estados Unidos",
-    "Canadá",
-    "China",
-    "Rússia"
-   ]
-  },
-  "a": 3,
-  "image": null,
-  "level": 10
- },
- {
-  "fr": {
-   "q": "Quel est le plus grand pays d'Afrique par superficie ?",
-   "c": [
-    "La Libye",
-    "Le Soudan",
-    "La RD Congo",
-    "L'Algérie"
-   ]
-  },
-  "en": {
-   "q": "Which is the largest country in Africa by area?",
-   "c": [
-    "Libya",
-    "Sudan",
-    "DR Congo",
-    "Algeria"
-   ]
-  },
-  "ar": {
-   "q": "ما هي أكبر دولة في أفريقيا من حيث المساحة؟",
-   "c": [
-    "ليبيا",
-    "السودان",
-    "الكونغو الديمقراطية",
-    "الجزائر"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el país más grande de África por superficie?",
-   "c": [
-    "Libia",
-    "Sudán",
-    "RD del Congo",
-    "Argelia"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o maior país da África em área?",
-   "c": [
-    "Líbia",
-    "Sudão",
-    "RD Congo",
-    "Argélia"
-   ]
-  },
-  "a": 3,
-  "image": null,
-  "level": 10
- },
- {
-  "fr": {
-   "q": "Combien de chromosomes possède une cellule humaine ?",
-   "c": [
-    "23",
-    "44",
-    "46",
-    "48"
-   ]
-  },
-  "en": {
-   "q": "How many chromosomes does a human cell have?",
-   "c": [
-    "23",
-    "44",
-    "46",
-    "48"
-   ]
-  },
-  "ar": {
-   "q": "كم عدد الكروموسومات في الخلية البشرية؟",
-   "c": [
-    "23",
-    "44",
-    "46",
-    "48"
-   ]
-  },
-  "es": {
-   "q": "¿Cuántos cromosomas tiene una célula humana?",
-   "c": [
-    "23",
-    "44",
-    "46",
-    "48"
-   ]
-  },
-  "pt": {
-   "q": "Quantos cromossomos tem uma célula humana?",
-   "c": [
-    "23",
-    "44",
-    "46",
-    "48"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "level": 10
- },
- {
-  "fr": {
-   "q": "Quel est le point culminant de l'Afrique ?",
-   "c": [
-    "Le mont Kenya",
-    "Le Kilimandjaro",
-    "Le Toubkal",
-    "Le Tahat"
-   ]
-  },
-  "en": {
-   "q": "What is the highest point in Africa?",
-   "c": [
-    "Mount Kenya",
-    "Kilimanjaro",
-    "Toubkal",
-    "Tahat"
-   ]
-  },
-  "ar": {
-   "q": "ما هي أعلى قمة في أفريقيا؟",
-   "c": [
-    "جبل كينيا",
-    "كليمنجارو",
-    "توبقال",
-    "تاهات"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el punto más alto de África?",
-   "c": [
-    "El monte Kenia",
-    "El Kilimanjaro",
-    "El Toubkal",
-    "El Tahat"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o ponto mais alto da África?",
-   "c": [
-    "O monte Quênia",
-    "O Kilimanjaro",
-    "O Toubkal",
-    "O Tahat"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 10
- },
- {
-  "fr": {
-   "q": "Quel est le plus petit os du corps humain ?",
-   "c": [
-    "L'enclume",
-    "L'étrier",
-    "Le radius",
-    "Le marteau"
-   ]
-  },
-  "en": {
-   "q": "What is the smallest bone in the human body?",
-   "c": [
-    "The incus",
-    "The stapes",
-    "The radius",
-    "The malleus"
-   ]
-  },
-  "ar": {
-   "q": "ما هو أصغر عظم في جسم الإنسان؟",
-   "c": [
-    "السندان",
-    "عظم الركاب",
-    "الكعبرة",
-    "المطرقة"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el hueso más pequeño del cuerpo humano?",
-   "c": [
-    "El yunque",
-    "El estribo",
-    "El radio",
-    "El martillo"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o menor osso do corpo humano?",
-   "c": [
-    "A bigorna",
-    "O estribo",
-    "O rádio",
-    "O martelo"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 10
- },
- {
-  "fr": {
-   "q": "Quel est le plus grand désert du monde, tous types confondus ?",
-   "c": [
-    "Le Gobi",
-    "Le Sahara",
-    "Le désert d'Arabie",
-    "L'Antarctique"
-   ]
-  },
-  "en": {
-   "q": "What is the largest desert in the world, of any type?",
-   "c": [
-    "Gobi",
-    "Sahara",
-    "Arabian Desert",
-    "Antarctica"
-   ]
-  },
-  "ar": {
-   "q": "ما هي أكبر صحراء في العالم بجميع أنواعها؟",
-   "c": [
-    "صحراء غوبي",
-    "الصحراء الكبرى",
-    "الصحراء العربية",
-    "القارة القطبية الجنوبية"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el desierto más grande del mundo, de cualquier tipo?",
-   "c": [
-    "El Gobi",
-    "El Sahara",
-    "El desierto de Arabia",
-    "La Antártida"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o maior deserto do mundo, de qualquer tipo?",
-   "c": [
-    "O Gobi",
-    "O Saara",
-    "O deserto da Arábia",
-    "A Antártida"
-   ]
-  },
-  "a": 3,
-  "image": null,
-  "level": 10
- },
- {
-  "en": {
-   "q": "True or false: Venus is the hottest planet in the Solar System.",
-   "c": [
-    "True",
-    "False"
-   ]
-  },
-  "fr": {
-   "q": "Vrai ou faux : Vénus est la planète la plus chaude du système solaire.",
-   "c": [
-    "Vrai",
-    "Faux"
-   ]
-  },
-  "es": {
-   "q": "Verdadero o falso: Venus es el planeta más caliente del sistema solar.",
-   "c": [
-    "Verdadero",
-    "Falso"
-   ]
-  },
-  "pt": {
-   "q": "Verdadeiro ou falso: Vênus é o planeta mais quente do Sistema Solar.",
-   "c": [
-    "Verdadeiro",
-    "Falso"
-   ]
-  },
-  "ar": {
-   "q": "صحيح أم خطأ؟ الزهرة هي أحرّ كواكب المجموعة الشمسية.",
-   "c": [
-    "صحيح",
-    "خطأ"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 10
- },
- {
-  "en": {
-   "q": "True or false: Humans use only 10% of their brain.",
-   "c": [
-    "True",
-    "False"
-   ]
-  },
-  "fr": {
-   "q": "Vrai ou faux : Les humains n'utilisent que 10 % de leur cerveau.",
-   "c": [
-    "Vrai",
-    "Faux"
-   ]
-  },
-  "es": {
-   "q": "Verdadero o falso: Los humanos solo usan el 10 % de su cerebro.",
-   "c": [
-    "Verdadero",
-    "Falso"
-   ]
-  },
-  "pt": {
-   "q": "Verdadeiro ou falso: Os humanos usam apenas 10% do cérebro.",
-   "c": [
-    "Verdadeiro",
-    "Falso"
-   ]
-  },
-  "ar": {
-   "q": "صحيح أم خطأ؟ لا يستخدم البشر سوى 10% من أدمغتهم.",
-   "c": [
-    "صحيح",
-    "خطأ"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 10
- },
- {
-  "en": {
-   "q": "Which gas makes up most of Earth's atmosphere?",
-   "c": [
-    "Oxygen",
-    "Carbon dioxide",
-    "Nitrogen",
-    "Hydrogen"
-   ]
-  },
-  "fr": {
-   "q": "Quel gaz compose l'essentiel de l'atmosphère terrestre ?",
-   "c": [
-    "Oxygène",
-    "Dioxyde de carbone",
-    "Azote",
-    "Hydrogène"
-   ]
-  },
-  "es": {
-   "q": "¿Qué gas compone la mayor parte de la atmósfera terrestre?",
-   "c": [
-    "Oxígeno",
-    "Dióxido de carbono",
-    "Nitrógeno",
-    "Hidrógeno"
-   ]
-  },
-  "pt": {
-   "q": "Qual gás compõe a maior parte da atmosfera terrestre?",
-   "c": [
-    "Oxigênio",
-    "Dióxido de carbono",
-    "Nitrogênio",
-    "Hidrogênio"
-   ]
-  },
-  "ar": {
-   "q": "أي غاز يشكّل معظم الغلاف الجوي للأرض؟",
-   "c": [
-    "الأكسجين",
-    "ثاني أكسيد الكربون",
-    "النيتروجين",
-    "الهيدروجين"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "level": 10
- },
- {
-  "en": {
-   "q": "What is the largest organ of the human body?",
-   "c": [
-    "The liver",
-    "The skin",
-    "The brain",
-    "The lungs"
-   ]
-  },
-  "fr": {
-   "q": "Quel est le plus grand organe du corps humain ?",
-   "c": [
-    "Le foie",
-    "La peau",
-    "Le cerveau",
-    "Les poumons"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el órgano más grande del cuerpo humano?",
-   "c": [
-    "El hígado",
-    "La piel",
-    "El cerebro",
-    "Los pulmones"
-   ]
-  },
-  "pt": {
-   "q": "Qual é o maior órgão do corpo humano?",
-   "c": [
-    "O fígado",
-    "A pele",
-    "O cérebro",
-    "Os pulmões"
-   ]
-  },
-  "ar": {
-   "q": "ما أكبر عضو في جسم الإنسان؟",
-   "c": [
-    "الكبد",
-    "الجلد",
-    "الدماغ",
-    "الرئتان"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 10
- },
- {
-  "en": {
-   "q": "Which chemical element has the symbol 'Au'?",
-   "c": [
-    "Aluminium",
-    "Silver",
-    "Copper",
-    "Gold"
-   ]
-  },
-  "fr": {
-   "q": "Quel élément chimique a pour symbole « Au » ?",
-   "c": [
-    "L'aluminium",
-    "L'argent",
-    "Le cuivre",
-    "L'or"
-   ]
-  },
-  "es": {
-   "q": "¿Qué elemento químico tiene el símbolo «Au»?",
-   "c": [
-    "Aluminio",
-    "Plata",
-    "Cobre",
-    "Oro"
-   ]
-  },
-  "pt": {
-   "q": "Qual elemento químico tem o símbolo «Au»?",
-   "c": [
-    "Alumínio",
-    "Prata",
-    "Cobre",
-    "Ouro"
-   ]
-  },
-  "ar": {
-   "q": "أي عنصر كيميائي رمزه «Au»؟",
-   "c": [
-    "الألمنيوم",
-    "الفضة",
-    "النحاس",
-    "الذهب"
-   ]
-  },
-  "a": 3,
-  "image": null,
-  "level": 10
+  "level": 11
  },
  {
   "fr": {
@@ -4847,7 +5237,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -4897,7 +5287,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -4947,7 +5337,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -4997,7 +5387,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -5047,607 +5437,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 6
- },
- {
-  "fr": {
-   "q": "Quel animal pond des œufs ?",
-   "c": [
-    "La vache",
-    "Le chat",
-    "Le chien",
-    "La poule"
-   ]
-  },
-  "en": {
-   "q": "Which animal lays eggs?",
-   "c": [
-    "The cow",
-    "The cat",
-    "The dog",
-    "The hen"
-   ]
-  },
-  "ar": {
-   "q": "أي حيوان يبيض؟",
-   "c": [
-    "البقرة",
-    "القطة",
-    "الكلب",
-    "الدجاجة"
-   ]
-  },
-  "es": {
-   "q": "¿Qué animal pone huevos?",
-   "c": [
-    "La vaca",
-    "El gato",
-    "El perro",
-    "La gallina"
-   ]
-  },
-  "pt": {
-   "q": "Qual animal põe ovos?",
-   "c": [
-    "A vaca",
-    "O gato",
-    "O cachorro",
-    "A galinha"
-   ]
-  },
-  "a": 3,
-  "image": null,
-  "level": 7
- },
- {
-  "fr": {
-   "q": "Quel mammifère peut voler ?",
-   "c": [
-    "Le chien",
-    "La chauve-souris",
-    "Le cheval",
-    "L'ours"
-   ]
-  },
-  "en": {
-   "q": "Which mammal can fly?",
-   "c": [
-    "The dog",
-    "The bat",
-    "The horse",
-    "The bear"
-   ]
-  },
-  "ar": {
-   "q": "أي ثديي يستطيع الطيران؟",
-   "c": [
-    "الكلب",
-    "الخفاش",
-    "الحصان",
-    "الدب"
-   ]
-  },
-  "es": {
-   "q": "¿Qué mamífero puede volar?",
-   "c": [
-    "El perro",
-    "El murciélago",
-    "El caballo",
-    "El oso"
-   ]
-  },
-  "pt": {
-   "q": "Qual mamífero consegue voar?",
-   "c": [
-    "O cachorro",
-    "O morcego",
-    "O cavalo",
-    "O urso"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 7
- },
- {
-  "fr": {
-   "q": "Avec quoi fait-on principalement le pain ?",
-   "c": [
-    "Du sucre",
-    "Du riz",
-    "De la farine",
-    "Du lait"
-   ]
-  },
-  "en": {
-   "q": "What is bread mainly made from?",
-   "c": [
-    "Sugar",
-    "Rice",
-    "Flour",
-    "Milk"
-   ]
-  },
-  "ar": {
-   "q": "مما يُصنع الخبز أساساً؟",
-   "c": [
-    "السكر",
-    "الأرز",
-    "الدقيق",
-    "الحليب"
-   ]
-  },
-  "es": {
-   "q": "¿De qué se hace principalmente el pan?",
-   "c": [
-    "Azúcar",
-    "Arroz",
-    "Harina",
-    "Leche"
-   ]
-  },
-  "pt": {
-   "q": "Do que o pão é feito principalmente?",
-   "c": [
-    "Açúcar",
-    "Arroz",
-    "Farinha",
-    "Leite"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "level": 7
- },
- {
-  "fr": {
-   "q": "Quel organe utilise-t-on pour respirer ?",
-   "c": [
-    "Le foie",
-    "Les reins",
-    "L'estomac",
-    "Les poumons"
-   ]
-  },
-  "en": {
-   "q": "Which organs do we use to breathe?",
-   "c": [
-    "The liver",
-    "The kidneys",
-    "The stomach",
-    "The lungs"
-   ]
-  },
-  "ar": {
-   "q": "أي عضو نستخدمه للتنفس؟",
-   "c": [
-    "الكبد",
-    "الكليتان",
-    "المعدة",
-    "الرئتان"
-   ]
-  },
-  "es": {
-   "q": "¿Qué órgano usamos para respirar?",
-   "c": [
-    "El hígado",
-    "Los riñones",
-    "El estómago",
-    "Los pulmones"
-   ]
-  },
-  "pt": {
-   "q": "Qual órgão usamos para respirar?",
-   "c": [
-    "O fígado",
-    "Os rins",
-    "O estômago",
-    "Os pulmões"
-   ]
-  },
-  "a": 3,
-  "image": null,
-  "level": 7
- },
- {
-  "fr": {
-   "q": "Quel animal possède une trompe ?",
-   "c": [
-    "Le rhinocéros",
-    "L'éléphant",
-    "L'hippopotame",
-    "La girafe"
-   ]
-  },
-  "en": {
-   "q": "Which animal has a trunk?",
-   "c": [
-    "The rhinoceros",
-    "The elephant",
-    "The hippopotamus",
-    "The giraffe"
-   ]
-  },
-  "ar": {
-   "q": "أي حيوان لديه خرطوم؟",
-   "c": [
-    "وحيد القرن",
-    "الفيل",
-    "فرس النهر",
-    "الزرافة"
-   ]
-  },
-  "es": {
-   "q": "¿Qué animal tiene trompa?",
-   "c": [
-    "El rinoceronte",
-    "El elefante",
-    "El hipopótamo",
-    "La jirafa"
-   ]
-  },
-  "pt": {
-   "q": "Qual animal tem tromba?",
-   "c": [
-    "O rinoceronte",
-    "O elefante",
-    "O hipopótamo",
-    "A girafa"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 8
- },
- {
-  "fr": {
-   "q": "Quelle vitamine le soleil nous aide-t-il à fabriquer ?",
-   "c": [
-    "Vitamine A",
-    "Vitamine C",
-    "Vitamine D",
-    "Vitamine K"
-   ]
-  },
-  "en": {
-   "q": "Which vitamin does sunlight help our body make?",
-   "c": [
-    "Vitamin A",
-    "Vitamin C",
-    "Vitamin D",
-    "Vitamin K"
-   ]
-  },
-  "ar": {
-   "q": "أي فيتامين تساعد الشمس جسمنا على تكوينه؟",
-   "c": [
-    "فيتامين أ",
-    "فيتامين ج",
-    "فيتامين د",
-    "فيتامين ك"
-   ]
-  },
-  "es": {
-   "q": "¿Qué vitamina nos ayuda a producir el sol?",
-   "c": [
-    "Vitamina A",
-    "Vitamina C",
-    "Vitamina D",
-    "Vitamina K"
-   ]
-  },
-  "pt": {
-   "q": "Qual vitamina o sol ajuda nosso corpo a produzir?",
-   "c": [
-    "Vitamina A",
-    "Vitamina C",
-    "Vitamina D",
-    "Vitamina K"
-   ]
-  },
-  "a": 2,
-  "image": null,
-  "level": 8
- },
- {
-  "fr": {
-   "q": "Quel pays est célèbre pour les pyramides de Gizeh ?",
-   "c": [
-    "Le Mexique",
-    "L'Irak",
-    "La Grèce",
-    "L'Égypte"
-   ]
-  },
-  "en": {
-   "q": "Which country is famous for the pyramids of Giza?",
-   "c": [
-    "Mexico",
-    "Iraq",
-    "Greece",
-    "Egypt"
-   ]
-  },
-  "ar": {
-   "q": "أي دولة تشتهر بأهرامات الجيزة؟",
-   "c": [
-    "المكسيك",
-    "العراق",
-    "اليونان",
-    "مصر"
-   ]
-  },
-  "es": {
-   "q": "¿Qué país es famoso por las pirámides de Guiza?",
-   "c": [
-    "México",
-    "Irak",
-    "Grecia",
-    "Egipto"
-   ]
-  },
-  "pt": {
-   "q": "Qual país é famoso pelas pirâmides de Gizé?",
-   "c": [
-    "México",
-    "Iraque",
-    "Grécia",
-    "Egito"
-   ]
-  },
-  "a": 3,
-  "image": null,
-  "level": 8
- },
- {
-  "fr": {
-   "q": "Quelle langue parle-t-on principalement en Argentine ?",
-   "c": [
-    "L'espagnol",
-    "Le portugais",
-    "L'anglais",
-    "L'italien"
-   ]
-  },
-  "en": {
-   "q": "Which language is mainly spoken in Argentina?",
-   "c": [
-    "Spanish",
-    "Portuguese",
-    "English",
-    "Italian"
-   ]
-  },
-  "ar": {
-   "q": "ما اللغة الرئيسية المتحدث بها في الأرجنتين؟",
-   "c": [
-    "الإسبانية",
-    "البرتغالية",
-    "الإنجليزية",
-    "الإيطالية"
-   ]
-  },
-  "es": {
-   "q": "¿Qué idioma se habla principalmente en Argentina?",
-   "c": [
-    "Español",
-    "Portugués",
-    "Inglés",
-    "Italiano"
-   ]
-  },
-  "pt": {
-   "q": "Qual idioma é falado principalmente na Argentina?",
-   "c": [
-    "Espanhol",
-    "Português",
-    "Inglês",
-    "Italiano"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 8
- },
- {
-  "fr": {
-   "q": "Quel animal peut changer de couleur pour se camoufler ?",
-   "c": [
-    "Le crocodile",
-    "Le caméléon",
-    "Le hérisson",
-    "La tortue"
-   ]
-  },
-  "en": {
-   "q": "Which animal can change color to camouflage itself?",
-   "c": [
-    "The crocodile",
-    "The chameleon",
-    "The hedgehog",
-    "The turtle"
-   ]
-  },
-  "ar": {
-   "q": "أي حيوان يستطيع تغيير لونه للتمويه؟",
-   "c": [
-    "التمساح",
-    "الحرباء",
-    "القنفذ",
-    "السلحفاة"
-   ]
-  },
-  "es": {
-   "q": "¿Qué animal puede cambiar de color para camuflarse?",
-   "c": [
-    "El cocodrilo",
-    "El camaleón",
-    "El erizo",
-    "La tortuga"
-   ]
-  },
-  "pt": {
-   "q": "Qual animal pode mudar de cor para se camuflar?",
-   "c": [
-    "O crocodilo",
-    "O camaleão",
-    "O ouriço",
-    "A tartaruga"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 8
- },
- {
-  "fr": {
-   "q": "Quel organe filtre le sang pour produire l'urine ?",
-   "c": [
-    "Le foie",
-    "Les poumons",
-    "Le cœur",
-    "Les reins"
-   ]
-  },
-  "en": {
-   "q": "Which organs filter the blood to produce urine?",
-   "c": [
-    "The liver",
-    "The lungs",
-    "The heart",
-    "The kidneys"
-   ]
-  },
-  "ar": {
-   "q": "أي عضو يرشّح الدم لإنتاج البول؟",
-   "c": [
-    "الكبد",
-    "الرئتان",
-    "القلب",
-    "الكليتان"
-   ]
-  },
-  "es": {
-   "q": "¿Qué órganos filtran la sangre para producir orina?",
-   "c": [
-    "El hígado",
-    "Los pulmones",
-    "El corazón",
-    "Los riñones"
-   ]
-  },
-  "pt": {
-   "q": "Quais órgãos filtram o sangue para produzir urina?",
-   "c": [
-    "O fígado",
-    "Os pulmões",
-    "O coração",
-    "Os rins"
-   ]
-  },
-  "a": 3,
-  "image": null,
-  "level": 9
- },
- {
-  "fr": {
-   "q": "Dans quel pays se trouve le Machu Picchu ?",
-   "c": [
-    "Le Pérou",
-    "Le Brésil",
-    "Le Chili",
-    "Le Mexique"
-   ]
-  },
-  "en": {
-   "q": "In which country is Machu Picchu located?",
-   "c": [
-    "Peru",
-    "Brazil",
-    "Chile",
-    "Mexico"
-   ]
-  },
-  "ar": {
-   "q": "في أي دولة يقع ماتشو بيتشو؟",
-   "c": [
-    "بيرو",
-    "البرازيل",
-    "تشيلي",
-    "المكسيك"
-   ]
-  },
-  "es": {
-   "q": "¿En qué país se encuentra Machu Picchu?",
-   "c": [
-    "Perú",
-    "Brasil",
-    "Chile",
-    "México"
-   ]
-  },
-  "pt": {
-   "q": "Em que país fica Machu Picchu?",
-   "c": [
-    "Peru",
-    "Brasil",
-    "Chile",
-    "México"
-   ]
-  },
-  "a": 0,
-  "image": null,
-  "level": 9
- },
- {
-  "fr": {
-   "q": "Quel est le plus grand oiseau du monde ?",
-   "c": [
-    "L'aigle",
-    "Le pélican",
-    "Le cygne",
-    "L'autruche"
-   ]
-  },
-  "en": {
-   "q": "What is the largest bird in the world?",
-   "c": [
-    "The eagle",
-    "The pelican",
-    "The swan",
-    "The ostrich"
-   ]
-  },
-  "ar": {
-   "q": "ما هو أكبر طائر في العالم؟",
-   "c": [
-    "النسر",
-    "البجع",
-    "التم",
-    "النعامة"
-   ]
-  },
-  "es": {
-   "q": "¿Cuál es el ave más grande del mundo?",
-   "c": [
-    "El águila",
-    "El pelícano",
-    "El cisne",
-    "El avestruz"
-   ]
-  },
-  "pt": {
-   "q": "Qual é a maior ave do mundo?",
-   "c": [
-    "A águia",
-    "O pelicano",
-    "O cisne",
-    "O avestruz"
-   ]
-  },
-  "a": 3,
-  "image": null,
-  "level": 9
+  "level": 11
  },
  {
   "fr": {
@@ -5697,7 +5487,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 6
+  "level": 11
  },
  {
   "fr": {
@@ -5747,7 +5537,837 @@
   },
   "a": 1,
   "image": null,
-  "level": 6
+  "level": 11
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus long fleuve d'Afrique ?",
+   "c": [
+    "Le Nil",
+    "Le Congo",
+    "Le Niger",
+    "Le Zambèze"
+   ]
+  },
+  "en": {
+   "q": "What is the longest river in Africa?",
+   "c": [
+    "The Nile",
+    "The Congo",
+    "The Niger",
+    "The Zambezi"
+   ]
+  },
+  "ar": {
+   "q": "ما هو أطول نهر في أفريقيا؟",
+   "c": [
+    "نهر النيل",
+    "نهر الكونغو",
+    "نهر النيجر",
+    "نهر زامبيزي"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el río más largo de África?",
+   "c": [
+    "El Nilo",
+    "El Congo",
+    "El Níger",
+    "El Zambeze"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o rio mais longo da África?",
+   "c": [
+    "O Nilo",
+    "O Congo",
+    "O Níger",
+    "O Zambeze"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 12
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus petit pays du monde ?",
+   "c": [
+    "Malte",
+    "Saint-Marin",
+    "Monaco",
+    "Le Vatican"
+   ]
+  },
+  "en": {
+   "q": "What is the smallest country in the world?",
+   "c": [
+    "Malta",
+    "San Marino",
+    "Monaco",
+    "Vatican City"
+   ]
+  },
+  "ar": {
+   "q": "ما هي أصغر دولة في العالم؟",
+   "c": [
+    "مالطا",
+    "سان مارينو",
+    "موناكو",
+    "الفاتيكان"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el país más pequeño del mundo?",
+   "c": [
+    "Malta",
+    "San Marino",
+    "Mónaco",
+    "Ciudad del Vaticano"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o menor país do mundo?",
+   "c": [
+    "Malta",
+    "San Marino",
+    "Mônaco",
+    "Cidade do Vaticano"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 12
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand désert chaud du monde ?",
+   "c": [
+    "Le Kalahari",
+    "Le Gobi",
+    "Le désert d'Arabie",
+    "Le Sahara"
+   ]
+  },
+  "en": {
+   "q": "What is the largest hot desert in the world?",
+   "c": [
+    "Kalahari",
+    "Gobi",
+    "Arabian Desert",
+    "Sahara"
+   ]
+  },
+  "ar": {
+   "q": "ما هي أكبر صحراء حارة في العالم؟",
+   "c": [
+    "صحراء كالاهاري",
+    "صحراء غوبي",
+    "الصحراء العربية",
+    "الصحراء الكبرى"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el desierto cálido más grande del mundo?",
+   "c": [
+    "El Kalahari",
+    "El Gobi",
+    "El desierto de Arabia",
+    "El Sahara"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior deserto quente do mundo?",
+   "c": [
+    "O Kalahari",
+    "O Gobi",
+    "O deserto da Arábia",
+    "O Saara"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 12
+ },
+ {
+  "fr": {
+   "q": "Quelle est la monnaie du Japon ?",
+   "c": [
+    "Le dollar",
+    "Le yen",
+    "Le won",
+    "Le yuan"
+   ]
+  },
+  "en": {
+   "q": "What is the currency of Japan?",
+   "c": [
+    "Dollar",
+    "Yen",
+    "Won",
+    "Yuan"
+   ]
+  },
+  "ar": {
+   "q": "ما هي عملة اليابان؟",
+   "c": [
+    "الدولار",
+    "الين",
+    "الوون",
+    "اليوان"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la moneda de Japón?",
+   "c": [
+    "El dólar",
+    "El yen",
+    "El won",
+    "El yuan"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a moeda do Japão?",
+   "c": [
+    "O dólar",
+    "O iene",
+    "O won",
+    "O yuan"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 12
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand mammifère ?",
+   "c": [
+    "Le requin-baleine",
+    "La girafe",
+    "L'éléphant",
+    "La baleine bleue"
+   ]
+  },
+  "en": {
+   "q": "What is the largest mammal?",
+   "c": [
+    "Whale shark",
+    "Giraffe",
+    "Elephant",
+    "Blue whale"
+   ]
+  },
+  "ar": {
+   "q": "ما هو أكبر حيوان ثديي؟",
+   "c": [
+    "القرش الحوتي",
+    "الزرافة",
+    "الفيل",
+    "الحوت الأزرق"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el mamífero más grande?",
+   "c": [
+    "El tiburón ballena",
+    "La jirafa",
+    "El elefante",
+    "La ballena azul"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior mamífero?",
+   "c": [
+    "O tubarão-baleia",
+    "A girafa",
+    "O elefante",
+    "A baleia-azul"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 12
+ },
+ {
+  "fr": {
+   "q": "Quelle est la langue officielle du Brésil ?",
+   "c": [
+    "Le français",
+    "L'anglais",
+    "Le portugais",
+    "L'espagnol"
+   ]
+  },
+  "en": {
+   "q": "What is the official language of Brazil?",
+   "c": [
+    "French",
+    "English",
+    "Portuguese",
+    "Spanish"
+   ]
+  },
+  "ar": {
+   "q": "ما هي اللغة الرسمية في البرازيل؟",
+   "c": [
+    "الفرنسية",
+    "الإنجليزية",
+    "البرتغالية",
+    "الإسبانية"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el idioma oficial de Brasil?",
+   "c": [
+    "Francés",
+    "Inglés",
+    "Portugués",
+    "Español"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a língua oficial do Brasil?",
+   "c": [
+    "Francês",
+    "Inglês",
+    "Português",
+    "Espanhol"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 12
+ },
+ {
+  "fr": {
+   "q": "Combien de jours y a-t-il dans une année non bissextile ?",
+   "c": [
+    "366",
+    "365",
+    "370",
+    "360"
+   ]
+  },
+  "en": {
+   "q": "How many days are there in a standard (non-leap) year?",
+   "c": [
+    "366",
+    "365",
+    "370",
+    "360"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد الأيام في السنة البسيطة (غير الكبيسة)؟",
+   "c": [
+    "366",
+    "365",
+    "370",
+    "360"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos días hay en un año no bisiesto?",
+   "c": [
+    "366",
+    "365",
+    "370",
+    "360"
+   ]
+  },
+  "pt": {
+   "q": "Quantos dias há em um ano comum (não bissexto)?",
+   "c": [
+    "366",
+    "365",
+    "370",
+    "360"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 12
+ },
+ {
+  "fr": {
+   "q": "Quel est l'état de l'eau lorsqu'elle est sous forme de glace ?",
+   "c": [
+    "Liquide",
+    "Gazeux",
+    "Plasma",
+    "Solide"
+   ]
+  },
+  "en": {
+   "q": "What is the state of water when it is in the form of ice?",
+   "c": [
+    "Liquid",
+    "Gas",
+    "Plasma",
+    "Solid"
+   ]
+  },
+  "ar": {
+   "q": "ما هي حالة الماء عندما يكون على شكل ثلج؟",
+   "c": [
+    "سائلة",
+    "غازية",
+    "بلازما",
+    "صلبة"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el estado del agua cuando está en forma de hielo?",
+   "c": [
+    "Líquido",
+    "Gaseoso",
+    "Plasma",
+    "Sólido"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o estado da água quando está na forma de gelo?",
+   "c": [
+    "Líquido",
+    "Gasoso",
+    "Plasma",
+    "Sólido"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 12
+ },
+ {
+  "fr": {
+   "q": "Quelle planète est surnommée la 'planète rouge' ?",
+   "c": [
+    "Jupiter",
+    "Vénus",
+    "Mars",
+    "Saturne"
+   ]
+  },
+  "en": {
+   "q": "Which planet is nicknamed the 'red planet'?",
+   "c": [
+    "Jupiter",
+    "Venus",
+    "Mars",
+    "Saturn"
+   ]
+  },
+  "ar": {
+   "q": "ما هو الكوكب الملقب بـ 'الكوكب الأحمر'؟",
+   "c": [
+    "المشتري",
+    "الزهرة",
+    "المريخ",
+    "زحل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué planeta es conocido como el 'planeta rojo'?",
+   "c": [
+    "Júpiter",
+    "Venus",
+    "Marte",
+    "Saturno"
+   ]
+  },
+  "pt": {
+   "q": "Qual planeta é apelidado de 'planeta vermelho'?",
+   "c": [
+    "Júpiter",
+    "Vênus",
+    "Marte",
+    "Saturno"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 12
+ },
+ {
+  "en": {
+   "q": "True or false: Spiders are insects.",
+   "c": [
+    "True",
+    "False"
+   ]
+  },
+  "fr": {
+   "q": "Vrai ou faux : Les araignées sont des insectes.",
+   "c": [
+    "Vrai",
+    "Faux"
+   ]
+  },
+  "es": {
+   "q": "Verdadero o falso: Las arañas son insectos.",
+   "c": [
+    "Verdadero",
+    "Falso"
+   ]
+  },
+  "pt": {
+   "q": "Verdadeiro ou falso: As aranhas são insetos.",
+   "c": [
+    "Verdadeiro",
+    "Falso"
+   ]
+  },
+  "ar": {
+   "q": "صحيح أم خطأ؟ العناكب حشرات.",
+   "c": [
+    "صحيح",
+    "خطأ"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 12
+ },
+ {
+  "en": {
+   "q": "True or false: At sea level, water boils at 100 °C.",
+   "c": [
+    "True",
+    "False"
+   ]
+  },
+  "fr": {
+   "q": "Vrai ou faux : Au niveau de la mer, l'eau bout à 100 °C.",
+   "c": [
+    "Vrai",
+    "Faux"
+   ]
+  },
+  "es": {
+   "q": "Verdadero o falso: A nivel del mar, el agua hierve a 100 °C.",
+   "c": [
+    "Verdadero",
+    "Falso"
+   ]
+  },
+  "pt": {
+   "q": "Verdadeiro ou falso: Ao nível do mar, a água ferve a 100 °C.",
+   "c": [
+    "Verdadeiro",
+    "Falso"
+   ]
+  },
+  "ar": {
+   "q": "صحيح أم خطأ؟ عند مستوى سطح البحر يغلي الماء عند 100 درجة مئوية.",
+   "c": [
+    "صحيح",
+    "خطأ"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 12
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand continent par sa superficie ?",
+   "c": [
+    "L'Afrique",
+    "L'Amérique du Sud",
+    "L'Asie",
+    "L'Europe"
+   ]
+  },
+  "en": {
+   "q": "Which is the largest continent by area?",
+   "c": [
+    "Africa",
+    "South America",
+    "Asia",
+    "Europe"
+   ]
+  },
+  "ar": {
+   "q": "ما أكبر قارة من حيث المساحة؟",
+   "c": [
+    "أفريقيا",
+    "أمريكا الجنوبية",
+    "آسيا",
+    "أوروبا"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el continente más grande por superficie?",
+   "c": [
+    "África",
+    "América del Sur",
+    "Asia",
+    "Europa"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior continente em área?",
+   "c": [
+    "África",
+    "América do Sul",
+    "Ásia",
+    "Europa"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 12
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale de l'Espagne ?",
+   "c": [
+    "Valence",
+    "Séville",
+    "Madrid",
+    "Barcelone"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of Spain?",
+   "c": [
+    "Valencia",
+    "Seville",
+    "Madrid",
+    "Barcelona"
+   ]
+  },
+  "ar": {
+   "q": "ما عاصمة إسبانيا؟",
+   "c": [
+    "فالنسيا",
+    "إشبيلية",
+    "مدريد",
+    "برشلونة"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de España?",
+   "c": [
+    "Valencia",
+    "Sevilla",
+    "Madrid",
+    "Barcelona"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital da Espanha?",
+   "c": [
+    "Valência",
+    "Sevilha",
+    "Madri",
+    "Barcelona"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 12
+ },
+ {
+  "fr": {
+   "q": "Quel animal pond des œufs ?",
+   "c": [
+    "La vache",
+    "Le chat",
+    "Le chien",
+    "La poule"
+   ]
+  },
+  "en": {
+   "q": "Which animal lays eggs?",
+   "c": [
+    "The cow",
+    "The cat",
+    "The dog",
+    "The hen"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يبيض؟",
+   "c": [
+    "البقرة",
+    "القطة",
+    "الكلب",
+    "الدجاجة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal pone huevos?",
+   "c": [
+    "La vaca",
+    "El gato",
+    "El perro",
+    "La gallina"
+   ]
+  },
+  "pt": {
+   "q": "Qual animal põe ovos?",
+   "c": [
+    "A vaca",
+    "O gato",
+    "O cachorro",
+    "A galinha"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 12
+ },
+ {
+  "fr": {
+   "q": "Quel mammifère peut voler ?",
+   "c": [
+    "Le chien",
+    "La chauve-souris",
+    "Le cheval",
+    "L'ours"
+   ]
+  },
+  "en": {
+   "q": "Which mammal can fly?",
+   "c": [
+    "The dog",
+    "The bat",
+    "The horse",
+    "The bear"
+   ]
+  },
+  "ar": {
+   "q": "أي ثديي يستطيع الطيران؟",
+   "c": [
+    "الكلب",
+    "الخفاش",
+    "الحصان",
+    "الدب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué mamífero puede volar?",
+   "c": [
+    "El perro",
+    "El murciélago",
+    "El caballo",
+    "El oso"
+   ]
+  },
+  "pt": {
+   "q": "Qual mamífero consegue voar?",
+   "c": [
+    "O cachorro",
+    "O morcego",
+    "O cavalo",
+    "O urso"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 12
+ },
+ {
+  "fr": {
+   "q": "Avec quoi fait-on principalement le pain ?",
+   "c": [
+    "Du sucre",
+    "Du riz",
+    "De la farine",
+    "Du lait"
+   ]
+  },
+  "en": {
+   "q": "What is bread mainly made from?",
+   "c": [
+    "Sugar",
+    "Rice",
+    "Flour",
+    "Milk"
+   ]
+  },
+  "ar": {
+   "q": "مما يُصنع الخبز أساساً؟",
+   "c": [
+    "السكر",
+    "الأرز",
+    "الدقيق",
+    "الحليب"
+   ]
+  },
+  "es": {
+   "q": "¿De qué se hace principalmente el pan?",
+   "c": [
+    "Azúcar",
+    "Arroz",
+    "Harina",
+    "Leche"
+   ]
+  },
+  "pt": {
+   "q": "Do que o pão é feito principalmente?",
+   "c": [
+    "Açúcar",
+    "Arroz",
+    "Farinha",
+    "Leite"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 12
+ },
+ {
+  "fr": {
+   "q": "Quel organe utilise-t-on pour respirer ?",
+   "c": [
+    "Le foie",
+    "Les reins",
+    "L'estomac",
+    "Les poumons"
+   ]
+  },
+  "en": {
+   "q": "Which organs do we use to breathe?",
+   "c": [
+    "The liver",
+    "The kidneys",
+    "The stomach",
+    "The lungs"
+   ]
+  },
+  "ar": {
+   "q": "أي عضو نستخدمه للتنفس؟",
+   "c": [
+    "الكبد",
+    "الكليتان",
+    "المعدة",
+    "الرئتان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué órgano usamos para respirar?",
+   "c": [
+    "El hígado",
+    "Los riñones",
+    "El estómago",
+    "Los pulmones"
+   ]
+  },
+  "pt": {
+   "q": "Qual órgão usamos para respirar?",
+   "c": [
+    "O fígado",
+    "Os rins",
+    "O estômago",
+    "Os pulmões"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 12
  },
  {
   "fr": {
@@ -5797,7 +6417,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 7
+  "level": 12
  },
  {
   "fr": {
@@ -5847,7 +6467,897 @@
   },
   "a": 3,
   "image": null,
-  "level": 7
+  "level": 12
+ },
+ {
+  "fr": {
+   "q": "Quel gaz est le plus présent dans l'air ?",
+   "c": [
+    "L'oxygène",
+    "L'azote",
+    "L'hydrogène",
+    "Le CO2"
+   ]
+  },
+  "en": {
+   "q": "Which gas is most abundant in the air?",
+   "c": [
+    "Oxygen",
+    "Nitrogen",
+    "Hydrogen",
+    "CO2"
+   ]
+  },
+  "ar": {
+   "q": "ما هو الغاز الأكثر وفرة في الهواء؟",
+   "c": [
+    "الأكسجين",
+    "النيتروجين",
+    "الهيدروجين",
+    "ثاني أكسيد الكربون"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el gas más abundante del aire?",
+   "c": [
+    "Oxígeno",
+    "Nitrógeno",
+    "Hidrógeno",
+    "CO2"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o gás mais abundante no ar?",
+   "c": [
+    "Oxigênio",
+    "Nitrogênio",
+    "Hidrogênio",
+    "CO2"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Combien d'os a un adulte (environ) ?",
+   "c": [
+    "106",
+    "206",
+    "306",
+    "406"
+   ]
+  },
+  "en": {
+   "q": "About how many bones does an adult have?",
+   "c": [
+    "106",
+    "206",
+    "306",
+    "406"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد عظام الإنسان البالغ تقريبًا؟",
+   "c": [
+    "106",
+    "206",
+    "306",
+    "406"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos huesos tiene un adulto, aproximadamente?",
+   "c": [
+    "106",
+    "206",
+    "306",
+    "406"
+   ]
+  },
+  "pt": {
+   "q": "Quantos ossos tem um adulto, aproximadamente?",
+   "c": [
+    "106",
+    "206",
+    "306",
+    "406"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel métal est liquide à température ambiante ?",
+   "c": [
+    "Le mercure",
+    "L'aluminium",
+    "L'or",
+    "Le fer"
+   ]
+  },
+  "en": {
+   "q": "Which metal is liquid at room temperature?",
+   "c": [
+    "Mercury",
+    "Aluminium",
+    "Gold",
+    "Iron"
+   ]
+  },
+  "ar": {
+   "q": "أي فلز يكون سائلًا في درجة حرارة الغرفة؟",
+   "c": [
+    "الزئبق",
+    "الألمنيوم",
+    "الذهب",
+    "الحديد"
+   ]
+  },
+  "es": {
+   "q": "¿Qué metal es líquido a temperatura ambiente?",
+   "c": [
+    "Mercurio",
+    "Aluminio",
+    "Oro",
+    "Hierro"
+   ]
+  },
+  "pt": {
+   "q": "Qual metal é líquido à temperatura ambiente?",
+   "c": [
+    "Mercúrio",
+    "Alumínio",
+    "Ouro",
+    "Ferro"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Combien font 7 multiplié par 8 ?",
+   "c": [
+    "56",
+    "49",
+    "54",
+    "64"
+   ]
+  },
+  "en": {
+   "q": "What is 7 multiplied by 8?",
+   "c": [
+    "56",
+    "49",
+    "54",
+    "64"
+   ]
+  },
+  "ar": {
+   "q": "كم ناتج ضرب 7 في 8؟",
+   "c": [
+    "56",
+    "49",
+    "54",
+    "64"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 7 multiplicado por 8?",
+   "c": [
+    "56",
+    "49",
+    "54",
+    "64"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 7 multiplicado por 8?",
+   "c": [
+    "56",
+    "49",
+    "54",
+    "64"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel est l'élément chimique dont le symbole est 'O' ?",
+   "c": [
+    "L'oxygène",
+    "L'osmium",
+    "L'or",
+    "L'oganesson"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical element whose symbol is 'O'?",
+   "c": [
+    "Oxygen",
+    "Osmium",
+    "Gold",
+    "Oganesson"
+   ]
+  },
+  "ar": {
+   "q": "ما هو العنصر الكيميائي الذي رمزه 'O'؟",
+   "c": [
+    "الأكسجين",
+    "الأوسميوم",
+    "الذهب",
+    "الأوغانيسون"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el elemento químico cuyo símbolo es 'O'?",
+   "c": [
+    "Oxígeno",
+    "Osmio",
+    "Oro",
+    "Oganesón"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o elemento químico cujo símbolo é 'O'?",
+   "c": [
+    "Oxigênio",
+    "Ósmio",
+    "Ouro",
+    "Oganessônio"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand mammifère terrestre ?",
+   "c": [
+    "L'hippopotame",
+    "L'éléphant d'Afrique",
+    "La girafe",
+    "La baleine bleue"
+   ]
+  },
+  "en": {
+   "q": "What is the largest land mammal?",
+   "c": [
+    "Hippopotamus",
+    "African bush elephant",
+    "Giraffe",
+    "Blue whale"
+   ]
+  },
+  "ar": {
+   "q": "ما هو أكبر حيوان ثديي بري؟",
+   "c": [
+    "فرس النهر",
+    "الفيل الأفريقي",
+    "الزرافة",
+    "الحوت الأزرق"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el mamífero terrestre más grande?",
+   "c": [
+    "Hipopótamo",
+    "Elefante africano",
+    "Jirafa",
+    "Ballena azul"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior mamífero terrestre?",
+   "c": [
+    "Hipopótamo",
+    "Elefante africano",
+    "Girafa",
+    "Baleia azul"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel auteur a écrit 'Les Misérables' ?",
+   "c": [
+    "Victor Hugo",
+    "Molière",
+    "Émile Zola",
+    "Albert Camus"
+   ]
+  },
+  "en": {
+   "q": "Which author wrote 'Les Misérables'?",
+   "c": [
+    "Victor Hugo",
+    "Molière",
+    "Émile Zola",
+    "Albert Camus"
+   ]
+  },
+  "ar": {
+   "q": "من هو المؤلف الذي كتب رواية 'البؤساء'؟",
+   "c": [
+    "فيكتور هوغو",
+    "مولير",
+    "إميل زولا",
+    "ألبير كامو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué autor escribió 'Los Miserables'?",
+   "c": [
+    "Victor Hugo",
+    "Molière",
+    "Émile Zola",
+    "Albert Camus"
+   ]
+  },
+  "pt": {
+   "q": "Qual autor escreveu 'Os Miseráveis'?",
+   "c": [
+    "Victor Hugo",
+    "Molière",
+    "Émile Zola",
+    "Albert Camus"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "en": {
+   "q": "True or false: Lightning never strikes the same place twice.",
+   "c": [
+    "True",
+    "False"
+   ]
+  },
+  "fr": {
+   "q": "Vrai ou faux : La foudre ne tombe jamais deux fois au même endroit.",
+   "c": [
+    "Vrai",
+    "Faux"
+   ]
+  },
+  "es": {
+   "q": "Verdadero o falso: Un rayo nunca cae dos veces en el mismo lugar.",
+   "c": [
+    "Verdadero",
+    "Falso"
+   ]
+  },
+  "pt": {
+   "q": "Verdadeiro ou falso: Um raio nunca cai duas vezes no mesmo lugar.",
+   "c": [
+    "Verdadeiro",
+    "Falso"
+   ]
+  },
+  "ar": {
+   "q": "صحيح أم خطأ؟ الصاعقة لا تضرب المكان نفسه مرتين أبدًا.",
+   "c": [
+    "صحيح",
+    "خطأ"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Qui a peint la Joconde ?",
+   "c": [
+    "Léonard de Vinci",
+    "Michel-Ange",
+    "Pablo Picasso",
+    "Vincent van Gogh"
+   ]
+  },
+  "en": {
+   "q": "Who painted the Mona Lisa?",
+   "c": [
+    "Leonardo da Vinci",
+    "Michelangelo",
+    "Pablo Picasso",
+    "Vincent van Gogh"
+   ]
+  },
+  "ar": {
+   "q": "من رسم لوحة الموناليزا؟",
+   "c": [
+    "ليوناردو دا فينشي",
+    "مايكل أنجلو",
+    "بابلو بيكاسو",
+    "فنسنت فان غوخ"
+   ]
+  },
+  "es": {
+   "q": "¿Quién pintó la Mona Lisa?",
+   "c": [
+    "Leonardo da Vinci",
+    "Miguel Ángel",
+    "Pablo Picasso",
+    "Vincent van Gogh"
+   ]
+  },
+  "pt": {
+   "q": "Quem pintou a Mona Lisa?",
+   "c": [
+    "Leonardo da Vinci",
+    "Michelangelo",
+    "Pablo Picasso",
+    "Vincent van Gogh"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale de l'Allemagne ?",
+   "c": [
+    "Munich",
+    "Berlin",
+    "Hambourg",
+    "Francfort"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of Germany?",
+   "c": [
+    "Munich",
+    "Berlin",
+    "Hamburg",
+    "Frankfurt"
+   ]
+  },
+  "ar": {
+   "q": "ما عاصمة ألمانيا؟",
+   "c": [
+    "ميونخ",
+    "برلين",
+    "هامبورغ",
+    "فرانكفورت"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Alemania?",
+   "c": [
+    "Múnich",
+    "Berlín",
+    "Hamburgo",
+    "Fráncfort"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital da Alemanha?",
+   "c": [
+    "Munique",
+    "Berlim",
+    "Hamburgo",
+    "Frankfurt"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Combien de joueurs une équipe de football a-t-elle sur le terrain, gardien compris ?",
+   "c": [
+    "13",
+    "15",
+    "9",
+    "11"
+   ]
+  },
+  "en": {
+   "q": "How many players does a football (soccer) team have on the field, goalkeeper included?",
+   "c": [
+    "13",
+    "15",
+    "9",
+    "11"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد لاعبي فريق كرة القدم في الملعب بما في ذلك حارس المرمى؟",
+   "c": [
+    "13",
+    "15",
+    "9",
+    "11"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos jugadores tiene un equipo de fútbol en el campo, portero incluido?",
+   "c": [
+    "13",
+    "15",
+    "9",
+    "11"
+   ]
+  },
+  "pt": {
+   "q": "Quantos jogadores tem uma equipe de futebol em campo, incluindo o goleiro?",
+   "c": [
+    "13",
+    "15",
+    "9",
+    "11"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quelle est la plus grande planète du système solaire ?",
+   "c": [
+    "Saturne",
+    "Jupiter",
+    "Neptune",
+    "La Terre"
+   ]
+  },
+  "en": {
+   "q": "What is the largest planet in the solar system?",
+   "c": [
+    "Saturn",
+    "Jupiter",
+    "Neptune",
+    "Earth"
+   ]
+  },
+  "ar": {
+   "q": "ما أكبر كوكب في المجموعة الشمسية؟",
+   "c": [
+    "زحل",
+    "المشتري",
+    "نبتون",
+    "الأرض"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el planeta más grande del sistema solar?",
+   "c": [
+    "Saturno",
+    "Júpiter",
+    "Neptuno",
+    "La Tierra"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior planeta do sistema solar?",
+   "c": [
+    "Saturno",
+    "Júpiter",
+    "Netuno",
+    "A Terra"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel océan sépare l'Europe de l'Amérique ?",
+   "c": [
+    "L'océan Arctique",
+    "L'océan Pacifique",
+    "L'océan Indien",
+    "L'océan Atlantique"
+   ]
+  },
+  "en": {
+   "q": "Which ocean separates Europe from America?",
+   "c": [
+    "The Arctic Ocean",
+    "The Pacific Ocean",
+    "The Indian Ocean",
+    "The Atlantic Ocean"
+   ]
+  },
+  "ar": {
+   "q": "أي محيط يفصل أوروبا عن أمريكا؟",
+   "c": [
+    "المحيط المتجمد الشمالي",
+    "المحيط الهادئ",
+    "المحيط الهندي",
+    "المحيط الأطلسي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué océano separa Europa de América?",
+   "c": [
+    "El océano Ártico",
+    "El océano Pacífico",
+    "El océano Índico",
+    "El océano Atlántico"
+   ]
+  },
+  "pt": {
+   "q": "Que oceano separa a Europa da América?",
+   "c": [
+    "O oceano Ártico",
+    "O oceano Pacífico",
+    "O oceano Índico",
+    "O oceano Atlântico"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel animal possède une trompe ?",
+   "c": [
+    "Le rhinocéros",
+    "L'éléphant",
+    "L'hippopotame",
+    "La girafe"
+   ]
+  },
+  "en": {
+   "q": "Which animal has a trunk?",
+   "c": [
+    "The rhinoceros",
+    "The elephant",
+    "The hippopotamus",
+    "The giraffe"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان لديه خرطوم؟",
+   "c": [
+    "وحيد القرن",
+    "الفيل",
+    "فرس النهر",
+    "الزرافة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal tiene trompa?",
+   "c": [
+    "El rinoceronte",
+    "El elefante",
+    "El hipopótamo",
+    "La jirafa"
+   ]
+  },
+  "pt": {
+   "q": "Qual animal tem tromba?",
+   "c": [
+    "O rinoceronte",
+    "O elefante",
+    "O hipopótamo",
+    "A girafa"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quelle vitamine le soleil nous aide-t-il à fabriquer ?",
+   "c": [
+    "Vitamine A",
+    "Vitamine C",
+    "Vitamine D",
+    "Vitamine K"
+   ]
+  },
+  "en": {
+   "q": "Which vitamin does sunlight help our body make?",
+   "c": [
+    "Vitamin A",
+    "Vitamin C",
+    "Vitamin D",
+    "Vitamin K"
+   ]
+  },
+  "ar": {
+   "q": "أي فيتامين تساعد الشمس جسمنا على تكوينه؟",
+   "c": [
+    "فيتامين أ",
+    "فيتامين ج",
+    "فيتامين د",
+    "فيتامين ك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué vitamina nos ayuda a producir el sol?",
+   "c": [
+    "Vitamina A",
+    "Vitamina C",
+    "Vitamina D",
+    "Vitamina K"
+   ]
+  },
+  "pt": {
+   "q": "Qual vitamina o sol ajuda nosso corpo a produzir?",
+   "c": [
+    "Vitamina A",
+    "Vitamina C",
+    "Vitamina D",
+    "Vitamina K"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel pays est célèbre pour les pyramides de Gizeh ?",
+   "c": [
+    "Le Mexique",
+    "L'Irak",
+    "La Grèce",
+    "L'Égypte"
+   ]
+  },
+  "en": {
+   "q": "Which country is famous for the pyramids of Giza?",
+   "c": [
+    "Mexico",
+    "Iraq",
+    "Greece",
+    "Egypt"
+   ]
+  },
+  "ar": {
+   "q": "أي دولة تشتهر بأهرامات الجيزة؟",
+   "c": [
+    "المكسيك",
+    "العراق",
+    "اليونان",
+    "مصر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país es famoso por las pirámides de Guiza?",
+   "c": [
+    "México",
+    "Irak",
+    "Grecia",
+    "Egipto"
+   ]
+  },
+  "pt": {
+   "q": "Qual país é famoso pelas pirâmides de Gizé?",
+   "c": [
+    "México",
+    "Iraque",
+    "Grécia",
+    "Egito"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quelle langue parle-t-on principalement en Argentine ?",
+   "c": [
+    "L'espagnol",
+    "Le portugais",
+    "L'anglais",
+    "L'italien"
+   ]
+  },
+  "en": {
+   "q": "Which language is mainly spoken in Argentina?",
+   "c": [
+    "Spanish",
+    "Portuguese",
+    "English",
+    "Italian"
+   ]
+  },
+  "ar": {
+   "q": "ما اللغة الرئيسية المتحدث بها في الأرجنتين؟",
+   "c": [
+    "الإسبانية",
+    "البرتغالية",
+    "الإنجليزية",
+    "الإيطالية"
+   ]
+  },
+  "es": {
+   "q": "¿Qué idioma se habla principalmente en Argentina?",
+   "c": [
+    "Español",
+    "Portugués",
+    "Inglés",
+    "Italiano"
+   ]
+  },
+  "pt": {
+   "q": "Qual idioma é falado principalmente na Argentina?",
+   "c": [
+    "Espanhol",
+    "Português",
+    "Inglês",
+    "Italiano"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel animal peut changer de couleur pour se camoufler ?",
+   "c": [
+    "Le crocodile",
+    "Le caméléon",
+    "Le hérisson",
+    "La tortue"
+   ]
+  },
+  "en": {
+   "q": "Which animal can change color to camouflage itself?",
+   "c": [
+    "The crocodile",
+    "The chameleon",
+    "The hedgehog",
+    "The turtle"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يستطيع تغيير لونه للتمويه؟",
+   "c": [
+    "التمساح",
+    "الحرباء",
+    "القنفذ",
+    "السلحفاة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal puede cambiar de color para camuflarse?",
+   "c": [
+    "El cocodrilo",
+    "El camaleón",
+    "El erizo",
+    "La tortuga"
+   ]
+  },
+  "pt": {
+   "q": "Qual animal pode mudar de cor para se camuflar?",
+   "c": [
+    "O crocodilo",
+    "O camaleão",
+    "O ouriço",
+    "A tartaruga"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
  },
  {
   "fr": {
@@ -5897,7 +7407,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 8
+  "level": 13
  },
  {
   "fr": {
@@ -5947,7 +7457,717 @@
   },
   "a": 1,
   "image": null,
-  "level": 8
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel gaz les plantes absorbent-elles principalement pour la photosynthèse ?",
+   "c": [
+    "L'azote",
+    "L'oxygène",
+    "Le dioxyde de carbone",
+    "L'hydrogène"
+   ]
+  },
+  "en": {
+   "q": "What gas do plants primarily absorb for photosynthesis?",
+   "c": [
+    "Nitrogen",
+    "Oxygen",
+    "Carbon dioxide",
+    "Hydrogen"
+   ]
+  },
+  "ar": {
+   "q": "ما هو الغاز الذي تمتصه النباتات بشكل أساسي من أجل عملية البناء الضوئي؟",
+   "c": [
+    "النيتروجين",
+    "الأكسجين",
+    "ثاني أكسيد الكربون",
+    "الهيدروجين"
+   ]
+  },
+  "es": {
+   "q": "¿Qué gas absorben principalmente las plantas para la fotosíntesis?",
+   "c": [
+    "Nitrógeno",
+    "Oxígeno",
+    "Dióxido de carbono",
+    "Hidrógeno"
+   ]
+  },
+  "pt": {
+   "q": "Qual gás as plantas absorvem principalmente para a fotossíntese?",
+   "c": [
+    "Nitrogênio",
+    "Oxigênio",
+    "Dióxido de carbono",
+    "Hidrogênio"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Combien de dents a un adulte (dents de sagesse incluses) ?",
+   "c": [
+    "28",
+    "30",
+    "32",
+    "36"
+   ]
+  },
+  "en": {
+   "q": "How many teeth does an adult have (wisdom teeth included)?",
+   "c": [
+    "28",
+    "30",
+    "32",
+    "36"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد أسنان الشخص البالغ (مع ضرس العقل)؟",
+   "c": [
+    "28",
+    "30",
+    "32",
+    "36"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos dientes tiene un adulto (con las muelas del juicio)?",
+   "c": [
+    "28",
+    "30",
+    "32",
+    "36"
+   ]
+  },
+  "pt": {
+   "q": "Quantos dentes tem um adulto (com os sisos)?",
+   "c": [
+    "28",
+    "30",
+    "32",
+    "36"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel pays est le plus peuplé du monde ?",
+   "c": [
+    "L'Indonésie",
+    "Les États-Unis",
+    "La Chine",
+    "L'Inde"
+   ]
+  },
+  "en": {
+   "q": "Which country has the largest population?",
+   "c": [
+    "Indonesia",
+    "United States",
+    "China",
+    "India"
+   ]
+  },
+  "ar": {
+   "q": "ما هي أكثر دولة في العالم من حيث عدد السكان؟",
+   "c": [
+    "إندونيسيا",
+    "الولايات المتحدة",
+    "الصين",
+    "الهند"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país tiene más habitantes del mundo?",
+   "c": [
+    "Indonesia",
+    "Estados Unidos",
+    "China",
+    "India"
+   ]
+  },
+  "pt": {
+   "q": "Qual país tem a maior população do mundo?",
+   "c": [
+    "Indonésia",
+    "Estados Unidos",
+    "China",
+    "Índia"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "en": {
+   "q": "True or false: The Great Wall of China is visible to the naked eye from the Moon.",
+   "c": [
+    "True",
+    "False"
+   ]
+  },
+  "fr": {
+   "q": "Vrai ou faux : La Grande Muraille de Chine est visible à l'œil nu depuis la Lune.",
+   "c": [
+    "Vrai",
+    "Faux"
+   ]
+  },
+  "es": {
+   "q": "Verdadero o falso: La Gran Muralla China se ve a simple vista desde la Luna.",
+   "c": [
+    "Verdadero",
+    "Falso"
+   ]
+  },
+  "pt": {
+   "q": "Verdadeiro ou falso: A Grande Muralha da China é visível a olho nu a partir da Lua.",
+   "c": [
+    "Verdadeiro",
+    "Falso"
+   ]
+  },
+  "ar": {
+   "q": "صحيح أم خطأ؟ سور الصين العظيم مرئي بالعين المجردة من القمر.",
+   "c": [
+    "صحيح",
+    "خطأ"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "en": {
+   "q": "True or false: Sound travels faster in water than in air.",
+   "c": [
+    "True",
+    "False"
+   ]
+  },
+  "fr": {
+   "q": "Vrai ou faux : Le son se propage plus vite dans l'eau que dans l'air.",
+   "c": [
+    "Vrai",
+    "Faux"
+   ]
+  },
+  "es": {
+   "q": "Verdadero o falso: El sonido viaja más rápido en el agua que en el aire.",
+   "c": [
+    "Verdadero",
+    "Falso"
+   ]
+  },
+  "pt": {
+   "q": "Verdadeiro ou falso: O som se propaga mais rápido na água do que no ar.",
+   "c": [
+    "Verdadeiro",
+    "Falso"
+   ]
+  },
+  "ar": {
+   "q": "صحيح أم خطأ؟ ينتقل الصوت في الماء أسرع من انتقاله في الهواء.",
+   "c": [
+    "صحيح",
+    "خطأ"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "en": {
+   "q": "True or false: Bats are blind.",
+   "c": [
+    "True",
+    "False"
+   ]
+  },
+  "fr": {
+   "q": "Vrai ou faux : Les chauves-souris sont aveugles.",
+   "c": [
+    "Vrai",
+    "Faux"
+   ]
+  },
+  "es": {
+   "q": "Verdadero o falso: Los murciélagos son ciegos.",
+   "c": [
+    "Verdadero",
+    "Falso"
+   ]
+  },
+  "pt": {
+   "q": "Verdadeiro ou falso: Os morcegos são cegos.",
+   "c": [
+    "Verdadeiro",
+    "Falso"
+   ]
+  },
+  "ar": {
+   "q": "صحيح أم خطأ؟ الخفافيش عمياء.",
+   "c": [
+    "صحيح",
+    "خطأ"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "en": {
+   "q": "True or false: Botanically, a tomato is a fruit.",
+   "c": [
+    "True",
+    "False"
+   ]
+  },
+  "fr": {
+   "q": "Vrai ou faux : Du point de vue botanique, la tomate est un fruit.",
+   "c": [
+    "Vrai",
+    "Faux"
+   ]
+  },
+  "es": {
+   "q": "Verdadero o falso: Botánicamente, el tomate es una fruta.",
+   "c": [
+    "Verdadero",
+    "Falso"
+   ]
+  },
+  "pt": {
+   "q": "Verdadeiro ou falso: Botanicamente, o tomate é uma fruta.",
+   "c": [
+    "Verdadeiro",
+    "Falso"
+   ]
+  },
+  "ar": {
+   "q": "صحيح أم خطأ؟ من الناحية النباتية، الطماطم ثمرة.",
+   "c": [
+    "صحيح",
+    "خطأ"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Qui a écrit « Roméo et Juliette » ?",
+   "c": [
+    "William Shakespeare",
+    "Charles Dickens",
+    "Victor Hugo",
+    "Molière"
+   ]
+  },
+  "en": {
+   "q": "Who wrote \"Romeo and Juliet\"?",
+   "c": [
+    "William Shakespeare",
+    "Charles Dickens",
+    "Victor Hugo",
+    "Molière"
+   ]
+  },
+  "ar": {
+   "q": "من كتب «روميو وجولييت»؟",
+   "c": [
+    "ويليام شكسبير",
+    "تشارلز ديكنز",
+    "فيكتور هوغو",
+    "موليير"
+   ]
+  },
+  "es": {
+   "q": "¿Quién escribió «Romeo y Julieta»?",
+   "c": [
+    "William Shakespeare",
+    "Charles Dickens",
+    "Victor Hugo",
+    "Molière"
+   ]
+  },
+  "pt": {
+   "q": "Quem escreveu «Romeu e Julieta»?",
+   "c": [
+    "William Shakespeare",
+    "Charles Dickens",
+    "Victor Hugo",
+    "Molière"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale de l'Australie ?",
+   "c": [
+    "Sydney",
+    "Canberra",
+    "Perth",
+    "Melbourne"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of Australia?",
+   "c": [
+    "Sydney",
+    "Canberra",
+    "Perth",
+    "Melbourne"
+   ]
+  },
+  "ar": {
+   "q": "ما عاصمة أستراليا؟",
+   "c": [
+    "سيدني",
+    "كانبرا",
+    "بيرث",
+    "ملبورن"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Australia?",
+   "c": [
+    "Sídney",
+    "Canberra",
+    "Perth",
+    "Melbourne"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital da Austrália?",
+   "c": [
+    "Sydney",
+    "Canberra",
+    "Perth",
+    "Melbourne"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand pays d'Amérique du Sud par sa superficie ?",
+   "c": [
+    "Le Pérou",
+    "La Colombie",
+    "L'Argentine",
+    "Le Brésil"
+   ]
+  },
+  "en": {
+   "q": "Which is the largest country in South America by area?",
+   "c": [
+    "Peru",
+    "Colombia",
+    "Argentina",
+    "Brazil"
+   ]
+  },
+  "ar": {
+   "q": "ما أكبر دولة في أمريكا الجنوبية من حيث المساحة؟",
+   "c": [
+    "بيرو",
+    "كولومبيا",
+    "الأرجنتين",
+    "البرازيل"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el país más grande de América del Sur por superficie?",
+   "c": [
+    "Perú",
+    "Colombia",
+    "Argentina",
+    "Brasil"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior país da América do Sul em área?",
+   "c": [
+    "Peru",
+    "Colômbia",
+    "Argentina",
+    "Brasil"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel compositeur a écrit « La Lettre à Élise » ?",
+   "c": [
+    "Wolfgang Amadeus Mozart",
+    "Jean-Sébastien Bach",
+    "Ludwig van Beethoven",
+    "Frédéric Chopin"
+   ]
+  },
+  "en": {
+   "q": "Which composer wrote \"Für Elise\"?",
+   "c": [
+    "Wolfgang Amadeus Mozart",
+    "Johann Sebastian Bach",
+    "Ludwig van Beethoven",
+    "Frédéric Chopin"
+   ]
+  },
+  "ar": {
+   "q": "من الملحن الذي ألف مقطوعة «إلى إليز»؟",
+   "c": [
+    "فولفغانغ أماديوس موتسارت",
+    "يوهان سيباستيان باخ",
+    "لودفيج فان بيتهوفن",
+    "فريدريك شوبان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué compositor escribió «Para Elisa»?",
+   "c": [
+    "Wolfgang Amadeus Mozart",
+    "Johann Sebastian Bach",
+    "Ludwig van Beethoven",
+    "Frédéric Chopin"
+   ]
+  },
+  "pt": {
+   "q": "Que compositor escreveu «Para Elisa»?",
+   "c": [
+    "Wolfgang Amadeus Mozart",
+    "Johann Sebastian Bach",
+    "Ludwig van Beethoven",
+    "Frédéric Chopin"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale du Canada ?",
+   "c": [
+    "Montréal",
+    "Vancouver",
+    "Toronto",
+    "Ottawa"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of Canada?",
+   "c": [
+    "Montreal",
+    "Vancouver",
+    "Toronto",
+    "Ottawa"
+   ]
+  },
+  "ar": {
+   "q": "ما عاصمة كندا؟",
+   "c": [
+    "مونتريال",
+    "فانكوفر",
+    "تورونتو",
+    "أوتاوا"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Canadá?",
+   "c": [
+    "Montreal",
+    "Vancouver",
+    "Toronto",
+    "Ottawa"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital do Canadá?",
+   "c": [
+    "Montreal",
+    "Vancouver",
+    "Toronto",
+    "Ottawa"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel organe filtre le sang pour produire l'urine ?",
+   "c": [
+    "Le foie",
+    "Les poumons",
+    "Le cœur",
+    "Les reins"
+   ]
+  },
+  "en": {
+   "q": "Which organs filter the blood to produce urine?",
+   "c": [
+    "The liver",
+    "The lungs",
+    "The heart",
+    "The kidneys"
+   ]
+  },
+  "ar": {
+   "q": "أي عضو يرشّح الدم لإنتاج البول؟",
+   "c": [
+    "الكبد",
+    "الرئتان",
+    "القلب",
+    "الكليتان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué órganos filtran la sangre para producir orina?",
+   "c": [
+    "El hígado",
+    "Los pulmones",
+    "El corazón",
+    "Los riñones"
+   ]
+  },
+  "pt": {
+   "q": "Quais órgãos filtram o sangue para produzir urina?",
+   "c": [
+    "O fígado",
+    "Os pulmões",
+    "O coração",
+    "Os rins"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve le Machu Picchu ?",
+   "c": [
+    "Le Pérou",
+    "Le Brésil",
+    "Le Chili",
+    "Le Mexique"
+   ]
+  },
+  "en": {
+   "q": "In which country is Machu Picchu located?",
+   "c": [
+    "Peru",
+    "Brazil",
+    "Chile",
+    "Mexico"
+   ]
+  },
+  "ar": {
+   "q": "في أي دولة يقع ماتشو بيتشو؟",
+   "c": [
+    "بيرو",
+    "البرازيل",
+    "تشيلي",
+    "المكسيك"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país se encuentra Machu Picchu?",
+   "c": [
+    "Perú",
+    "Brasil",
+    "Chile",
+    "México"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica Machu Picchu?",
+   "c": [
+    "Peru",
+    "Brasil",
+    "Chile",
+    "México"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand oiseau du monde ?",
+   "c": [
+    "L'aigle",
+    "Le pélican",
+    "Le cygne",
+    "L'autruche"
+   ]
+  },
+  "en": {
+   "q": "What is the largest bird in the world?",
+   "c": [
+    "The eagle",
+    "The pelican",
+    "The swan",
+    "The ostrich"
+   ]
+  },
+  "ar": {
+   "q": "ما هو أكبر طائر في العالم؟",
+   "c": [
+    "النسر",
+    "البجع",
+    "التم",
+    "النعامة"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el ave más grande del mundo?",
+   "c": [
+    "El águila",
+    "El pelícano",
+    "El cisne",
+    "El avestruz"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a maior ave do mundo?",
+   "c": [
+    "A águia",
+    "O pelicano",
+    "O cisne",
+    "O avestruz"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
  },
  {
   "fr": {
@@ -5997,6 +8217,786 @@
   },
   "a": 2,
   "image": null,
-  "level": 9
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel est l'élément chimique le plus abondant dans l'univers ?",
+   "c": [
+    "Le carbone",
+    "L'hélium",
+    "L'oxygène",
+    "L'hydrogène"
+   ]
+  },
+  "en": {
+   "q": "What is the most abundant chemical element in the universe?",
+   "c": [
+    "Carbon",
+    "Helium",
+    "Oxygen",
+    "Hydrogen"
+   ]
+  },
+  "ar": {
+   "q": "ما هو العنصر الكيميائي الأكثر وفراً في الكون؟",
+   "c": [
+    "الكربون",
+    "الهيليوم",
+    "الأكسجين",
+    "الهيدروجين"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el elemento químico más abundante en el universo?",
+   "c": [
+    "Carbono",
+    "Helio",
+    "Oxígeno",
+    "Hidrógeno"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o elemento químico mais abundante no universo?",
+   "c": [
+    "Carbono",
+    "Hélio",
+    "Oxigênio",
+    "Hidrogênio"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Combien de cœurs possède une pieuvre ?",
+   "c": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "en": {
+   "q": "How many hearts does an octopus have?",
+   "c": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد قلوب الأخطبوط؟",
+   "c": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos corazones tiene un pulpo?",
+   "c": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "pt": {
+   "q": "Quantos corações tem um polvo?",
+   "c": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus long fleuve d'Europe ?",
+   "c": [
+    "Le Danube",
+    "La Volga",
+    "La Seine",
+    "Le Rhin"
+   ]
+  },
+  "en": {
+   "q": "What is the longest river in Europe?",
+   "c": [
+    "The Danube",
+    "The Volga",
+    "The Seine",
+    "The Rhine"
+   ]
+  },
+  "ar": {
+   "q": "ما هو أطول نهر في أوروبا؟",
+   "c": [
+    "نهر الدانوب",
+    "نهر الفولغا",
+    "نهر السين",
+    "نهر الراين"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el río más largo de Europa?",
+   "c": [
+    "El Danubio",
+    "El Volga",
+    "El Sena",
+    "El Rin"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o rio mais longo da Europa?",
+   "c": [
+    "O Danúbio",
+    "O Volga",
+    "O Sena",
+    "O Reno"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand lac d'Afrique ?",
+   "c": [
+    "Le lac Victoria",
+    "Le lac Tchad",
+    "Le lac Tanganyika",
+    "Le lac Malawi"
+   ]
+  },
+  "en": {
+   "q": "What is the largest lake in Africa?",
+   "c": [
+    "Lake Victoria",
+    "Lake Chad",
+    "Lake Tanganyika",
+    "Lake Malawi"
+   ]
+  },
+  "ar": {
+   "q": "ما هي أكبر بحيرة في أفريقيا؟",
+   "c": [
+    "بحيرة فيكتوريا",
+    "بحيرة تشاد",
+    "بحيرة تنجانيقا",
+    "بحيرة مالاوي"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el lago más grande de África?",
+   "c": [
+    "Lago Victoria",
+    "Lago Chad",
+    "Lago Tanganica",
+    "Lago Malaui"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior lago da África?",
+   "c": [
+    "Lago Vitória",
+    "Lago Chade",
+    "Lago Tanganica",
+    "Lago Malawi"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Qui a découvert la pénicilline ?",
+   "c": [
+    "Louis Pasteur",
+    "Marie Curie",
+    "Robert Koch",
+    "Alexander Fleming"
+   ]
+  },
+  "en": {
+   "q": "Who discovered penicillin?",
+   "c": [
+    "Louis Pasteur",
+    "Marie Curie",
+    "Robert Koch",
+    "Alexander Fleming"
+   ]
+  },
+  "ar": {
+   "q": "من اكتشف البنسلين؟",
+   "c": [
+    "لويس باستور",
+    "ماري كوري",
+    "روبرت كوخ",
+    "ألكسندر فلمنغ"
+   ]
+  },
+  "es": {
+   "q": "¿Quién descubrió la penicilina?",
+   "c": [
+    "Louis Pasteur",
+    "Marie Curie",
+    "Robert Koch",
+    "Alexander Fleming"
+   ]
+  },
+  "pt": {
+   "q": "Quem descobriu a penicilina?",
+   "c": [
+    "Louis Pasteur",
+    "Marie Curie",
+    "Robert Koch",
+    "Alexander Fleming"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand pays du monde par superficie ?",
+   "c": [
+    "Les États-Unis",
+    "Le Canada",
+    "La Chine",
+    "La Russie"
+   ]
+  },
+  "en": {
+   "q": "Which is the largest country by area?",
+   "c": [
+    "United States",
+    "Canada",
+    "China",
+    "Russia"
+   ]
+  },
+  "ar": {
+   "q": "ما هي أكبر دولة في العالم من حيث المساحة؟",
+   "c": [
+    "الولايات المتحدة",
+    "كندا",
+    "الصين",
+    "روسيا"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el país más grande del mundo por superficie?",
+   "c": [
+    "Estados Unidos",
+    "Canadá",
+    "China",
+    "Rusia"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior país do mundo em área?",
+   "c": [
+    "Estados Unidos",
+    "Canadá",
+    "China",
+    "Rússia"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand pays d'Afrique par superficie ?",
+   "c": [
+    "La Libye",
+    "Le Soudan",
+    "La RD Congo",
+    "L'Algérie"
+   ]
+  },
+  "en": {
+   "q": "Which is the largest country in Africa by area?",
+   "c": [
+    "Libya",
+    "Sudan",
+    "DR Congo",
+    "Algeria"
+   ]
+  },
+  "ar": {
+   "q": "ما هي أكبر دولة في أفريقيا من حيث المساحة؟",
+   "c": [
+    "ليبيا",
+    "السودان",
+    "الكونغو الديمقراطية",
+    "الجزائر"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el país más grande de África por superficie?",
+   "c": [
+    "Libia",
+    "Sudán",
+    "RD del Congo",
+    "Argelia"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior país da África em área?",
+   "c": [
+    "Líbia",
+    "Sudão",
+    "RD Congo",
+    "Argélia"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Combien de chromosomes possède une cellule humaine ?",
+   "c": [
+    "23",
+    "44",
+    "46",
+    "48"
+   ]
+  },
+  "en": {
+   "q": "How many chromosomes does a human cell have?",
+   "c": [
+    "23",
+    "44",
+    "46",
+    "48"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد الكروموسومات في الخلية البشرية؟",
+   "c": [
+    "23",
+    "44",
+    "46",
+    "48"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos cromosomas tiene una célula humana?",
+   "c": [
+    "23",
+    "44",
+    "46",
+    "48"
+   ]
+  },
+  "pt": {
+   "q": "Quantos cromossomos tem uma célula humana?",
+   "c": [
+    "23",
+    "44",
+    "46",
+    "48"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel est le point culminant de l'Afrique ?",
+   "c": [
+    "Le mont Kenya",
+    "Le Kilimandjaro",
+    "Le Toubkal",
+    "Le Tahat"
+   ]
+  },
+  "en": {
+   "q": "What is the highest point in Africa?",
+   "c": [
+    "Mount Kenya",
+    "Kilimanjaro",
+    "Toubkal",
+    "Tahat"
+   ]
+  },
+  "ar": {
+   "q": "ما هي أعلى قمة في أفريقيا؟",
+   "c": [
+    "جبل كينيا",
+    "كليمنجارو",
+    "توبقال",
+    "تاهات"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el punto más alto de África?",
+   "c": [
+    "El monte Kenia",
+    "El Kilimanjaro",
+    "El Toubkal",
+    "El Tahat"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o ponto mais alto da África?",
+   "c": [
+    "O monte Quênia",
+    "O Kilimanjaro",
+    "O Toubkal",
+    "O Tahat"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus petit os du corps humain ?",
+   "c": [
+    "L'enclume",
+    "L'étrier",
+    "Le radius",
+    "Le marteau"
+   ]
+  },
+  "en": {
+   "q": "What is the smallest bone in the human body?",
+   "c": [
+    "The incus",
+    "The stapes",
+    "The radius",
+    "The malleus"
+   ]
+  },
+  "ar": {
+   "q": "ما هو أصغر عظم في جسم الإنسان؟",
+   "c": [
+    "السندان",
+    "عظم الركاب",
+    "الكعبرة",
+    "المطرقة"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el hueso más pequeño del cuerpo humano?",
+   "c": [
+    "El yunque",
+    "El estribo",
+    "El radio",
+    "El martillo"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o menor osso do corpo humano?",
+   "c": [
+    "A bigorna",
+    "O estribo",
+    "O rádio",
+    "O martelo"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand désert du monde, tous types confondus ?",
+   "c": [
+    "Le Gobi",
+    "Le Sahara",
+    "Le désert d'Arabie",
+    "L'Antarctique"
+   ]
+  },
+  "en": {
+   "q": "What is the largest desert in the world, of any type?",
+   "c": [
+    "Gobi",
+    "Sahara",
+    "Arabian Desert",
+    "Antarctica"
+   ]
+  },
+  "ar": {
+   "q": "ما هي أكبر صحراء في العالم بجميع أنواعها؟",
+   "c": [
+    "صحراء غوبي",
+    "الصحراء الكبرى",
+    "الصحراء العربية",
+    "القارة القطبية الجنوبية"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el desierto más grande del mundo, de cualquier tipo?",
+   "c": [
+    "El Gobi",
+    "El Sahara",
+    "El desierto de Arabia",
+    "La Antártida"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior deserto do mundo, de qualquer tipo?",
+   "c": [
+    "O Gobi",
+    "O Saara",
+    "O deserto da Arábia",
+    "A Antártida"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "en": {
+   "q": "True or false: Venus is the hottest planet in the Solar System.",
+   "c": [
+    "True",
+    "False"
+   ]
+  },
+  "fr": {
+   "q": "Vrai ou faux : Vénus est la planète la plus chaude du système solaire.",
+   "c": [
+    "Vrai",
+    "Faux"
+   ]
+  },
+  "es": {
+   "q": "Verdadero o falso: Venus es el planeta más caliente del sistema solar.",
+   "c": [
+    "Verdadero",
+    "Falso"
+   ]
+  },
+  "pt": {
+   "q": "Verdadeiro ou falso: Vênus é o planeta mais quente do Sistema Solar.",
+   "c": [
+    "Verdadeiro",
+    "Falso"
+   ]
+  },
+  "ar": {
+   "q": "صحيح أم خطأ؟ الزهرة هي أحرّ كواكب المجموعة الشمسية.",
+   "c": [
+    "صحيح",
+    "خطأ"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "en": {
+   "q": "True or false: Humans use only 10% of their brain.",
+   "c": [
+    "True",
+    "False"
+   ]
+  },
+  "fr": {
+   "q": "Vrai ou faux : Les humains n'utilisent que 10 % de leur cerveau.",
+   "c": [
+    "Vrai",
+    "Faux"
+   ]
+  },
+  "es": {
+   "q": "Verdadero o falso: Los humanos solo usan el 10 % de su cerebro.",
+   "c": [
+    "Verdadero",
+    "Falso"
+   ]
+  },
+  "pt": {
+   "q": "Verdadeiro ou falso: Os humanos usam apenas 10% do cérebro.",
+   "c": [
+    "Verdadeiro",
+    "Falso"
+   ]
+  },
+  "ar": {
+   "q": "صحيح أم خطأ؟ لا يستخدم البشر سوى 10% من أدمغتهم.",
+   "c": [
+    "صحيح",
+    "خطأ"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "en": {
+   "q": "Which gas makes up most of Earth's atmosphere?",
+   "c": [
+    "Oxygen",
+    "Carbon dioxide",
+    "Nitrogen",
+    "Hydrogen"
+   ]
+  },
+  "fr": {
+   "q": "Quel gaz compose l'essentiel de l'atmosphère terrestre ?",
+   "c": [
+    "Oxygène",
+    "Dioxyde de carbone",
+    "Azote",
+    "Hydrogène"
+   ]
+  },
+  "es": {
+   "q": "¿Qué gas compone la mayor parte de la atmósfera terrestre?",
+   "c": [
+    "Oxígeno",
+    "Dióxido de carbono",
+    "Nitrógeno",
+    "Hidrógeno"
+   ]
+  },
+  "pt": {
+   "q": "Qual gás compõe a maior parte da atmosfera terrestre?",
+   "c": [
+    "Oxigênio",
+    "Dióxido de carbono",
+    "Nitrogênio",
+    "Hidrogênio"
+   ]
+  },
+  "ar": {
+   "q": "أي غاز يشكّل معظم الغلاف الجوي للأرض؟",
+   "c": [
+    "الأكسجين",
+    "ثاني أكسيد الكربون",
+    "النيتروجين",
+    "الهيدروجين"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "en": {
+   "q": "What is the largest organ of the human body?",
+   "c": [
+    "The liver",
+    "The skin",
+    "The brain",
+    "The lungs"
+   ]
+  },
+  "fr": {
+   "q": "Quel est le plus grand organe du corps humain ?",
+   "c": [
+    "Le foie",
+    "La peau",
+    "Le cerveau",
+    "Les poumons"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el órgano más grande del cuerpo humano?",
+   "c": [
+    "El hígado",
+    "La piel",
+    "El cerebro",
+    "Los pulmones"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior órgão do corpo humano?",
+   "c": [
+    "O fígado",
+    "A pele",
+    "O cérebro",
+    "Os pulmões"
+   ]
+  },
+  "ar": {
+   "q": "ما أكبر عضو في جسم الإنسان؟",
+   "c": [
+    "الكبد",
+    "الجلد",
+    "الدماغ",
+    "الرئتان"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "en": {
+   "q": "Which chemical element has the symbol 'Au'?",
+   "c": [
+    "Aluminium",
+    "Silver",
+    "Copper",
+    "Gold"
+   ]
+  },
+  "fr": {
+   "q": "Quel élément chimique a pour symbole « Au » ?",
+   "c": [
+    "L'aluminium",
+    "L'argent",
+    "Le cuivre",
+    "L'or"
+   ]
+  },
+  "es": {
+   "q": "¿Qué elemento químico tiene el símbolo «Au»?",
+   "c": [
+    "Aluminio",
+    "Plata",
+    "Cobre",
+    "Oro"
+   ]
+  },
+  "pt": {
+   "q": "Qual elemento químico tem o símbolo «Au»?",
+   "c": [
+    "Alumínio",
+    "Prata",
+    "Cobre",
+    "Ouro"
+   ]
+  },
+  "ar": {
+   "q": "أي عنصر كيميائي رمزه «Au»؟",
+   "c": [
+    "الألمنيوم",
+    "الفضة",
+    "النحاس",
+    "الذهب"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
  }
 ]
