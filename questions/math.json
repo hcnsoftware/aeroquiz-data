@@ -6362,6 +6362,3006 @@
  },
  {
   "fr": {
+   "q": "Combien font 9 × 7 ?",
+   "c": [
+    "56",
+    "72",
+    "63",
+    "65"
+   ]
+  },
+  "en": {
+   "q": "What is 9 × 7?",
+   "c": [
+    "56",
+    "72",
+    "63",
+    "65"
+   ]
+  },
+  "ar": {
+   "q": "ما ناتج 9 × 7؟",
+   "c": [
+    "56",
+    "72",
+    "63",
+    "65"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 9 × 7?",
+   "c": [
+    "56",
+    "72",
+    "63",
+    "65"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 9 × 7?",
+   "c": [
+    "56",
+    "72",
+    "63",
+    "65"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Combien d'arêtes possède un cube ?",
+   "c": [
+    "8",
+    "12",
+    "6",
+    "16"
+   ]
+  },
+  "en": {
+   "q": "How many edges does a cube have?",
+   "c": [
+    "8",
+    "12",
+    "6",
+    "16"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد حواف المكعب؟",
+   "c": [
+    "8",
+    "12",
+    "6",
+    "16"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántas aristas tiene un cubo?",
+   "c": [
+    "8",
+    "12",
+    "6",
+    "16"
+   ]
+  },
+  "pt": {
+   "q": "Quantas arestas tem um cubo?",
+   "c": [
+    "8",
+    "12",
+    "6",
+    "16"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quelle fraction est équivalente à 1/3 ?",
+   "c": [
+    "2/6",
+    "1/6",
+    "2/3",
+    "3/6"
+   ]
+  },
+  "en": {
+   "q": "Which fraction is equivalent to 1/3?",
+   "c": [
+    "2/6",
+    "1/6",
+    "2/3",
+    "3/6"
+   ]
+  },
+  "ar": {
+   "q": "أي كسر يكافئ 1/3؟",
+   "c": [
+    "2/6",
+    "1/6",
+    "2/3",
+    "3/6"
+   ]
+  },
+  "es": {
+   "q": "¿Qué fracción es equivalente a 1/3?",
+   "c": [
+    "2/6",
+    "1/6",
+    "2/3",
+    "3/6"
+   ]
+  },
+  "pt": {
+   "q": "Qual fração é equivalente a 1/3?",
+   "c": [
+    "2/6",
+    "1/6",
+    "2/3",
+    "3/6"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Si x - 4 = 9, quelle est la valeur de x ?",
+   "c": [
+    "13",
+    "5",
+    "12",
+    "14"
+   ]
+  },
+  "en": {
+   "q": "If x - 4 = 9, what is x?",
+   "c": [
+    "13",
+    "5",
+    "12",
+    "14"
+   ]
+  },
+  "ar": {
+   "q": "إذا كان x - 4 = 9، فما قيمة x؟",
+   "c": [
+    "13",
+    "5",
+    "12",
+    "14"
+   ]
+  },
+  "es": {
+   "q": "Si x - 4 = 9, ¿cuánto vale x?",
+   "c": [
+    "13",
+    "5",
+    "12",
+    "14"
+   ]
+  },
+  "pt": {
+   "q": "Se x - 4 = 9, qual é o valor de x?",
+   "c": [
+    "13",
+    "5",
+    "12",
+    "14"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Un triangle a deux angles de 60°. Combien mesure le troisième ?",
+   "c": [
+    "30°",
+    "90°",
+    "120°",
+    "60°"
+   ]
+  },
+  "en": {
+   "q": "A triangle has two 60° angles. How big is the third one?",
+   "c": [
+    "30°",
+    "90°",
+    "120°",
+    "60°"
+   ]
+  },
+  "ar": {
+   "q": "في مثلث زاويتان قياس كل منهما 60°. كم قياس الزاوية الثالثة؟",
+   "c": [
+    "30°",
+    "90°",
+    "120°",
+    "60°"
+   ]
+  },
+  "es": {
+   "q": "Un triángulo tiene dos ángulos de 60°. ¿Cuánto mide el tercero?",
+   "c": [
+    "30°",
+    "90°",
+    "120°",
+    "60°"
+   ]
+  },
+  "pt": {
+   "q": "Um triângulo tem dois ângulos de 60°. Quanto mede o terceiro?",
+   "c": [
+    "30°",
+    "90°",
+    "120°",
+    "60°"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Combien font 72 ÷ 8 ?",
+   "c": [
+    "8",
+    "9",
+    "7",
+    "12"
+   ]
+  },
+  "en": {
+   "q": "What is 72 ÷ 8?",
+   "c": [
+    "8",
+    "9",
+    "7",
+    "12"
+   ]
+  },
+  "ar": {
+   "q": "ما ناتج 72 ÷ 8؟",
+   "c": [
+    "8",
+    "9",
+    "7",
+    "12"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 72 ÷ 8?",
+   "c": [
+    "8",
+    "9",
+    "7",
+    "12"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 72 ÷ 8?",
+   "c": [
+    "8",
+    "9",
+    "7",
+    "12"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Combien de mètres y a-t-il dans 3 km ?",
+   "c": [
+    "300",
+    "30",
+    "30000",
+    "3000"
+   ]
+  },
+  "en": {
+   "q": "How many meters are in 3 km?",
+   "c": [
+    "300",
+    "30",
+    "30000",
+    "3000"
+   ]
+  },
+  "ar": {
+   "q": "كم مترًا في 3 كم؟",
+   "c": [
+    "300",
+    "30",
+    "30000",
+    "3000"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos metros hay en 3 km?",
+   "c": [
+    "300",
+    "30",
+    "30000",
+    "3000"
+   ]
+  },
+  "pt": {
+   "q": "Quantos metros há em 3 km?",
+   "c": [
+    "300",
+    "30",
+    "30000",
+    "3000"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel nombre suit dans la suite 11, 22, 33, 44 ?",
+   "c": [
+    "45",
+    "54",
+    "66",
+    "55"
+   ]
+  },
+  "en": {
+   "q": "What number comes next: 11, 22, 33, 44, ...?",
+   "c": [
+    "45",
+    "54",
+    "66",
+    "55"
+   ]
+  },
+  "ar": {
+   "q": "ما العدد التالي في المتتالية 11، 22، 33، 44؟",
+   "c": [
+    "45",
+    "54",
+    "66",
+    "55"
+   ]
+  },
+  "es": {
+   "q": "¿Qué número sigue: 11, 22, 33, 44?",
+   "c": [
+    "45",
+    "54",
+    "66",
+    "55"
+   ]
+  },
+  "pt": {
+   "q": "Qual número vem a seguir: 11, 22, 33, 44?",
+   "c": [
+    "45",
+    "54",
+    "66",
+    "55"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelle l'instrument de calcul chinois à boules coulissantes ?",
+   "c": [
+    "La règle à calcul",
+    "L'astrolabe",
+    "Le boulier",
+    "Le compas"
+   ]
+  },
+  "en": {
+   "q": "What is the Chinese calculating tool with sliding beads called?",
+   "c": [
+    "The slide rule",
+    "The astrolabe",
+    "The abacus",
+    "The compass"
+   ]
+  },
+  "ar": {
+   "q": "ما اسم أداة الحساب الصينية ذات الخرز المنزلق؟",
+   "c": [
+    "المسطرة الحاسبة",
+    "الأسطرلاب",
+    "العداد (الأباكوس)",
+    "الفرجار"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama el instrumento de cálculo chino con bolas deslizantes?",
+   "c": [
+    "La regla de cálculo",
+    "El astrolabio",
+    "El ábaco",
+    "El compás"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama o instrumento de cálculo chinês com contas deslizantes?",
+   "c": [
+    "A régua de cálculo",
+    "O astrolábio",
+    "O ábaco",
+    "O compasso"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Un cahier coûte 3 €. Combien coûtent 6 cahiers ?",
+   "c": [
+    "18 €",
+    "9 €",
+    "21 €",
+    "24 €"
+   ]
+  },
+  "en": {
+   "q": "A notebook costs €3. How much do 6 notebooks cost?",
+   "c": [
+    "18 €",
+    "9 €",
+    "21 €",
+    "24 €"
+   ]
+  },
+  "ar": {
+   "q": "ثمن الدفتر 3 €. كم ثمن 6 دفاتر؟",
+   "c": [
+    "18 €",
+    "9 €",
+    "21 €",
+    "24 €"
+   ]
+  },
+  "es": {
+   "q": "Un cuaderno cuesta 3 €. ¿Cuánto cuestan 6 cuadernos?",
+   "c": [
+    "18 €",
+    "9 €",
+    "21 €",
+    "24 €"
+   ]
+  },
+  "pt": {
+   "q": "Um caderno custa 3 €. Quanto custam 6 cadernos?",
+   "c": [
+    "18 €",
+    "9 €",
+    "21 €",
+    "24 €"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Combien font 100 ÷ 4 ?",
+   "c": [
+    "20",
+    "24",
+    "25",
+    "40"
+   ]
+  },
+  "en": {
+   "q": "What is 100 ÷ 4?",
+   "c": [
+    "20",
+    "24",
+    "25",
+    "40"
+   ]
+  },
+  "ar": {
+   "q": "ما ناتج 100 ÷ 4؟",
+   "c": [
+    "20",
+    "24",
+    "25",
+    "40"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 100 ÷ 4?",
+   "c": [
+    "20",
+    "24",
+    "25",
+    "40"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 100 ÷ 4?",
+   "c": [
+    "20",
+    "24",
+    "25",
+    "40"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on un triangle dont les trois côtés sont égaux ?",
+   "c": [
+    "Isocèle",
+    "Équilatéral",
+    "Rectangle",
+    "Scalène"
+   ]
+  },
+  "en": {
+   "q": "What is a triangle with three equal sides called?",
+   "c": [
+    "Isosceles",
+    "Equilateral",
+    "Right-angled",
+    "Scalene"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يسمى المثلث الذي أضلاعه الثلاثة متساوية؟",
+   "c": [
+    "متساوي الساقين",
+    "متساوي الأضلاع",
+    "قائم الزاوية",
+    "مختلف الأضلاع"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama el triángulo con los tres lados iguales?",
+   "c": [
+    "Isósceles",
+    "Equilátero",
+    "Rectángulo",
+    "Escaleno"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama o triângulo com os três lados iguais?",
+   "c": [
+    "Isósceles",
+    "Equilátero",
+    "Retângulo",
+    "Escaleno"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Combien font 6 × 12 ?",
+   "c": [
+    "72",
+    "62",
+    "66",
+    "74"
+   ]
+  },
+  "en": {
+   "q": "What is 6 × 12?",
+   "c": [
+    "72",
+    "62",
+    "66",
+    "74"
+   ]
+  },
+  "ar": {
+   "q": "ما ناتج 6 × 12؟",
+   "c": [
+    "72",
+    "62",
+    "66",
+    "74"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 6 × 12?",
+   "c": [
+    "72",
+    "62",
+    "66",
+    "74"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 6 × 12?",
+   "c": [
+    "72",
+    "62",
+    "66",
+    "74"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Combien font 150 + 275 ?",
+   "c": [
+    "425",
+    "415",
+    "435",
+    "325"
+   ]
+  },
+  "en": {
+   "q": "What is 150 + 275?",
+   "c": [
+    "425",
+    "415",
+    "435",
+    "325"
+   ]
+  },
+  "ar": {
+   "q": "ما ناتج 150 + 275؟",
+   "c": [
+    "425",
+    "415",
+    "435",
+    "325"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 150 + 275?",
+   "c": [
+    "425",
+    "415",
+    "435",
+    "325"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 150 + 275?",
+   "c": [
+    "425",
+    "415",
+    "435",
+    "325"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quelle fraction est égale à 0,25 ?",
+   "c": [
+    "1/2",
+    "1/4",
+    "1/5",
+    "2/5"
+   ]
+  },
+  "en": {
+   "q": "Which fraction equals 0.25?",
+   "c": [
+    "1/2",
+    "1/4",
+    "1/5",
+    "2/5"
+   ]
+  },
+  "ar": {
+   "q": "أي كسر يساوي 0.25؟",
+   "c": [
+    "1/2",
+    "1/4",
+    "1/5",
+    "2/5"
+   ]
+  },
+  "es": {
+   "q": "¿Qué fracción es igual a 0,25?",
+   "c": [
+    "1/2",
+    "1/4",
+    "1/5",
+    "2/5"
+   ]
+  },
+  "pt": {
+   "q": "Qual fração é igual a 0,25?",
+   "c": [
+    "1/2",
+    "1/4",
+    "1/5",
+    "2/5"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel est le périmètre d'un triangle de côtés 5 cm, 7 cm et 9 cm ?",
+   "c": [
+    "19 cm",
+    "22 cm",
+    "21 cm",
+    "35 cm"
+   ]
+  },
+  "en": {
+   "q": "What is the perimeter of a triangle with sides 5 cm, 7 cm and 9 cm?",
+   "c": [
+    "19 cm",
+    "22 cm",
+    "21 cm",
+    "35 cm"
+   ]
+  },
+  "ar": {
+   "q": "ما محيط مثلث أطوال أضلاعه 5 سم و7 سم و9 سم؟",
+   "c": [
+    "19 سم",
+    "22 سم",
+    "21 سم",
+    "35 سم"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el perímetro de un triángulo de lados 5 cm, 7 cm y 9 cm?",
+   "c": [
+    "19 cm",
+    "22 cm",
+    "21 cm",
+    "35 cm"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o perímetro de um triângulo de lados 5 cm, 7 cm e 9 cm?",
+   "c": [
+    "19 cm",
+    "22 cm",
+    "21 cm",
+    "35 cm"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Si 4x = 28, quelle est la valeur de x ?",
+   "c": [
+    "6",
+    "8",
+    "24",
+    "7"
+   ]
+  },
+  "en": {
+   "q": "If 4x = 28, what is x?",
+   "c": [
+    "6",
+    "8",
+    "24",
+    "7"
+   ]
+  },
+  "ar": {
+   "q": "إذا كان 4x = 28، فما قيمة x؟",
+   "c": [
+    "6",
+    "8",
+    "24",
+    "7"
+   ]
+  },
+  "es": {
+   "q": "Si 4x = 28, ¿cuánto vale x?",
+   "c": [
+    "6",
+    "8",
+    "24",
+    "7"
+   ]
+  },
+  "pt": {
+   "q": "Se 4x = 28, qual é o valor de x?",
+   "c": [
+    "6",
+    "8",
+    "24",
+    "7"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "On lance un dé équilibré. Quelle est la probabilité d'obtenir un 6 ?",
+   "c": [
+    "1/6",
+    "1/2",
+    "1/3",
+    "1/12"
+   ]
+  },
+  "en": {
+   "q": "A fair die is rolled. What is the probability of getting a 6?",
+   "c": [
+    "1/6",
+    "1/2",
+    "1/3",
+    "1/12"
+   ]
+  },
+  "ar": {
+   "q": "نرمي نردًا متوازنًا. ما احتمال الحصول على 6؟",
+   "c": [
+    "1/6",
+    "1/2",
+    "1/3",
+    "1/12"
+   ]
+  },
+  "es": {
+   "q": "Se lanza un dado equilibrado. ¿Cuál es la probabilidad de sacar un 6?",
+   "c": [
+    "1/6",
+    "1/2",
+    "1/3",
+    "1/12"
+   ]
+  },
+  "pt": {
+   "q": "Lança-se um dado equilibrado. Qual é a probabilidade de sair 6?",
+   "c": [
+    "1/6",
+    "1/2",
+    "1/3",
+    "1/12"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quelle est la somme des angles d'un quadrilatère ?",
+   "c": [
+    "180°",
+    "360°",
+    "270°",
+    "540°"
+   ]
+  },
+  "en": {
+   "q": "What is the sum of the angles of a quadrilateral?",
+   "c": [
+    "180°",
+    "360°",
+    "270°",
+    "540°"
+   ]
+  },
+  "ar": {
+   "q": "ما مجموع زوايا الشكل الرباعي؟",
+   "c": [
+    "180°",
+    "360°",
+    "270°",
+    "540°"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto suman los ángulos de un cuadrilátero?",
+   "c": [
+    "180°",
+    "360°",
+    "270°",
+    "540°"
+   ]
+  },
+  "pt": {
+   "q": "Quanto somam os ângulos de um quadrilátero?",
+   "c": [
+    "180°",
+    "360°",
+    "270°",
+    "540°"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Combien de jours y a-t-il dans 4 semaines ?",
+   "c": [
+    "24",
+    "30",
+    "32",
+    "28"
+   ]
+  },
+  "en": {
+   "q": "How many days are there in 4 weeks?",
+   "c": [
+    "24",
+    "30",
+    "32",
+    "28"
+   ]
+  },
+  "ar": {
+   "q": "كم يومًا في 4 أسابيع؟",
+   "c": [
+    "24",
+    "30",
+    "32",
+    "28"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos días hay en 4 semanas?",
+   "c": [
+    "24",
+    "30",
+    "32",
+    "28"
+   ]
+  },
+  "pt": {
+   "q": "Quantos dias há em 4 semanas?",
+   "c": [
+    "24",
+    "30",
+    "32",
+    "28"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel peuple de Mésoamérique comptait en base 20 ?",
+   "c": [
+    "Les Vikings",
+    "Les Mayas",
+    "Les Romains",
+    "Les Mongols"
+   ]
+  },
+  "en": {
+   "q": "Which ancient Mesoamerican people counted in base 20?",
+   "c": [
+    "The Vikings",
+    "The Maya",
+    "The Romans",
+    "The Mongols"
+   ]
+  },
+  "ar": {
+   "q": "أي شعب قديم من أمريكا الوسطى كان يعدّ بالنظام العشريني (الأساس 20)؟",
+   "c": [
+    "الفايكينغ",
+    "المايا",
+    "الرومان",
+    "المغول"
+   ]
+  },
+  "es": {
+   "q": "¿Qué antiguo pueblo de Mesoamérica contaba en base 20?",
+   "c": [
+    "Los vikingos",
+    "Los mayas",
+    "Los romanos",
+    "Los mongoles"
+   ]
+  },
+  "pt": {
+   "q": "Que antigo povo da Mesoamérica contava em base 20?",
+   "c": [
+    "Os vikings",
+    "Os maias",
+    "Os romanos",
+    "Os mongóis"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Lequel de ces nombres est un multiple de 7 ?",
+   "c": [
+    "36",
+    "45",
+    "50",
+    "42"
+   ]
+  },
+  "en": {
+   "q": "Which of these numbers is a multiple of 7?",
+   "c": [
+    "36",
+    "45",
+    "50",
+    "42"
+   ]
+  },
+  "ar": {
+   "q": "أي من هذه الأعداد من مضاعفات 7؟",
+   "c": [
+    "36",
+    "45",
+    "50",
+    "42"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál de estos números es múltiplo de 7?",
+   "c": [
+    "36",
+    "45",
+    "50",
+    "42"
+   ]
+  },
+  "pt": {
+   "q": "Qual destes números é múltiplo de 7?",
+   "c": [
+    "36",
+    "45",
+    "50",
+    "42"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel est 37,6 arrondi à l'unité ?",
+   "c": [
+    "37",
+    "36",
+    "38",
+    "40"
+   ]
+  },
+  "en": {
+   "q": "What is 37.6 rounded to the nearest whole number?",
+   "c": [
+    "37",
+    "36",
+    "38",
+    "40"
+   ]
+  },
+  "ar": {
+   "q": "ما قيمة 37.6 مقرّبة إلى أقرب عدد صحيح؟",
+   "c": [
+    "37",
+    "36",
+    "38",
+    "40"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es 37,6 redondeado a la unidad?",
+   "c": [
+    "37",
+    "36",
+    "38",
+    "40"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 37,6 arredondado à unidade?",
+   "c": [
+    "37",
+    "36",
+    "38",
+    "40"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Combien font -3 + 8 ?",
+   "c": [
+    "-5",
+    "11",
+    "5",
+    "-11"
+   ]
+  },
+  "en": {
+   "q": "What is -3 + 8?",
+   "c": [
+    "-5",
+    "11",
+    "5",
+    "-11"
+   ]
+  },
+  "ar": {
+   "q": "ما ناتج -3 + 8؟",
+   "c": [
+    "-5",
+    "11",
+    "5",
+    "-11"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es -3 + 8?",
+   "c": [
+    "-5",
+    "11",
+    "5",
+    "-11"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é -3 + 8?",
+   "c": [
+    "-5",
+    "11",
+    "5",
+    "-11"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Combien font 25 × 6 ?",
+   "c": [
+    "120",
+    "160",
+    "175",
+    "150"
+   ]
+  },
+  "en": {
+   "q": "What is 25 × 6?",
+   "c": [
+    "120",
+    "160",
+    "175",
+    "150"
+   ]
+  },
+  "ar": {
+   "q": "ما ناتج 25 × 6؟",
+   "c": [
+    "120",
+    "160",
+    "175",
+    "150"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 25 × 6?",
+   "c": [
+    "120",
+    "160",
+    "175",
+    "150"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 25 × 6?",
+   "c": [
+    "120",
+    "160",
+    "175",
+    "150"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Combien font 20 % de 150 ?",
+   "c": [
+    "30",
+    "15",
+    "25",
+    "35"
+   ]
+  },
+  "en": {
+   "q": "What is 20% of 150?",
+   "c": [
+    "30",
+    "15",
+    "25",
+    "35"
+   ]
+  },
+  "ar": {
+   "q": "ما هو 20% من 150؟",
+   "c": [
+    "30",
+    "15",
+    "25",
+    "35"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es el 20 % de 150?",
+   "c": [
+    "30",
+    "15",
+    "25",
+    "35"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 20% de 150?",
+   "c": [
+    "30",
+    "15",
+    "25",
+    "35"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quelle est la médiane de 3, 9, 4, 11, 6 ?",
+   "c": [
+    "6",
+    "4",
+    "9",
+    "7"
+   ]
+  },
+  "en": {
+   "q": "What is the median of 3, 9, 4, 11, 6?",
+   "c": [
+    "6",
+    "4",
+    "9",
+    "7"
+   ]
+  },
+  "ar": {
+   "q": "ما وسيط الأعداد 3، 9، 4، 11، 6؟",
+   "c": [
+    "6",
+    "4",
+    "9",
+    "7"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la mediana de 3, 9, 4, 11, 6?",
+   "c": [
+    "6",
+    "4",
+    "9",
+    "7"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a mediana de 3, 9, 4, 11, 6?",
+   "c": [
+    "6",
+    "4",
+    "9",
+    "7"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Si x ÷ 3 = 6, quelle est la valeur de x ?",
+   "c": [
+    "2",
+    "9",
+    "18",
+    "15"
+   ]
+  },
+  "en": {
+   "q": "If x ÷ 3 = 6, what is x?",
+   "c": [
+    "2",
+    "9",
+    "18",
+    "15"
+   ]
+  },
+  "ar": {
+   "q": "إذا كان x ÷ 3 = 6، فما قيمة x؟",
+   "c": [
+    "2",
+    "9",
+    "18",
+    "15"
+   ]
+  },
+  "es": {
+   "q": "Si x ÷ 3 = 6, ¿cuánto vale x?",
+   "c": [
+    "2",
+    "9",
+    "18",
+    "15"
+   ]
+  },
+  "pt": {
+   "q": "Se x ÷ 3 = 6, qual é o valor de x?",
+   "c": [
+    "2",
+    "9",
+    "18",
+    "15"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel nombre suit dans la suite 2, 5, 8, 11 ?",
+   "c": [
+    "13",
+    "15",
+    "16",
+    "14"
+   ]
+  },
+  "en": {
+   "q": "What number comes next: 2, 5, 8, 11, ...?",
+   "c": [
+    "13",
+    "15",
+    "16",
+    "14"
+   ]
+  },
+  "ar": {
+   "q": "ما العدد التالي في المتتالية 2، 5، 8، 11؟",
+   "c": [
+    "13",
+    "15",
+    "16",
+    "14"
+   ]
+  },
+  "es": {
+   "q": "¿Qué número sigue: 2, 5, 8, 11?",
+   "c": [
+    "13",
+    "15",
+    "16",
+    "14"
+   ]
+  },
+  "pt": {
+   "q": "Qual número vem a seguir: 2, 5, 8, 11?",
+   "c": [
+    "13",
+    "15",
+    "16",
+    "14"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Un sac contient 3 boules rouges et 2 bleues. Quelle est la probabilité de tirer une rouge ?",
+   "c": [
+    "2/5",
+    "3/5",
+    "1/5",
+    "3/2"
+   ]
+  },
+  "en": {
+   "q": "A bag holds 3 red and 2 blue balls. What is the probability of drawing a red one?",
+   "c": [
+    "2/5",
+    "3/5",
+    "1/5",
+    "3/2"
+   ]
+  },
+  "ar": {
+   "q": "تحتوي حقيبة على 3 كرات حمراء وكرتين زرقاوين. ما احتمال سحب كرة حمراء؟",
+   "c": [
+    "2/5",
+    "3/5",
+    "1/5",
+    "3/2"
+   ]
+  },
+  "es": {
+   "q": "Una bolsa tiene 3 bolas rojas y 2 azules. ¿Cuál es la probabilidad de sacar una roja?",
+   "c": [
+    "2/5",
+    "3/5",
+    "1/5",
+    "3/2"
+   ]
+  },
+  "pt": {
+   "q": "Um saco tem 3 bolas vermelhas e 2 azuis. Qual é a probabilidade de tirar uma vermelha?",
+   "c": [
+    "2/5",
+    "3/5",
+    "1/5",
+    "3/2"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Deux angles sont complémentaires et l'un mesure 35°. Combien mesure l'autre ?",
+   "c": [
+    "45°",
+    "65°",
+    "145°",
+    "55°"
+   ]
+  },
+  "en": {
+   "q": "Two angles are complementary and one measures 35°. How big is the other?",
+   "c": [
+    "45°",
+    "65°",
+    "145°",
+    "55°"
+   ]
+  },
+  "ar": {
+   "q": "زاويتان متتامتان وقياس إحداهما 35°. كم قياس الأخرى؟",
+   "c": [
+    "45°",
+    "65°",
+    "145°",
+    "55°"
+   ]
+  },
+  "es": {
+   "q": "Dos ángulos son complementarios y uno mide 35°. ¿Cuánto mide el otro?",
+   "c": [
+    "45°",
+    "65°",
+    "145°",
+    "55°"
+   ]
+  },
+  "pt": {
+   "q": "Dois ângulos são complementares e um mede 35°. Quanto mede o outro?",
+   "c": [
+    "45°",
+    "65°",
+    "145°",
+    "55°"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel peuple de Mésopotamie comptait en base 60 ?",
+   "c": [
+    "Les Babyloniens",
+    "Les Incas",
+    "Les Aztèques",
+    "Les Phéniciens"
+   ]
+  },
+  "en": {
+   "q": "Which Mesopotamian people counted in base 60?",
+   "c": [
+    "The Babylonians",
+    "The Incas",
+    "The Aztecs",
+    "The Phoenicians"
+   ]
+  },
+  "ar": {
+   "q": "أي شعب من بلاد الرافدين كان يعدّ بالنظام الستيني (الأساس 60)؟",
+   "c": [
+    "البابليون",
+    "الإنكا",
+    "الأزتك",
+    "الفينيقيون"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pueblo de Mesopotamia contaba en base 60?",
+   "c": [
+    "Los babilonios",
+    "Los incas",
+    "Los aztecas",
+    "Los fenicios"
+   ]
+  },
+  "pt": {
+   "q": "Que povo da Mesopotâmia contava em base 60?",
+   "c": [
+    "Os babilônios",
+    "Os incas",
+    "Os astecas",
+    "Os fenícios"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Combien de millilitres y a-t-il dans 2,5 litres ?",
+   "c": [
+    "250",
+    "2500",
+    "25",
+    "25000"
+   ]
+  },
+  "en": {
+   "q": "How many milliliters are in 2.5 liters?",
+   "c": [
+    "250",
+    "2500",
+    "25",
+    "25000"
+   ]
+  },
+  "ar": {
+   "q": "كم ملّيلترًا في 2.5 لتر؟",
+   "c": [
+    "250",
+    "2500",
+    "25",
+    "25000"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos mililitros hay en 2,5 litros?",
+   "c": [
+    "250",
+    "2500",
+    "25",
+    "25000"
+   ]
+  },
+  "pt": {
+   "q": "Quantos mililitros há em 2,5 litros?",
+   "c": [
+    "250",
+    "2500",
+    "25",
+    "25000"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Combien de diagonales a un carré ?",
+   "c": [
+    "1",
+    "3",
+    "2",
+    "4"
+   ]
+  },
+  "en": {
+   "q": "How many diagonals does a square have?",
+   "c": [
+    "1",
+    "3",
+    "2",
+    "4"
+   ]
+  },
+  "ar": {
+   "q": "كم قطرًا للمربع؟",
+   "c": [
+    "1",
+    "3",
+    "2",
+    "4"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántas diagonales tiene un cuadrado?",
+   "c": [
+    "1",
+    "3",
+    "2",
+    "4"
+   ]
+  },
+  "pt": {
+   "q": "Quantas diagonais tem um quadrado?",
+   "c": [
+    "1",
+    "3",
+    "2",
+    "4"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand de ces nombres ?",
+   "c": [
+    "0,8",
+    "0,9",
+    "0,75",
+    "0,085"
+   ]
+  },
+  "en": {
+   "q": "Which of these numbers is the largest?",
+   "c": [
+    "0.8",
+    "0.9",
+    "0.75",
+    "0.085"
+   ]
+  },
+  "ar": {
+   "q": "أي هذه الأعداد هو الأكبر؟",
+   "c": [
+    "0.8",
+    "0.9",
+    "0.75",
+    "0.085"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál de estos números es el mayor?",
+   "c": [
+    "0,8",
+    "0,9",
+    "0,75",
+    "0,085"
+   ]
+  },
+  "pt": {
+   "q": "Qual destes números é o maior?",
+   "c": [
+    "0,8",
+    "0,9",
+    "0,75",
+    "0,085"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Un film commence à 18:40 et dure 1 h 35. À quelle heure finit-il ?",
+   "c": [
+    "20:05",
+    "20:25",
+    "20:15",
+    "19:15"
+   ]
+  },
+  "en": {
+   "q": "A film starts at 18:40 and lasts 1 h 35 min. When does it end?",
+   "c": [
+    "20:05",
+    "20:25",
+    "20:15",
+    "19:15"
+   ]
+  },
+  "ar": {
+   "q": "يبدأ فيلم عند 18:40 ويدوم ساعة و35 دقيقة. متى ينتهي؟",
+   "c": [
+    "20:05",
+    "20:25",
+    "20:15",
+    "19:15"
+   ]
+  },
+  "es": {
+   "q": "Una película empieza a las 18:40 y dura 1 h 35 min. ¿A qué hora termina?",
+   "c": [
+    "20:05",
+    "20:25",
+    "20:15",
+    "19:15"
+   ]
+  },
+  "pt": {
+   "q": "Um filme começa às 18:40 e dura 1 h 35 min. A que horas termina?",
+   "c": [
+    "20:05",
+    "20:25",
+    "20:15",
+    "19:15"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Un triangle rectangle a deux côtés de 3 cm et 4 cm. Quelle est son hypoténuse ?",
+   "c": [
+    "5 cm",
+    "6 cm",
+    "7 cm",
+    "12 cm"
+   ]
+  },
+  "en": {
+   "q": "A right triangle has legs of 3 cm and 4 cm. What is its hypotenuse?",
+   "c": [
+    "5 cm",
+    "6 cm",
+    "7 cm",
+    "12 cm"
+   ]
+  },
+  "ar": {
+   "q": "مثلث قائم طولا ضلعيه القائمين 3 سم و4 سم. ما طول وتره؟",
+   "c": [
+    "5 سم",
+    "6 سم",
+    "7 سم",
+    "12 سم"
+   ]
+  },
+  "es": {
+   "q": "Un triángulo rectángulo tiene catetos de 3 cm y 4 cm. ¿Cuánto mide la hipotenusa?",
+   "c": [
+    "5 cm",
+    "6 cm",
+    "7 cm",
+    "12 cm"
+   ]
+  },
+  "pt": {
+   "q": "Um triângulo retângulo tem catetos de 3 cm e 4 cm. Quanto mede a hipotenusa?",
+   "c": [
+    "5 cm",
+    "6 cm",
+    "7 cm",
+    "12 cm"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quelle est la circonférence d'un cercle de diamètre 10 cm (π ≈ 3,14) ?",
+   "c": [
+    "15,7 cm",
+    "62,8 cm",
+    "31,4 cm",
+    "78,5 cm"
+   ]
+  },
+  "en": {
+   "q": "What is the circumference of a circle with diameter 10 cm (π ≈ 3.14)?",
+   "c": [
+    "15.7 cm",
+    "62.8 cm",
+    "31.4 cm",
+    "78.5 cm"
+   ]
+  },
+  "ar": {
+   "q": "ما محيط دائرة قطرها 10 سم (π ≈ 3.14)؟",
+   "c": [
+    "15.7 سم",
+    "62.8 سم",
+    "31.4 سم",
+    "78.5 سم"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la circunferencia de un círculo de diámetro 10 cm (π ≈ 3,14)?",
+   "c": [
+    "15,7 cm",
+    "62,8 cm",
+    "31,4 cm",
+    "78,5 cm"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a circunferência de um círculo de diâmetro 10 cm (π ≈ 3,14)?",
+   "c": [
+    "15,7 cm",
+    "62,8 cm",
+    "31,4 cm",
+    "78,5 cm"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quelle est la forme simplifiée de la fraction 12/18 ?",
+   "c": [
+    "1/2",
+    "3/4",
+    "2/3",
+    "4/5"
+   ]
+  },
+  "en": {
+   "q": "What is the simplest form of the fraction 12/18?",
+   "c": [
+    "1/2",
+    "3/4",
+    "2/3",
+    "4/5"
+   ]
+  },
+  "ar": {
+   "q": "ما أبسط صورة للكسر 12/18؟",
+   "c": [
+    "1/2",
+    "3/4",
+    "2/3",
+    "4/5"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la forma simplificada de la fracción 12/18?",
+   "c": [
+    "1/2",
+    "3/4",
+    "2/3",
+    "4/5"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a forma simplificada da fração 12/18?",
+   "c": [
+    "1/2",
+    "3/4",
+    "2/3",
+    "4/5"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "De quel pays viennent à l'origine les chiffres 0 à 9 que nous utilisons ?",
+   "c": [
+    "La Chine",
+    "La Grèce",
+    "L'Italie",
+    "L'Inde"
+   ]
+  },
+  "en": {
+   "q": "Which country did the digits 0 to 9 we use today originally come from?",
+   "c": [
+    "China",
+    "Greece",
+    "Italy",
+    "India"
+   ]
+  },
+  "ar": {
+   "q": "من أي بلد نشأت الأرقام من 0 إلى 9 التي نستخدمها اليوم؟",
+   "c": [
+    "الصين",
+    "اليونان",
+    "إيطاليا",
+    "الهند"
+   ]
+  },
+  "es": {
+   "q": "¿De qué país proceden originalmente los dígitos del 0 al 9 que usamos?",
+   "c": [
+    "China",
+    "Grecia",
+    "Italia",
+    "India"
+   ]
+  },
+  "pt": {
+   "q": "De que país vêm originalmente os algarismos de 0 a 9 que usamos?",
+   "c": [
+    "China",
+    "Grécia",
+    "Itália",
+    "Índia"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel est le volume d'un pavé de 5 cm sur 4 cm sur 3 cm ?",
+   "c": [
+    "45 cm³",
+    "12 cm³",
+    "72 cm³",
+    "60 cm³"
+   ]
+  },
+  "en": {
+   "q": "What is the volume of a box measuring 5 cm by 4 cm by 3 cm?",
+   "c": [
+    "45 cm³",
+    "12 cm³",
+    "72 cm³",
+    "60 cm³"
+   ]
+  },
+  "ar": {
+   "q": "ما حجم متوازي مستطيلات أبعاده 5 سم و4 سم و3 سم؟",
+   "c": [
+    "45 سم³",
+    "12 سم³",
+    "72 سم³",
+    "60 سم³"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el volumen de una caja de 5 cm por 4 cm por 3 cm?",
+   "c": [
+    "45 cm³",
+    "12 cm³",
+    "72 cm³",
+    "60 cm³"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o volume de uma caixa de 5 cm por 4 cm por 3 cm?",
+   "c": [
+    "45 cm³",
+    "12 cm³",
+    "72 cm³",
+    "60 cm³"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Combien de minutes y a-t-il dans 2 h 45 ?",
+   "c": [
+    "165",
+    "145",
+    "155",
+    "245"
+   ]
+  },
+  "en": {
+   "q": "How many minutes are there in 2 h 45 min?",
+   "c": [
+    "165",
+    "145",
+    "155",
+    "245"
+   ]
+  },
+  "ar": {
+   "q": "كم دقيقة في ساعتين و45 دقيقة؟",
+   "c": [
+    "165",
+    "145",
+    "155",
+    "245"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos minutos hay en 2 h 45 min?",
+   "c": [
+    "165",
+    "145",
+    "155",
+    "245"
+   ]
+  },
+  "pt": {
+   "q": "Quantos minutos há em 2 h 45 min?",
+   "c": [
+    "165",
+    "145",
+    "155",
+    "245"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quelle est la décomposition de 12 en facteurs premiers ?",
+   "c": [
+    "2 × 6",
+    "2² × 3",
+    "3 × 4",
+    "2 × 3²"
+   ]
+  },
+  "en": {
+   "q": "What is the prime factorization of 12?",
+   "c": [
+    "2 × 6",
+    "2² × 3",
+    "3 × 4",
+    "2 × 3²"
+   ]
+  },
+  "ar": {
+   "q": "ما تحليل العدد 12 إلى عوامله الأولية؟",
+   "c": [
+    "2 × 6",
+    "2² × 3",
+    "3 × 4",
+    "2 × 3²"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la descomposición de 12 en factores primos?",
+   "c": [
+    "2 × 6",
+    "2² × 3",
+    "3 × 4",
+    "2 × 3²"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a decomposição de 12 em fatores primos?",
+   "c": [
+    "2 × 6",
+    "2² × 3",
+    "3 × 4",
+    "2 × 3²"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel nombre suit dans la suite 1, 3, 6, 10 ?",
+   "c": [
+    "14",
+    "15",
+    "16",
+    "20"
+   ]
+  },
+  "en": {
+   "q": "What number comes next: 1, 3, 6, 10, ...?",
+   "c": [
+    "14",
+    "15",
+    "16",
+    "20"
+   ]
+  },
+  "ar": {
+   "q": "ما العدد التالي في المتتالية 1، 3، 6، 10؟",
+   "c": [
+    "14",
+    "15",
+    "16",
+    "20"
+   ]
+  },
+  "es": {
+   "q": "¿Qué número sigue: 1, 3, 6, 10?",
+   "c": [
+    "14",
+    "15",
+    "16",
+    "20"
+   ]
+  },
+  "pt": {
+   "q": "Qual número vem a seguir: 1, 3, 6, 10?",
+   "c": [
+    "14",
+    "15",
+    "16",
+    "20"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Sur une carte au 1/100000, 3 cm représentent quelle distance réelle ?",
+   "c": [
+    "300 m",
+    "3 km",
+    "30 km",
+    "300 km"
+   ]
+  },
+  "en": {
+   "q": "On a 1/100000 scale map, 3 cm represent what real distance?",
+   "c": [
+    "300 m",
+    "3 km",
+    "30 km",
+    "300 km"
+   ]
+  },
+  "ar": {
+   "q": "على خريطة مقياسها 1/100000، 3 سم تمثل أي مسافة حقيقية؟",
+   "c": [
+    "300 م",
+    "3 كم",
+    "30 كم",
+    "300 كم"
+   ]
+  },
+  "es": {
+   "q": "En un mapa a escala 1/100000, ¿qué distancia real representan 3 cm?",
+   "c": [
+    "300 m",
+    "3 km",
+    "30 km",
+    "300 km"
+   ]
+  },
+  "pt": {
+   "q": "Num mapa à escala 1/100000, que distância real representam 3 cm?",
+   "c": [
+    "300 m",
+    "3 km",
+    "30 km",
+    "300 km"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Combien font (-2) × (-6) ?",
+   "c": [
+    "-12",
+    "-8",
+    "8",
+    "12"
+   ]
+  },
+  "en": {
+   "q": "What is (-2) × (-6)?",
+   "c": [
+    "-12",
+    "-8",
+    "8",
+    "12"
+   ]
+  },
+  "ar": {
+   "q": "ما ناتج (-2) × (-6)؟",
+   "c": [
+    "-12",
+    "-8",
+    "8",
+    "12"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es (-2) × (-6)?",
+   "c": [
+    "-12",
+    "-8",
+    "8",
+    "12"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é (-2) × (-6)?",
+   "c": [
+    "-12",
+    "-8",
+    "8",
+    "12"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel est le quart de 0,8 ?",
+   "c": [
+    "0,02",
+    "0,4",
+    "0,2",
+    "2"
+   ]
+  },
+  "en": {
+   "q": "What is a quarter of 0.8?",
+   "c": [
+    "0.02",
+    "0.4",
+    "0.2",
+    "2"
+   ]
+  },
+  "ar": {
+   "q": "ما هو ربع 0.8؟",
+   "c": [
+    "0.02",
+    "0.4",
+    "0.2",
+    "2"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la cuarta parte de 0,8?",
+   "c": [
+    "0,02",
+    "0,4",
+    "0,2",
+    "2"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a quarta parte de 0,8?",
+   "c": [
+    "0,02",
+    "0,4",
+    "0,2",
+    "2"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Un prix passe de 50 € à 40 €. De quel pourcentage a-t-il baissé ?",
+   "c": [
+    "20 %",
+    "10 %",
+    "25 %",
+    "80 %"
+   ]
+  },
+  "en": {
+   "q": "A price drops from €50 to €40. By what percentage did it fall?",
+   "c": [
+    "20 %",
+    "10 %",
+    "25 %",
+    "80 %"
+   ]
+  },
+  "ar": {
+   "q": "انخفض سعر من 50 € إلى 40 €. ما نسبة الانخفاض المئوية؟",
+   "c": [
+    "20 %",
+    "10 %",
+    "25 %",
+    "80 %"
+   ]
+  },
+  "es": {
+   "q": "Un precio baja de 50 € a 40 €. ¿Qué porcentaje ha bajado?",
+   "c": [
+    "20 %",
+    "10 %",
+    "25 %",
+    "80 %"
+   ]
+  },
+  "pt": {
+   "q": "Um preço desce de 50 € para 40 €. Que porcentagem baixou?",
+   "c": [
+    "20 %",
+    "10 %",
+    "25 %",
+    "80 %"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Combien font 1/2 + 1/3 ?",
+   "c": [
+    "5/6",
+    "2/5",
+    "2/6",
+    "1/6"
+   ]
+  },
+  "en": {
+   "q": "What is 1/2 + 1/3?",
+   "c": [
+    "5/6",
+    "2/5",
+    "2/6",
+    "1/6"
+   ]
+  },
+  "ar": {
+   "q": "ما ناتج 1/2 + 1/3؟",
+   "c": [
+    "5/6",
+    "2/5",
+    "2/6",
+    "1/6"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto es 1/2 + 1/3?",
+   "c": [
+    "5/6",
+    "2/5",
+    "2/6",
+    "1/6"
+   ]
+  },
+  "pt": {
+   "q": "Quanto é 1/2 + 1/3?",
+   "c": [
+    "5/6",
+    "2/5",
+    "2/6",
+    "1/6"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Une veste à 120 € est soldée de 15 %. Quel est son nouveau prix ?",
+   "c": [
+    "105 €",
+    "102 €",
+    "108 €",
+    "135 €"
+   ]
+  },
+  "en": {
+   "q": "A €120 jacket is marked down by 15%. What is its new price?",
+   "c": [
+    "105 €",
+    "102 €",
+    "108 €",
+    "135 €"
+   ]
+  },
+  "ar": {
+   "q": "معطف سعره 120 € خُفّض بنسبة 15%. ما سعره الجديد؟",
+   "c": [
+    "105 €",
+    "102 €",
+    "108 €",
+    "135 €"
+   ]
+  },
+  "es": {
+   "q": "Una chaqueta de 120 € tiene un 15 % de descuento. ¿Cuál es su nuevo precio?",
+   "c": [
+    "105 €",
+    "102 €",
+    "108 €",
+    "135 €"
+   ]
+  },
+  "pt": {
+   "q": "Um casaco de 120 € tem 15% de desconto. Qual é o novo preço?",
+   "c": [
+    "105 €",
+    "102 €",
+    "108 €",
+    "135 €"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Combien de diagonales a un pentagone ?",
+   "c": [
+    "4",
+    "10",
+    "6",
+    "5"
+   ]
+  },
+  "en": {
+   "q": "How many diagonals does a pentagon have?",
+   "c": [
+    "4",
+    "10",
+    "6",
+    "5"
+   ]
+  },
+  "ar": {
+   "q": "كم قطرًا للمخمس؟",
+   "c": [
+    "4",
+    "10",
+    "6",
+    "5"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántas diagonales tiene un pentágono?",
+   "c": [
+    "4",
+    "10",
+    "6",
+    "5"
+   ]
+  },
+  "pt": {
+   "q": "Quantas diagonais tem um pentágono?",
+   "c": [
+    "4",
+    "10",
+    "6",
+    "5"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quel est le seul nombre premier pair ?",
+   "c": [
+    "2",
+    "1",
+    "4",
+    "8"
+   ]
+  },
+  "en": {
+   "q": "What is the only even prime number?",
+   "c": [
+    "2",
+    "1",
+    "4",
+    "8"
+   ]
+  },
+  "ar": {
+   "q": "ما هو العدد الأولي الزوجي الوحيد؟",
+   "c": [
+    "2",
+    "1",
+    "4",
+    "8"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el único número primo par?",
+   "c": [
+    "2",
+    "1",
+    "4",
+    "8"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o único número primo par?",
+   "c": [
+    "2",
+    "1",
+    "4",
+    "8"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quelle est la racine carrée de 144 ?",
+   "c": [
+    "14",
+    "16",
+    "72",
+    "12"
+   ]
+  },
+  "en": {
+   "q": "What is the square root of 144?",
+   "c": [
+    "14",
+    "16",
+    "72",
+    "12"
+   ]
+  },
+  "ar": {
+   "q": "ما الجذر التربيعي للعدد 144؟",
+   "c": [
+    "14",
+    "16",
+    "72",
+    "12"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la raíz cuadrada de 144?",
+   "c": [
+    "14",
+    "16",
+    "72",
+    "12"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a raiz quadrada de 144?",
+   "c": [
+    "14",
+    "16",
+    "72",
+    "12"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Si 2(x + 3) = 14, quelle est la valeur de x ?",
+   "c": [
+    "5",
+    "7",
+    "4",
+    "11"
+   ]
+  },
+  "en": {
+   "q": "If 2(x + 3) = 14, what is x?",
+   "c": [
+    "5",
+    "7",
+    "4",
+    "11"
+   ]
+  },
+  "ar": {
+   "q": "إذا كان 2(x + 3) = 14، فما قيمة x؟",
+   "c": [
+    "5",
+    "7",
+    "4",
+    "11"
+   ]
+  },
+  "es": {
+   "q": "Si 2(x + 3) = 14, ¿cuánto vale x?",
+   "c": [
+    "5",
+    "7",
+    "4",
+    "11"
+   ]
+  },
+  "pt": {
+   "q": "Se 2(x + 3) = 14, qual é o valor de x?",
+   "c": [
+    "5",
+    "7",
+    "4",
+    "11"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Dans un jeu de 52 cartes, quelle est la probabilité de tirer un as ?",
+   "c": [
+    "1/4",
+    "1/26",
+    "1/13",
+    "1/52"
+   ]
+  },
+  "en": {
+   "q": "In a 52-card deck, what is the probability of drawing an ace?",
+   "c": [
+    "1/4",
+    "1/26",
+    "1/13",
+    "1/52"
+   ]
+  },
+  "ar": {
+   "q": "في مجموعة من 52 ورقة لعب، ما احتمال سحب آس؟",
+   "c": [
+    "1/4",
+    "1/26",
+    "1/13",
+    "1/52"
+   ]
+  },
+  "es": {
+   "q": "En una baraja de 52 cartas, ¿cuál es la probabilidad de sacar un as?",
+   "c": [
+    "1/4",
+    "1/26",
+    "1/13",
+    "1/52"
+   ]
+  },
+  "pt": {
+   "q": "Num baralho de 52 cartas, qual é a probabilidade de tirar um ás?",
+   "c": [
+    "1/4",
+    "1/26",
+    "1/13",
+    "1/52"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quel savant de Bagdad, au IXe siècle, a donné son nom au mot « algorithme » ?",
+   "c": [
+    "Euclide",
+    "Fibonacci",
+    "Descartes",
+    "Al-Khwarizmi"
+   ]
+  },
+  "en": {
+   "q": "Which 9th-century scholar from Baghdad gave his name to the word 'algorithm'?",
+   "c": [
+    "Euclid",
+    "Fibonacci",
+    "Descartes",
+    "Al-Khwarizmi"
+   ]
+  },
+  "ar": {
+   "q": "أي عالم من بغداد في القرن التاسع الميلادي اشتُقّ اسم «الخوارزمية» من اسمه؟",
+   "c": [
+    "إقليدس",
+    "فيبوناتشي",
+    "ديكارت",
+    "الخوارزمي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué sabio de Bagdad del siglo IX dio nombre a la palabra «algoritmo»?",
+   "c": [
+    "Euclides",
+    "Fibonacci",
+    "Descartes",
+    "Al-Juarismi"
+   ]
+  },
+  "pt": {
+   "q": "Que sábio de Bagdá do século IX deu o nome à palavra «algoritmo»?",
+   "c": [
+    "Euclides",
+    "Fibonacci",
+    "Descartes",
+    "Al-Khwarizmi"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quelle est l'aire d'un parallélogramme de base 8 cm et de hauteur 5 cm ?",
+   "c": [
+    "13 cm²",
+    "26 cm²",
+    "40 cm²",
+    "80 cm²"
+   ]
+  },
+  "en": {
+   "q": "What is the area of a parallelogram with base 8 cm and height 5 cm?",
+   "c": [
+    "13 cm²",
+    "26 cm²",
+    "40 cm²",
+    "80 cm²"
+   ]
+  },
+  "ar": {
+   "q": "ما مساحة متوازي أضلاع قاعدته 8 سم وارتفاعه 5 سم؟",
+   "c": [
+    "13 سم²",
+    "26 سم²",
+    "40 سم²",
+    "80 سم²"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el área de un paralelogramo de base 8 cm y altura 5 cm?",
+   "c": [
+    "13 cm²",
+    "26 cm²",
+    "40 cm²",
+    "80 cm²"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a área de um paralelogramo de base 8 cm e altura 5 cm?",
+   "c": [
+    "13 cm²",
+    "26 cm²",
+    "40 cm²",
+    "80 cm²"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Si -2x = 10, quelle est la valeur de x ?",
+   "c": [
+    "-5",
+    "5",
+    "-8",
+    "8"
+   ]
+  },
+  "en": {
+   "q": "If -2x = 10, what is x?",
+   "c": [
+    "-5",
+    "5",
+    "-8",
+    "8"
+   ]
+  },
+  "ar": {
+   "q": "إذا كان -2x = 10، فما قيمة x؟",
+   "c": [
+    "-5",
+    "5",
+    "-8",
+    "8"
+   ]
+  },
+  "es": {
+   "q": "Si -2x = 10, ¿cuánto vale x?",
+   "c": [
+    "-5",
+    "5",
+    "-8",
+    "8"
+   ]
+  },
+  "pt": {
+   "q": "Se -2x = 10, qual é o valor de x?",
+   "c": [
+    "-5",
+    "5",
+    "-8",
+    "8"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Suite arithmétique de premier terme 4 et de raison 3 : quel est le 5e terme ?",
+   "c": [
+    "15",
+    "16",
+    "19",
+    "20"
+   ]
+  },
+  "en": {
+   "q": "An arithmetic sequence has first term 4 and common difference 3. What is the 5th term?",
+   "c": [
+    "15",
+    "16",
+    "19",
+    "20"
+   ]
+  },
+  "ar": {
+   "q": "متتالية حسابية حدها الأول 4 وأساسها 3. ما الحد الخامس؟",
+   "c": [
+    "15",
+    "16",
+    "19",
+    "20"
+   ]
+  },
+  "es": {
+   "q": "Una sucesión aritmética tiene primer término 4 y razón 3. ¿Cuál es el 5.º término?",
+   "c": [
+    "15",
+    "16",
+    "19",
+    "20"
+   ]
+  },
+  "pt": {
+   "q": "Uma sequência aritmética tem primeiro termo 4 e razão 3. Qual é o 5.º termo?",
+   "c": [
+    "15",
+    "16",
+    "19",
+    "20"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quelle est l'aire d'un triangle rectangle dont les côtés de l'angle droit mesurent 6 cm et 8 cm ?",
+   "c": [
+    "48 cm²",
+    "24 cm²",
+    "14 cm²",
+    "10 cm²"
+   ]
+  },
+  "en": {
+   "q": "What is the area of a right triangle whose legs measure 6 cm and 8 cm?",
+   "c": [
+    "48 cm²",
+    "24 cm²",
+    "14 cm²",
+    "10 cm²"
+   ]
+  },
+  "ar": {
+   "q": "ما مساحة مثلث قائم طولا ضلعيه القائمين 6 سم و8 سم؟",
+   "c": [
+    "48 سم²",
+    "24 سم²",
+    "14 سم²",
+    "10 سم²"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el área de un triángulo rectángulo con catetos de 6 cm y 8 cm?",
+   "c": [
+    "48 cm²",
+    "24 cm²",
+    "14 cm²",
+    "10 cm²"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a área de um triângulo retângulo com catetos de 6 cm e 8 cm?",
+   "c": [
+    "48 cm²",
+    "24 cm²",
+    "14 cm²",
+    "10 cm²"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
    "q": "Combien font 15 % de 200 ?",
    "c": [
     "20",
@@ -6408,7 +9408,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6458,7 +9458,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6508,7 +9508,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6558,7 +9558,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6608,7 +9608,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6658,7 +9658,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6708,7 +9708,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6758,7 +9758,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6808,7 +9808,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6858,11 +9858,11 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "type": "match",
-  "level": 13,
+  "level": 18,
   "image": null,
   "a": 0,
   "fr": {
@@ -6973,7 +9973,7 @@
  },
  {
   "type": "number",
-  "level": 13,
+  "level": 18,
   "image": null,
   "a": 3.14,
   "min": 3,
@@ -7044,7 +10044,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7094,7 +10094,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7144,7 +10144,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7194,7 +10194,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7244,7 +10244,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7294,7 +10294,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7344,7 +10344,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7394,7 +10394,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7444,7 +10444,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7494,7 +10494,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7544,7 +10544,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7594,7 +10594,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7644,7 +10644,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7694,7 +10694,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7744,7 +10744,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7794,11 +10794,11 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "type": "order",
-  "level": 14,
+  "level": 19,
   "image": null,
   "a": 0,
   "fr": {
@@ -7895,7 +10895,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7945,7 +10945,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7995,7 +10995,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8045,7 +11045,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8095,7 +11095,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8145,7 +11145,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8195,7 +11195,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8245,7 +11245,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8295,7 +11295,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8345,7 +11345,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8395,7 +11395,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8445,7 +11445,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8495,7 +11495,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8545,7 +11545,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8595,7 +11595,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8645,7 +11645,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8696,7 +11696,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8746,7 +11746,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -8796,7 +11796,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -8846,7 +11846,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -8896,7 +11896,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -8946,7 +11946,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -8996,7 +11996,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9046,7 +12046,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9096,7 +12096,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9146,7 +12146,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9196,7 +12196,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -9246,7 +12246,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -9296,7 +12296,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -9346,7 +12346,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -9396,7 +12396,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -9446,11 +12446,11 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "type": "order",
-  "level": 16,
+  "level": 21,
   "image": null,
   "a": 0,
   "fr": {
@@ -9547,7 +12547,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -9597,7 +12597,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -9647,7 +12647,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -9697,7 +12697,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -9747,7 +12747,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -9797,7 +12797,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -9847,7 +12847,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -9897,7 +12897,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -9947,7 +12947,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -9997,7 +12997,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10047,7 +13047,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -10097,7 +13097,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -10147,7 +13147,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -10197,7 +13197,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -10247,7 +13247,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -10297,7 +13297,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10347,7 +13347,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10397,7 +13397,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10447,7 +13447,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10497,7 +13497,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10547,7 +13547,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10597,7 +13597,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10647,7 +13647,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10697,7 +13697,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10747,7 +13747,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10797,7 +13797,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10847,7 +13847,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -10897,7 +13897,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -10947,7 +13947,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -10997,7 +13997,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11047,7 +14047,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11097,7 +14097,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11147,7 +14147,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11197,7 +14197,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11247,7 +14247,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11297,7 +14297,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11347,7 +14347,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -11397,7 +14397,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -11447,7 +14447,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -11497,7 +14497,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -11547,7 +14547,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -11597,7 +14597,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -11647,7 +14647,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -11697,7 +14697,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -11747,7 +14747,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -11797,6 +14797,6 @@
   },
   "a": 2,
   "image": null,
-  "level": 20
+  "level": 25
  }
 ]

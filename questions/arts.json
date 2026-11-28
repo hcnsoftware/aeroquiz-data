@@ -6437,6 +6437,3006 @@
  },
  {
   "en": {
+   "q": "Who wrote 'Alice's Adventures in Wonderland'?",
+   "c": [
+    "Charles Perrault",
+    "J.R.R. Tolkien",
+    "Lewis Carroll",
+    "Roald Dahl"
+   ]
+  },
+  "fr": {
+   "q": "Qui a écrit « Alice au pays des merveilles » ?",
+   "c": [
+    "Charles Perrault",
+    "J.R.R. Tolkien",
+    "Lewis Carroll",
+    "Roald Dahl"
+   ]
+  },
+  "es": {
+   "q": "¿Quién escribió «Alicia en el país de las maravillas»?",
+   "c": [
+    "Charles Perrault",
+    "J.R.R. Tolkien",
+    "Lewis Carroll",
+    "Roald Dahl"
+   ]
+  },
+  "pt": {
+   "q": "Quem escreveu «Alice no País das Maravilhas»?",
+   "c": [
+    "Charles Perrault",
+    "J.R.R. Tolkien",
+    "Lewis Carroll",
+    "Roald Dahl"
+   ]
+  },
+  "ar": {
+   "q": "من كتب «مغامرات أليس في بلاد العجائب»؟",
+   "c": [
+    "شارل بيرو",
+    "ج.ر.ر. تولكين",
+    "لويس كارول",
+    "رولد دال"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "en": {
+   "q": "Which Japanese animation studio made 'Spirited Away'?",
+   "c": [
+    "DreamWorks",
+    "Studio Ghibli",
+    "Blue Sky",
+    "Pixar"
+   ]
+  },
+  "fr": {
+   "q": "Quel studio d'animation japonais a réalisé « Le Voyage de Chihiro » ?",
+   "c": [
+    "DreamWorks",
+    "Studio Ghibli",
+    "Blue Sky",
+    "Pixar"
+   ]
+  },
+  "es": {
+   "q": "¿Qué estudio de animación japonés hizo «El viaje de Chihiro»?",
+   "c": [
+    "DreamWorks",
+    "Studio Ghibli",
+    "Blue Sky",
+    "Pixar"
+   ]
+  },
+  "pt": {
+   "q": "Qual estúdio de animação japonês fez «A Viagem de Chihiro»?",
+   "c": [
+    "DreamWorks",
+    "Studio Ghibli",
+    "Blue Sky",
+    "Pixar"
+   ]
+  },
+  "ar": {
+   "q": "أي استوديو رسوم متحركة ياباني أنتج «المخطوفة»؟",
+   "c": [
+    "دريم ووركس",
+    "ستوديو غيبلي",
+    "بلو سكاي",
+    "بيكسار"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "en": {
+   "q": "Which country is famous for samba and its huge carnival in Rio?",
+   "c": [
+    "Brazil",
+    "Mexico",
+    "Argentina",
+    "Colombia"
+   ]
+  },
+  "fr": {
+   "q": "Quel pays est célèbre pour la samba et son immense carnaval à Rio ?",
+   "c": [
+    "Brésil",
+    "Mexique",
+    "Argentine",
+    "Colombie"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país es famoso por la samba y su enorme carnaval en Río?",
+   "c": [
+    "Brasil",
+    "México",
+    "Argentina",
+    "Colombia"
+   ]
+  },
+  "pt": {
+   "q": "Qual país é famoso pela samba e seu enorme carnaval no Rio?",
+   "c": [
+    "Brasil",
+    "México",
+    "Argentina",
+    "Colômbia"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد يشتهر بالسامبا وكرنفاله الضخم في ريو؟",
+   "c": [
+    "البرازيل",
+    "المكسيك",
+    "الأرجنتين",
+    "كولومبيا"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "en": {
+   "q": "In Pixar's 'Coco', which Mexican festival is celebrated?",
+   "c": [
+    "Day of the Dead",
+    "Thanksgiving",
+    "Christmas",
+    "Carnival"
+   ]
+  },
+  "fr": {
+   "q": "Dans « Coco » de Pixar, quelle fête mexicaine est célébrée ?",
+   "c": [
+    "Jour des morts",
+    "Thanksgiving",
+    "Noël",
+    "Carnaval"
+   ]
+  },
+  "es": {
+   "q": "En «Coco» de Pixar, ¿qué fiesta mexicana se celebra?",
+   "c": [
+    "Día de Muertos",
+    "Acción de Gracias",
+    "Navidad",
+    "Carnaval"
+   ]
+  },
+  "pt": {
+   "q": "Em «Viva — A Vida é uma Festa» da Pixar, qual festa mexicana é celebrada?",
+   "c": [
+    "Dia de Finados",
+    "Ação de Graças",
+    "Natal",
+    "Carnaval"
+   ]
+  },
+  "ar": {
+   "q": "في فيلم «كوكو» من بيكسار، أي عيد مكسيكي يُحتفل به؟",
+   "c": [
+    "يوم الموتى",
+    "عيد الشكر",
+    "عيد الميلاد",
+    "الكرنفال"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "en": {
+   "q": "Which singer released the hit 'Shake It Off'?",
+   "c": [
+    "Dua Lipa",
+    "Katy Perry",
+    "Ariana Grande",
+    "Taylor Swift"
+   ]
+  },
+  "fr": {
+   "q": "Quelle chanteuse a sorti le tube « Shake It Off » ?",
+   "c": [
+    "Dua Lipa",
+    "Katy Perry",
+    "Ariana Grande",
+    "Taylor Swift"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cantante lanzó el éxito «Shake It Off»?",
+   "c": [
+    "Dua Lipa",
+    "Katy Perry",
+    "Ariana Grande",
+    "Taylor Swift"
+   ]
+  },
+  "pt": {
+   "q": "Qual cantora lançou o sucesso «Shake It Off»?",
+   "c": [
+    "Dua Lipa",
+    "Katy Perry",
+    "Ariana Grande",
+    "Taylor Swift"
+   ]
+  },
+  "ar": {
+   "q": "أي مغنية أصدرت أغنية «Shake It Off»؟",
+   "c": [
+    "دوا ليبا",
+    "كيتي بيري",
+    "أريانا غراندي",
+    "تايلور سويفت"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "en": {
+   "q": "Which Caribbean island is the birthplace of reggae?",
+   "c": [
+    "Puerto Rico",
+    "Jamaica",
+    "Haiti",
+    "Cuba"
+   ]
+  },
+  "fr": {
+   "q": "Quelle île des Caraïbes est le berceau du reggae ?",
+   "c": [
+    "Porto Rico",
+    "Jamaïque",
+    "Haïti",
+    "Cuba"
+   ]
+  },
+  "es": {
+   "q": "¿Qué isla del Caribe es la cuna del reggae?",
+   "c": [
+    "Puerto Rico",
+    "Jamaica",
+    "Haití",
+    "Cuba"
+   ]
+  },
+  "pt": {
+   "q": "Qual ilha do Caribe é o berço do reggae?",
+   "c": [
+    "Porto Rico",
+    "Jamaica",
+    "Haiti",
+    "Cuba"
+   ]
+  },
+  "ar": {
+   "q": "أي جزيرة كاريبية هي مهد موسيقى الريغي؟",
+   "c": [
+    "بورتوريكو",
+    "جامايكا",
+    "هايتي",
+    "كوبا"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "en": {
+   "q": "Who is the villain in Disney's 'The Lion King'?",
+   "c": [
+    "Mufasa",
+    "Rafiki",
+    "Timon",
+    "Scar"
+   ]
+  },
+  "fr": {
+   "q": "Qui est le méchant dans « Le Roi lion » de Disney ?",
+   "c": [
+    "Mufasa",
+    "Rafiki",
+    "Timon",
+    "Scar"
+   ]
+  },
+  "es": {
+   "q": "¿Quién es el villano en «El rey león» de Disney?",
+   "c": [
+    "Mufasa",
+    "Rafiki",
+    "Timon",
+    "Scar"
+   ]
+  },
+  "pt": {
+   "q": "Quem é o vilão em «O Rei Leão» da Disney?",
+   "c": [
+    "Mufasa",
+    "Rafiki",
+    "Timon",
+    "Scar"
+   ]
+  },
+  "ar": {
+   "q": "من هو الشرير في فيلم «الأسد الملك» من ديزني؟",
+   "c": [
+    "موفاسا",
+    "رافيكي",
+    "تيمون",
+    "سكار"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "en": {
+   "q": "Which country is the didgeridoo originally from?",
+   "c": [
+    "Mongolia",
+    "Peru",
+    "Norway",
+    "Australia"
+   ]
+  },
+  "fr": {
+   "q": "De quel pays l'instrument didgeridoo est-il originaire ?",
+   "c": [
+    "Mongolie",
+    "Pérou",
+    "Norvège",
+    "Australie"
+   ]
+  },
+  "es": {
+   "q": "¿De qué país es originario el didgeridoo?",
+   "c": [
+    "Mongolia",
+    "Perú",
+    "Noruega",
+    "Australia"
+   ]
+  },
+  "pt": {
+   "q": "De qual país é originário o didgeridoo?",
+   "c": [
+    "Mongólia",
+    "Peru",
+    "Noruega",
+    "Austália"
+   ]
+  },
+  "ar": {
+   "q": "من أي بلد ينحدر آلة الديجيريدو؟",
+   "c": [
+    "منغوليا",
+    "بيرو",
+    "النرويج",
+    "أستراليا"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "en": {
+   "q": "Which martial arts actor stars in the 'Rush Hour' films?",
+   "c": [
+    "Chow Yun-fat",
+    "Bruce Lee",
+    "Jackie Chan",
+    "Jet Li"
+   ]
+  },
+  "fr": {
+   "q": "Quel acteur d'arts martiaux joue dans les films « Rush Hour » ?",
+   "c": [
+    "Chow Yun-fat",
+    "Bruce Lee",
+    "Jackie Chan",
+    "Jet Li"
+   ]
+  },
+  "es": {
+   "q": "¿Qué actor de artes marciales protagoniza «Hora punta»?",
+   "c": [
+    "Chow Yun-fat",
+    "Bruce Lee",
+    "Jackie Chan",
+    "Jet Li"
+   ]
+  },
+  "pt": {
+   "q": "Qual ator de artes marciais estrela «A Hora do Rush»?",
+   "c": [
+    "Chow Yun-fat",
+    "Bruce Lee",
+    "Jackie Chan",
+    "Jet Li"
+   ]
+  },
+  "ar": {
+   "q": "أي ممثل فنون قتالية يشارك في أفلام «Rush Hour»؟",
+   "c": [
+    "تشو يون فات",
+    "بروس لي",
+    "جاكي شان",
+    "جيت لي"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "en": {
+   "q": "Which country is the home of K-pop?",
+   "c": [
+    "South Korea",
+    "Vietnam",
+    "Thailand",
+    "Philippines"
+   ]
+  },
+  "fr": {
+   "q": "Quel pays est la patrie de la K-pop ?",
+   "c": [
+    "Corée du Sud",
+    "Viêt Nam",
+    "Thaïlande",
+    "Philippines"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país es la cuna del K-pop?",
+   "c": [
+    "Corea del Sur",
+    "Vietnam",
+    "Tailandia",
+    "Filipinas"
+   ]
+  },
+  "pt": {
+   "q": "Qual país é a casa do K-pop?",
+   "c": [
+    "Coreia do Sul",
+    "Vietnã",
+    "Tailândia",
+    "Filipinas"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد هو موطن موسيقى الكيبوب؟",
+   "c": [
+    "كوريا الجنوبية",
+    "فيتنام",
+    "تايلاند",
+    "الفلبين"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "en": {
+   "q": "Which country is the balalaika, a triangular string instrument, from?",
+   "c": [
+    "Hungary",
+    "Portugal",
+    "Russia",
+    "Egypt"
+   ]
+  },
+  "fr": {
+   "q": "De quel pays vient la balalaïka, instrument à cordes triangulaire ?",
+   "c": [
+    "Hongrie",
+    "Portugal",
+    "Russie",
+    "Égypte"
+   ]
+  },
+  "es": {
+   "q": "¿De qué país es la balalaika, un instrumento de cuerda triangular?",
+   "c": [
+    "Hungría",
+    "Portugal",
+    "Rusia",
+    "Egipto"
+   ]
+  },
+  "pt": {
+   "q": "De qual país é a balalaica, instrumento de cordas triangular?",
+   "c": [
+    "Hungria",
+    "Portugal",
+    "Rússia",
+    "Egito"
+   ]
+  },
+  "ar": {
+   "q": "من أي بلد جاءت البالالايكا، الآلة الوترية المثلثة؟",
+   "c": [
+    "المجر",
+    "البرتغال",
+    "روسيا",
+    "مصر"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "en": {
+   "q": "Which small wooden clappers do flamenco dancers click in their hands?",
+   "c": [
+    "Tambourine",
+    "Castanets",
+    "Triangle",
+    "Maracas"
+   ]
+  },
+  "fr": {
+   "q": "Quels petits claquoirs en bois les danseurs de flamenco font-ils claquer ?",
+   "c": [
+    "Tambourin",
+    "Castagnettes",
+    "Triangle",
+    "Maracas"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pequeños instrumentos de madera hacen sonar los bailaores de flamenco?",
+   "c": [
+    "Pandereta",
+    "Castañuelas",
+    "Triángulo",
+    "Maracas"
+   ]
+  },
+  "pt": {
+   "q": "Quais pequenos instrumentos de madeira os dançarinos de flamenco fazem soar?",
+   "c": [
+    "Pandeiro",
+    "Castanholas",
+    "Triângulo",
+    "Maracas"
+   ]
+  },
+  "ar": {
+   "q": "ما الآلة الخشبية الصغيرة التي ينقر بها راقصو الفلامنكو بأيديهم؟",
+   "c": [
+    "الدف",
+    "الكاستانيت",
+    "المثلث",
+    "الماراكاس"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "en": {
+   "q": "Who wrote 'The Adventures of Tom Sawyer'?",
+   "c": [
+    "Mark Twain",
+    "Edgar Allan Poe",
+    "Charles Dickens",
+    "Ernest Hemingway"
+   ]
+  },
+  "fr": {
+   "q": "Qui a écrit « Les Aventures de Tom Sawyer » ?",
+   "c": [
+    "Mark Twain",
+    "Edgar Allan Poe",
+    "Charles Dickens",
+    "Ernest Hemingway"
+   ]
+  },
+  "es": {
+   "q": "¿Quién escribió «Las aventuras de Tom Sawyer»?",
+   "c": [
+    "Mark Twain",
+    "Edgar Allan Poe",
+    "Charles Dickens",
+    "Ernest Hemingway"
+   ]
+  },
+  "pt": {
+   "q": "Quem escreveu «As Aventuras de Tom Sawyer»?",
+   "c": [
+    "Mark Twain",
+    "Edgar Allan Poe",
+    "Charles Dickens",
+    "Ernest Hemingway"
+   ]
+  },
+  "ar": {
+   "q": "من كتب «مغامرات توم سوير»؟",
+   "c": [
+    "مارك توين",
+    "إدغار آلان بو",
+    "تشارلز ديكنز",
+    "إرنست همنغواي"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "en": {
+   "q": "Which Colombian singer performed 'Waka Waka'?",
+   "c": [
+    "Beyoncé",
+    "Adele",
+    "Shakira",
+    "Rihanna"
+   ]
+  },
+  "fr": {
+   "q": "Quelle chanteuse colombienne a interprété « Waka Waka » ?",
+   "c": [
+    "Beyoncé",
+    "Adele",
+    "Shakira",
+    "Rihanna"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cantante colombiana interpretó «Waka Waka»?",
+   "c": [
+    "Beyoncé",
+    "Adele",
+    "Shakira",
+    "Rihanna"
+   ]
+  },
+  "pt": {
+   "q": "Qual cantora colombiana interpretou «Waka Waka»?",
+   "c": [
+    "Beyoncé",
+    "Adele",
+    "Shakira",
+    "Rihanna"
+   ]
+  },
+  "ar": {
+   "q": "أي مغنية كولومبية أدت أغنية «واكا واكا»؟",
+   "c": [
+    "بيونسيه",
+    "أديل",
+    "شاكيرا",
+    "ريهانا"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "en": {
+   "q": "Which country is the sitar traditionally from?",
+   "c": [
+    "Japan",
+    "Finland",
+    "India",
+    "Peru"
+   ]
+  },
+  "fr": {
+   "q": "De quel pays la cithare sitar est-elle originaire ?",
+   "c": [
+    "Japon",
+    "Finlande",
+    "Inde",
+    "Pérou"
+   ]
+  },
+  "es": {
+   "q": "¿De qué país es tradicional el sitar?",
+   "c": [
+    "Japón",
+    "Finlandia",
+    "India",
+    "Perú"
+   ]
+  },
+  "pt": {
+   "q": "De qual país é tradicional o sitar?",
+   "c": [
+    "Japão",
+    "Finlândia",
+    "Índia",
+    "Peru"
+   ]
+  },
+  "ar": {
+   "q": "من أي بلد ينحدر آلة السيتار تقليديا؟",
+   "c": [
+    "اليابان",
+    "فنلندا",
+    "الهند",
+    "بيرو"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "en": {
+   "q": "The haka, a war dance, is a tradition of which country?",
+   "c": [
+    "Chile",
+    "Canada",
+    "South Africa",
+    "New Zealand"
+   ]
+  },
+  "fr": {
+   "q": "Le haka, une danse guerrière, est une tradition de quel pays ?",
+   "c": [
+    "Chili",
+    "Canada",
+    "Afrique du Sud",
+    "Nouvelle-Zélande"
+   ]
+  },
+  "es": {
+   "q": "El haka, una danza guerrera, es una tradición de qué país?",
+   "c": [
+    "Chile",
+    "Canadá",
+    "Sudáfrica",
+    "Nueva Zelanda"
+   ]
+  },
+  "pt": {
+   "q": "O haka, uma dança guerreira, é uma tradição de qual país?",
+   "c": [
+    "Chile",
+    "Canadá",
+    "África do Sul",
+    "Nova Zelândia"
+   ]
+  },
+  "ar": {
+   "q": "الهاكا، رقصة حربية، تقليد لأي بلد؟",
+   "c": [
+    "تشيلي",
+    "كندا",
+    "جنوب أفريقيا",
+    "نيوزيلندا"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "en": {
+   "q": "Which Pixar film takes place inside a girl's mind, with Joy and Sadness?",
+   "c": [
+    "Up",
+    "Soul",
+    "Brave",
+    "Inside Out"
+   ]
+  },
+  "fr": {
+   "q": "Quel film Pixar se passe dans la tête d'une fille, avec Joie et Tristesse ?",
+   "c": [
+    "Là-haut",
+    "Soul",
+    "Rebelle",
+    "Vice-versa"
+   ]
+  },
+  "es": {
+   "q": "¿Qué película de Pixar transcurre en la mente de una niña, con Alegría y Tristeza?",
+   "c": [
+    "Up",
+    "Soul",
+    "Valiente",
+    "Del revés"
+   ]
+  },
+  "pt": {
+   "q": "Qual filme da Pixar se passa na mente de uma menina, com Alegria e Tristeza?",
+   "c": [
+    "Up – Altas Aventuras",
+    "Soul",
+    "Valente",
+    "Divertida Mente"
+   ]
+  },
+  "ar": {
+   "q": "أي فيلم من بيكسار تدور أحداثه داخل عقل فتاة مع الفرح والحزن؟",
+   "c": [
+    "أب",
+    "سول",
+    "شجاعة",
+    "إنسايد أوت"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "en": {
+   "q": "Which Brazilian music style gave us 'The Girl from Ipanema'?",
+   "c": [
+    "Flamenco",
+    "Tango",
+    "Reggae",
+    "Bossa nova"
+   ]
+  },
+  "fr": {
+   "q": "Quel style musical brésilien nous a donné « La Fille d'Ipanema » ?",
+   "c": [
+    "Flamenco",
+    "Tango",
+    "Reggae",
+    "Bossa nova"
+   ]
+  },
+  "es": {
+   "q": "¿Qué estilo musical brasileño nos dio «La chica de Ipanema»?",
+   "c": [
+    "Flamenco",
+    "Tango",
+    "Reggae",
+    "Bossa nova"
+   ]
+  },
+  "pt": {
+   "q": "Qual estilo musical brasileiro nos deu «Garota de Ipanema»?",
+   "c": [
+    "Flamenco",
+    "Tango",
+    "Reggae",
+    "Bossa nova"
+   ]
+  },
+  "ar": {
+   "q": "أي نمط موسيقي برازيلي أنتج أغنية «فتاة إيبانيما»؟",
+   "c": [
+    "الفلامنكو",
+    "التانغو",
+    "الريغي",
+    "بوسا نوفا"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "en": {
+   "q": "Which anime follows Luffy, a pirate in a straw hat?",
+   "c": [
+    "Dragon Ball",
+    "One Piece",
+    "Bleach",
+    "Naruto"
+   ]
+  },
+  "fr": {
+   "q": "Quel anime suit Luffy, un pirate au chapeau de paille ?",
+   "c": [
+    "Dragon Ball",
+    "One Piece",
+    "Bleach",
+    "Naruto"
+   ]
+  },
+  "es": {
+   "q": "¿Qué anime sigue a Luffy, un pirata con sombrero de paja?",
+   "c": [
+    "Dragon Ball",
+    "One Piece",
+    "Bleach",
+    "Naruto"
+   ]
+  },
+  "pt": {
+   "q": "Qual anime acompanha Luffy, um pirata de chapéu de palha?",
+   "c": [
+    "Dragon Ball",
+    "One Piece",
+    "Bleach",
+    "Naruto"
+   ]
+  },
+  "ar": {
+   "q": "أي أنمي يتتبع لوفي، القرصان ذو قبعة القش؟",
+   "c": [
+    "دراغون بول",
+    "ون بيس",
+    "بليتش",
+    "ناروتو"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "en": {
+   "q": "Which Mexican music style uses trumpets, violins and guitars?",
+   "c": [
+    "Calypso",
+    "Mariachi",
+    "Samba",
+    "Fado"
+   ]
+  },
+  "fr": {
+   "q": "Quel style de musique mexicain utilise trompettes, violons et guitares ?",
+   "c": [
+    "Calypso",
+    "Mariachi",
+    "Samba",
+    "Fado"
+   ]
+  },
+  "es": {
+   "q": "¿Qué estilo musical mexicano usa trompetas, violines y guitarras?",
+   "c": [
+    "Calipso",
+    "Mariachi",
+    "Samba",
+    "Fado"
+   ]
+  },
+  "pt": {
+   "q": "Qual estilo musical mexicano usa trompetes, violinos e violões?",
+   "c": [
+    "Calipso",
+    "Mariachi",
+    "Samba",
+    "Fado"
+   ]
+  },
+  "ar": {
+   "q": "أي نمط موسيقي مكسيكي يستخدم الأبواق والكمان والغيتار؟",
+   "c": [
+    "الكاليبسو",
+    "ماريتشي",
+    "السامبا",
+    "الفادو"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "en": {
+   "q": "Which young pharaoh's golden mask was found in his tomb in 1922?",
+   "c": [
+    "Ramses II",
+    "Tutankhamun",
+    "Khufu",
+    "Akhenaten"
+   ]
+  },
+  "fr": {
+   "q": "Quel jeune pharaon a vu son masque d'or découvert dans sa tombe en 1922 ?",
+   "c": [
+    "Ramsès II",
+    "Toutânkhamon",
+    "Khéops",
+    "Akhenaton"
+   ]
+  },
+  "es": {
+   "q": "¿De qué joven faraón se halló la máscara de oro en su tumba en 1922?",
+   "c": [
+    "Ramsés II",
+    "Tutankamón",
+    "Keops",
+    "Akenatón"
+   ]
+  },
+  "pt": {
+   "q": "De qual jovem faraó foi encontrada a máscara de ouro em seu túmulo em 1922?",
+   "c": [
+    "Ramsés II",
+    "Tutancâmon",
+    "Quéops",
+    "Aquenáton"
+   ]
+  },
+  "ar": {
+   "q": "أي فرعون شاب عُثر على قناعه الذهبي في مقبرته عام 1922؟",
+   "c": [
+    "رمسيس الثاني",
+    "توت عنخ آمون",
+    "خوفو",
+    "أخناتون"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "en": {
+   "q": "Which Danish author wrote 'The Ugly Duckling'?",
+   "c": [
+    "Charles Perrault",
+    "Aesop",
+    "Hans Christian Andersen",
+    "The Brothers Grimm"
+   ]
+  },
+  "fr": {
+   "q": "Quel auteur danois a écrit « Le Vilain Petit Canard » ?",
+   "c": [
+    "Charles Perrault",
+    "Ésope",
+    "Hans Christian Andersen",
+    "Les frères Grimm"
+   ]
+  },
+  "es": {
+   "q": "¿Qué autor danés escribió «El patito feo»?",
+   "c": [
+    "Charles Perrault",
+    "Esopo",
+    "Hans Christian Andersen",
+    "Los hermanos Grimm"
+   ]
+  },
+  "pt": {
+   "q": "Qual autor dinamarquês escreveu «O Patinho Feio»?",
+   "c": [
+    "Charles Perrault",
+    "Esopo",
+    "Hans Christian Andersen",
+    "Os irmãos Grimm"
+   ]
+  },
+  "ar": {
+   "q": "أي كاتب دنماركي ألّف «البطة القبيحة»؟",
+   "c": [
+    "شارل بيرو",
+    "إيسوب",
+    "هانز كريستيان أندرسن",
+    "الأخوان غريم"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "en": {
+   "q": "In which Disney film does the demigod Maui help a girl sail the Pacific?",
+   "c": [
+    "Moana",
+    "Pocahontas",
+    "Tarzan",
+    "Mulan"
+   ]
+  },
+  "fr": {
+   "q": "Dans quel film Disney le demi-dieu Maui aide-t-il une fille à naviguer sur le Pacifique ?",
+   "c": [
+    "Vaiana",
+    "Pocahontas",
+    "Tarzan",
+    "Mulan"
+   ]
+  },
+  "es": {
+   "q": "¿En qué película de Disney el semidiós Maui ayuda a una chica a navegar el Pacífico?",
+   "c": [
+    "Vaiana",
+    "Pocahontas",
+    "Tarzan",
+    "Mulan"
+   ]
+  },
+  "pt": {
+   "q": "Em qual filme da Disney o semideus Maui ajuda uma garota a navegar pelo Pacífico?",
+   "c": [
+    "Moana",
+    "Pocahontas",
+    "Tarzan",
+    "Mulan"
+   ]
+  },
+  "ar": {
+   "q": "في أي فيلم ديزني يساعد نصف الإله ماوي فتاة على عبور المحيط الهادئ؟",
+   "c": [
+    "موانا",
+    "بوكاهونتاس",
+    "طرزان",
+    "مولان"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "en": {
+   "q": "In 'Black Panther', what is the fictional African kingdom called?",
+   "c": [
+    "Wakanda",
+    "Genovia",
+    "Atlantis",
+    "Narnia"
+   ]
+  },
+  "fr": {
+   "q": "Dans « Black Panther », comment s'appelle le royaume africain fictif ?",
+   "c": [
+    "Wakanda",
+    "Genovia",
+    "Atlantide",
+    "Narnia"
+   ]
+  },
+  "es": {
+   "q": "En «Pantera Negra», ¿cómo se llama el reino africano ficticio?",
+   "c": [
+    "Wakanda",
+    "Genovia",
+    "Atlántida",
+    "Narnia"
+   ]
+  },
+  "pt": {
+   "q": "Em «Pantera Negra», como se chama o reino africano fictício?",
+   "c": [
+    "Wakanda",
+    "Genóvia",
+    "Atlântida",
+    "Nárnia"
+   ]
+  },
+  "ar": {
+   "q": "في فيلم «النمر الأسود»، ما اسم المملكة الأفريقية الخيالية؟",
+   "c": [
+    "وكاندا",
+    "جنوفيا",
+    "أطلنطس",
+    "نارنيا"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "en": {
+   "q": "Which composer wrote 'Messiah', with its 'Hallelujah' chorus?",
+   "c": [
+    "Handel",
+    "Bach",
+    "Haydn",
+    "Wagner"
+   ]
+  },
+  "fr": {
+   "q": "Quel compositeur a écrit « Le Messie », avec son chœur « Alléluia » ?",
+   "c": [
+    "Haendel",
+    "Bach",
+    "Haydn",
+    "Wagner"
+   ]
+  },
+  "es": {
+   "q": "¿Qué compositor escribió «El Mesías», con su coro «Aleluya»?",
+   "c": [
+    "Händel",
+    "Bach",
+    "Haydn",
+    "Wagner"
+   ]
+  },
+  "pt": {
+   "q": "Qual compositor escreveu «O Messias», com seu coro «Aleluia»?",
+   "c": [
+    "Händel",
+    "Bach",
+    "Haydn",
+    "Wagner"
+   ]
+  },
+  "ar": {
+   "q": "أي مؤلف موسيقي كتب «المسيح» بجوقة «هللويا» الشهيرة؟",
+   "c": [
+    "هندل",
+    "باخ",
+    "هايدن",
+    "فاغنر"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "en": {
+   "q": "Which Brazilian author wrote the bestseller 'The Alchemist'?",
+   "c": [
+    "Jorge Amado",
+    "Isabel Allende",
+    "Gabriel García Márquez",
+    "Paulo Coelho"
+   ]
+  },
+  "fr": {
+   "q": "Quel auteur brésilien a écrit le best-seller « L'Alchimiste » ?",
+   "c": [
+    "Jorge Amado",
+    "Isabel Allende",
+    "Gabriel García Márquez",
+    "Paulo Coelho"
+   ]
+  },
+  "es": {
+   "q": "¿Qué autor brasileño escribió el éxito «El alquimista»?",
+   "c": [
+    "Jorge Amado",
+    "Isabel Allende",
+    "Gabriel García Márquez",
+    "Paulo Coelho"
+   ]
+  },
+  "pt": {
+   "q": "Qual autor brasileiro escreveu o best-seller «O Alquimista»?",
+   "c": [
+    "Jorge Amado",
+    "Isabel Allende",
+    "Gabriel García Márquez",
+    "Paulo Coelho"
+   ]
+  },
+  "ar": {
+   "q": "أي كاتب برازيلي ألّف الرواية الأكثر مبيعا «الخيميائي»؟",
+   "c": [
+    "خورخي أمادو",
+    "إيزابيل أليندي",
+    "غابرييل غارسيا ماركيز",
+    "باولو كويلو"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "en": {
+   "q": "Which emperor built the Taj Mahal in memory of his wife?",
+   "c": [
+    "Shah Jahan",
+    "Ashoka",
+    "Babur",
+    "Akbar"
+   ]
+  },
+  "fr": {
+   "q": "Quel empereur a fait construire le Taj Mahal en mémoire de son épouse ?",
+   "c": [
+    "Shah Jahan",
+    "Ashoka",
+    "Babur",
+    "Akbar"
+   ]
+  },
+  "es": {
+   "q": "¿Qué emperador construyó el Taj Mahal en memoria de su esposa?",
+   "c": [
+    "Shah Jahan",
+    "Ashoka",
+    "Babur",
+    "Akbar"
+   ]
+  },
+  "pt": {
+   "q": "Qual imperador construiu o Taj Mahal em memória de sua esposa?",
+   "c": [
+    "Shah Jahan",
+    "Ashoka",
+    "Babur",
+    "Akbar"
+   ]
+  },
+  "ar": {
+   "q": "أي إمبراطور بنى تاج محل تخليدا لذكرى زوجته؟",
+   "c": [
+    "شاه جهان",
+    "أشوكا",
+    "بابر",
+    "أكبر"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "en": {
+   "q": "Which Japanese franchise features the yellow creature Pikachu?",
+   "c": [
+    "Digimon",
+    "Pokémon",
+    "Yu-Gi-Oh!",
+    "Doraemon"
+   ]
+  },
+  "fr": {
+   "q": "Quelle franchise japonaise met en scène la créature jaune Pikachu ?",
+   "c": [
+    "Digimon",
+    "Pokémon",
+    "Yu-Gi-Oh!",
+    "Doraemon"
+   ]
+  },
+  "es": {
+   "q": "¿Qué franquicia japonesa tiene a la criatura amarilla Pikachu?",
+   "c": [
+    "Digimon",
+    "Pokémon",
+    "Yu-Gi-Oh!",
+    "Doraemon"
+   ]
+  },
+  "pt": {
+   "q": "Qual franquia japonesa tem a criatura amarela Pikachu?",
+   "c": [
+    "Digimon",
+    "Pokémon",
+    "Yu-Gi-Oh!",
+    "Doraemon"
+   ]
+  },
+  "ar": {
+   "q": "أي سلسلة يابانية تضم الكائن الأصفر بيكاتشو؟",
+   "c": [
+    "ديجيمون",
+    "بوكيمون",
+    "يوغي أوه",
+    "دورايمون"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "en": {
+   "q": "Who wrote the Russian novel 'War and Peace'?",
+   "c": [
+    "Leo Tolstoy",
+    "Alexander Pushkin",
+    "Maxim Gorky",
+    "Anton Chekhov"
+   ]
+  },
+  "fr": {
+   "q": "Qui a écrit le roman russe « Guerre et Paix » ?",
+   "c": [
+    "Léon Tolstoï",
+    "Alexandre Pouchkine",
+    "Maxime Gorki",
+    "Anton Tchekhov"
+   ]
+  },
+  "es": {
+   "q": "¿Quién escribió la novela rusa «Guerra y paz»?",
+   "c": [
+    "León Tolstói",
+    "Alexandr Pushkin",
+    "Máximo Gorki",
+    "Antón Chéjov"
+   ]
+  },
+  "pt": {
+   "q": "Quem escreveu o romance russo «Guerra e Paz»?",
+   "c": [
+    "Liev Tolstói",
+    "Alexandre Pushkin",
+    "Maksim Gorki",
+    "Anton Tchékhov"
+   ]
+  },
+  "ar": {
+   "q": "من كتب الرواية الروسية «الحرب والسلم»؟",
+   "c": [
+    "ليو تولستوي",
+    "ألكسندر بوشكين",
+    "مكسيم غوركي",
+    "أنطون تشيخوف"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "en": {
+   "q": "Which South Korean film won the Best Picture Oscar in 2020?",
+   "c": [
+    "1917",
+    "Roma",
+    "Joker",
+    "Parasite"
+   ]
+  },
+  "fr": {
+   "q": "Quel film sud-coréen a remporté l'Oscar du meilleur film en 2020 ?",
+   "c": [
+    "1917",
+    "Roma",
+    "Joker",
+    "Parasite"
+   ]
+  },
+  "es": {
+   "q": "¿Qué película surcoreana ganó el Óscar a mejor película en 2020?",
+   "c": [
+    "1917",
+    "Roma",
+    "Joker",
+    "Parásitos"
+   ]
+  },
+  "pt": {
+   "q": "Qual filme sul-coreano ganhou o Oscar de melhor filme em 2020?",
+   "c": [
+    "1917",
+    "Roma",
+    "Coringa",
+    "Parasita"
+   ]
+  },
+  "ar": {
+   "q": "أي فيلم كوري جنوبي فاز بأوسكار أفضل فيلم عام 2020؟",
+   "c": [
+    "1917",
+    "روما",
+    "الجوكر",
+    "طفيلي"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "en": {
+   "q": "In which country did the Buena Vista Social Club musicians play?",
+   "c": [
+    "Jamaica",
+    "Cuba",
+    "Haiti",
+    "Dominican Republic"
+   ]
+  },
+  "fr": {
+   "q": "Dans quel pays jouaient les musiciens du Buena Vista Social Club ?",
+   "c": [
+    "Jamaïque",
+    "Cuba",
+    "Haïti",
+    "République dominicaine"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país tocaban los músicos del Buena Vista Social Club?",
+   "c": [
+    "Jamaica",
+    "Cuba",
+    "Haití",
+    "República Dominicana"
+   ]
+  },
+  "pt": {
+   "q": "Em qual país tocavam os músicos do Buena Vista Social Club?",
+   "c": [
+    "Jamaica",
+    "Cuba",
+    "Haiti",
+    "República Dominicana"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد عزف موسيقيو «بوينا فيستا سوشيال كلوب»؟",
+   "c": [
+    "جامايكا",
+    "كوبا",
+    "هايتي",
+    "جمهورية الدومينيكان"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "en": {
+   "q": "Which Australian rock band recorded 'Highway to Hell'?",
+   "c": [
+    "Led Zeppelin",
+    "Aerosmith",
+    "AC/DC",
+    "Kiss"
+   ]
+  },
+  "fr": {
+   "q": "Quel groupe de rock australien a enregistré « Highway to Hell » ?",
+   "c": [
+    "Led Zeppelin",
+    "Aerosmith",
+    "AC/DC",
+    "Kiss"
+   ]
+  },
+  "es": {
+   "q": "¿Qué banda de rock australiana grabó «Highway to Hell»?",
+   "c": [
+    "Led Zeppelin",
+    "Aerosmith",
+    "AC/DC",
+    "Kiss"
+   ]
+  },
+  "pt": {
+   "q": "Qual banda de rock australiana gravou «Highway to Hell»?",
+   "c": [
+    "Led Zeppelin",
+    "Aerosmith",
+    "AC/DC",
+    "Kiss"
+   ]
+  },
+  "ar": {
+   "q": "أي فرقة روك أسترالية سجلت «Highway to Hell»؟",
+   "c": [
+    "ليد زيبلين",
+    "إيروسميث",
+    "إيه سي/دي سي",
+    "كيس"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "en": {
+   "q": "Which ancient Greek poet is credited with the 'Iliad'?",
+   "c": [
+    "Plato",
+    "Virgil",
+    "Sophocles",
+    "Homer"
+   ]
+  },
+  "fr": {
+   "q": "Quel poète grec antique est l'auteur de « L'Iliade » ?",
+   "c": [
+    "Platon",
+    "Virgile",
+    "Sophocle",
+    "Homère"
+   ]
+  },
+  "es": {
+   "q": "¿A qué poeta griego antiguo se atribuye «La Ilíada»?",
+   "c": [
+    "Platón",
+    "Virgilio",
+    "Sófocles",
+    "Homero"
+   ]
+  },
+  "pt": {
+   "q": "A qual poeta grego antigo se atribui «A Ilíada»?",
+   "c": [
+    "Platão",
+    "Virgílio",
+    "Sófocles",
+    "Homero"
+   ]
+  },
+  "ar": {
+   "q": "أي شاعر يوناني قديم تُنسب إليه «الإلياذة»؟",
+   "c": [
+    "أفلاطون",
+    "فيرجيل",
+    "سوفوكليس",
+    "هوميروس"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "en": {
+   "q": "Which Canadian-born director made 'Titanic' and 'Avatar'?",
+   "c": [
+    "Ridley Scott",
+    "James Cameron",
+    "Christopher Nolan",
+    "Quentin Tarantino"
+   ]
+  },
+  "fr": {
+   "q": "Quel réalisateur né au Canada a fait « Titanic » et « Avatar » ?",
+   "c": [
+    "Ridley Scott",
+    "James Cameron",
+    "Christopher Nolan",
+    "Quentin Tarantino"
+   ]
+  },
+  "es": {
+   "q": "¿Qué director nacido en Canadá hizo «Titanic» y «Avatar»?",
+   "c": [
+    "Ridley Scott",
+    "James Cameron",
+    "Christopher Nolan",
+    "Quentin Tarantino"
+   ]
+  },
+  "pt": {
+   "q": "Qual diretor nascido no Canadá fez «Titanic» e «Avatar»?",
+   "c": [
+    "Ridley Scott",
+    "James Cameron",
+    "Christopher Nolan",
+    "Quentin Tarantino"
+   ]
+  },
+  "ar": {
+   "q": "أي مخرج وُلد في كندا أخرج «تايتانيك» و«أفاتار»؟",
+   "c": [
+    "ريدلي سكوت",
+    "جيمس كاميرون",
+    "كريستوفر نولان",
+    "كوينتين تارانتينو"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "en": {
+   "q": "Which Indonesian theatre uses shadow puppets made of leather?",
+   "c": [
+    "Kabuki",
+    "Peking opera",
+    "Wayang",
+    "Noh"
+   ]
+  },
+  "fr": {
+   "q": "Quel théâtre indonésien utilise des marionnettes d'ombres en cuir ?",
+   "c": [
+    "Kabuki",
+    "Opéra de Pékin",
+    "Wayang",
+    "Nô"
+   ]
+  },
+  "es": {
+   "q": "¿Qué teatro indonesio usa títeres de sombras de cuero?",
+   "c": [
+    "Kabuki",
+    "Ópera de Pekín",
+    "Wayang",
+    "Noh"
+   ]
+  },
+  "pt": {
+   "q": "Qual teatro indonésio usa fantoches de sombras feitos de couro?",
+   "c": [
+    "Kabuki",
+    "Ópera de Pequim",
+    "Wayang",
+    "Noh"
+   ]
+  },
+  "ar": {
+   "q": "أي مسرح إندونيسي يستخدم دمى ظلال من الجلد؟",
+   "c": [
+    "الكابوكي",
+    "أوبرا بكين",
+    "وايانغ",
+    "النوه"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "en": {
+   "q": "Which drum, played with bare hands, is typical of West Africa?",
+   "c": [
+    "Taiko",
+    "Timpani",
+    "Djembe",
+    "Tabla"
+   ]
+  },
+  "fr": {
+   "q": "Quel tambour, joué à mains nues, est typique de l'Afrique de l'Ouest ?",
+   "c": [
+    "Taiko",
+    "Timbales",
+    "Djembé",
+    "Tabla"
+   ]
+  },
+  "es": {
+   "q": "¿Qué tambor, tocado con las manos, es típico de África Occidental?",
+   "c": [
+    "Taiko",
+    "Timbales",
+    "Yembé",
+    "Tabla"
+   ]
+  },
+  "pt": {
+   "q": "Qual tambor, tocado com as mãos, é típico da África Ocidental?",
+   "c": [
+    "Taiko",
+    "Tímpanos",
+    "Djembê",
+    "Tabla"
+   ]
+  },
+  "ar": {
+   "q": "أي طبل يُعزف بالأيدي مباشرة وهو نموذجي في غرب أفريقيا؟",
+   "c": [
+    "التايكو",
+    "التيمباني",
+    "الجيمبي",
+    "التابلا"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "en": {
+   "q": "Which Czech composer wrote the 'New World Symphony'?",
+   "c": [
+    "Leoš Janáček",
+    "Antonín Dvořák",
+    "Gustav Mahler",
+    "Bedřich Smetana"
+   ]
+  },
+  "fr": {
+   "q": "Quel compositeur tchèque a écrit la « Symphonie du Nouveau Monde » ?",
+   "c": [
+    "Leoš Janáček",
+    "Antonín Dvořák",
+    "Gustav Mahler",
+    "Bedřich Smetana"
+   ]
+  },
+  "es": {
+   "q": "¿Qué compositor checo escribió la «Sinfonía del Nuevo Mundo»?",
+   "c": [
+    "Leoš Janáček",
+    "Antonín Dvořák",
+    "Gustav Mahler",
+    "Bedřich Smetana"
+   ]
+  },
+  "pt": {
+   "q": "Qual compositor tcheco escreveu a «Sinfonia do Novo Mundo»?",
+   "c": [
+    "Leoš Janáček",
+    "Antonín Dvořák",
+    "Gustav Mahler",
+    "Bedřich Smetana"
+   ]
+  },
+  "ar": {
+   "q": "أي مؤلف موسيقي تشيكي كتب «سيمفونية العالم الجديد»؟",
+   "c": [
+    "ليوش ياناتشيك",
+    "أنطونين دفورجاك",
+    "غوستاف ماهلر",
+    "بدريش سميتانا"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "en": {
+   "q": "Which Mexican director made 'Pan's Labyrinth'?",
+   "c": [
+    "Tim Burton",
+    "Guillermo del Toro",
+    "Wes Anderson",
+    "Pedro Almodóvar"
+   ]
+  },
+  "fr": {
+   "q": "Quel réalisateur mexicain a fait « Le Labyrinthe de Pan » ?",
+   "c": [
+    "Tim Burton",
+    "Guillermo del Toro",
+    "Wes Anderson",
+    "Pedro Almodóvar"
+   ]
+  },
+  "es": {
+   "q": "¿Qué director mexicano hizo «El laberinto del fauno»?",
+   "c": [
+    "Tim Burton",
+    "Guillermo del Toro",
+    "Wes Anderson",
+    "Pedro Almodóvar"
+   ]
+  },
+  "pt": {
+   "q": "Qual diretor mexicano fez «O Labirinto do Fauno»?",
+   "c": [
+    "Tim Burton",
+    "Guillermo del Toro",
+    "Wes Anderson",
+    "Pedro Almodóvar"
+   ]
+  },
+  "ar": {
+   "q": "أي مخرج مكسيكي أخرج «متاهة بان»؟",
+   "c": [
+    "تيم بيرتون",
+    "غييرمو ديل تورو",
+    "ويس أندرسون",
+    "بيدرو ألمودوفار"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "en": {
+   "q": "In which Italian city is the Uffizi Gallery?",
+   "c": [
+    "Florence",
+    "Venice",
+    "Rome",
+    "Milan"
+   ]
+  },
+  "fr": {
+   "q": "Dans quelle ville italienne se trouve la galerie des Offices ?",
+   "c": [
+    "Florence",
+    "Venise",
+    "Rome",
+    "Milan"
+   ]
+  },
+  "es": {
+   "q": "¿En qué ciudad italiana está la Galería de los Uffizi?",
+   "c": [
+    "Florencia",
+    "Venecia",
+    "Roma",
+    "Milán"
+   ]
+  },
+  "pt": {
+   "q": "Em qual cidade italiana fica a Galeria Uffizi?",
+   "c": [
+    "Florença",
+    "Veneza",
+    "Roma",
+    "Milão"
+   ]
+  },
+  "ar": {
+   "q": "في أي مدينة إيطالية تقع معرض أوفيزي؟",
+   "c": [
+    "فلورنسا",
+    "البندقية",
+    "روما",
+    "ميلانو"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "en": {
+   "q": "Which Colombian artist is famous for oversized, rounded figures?",
+   "c": [
+    "Joan Miró",
+    "Marc Chagall",
+    "Fernando Botero",
+    "Amedeo Modigliani"
+   ]
+  },
+  "fr": {
+   "q": "Quel artiste colombien est célèbre pour ses figures rondes et surdimensionnées ?",
+   "c": [
+    "Joan Miró",
+    "Marc Chagall",
+    "Fernando Botero",
+    "Amedeo Modigliani"
+   ]
+  },
+  "es": {
+   "q": "¿Qué artista colombiano es famoso por sus figuras redondeadas y exageradas?",
+   "c": [
+    "Joan Miró",
+    "Marc Chagall",
+    "Fernando Botero",
+    "Amedeo Modigliani"
+   ]
+  },
+  "pt": {
+   "q": "Qual artista colombiano é famoso por suas figuras redondas e exageradas?",
+   "c": [
+    "Joan Miró",
+    "Marc Chagall",
+    "Fernando Botero",
+    "Amedeo Modigliani"
+   ]
+  },
+  "ar": {
+   "q": "أي فنان كولومبي يشتهر بشخصياته المستديرة ضخمة الحجم؟",
+   "c": [
+    "خوان ميرو",
+    "مارك شاغال",
+    "فرناندو بوتيرو",
+    "أميديو موديلياني"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "en": {
+   "q": "In which Russian city is the Bolshoi Theatre?",
+   "c": [
+    "Moscow",
+    "Saint Petersburg",
+    "Kyiv",
+    "Minsk"
+   ]
+  },
+  "fr": {
+   "q": "Dans quelle ville russe se trouve le théâtre Bolchoï ?",
+   "c": [
+    "Moscou",
+    "Saint-Pétersbourg",
+    "Kiev",
+    "Minsk"
+   ]
+  },
+  "es": {
+   "q": "¿En qué ciudad rusa está el Teatro Bolshói?",
+   "c": [
+    "Moscú",
+    "San Petersburgo",
+    "Kiev",
+    "Minsk"
+   ]
+  },
+  "pt": {
+   "q": "Em qual cidade russa fica o Teatro Bolshoi?",
+   "c": [
+    "Moscou",
+    "São Petersburgo",
+    "Kiev",
+    "Minsk"
+   ]
+  },
+  "ar": {
+   "q": "في أي مدينة روسية يقع مسرح البولشوي؟",
+   "c": [
+    "موسكو",
+    "سانت بطرسبرغ",
+    "كييف",
+    "مينسك"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "en": {
+   "q": "Which Irish writer wrote 'The Picture of Dorian Gray'?",
+   "c": [
+    "George Bernard Shaw",
+    "James Joyce",
+    "Bram Stoker",
+    "Oscar Wilde"
+   ]
+  },
+  "fr": {
+   "q": "Quel écrivain irlandais a écrit « Le Portrait de Dorian Gray » ?",
+   "c": [
+    "George Bernard Shaw",
+    "James Joyce",
+    "Bram Stoker",
+    "Oscar Wilde"
+   ]
+  },
+  "es": {
+   "q": "¿Qué escritor irlandés escribió «El retrato de Dorian Gray»?",
+   "c": [
+    "George Bernard Shaw",
+    "James Joyce",
+    "Bram Stoker",
+    "Oscar Wilde"
+   ]
+  },
+  "pt": {
+   "q": "Qual escritor irlandês escreveu «O Retrato de Dorian Gray»?",
+   "c": [
+    "George Bernard Shaw",
+    "James Joyce",
+    "Bram Stoker",
+    "Oscar Wilde"
+   ]
+  },
+  "ar": {
+   "q": "أي كاتب أيرلندي ألّف «صورة دوريان غراي»؟",
+   "c": [
+    "جورج برنارد شو",
+    "جيمس جويس",
+    "برام ستوكر",
+    "أوسكار وايلد"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 16
+ },
+ {
+  "en": {
+   "q": "Which American author wrote 'The Great Gatsby'?",
+   "c": [
+    "F. Scott Fitzgerald",
+    "Ernest Hemingway",
+    "William Faulkner",
+    "John Steinbeck"
+   ]
+  },
+  "fr": {
+   "q": "Quel auteur américain a écrit « Gatsby le Magnifique » ?",
+   "c": [
+    "F. Scott Fitzgerald",
+    "Ernest Hemingway",
+    "William Faulkner",
+    "John Steinbeck"
+   ]
+  },
+  "es": {
+   "q": "¿Qué autor estadounidense escribió «El gran Gatsby»?",
+   "c": [
+    "F. Scott Fitzgerald",
+    "Ernest Hemingway",
+    "William Faulkner",
+    "John Steinbeck"
+   ]
+  },
+  "pt": {
+   "q": "Qual autor americano escreveu «O Grande Gatsby»?",
+   "c": [
+    "F. Scott Fitzgerald",
+    "Ernest Hemingway",
+    "William Faulkner",
+    "John Steinbeck"
+   ]
+  },
+  "ar": {
+   "q": "أي كاتب أمريكي ألّف «غاتسبي العظيم»؟",
+   "c": [
+    "ف. سكوت فيتزجيرالد",
+    "إرنست همنغواي",
+    "ويليام فوكنر",
+    "جون شتاينبك"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "en": {
+   "q": "Capoeira, a martial art mixing dance and music, comes from which country?",
+   "c": [
+    "Colombia",
+    "Cuba",
+    "Nigeria",
+    "Brazil"
+   ]
+  },
+  "fr": {
+   "q": "La capoeira, art martial mêlant danse et musique, vient de quel pays ?",
+   "c": [
+    "Colombie",
+    "Cuba",
+    "Nigéria",
+    "Brésil"
+   ]
+  },
+  "es": {
+   "q": "La capoeira, arte marcial que mezcla danza y música, viene de qué país?",
+   "c": [
+    "Colombia",
+    "Cuba",
+    "Nigeria",
+    "Brasil"
+   ]
+  },
+  "pt": {
+   "q": "A capoeira, arte marcial que mistura dança e música, vem de qual país?",
+   "c": [
+    "Colômbia",
+    "Cuba",
+    "Nigéria",
+    "Brasil"
+   ]
+  },
+  "ar": {
+   "q": "الكابويرا، فن قتالي يمزج الرقص والموسيقى، من أي بلد؟",
+   "c": [
+    "كولومبيا",
+    "كوبا",
+    "نيجيريا",
+    "البرازيل"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 16
+ },
+ {
+  "en": {
+   "q": "Which Norwegian composer wrote the music for 'Peer Gynt'?",
+   "c": [
+    "Sergei Rachmaninoff",
+    "Jean Sibelius",
+    "Edvard Grieg",
+    "Carl Nielsen"
+   ]
+  },
+  "fr": {
+   "q": "Quel compositeur norvégien a écrit la musique de « Peer Gynt » ?",
+   "c": [
+    "Sergueï Rachmaninov",
+    "Jean Sibelius",
+    "Edvard Grieg",
+    "Carl Nielsen"
+   ]
+  },
+  "es": {
+   "q": "¿Qué compositor noruego escribió la música de «Peer Gynt»?",
+   "c": [
+    "Serguéi Rajmáninov",
+    "Jean Sibelius",
+    "Edvard Grieg",
+    "Carl Nielsen"
+   ]
+  },
+  "pt": {
+   "q": "Qual compositor norueguês escreveu a música de «Peer Gynt»?",
+   "c": [
+    "Sergei Rachmaninoff",
+    "Jean Sibelius",
+    "Edvard Grieg",
+    "Carl Nielsen"
+   ]
+  },
+  "ar": {
+   "q": "أي مؤلف موسيقي نرويجي كتب موسيقى «بير جينت»؟",
+   "c": [
+    "سيرغي رحمانينوف",
+    "جان سيبيليوس",
+    "إدفارد غريغ",
+    "كارل نيلسن"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "en": {
+   "q": "Which Japanese poem has three lines of 5, 7 and 5 syllables?",
+   "c": [
+    "Sonnet",
+    "Limerick",
+    "Haiku",
+    "Epic"
+   ]
+  },
+  "fr": {
+   "q": "Quel poème japonais compte trois vers de 5, 7 et 5 syllabes ?",
+   "c": [
+    "Sonnet",
+    "Limerick",
+    "Haïku",
+    "Épopée"
+   ]
+  },
+  "es": {
+   "q": "¿Qué poema japonés tiene tres versos de 5, 7 y 5 sílabas?",
+   "c": [
+    "Soneto",
+    "Limerick",
+    "Haiku",
+    "Epopeya"
+   ]
+  },
+  "pt": {
+   "q": "Qual poema japonês tem três versos de 5, 7 e 5 sílabas?",
+   "c": [
+    "Soneto",
+    "Limerick",
+    "Haicai",
+    "Epopeia"
+   ]
+  },
+  "ar": {
+   "q": "أي قصيدة يابانية تتألف من ثلاثة أسطر من 5 و7 و5 مقاطع؟",
+   "c": [
+    "السوناتة",
+    "الليمريك",
+    "الهايكو",
+    "الملحمة"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "en": {
+   "q": "Which Persian poet and mathematician wrote the 'Rubaiyat'?",
+   "c": [
+    "Hafez",
+    "Ferdowsi",
+    "Saadi",
+    "Omar Khayyam"
+   ]
+  },
+  "fr": {
+   "q": "Quel poète et mathématicien persan a écrit les « Rubaiyat » ?",
+   "c": [
+    "Hafez",
+    "Ferdowsi",
+    "Saadi",
+    "Omar Khayyam"
+   ]
+  },
+  "es": {
+   "q": "¿Qué poeta y matemático persa escribió los «Rubaiyat»?",
+   "c": [
+    "Hafez",
+    "Ferdousi",
+    "Saadi",
+    "Omar Jayam"
+   ]
+  },
+  "pt": {
+   "q": "Qual poeta e matemático persa escreveu os «Rubaiyat»?",
+   "c": [
+    "Hafez",
+    "Ferdowsi",
+    "Saadi",
+    "Omar Khayyam"
+   ]
+  },
+  "ar": {
+   "q": "أي شاعر وعالم رياضيات فارسي ألّف «الرباعيات»؟",
+   "c": [
+    "حافظ الشيرازي",
+    "الفردوسي",
+    "سعدي الشيرازي",
+    "عمر الخيام"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 16
+ },
+ {
+  "en": {
+   "q": "Which Australian actor played Wolverine in the 'X-Men' films?",
+   "c": [
+    "Russell Crowe",
+    "Hugh Jackman",
+    "Chris Hemsworth",
+    "Heath Ledger"
+   ]
+  },
+  "fr": {
+   "q": "Quel acteur australien joue Wolverine dans les films « X-Men » ?",
+   "c": [
+    "Russell Crowe",
+    "Hugh Jackman",
+    "Chris Hemsworth",
+    "Heath Ledger"
+   ]
+  },
+  "es": {
+   "q": "¿Qué actor australiano interpretó a Lobezno en las películas de «X-Men»?",
+   "c": [
+    "Russell Crowe",
+    "Hugh Jackman",
+    "Chris Hemsworth",
+    "Heath Ledger"
+   ]
+  },
+  "pt": {
+   "q": "Qual ator australiano interpretou Wolverine nos filmes «X-Men»?",
+   "c": [
+    "Russell Crowe",
+    "Hugh Jackman",
+    "Chris Hemsworth",
+    "Heath Ledger"
+   ]
+  },
+  "ar": {
+   "q": "أي ممثل أسترالي جسّد شخصية ولفرين في أفلام «إكس مين»؟",
+   "c": [
+    "راسل كرو",
+    "هيو جاكمان",
+    "كريس هيمسورث",
+    "هيث ليدجر"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "en": {
+   "q": "Which American composer wrote the musical 'West Side Story'?",
+   "c": [
+    "Aaron Copland",
+    "Cole Porter",
+    "Leonard Bernstein",
+    "George Gershwin"
+   ]
+  },
+  "fr": {
+   "q": "Quel compositeur américain a écrit la comédie musicale « West Side Story » ?",
+   "c": [
+    "Aaron Copland",
+    "Cole Porter",
+    "Leonard Bernstein",
+    "George Gershwin"
+   ]
+  },
+  "es": {
+   "q": "¿Qué compositor estadounidense escribió el musical «West Side Story»?",
+   "c": [
+    "Aaron Copland",
+    "Cole Porter",
+    "Leonard Bernstein",
+    "George Gershwin"
+   ]
+  },
+  "pt": {
+   "q": "Qual compositor americano escreveu o musical «West Side Story»?",
+   "c": [
+    "Aaron Copland",
+    "Cole Porter",
+    "Leonard Bernstein",
+    "George Gershwin"
+   ]
+  },
+  "ar": {
+   "q": "أي مؤلف موسيقي أمريكي كتب المسرحية الغنائية «قصة الحي الغربي»؟",
+   "c": [
+    "آرون كوبلاند",
+    "كول بورتر",
+    "ليونارد برنشتاين",
+    "جورج غيرشوين"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "en": {
+   "q": "Which Puerto Rican singer released 'Despacito' with Daddy Yankee?",
+   "c": [
+    "Ricky Martin",
+    "Marc Anthony",
+    "Enrique Iglesias",
+    "Luis Fonsi"
+   ]
+  },
+  "fr": {
+   "q": "Quel chanteur portoricain a sorti « Despacito » avec Daddy Yankee ?",
+   "c": [
+    "Ricky Martin",
+    "Marc Anthony",
+    "Enrique Iglesias",
+    "Luis Fonsi"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cantante puertorriqueño lanzó «Despacito» con Daddy Yankee?",
+   "c": [
+    "Ricky Martin",
+    "Marc Anthony",
+    "Enrique Iglesias",
+    "Luis Fonsi"
+   ]
+  },
+  "pt": {
+   "q": "Qual cantor porto-riquenho lançou «Despacito» com Daddy Yankee?",
+   "c": [
+    "Ricky Martin",
+    "Marc Anthony",
+    "Enrique Iglesias",
+    "Luis Fonsi"
+   ]
+  },
+  "ar": {
+   "q": "أي مغن بورتوريكي أصدر «ديسباسيتو» مع دادي يانكي؟",
+   "c": [
+    "ريكي مارتن",
+    "مارك أنتوني",
+    "إنريكي إغليسياس",
+    "لويس فونسي"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "en": {
+   "q": "Which Spanish painter created 'The Third of May 1808'?",
+   "c": [
+    "Francisco Goya",
+    "Bartolomé Murillo",
+    "El Greco",
+    "Francisco de Zurbarán"
+   ]
+  },
+  "fr": {
+   "q": "Quel peintre espagnol a réalisé « Le 3 mai 1808 » ?",
+   "c": [
+    "Francisco Goya",
+    "Bartolomé Murillo",
+    "El Greco",
+    "Francisco de Zurbarán"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pintor español creó «Los fusilamientos del 3 de mayo»?",
+   "c": [
+    "Francisco Goya",
+    "Bartolomé Murillo",
+    "El Greco",
+    "Francisco de Zurbarán"
+   ]
+  },
+  "pt": {
+   "q": "Qual pintor espanhol criou «Os Fuzilamentos de 3 de Maio»?",
+   "c": [
+    "Francisco Goya",
+    "Bartolomeu Murillo",
+    "El Greco",
+    "Francisco de Zurbarán"
+   ]
+  },
+  "ar": {
+   "q": "أي رسام إسباني رسم «إعدام الثالث من مايو 1808»؟",
+   "c": [
+    "فرانثيسكو غويا",
+    "مورييو",
+    "إل غريكو",
+    "فرانثيسكو دي ثورباران"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 17
+ },
+ {
+  "en": {
+   "q": "Which Indian composer won two Oscars for 'Slumdog Millionaire'?",
+   "c": [
+    "A. R. Rahman",
+    "Hans Zimmer",
+    "Ennio Morricone",
+    "Ravi Shankar"
+   ]
+  },
+  "fr": {
+   "q": "Quel compositeur indien a remporté deux Oscars pour « Slumdog Millionaire » ?",
+   "c": [
+    "A. R. Rahman",
+    "Hans Zimmer",
+    "Ennio Morricone",
+    "Ravi Shankar"
+   ]
+  },
+  "es": {
+   "q": "¿Qué compositor indio ganó dos Óscar por «Slumdog Millionaire»?",
+   "c": [
+    "A. R. Rahman",
+    "Hans Zimmer",
+    "Ennio Morricone",
+    "Ravi Shankar"
+   ]
+  },
+  "pt": {
+   "q": "Qual compositor indiano ganhou dois Oscars por «Quem Quer Ser um Milionário?»",
+   "c": [
+    "A. R. Rahman",
+    "Hans Zimmer",
+    "Ennio Morricone",
+    "Ravi Shankar"
+   ]
+  },
+  "ar": {
+   "q": "أي مؤلف موسيقي هندي فاز بجائزتي أوسكار عن «المليونير المتشرد»؟",
+   "c": [
+    "أ. ر. رحمان",
+    "هانس زيمر",
+    "إنيو موريكوني",
+    "رافي شانكار"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 17
+ },
+ {
+  "en": {
+   "q": "Which Japanese author wrote 'Norwegian Wood' and 'Kafka on the Shore'?",
+   "c": [
+    "Yukio Mishima",
+    "Kenzaburō Ōe",
+    "Haruki Murakami",
+    "Kazuo Ishiguro"
+   ]
+  },
+  "fr": {
+   "q": "Quel auteur japonais a écrit « La Ballade de l'impossible » et « Kafka sur le rivage » ?",
+   "c": [
+    "Yukio Mishima",
+    "Kenzaburō Ōe",
+    "Haruki Murakami",
+    "Kazuo Ishiguro"
+   ]
+  },
+  "es": {
+   "q": "¿Qué autor japonés escribió «Tokio blues» y «Kafka en la orilla»?",
+   "c": [
+    "Yukio Mishima",
+    "Kenzaburō Ōe",
+    "Haruki Murakami",
+    "Kazuo Ishiguro"
+   ]
+  },
+  "pt": {
+   "q": "Qual autor japonês escreveu «Norwegian Wood» e «Kafka à Beira-Mar»?",
+   "c": [
+    "Yukio Mishima",
+    "Kenzaburō Ōe",
+    "Haruki Murakami",
+    "Kazuo Ishiguro"
+   ]
+  },
+  "ar": {
+   "q": "أي كاتب ياباني ألّف «الغابة النرويجية» و«كافكا على الشاطئ»؟",
+   "c": [
+    "يوكيو ميشيما",
+    "كنزابورو أوي",
+    "هاروكي موراكامي",
+    "كازو إيشيغورو"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "en": {
+   "q": "Who wrote the Russian novel 'Crime and Punishment'?",
+   "c": [
+    "Ivan Turgenev",
+    "Nikolai Gogol",
+    "Leo Tolstoy",
+    "Fyodor Dostoevsky"
+   ]
+  },
+  "fr": {
+   "q": "Qui a écrit le roman russe « Crime et Châtiment » ?",
+   "c": [
+    "Ivan Tourgueniev",
+    "Nicolas Gogol",
+    "Léon Tolstoï",
+    "Fiodor Dostoïevski"
+   ]
+  },
+  "es": {
+   "q": "¿Quién escribió la novela rusa «Crimen y castigo»?",
+   "c": [
+    "Iván Turguénev",
+    "Nikolái Gógol",
+    "León Tolstói",
+    "Fiódor Dostoyevski"
+   ]
+  },
+  "pt": {
+   "q": "Quem escreveu o romance russo «Crime e Castigo»?",
+   "c": [
+    "Ivan Turguêniev",
+    "Nikolai Gógol",
+    "Liev Tolstói",
+    "Fiódor Dostoiévski"
+   ]
+  },
+  "ar": {
+   "q": "من كتب الرواية الروسية «الجريمة والعقاب»؟",
+   "c": [
+    "إيفان تورغينيف",
+    "نيقولاي غوغول",
+    "ليو تولستوي",
+    "فيودور دوستويفسكي"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "en": {
+   "q": "Which Lebanese-American poet wrote 'The Prophet'?",
+   "c": [
+    "Mahmoud Darwish",
+    "Adonis",
+    "Nizar Qabbani",
+    "Khalil Gibran"
+   ]
+  },
+  "fr": {
+   "q": "Quel poète libano-américain a écrit « Le Prophète » ?",
+   "c": [
+    "Mahmoud Darwish",
+    "Adonis",
+    "Nizar Qabbani",
+    "Khalil Gibran"
+   ]
+  },
+  "es": {
+   "q": "¿Qué poeta libanés-estadounidense escribió «El profeta»?",
+   "c": [
+    "Mahmoud Darwish",
+    "Adonis",
+    "Nizar Qabbani",
+    "Khalil Gibran"
+   ]
+  },
+  "pt": {
+   "q": "Qual poeta libano-americano escreveu «O Profeta»?",
+   "c": [
+    "Mahmoud Darwish",
+    "Adonis",
+    "Nizar Qabbani",
+    "Khalil Gibran"
+   ]
+  },
+  "ar": {
+   "q": "أي شاعر لبناني أمريكي ألّف «النبي»؟",
+   "c": [
+    "محمود درويش",
+    "أدونيس",
+    "نزار قباني",
+    "جبران خليل جبران"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "en": {
+   "q": "Which South African singer was nicknamed 'Mama Africa'?",
+   "c": [
+    "Aretha Franklin",
+    "Miriam Makeba",
+    "Celia Cruz",
+    "Whitney Houston"
+   ]
+  },
+  "fr": {
+   "q": "Quelle chanteuse sud-africaine était surnommée « Mama Africa » ?",
+   "c": [
+    "Aretha Franklin",
+    "Miriam Makeba",
+    "Celia Cruz",
+    "Whitney Houston"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cantante sudafricana era apodada «Mama Africa»?",
+   "c": [
+    "Aretha Franklin",
+    "Miriam Makeba",
+    "Celia Cruz",
+    "Whitney Houston"
+   ]
+  },
+  "pt": {
+   "q": "Qual cantora sul-africana era apelidada de «Mama Africa»?",
+   "c": [
+    "Aretha Franklin",
+    "Miriam Makeba",
+    "Celia Cruz",
+    "Whitney Houston"
+   ]
+  },
+  "ar": {
+   "q": "أي مغنية جنوب أفريقية لُقّبت بـ«ماما أفريكا»؟",
+   "c": [
+    "أريثا فرانكلين",
+    "ميريام ماكيبا",
+    "سيليا كروز",
+    "ويتني هيوستن"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "en": {
+   "q": "Which hero spends ten years returning home in Homer's 'Odyssey'?",
+   "c": [
+    "Odysseus",
+    "Agamemnon",
+    "Achilles",
+    "Hector"
+   ]
+  },
+  "fr": {
+   "q": "Quel héros met dix ans à rentrer chez lui dans « L'Odyssée » d'Homère ?",
+   "c": [
+    "Ulysse",
+    "Agamemnon",
+    "Achille",
+    "Hector"
+   ]
+  },
+  "es": {
+   "q": "¿Qué héroe tarda diez años en volver a casa en «La Odisea» de Homero?",
+   "c": [
+    "Odiseo",
+    "Agamenón",
+    "Aquiles",
+    "Héctor"
+   ]
+  },
+  "pt": {
+   "q": "Qual herói leva dez anos para voltar para casa na «Odisseia» de Homero?",
+   "c": [
+    "Ulisses",
+    "Agamêmnon",
+    "Aquiles",
+    "Heitor"
+   ]
+  },
+  "ar": {
+   "q": "أي بطل يقضي عشر سنوات في العودة إلى وطنه في «أوديسة» هوميروس؟",
+   "c": [
+    "أوديسيوس",
+    "أغاممنون",
+    "أخيل",
+    "هكتور"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 17
+ },
+ {
+  "en": {
+   "q": "Which Canadian singer recorded 'My Heart Will Go On' for 'Titanic'?",
+   "c": [
+    "Alanis Morissette",
+    "Avril Lavigne",
+    "Céline Dion",
+    "Shania Twain"
+   ]
+  },
+  "fr": {
+   "q": "Quelle chanteuse canadienne a enregistré « My Heart Will Go On » pour « Titanic » ?",
+   "c": [
+    "Alanis Morissette",
+    "Avril Lavigne",
+    "Céline Dion",
+    "Shania Twain"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cantante canadiense grabó «My Heart Will Go On» para «Titanic»?",
+   "c": [
+    "Alanis Morissette",
+    "Avril Lavigne",
+    "Céline Dion",
+    "Shania Twain"
+   ]
+  },
+  "pt": {
+   "q": "Qual cantora canadense gravou «My Heart Will Go On» para «Titanic»?",
+   "c": [
+    "Alanis Morissette",
+    "Avril Lavigne",
+    "Céline Dion",
+    "Shania Twain"
+   ]
+  },
+  "ar": {
+   "q": "أي مغنية كندية سجلت «My Heart Will Go On» لفيلم «تايتانيك»؟",
+   "c": [
+    "ألانيس موريسيت",
+    "أفريل لافين",
+    "سيلين ديون",
+    "شانيا توين"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "en": {
+   "q": "Which New Zealand director made 'The Lord of the Rings' trilogy?",
+   "c": [
+    "Sam Raimi",
+    "Peter Jackson",
+    "Tim Burton",
+    "Ridley Scott"
+   ]
+  },
+  "fr": {
+   "q": "Quel réalisateur néo-zélandais a fait la trilogie « Le Seigneur des anneaux » ?",
+   "c": [
+    "Sam Raimi",
+    "Peter Jackson",
+    "Tim Burton",
+    "Ridley Scott"
+   ]
+  },
+  "es": {
+   "q": "¿Qué director neozelandés hizo la trilogía «El señor de los anillos»?",
+   "c": [
+    "Sam Raimi",
+    "Peter Jackson",
+    "Tim Burton",
+    "Ridley Scott"
+   ]
+  },
+  "pt": {
+   "q": "Qual diretor neozelandês fez a trilogia «O Senhor dos Anéis»?",
+   "c": [
+    "Sam Raimi",
+    "Peter Jackson",
+    "Tim Burton",
+    "Ridley Scott"
+   ]
+  },
+  "ar": {
+   "q": "أي مخرج نيوزيلندي أخرج ثلاثية «سيد الخواتم»؟",
+   "c": [
+    "سام ريمي",
+    "بيتر جاكسون",
+    "تيم بيرتون",
+    "ريدلي سكوت"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "en": {
+   "q": "Which Chinese emperor is buried near the Terracotta Army?",
+   "c": [
+    "Kublai Khan",
+    "Qin Shi Huang",
+    "Puyi",
+    "Wu Zetian"
+   ]
+  },
+  "fr": {
+   "q": "Quel empereur chinois est enterré près de l'armée de terre cuite ?",
+   "c": [
+    "Kubilai Khan",
+    "Qin Shi Huang",
+    "Puyi",
+    "Wu Zetian"
+   ]
+  },
+  "es": {
+   "q": "¿Qué emperador chino está enterrado cerca del Ejército de Terracota?",
+   "c": [
+    "Kublai Kan",
+    "Qin Shi Huang",
+    "Puyi",
+    "Wu Zetian"
+   ]
+  },
+  "pt": {
+   "q": "Qual imperador chinês está enterrado perto do Exército de Terracota?",
+   "c": [
+    "Kublai Khan",
+    "Qin Shi Huang",
+    "Puyi",
+    "Wu Zetian"
+   ]
+  },
+  "ar": {
+   "q": "أي إمبراطور صيني دُفن قرب جيش التيراكوتا؟",
+   "c": [
+    "قوبلاي خان",
+    "تشين شي هوانغ",
+    "بويي",
+    "وو زيتيان"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "en": {
    "q": "Who composed the 'Moonlight Sonata'?",
    "c": [
     "Wolfgang Amadeus Mozart",
@@ -6483,7 +9483,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "en": {
@@ -6533,7 +9533,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "en": {
@@ -6583,7 +9583,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "en": {
@@ -6633,7 +9633,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "en": {
@@ -6683,7 +9683,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "en": {
@@ -6733,7 +9733,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "en": {
@@ -6783,7 +9783,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "en": {
@@ -6833,7 +9833,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "en": {
@@ -6883,57 +9883,57 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "en": {
-   "q": "Which Algerian singer is nicknamed the 'King of Raï'?",
+   "q": "Which Jamaican singer is the reggae icon behind 'No Woman, No Cry'?",
    "c": [
-    "Cheb Khaled",
-    "Cheb Mami",
-    "Rachid Taha",
-    "Cheb Hasni"
+    "Shaggy",
+    "Bob Marley",
+    "Jimmy Cliff",
+    "Sean Paul"
    ]
   },
   "fr": {
-   "q": "Quel chanteur algérien est surnommé le « Roi du raï » ?",
+   "q": "Quel chanteur jamaïcain, icône du reggae, a écrit « No Woman, No Cry » ?",
    "c": [
-    "Cheb Khaled",
-    "Cheb Mami",
-    "Rachid Taha",
-    "Cheb Hasni"
+    "Shaggy",
+    "Bob Marley",
+    "Jimmy Cliff",
+    "Sean Paul"
    ]
   },
   "es": {
-   "q": "¿Qué cantante argelino es apodado el «Rey del Raï»?",
+   "q": "¿Qué cantante jamaicano, icono del reggae, está detrás de «No Woman, No Cry»?",
    "c": [
-    "Cheb Khaled",
-    "Cheb Mami",
-    "Rachid Taha",
-    "Cheb Hasni"
+    "Shaggy",
+    "Bob Marley",
+    "Jimmy Cliff",
+    "Sean Paul"
    ]
   },
   "pt": {
-   "q": "Qual cantor argelino é apelidado de «Rei do Raï»?",
+   "q": "Qual cantor jamaicano, ícone do reggae, está por trás de «No Woman, No Cry»?",
    "c": [
-    "Cheb Khaled",
-    "Cheb Mami",
-    "Rachid Taha",
-    "Cheb Hasni"
+    "Shaggy",
+    "Bob Marley",
+    "Jimmy Cliff",
+    "Sean Paul"
    ]
   },
   "ar": {
-   "q": "أي مغنٍّ جزائري يُلقَّب بـ«ملك الراي»؟",
+   "q": "أي مغن جامايكي، أيقونة الريغي، أدى «No Woman, No Cry»؟",
    "c": [
-    "الشاب خالد",
-    "الشاب مامي",
-    "رشيد طه",
-    "الشاب حسني"
+    "شاغي",
+    "بوب مارلي",
+    "جيمي كليف",
+    "شون بول"
    ]
   },
-  "a": 0,
+  "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "en": {
@@ -6983,7 +9983,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "en": {
@@ -7033,7 +10033,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7083,7 +10083,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7133,7 +10133,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7183,7 +10183,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7233,7 +10233,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7283,7 +10283,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7333,7 +10333,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "en": {
@@ -7383,7 +10383,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "en": {
@@ -7433,7 +10433,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "en": {
@@ -7483,7 +10483,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "en": {
@@ -7533,7 +10533,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "en": {
@@ -7583,7 +10583,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "en": {
@@ -7633,7 +10633,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "en": {
@@ -7683,7 +10683,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "en": {
@@ -7733,7 +10733,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7783,7 +10783,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7833,7 +10833,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7883,7 +10883,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7933,7 +10933,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7983,7 +10983,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8033,7 +11033,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8083,7 +11083,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8133,7 +11133,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8183,7 +11183,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "en": {
@@ -8233,7 +11233,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "en": {
@@ -8283,7 +11283,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "en": {
@@ -8333,7 +11333,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "en": {
@@ -8383,7 +11383,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "en": {
@@ -8433,7 +11433,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "en": {
@@ -8483,7 +11483,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "en": {
@@ -8533,7 +11533,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "en": {
@@ -8583,7 +11583,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "en": {
@@ -8633,57 +11633,57 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "en": {
-   "q": "Which style of Arab-Andalusian music is especially associated with Constantine, Algeria?",
+   "q": "Which Chilean Nobel-winning poet wrote 'Twenty Love Poems and a Song of Despair'?",
    "c": [
-    "Malouf",
-    "Raï",
-    "Gnawa",
-    "Chaabi"
+    "Octavio Paz",
+    "Gabriela Mistral",
+    "Jorge Luis Borges",
+    "Pablo Neruda"
    ]
   },
   "fr": {
-   "q": "Quel style de musique arabo-andalouse est particulièrement associé à Constantine, en Algérie ?",
+   "q": "Quel poète chilien, prix Nobel, a écrit « Vingt poèmes d'amour et une chanson désespérée » ?",
    "c": [
-    "Malouf",
-    "Raï",
-    "Gnawa",
-    "Chaabi"
+    "Octavio Paz",
+    "Gabriela Mistral",
+    "Jorge Luis Borges",
+    "Pablo Neruda"
    ]
   },
   "es": {
-   "q": "¿Qué estilo de música arabo-andalusí se asocia especialmente con Constantina, en Argelia?",
+   "q": "¿Qué poeta chileno, premio Nobel, escribió «Veinte poemas de amor y una canción desesperada»?",
    "c": [
-    "Malouf",
-    "Raï",
-    "Gnawa",
-    "Chaabi"
+    "Octavio Paz",
+    "Gabriela Mistral",
+    "Jorge Luis Borges",
+    "Pablo Neruda"
    ]
   },
   "pt": {
-   "q": "Qual estilo de música árabe-andaluza é especialmente associado a Constantina, na Argélia?",
+   "q": "Qual poeta chileno, ganhador do Nobel, escreveu «Vinte poemas de amor e uma canção desesperada»?",
    "c": [
-    "Malouf",
-    "Raï",
-    "Gnawa",
-    "Chaabi"
+    "Octavio Paz",
+    "Gabriela Mistral",
+    "Jorge Luis Borges",
+    "Pablo Neruda"
    ]
   },
   "ar": {
-   "q": "أي لون من الموسيقى العربية الأندلسية يرتبط بقسنطينة في الجزائر؟",
+   "q": "أي شاعر تشيلي حائز على نوبل ألّف «عشرون قصيدة حب وأغنية يأس»؟",
    "c": [
-    "المالوف",
-    "الراي",
-    "القناوة",
-    "الشعبي"
+    "أوكتافيو باث",
+    "غابرييلا ميسترال",
+    "خورخي لويس بورخيس",
+    "بابلو نيرودا"
    ]
   },
-  "a": 0,
+  "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "en": {
@@ -8733,7 +11733,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "en": {
@@ -8783,11 +11783,11 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "type": "order",
-  "level": 15,
+  "level": 20,
   "image": null,
   "a": 0,
   "fr": {
@@ -8884,7 +11884,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -8934,7 +11934,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -8984,7 +11984,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -9034,7 +12034,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -9084,7 +12084,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -9134,7 +12134,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -9184,7 +12184,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -9234,7 +12234,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -9284,7 +12284,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -9334,7 +12334,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -9384,7 +12384,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -9434,7 +12434,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -9484,7 +12484,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -9534,7 +12534,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -9584,7 +12584,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -9634,7 +12634,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -9684,7 +12684,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -9734,7 +12734,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -9784,57 +12784,57 @@
   },
   "a": 3,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
-   "q": "Who is known as the 'mother of raï' in Algerian music?",
+   "q": "Which Japanese director made 'Seven Samurai' and 'Rashomon'?",
    "c": [
-    "Cheikha Rimitti",
-    "Warda Al-Jazairia",
-    "Souad Massi",
-    "Cherifa"
+    "Akira Kurosawa",
+    "Yasujirō Ozu",
+    "Hayao Miyazaki",
+    "Kenji Mizoguchi"
    ]
   },
   "fr": {
-   "q": "Qui est surnommée la « mère du raï » dans la musique algérienne ?",
+   "q": "Quel réalisateur japonais a fait « Les Sept Samouraïs » et « Rashōmon » ?",
    "c": [
-    "Cheikha Rimitti",
-    "Warda Al-Jazairia",
-    "Souad Massi",
-    "Cherifa"
+    "Akira Kurosawa",
+    "Yasujirō Ozu",
+    "Hayao Miyazaki",
+    "Kenji Mizoguchi"
    ]
   },
   "es": {
-   "q": "¿Quién es conocida como la «madre del raï» en la música argelina?",
+   "q": "¿Qué director japonés hizo «Los siete samuráis» y «Rashomon»?",
    "c": [
-    "Cheikha Rimitti",
-    "Warda Al-Jazairia",
-    "Souad Massi",
-    "Cherifa"
+    "Akira Kurosawa",
+    "Yasujirō Ozu",
+    "Hayao Miyazaki",
+    "Kenji Mizoguchi"
    ]
   },
   "pt": {
-   "q": "Quem é conhecida como a «mãe do raï» na música argelina?",
+   "q": "Qual diretor japonês fez «Os Sete Samurais» e «Rashomon»?",
    "c": [
-    "Cheikha Rimitti",
-    "Warda Al-Jazairia",
-    "Souad Massi",
-    "Cherifa"
+    "Akira Kurosawa",
+    "Yasujirō Ozu",
+    "Hayao Miyazaki",
+    "Kenji Mizoguchi"
    ]
   },
   "ar": {
-   "q": "من تُلقَّب بـ«أم الراي» في الموسيقى الجزائرية؟",
+   "q": "أي مخرج ياباني أخرج «الساموراي السبعة» و«راشومون»؟",
    "c": [
-    "الشيخة الريميتي",
-    "وردة الجزائرية",
-    "سعاد ماسي",
-    "الشريفة"
+    "أكيرا كوروساوا",
+    "ياسوجيرو أوزو",
+    "هاياو ميازاكي",
+    "كينجي ميزوغوتشي"
    ]
   },
   "a": 0,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -9884,7 +12884,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "en": {
@@ -9934,7 +12934,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "en": {
@@ -9984,7 +12984,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "en": {
@@ -10034,7 +13034,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "en": {
@@ -10084,7 +13084,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "en": {
@@ -10134,7 +13134,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "en": {
@@ -10184,7 +13184,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "en": {
@@ -10234,7 +13234,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "en": {
@@ -10284,7 +13284,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "en": {
@@ -10334,7 +13334,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "en": {
@@ -10384,7 +13384,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "en": {
@@ -10434,7 +13434,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "en": {
@@ -10484,7 +13484,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "en": {
@@ -10534,7 +13534,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "en": {
@@ -10584,7 +13584,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "en": {
@@ -10634,7 +13634,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "en": {
@@ -10684,7 +13684,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "en": {
@@ -10734,7 +13734,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "en": {
@@ -10784,57 +13784,57 @@
   },
   "a": 1,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "en": {
-   "q": "Which Kabyle singer and poet, a symbol of Amazigh culture, was killed in 1998?",
+   "q": "Which Nigerian author wrote 'Things Fall Apart' (1958)?",
    "c": [
-    "Idir",
-    "Lounis Aït Menguellet",
-    "Matoub Lounès",
-    "Cheb Hasni"
+    "Wole Soyinka",
+    "Chimamanda Ngozi Adichie",
+    "Chinua Achebe",
+    "Ngũgĩ wa Thiong'o"
    ]
   },
   "fr": {
-   "q": "Quel chanteur et poète kabyle, symbole de la culture amazighe, a été tué en 1998 ?",
+   "q": "Quel auteur nigérian a écrit « Le Monde s'effondre » (1958) ?",
    "c": [
-    "Idir",
-    "Lounis Aït Menguellet",
-    "Matoub Lounès",
-    "Cheb Hasni"
+    "Wole Soyinka",
+    "Chimamanda Ngozi Adichie",
+    "Chinua Achebe",
+    "Ngũgĩ wa Thiong'o"
    ]
   },
   "es": {
-   "q": "¿Qué cantante y poeta cabilio, símbolo de la cultura amazigh, fue asesinado en 1998?",
+   "q": "¿Qué autor nigeriano escribió «Todo se desmorona» (1958)?",
    "c": [
-    "Idir",
-    "Lounis Aït Menguellet",
-    "Matoub Lounès",
-    "Cheb Hasni"
+    "Wole Soyinka",
+    "Chimamanda Ngozi Adichie",
+    "Chinua Achebe",
+    "Ngũgĩ wa Thiong'o"
    ]
   },
   "pt": {
-   "q": "Qual cantor e poeta cabila, símbolo da cultura amazigue, foi morto em 1998?",
+   "q": "Qual autor nigeriano escreveu «O Mundo se Despedaça» (1958)?",
    "c": [
-    "Idir",
-    "Lounis Aït Menguellet",
-    "Matoub Lounès",
-    "Cheb Hasni"
+    "Wole Soyinka",
+    "Chimamanda Ngozi Adichie",
+    "Chinua Achebe",
+    "Ngũgĩ wa Thiong'o"
    ]
   },
   "ar": {
-   "q": "أي مغنٍّ وشاعر قبائلي، رمز للثقافة الأمازيغية، قُتل عام 1998؟",
+   "q": "أي كاتب نيجيري ألّف «الأشياء تتداعى» (1958)؟",
    "c": [
-    "إيدير",
-    "لونيس آيت منقلات",
-    "معطوب لوناس",
-    "الشاب حسني"
+    "وولي سوينكا",
+    "تشيماماندا نغوزي أديتشي",
+    "تشينوا أتشيبي",
+    "نغوغي وا ثيونغو"
    ]
   },
   "a": 2,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "en": {
@@ -10884,7 +13884,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "en": {
@@ -10934,7 +13934,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "en": {
@@ -10984,7 +13984,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "en": {
@@ -11034,7 +14034,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "en": {
@@ -11084,7 +14084,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "en": {
@@ -11134,7 +14134,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "en": {
@@ -11184,7 +14184,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "en": {
@@ -11234,7 +14234,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "en": {
@@ -11284,7 +14284,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "en": {
@@ -11334,6 +14334,6 @@
   },
   "a": 1,
   "image": null,
-  "level": 20
+  "level": 25
  }
 ]

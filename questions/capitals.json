@@ -851,101 +851,101 @@
  },
  {
   "fr": {
-   "q": "Quelle ville algérienne est surnommée « la Blanche » ?",
+   "q": "Quel est le plus grand pays du monde par sa superficie ?",
    "c": [
-    "Alger",
-    "Oran",
-    "Annaba",
-    "Sétif"
+    "Le Canada",
+    "La Russie",
+    "La Chine",
+    "Le Brésil"
    ]
   },
   "en": {
-   "q": "Which Algerian city is nicknamed “the White City”?",
+   "q": "What is the largest country in the world by area?",
    "c": [
-    "Algiers",
-    "Oran",
-    "Annaba",
-    "Sétif"
+    "Canada",
+    "Russia",
+    "China",
+    "Brazil"
    ]
   },
   "ar": {
-   "q": "أي مدينة جزائرية تُلقَّب بـ«البيضاء»؟",
+   "q": "ما هي أكبر دولة في العالم من حيث المساحة؟",
    "c": [
-    "الجزائر العاصمة",
-    "وهران",
-    "عنابة",
-    "سطيف"
+    "كندا",
+    "روسيا",
+    "الصين",
+    "البرازيل"
    ]
   },
   "es": {
-   "q": "¿Qué ciudad argelina es apodada «la Blanca»?",
+   "q": "¿Cuál es el país más grande del mundo por superficie?",
    "c": [
-    "Argel",
-    "Orán",
-    "Annaba",
-    "Sétif"
+    "Canadá",
+    "Rusia",
+    "China",
+    "Brasil"
    ]
   },
   "pt": {
-   "q": "Que cidade argelina é apelidada de «a Branca»?",
+   "q": "Qual é o maior país do mundo em área?",
    "c": [
-    "Argel",
-    "Orã",
-    "Annaba",
-    "Sétif"
+    "Canadá",
+    "Rússia",
+    "China",
+    "Brasil"
    ]
   },
-  "a": 0,
+  "a": 1,
   "image": null,
   "level": 3
  },
  {
   "fr": {
-   "q": "Quel pays est le voisin de l'Algérie à l'ouest ?",
+   "q": "Quel pays est situé juste au sud des États-Unis ?",
    "c": [
-    "La Libye",
-    "Le Maroc",
-    "L'Égypte",
-    "Le Soudan"
+    "Le Canada",
+    "Le Brésil",
+    "Le Mexique",
+    "Cuba"
    ]
   },
   "en": {
-   "q": "Which country is Algeria's neighbor to the west?",
+   "q": "Which country lies just south of the United States?",
    "c": [
-    "Libya",
-    "Morocco",
-    "Egypt",
-    "Sudan"
+    "Canada",
+    "Brazil",
+    "Mexico",
+    "Cuba"
    ]
   },
   "ar": {
-   "q": "ما هو البلد المجاور للجزائر من الغرب؟",
+   "q": "أي بلد يقع جنوب الولايات المتحدة مباشرة؟",
    "c": [
-    "ليبيا",
-    "المغرب",
-    "مصر",
-    "السودان"
+    "كندا",
+    "البرازيل",
+    "المكسيك",
+    "كوبا"
    ]
   },
   "es": {
-   "q": "¿Qué país es vecino de Argelia por el oeste?",
+   "q": "¿Qué país está justo al sur de Estados Unidos?",
    "c": [
-    "Libia",
-    "Marruecos",
-    "Egipto",
-    "Sudán"
+    "Canadá",
+    "Brasil",
+    "México",
+    "Cuba"
    ]
   },
   "pt": {
-   "q": "Que país é vizinho da Argélia a oeste?",
+   "q": "Que país fica logo ao sul dos Estados Unidos?",
    "c": [
-    "Líbia",
-    "Marrocos",
-    "Egito",
-    "Sudão"
+    "Canadá",
+    "Brasil",
+    "México",
+    "Cuba"
    ]
   },
-  "a": 1,
+  "a": 2,
   "image": null,
   "level": 3
  },
@@ -1001,47 +1001,47 @@
  },
  {
   "fr": {
-   "q": "Dans quel pays se trouve la ville d'Oran ?",
+   "q": "Dans quel pays se trouve la ville de Johannesburg ?",
    "c": [
-    "L'Algérie",
-    "Le Maroc",
-    "La Tunisie",
+    "L'Afrique du Sud",
+    "Le Kenya",
+    "Le Nigeria",
     "L'Égypte"
    ]
   },
   "en": {
-   "q": "In which country is the city of Oran?",
+   "q": "In which country is the city of Johannesburg?",
    "c": [
-    "Algeria",
-    "Morocco",
-    "Tunisia",
+    "South Africa",
+    "Kenya",
+    "Nigeria",
     "Egypt"
    ]
   },
   "ar": {
-   "q": "في أي بلد تقع مدينة وهران؟",
+   "q": "في أي بلد تقع مدينة جوهانسبرغ؟",
    "c": [
-    "الجزائر",
-    "المغرب",
-    "تونس",
+    "جنوب أفريقيا",
+    "كينيا",
+    "نيجيريا",
     "مصر"
    ]
   },
   "es": {
-   "q": "¿En qué país está la ciudad de Orán?",
+   "q": "¿En qué país está la ciudad de Johannesburgo?",
    "c": [
-    "Argelia",
-    "Marruecos",
-    "Túnez",
+    "Sudáfrica",
+    "Kenia",
+    "Nigeria",
     "Egipto"
    ]
   },
   "pt": {
-   "q": "Em que país fica a cidade de Orã?",
+   "q": "Em que país fica a cidade de Joanesburgo?",
    "c": [
-    "Argélia",
-    "Marrocos",
-    "Tunísia",
+    "África do Sul",
+    "Quênia",
+    "Nigéria",
     "Egito"
    ]
   },
@@ -5201,51 +5201,51 @@
  },
  {
   "fr": {
-   "q": "Capitale de l'Algérie ?",
+   "q": "Dans quelle ville se trouve le célèbre carrefour de Shibuya ?",
    "c": [
-    "Alger",
-    "Constantine",
-    "Oran",
-    "Annaba"
+    "Osaka",
+    "Séoul",
+    "Pékin",
+    "Tokyo"
    ]
   },
   "en": {
-   "q": "Capital of Algeria?",
+   "q": "In which city is the famous Shibuya Crossing?",
    "c": [
-    "Algiers",
-    "Constantine",
-    "Oran",
-    "Annaba"
+    "Osaka",
+    "Seoul",
+    "Beijing",
+    "Tokyo"
    ]
   },
   "ar": {
-   "q": "ما هي عاصمة الجزائر؟",
+   "q": "في أي مدينة يقع تقاطع شيبويا الشهير؟",
    "c": [
-    "الجزائر العاصمة",
-    "قسنطينة",
-    "وهران",
-    "عنابة"
+    "أوساكا",
+    "سيول",
+    "بكين",
+    "طوكيو"
    ]
   },
   "es": {
-   "q": "¿Cuál es la capital de Argelia?",
+   "q": "¿En qué ciudad está el famoso cruce de Shibuya?",
    "c": [
-    "Argel",
-    "Constantina",
-    "Orán",
-    "Annaba"
+    "Osaka",
+    "Seúl",
+    "Pekín",
+    "Tokio"
    ]
   },
   "pt": {
-   "q": "Qual é a capital da Argélia?",
+   "q": "Em que cidade fica o famoso cruzamento de Shibuya?",
    "c": [
-    "Argel",
-    "Constantina",
-    "Orã",
-    "Annaba"
+    "Osaka",
+    "Seul",
+    "Pequim",
+    "Tóquio"
    ]
   },
-  "a": 0,
+  "a": 3,
   "image": null,
   "level": 11
  },
@@ -5700,49 +5700,49 @@
   "level": 11
  },
  {
-  "en": {
-   "q": "Which country has this flag? 🇩🇿",
+  "fr": {
+   "q": "À quel pays appartient ce drapeau ? 🇮🇩",
    "c": [
-    "Tunisia",
-    "Algeria",
-    "Morocco",
+    "Le Pérou",
+    "L'Indonésie",
+    "Le Canada",
+    "L'Égypte"
+   ]
+  },
+  "en": {
+   "q": "Which country has this flag? 🇮🇩",
+   "c": [
+    "Peru",
+    "Indonesia",
+    "Canada",
     "Egypt"
    ]
   },
-  "fr": {
-   "q": "À quel pays appartient ce drapeau ? 🇩🇿",
+  "ar": {
+   "q": "لأي بلد يعود هذا العلم؟ 🇮🇩",
    "c": [
-    "Tunisie",
-    "Algérie",
-    "Maroc",
-    "Égypte"
+    "بيرو",
+    "إندونيسيا",
+    "كندا",
+    "مصر"
    ]
   },
   "es": {
-   "q": "¿A qué país pertenece esta bandera? 🇩🇿",
+   "q": "¿A qué país pertenece esta bandera? 🇮🇩",
    "c": [
-    "Túnez",
-    "Argelia",
-    "Marruecos",
+    "Perú",
+    "Indonesia",
+    "Canadá",
     "Egipto"
    ]
   },
   "pt": {
-   "q": "A qual país pertence esta bandeira? 🇩🇿",
+   "q": "A qual país pertence esta bandeira? 🇮🇩",
    "c": [
-    "Tunísia",
-    "Argélia",
-    "Marrocos",
+    "Peru",
+    "Indonésia",
+    "Canadá",
     "Egito"
-   ]
-  },
-  "ar": {
-   "q": "لأي بلد يعود هذا العلم؟ 🇩🇿",
-   "c": [
-    "تونس",
-    "الجزائر",
-    "المغرب",
-    "مصر"
    ]
   },
   "a": 1,
@@ -6151,101 +6151,101 @@
  },
  {
   "fr": {
-   "q": "Sur quel continent se trouve l'Algérie ?",
+   "q": "Sur quel continent se trouve le Canada ?",
    "c": [
-    "Afrique",
-    "Europe",
-    "Asie",
-    "Amérique"
+    "L'Europe",
+    "L'Amérique du Sud",
+    "L'Amérique du Nord",
+    "L'Asie"
    ]
   },
   "en": {
-   "q": "On which continent is Algeria?",
+   "q": "On which continent is Canada?",
    "c": [
-    "Africa",
     "Europe",
-    "Asia",
-    "America"
+    "South America",
+    "North America",
+    "Asia"
    ]
   },
   "ar": {
-   "q": "في أي قارة تقع الجزائر؟",
+   "q": "في أي قارة تقع كندا؟",
    "c": [
-    "أفريقيا",
     "أوروبا",
-    "آسيا",
-    "أمريكا"
+    "أمريكا الجنوبية",
+    "أمريكا الشمالية",
+    "آسيا"
    ]
   },
   "es": {
-   "q": "¿En qué continente está Argelia?",
+   "q": "¿En qué continente está Canadá?",
    "c": [
-    "África",
     "Europa",
-    "Asia",
-    "América"
+    "América del Sur",
+    "América del Norte",
+    "Asia"
    ]
   },
   "pt": {
-   "q": "Em que continente fica a Argélia?",
+   "q": "Em que continente fica o Canadá?",
    "c": [
-    "África",
     "Europa",
-    "Ásia",
-    "América"
+    "América do Sul",
+    "América do Norte",
+    "Ásia"
    ]
   },
-  "a": 0,
+  "a": 2,
   "image": null,
   "level": 11
  },
  {
   "fr": {
-   "q": "Quel grand désert couvre le sud de l'Algérie ?",
+   "q": "Quel fleuve est considéré comme sacré en Inde ?",
    "c": [
-    "Gobi",
-    "Kalahari",
-    "Sahara",
-    "Atacama"
+    "Le Nil",
+    "Le Gange",
+    "La Tamise",
+    "Le Mississippi"
    ]
   },
   "en": {
-   "q": "Which great desert covers southern Algeria?",
+   "q": "Which river is considered sacred in India?",
    "c": [
-    "Gobi",
-    "Kalahari",
-    "Sahara",
-    "Atacama"
+    "The Nile",
+    "The Ganges",
+    "The Thames",
+    "The Mississippi"
    ]
   },
   "ar": {
-   "q": "ما هي الصحراء الكبيرة التي تغطي جنوب الجزائر؟",
+   "q": "أي نهر يُعتبر مقدسًا في الهند؟",
    "c": [
-    "غوبي",
-    "كالاهاري",
-    "الصحراء الكبرى",
-    "أتاكاما"
+    "نهر النيل",
+    "نهر الغانج",
+    "نهر التايمز",
+    "نهر المسيسيبي"
    ]
   },
   "es": {
-   "q": "¿Qué gran desierto cubre el sur de Argelia?",
+   "q": "¿Qué río se considera sagrado en la India?",
    "c": [
-    "Gobi",
-    "Kalahari",
-    "Sáhara",
-    "Atacama"
+    "El Nilo",
+    "El Ganges",
+    "El Támesis",
+    "El Misisipi"
    ]
   },
   "pt": {
-   "q": "Que grande deserto cobre o sul da Argélia?",
+   "q": "Que rio é considerado sagrado na Índia?",
    "c": [
-    "Gobi",
-    "Kalahari",
-    "Saara",
-    "Atacama"
+    "O Nilo",
+    "O Ganges",
+    "O Tâmisa",
+    "O Mississippi"
    ]
   },
-  "a": 2,
+  "a": 1,
   "image": null,
   "level": 11
  },
@@ -6351,51 +6351,51 @@
  },
  {
   "fr": {
-   "q": "Quelle mer borde le nord de l'Algérie ?",
+   "q": "Quelle mer sépare l'Italie de la Croatie ?",
    "c": [
-    "Mer Rouge",
-    "Méditerranée",
-    "Mer Noire",
-    "Mer Baltique"
+    "La mer Adriatique",
+    "La mer Noire",
+    "La mer Rouge",
+    "La mer Baltique"
    ]
   },
   "en": {
-   "q": "Which sea borders northern Algeria?",
+   "q": "Which sea separates Italy from Croatia?",
    "c": [
-    "Red Sea",
-    "Mediterranean Sea",
-    "Black Sea",
-    "Baltic Sea"
+    "The Adriatic Sea",
+    "The Black Sea",
+    "The Red Sea",
+    "The Baltic Sea"
    ]
   },
   "ar": {
-   "q": "أي بحر يطل على شمال الجزائر؟",
+   "q": "أي بحر يفصل إيطاليا عن كرواتيا؟",
    "c": [
-    "البحر الأحمر",
-    "البحر الأبيض المتوسط",
+    "البحر الأدرياتيكي",
     "البحر الأسود",
+    "البحر الأحمر",
     "بحر البلطيق"
    ]
   },
   "es": {
-   "q": "¿Qué mar baña el norte de Argelia?",
+   "q": "¿Qué mar separa Italia de Croacia?",
    "c": [
-    "Mar Rojo",
-    "Mar Mediterráneo",
-    "Mar Negro",
-    "Mar Báltico"
+    "El mar Adriático",
+    "El mar Negro",
+    "El mar Rojo",
+    "El mar Báltico"
    ]
   },
   "pt": {
-   "q": "Que mar banha o norte da Argélia?",
+   "q": "Que mar separa a Itália da Croácia?",
    "c": [
-    "Mar Vermelho",
-    "Mar Mediterrâneo",
-    "Mar Negro",
-    "Mar Báltico"
+    "O mar Adriático",
+    "O mar Negro",
+    "O mar Vermelho",
+    "O mar Báltico"
    ]
   },
-  "a": 1,
+  "a": 0,
   "image": null,
   "level": 11
  },
@@ -7561,54 +7561,54 @@
   }
  },
  {
-  "level": 12,
-  "image": "🇩🇿",
-  "a": 1,
   "fr": {
    "q": "À quel pays appartient ce drapeau ?",
    "c": [
-    "Tunisie",
-    "Algérie",
-    "Maroc",
-    "Égypte"
+    "Le Canada",
+    "Autriche",
+    "Le Pérou",
+    "Le Japon"
    ]
   },
   "en": {
    "q": "Which country does this flag belong to?",
    "c": [
-    "Tunisia",
-    "Algeria",
-    "Morocco",
-    "Egypt"
+    "Canada",
+    "Austria",
+    "Peru",
+    "Japan"
    ]
   },
   "ar": {
-   "q": "لأي دولة ينتمي هذا العلم؟",
+   "q": "لأي بلد يعود هذا العلم؟",
    "c": [
-    "تونس",
-    "الجزائر",
-    "المغرب",
-    "مصر"
+    "كندا",
+    "النمسا",
+    "بيرو",
+    "اليابان"
    ]
   },
   "es": {
    "q": "¿A qué país pertenece esta bandera?",
    "c": [
-    "Túnez",
-    "Argelia",
-    "Marruecos",
-    "Egipto"
+    "Canadá",
+    "Austria",
+    "Perú",
+    "Japón"
    ]
   },
   "pt": {
    "q": "A que país pertence esta bandeira?",
    "c": [
-    "Tunísia",
-    "Argélia",
-    "Marrocos",
-    "Egito"
+    "Canadá",
+    "Áustria",
+    "Peru",
+    "Japão"
    ]
-  }
+  },
+  "a": 2,
+  "image": "🇵🇪",
+  "level": 12
  },
  {
   "level": 12,
@@ -8312,6 +8312,3006 @@
  },
  {
   "fr": {
+   "q": "À quel pays appartient ce drapeau ?",
+   "c": [
+    "Allemagne",
+    "Belgique",
+    "Autriche",
+    "Danemark"
+   ]
+  },
+  "en": {
+   "q": "Which country does this flag belong to?",
+   "c": [
+    "Germany",
+    "Belgium",
+    "Austria",
+    "Denmark"
+   ]
+  },
+  "ar": {
+   "q": "لأي بلد يعود هذا العلم؟",
+   "c": [
+    "ألمانيا",
+    "بلجيكا",
+    "النمسا",
+    "الدنمارك"
+   ]
+  },
+  "es": {
+   "q": "¿A qué país pertenece esta bandera?",
+   "c": [
+    "Alemania",
+    "Bélgica",
+    "Austria",
+    "Dinamarca"
+   ]
+  },
+  "pt": {
+   "q": "A que país pertence esta bandeira?",
+   "c": [
+    "Alemanha",
+    "Bélgica",
+    "Áustria",
+    "Dinamarca"
+   ]
+  },
+  "a": 0,
+  "image": "🇩🇪",
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand océan du monde ?",
+   "c": [
+    "L'océan Atlantique",
+    "L'océan Pacifique",
+    "L'océan Indien",
+    "L'océan Arctique"
+   ]
+  },
+  "en": {
+   "q": "What is the largest ocean in the world?",
+   "c": [
+    "The Atlantic Ocean",
+    "The Pacific Ocean",
+    "The Indian Ocean",
+    "The Arctic Ocean"
+   ]
+  },
+  "ar": {
+   "q": "ما هو أكبر محيط في العالم؟",
+   "c": [
+    "المحيط الأطلسي",
+    "المحيط الهادئ",
+    "المحيط الهندي",
+    "المحيط المتجمد الشمالي"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el océano más grande del mundo?",
+   "c": [
+    "El océano Atlántico",
+    "El océano Pacífico",
+    "El océano Índico",
+    "El océano Ártico"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior oceano do mundo?",
+   "c": [
+    "O oceano Atlântico",
+    "O oceano Pacífico",
+    "O oceano Índico",
+    "O oceano Ártico"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve la ville de Moscou ?",
+   "c": [
+    "La Pologne",
+    "L'Ukraine",
+    "La Russie",
+    "La Finlande"
+   ]
+  },
+  "en": {
+   "q": "In which country is the city of Moscow?",
+   "c": [
+    "Poland",
+    "Ukraine",
+    "Russia",
+    "Finland"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد تقع مدينة موسكو؟",
+   "c": [
+    "بولندا",
+    "أوكرانيا",
+    "روسيا",
+    "فنلندا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está la ciudad de Moscú?",
+   "c": [
+    "Polonia",
+    "Ucrania",
+    "Rusia",
+    "Finlandia"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica a cidade de Moscou?",
+   "c": [
+    "Polônia",
+    "Ucrânia",
+    "Rússia",
+    "Finlândia"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve la Grande Barrière de corail ?",
+   "c": [
+    "La Nouvelle-Zélande",
+    "Les Philippines",
+    "L'Indonésie",
+    "L'Australie"
+   ]
+  },
+  "en": {
+   "q": "In which country is the Great Barrier Reef?",
+   "c": [
+    "New Zealand",
+    "The Philippines",
+    "Indonesia",
+    "Australia"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد يقع الحاجز المرجاني العظيم؟",
+   "c": [
+    "نيوزيلندا",
+    "الفلبين",
+    "إندونيسيا",
+    "أستراليا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está la Gran Barrera de Coral?",
+   "c": [
+    "Nueva Zelanda",
+    "Filipinas",
+    "Indonesia",
+    "Australia"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica a Grande Barreira de Corais?",
+   "c": [
+    "Nova Zelândia",
+    "Filipinas",
+    "Indonésia",
+    "Austrália"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand continent du monde ?",
+   "c": [
+    "L'Afrique",
+    "L'Asie",
+    "L'Europe",
+    "L'Amérique du Nord"
+   ]
+  },
+  "en": {
+   "q": "Which is the largest continent?",
+   "c": [
+    "Africa",
+    "Asia",
+    "Europe",
+    "North America"
+   ]
+  },
+  "ar": {
+   "q": "ما هي أكبر قارة في العالم؟",
+   "c": [
+    "أفريقيا",
+    "آسيا",
+    "أوروبا",
+    "أمريكا الشمالية"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el continente más grande?",
+   "c": [
+    "África",
+    "Asia",
+    "Europa",
+    "América del Norte"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior continente?",
+   "c": [
+    "África",
+    "Ásia",
+    "Europa",
+    "América do Norte"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve le mont Fuji ?",
+   "c": [
+    "La Chine",
+    "La Corée du Sud",
+    "Le Japon",
+    "La Thaïlande"
+   ]
+  },
+  "en": {
+   "q": "In which country is Mount Fuji?",
+   "c": [
+    "China",
+    "South Korea",
+    "Japan",
+    "Thailand"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد يقع جبل فوجي؟",
+   "c": [
+    "الصين",
+    "كوريا الجنوبية",
+    "اليابان",
+    "تايلاند"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está el monte Fuji?",
+   "c": [
+    "China",
+    "Corea del Sur",
+    "Japón",
+    "Tailandia"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica o monte Fuji?",
+   "c": [
+    "China",
+    "Coreia do Sul",
+    "Japão",
+    "Tailândia"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve la ville de Shanghai ?",
+   "c": [
+    "Le Japon",
+    "L'Inde",
+    "Le Vietnam",
+    "La Chine"
+   ]
+  },
+  "en": {
+   "q": "In which country is the city of Shanghai?",
+   "c": [
+    "Japan",
+    "India",
+    "Vietnam",
+    "China"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد تقع مدينة شنغهاي؟",
+   "c": [
+    "اليابان",
+    "الهند",
+    "فيتنام",
+    "الصين"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está la ciudad de Shanghái?",
+   "c": [
+    "Japón",
+    "India",
+    "Vietnam",
+    "China"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica a cidade de Xangai?",
+   "c": [
+    "Japão",
+    "Índia",
+    "Vietnã",
+    "China"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve la ville d'Istanbul ?",
+   "c": [
+    "La Turquie",
+    "La Grèce",
+    "L'Égypte",
+    "L'Iran"
+   ]
+  },
+  "en": {
+   "q": "In which country is the city of Istanbul?",
+   "c": [
+    "Turkey",
+    "Greece",
+    "Egypt",
+    "Iran"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد تقع مدينة إسطنبول؟",
+   "c": [
+    "تركيا",
+    "اليونان",
+    "مصر",
+    "إيران"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está la ciudad de Estambul?",
+   "c": [
+    "Turquía",
+    "Grecia",
+    "Egipto",
+    "Irán"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica a cidade de Istambul?",
+   "c": [
+    "Turquia",
+    "Grécia",
+    "Egito",
+    "Irã"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Dans quel État américain se trouve la ville de Miami ?",
+   "c": [
+    "Le Texas",
+    "La Californie",
+    "La Floride",
+    "La Louisiane"
+   ]
+  },
+  "en": {
+   "q": "In which US state is the city of Miami?",
+   "c": [
+    "Texas",
+    "California",
+    "Florida",
+    "Louisiana"
+   ]
+  },
+  "ar": {
+   "q": "في أي ولاية أمريكية تقع مدينة ميامي؟",
+   "c": [
+    "تكساس",
+    "كاليفورنيا",
+    "فلوريدا",
+    "لويزيانا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué estado de EE. UU. está la ciudad de Miami?",
+   "c": [
+    "Texas",
+    "California",
+    "Florida",
+    "Luisiana"
+   ]
+  },
+  "pt": {
+   "q": "Em que estado dos EUA fica a cidade de Miami?",
+   "c": [
+    "Texas",
+    "Califórnia",
+    "Flórida",
+    "Luisiana"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quelle langue parle-t-on principalement au Mexique ?",
+   "c": [
+    "Le portugais",
+    "L'anglais",
+    "Le français",
+    "L'espagnol"
+   ]
+  },
+  "en": {
+   "q": "Which language is mainly spoken in Mexico?",
+   "c": [
+    "Portuguese",
+    "English",
+    "French",
+    "Spanish"
+   ]
+  },
+  "ar": {
+   "q": "ما اللغة الأكثر استخدامًا في المكسيك؟",
+   "c": [
+    "البرتغالية",
+    "الإنجليزية",
+    "الفرنسية",
+    "الإسبانية"
+   ]
+  },
+  "es": {
+   "q": "¿Qué idioma se habla principalmente en México?",
+   "c": [
+    "El portugués",
+    "El inglés",
+    "El francés",
+    "El español"
+   ]
+  },
+  "pt": {
+   "q": "Que idioma se fala principalmente no México?",
+   "c": [
+    "O português",
+    "O inglês",
+    "O francês",
+    "O espanhol"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel pays est célèbre pour ses fjords ?",
+   "c": [
+    "La Norvège",
+    "L'Espagne",
+    "Le Brésil",
+    "Le Mexique"
+   ]
+  },
+  "en": {
+   "q": "Which country is famous for its fjords?",
+   "c": [
+    "Norway",
+    "Spain",
+    "Brazil",
+    "Mexico"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد مشهور بالمضايق البحرية (الفيوردات)؟",
+   "c": [
+    "النرويج",
+    "إسبانيا",
+    "البرازيل",
+    "المكسيك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país es famoso por sus fiordos?",
+   "c": [
+    "Noruega",
+    "España",
+    "Brasil",
+    "México"
+   ]
+  },
+  "pt": {
+   "q": "Que país é famoso pelos seus fiordes?",
+   "c": [
+    "Noruega",
+    "Espanha",
+    "Brasil",
+    "México"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus petit continent ?",
+   "c": [
+    "L'Europe",
+    "L'Océanie",
+    "L'Antarctique",
+    "L'Amérique du Sud"
+   ]
+  },
+  "en": {
+   "q": "Which is the smallest continent?",
+   "c": [
+    "Europe",
+    "Oceania",
+    "Antarctica",
+    "South America"
+   ]
+  },
+  "ar": {
+   "q": "ما هي أصغر قارة؟",
+   "c": [
+    "أوروبا",
+    "أوقيانوسيا",
+    "القارة القطبية الجنوبية",
+    "أمريكا الجنوبية"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el continente más pequeño?",
+   "c": [
+    "Europa",
+    "Oceanía",
+    "La Antártida",
+    "América del Sur"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o menor continente?",
+   "c": [
+    "Europa",
+    "Oceania",
+    "A Antártida",
+    "América do Sul"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "À quel pays appartient ce drapeau ?",
+   "c": [
+    "Le Costa Rica",
+    "La Thaïlande",
+    "La Russie",
+    "Les Pays-Bas"
+   ]
+  },
+  "en": {
+   "q": "Which country does this flag belong to?",
+   "c": [
+    "Costa Rica",
+    "Thailand",
+    "Russia",
+    "The Netherlands"
+   ]
+  },
+  "ar": {
+   "q": "لأي بلد يعود هذا العلم؟",
+   "c": [
+    "كوستاريكا",
+    "تايلاند",
+    "روسيا",
+    "هولندا"
+   ]
+  },
+  "es": {
+   "q": "¿A qué país pertenece esta bandera?",
+   "c": [
+    "Costa Rica",
+    "Tailandia",
+    "Rusia",
+    "Países Bajos"
+   ]
+  },
+  "pt": {
+   "q": "A que país pertence esta bandeira?",
+   "c": [
+    "Costa Rica",
+    "Tailândia",
+    "Rússia",
+    "Países Baixos"
+   ]
+  },
+  "a": 1,
+  "image": "🇹🇭",
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve l'île de Crète ?",
+   "c": [
+    "L'Italie",
+    "La Turquie",
+    "La Grèce",
+    "La Croatie"
+   ]
+  },
+  "en": {
+   "q": "In which country is the island of Crete?",
+   "c": [
+    "Italy",
+    "Turkey",
+    "Greece",
+    "Croatia"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد تقع جزيرة كريت؟",
+   "c": [
+    "إيطاليا",
+    "تركيا",
+    "اليونان",
+    "كرواتيا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está la isla de Creta?",
+   "c": [
+    "Italia",
+    "Turquía",
+    "Grecia",
+    "Croacia"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica a ilha de Creta?",
+   "c": [
+    "Itália",
+    "Turquia",
+    "Grécia",
+    "Croácia"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel grand fleuve traverse La Nouvelle-Orléans ?",
+   "c": [
+    "L'Hudson",
+    "Le Colorado",
+    "Le Rio Grande",
+    "Le Mississippi"
+   ]
+  },
+  "en": {
+   "q": "Which major river flows through New Orleans?",
+   "c": [
+    "The Hudson",
+    "The Colorado River",
+    "The Rio Grande",
+    "The Mississippi"
+   ]
+  },
+  "ar": {
+   "q": "أي نهر كبير يمر عبر نيو أورلينز؟",
+   "c": [
+    "نهر هدسون",
+    "نهر كولورادو",
+    "ريو غراندي",
+    "نهر المسيسيبي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué gran río pasa por Nueva Orleans?",
+   "c": [
+    "El Hudson",
+    "El río Colorado",
+    "El río Bravo",
+    "El Misisipi"
+   ]
+  },
+  "pt": {
+   "q": "Que grande rio passa por Nova Orleans?",
+   "c": [
+    "O Hudson",
+    "O rio Colorado",
+    "O Rio Grande",
+    "O Mississippi"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve le palais de l'Alhambra ?",
+   "c": [
+    "L'Espagne",
+    "Le Portugal",
+    "L'Italie",
+    "La France"
+   ]
+  },
+  "en": {
+   "q": "In which country is the Alhambra palace?",
+   "c": [
+    "Spain",
+    "Portugal",
+    "Italy",
+    "France"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد يقع قصر الحمراء؟",
+   "c": [
+    "إسبانيا",
+    "البرتغال",
+    "إيطاليا",
+    "فرنسا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está el palacio de la Alhambra?",
+   "c": [
+    "España",
+    "Portugal",
+    "Italia",
+    "Francia"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica o palácio da Alhambra?",
+   "c": [
+    "Espanha",
+    "Portugal",
+    "Itália",
+    "França"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel pays est célèbre pour Bollywood ?",
+   "c": [
+    "Le Pakistan",
+    "L'Indonésie",
+    "L'Inde",
+    "Le Mexique"
+   ]
+  },
+  "en": {
+   "q": "Which country is famous for Bollywood films?",
+   "c": [
+    "Pakistan",
+    "Indonesia",
+    "India",
+    "Mexico"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد مشهور بأفلام بوليوود؟",
+   "c": [
+    "باكستان",
+    "إندونيسيا",
+    "الهند",
+    "المكسيك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país es famoso por el cine de Bollywood?",
+   "c": [
+    "Pakistán",
+    "Indonesia",
+    "India",
+    "México"
+   ]
+  },
+  "pt": {
+   "q": "Que país é famoso pelo cinema de Bollywood?",
+   "c": [
+    "Paquistão",
+    "Indonésia",
+    "Índia",
+    "México"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve la ville de Lagos ?",
+   "c": [
+    "Le Ghana",
+    "Le Kenya",
+    "Le Sénégal",
+    "Le Nigeria"
+   ]
+  },
+  "en": {
+   "q": "In which country is the city of Lagos?",
+   "c": [
+    "Ghana",
+    "Kenya",
+    "Senegal",
+    "Nigeria"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد تقع مدينة لاغوس؟",
+   "c": [
+    "غانا",
+    "كينيا",
+    "السنغال",
+    "نيجيريا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está la ciudad de Lagos?",
+   "c": [
+    "Ghana",
+    "Kenia",
+    "Senegal",
+    "Nigeria"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica a cidade de Lagos?",
+   "c": [
+    "Gana",
+    "Quênia",
+    "Senegal",
+    "Nigéria"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve la ville de Séoul ?",
+   "c": [
+    "La Corée du Sud",
+    "Le Japon",
+    "La Chine",
+    "Le Vietnam"
+   ]
+  },
+  "en": {
+   "q": "In which country is the city of Seoul?",
+   "c": [
+    "South Korea",
+    "Japan",
+    "China",
+    "Vietnam"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد تقع مدينة سيول؟",
+   "c": [
+    "كوريا الجنوبية",
+    "اليابان",
+    "الصين",
+    "فيتنام"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está la ciudad de Seúl?",
+   "c": [
+    "Corea del Sur",
+    "Japón",
+    "China",
+    "Vietnam"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica a cidade de Seul?",
+   "c": [
+    "Coreia do Sul",
+    "Japão",
+    "China",
+    "Vietnã"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel canal relie la Méditerranée à la mer Rouge ?",
+   "c": [
+    "Le canal de Panama",
+    "Le canal de Suez",
+    "Le canal de Kiel",
+    "Le canal de Corinthe"
+   ]
+  },
+  "en": {
+   "q": "Which canal links the Mediterranean Sea to the Red Sea?",
+   "c": [
+    "The Panama Canal",
+    "The Suez Canal",
+    "The Kiel Canal",
+    "The Corinth Canal"
+   ]
+  },
+  "ar": {
+   "q": "أي قناة تربط البحر المتوسط بالبحر الأحمر؟",
+   "c": [
+    "قناة بنما",
+    "قناة السويس",
+    "قناة كيل",
+    "قناة كورنثوس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué canal une el Mediterráneo con el mar Rojo?",
+   "c": [
+    "El canal de Panamá",
+    "El canal de Suez",
+    "El canal de Kiel",
+    "El canal de Corinto"
+   ]
+  },
+  "pt": {
+   "q": "Que canal liga o Mediterrâneo ao mar Vermelho?",
+   "c": [
+    "O canal do Panamá",
+    "O canal de Suez",
+    "O canal de Kiel",
+    "O canal de Corinto"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand pays d'Amérique du Sud ?",
+   "c": [
+    "L'Argentine",
+    "Le Pérou",
+    "La Colombie",
+    "Le Brésil"
+   ]
+  },
+  "en": {
+   "q": "Which is the largest country in South America?",
+   "c": [
+    "Argentina",
+    "Peru",
+    "Colombia",
+    "Brazil"
+   ]
+  },
+  "ar": {
+   "q": "ما هي أكبر دولة في أمريكا الجنوبية؟",
+   "c": [
+    "الأرجنتين",
+    "بيرو",
+    "كولومبيا",
+    "البرازيل"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el país más grande de América del Sur?",
+   "c": [
+    "Argentina",
+    "Perú",
+    "Colombia",
+    "Brasil"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior país da América do Sul?",
+   "c": [
+    "Argentina",
+    "Peru",
+    "Colômbia",
+    "Brasil"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve la ville de Montréal ?",
+   "c": [
+    "Le Canada",
+    "Les États-Unis",
+    "La France",
+    "Belgique"
+   ]
+  },
+  "en": {
+   "q": "In which country is the city of Montreal?",
+   "c": [
+    "Canada",
+    "The United States",
+    "France",
+    "Belgium"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد تقع مدينة مونتريال؟",
+   "c": [
+    "كندا",
+    "الولايات المتحدة",
+    "فرنسا",
+    "بلجيكا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está la ciudad de Montreal?",
+   "c": [
+    "Canadá",
+    "Estados Unidos",
+    "Francia",
+    "Bélgica"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica a cidade de Montreal?",
+   "c": [
+    "Canadá",
+    "Estados Unidos",
+    "França",
+    "Bélgica"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel pays est surnommé « le pays du Soleil-Levant » ?",
+   "c": [
+    "La Chine",
+    "Le Japon",
+    "La Thaïlande",
+    "L'Inde"
+   ]
+  },
+  "en": {
+   "q": "Which country is nicknamed “the Land of the Rising Sun”?",
+   "c": [
+    "China",
+    "Japan",
+    "Thailand",
+    "India"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد يُلقَّب بـ«بلد الشمس المشرقة»؟",
+   "c": [
+    "الصين",
+    "اليابان",
+    "تايلاند",
+    "الهند"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país es conocido como «la Tierra del Sol Naciente»?",
+   "c": [
+    "China",
+    "Japón",
+    "Tailandia",
+    "India"
+   ]
+  },
+  "pt": {
+   "q": "Que país é conhecido como «Terra do Sol Nascente»?",
+   "c": [
+    "China",
+    "Japão",
+    "Tailândia",
+    "Índia"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel océan borde l'Afrique à l'ouest ?",
+   "c": [
+    "L'océan Pacifique",
+    "L'océan Indien",
+    "L'océan Atlantique",
+    "L'océan Arctique"
+   ]
+  },
+  "en": {
+   "q": "Which ocean lies to the west of Africa?",
+   "c": [
+    "The Pacific Ocean",
+    "The Indian Ocean",
+    "The Atlantic Ocean",
+    "The Arctic Ocean"
+   ]
+  },
+  "ar": {
+   "q": "أي محيط يقع غرب أفريقيا؟",
+   "c": [
+    "المحيط الهادئ",
+    "المحيط الهندي",
+    "المحيط الأطلسي",
+    "المحيط المتجمد الشمالي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué océano baña África por el oeste?",
+   "c": [
+    "El océano Pacífico",
+    "El océano Índico",
+    "El océano Atlántico",
+    "El océano Ártico"
+   ]
+  },
+  "pt": {
+   "q": "Que oceano banha a África a oeste?",
+   "c": [
+    "O oceano Pacífico",
+    "O oceano Índico",
+    "O oceano Atlântico",
+    "O oceano Ártico"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "À quel pays appartient ce drapeau ?",
+   "c": [
+    "Cuba",
+    "La Tchéquie",
+    "Le Chili",
+    "Le Paraguay"
+   ]
+  },
+  "en": {
+   "q": "Which country does this flag belong to?",
+   "c": [
+    "Cuba",
+    "Czech Republic",
+    "Chile",
+    "Paraguay"
+   ]
+  },
+  "ar": {
+   "q": "لأي بلد يعود هذا العلم؟",
+   "c": [
+    "كوبا",
+    "التشيك",
+    "تشيلي",
+    "باراغواي"
+   ]
+  },
+  "es": {
+   "q": "¿A qué país pertenece esta bandera?",
+   "c": [
+    "Cuba",
+    "Chequia",
+    "Chile",
+    "Paraguay"
+   ]
+  },
+  "pt": {
+   "q": "A que país pertence esta bandeira?",
+   "c": [
+    "Cuba",
+    "Tchéquia",
+    "Chile",
+    "Paraguai"
+   ]
+  },
+  "a": 2,
+  "image": "🇨🇱",
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale de la Corée du Nord ?",
+   "c": [
+    "Séoul",
+    "Busan",
+    "Hanoï",
+    "Pyongyang"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of North Korea?",
+   "c": [
+    "Seoul",
+    "Busan",
+    "Hanoi",
+    "Pyongyang"
+   ]
+  },
+  "ar": {
+   "q": "ما هي عاصمة كوريا الشمالية؟",
+   "c": [
+    "سيول",
+    "بوسان",
+    "هانوي",
+    "بيونغ يانغ"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Corea del Norte?",
+   "c": [
+    "Seúl",
+    "Busan",
+    "Hanói",
+    "Pionyang"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital da Coreia do Norte?",
+   "c": [
+    "Seul",
+    "Busan",
+    "Hanói",
+    "Pyongyang"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus long fleuve d'Asie ?",
+   "c": [
+    "Le Yangtsé",
+    "Le Gange",
+    "Le Mékong",
+    "L'Indus"
+   ]
+  },
+  "en": {
+   "q": "Which is the longest river in Asia?",
+   "c": [
+    "The Yangtze",
+    "The Ganges",
+    "The Mekong",
+    "The Indus"
+   ]
+  },
+  "ar": {
+   "q": "ما هو أطول نهر في آسيا؟",
+   "c": [
+    "نهر اليانغتسي",
+    "نهر الغانج",
+    "نهر الميكونغ",
+    "نهر السند"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el río más largo de Asia?",
+   "c": [
+    "El Yangtsé",
+    "El Ganges",
+    "El Mekong",
+    "El Indo"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o rio mais longo da Ásia?",
+   "c": [
+    "O Yangtzé",
+    "O Ganges",
+    "O Mekong",
+    "O Indo"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve le mont Kilimandjaro ?",
+   "c": [
+    "Le Kenya",
+    "La Tanzanie",
+    "L'Ouganda",
+    "L'Éthiopie"
+   ]
+  },
+  "en": {
+   "q": "In which country is Mount Kilimanjaro?",
+   "c": [
+    "Kenya",
+    "Tanzania",
+    "Uganda",
+    "Ethiopia"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد يقع جبل كليمنجارو؟",
+   "c": [
+    "كينيا",
+    "تنزانيا",
+    "أوغندا",
+    "إثيوبيا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está el monte Kilimanjaro?",
+   "c": [
+    "Kenia",
+    "Tanzania",
+    "Uganda",
+    "Etiopía"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica o monte Kilimanjaro?",
+   "c": [
+    "Quênia",
+    "Tanzânia",
+    "Uganda",
+    "Etiópia"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Entre quels deux pays se trouvent les chutes du Niagara ?",
+   "c": [
+    "Canada et Mexique",
+    "États-Unis et Mexique",
+    "Brésil et Argentine",
+    "Canada et États-Unis"
+   ]
+  },
+  "en": {
+   "q": "Between which two countries are Niagara Falls?",
+   "c": [
+    "Canada and Mexico",
+    "United States and Mexico",
+    "Brazil and Argentina",
+    "Canada and the United States"
+   ]
+  },
+  "ar": {
+   "q": "بين أي بلدين تقع شلالات نياغارا؟",
+   "c": [
+    "كندا والمكسيك",
+    "الولايات المتحدة والمكسيك",
+    "البرازيل والأرجنتين",
+    "كندا والولايات المتحدة"
+   ]
+  },
+  "es": {
+   "q": "¿Entre qué dos países están las cataratas del Niágara?",
+   "c": [
+    "Canadá y México",
+    "Estados Unidos y México",
+    "Brasil y Argentina",
+    "Canadá y Estados Unidos"
+   ]
+  },
+  "pt": {
+   "q": "Entre quais dois países ficam as cataratas do Niágara?",
+   "c": [
+    "Canadá e México",
+    "Estados Unidos e México",
+    "Brasil e Argentina",
+    "Canadá e Estados Unidos"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "À quel pays appartiennent les îles Galápagos ?",
+   "c": [
+    "L'Équateur",
+    "Le Pérou",
+    "La Colombie",
+    "Le Mexique"
+   ]
+  },
+  "en": {
+   "q": "Which country do the Galápagos Islands belong to?",
+   "c": [
+    "Ecuador",
+    "Peru",
+    "Colombia",
+    "Mexico"
+   ]
+  },
+  "ar": {
+   "q": "إلى أي بلد تنتمي جزر غالاباغوس؟",
+   "c": [
+    "الإكوادور",
+    "بيرو",
+    "كولومبيا",
+    "المكسيك"
+   ]
+  },
+  "es": {
+   "q": "¿A qué país pertenecen las islas Galápagos?",
+   "c": [
+    "Ecuador",
+    "Perú",
+    "Colombia",
+    "México"
+   ]
+  },
+  "pt": {
+   "q": "A que país pertencem as ilhas Galápagos?",
+   "c": [
+    "Equador",
+    "Peru",
+    "Colômbia",
+    "México"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "De quel pays l'île de Bali fait-elle partie ?",
+   "c": [
+    "Les Philippines",
+    "L'Indonésie",
+    "La Malaisie",
+    "La Thaïlande"
+   ]
+  },
+  "en": {
+   "q": "Which country is the island of Bali part of?",
+   "c": [
+    "The Philippines",
+    "Indonesia",
+    "Malaysia",
+    "Thailand"
+   ]
+  },
+  "ar": {
+   "q": "إلى أي بلد تنتمي جزيرة بالي؟",
+   "c": [
+    "الفلبين",
+    "إندونيسيا",
+    "ماليزيا",
+    "تايلاند"
+   ]
+  },
+  "es": {
+   "q": "¿De qué país forma parte la isla de Bali?",
+   "c": [
+    "Filipinas",
+    "Indonesia",
+    "Malasia",
+    "Tailandia"
+   ]
+  },
+  "pt": {
+   "q": "De que país faz parte a ilha de Bali?",
+   "c": [
+    "Filipinas",
+    "Indonésia",
+    "Malásia",
+    "Tailândia"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel désert s'étend sur la Mongolie et le nord de la Chine ?",
+   "c": [
+    "Le Kalahari",
+    "L'Atacama",
+    "Le Gobi",
+    "Le désert d'Arabie"
+   ]
+  },
+  "en": {
+   "q": "Which desert covers parts of Mongolia and northern China?",
+   "c": [
+    "The Kalahari",
+    "The Atacama",
+    "The Gobi",
+    "The Arabian Desert"
+   ]
+  },
+  "ar": {
+   "q": "أي صحراء تمتد عبر منغوليا وشمال الصين؟",
+   "c": [
+    "صحراء كالاهاري",
+    "صحراء أتاكاما",
+    "صحراء غوبي",
+    "الصحراء العربية"
+   ]
+  },
+  "es": {
+   "q": "¿Qué desierto se extiende por Mongolia y el norte de China?",
+   "c": [
+    "El Kalahari",
+    "El Atacama",
+    "El Gobi",
+    "El desierto de Arabia"
+   ]
+  },
+  "pt": {
+   "q": "Que deserto se estende pela Mongólia e pelo norte da China?",
+   "c": [
+    "O Kalahari",
+    "O Atacama",
+    "O Gobi",
+    "O deserto da Arábia"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quelle chaîne de montagnes longe la côte ouest de l'Amérique du Sud ?",
+   "c": [
+    "Les Andes",
+    "Les Rocheuses",
+    "Les Alpes",
+    "L'Himalaya"
+   ]
+  },
+  "en": {
+   "q": "Which mountain range runs along the west coast of South America?",
+   "c": [
+    "The Andes",
+    "The Rocky Mountains",
+    "The Alps",
+    "The Himalayas"
+   ]
+  },
+  "ar": {
+   "q": "أي سلسلة جبلية تمتد على الساحل الغربي لأمريكا الجنوبية؟",
+   "c": [
+    "جبال الأنديز",
+    "جبال روكي",
+    "جبال الألب",
+    "جبال الهيمالايا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cordillera recorre la costa oeste de América del Sur?",
+   "c": [
+    "Los Andes",
+    "Las Rocosas",
+    "Los Alpes",
+    "El Himalaya"
+   ]
+  },
+  "pt": {
+   "q": "Que cordilheira percorre a costa oeste da América do Sul?",
+   "c": [
+    "Os Andes",
+    "As Montanhas Rochosas",
+    "Os Alpes",
+    "O Himalaia"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quelle ville japonaise fut capitale impériale pendant plus de mille ans ?",
+   "c": [
+    "Osaka",
+    "Kyoto",
+    "Hiroshima",
+    "Sapporo"
+   ]
+  },
+  "en": {
+   "q": "Which Japanese city was the imperial capital for over a thousand years?",
+   "c": [
+    "Osaka",
+    "Kyoto",
+    "Hiroshima",
+    "Sapporo"
+   ]
+  },
+  "ar": {
+   "q": "أي مدينة يابانية كانت العاصمة الإمبراطورية لأكثر من ألف عام؟",
+   "c": [
+    "أوساكا",
+    "كيوتو",
+    "هيروشيما",
+    "سابورو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ciudad japonesa fue capital imperial durante más de mil años?",
+   "c": [
+    "Osaka",
+    "Kioto",
+    "Hiroshima",
+    "Sapporo"
+   ]
+  },
+  "pt": {
+   "q": "Que cidade japonesa foi capital imperial por mais de mil anos?",
+   "c": [
+    "Osaka",
+    "Quioto",
+    "Hiroshima",
+    "Sapporo"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale de la Jamaïque ?",
+   "c": [
+    "Montego Bay",
+    "Nassau",
+    "Kingston",
+    "Port-d'Espagne"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of Jamaica?",
+   "c": [
+    "Montego Bay",
+    "Nassau",
+    "Kingston",
+    "Port of Spain"
+   ]
+  },
+  "ar": {
+   "q": "ما هي عاصمة جامايكا؟",
+   "c": [
+    "مونتيغو باي",
+    "ناساو",
+    "كينغستون",
+    "بورت أوف سبين"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Jamaica?",
+   "c": [
+    "Montego Bay",
+    "Nasáu",
+    "Kingston",
+    "Puerto España"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital da Jamaica?",
+   "c": [
+    "Montego Bay",
+    "Nassau",
+    "Kingston",
+    "Port of Spain"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale du Panama ?",
+   "c": [
+    "Colón",
+    "San José",
+    "Managua",
+    "Panama"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of Panama?",
+   "c": [
+    "Colón",
+    "San José",
+    "Managua",
+    "Panama City"
+   ]
+  },
+  "ar": {
+   "q": "ما هي عاصمة بنما؟",
+   "c": [
+    "كولون",
+    "سان خوسيه",
+    "ماناغوا",
+    "مدينة بنما"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Panamá?",
+   "c": [
+    "Colón",
+    "San José",
+    "Managua",
+    "Ciudad de Panamá"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital do Panamá?",
+   "c": [
+    "Colón",
+    "San José",
+    "Manágua",
+    "Cidade do Panamá"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "À quel pays appartient ce drapeau ?",
+   "c": [
+    "Autriche",
+    "La Suisse",
+    "Le Canada",
+    "Danemark"
+   ]
+  },
+  "en": {
+   "q": "Which country does this flag belong to?",
+   "c": [
+    "Austria",
+    "Switzerland",
+    "Canada",
+    "Denmark"
+   ]
+  },
+  "ar": {
+   "q": "لأي بلد يعود هذا العلم؟",
+   "c": [
+    "النمسا",
+    "سويسرا",
+    "كندا",
+    "الدنمارك"
+   ]
+  },
+  "es": {
+   "q": "¿A qué país pertenece esta bandera?",
+   "c": [
+    "Austria",
+    "Suiza",
+    "Canadá",
+    "Dinamarca"
+   ]
+  },
+  "pt": {
+   "q": "A que país pertence esta bandeira?",
+   "c": [
+    "Áustria",
+    "Suíça",
+    "Canadá",
+    "Dinamarca"
+   ]
+  },
+  "a": 3,
+  "image": "🇩🇰",
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale de l'Ouganda ?",
+   "c": [
+    "Kampala",
+    "Entebbe",
+    "Dar es Salaam",
+    "Nairobi"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of Uganda?",
+   "c": [
+    "Kampala",
+    "Entebbe",
+    "Dar es Salaam",
+    "Nairobi"
+   ]
+  },
+  "ar": {
+   "q": "ما هي عاصمة أوغندا؟",
+   "c": [
+    "كامبالا",
+    "عنتيبي",
+    "دار السلام",
+    "نيروبي"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Uganda?",
+   "c": [
+    "Kampala",
+    "Entebbe",
+    "Dar es Salaam",
+    "Nairobi"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital de Uganda?",
+   "c": [
+    "Campala",
+    "Entebbe",
+    "Dar es Salaam",
+    "Nairóbi"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus long fleuve d'Europe ?",
+   "c": [
+    "Le Danube",
+    "La Volga",
+    "Le Rhin",
+    "Le Dniepr"
+   ]
+  },
+  "en": {
+   "q": "Which is the longest river in Europe?",
+   "c": [
+    "The Danube",
+    "The Volga",
+    "The Rhine",
+    "The Dnieper"
+   ]
+  },
+  "ar": {
+   "q": "ما هو أطول نهر في أوروبا؟",
+   "c": [
+    "نهر الدانوب",
+    "نهر الفولغا",
+    "نهر الراين",
+    "نهر دنيبرو"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el río más largo de Europa?",
+   "c": [
+    "El Danubio",
+    "El Volga",
+    "El Rin",
+    "El Dniéper"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o rio mais longo da Europa?",
+   "c": [
+    "O Danúbio",
+    "O Volga",
+    "O Reno",
+    "O Dniepre"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Les chutes Victoria sont à la frontière de la Zambie et de quel pays ?",
+   "c": [
+    "Le Mozambique",
+    "Le Malawi",
+    "Le Zimbabwe",
+    "L'Angola"
+   ]
+  },
+  "en": {
+   "q": "Victoria Falls lies on the border of Zambia and which country?",
+   "c": [
+    "Mozambique",
+    "Malawi",
+    "Zimbabwe",
+    "Angola"
+   ]
+  },
+  "ar": {
+   "q": "تقع شلالات فيكتوريا على حدود زامبيا وأي بلد آخر؟",
+   "c": [
+    "موزمبيق",
+    "ملاوي",
+    "زيمبابوي",
+    "أنغولا"
+   ]
+  },
+  "es": {
+   "q": "Las cataratas Victoria están en la frontera de Zambia y ¿qué otro país?",
+   "c": [
+    "Mozambique",
+    "Malaui",
+    "Zimbabue",
+    "Angola"
+   ]
+  },
+  "pt": {
+   "q": "As cataratas Vitória ficam na fronteira da Zâmbia e de que outro país?",
+   "c": [
+    "Moçambique",
+    "Malauí",
+    "Zimbábue",
+    "Angola"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve la ville de Cracovie ?",
+   "c": [
+    "La Pologne",
+    "La Tchéquie",
+    "La Hongrie",
+    "La Roumanie"
+   ]
+  },
+  "en": {
+   "q": "In which country is the city of Kraków?",
+   "c": [
+    "Poland",
+    "Czech Republic",
+    "Hungary",
+    "Romania"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد تقع مدينة كراكوف؟",
+   "c": [
+    "بولندا",
+    "التشيك",
+    "المجر",
+    "رومانيا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está la ciudad de Cracovia?",
+   "c": [
+    "Polonia",
+    "Chequia",
+    "Hungría",
+    "Rumanía"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica a cidade de Cracóvia?",
+   "c": [
+    "Polônia",
+    "Tchéquia",
+    "Hungria",
+    "Romênia"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale du Paraguay ?",
+   "c": [
+    "Montevideo",
+    "Asunción",
+    "Lima",
+    "La Paz"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of Paraguay?",
+   "c": [
+    "Montevideo",
+    "Asunción",
+    "Lima",
+    "La Paz"
+   ]
+  },
+  "ar": {
+   "q": "ما هي عاصمة باراغواي؟",
+   "c": [
+    "مونتيفيديو",
+    "أسونسيون",
+    "ليما",
+    "لاباز"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Paraguay?",
+   "c": [
+    "Montevideo",
+    "Asunción",
+    "Lima",
+    "La Paz"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital do Paraguai?",
+   "c": [
+    "Montevidéu",
+    "Assunção",
+    "Lima",
+    "La Paz"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel détroit sépare l'Asie de l'Amérique du Nord ?",
+   "c": [
+    "Le détroit d'Ormuz",
+    "Le détroit de Malacca",
+    "Le détroit de Béring",
+    "Le détroit de Magellan"
+   ]
+  },
+  "en": {
+   "q": "Which strait separates Asia from North America?",
+   "c": [
+    "The Strait of Hormuz",
+    "The Strait of Malacca",
+    "The Bering Strait",
+    "The Strait of Magellan"
+   ]
+  },
+  "ar": {
+   "q": "أي مضيق يفصل آسيا عن أمريكا الشمالية؟",
+   "c": [
+    "مضيق هرمز",
+    "مضيق ملقا",
+    "مضيق بيرينغ",
+    "مضيق ماجلان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué estrecho separa Asia de América del Norte?",
+   "c": [
+    "El estrecho de Ormuz",
+    "El estrecho de Malaca",
+    "El estrecho de Bering",
+    "El estrecho de Magallanes"
+   ]
+  },
+  "pt": {
+   "q": "Que estreito separa a Ásia da América do Norte?",
+   "c": [
+    "O estreito de Ormuz",
+    "O estreito de Malaca",
+    "O estreito de Bering",
+    "O estreito de Magalhães"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve la ville de Medellín ?",
+   "c": [
+    "Le Venezuela",
+    "Le Pérou",
+    "Le Mexique",
+    "La Colombie"
+   ]
+  },
+  "en": {
+   "q": "In which country is the city of Medellín?",
+   "c": [
+    "Venezuela",
+    "Peru",
+    "Mexico",
+    "Colombia"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد تقع مدينة ميديين؟",
+   "c": [
+    "فنزويلا",
+    "بيرو",
+    "المكسيك",
+    "كولومبيا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está la ciudad de Medellín?",
+   "c": [
+    "Venezuela",
+    "Perú",
+    "México",
+    "Colombia"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica a cidade de Medellín?",
+   "c": [
+    "Venezuela",
+    "Peru",
+    "México",
+    "Colômbia"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Dans quelle ville se trouve le Dôme du Rocher ?",
+   "c": [
+    "Amman",
+    "Jérusalem",
+    "Damas",
+    "La Mecque"
+   ]
+  },
+  "en": {
+   "q": "In which city is the Dome of the Rock?",
+   "c": [
+    "Amman",
+    "Jerusalem",
+    "Damascus",
+    "Mecca"
+   ]
+  },
+  "ar": {
+   "q": "في أي مدينة تقع قبة الصخرة؟",
+   "c": [
+    "عمّان",
+    "القدس",
+    "دمشق",
+    "مكة المكرمة"
+   ]
+  },
+  "es": {
+   "q": "¿En qué ciudad está la Cúpula de la Roca?",
+   "c": [
+    "Ammán",
+    "Jerusalén",
+    "Damasco",
+    "La Meca"
+   ]
+  },
+  "pt": {
+   "q": "Em que cidade fica o Domo da Rocha?",
+   "c": [
+    "Amã",
+    "Jerusalém",
+    "Damasco",
+    "Meca"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve Hô Chi Minh-Ville ?",
+   "c": [
+    "Le Cambodge",
+    "La Thaïlande",
+    "Le Vietnam",
+    "Le Laos"
+   ]
+  },
+  "en": {
+   "q": "In which country is Ho Chi Minh City?",
+   "c": [
+    "Cambodia",
+    "Thailand",
+    "Vietnam",
+    "Laos"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد تقع مدينة هو تشي منه؟",
+   "c": [
+    "كمبوديا",
+    "تايلاند",
+    "فيتنام",
+    "لاوس"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está la ciudad de Ho Chi Minh?",
+   "c": [
+    "Camboya",
+    "Tailandia",
+    "Vietnam",
+    "Laos"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica a cidade de Ho Chi Minh?",
+   "c": [
+    "Camboja",
+    "Tailândia",
+    "Vietnã",
+    "Laos"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quelle est la plus grande île d'Afrique ?",
+   "c": [
+    "Zanzibar",
+    "L'île Maurice",
+    "Tenerife",
+    "Madagascar"
+   ]
+  },
+  "en": {
+   "q": "What is the largest island of Africa?",
+   "c": [
+    "Zanzibar",
+    "Mauritius",
+    "Tenerife",
+    "Madagascar"
+   ]
+  },
+  "ar": {
+   "q": "ما هي أكبر جزيرة في أفريقيا؟",
+   "c": [
+    "زنجبار",
+    "موريشيوس",
+    "تينيريفي",
+    "مدغشقر"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la isla más grande de África?",
+   "c": [
+    "Zanzíbar",
+    "Mauricio",
+    "Tenerife",
+    "Madagascar"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a maior ilha da África?",
+   "c": [
+    "Zanzibar",
+    "Maurício",
+    "Tenerife",
+    "Madagáscar"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Lequel de ces pays se trouve en Amérique centrale ?",
+   "c": [
+    "Le Guatemala",
+    "L'Équateur",
+    "La Bolivie",
+    "Le Chili"
+   ]
+  },
+  "en": {
+   "q": "Which of these countries is in Central America?",
+   "c": [
+    "Guatemala",
+    "Ecuador",
+    "Bolivia",
+    "Chile"
+   ]
+  },
+  "ar": {
+   "q": "أي من هذه البلدان يقع في أمريكا الوسطى؟",
+   "c": [
+    "غواتيمالا",
+    "الإكوادور",
+    "بوليفيا",
+    "تشيلي"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál de estos países está en América Central?",
+   "c": [
+    "Guatemala",
+    "Ecuador",
+    "Bolivia",
+    "Chile"
+   ]
+  },
+  "pt": {
+   "q": "Qual destes países fica na América Central?",
+   "c": [
+    "Guatemala",
+    "Equador",
+    "Bolívia",
+    "Chile"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "À quel pays appartient ce drapeau ?",
+   "c": [
+    "La Finlande",
+    "La Grèce",
+    "La Suède",
+    "L'Islande"
+   ]
+  },
+  "en": {
+   "q": "Which country does this flag belong to?",
+   "c": [
+    "Finland",
+    "Greece",
+    "Sweden",
+    "Iceland"
+   ]
+  },
+  "ar": {
+   "q": "لأي بلد يعود هذا العلم؟",
+   "c": [
+    "فنلندا",
+    "اليونان",
+    "السويد",
+    "آيسلندا"
+   ]
+  },
+  "es": {
+   "q": "¿A qué país pertenece esta bandera?",
+   "c": [
+    "Finlandia",
+    "Grecia",
+    "Suecia",
+    "Islandia"
+   ]
+  },
+  "pt": {
+   "q": "A que país pertence esta bandeira?",
+   "c": [
+    "Finlândia",
+    "Grécia",
+    "Suécia",
+    "Islândia"
+   ]
+  },
+  "a": 0,
+  "image": "🇫🇮",
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quelle est la plus grande ville du Canada ?",
+   "c": [
+    "Montréal",
+    "Toronto",
+    "Vancouver",
+    "Calgary"
+   ]
+  },
+  "en": {
+   "q": "What is the largest city in Canada?",
+   "c": [
+    "Montreal",
+    "Toronto",
+    "Vancouver",
+    "Calgary"
+   ]
+  },
+  "ar": {
+   "q": "ما هي أكبر مدينة في كندا؟",
+   "c": [
+    "مونتريال",
+    "تورونتو",
+    "فانكوفر",
+    "كالغاري"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la ciudad más grande de Canadá?",
+   "c": [
+    "Montreal",
+    "Toronto",
+    "Vancouver",
+    "Calgary"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a maior cidade do Canadá?",
+   "c": [
+    "Montreal",
+    "Toronto",
+    "Vancouver",
+    "Calgary"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quelle mer se trouve entre la Turquie et l'Ukraine ?",
+   "c": [
+    "La mer Caspienne",
+    "La mer Baltique",
+    "La mer Noire",
+    "La mer Rouge"
+   ]
+  },
+  "en": {
+   "q": "Which sea lies between Turkey and Ukraine?",
+   "c": [
+    "The Caspian Sea",
+    "The Baltic Sea",
+    "The Black Sea",
+    "The Red Sea"
+   ]
+  },
+  "ar": {
+   "q": "أي بحر يقع بين تركيا وأوكرانيا؟",
+   "c": [
+    "بحر قزوين",
+    "بحر البلطيق",
+    "البحر الأسود",
+    "البحر الأحمر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué mar se encuentra entre Turquía y Ucrania?",
+   "c": [
+    "El mar Caspio",
+    "El mar Báltico",
+    "El mar Negro",
+    "El mar Rojo"
+   ]
+  },
+  "pt": {
+   "q": "Que mar fica entre a Turquia e a Ucrânia?",
+   "c": [
+    "O mar Cáspio",
+    "O mar Báltico",
+    "O mar Negro",
+    "O mar Vermelho"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Dans quelle ville se trouve le musée de l'Ermitage ?",
+   "c": [
+    "Moscou",
+    "Varsovie",
+    "Kiev",
+    "Saint-Pétersbourg"
+   ]
+  },
+  "en": {
+   "q": "In which city is the Hermitage Museum?",
+   "c": [
+    "Moscow",
+    "Warsaw",
+    "Kyiv",
+    "Saint Petersburg"
+   ]
+  },
+  "ar": {
+   "q": "في أي مدينة يقع متحف الإرميتاج؟",
+   "c": [
+    "موسكو",
+    "وارسو",
+    "كييف",
+    "سانت بطرسبرغ"
+   ]
+  },
+  "es": {
+   "q": "¿En qué ciudad está el Museo del Hermitage?",
+   "c": [
+    "Moscú",
+    "Varsovia",
+    "Kiev",
+    "San Petersburgo"
+   ]
+  },
+  "pt": {
+   "q": "Em que cidade fica o Museu Hermitage?",
+   "c": [
+    "Moscou",
+    "Varsóvia",
+    "Kiev",
+    "São Petersburgo"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quel est le plus grand lac d'Afrique ?",
+   "c": [
+    "Le lac Tchad",
+    "Le lac Tanganyika",
+    "Le lac Malawi",
+    "Le lac Victoria"
+   ]
+  },
+  "en": {
+   "q": "Which is the largest lake in Africa?",
+   "c": [
+    "Lake Chad",
+    "Lake Tanganyika",
+    "Lake Malawi",
+    "Lake Victoria"
+   ]
+  },
+  "ar": {
+   "q": "ما هي أكبر بحيرة في أفريقيا؟",
+   "c": [
+    "بحيرة تشاد",
+    "بحيرة تنجانيقا",
+    "بحيرة ملاوي",
+    "بحيرة فيكتوريا"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el lago más grande de África?",
+   "c": [
+    "El lago Chad",
+    "El lago Tanganica",
+    "El lago Malaui",
+    "El lago Victoria"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior lago da África?",
+   "c": [
+    "O lago Chade",
+    "O lago Tanganica",
+    "O lago Malawi",
+    "O lago Vitória"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouvent les ruines antiques de Persépolis ?",
+   "c": [
+    "L'Irak",
+    "La Turquie",
+    "L'Iran",
+    "L'Égypte"
+   ]
+  },
+  "en": {
+   "q": "In which country are the ancient ruins of Persepolis?",
+   "c": [
+    "Iraq",
+    "Turkey",
+    "Iran",
+    "Egypt"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد تقع آثار برسيبوليس القديمة؟",
+   "c": [
+    "العراق",
+    "تركيا",
+    "إيران",
+    "مصر"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país están las ruinas antiguas de Persépolis?",
+   "c": [
+    "Irak",
+    "Turquía",
+    "Irán",
+    "Egipto"
+   ]
+  },
+  "pt": {
+   "q": "Em que país ficam as ruínas antigas de Persépolis?",
+   "c": [
+    "Iraque",
+    "Turquia",
+    "Irã",
+    "Egito"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale de la Slovaquie ?",
+   "c": [
+    "Košice",
+    "Bratislava",
+    "Ljubljana",
+    "Vienne"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of Slovakia?",
+   "c": [
+    "Košice",
+    "Bratislava",
+    "Ljubljana",
+    "Vienna"
+   ]
+  },
+  "ar": {
+   "q": "ما هي عاصمة سلوفاكيا؟",
+   "c": [
+    "كوشيتسه",
+    "براتيسلافا",
+    "ليوبليانا",
+    "فيينا"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Eslovaquia?",
+   "c": [
+    "Košice",
+    "Bratislava",
+    "Liubliana",
+    "Viena"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital da Eslováquia?",
+   "c": [
+    "Košice",
+    "Bratislava",
+    "Liubliana",
+    "Viena"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quelle est la capitale de Chypre ?",
+   "c": [
+    "Nicosie",
+    "Limassol",
+    "La Valette",
+    "Athènes"
+   ]
+  },
+  "en": {
+   "q": "What is the capital of Cyprus?",
+   "c": [
+    "Nicosia",
+    "Limassol",
+    "Valletta",
+    "Athens"
+   ]
+  },
+  "ar": {
+   "q": "ما هي عاصمة قبرص؟",
+   "c": [
+    "نيقوسيا",
+    "ليماسول",
+    "فاليتا",
+    "أثينا"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la capital de Chipre?",
+   "c": [
+    "Nicosia",
+    "Limasol",
+    "La Valeta",
+    "Atenas"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a capital do Chipre?",
+   "c": [
+    "Nicósia",
+    "Limassol",
+    "Valeta",
+    "Atenas"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quelle ville fut une colonie britannique jusqu'en 1997 ?",
+   "c": [
+    "Macao",
+    "Hong Kong",
+    "Shanghai",
+    "Shenzhen"
+   ]
+  },
+  "en": {
+   "q": "Which city was a British colony until 1997?",
+   "c": [
+    "Macau",
+    "Hong Kong",
+    "Shanghai",
+    "Shenzhen"
+   ]
+  },
+  "ar": {
+   "q": "أي مدينة كانت مستعمرة بريطانية حتى عام 1997؟",
+   "c": [
+    "ماكاو",
+    "هونغ كونغ",
+    "شنغهاي",
+    "شنتشن"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ciudad fue colonia británica hasta 1997?",
+   "c": [
+    "Macao",
+    "Hong Kong",
+    "Shanghái",
+    "Shenzhen"
+   ]
+  },
+  "pt": {
+   "q": "Que cidade foi colônia britânica até 1997?",
+   "c": [
+    "Macau",
+    "Hong Kong",
+    "Xangai",
+    "Shenzhen"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve la ville de Mombasa ?",
+   "c": [
+    "Le Kenya",
+    "La Tanzanie",
+    "L'Ouganda",
+    "L'Éthiopie"
+   ]
+  },
+  "en": {
+   "q": "In which country is the city of Mombasa?",
+   "c": [
+    "Kenya",
+    "Tanzania",
+    "Uganda",
+    "Ethiopia"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد تقع مدينة مومباسا؟",
+   "c": [
+    "كينيا",
+    "تنزانيا",
+    "أوغندا",
+    "إثيوبيا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está la ciudad de Mombasa?",
+   "c": [
+    "Kenia",
+    "Tanzania",
+    "Uganda",
+    "Etiopía"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica a cidade de Mombaça?",
+   "c": [
+    "Quênia",
+    "Tanzânia",
+    "Uganda",
+    "Etiópia"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quelle ville a accueilli les Jeux olympiques d'été de 2008 ?",
+   "c": [
+    "Shanghai",
+    "Tokyo",
+    "Séoul",
+    "Pékin"
+   ]
+  },
+  "en": {
+   "q": "Which city hosted the 2008 Summer Olympics?",
+   "c": [
+    "Shanghai",
+    "Tokyo",
+    "Seoul",
+    "Beijing"
+   ]
+  },
+  "ar": {
+   "q": "أي مدينة استضافت دورة الألعاب الأولمبية الصيفية 2008؟",
+   "c": [
+    "شنغهاي",
+    "طوكيو",
+    "سيول",
+    "بكين"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ciudad acogió los Juegos Olímpicos de verano de 2008?",
+   "c": [
+    "Shanghái",
+    "Tokio",
+    "Seúl",
+    "Pekín"
+   ]
+  },
+  "pt": {
+   "q": "Que cidade sediou os Jogos Olímpicos de Verão de 2008?",
+   "c": [
+    "Xangai",
+    "Tóquio",
+    "Seul",
+    "Pequim"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quelle est la plus grande ville de Nouvelle-Zélande ?",
+   "c": [
+    "Wellington",
+    "Christchurch",
+    "Auckland",
+    "Hamilton"
+   ]
+  },
+  "en": {
+   "q": "What is the largest city in New Zealand?",
+   "c": [
+    "Wellington",
+    "Christchurch",
+    "Auckland",
+    "Hamilton"
+   ]
+  },
+  "ar": {
+   "q": "ما هي أكبر مدينة في نيوزيلندا؟",
+   "c": [
+    "ويلينغتون",
+    "كرايستشيرش",
+    "أوكلاند",
+    "هاميلتون"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la ciudad más grande de Nueva Zelanda?",
+   "c": [
+    "Wellington",
+    "Christchurch",
+    "Auckland",
+    "Hamilton"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a maior cidade da Nova Zelândia?",
+   "c": [
+    "Wellington",
+    "Christchurch",
+    "Auckland",
+    "Hamilton"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
    "q": "Quelle est la capitale du Mexique ?",
    "c": [
     "Monterrey",
@@ -8358,7 +11358,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -8408,7 +11408,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -8458,7 +11458,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -8508,7 +11508,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -8558,7 +11558,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -8608,7 +11608,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -8658,7 +11658,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -8708,57 +11708,57 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
-   "q": "Quelle ville est la capitale du pays d'Afrique du Nord situé entre l'Algérie et la Libye ?",
+   "q": "Quelle est la capitale du Soudan ?",
    "c": [
-    "Tunis",
-    "Sousse",
-    "Sfax",
-    "Bizerte"
+    "Omdurman",
+    "Juba",
+    "Asmara",
+    "Khartoum"
    ]
   },
   "en": {
-   "q": "Which city is the capital of the North African country between Algeria and Libya?",
+   "q": "What is the capital of Sudan?",
    "c": [
-    "Tunis",
-    "Sousse",
-    "Sfax",
-    "Bizerte"
+    "Omdurman",
+    "Juba",
+    "Asmara",
+    "Khartoum"
    ]
   },
   "ar": {
-   "q": "ما عاصمة دولة شمال أفريقيا الواقعة بين الجزائر وليبيا؟",
+   "q": "ما هي عاصمة السودان؟",
    "c": [
-    "تونس",
-    "سوسة",
-    "صفاقس",
-    "بنزرت"
+    "أم درمان",
+    "جوبا",
+    "أسمرة",
+    "الخرطوم"
    ]
   },
   "es": {
-   "q": "¿Cuál es la capital del país norteafricano situado entre Argelia y Libia?",
+   "q": "¿Cuál es la capital de Sudán?",
    "c": [
-    "Túnez",
-    "Susa",
-    "Sfax",
-    "Bizerte"
+    "Omdurmán",
+    "Yuba",
+    "Asmara",
+    "Jartum"
    ]
   },
   "pt": {
-   "q": "Qual é a capital do país norte-africano situado entre a Argélia e a Líbia?",
+   "q": "Qual é a capital do Sudão?",
    "c": [
-    "Tunes",
-    "Sousse",
-    "Sfax",
-    "Bizerte"
+    "Omdurman",
+    "Juba",
+    "Asmara",
+    "Cartum"
    ]
   },
-  "a": 0,
+  "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -8808,7 +11808,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -8858,7 +11858,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -8908,7 +11908,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "en": {
@@ -8958,7 +11958,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "en": {
@@ -9008,40 +12008,40 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "type": "number",
-  "level": 13,
+  "level": 18,
   "image": null,
-  "a": 46,
-  "min": 10,
-  "max": 100,
+  "a": 123,
+  "min": 20,
+  "max": 220,
   "step": 1,
-  "tol": 6,
+  "tol": 10,
   "fr": {
-   "q": "Environ combien d'habitants compte l'Algérie (en millions) ?",
+   "q": "Environ combien d'habitants compte le Japon (en millions) ?",
    "u": "M"
   },
   "en": {
-   "q": "Roughly how many people live in Algeria (in millions)?",
+   "q": "Roughly how many people live in Japan (in millions)?",
    "u": "M"
   },
   "ar": {
-   "q": "كم يبلغ عدد سكان الجزائر تقريبًا (بالملايين)؟",
+   "q": "كم يبلغ عدد سكان اليابان تقريبًا (بالملايين)؟",
    "u": "مليون"
   },
   "es": {
-   "q": "¿Cuántos habitantes tiene Argelia aproximadamente (en millones)?",
+   "q": "¿Cuántos habitantes tiene Japón aproximadamente (en millones)?",
    "u": "M"
   },
   "pt": {
-   "q": "Quantos habitantes tem a Argélia, aproximadamente (em milhões)?",
+   "q": "Quantos habitantes tem o Japão, aproximadamente (em milhões)?",
    "u": "M"
   }
  },
  {
-  "level": 13,
+  "level": 18,
   "image": "🇹🇷",
   "a": 1,
   "fr": {
@@ -9091,7 +12091,7 @@
   }
  },
  {
-  "level": 13,
+  "level": 18,
   "image": "🇹🇳",
   "a": 2,
   "fr": {
@@ -9188,7 +12188,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -9238,7 +12238,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -9288,7 +12288,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -9338,7 +12338,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -9388,10 +12388,10 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
-  "level": 13,
+  "level": 18,
   "image": "🇳🇬",
   "a": 3,
   "en": {
@@ -9441,7 +12441,7 @@
   }
  },
  {
-  "level": 13,
+  "level": 18,
   "image": "🇰🇪",
   "a": 0,
   "en": {
@@ -9491,7 +12491,7 @@
   }
  },
  {
-  "level": 13,
+  "level": 18,
   "image": "🇸🇳",
   "a": 2,
   "en": {
@@ -9541,7 +12541,7 @@
   }
  },
  {
-  "level": 13,
+  "level": 18,
   "image": "🇵🇱",
   "a": 0,
   "en": {
@@ -9591,7 +12591,7 @@
   }
  },
  {
-  "level": 13,
+  "level": 18,
   "image": "🇦🇹",
   "a": 0,
   "en": {
@@ -9688,7 +12688,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -9738,7 +12738,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -9788,7 +12788,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -9838,7 +12838,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -9888,7 +12888,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -9938,7 +12938,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -9988,7 +12988,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -10038,7 +13038,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -10088,7 +13088,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -10138,121 +13138,121 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "type": "match",
-  "level": 14,
+  "level": 19,
   "image": null,
   "a": 0,
   "fr": {
-   "q": "Associe chaque pays du Maghreb à sa capitale",
+   "q": "Associe chaque pays d'Asie du Sud-Est à sa capitale",
    "pairs": [
     [
-     "Algérie",
-     "Alger"
+     "Thaïlande",
+     "Bangkok"
     ],
     [
-     "Maroc",
-     "Rabat"
+     "Vietnam",
+     "Hanoï"
     ],
     [
-     "Tunisie",
-     "Tunis"
+     "Indonésie",
+     "Jakarta"
     ],
     [
-     "Libye",
-     "Tripoli"
+     "Philippines",
+     "Manille"
     ]
    ]
   },
   "en": {
-   "q": "Match each North African country with its capital",
+   "q": "Match each Southeast Asian country with its capital",
    "pairs": [
     [
-     "Algeria",
-     "Algiers"
+     "Thailand",
+     "Bangkok"
     ],
     [
-     "Morocco",
-     "Rabat"
+     "Vietnam",
+     "Hanoi"
     ],
     [
-     "Tunisia",
-     "Tunis"
+     "Indonesia",
+     "Jakarta"
     ],
     [
-     "Libya",
-     "Tripoli"
+     "Philippines",
+     "Manila"
     ]
    ]
   },
   "ar": {
-   "q": "اربط كل دولة مغاربية بعاصمتها",
+   "q": "اربط كل دولة من جنوب شرق آسيا بعاصمتها",
    "pairs": [
     [
-     "الجزائر",
-     "الجزائر العاصمة"
+     "تايلاند",
+     "بانكوك"
     ],
     [
-     "المغرب",
-     "الرباط"
+     "فيتنام",
+     "هانوي"
     ],
     [
-     "تونس",
-     "تونس العاصمة"
+     "إندونيسيا",
+     "جاكرتا"
     ],
     [
-     "ليبيا",
-     "طرابلس"
+     "الفلبين",
+     "مانيلا"
     ]
    ]
   },
   "es": {
-   "q": "Une cada país del Magreb con su capital",
+   "q": "Une cada país del sudeste asiático con su capital",
    "pairs": [
     [
-     "Argelia",
-     "Argel"
+     "Tailandia",
+     "Bangkok"
     ],
     [
-     "Marruecos",
-     "Rabat"
+     "Vietnam",
+     "Hanói"
     ],
     [
-     "Túnez",
-     "Túnez (ciudad)"
+     "Indonesia",
+     "Yakarta"
     ],
     [
-     "Libia",
-     "Trípoli"
+     "Filipinas",
+     "Manila"
     ]
    ]
   },
   "pt": {
-   "q": "Associe cada país do Magrebe à sua capital",
+   "q": "Associe cada país do Sudeste Asiático à sua capital",
    "pairs": [
     [
-     "Argélia",
-     "Argel"
+     "Tailândia",
+     "Banguecoque"
     ],
     [
-     "Marrocos",
-     "Rabat"
+     "Vietnã",
+     "Hanói"
     ],
     [
-     "Tunísia",
-     "Tunes"
+     "Indonésia",
+     "Jacarta"
     ],
     [
-     "Líbia",
-     "Trípoli"
+     "Filipinas",
+     "Manila"
     ]
    ]
   }
  },
  {
-  "level": 14,
+  "level": 19,
   "image": "🇸🇦",
   "a": 3,
   "fr": {
@@ -10302,7 +13302,7 @@
   }
  },
  {
-  "level": 14,
+  "level": 19,
   "image": "🇮🇳",
   "a": 1,
   "fr": {
@@ -10352,7 +13352,7 @@
   }
  },
  {
-  "level": 14,
+  "level": 19,
   "image": "🇰🇷",
   "a": 3,
   "fr": {
@@ -10449,7 +13449,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -10499,7 +13499,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -10549,7 +13549,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -10599,7 +13599,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -10649,7 +13649,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -10699,7 +13699,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -10749,10 +13749,10 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
-  "level": 14,
+  "level": 19,
   "image": "🇮🇪",
   "a": 3,
   "en": {
@@ -10802,7 +13802,7 @@
   }
  },
  {
-  "level": 14,
+  "level": 19,
   "image": "🇻🇳",
   "a": 0,
   "en": {
@@ -10852,7 +13852,7 @@
   }
  },
  {
-  "level": 14,
+  "level": 19,
   "image": "🇵🇭",
   "a": 1,
   "en": {
@@ -10902,7 +13902,7 @@
   }
  },
  {
-  "level": 14,
+  "level": 19,
   "image": "🇵🇭",
   "a": 1,
   "en": {
@@ -10952,7 +13952,7 @@
   }
  },
  {
-  "level": 14,
+  "level": 19,
   "image": "🇳🇿",
   "a": 2,
   "en": {
@@ -11049,7 +14049,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -11099,7 +14099,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -11149,7 +14149,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -11199,7 +14199,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -11249,7 +14249,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -11299,7 +14299,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -11349,7 +14349,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -11399,7 +14399,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -11449,7 +14449,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -11499,7 +14499,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -11549,7 +14549,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -11599,7 +14599,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "en": {
@@ -11649,7 +14649,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "en": {
@@ -11699,11 +14699,11 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "type": "order",
-  "level": 15,
+  "level": 20,
   "image": null,
   "a": 0,
   "fr": {
@@ -11753,7 +14753,7 @@
   }
  },
  {
-  "level": 15,
+  "level": 20,
   "image": "🇶🇦",
   "a": 1,
   "en": {
@@ -11803,7 +14803,7 @@
   }
  },
  {
-  "level": 15,
+  "level": 20,
   "image": "🇦🇪",
   "a": 1,
   "en": {
@@ -11853,7 +14853,7 @@
   }
  },
  {
-  "level": 15,
+  "level": 20,
   "image": "🇦🇪",
   "a": 1,
   "en": {
@@ -11903,7 +14903,7 @@
   }
  },
  {
-  "level": 15,
+  "level": 20,
   "image": "🇯🇴",
   "a": 3,
   "en": {
@@ -11953,7 +14953,7 @@
   }
  },
  {
-  "level": 15,
+  "level": 20,
   "image": "🇱🇧",
   "a": 1,
   "en": {
@@ -12050,7 +15050,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -12100,7 +15100,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -12150,7 +15150,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -12200,7 +15200,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -12250,7 +15250,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -12300,7 +15300,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -12350,7 +15350,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -12400,7 +15400,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -12450,7 +15450,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -12500,11 +15500,11 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "type": "number",
-  "level": 16,
+  "level": 21,
   "image": null,
   "a": 8849,
   "min": 6000,
@@ -12533,7 +15533,7 @@
   }
  },
  {
-  "level": 16,
+  "level": 21,
   "image": "🇪🇹",
   "a": 3,
   "en": {
@@ -12630,7 +15630,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -12680,7 +15680,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -12730,7 +15730,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -12780,7 +15780,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -12830,7 +15830,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -12880,7 +15880,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -12930,7 +15930,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -12980,7 +15980,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -13030,7 +16030,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -13080,11 +16080,11 @@
   },
   "a": 3,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "type": "match",
-  "level": 17,
+  "level": 22,
   "image": null,
   "a": 0,
   "fr": {
@@ -13241,7 +16241,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -13291,7 +16291,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -13341,7 +16341,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -13391,7 +16391,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -13441,7 +16441,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -13491,7 +16491,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -13541,7 +16541,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -13591,7 +16591,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -13641,7 +16641,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -13691,7 +16691,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -13741,7 +16741,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -13791,7 +16791,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -13841,7 +16841,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -13891,7 +16891,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -13941,7 +16941,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -13991,7 +16991,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -14041,7 +17041,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -14091,7 +17091,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -14141,7 +17141,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -14191,7 +17191,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -14241,7 +17241,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -14291,7 +17291,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -14341,7 +17341,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -14391,7 +17391,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -14441,7 +17441,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -14491,7 +17491,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -14541,7 +17541,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -14591,7 +17591,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -14641,7 +17641,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -14691,6 +17691,6 @@
   },
   "a": 3,
   "image": null,
-  "level": 20
+  "level": 25
  }
 ]

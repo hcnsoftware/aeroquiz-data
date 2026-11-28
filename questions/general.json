@@ -6471,6 +6471,3006 @@
  },
  {
   "fr": {
+   "q": "De quel pays la pizza est-elle originaire ?",
+   "c": [
+    "Italie",
+    "Grèce",
+    "Espagne",
+    "Turquie"
+   ]
+  },
+  "en": {
+   "q": "Which country is pizza originally from?",
+   "c": [
+    "Italy",
+    "Greece",
+    "Spain",
+    "Turkey"
+   ]
+  },
+  "ar": {
+   "q": "ما البلد الذي تعود إليه أصول البيتزا؟",
+   "c": [
+    "إيطاليا",
+    "اليونان",
+    "إسبانيا",
+    "تركيا"
+   ]
+  },
+  "es": {
+   "q": "¿De qué país es originaria la pizza?",
+   "c": [
+    "Italia",
+    "Grecia",
+    "España",
+    "Turquía"
+   ]
+  },
+  "pt": {
+   "q": "De que país a pizza é originária?",
+   "c": [
+    "Itália",
+    "Grécia",
+    "Espanha",
+    "Turquia"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel fruit est l'ingrédient principal du guacamole ?",
+   "c": [
+    "La tomate",
+    "L'avocat",
+    "La banane",
+    "Le concombre"
+   ]
+  },
+  "en": {
+   "q": "Which fruit is the main ingredient of guacamole?",
+   "c": [
+    "Tomato",
+    "Avocado",
+    "Banana",
+    "Cucumber"
+   ]
+  },
+  "ar": {
+   "q": "ما الفاكهة المكوّن الرئيسي للغواكامولي؟",
+   "c": [
+    "الطماطم",
+    "الأفوكادو",
+    "الموز",
+    "الخيار"
+   ]
+  },
+  "es": {
+   "q": "¿Qué fruta es el ingrediente principal del guacamole?",
+   "c": [
+    "El tomate",
+    "El aguacate",
+    "El plátano",
+    "El pepino"
+   ]
+  },
+  "pt": {
+   "q": "Qual fruta é o ingrediente principal do guacamole?",
+   "c": [
+    "O tomate",
+    "O abacate",
+    "A banana",
+    "O pepino"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on un scientifique qui étudie les animaux ?",
+   "c": [
+    "Un géologue",
+    "Un botaniste",
+    "Un zoologue",
+    "Un astronome"
+   ]
+  },
+  "en": {
+   "q": "What do we call a scientist who studies animals?",
+   "c": [
+    "Geologist",
+    "Botanist",
+    "Zoologist",
+    "Astronomer"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمّي العالِم الذي يدرس الحيوانات؟",
+   "c": [
+    "عالم الجيولوجيا",
+    "عالم النبات",
+    "عالم الحيوان",
+    "عالم الفلك"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama el científico que estudia los animales?",
+   "c": [
+    "Geólogo",
+    "Botánico",
+    "Zoólogo",
+    "Astrónomo"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama o cientista que estuda os animais?",
+   "c": [
+    "Geólogo",
+    "Botânico",
+    "Zoólogo",
+    "Astrônomo"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel vêtement traditionnel vient du Japon ?",
+   "c": [
+    "Le sari",
+    "Le poncho",
+    "Le kilt",
+    "Le kimono"
+   ]
+  },
+  "en": {
+   "q": "Which traditional garment comes from Japan?",
+   "c": [
+    "The sari",
+    "The poncho",
+    "The kilt",
+    "The kimono"
+   ]
+  },
+  "ar": {
+   "q": "أي لباس تقليدي يعود أصله إلى اليابان؟",
+   "c": [
+    "الساري",
+    "البونشو",
+    "الكيلت",
+    "الكيمونو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué prenda tradicional proviene de Japón?",
+   "c": [
+    "El sari",
+    "El poncho",
+    "El kilt",
+    "El kimono"
+   ]
+  },
+  "pt": {
+   "q": "Qual roupa tradicional vem do Japão?",
+   "c": [
+    "O sári",
+    "O poncho",
+    "O kilt",
+    "O quimono"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quelle fête des lumières est célébrée par des millions de personnes en Inde ?",
+   "c": [
+    "Diwali",
+    "Halloween",
+    "Pâques",
+    "Le carnaval"
+   ]
+  },
+  "en": {
+   "q": "Which festival of lights is celebrated by millions in India?",
+   "c": [
+    "Diwali",
+    "Halloween",
+    "Easter",
+    "Carnival"
+   ]
+  },
+  "ar": {
+   "q": "ما مهرجان الأضواء الذي يحتفل به ملايين الناس في الهند؟",
+   "c": [
+    "ديوالي",
+    "الهالوين",
+    "عيد الفصح",
+    "الكرنفال"
+   ]
+  },
+  "es": {
+   "q": "¿Qué fiesta de las luces celebran millones de personas en la India?",
+   "c": [
+    "Diwali",
+    "Halloween",
+    "Pascua",
+    "El carnaval"
+   ]
+  },
+  "pt": {
+   "q": "Qual festival das luzes é celebrado por milhões de pessoas na Índia?",
+   "c": [
+    "Diwali",
+    "Halloween",
+    "Páscoa",
+    "O carnaval"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quelle fête est célèbre pour ses défilés de samba à Rio de Janeiro ?",
+   "c": [
+    "Diwali",
+    "Le carnaval",
+    "L'Oktoberfest",
+    "Thanksgiving"
+   ]
+  },
+  "en": {
+   "q": "Which festival is famous for samba parades in Rio de Janeiro?",
+   "c": [
+    "Diwali",
+    "Carnival",
+    "Oktoberfest",
+    "Thanksgiving"
+   ]
+  },
+  "ar": {
+   "q": "أي احتفال مشهور بعروض السامبا في ريو دي جانيرو؟",
+   "c": [
+    "ديوالي",
+    "الكرنفال",
+    "أوكتوبرفست",
+    "عيد الشكر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué fiesta es famosa por sus desfiles de samba en Río de Janeiro?",
+   "c": [
+    "Diwali",
+    "El carnaval",
+    "El Oktoberfest",
+    "Acción de Gracias"
+   ]
+  },
+  "pt": {
+   "q": "Qual festa é famosa pelos desfiles de samba no Rio de Janeiro?",
+   "c": [
+    "Diwali",
+    "O carnaval",
+    "A Oktoberfest",
+    "O Dia de Ação de Graças"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel animal originaire d'Australie mange des feuilles d'eucalyptus ?",
+   "c": [
+    "Le panda",
+    "Le lémurien",
+    "Le koala",
+    "Le paresseux"
+   ]
+  },
+  "en": {
+   "q": "Which animal native to Australia eats eucalyptus leaves?",
+   "c": [
+    "Panda",
+    "Lemur",
+    "Koala",
+    "Sloth"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان موطنه أستراليا يأكل أوراق الأوكالبتوس؟",
+   "c": [
+    "الباندا",
+    "الليمور",
+    "الكوالا",
+    "الكسلان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal originario de Australia come hojas de eucalipto?",
+   "c": [
+    "El panda",
+    "El lémur",
+    "El koala",
+    "El perezoso"
+   ]
+  },
+  "pt": {
+   "q": "Qual animal nativo da Austrália come folhas de eucalipto?",
+   "c": [
+    "O panda",
+    "O lêmure",
+    "O coala",
+    "A preguiça"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quelle langue est principalement parlée en Égypte ?",
+   "c": [
+    "Le turc",
+    "Le persan",
+    "L'hébreu",
+    "L'arabe"
+   ]
+  },
+  "en": {
+   "q": "Which language is mainly spoken in Egypt?",
+   "c": [
+    "Turkish",
+    "Persian",
+    "Hebrew",
+    "Arabic"
+   ]
+  },
+  "ar": {
+   "q": "ما اللغة التي يتحدث بها معظم سكان مصر؟",
+   "c": [
+    "التركية",
+    "الفارسية",
+    "العبرية",
+    "العربية"
+   ]
+  },
+  "es": {
+   "q": "¿Qué idioma se habla principalmente en Egipto?",
+   "c": [
+    "Turco",
+    "Persa",
+    "Hebreo",
+    "Árabe"
+   ]
+  },
+  "pt": {
+   "q": "Qual idioma é falado principalmente no Egito?",
+   "c": [
+    "Turco",
+    "Persa",
+    "Hebraico",
+    "Árabe"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quelle invention éclaire une pièce grâce à l'électricité ?",
+   "c": [
+    "L'ampoule",
+    "La bougie",
+    "La lampe à huile",
+    "Le flambeau"
+   ]
+  },
+  "en": {
+   "q": "Which invention lights a room using electricity?",
+   "c": [
+    "The light bulb",
+    "The candle",
+    "The oil lamp",
+    "The torch"
+   ]
+  },
+  "ar": {
+   "q": "أي اختراع يضيء الغرفة بالكهرباء؟",
+   "c": [
+    "المصباح الكهربائي",
+    "الشمعة",
+    "مصباح الزيت",
+    "المشعل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué invento ilumina una habitación con electricidad?",
+   "c": [
+    "La bombilla",
+    "La vela",
+    "La lámpara de aceite",
+    "La antorcha"
+   ]
+  },
+  "pt": {
+   "q": "Qual invenção ilumina um cômodo usando eletricidade?",
+   "c": [
+    "A lâmpada",
+    "A vela",
+    "A lamparina a óleo",
+    "A tocha"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel arbre donne le sirop sucré typique du Canada ?",
+   "c": [
+    "Le chêne",
+    "L'érable",
+    "Le palmier",
+    "Le pin"
+   ]
+  },
+  "en": {
+   "q": "Which tree gives the sweet syrup typical of Canada?",
+   "c": [
+    "Oak",
+    "Maple",
+    "Palm",
+    "Pine"
+   ]
+  },
+  "ar": {
+   "q": "أي شجرة تعطي الشراب الحلو المشهور في كندا؟",
+   "c": [
+    "البلوط",
+    "القيقب",
+    "النخيل",
+    "الصنوبر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué árbol da el jarabe dulce típico de Canadá?",
+   "c": [
+    "El roble",
+    "El arce",
+    "La palmera",
+    "El pino"
+   ]
+  },
+  "pt": {
+   "q": "Qual árvore dá o xarope doce típico do Canadá?",
+   "c": [
+    "O carvalho",
+    "O bordo",
+    "A palmeira",
+    "O pinheiro"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on les animaux qui mangent des plantes et de la viande ?",
+   "c": [
+    "Des herbivores",
+    "Des carnivores",
+    "Des omnivores",
+    "Des insectivores"
+   ]
+  },
+  "en": {
+   "q": "What do we call animals that eat both plants and meat?",
+   "c": [
+    "Herbivores",
+    "Carnivores",
+    "Omnivores",
+    "Insectivores"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمّي الحيوانات التي تأكل النباتات واللحوم معًا؟",
+   "c": [
+    "العواشب",
+    "اللواحم",
+    "آكلات كل شيء",
+    "آكلات الحشرات"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama a los animales que comen plantas y carne?",
+   "c": [
+    "Herbívoros",
+    "Carnívoros",
+    "Omnívoros",
+    "Insectívoros"
+   ]
+  },
+  "pt": {
+   "q": "Como se chamam os animais que comem plantas e carne?",
+   "c": [
+    "Herbívoros",
+    "Carnívoros",
+    "Onívoros",
+    "Insetívoros"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel organe digère nos aliments ?",
+   "c": [
+    "Le cœur",
+    "Le cerveau",
+    "Les poumons",
+    "L'estomac"
+   ]
+  },
+  "en": {
+   "q": "Which organ digests our food?",
+   "c": [
+    "The heart",
+    "The brain",
+    "The lungs",
+    "The stomach"
+   ]
+  },
+  "ar": {
+   "q": "أي عضو يهضم طعامنا؟",
+   "c": [
+    "القلب",
+    "الدماغ",
+    "الرئتان",
+    "المعدة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué órgano digiere nuestros alimentos?",
+   "c": [
+    "El corazón",
+    "El cerebro",
+    "Los pulmones",
+    "El estómago"
+   ]
+  },
+  "pt": {
+   "q": "Qual órgão digere os nossos alimentos?",
+   "c": [
+    "O coração",
+    "O cérebro",
+    "Os pulmões",
+    "O estômago"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel pays est célèbre pour ses champs de tulipes ?",
+   "c": [
+    "Les Pays-Bas",
+    "L'Égypte",
+    "Le Mexique",
+    "La Thaïlande"
+   ]
+  },
+  "en": {
+   "q": "Which country is famous for its fields of tulips?",
+   "c": [
+    "Netherlands",
+    "Egypt",
+    "Mexico",
+    "Thailand"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد مشهور بحقول التوليب؟",
+   "c": [
+    "هولندا",
+    "مصر",
+    "المكسيك",
+    "تايلاند"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país es famoso por sus campos de tulipanes?",
+   "c": [
+    "Países Bajos",
+    "Egipto",
+    "México",
+    "Tailandia"
+   ]
+  },
+  "pt": {
+   "q": "Qual país é famoso por seus campos de tulipas?",
+   "c": [
+    "Países Baixos",
+    "Egito",
+    "México",
+    "Tailândia"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quelle légumineuse est l'ingrédient principal du houmous ?",
+   "c": [
+    "La lentille",
+    "Le pois chiche",
+    "Le petit pois",
+    "Le soja"
+   ]
+  },
+  "en": {
+   "q": "Which legume is the main ingredient of hummus?",
+   "c": [
+    "Lentil",
+    "Chickpea",
+    "Pea",
+    "Soybean"
+   ]
+  },
+  "ar": {
+   "q": "ما البقول المكوّن الرئيسي للحمّص بالطحينة؟",
+   "c": [
+    "العدس",
+    "الحمّص",
+    "البازلاء",
+    "فول الصويا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué legumbre es el ingrediente principal del hummus?",
+   "c": [
+    "La lenteja",
+    "El garbanzo",
+    "El guisante",
+    "La soja"
+   ]
+  },
+  "pt": {
+   "q": "Qual leguminosa é o ingrediente principal do homus?",
+   "c": [
+    "A lentilha",
+    "O grão-de-bico",
+    "A ervilha",
+    "A soja"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel animal marin a huit bras ?",
+   "c": [
+    "Le requin",
+    "Le phoque",
+    "La pieuvre",
+    "Le crabe"
+   ]
+  },
+  "en": {
+   "q": "Which sea animal has eight arms?",
+   "c": [
+    "Shark",
+    "Seal",
+    "Octopus",
+    "Crab"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان بحري له ثماني أذرع؟",
+   "c": [
+    "القرش",
+    "الفقمة",
+    "الأخطبوط",
+    "السلطعون"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal marino tiene ocho brazos?",
+   "c": [
+    "El tiburón",
+    "La foca",
+    "El pulpo",
+    "El cangrejo"
+   ]
+  },
+  "pt": {
+   "q": "Qual animal marinho tem oito braços?",
+   "c": [
+    "O tubarão",
+    "A foca",
+    "O polvo",
+    "O caranguejo"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel instrument mesure la température du corps ?",
+   "c": [
+    "Le baromètre",
+    "La règle",
+    "La balance",
+    "Le thermomètre"
+   ]
+  },
+  "en": {
+   "q": "Which instrument measures body temperature?",
+   "c": [
+    "Barometer",
+    "Ruler",
+    "Scale",
+    "Thermometer"
+   ]
+  },
+  "ar": {
+   "q": "أي أداة تقيس درجة حرارة الجسم؟",
+   "c": [
+    "مقياس الضغط الجوي",
+    "المسطرة",
+    "الميزان",
+    "الميزان الحراري"
+   ]
+  },
+  "es": {
+   "q": "¿Qué instrumento mide la temperatura del cuerpo?",
+   "c": [
+    "El barómetro",
+    "La regla",
+    "La balanza",
+    "El termómetro"
+   ]
+  },
+  "pt": {
+   "q": "Qual instrumento mede a temperatura do corpo?",
+   "c": [
+    "O barômetro",
+    "A régua",
+    "A balança",
+    "O termômetro"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelle la partie colorée de l'œil ?",
+   "c": [
+    "L'iris",
+    "La pupille",
+    "La rétine",
+    "La paupière"
+   ]
+  },
+  "en": {
+   "q": "What is the colored part of the eye called?",
+   "c": [
+    "Iris",
+    "Pupil",
+    "Retina",
+    "Eyelid"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يُسمّى الجزء الملوَّن من العين؟",
+   "c": [
+    "القزحية",
+    "البؤبؤ",
+    "الشبكية",
+    "الجفن"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama la parte coloreada del ojo?",
+   "c": [
+    "Iris",
+    "Pupila",
+    "Retina",
+    "Párpado"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama a parte colorida do olho?",
+   "c": [
+    "Íris",
+    "Pupila",
+    "Retina",
+    "Pálpebra"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quelle fête fait intervenir déguisements, citrouilles et bonbons réclamés de porte en porte ?",
+   "c": [
+    "Diwali",
+    "Halloween",
+    "Pâques",
+    "Le carnaval"
+   ]
+  },
+  "en": {
+   "q": "Which festival involves costumes, pumpkins and trick-or-treating?",
+   "c": [
+    "Diwali",
+    "Halloween",
+    "Easter",
+    "Carnival"
+   ]
+  },
+  "ar": {
+   "q": "أي احتفال يتضمن الأزياء التنكرية والقرع وجمع الحلوى من البيوت؟",
+   "c": [
+    "ديوالي",
+    "الهالوين",
+    "عيد الفصح",
+    "الكرنفال"
+   ]
+  },
+  "es": {
+   "q": "¿Qué fiesta incluye disfraces, calabazas y pedir dulces de puerta en puerta?",
+   "c": [
+    "Diwali",
+    "Halloween",
+    "Pascua",
+    "El carnaval"
+   ]
+  },
+  "pt": {
+   "q": "Qual festa tem fantasias, abóboras e doces pedidos de porta em porta?",
+   "c": [
+    "Diwali",
+    "Halloween",
+    "Páscoa",
+    "O carnaval"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quelle fête comporte des danses du dragon et des enveloppes rouges ?",
+   "c": [
+    "Pâques",
+    "Thanksgiving",
+    "Le Nouvel An lunaire",
+    "L'Oktoberfest"
+   ]
+  },
+  "en": {
+   "q": "Which festival features dragon dances and red envelopes?",
+   "c": [
+    "Easter",
+    "Thanksgiving",
+    "Lunar New Year",
+    "Oktoberfest"
+   ]
+  },
+  "ar": {
+   "q": "أي احتفال يتضمن رقصات التنين والمظاريف الحمراء؟",
+   "c": [
+    "عيد الفصح",
+    "عيد الشكر",
+    "رأس السنة القمرية",
+    "أوكتوبرفست"
+   ]
+  },
+  "es": {
+   "q": "¿Qué fiesta incluye danzas del dragón y sobres rojos?",
+   "c": [
+    "La Pascua",
+    "Acción de Gracias",
+    "El Año Nuevo lunar",
+    "El Oktoberfest"
+   ]
+  },
+  "pt": {
+   "q": "Qual festa tem danças do dragão e envelopes vermelhos?",
+   "c": [
+    "A Páscoa",
+    "O Dia de Ação de Graças",
+    "O Ano Novo Lunar",
+    "A Oktoberfest"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quelle est la langue maternelle la plus parlée au monde ?",
+   "c": [
+    "L'anglais",
+    "L'espagnol",
+    "L'hindi",
+    "Le mandarin"
+   ]
+  },
+  "en": {
+   "q": "Which is the most spoken native language in the world?",
+   "c": [
+    "English",
+    "Spanish",
+    "Hindi",
+    "Mandarin Chinese"
+   ]
+  },
+  "ar": {
+   "q": "ما أكثر لغة أم يتحدث بها الناس في العالم؟",
+   "c": [
+    "الإنجليزية",
+    "الإسبانية",
+    "الهندية",
+    "الماندرين الصينية"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la lengua materna más hablada del mundo?",
+   "c": [
+    "El inglés",
+    "El español",
+    "El hindi",
+    "El mandarín"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a língua materna mais falada do mundo?",
+   "c": [
+    "O inglês",
+    "O espanhol",
+    "O hindi",
+    "O mandarim"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Lequel de ces animaux est un reptile ?",
+   "c": [
+    "Le crocodile",
+    "La grenouille",
+    "Le dauphin",
+    "La chauve-souris"
+   ]
+  },
+  "en": {
+   "q": "Which of these animals is a reptile?",
+   "c": [
+    "Crocodile",
+    "Frog",
+    "Dolphin",
+    "Bat"
+   ]
+  },
+  "ar": {
+   "q": "أي من هذه الحيوانات من الزواحف؟",
+   "c": [
+    "التمساح",
+    "الضفدع",
+    "الدلفين",
+    "الخفاش"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál de estos animales es un reptil?",
+   "c": [
+    "El cocodrilo",
+    "La rana",
+    "El delfín",
+    "El murciélago"
+   ]
+  },
+  "pt": {
+   "q": "Qual destes animais é um réptil?",
+   "c": [
+    "O crocodilo",
+    "O sapo",
+    "O golfinho",
+    "O morcego"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Qui a inventé le premier téléphone pratique ?",
+   "c": [
+    "Thomas Edison",
+    "Alexander Graham Bell",
+    "Albert Einstein",
+    "Isaac Newton"
+   ]
+  },
+  "en": {
+   "q": "Who invented the first practical telephone?",
+   "c": [
+    "Thomas Edison",
+    "Alexander Graham Bell",
+    "Albert Einstein",
+    "Isaac Newton"
+   ]
+  },
+  "ar": {
+   "q": "من اخترع أول هاتف عملي؟",
+   "c": [
+    "توماس إديسون",
+    "ألكسندر غراهام بيل",
+    "ألبرت أينشتاين",
+    "إسحاق نيوتن"
+   ]
+  },
+  "es": {
+   "q": "¿Quién inventó el primer teléfono práctico?",
+   "c": [
+    "Thomas Edison",
+    "Alexander Graham Bell",
+    "Albert Einstein",
+    "Isaac Newton"
+   ]
+  },
+  "pt": {
+   "q": "Quem inventou o primeiro telefone prático?",
+   "c": [
+    "Thomas Edison",
+    "Alexander Graham Bell",
+    "Albert Einstein",
+    "Isaac Newton"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel arbre a des aiguilles au lieu de feuilles plates ?",
+   "c": [
+    "Le chêne",
+    "L'érable",
+    "Le pin",
+    "Le bananier"
+   ]
+  },
+  "en": {
+   "q": "Which tree has needles instead of flat leaves?",
+   "c": [
+    "Oak",
+    "Maple",
+    "Pine",
+    "Banana tree"
+   ]
+  },
+  "ar": {
+   "q": "أي شجرة لها إبر بدل الأوراق العريضة؟",
+   "c": [
+    "البلوط",
+    "القيقب",
+    "الصنوبر",
+    "شجرة الموز"
+   ]
+  },
+  "es": {
+   "q": "¿Qué árbol tiene agujas en lugar de hojas planas?",
+   "c": [
+    "El roble",
+    "El arce",
+    "El pino",
+    "El bananero"
+   ]
+  },
+  "pt": {
+   "q": "Qual árvore tem agulhas em vez de folhas planas?",
+   "c": [
+    "O carvalho",
+    "O bordo",
+    "O pinheiro",
+    "A bananeira"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel animal construit des barrages sur les rivières avec des branches et de la boue ?",
+   "c": [
+    "La loutre",
+    "Le canard",
+    "Le lapin",
+    "Le castor"
+   ]
+  },
+  "en": {
+   "q": "Which animal builds dams on rivers with branches and mud?",
+   "c": [
+    "Otter",
+    "Duck",
+    "Rabbit",
+    "Beaver"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يبني السدود على الأنهار بالأغصان والطين؟",
+   "c": [
+    "ثعلب الماء",
+    "البطة",
+    "الأرنب",
+    "القندس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal construye presas en los ríos con ramas y barro?",
+   "c": [
+    "La nutria",
+    "El pato",
+    "El conejo",
+    "El castor"
+   ]
+  },
+  "pt": {
+   "q": "Qual animal constrói represas nos rios com galhos e lama?",
+   "c": [
+    "A lontra",
+    "O pato",
+    "O coelho",
+    "O castor"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quelle épice donne sa couleur jaune à la paella ?",
+   "c": [
+    "Le safran",
+    "Le poivre",
+    "La cannelle",
+    "La vanille"
+   ]
+  },
+  "en": {
+   "q": "Which spice gives paella its yellow color?",
+   "c": [
+    "Saffron",
+    "Pepper",
+    "Cinnamon",
+    "Vanilla"
+   ]
+  },
+  "ar": {
+   "q": "أي توابل تعطي البايلا لونها الأصفر؟",
+   "c": [
+    "الزعفران",
+    "الفلفل",
+    "القرفة",
+    "الفانيليا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué especia da su color amarillo a la paella?",
+   "c": [
+    "El azafrán",
+    "La pimienta",
+    "La canela",
+    "La vainilla"
+   ]
+  },
+  "pt": {
+   "q": "Qual especiaria dá a cor amarela à paella?",
+   "c": [
+    "O açafrão",
+    "A pimenta",
+    "A canela",
+    "A baunilha"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel animal marin a un corps mou en forme de cloche et des tentacules urticants ?",
+   "c": [
+    "L'étoile de mer",
+    "La méduse",
+    "L'oursin",
+    "La palourde"
+   ]
+  },
+  "en": {
+   "q": "Which sea animal has a soft bell-shaped body and stinging tentacles?",
+   "c": [
+    "Starfish",
+    "Jellyfish",
+    "Sea urchin",
+    "Clam"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان بحري له جسم رخو على شكل جرس وأذرع لاسعة؟",
+   "c": [
+    "نجم البحر",
+    "قنديل البحر",
+    "قنفذ البحر",
+    "المحار"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal marino tiene un cuerpo blando en forma de campana y tentáculos urticantes?",
+   "c": [
+    "La estrella de mar",
+    "La medusa",
+    "El erizo de mar",
+    "La almeja"
+   ]
+  },
+  "pt": {
+   "q": "Qual animal marinho tem corpo mole em forma de sino e tentáculos urticantes?",
+   "c": [
+    "A estrela-do-mar",
+    "A água-viva",
+    "O ouriço-do-mar",
+    "A amêijoa"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve le Serengeti, célèbre pour la migration des gnous ?",
+   "c": [
+    "Le Nigéria",
+    "Le Ghana",
+    "La Tanzanie",
+    "Le Sénégal"
+   ]
+  },
+  "en": {
+   "q": "In which country is the Serengeti, famous for its wildebeest migration?",
+   "c": [
+    "Nigeria",
+    "Ghana",
+    "Tanzania",
+    "Senegal"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد تقع سيرينغيتي المشهورة بهجرة حيوانات النو؟",
+   "c": [
+    "نيجيريا",
+    "غانا",
+    "تنزانيا",
+    "السنغال"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está el Serengueti, famoso por la migración de los ñus?",
+   "c": [
+    "Nigeria",
+    "Ghana",
+    "Tanzania",
+    "Senegal"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica o Serengeti, famoso pela migração dos gnus?",
+   "c": [
+    "Nigéria",
+    "Gana",
+    "Tanzânia",
+    "Senegal"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on les vaisseaux qui éloignent le sang du cœur ?",
+   "c": [
+    "Les veines",
+    "Les nerfs",
+    "Les muscles",
+    "Les artères"
+   ]
+  },
+  "en": {
+   "q": "What do we call the vessels that carry blood away from the heart?",
+   "c": [
+    "Veins",
+    "Nerves",
+    "Muscles",
+    "Arteries"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمّي الأوعية التي تنقل الدم بعيدًا عن القلب؟",
+   "c": [
+    "الأوردة",
+    "الأعصاب",
+    "العضلات",
+    "الشرايين"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llaman los vasos que llevan la sangre lejos del corazón?",
+   "c": [
+    "Venas",
+    "Nervios",
+    "Músculos",
+    "Arterias"
+   ]
+  },
+  "pt": {
+   "q": "Como se chamam os vasos que levam o sangue para longe do coração?",
+   "c": [
+    "Veias",
+    "Nervos",
+    "Músculos",
+    "Artérias"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Que collectent les abeilles dans les fleurs pour faire du miel ?",
+   "c": [
+    "Le nectar",
+    "La sève",
+    "Le sable",
+    "L'eau"
+   ]
+  },
+  "en": {
+   "q": "What do bees collect from flowers to make honey?",
+   "c": [
+    "Nectar",
+    "Sap",
+    "Leaves",
+    "Water"
+   ]
+  },
+  "ar": {
+   "q": "ماذا تجمع النحلة من الأزهار لتصنع العسل؟",
+   "c": [
+    "الرحيق",
+    "النُّسغ",
+    "الرمل",
+    "الماء"
+   ]
+  },
+  "es": {
+   "q": "¿Qué recogen las abejas de las flores para hacer miel?",
+   "c": [
+    "Néctar",
+    "Savia",
+    "Arena",
+    "Agua"
+   ]
+  },
+  "pt": {
+   "q": "O que as abelhas coletam das flores para fazer mel?",
+   "c": [
+    "Néctar",
+    "Seiva",
+    "Areia",
+    "Água"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel pays célèbre le Jour des morts avec des crânes en sucre ?",
+   "c": [
+    "L'Allemagne",
+    "Le Mexique",
+    "La Chine",
+    "Le Kenya"
+   ]
+  },
+  "en": {
+   "q": "Which country celebrates the Day of the Dead with sugar skulls?",
+   "c": [
+    "Germany",
+    "Mexico",
+    "China",
+    "Kenya"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد يحتفل بيوم الموتى بجماجم السكر؟",
+   "c": [
+    "ألمانيا",
+    "المكسيك",
+    "الصين",
+    "كينيا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país celebra el Día de Muertos con calaveras de azúcar?",
+   "c": [
+    "Alemania",
+    "México",
+    "China",
+    "Kenia"
+   ]
+  },
+  "pt": {
+   "q": "Qual país celebra o Dia dos Mortos com caveiras de açúcar?",
+   "c": [
+    "Alemanha",
+    "México",
+    "China",
+    "Quênia"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se tient la célèbre fête de la bière Oktoberfest, à Munich ?",
+   "c": [
+    "En Pologne",
+    "Au Japon",
+    "En Allemagne",
+    "Au Brésil"
+   ]
+  },
+  "en": {
+   "q": "In which country is the famous Oktoberfest beer festival held in Munich?",
+   "c": [
+    "Poland",
+    "Japan",
+    "Germany",
+    "Brazil"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد يُقام مهرجان البيرة الشهير أوكتوبرفست في ميونخ؟",
+   "c": [
+    "بولندا",
+    "اليابان",
+    "ألمانيا",
+    "البرازيل"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país se celebra el famoso Oktoberfest de la cerveza, en Múnich?",
+   "c": [
+    "Polonia",
+    "Japón",
+    "Alemania",
+    "Brasil"
+   ]
+  },
+  "pt": {
+   "q": "Em que país acontece a famosa festa da cerveja Oktoberfest, em Munique?",
+   "c": [
+    "Polônia",
+    "Japão",
+    "Alemanha",
+    "Brasil"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quelle fête indienne est connue pour ses jets de poudre colorée ?",
+   "c": [
+    "Pâques",
+    "Hanouka",
+    "Halloween",
+    "Holi"
+   ]
+  },
+  "en": {
+   "q": "Which Indian festival is known for throwing colored powder?",
+   "c": [
+    "Easter",
+    "Hanukkah",
+    "Halloween",
+    "Holi"
+   ]
+  },
+  "ar": {
+   "q": "أي مهرجان هندي مشهور برمي المساحيق الملونة؟",
+   "c": [
+    "عيد الفصح",
+    "حانوكا",
+    "الهالوين",
+    "هولي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué fiesta india es conocida por el lanzamiento de polvos de colores?",
+   "c": [
+    "Pascua",
+    "Janucá",
+    "Halloween",
+    "Holi"
+   ]
+  },
+  "pt": {
+   "q": "Qual festa indiana é conhecida pelo lançamento de pó colorido?",
+   "c": [
+    "Páscoa",
+    "Hanucá",
+    "Halloween",
+    "Holi"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel alphabet sert à écrire le russe ?",
+   "c": [
+    "Le cyrillique",
+    "Le latin",
+    "Le grec",
+    "L'arabe"
+   ]
+  },
+  "en": {
+   "q": "Which alphabet is used to write Russian?",
+   "c": [
+    "Cyrillic",
+    "Latin",
+    "Greek",
+    "Arabic"
+   ]
+  },
+  "ar": {
+   "q": "أي أبجدية تُستخدم لكتابة اللغة الروسية؟",
+   "c": [
+    "الأبجدية السيريلية",
+    "اللاتينية",
+    "اليونانية",
+    "العربية"
+   ]
+  },
+  "es": {
+   "q": "¿Qué alfabeto se usa para escribir el ruso?",
+   "c": [
+    "El cirílico",
+    "El latino",
+    "El griego",
+    "El árabe"
+   ]
+  },
+  "pt": {
+   "q": "Qual alfabeto é usado para escrever o russo?",
+   "c": [
+    "O cirílico",
+    "O latino",
+    "O grego",
+    "O árabe"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "À quelle langue appartient le mot « Danke » (merci) ?",
+   "c": [
+    "L'italien",
+    "L'allemand",
+    "Le portugais",
+    "Le suédois"
+   ]
+  },
+  "en": {
+   "q": "Which language does the word \"Danke\" (thank you) belong to?",
+   "c": [
+    "Italian",
+    "German",
+    "Portuguese",
+    "Swedish"
+   ]
+  },
+  "ar": {
+   "q": "إلى أي لغة تنتمي كلمة «Danke» (شكرًا)؟",
+   "c": [
+    "الإيطالية",
+    "الألمانية",
+    "البرتغالية",
+    "السويدية"
+   ]
+  },
+  "es": {
+   "q": "¿A qué idioma pertenece la palabra «Danke» (gracias)?",
+   "c": [
+    "Italiano",
+    "Alemán",
+    "Portugués",
+    "Sueco"
+   ]
+  },
+  "pt": {
+   "q": "A qual idioma pertence a palavra «Danke» (obrigado)?",
+   "c": [
+    "Italiano",
+    "Alemão",
+    "Português",
+    "Sueco"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel matériau a d'abord été inventé dans la Chine ancienne ?",
+   "c": [
+    "Le plastique",
+    "Le câble d'acier",
+    "Le papier",
+    "Le pneu en caoutchouc"
+   ]
+  },
+  "en": {
+   "q": "Which material was first invented in ancient China?",
+   "c": [
+    "Plastic",
+    "Steel cable",
+    "Paper",
+    "Rubber tire"
+   ]
+  },
+  "ar": {
+   "q": "أي مادة اخترعت أولًا في الصين القديمة؟",
+   "c": [
+    "البلاستيك",
+    "الكابل الفولاذي",
+    "الورق",
+    "إطار المطاط"
+   ]
+  },
+  "es": {
+   "q": "¿Qué material se inventó primero en la antigua China?",
+   "c": [
+    "El plástico",
+    "El cable de acero",
+    "El papel",
+    "El neumático de caucho"
+   ]
+  },
+  "pt": {
+   "q": "Qual material foi inventado primeiro na China antiga?",
+   "c": [
+    "O plástico",
+    "O cabo de aço",
+    "O papel",
+    "O pneu de borracha"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quelle invention permet de voir des organismes minuscules invisibles à l'œil nu ?",
+   "c": [
+    "Le télescope",
+    "Le périscope",
+    "Le kaléidoscope",
+    "Le microscope"
+   ]
+  },
+  "en": {
+   "q": "Which invention lets us see tiny organisms invisible to the eye?",
+   "c": [
+    "Telescope",
+    "Periscope",
+    "Kaleidoscope",
+    "Microscope"
+   ]
+  },
+  "ar": {
+   "q": "أي اختراع يتيح رؤية كائنات صغيرة لا تُرى بالعين المجردة؟",
+   "c": [
+    "التلسكوب",
+    "المنظار الغاطس",
+    "المشكال",
+    "المجهر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué invento permite ver organismos diminutos invisibles al ojo?",
+   "c": [
+    "El telescopio",
+    "El periscopio",
+    "El calidoscopio",
+    "El microscopio"
+   ]
+  },
+  "pt": {
+   "q": "Qual invenção permite ver organismos minúsculos invisíveis a olho nu?",
+   "c": [
+    "O telescópio",
+    "O periscópio",
+    "O caleidoscópio",
+    "O microscópio"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel pays est célèbre pour le kimchi, chou fermenté et épicé ?",
+   "c": [
+    "La Corée du Sud",
+    "Le Japon",
+    "La Thaïlande",
+    "Le Vietnam"
+   ]
+  },
+  "en": {
+   "q": "Which country is famous for the spicy fermented cabbage dish kimchi?",
+   "c": [
+    "South Korea",
+    "Japan",
+    "Thailand",
+    "Vietnam"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد مشهور بالكيمتشي، طبق الملفوف المخمّر الحار؟",
+   "c": [
+    "كوريا الجنوبية",
+    "اليابان",
+    "تايلاند",
+    "فيتنام"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país es famoso por el kimchi, col fermentada y picante?",
+   "c": [
+    "Corea del Sur",
+    "Japón",
+    "Tailandia",
+    "Vietnam"
+   ]
+  },
+  "pt": {
+   "q": "Qual país é famoso pelo kimchi, repolho fermentado e picante?",
+   "c": [
+    "Coreia do Sul",
+    "Japão",
+    "Tailândia",
+    "Vietnã"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quelle légumineuse est l'ingrédient principal du dal indien ?",
+   "c": [
+    "Les cacahuètes",
+    "Les lentilles",
+    "Les haricots verts",
+    "Le maïs"
+   ]
+  },
+  "en": {
+   "q": "Which legume is the main ingredient of the Indian dish dal?",
+   "c": [
+    "Peanuts",
+    "Lentils",
+    "Green beans",
+    "Corn"
+   ]
+  },
+  "ar": {
+   "q": "ما البقول المكوّن الرئيسي لطبق الدال الهندي؟",
+   "c": [
+    "الفول السوداني",
+    "العدس",
+    "الفاصولياء الخضراء",
+    "الذرة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué legumbre es el ingrediente principal del dal indio?",
+   "c": [
+    "Los cacahuetes",
+    "Las lentejas",
+    "Las judías verdes",
+    "El maíz"
+   ]
+  },
+  "pt": {
+   "q": "Qual leguminosa é o ingrediente principal do dal indiano?",
+   "c": [
+    "Os amendoins",
+    "As lentilhas",
+    "As vagens",
+    "O milho"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel animal peut refaire sa queue après l'avoir perdue ?",
+   "c": [
+    "Le chat",
+    "La souris",
+    "Le lézard",
+    "Le pigeon"
+   ]
+  },
+  "en": {
+   "q": "Which animal can regrow its tail after losing it?",
+   "c": [
+    "Cat",
+    "Mouse",
+    "Lizard",
+    "Pigeon"
+   ]
+  },
+  "ar": {
+   "q": "أي حيوان يستطيع أن ينمّي ذيله من جديد بعد فقدانه؟",
+   "c": [
+    "القط",
+    "الفأر",
+    "السحلية",
+    "الحمامة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué animal puede regenerar su cola tras perderla?",
+   "c": [
+    "El gato",
+    "El ratón",
+    "La lagartija",
+    "La paloma"
+   ]
+  },
+  "pt": {
+   "q": "Qual animal pode regenerar a cauda depois de perdê-la?",
+   "c": [
+    "O gato",
+    "O rato",
+    "O lagarto",
+    "O pombo"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel minuscule oiseau peut faire du sur-place et même voler en arrière ?",
+   "c": [
+    "Le moineau",
+    "La chouette",
+    "Le pigeon",
+    "Le colibri"
+   ]
+  },
+  "en": {
+   "q": "Which tiny bird can hover in place and even fly backwards?",
+   "c": [
+    "Sparrow",
+    "Owl",
+    "Pigeon",
+    "Hummingbird"
+   ]
+  },
+  "ar": {
+   "q": "أي طائر صغير يستطيع التحليق في مكانه وحتى الطيران إلى الخلف؟",
+   "c": [
+    "العصفور",
+    "البومة",
+    "الحمامة",
+    "الطنان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué diminuta ave puede quedarse suspendida en el aire e incluso volar hacia atrás?",
+   "c": [
+    "El gorrión",
+    "El búho",
+    "La paloma",
+    "El colibrí"
+   ]
+  },
+  "pt": {
+   "q": "Qual pequena ave consegue pairar no ar e até voar para trás?",
+   "c": [
+    "O pardal",
+    "A coruja",
+    "O pombo",
+    "O beija-flor"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quelles cellules du sang aident le corps à lutter contre les infections ?",
+   "c": [
+    "Les globules blancs",
+    "Les globules rouges",
+    "Les plaquettes seules",
+    "Le plasma seul"
+   ]
+  },
+  "en": {
+   "q": "Which blood cells help the body fight infections?",
+   "c": [
+    "White blood cells",
+    "Red blood cells",
+    "Platelets only",
+    "Plasma only"
+   ]
+  },
+  "ar": {
+   "q": "أي خلايا الدم تساعد الجسم على مقاومة العدوى؟",
+   "c": [
+    "كريات الدم البيضاء",
+    "كريات الدم الحمراء",
+    "الصفائح وحدها",
+    "البلازما وحدها"
+   ]
+  },
+  "es": {
+   "q": "¿Qué células de la sangre ayudan al cuerpo a combatir las infecciones?",
+   "c": [
+    "Los glóbulos blancos",
+    "Los glóbulos rojos",
+    "Solo las plaquetas",
+    "Solo el plasma"
+   ]
+  },
+  "pt": {
+   "q": "Quais células do sangue ajudam o corpo a combater infecções?",
+   "c": [
+    "Os glóbulos brancos",
+    "Os glóbulos vermelhos",
+    "Só as plaquetas",
+    "Só o plasma"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on un immense fleuve de glace qui avance lentement ?",
+   "c": [
+    "Un iceberg",
+    "Un glacier",
+    "Une avalanche",
+    "Un geyser"
+   ]
+  },
+  "en": {
+   "q": "What do we call a huge, slow-moving river of ice?",
+   "c": [
+    "Iceberg",
+    "Glacier",
+    "Avalanche",
+    "Geyser"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمّي نهرًا جليديًا ضخمًا يتحرك ببطء؟",
+   "c": [
+    "الجبل الجليدي",
+    "النهر الجليدي",
+    "الانهيار الجليدي",
+    "الينبوع الحار"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama un enorme río de hielo que avanza lentamente?",
+   "c": [
+    "Iceberg",
+    "Glaciar",
+    "Avalancha",
+    "Géiser"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama um enorme rio de gelo que avança lentamente?",
+   "c": [
+    "Iceberg",
+    "Geleira",
+    "Avalanche",
+    "Gêiser"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se lancent-on des tomates lors de la fête de La Tomatina ?",
+   "c": [
+    "Au Pérou",
+    "En Égypte",
+    "En Espagne",
+    "En Inde"
+   ]
+  },
+  "en": {
+   "q": "In which country do people throw tomatoes at each other at the La Tomatina festival?",
+   "c": [
+    "Peru",
+    "Egypt",
+    "Spain",
+    "India"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد يتراشق الناس بالطماطم في مهرجان لا توماتينا؟",
+   "c": [
+    "بيرو",
+    "مصر",
+    "إسبانيا",
+    "الهند"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país se lanzan tomates durante la fiesta de La Tomatina?",
+   "c": [
+    "Perú",
+    "Egipto",
+    "España",
+    "India"
+   ]
+  },
+  "pt": {
+   "q": "Em que país as pessoas se atiram tomates na festa La Tomatina?",
+   "c": [
+    "Peru",
+    "Egito",
+    "Espanha",
+    "Índia"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quelle fête marque la fin du mois de ramadan ?",
+   "c": [
+    "Diwali",
+    "Hanoukka",
+    "Pâques",
+    "L'Aïd al-Fitr"
+   ]
+  },
+  "en": {
+   "q": "Which festival marks the end of the month of Ramadan?",
+   "c": [
+    "Diwali",
+    "Hanukkah",
+    "Easter",
+    "Eid al-Fitr"
+   ]
+  },
+  "ar": {
+   "q": "أي عيد يُنهي شهر رمضان؟",
+   "c": [
+    "ديوالي",
+    "حانوكا",
+    "عيد الفصح",
+    "عيد الفطر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué fiesta marca el final del mes de Ramadán?",
+   "c": [
+    "Diwali",
+    "Janucá",
+    "Pascua",
+    "Eid al-Fitr"
+   ]
+  },
+  "pt": {
+   "q": "Qual festa marca o fim do mês do Ramadã?",
+   "c": [
+    "Diwali",
+    "Hanucá",
+    "Páscoa",
+    "Eid al-Fitr"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Laquelle de ces langues s'écrit de droite à gauche ?",
+   "c": [
+    "L'arabe",
+    "Le grec",
+    "Le coréen",
+    "Le russe"
+   ]
+  },
+  "en": {
+   "q": "Which of these languages is written from right to left?",
+   "c": [
+    "Arabic",
+    "Greek",
+    "Korean",
+    "Russian"
+   ]
+  },
+  "ar": {
+   "q": "أي من هذه اللغات تُكتب من اليمين إلى اليسار؟",
+   "c": [
+    "العربية",
+    "اليونانية",
+    "الكورية",
+    "الروسية"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál de estos idiomas se escribe de derecha a izquierda?",
+   "c": [
+    "El árabe",
+    "El griego",
+    "El coreano",
+    "El ruso"
+   ]
+  },
+  "pt": {
+   "q": "Qual destes idiomas é escrito da direita para a esquerda?",
+   "c": [
+    "O árabe",
+    "O grego",
+    "O coreano",
+    "O russo"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel instrument indique toujours le nord magnétique ?",
+   "c": [
+    "L'horloge",
+    "La boussole",
+    "La règle",
+    "La balance"
+   ]
+  },
+  "en": {
+   "q": "Which instrument always points to the magnetic north?",
+   "c": [
+    "Clock",
+    "Compass",
+    "Ruler",
+    "Scale"
+   ]
+  },
+  "ar": {
+   "q": "أي أداة تشير دائمًا إلى الشمال المغناطيسي؟",
+   "c": [
+    "الساعة",
+    "البوصلة",
+    "المسطرة",
+    "الميزان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué instrumento señala siempre el norte magnético?",
+   "c": [
+    "El reloj",
+    "La brújula",
+    "La regla",
+    "La balanza"
+   ]
+  },
+  "pt": {
+   "q": "Qual instrumento aponta sempre para o norte magnético?",
+   "c": [
+    "O relógio",
+    "A bússola",
+    "A régua",
+    "A balança"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel outil les médecins utilisent-ils pour écouter le cœur ?",
+   "c": [
+    "Le thermomètre",
+    "Le microscope",
+    "Le stéthoscope",
+    "La seringue"
+   ]
+  },
+  "en": {
+   "q": "Which tool do doctors use to listen to the heart?",
+   "c": [
+    "Thermometer",
+    "Microscope",
+    "Stethoscope",
+    "Syringe"
+   ]
+  },
+  "ar": {
+   "q": "أي أداة يستعملها الأطباء للإصغاء إلى القلب؟",
+   "c": [
+    "الميزان الحراري",
+    "المجهر",
+    "السماعة الطبية",
+    "الحقنة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué herramienta usan los médicos para escuchar el corazón?",
+   "c": [
+    "El termómetro",
+    "El microscopio",
+    "El estetoscopio",
+    "La jeringa"
+   ]
+  },
+  "pt": {
+   "q": "Que instrumento os médicos usam para ouvir o coração?",
+   "c": [
+    "O termômetro",
+    "O microscópio",
+    "O estetoscópio",
+    "A seringa"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel serpent déploie une collerette quand il se sent menacé ?",
+   "c": [
+    "Le python",
+    "Le boa",
+    "Le crotale",
+    "Le cobra"
+   ]
+  },
+  "en": {
+   "q": "Which snake spreads a hood when it feels threatened?",
+   "c": [
+    "Python",
+    "Boa",
+    "Rattlesnake",
+    "Cobra"
+   ]
+  },
+  "ar": {
+   "q": "أي أفعى تفرد قلنسوتها عندما تشعر بالتهديد؟",
+   "c": [
+    "الأصلة",
+    "البوا",
+    "الأفعى المجلجلة",
+    "الكوبرا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué serpiente despliega una capucha cuando se siente amenazada?",
+   "c": [
+    "La pitón",
+    "La boa",
+    "La serpiente de cascabel",
+    "La cobra"
+   ]
+  },
+  "pt": {
+   "q": "Qual cobra abre um capuz quando se sente ameaçada?",
+   "c": [
+    "A jiboia",
+    "A píton",
+    "A cascavel",
+    "A naja"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "De quel pays la danse du tango est-elle originaire ?",
+   "c": [
+    "L'Argentine",
+    "L'Espagne",
+    "Le Portugal",
+    "La Russie"
+   ]
+  },
+  "en": {
+   "q": "Which country is the tango dance originally from?",
+   "c": [
+    "Argentina",
+    "Spain",
+    "Portugal",
+    "Russia"
+   ]
+  },
+  "ar": {
+   "q": "من أي بلد نشأ رقص التانغو؟",
+   "c": [
+    "الأرجنتين",
+    "إسبانيا",
+    "البرتغال",
+    "روسيا"
+   ]
+  },
+  "es": {
+   "q": "¿De qué país es originario el baile del tango?",
+   "c": [
+    "Argentina",
+    "España",
+    "Portugal",
+    "Rusia"
+   ]
+  },
+  "pt": {
+   "q": "De que país é originária a dança do tango?",
+   "c": [
+    "Argentina",
+    "Espanha",
+    "Portugal",
+    "Rússia"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quelle céréale sert à faire l'injera, la galette d'Éthiopie ?",
+   "c": [
+    "Le riz",
+    "Le teff",
+    "L'avoine",
+    "Le seigle"
+   ]
+  },
+  "en": {
+   "q": "Which grain is used to make injera, the flatbread of Ethiopia?",
+   "c": [
+    "Rice",
+    "Teff",
+    "Oats",
+    "Rye"
+   ]
+  },
+  "ar": {
+   "q": "أي حبوب تُستخدم لصنع الإنجيرا، الخبز المسطّح الإثيوبي؟",
+   "c": [
+    "الأرز",
+    "التيف",
+    "الشوفان",
+    "الجاودار"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cereal se usa para hacer la injera, el pan plano de Etiopía?",
+   "c": [
+    "El arroz",
+    "El teff",
+    "La avena",
+    "El centeno"
+   ]
+  },
+  "pt": {
+   "q": "Qual cereal é usado para fazer a injera, o pão achatado da Etiópia?",
+   "c": [
+    "O arroz",
+    "O teff",
+    "A aveia",
+    "O centeio"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Le tofu, courant en Asie de l'Est, est fabriqué à partir de quelle graine ?",
+   "c": [
+    "Le haricot rouge",
+    "Le grain de café",
+    "Le soja",
+    "La fève de cacao"
+   ]
+  },
+  "en": {
+   "q": "Tofu, common in East Asian cooking, is made from which bean?",
+   "c": [
+    "Kidney bean",
+    "Coffee bean",
+    "Soybean",
+    "Cocoa bean"
+   ]
+  },
+  "ar": {
+   "q": "من أي حبوب يُصنع التوفو الشائع في شرق آسيا؟",
+   "c": [
+    "الفاصولياء الحمراء",
+    "حبوب البن",
+    "فول الصويا",
+    "حبوب الكاكاو"
+   ]
+  },
+  "es": {
+   "q": "El tofu, común en Asia oriental, se hace con qué grano?",
+   "c": [
+    "Frijol rojo",
+    "Grano de café",
+    "Soja",
+    "Haba de cacao"
+   ]
+  },
+  "pt": {
+   "q": "O tofu, comum no Leste Asiático, é feito de qual grão?",
+   "c": [
+    "Feijão-vermelho",
+    "Grão de café",
+    "Soja",
+    "Fava de cacau"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Combien de cavités possède le cœur humain ?",
+   "c": [
+    "2",
+    "3",
+    "6",
+    "4"
+   ]
+  },
+  "en": {
+   "q": "How many chambers does the human heart have?",
+   "c": [
+    "2",
+    "3",
+    "6",
+    "4"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد حجرات القلب البشري؟",
+   "c": [
+    "2",
+    "3",
+    "6",
+    "4"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántas cavidades tiene el corazón humano?",
+   "c": [
+    "2",
+    "3",
+    "6",
+    "4"
+   ]
+  },
+  "pt": {
+   "q": "Quantas cavidades tem o coração humano?",
+   "c": [
+    "2",
+    "3",
+    "6",
+    "4"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quel minéral est essentiel pour des os et des dents solides ?",
+   "c": [
+    "Le calcium",
+    "Le fer",
+    "Le sodium",
+    "L'iode"
+   ]
+  },
+  "en": {
+   "q": "Which mineral is essential for strong bones and teeth?",
+   "c": [
+    "Calcium",
+    "Iron",
+    "Sodium",
+    "Iodine"
+   ]
+  },
+  "ar": {
+   "q": "أي معدن ضروري لعظام وأسنان قوية؟",
+   "c": [
+    "الكالسيوم",
+    "الحديد",
+    "الصوديوم",
+    "اليود"
+   ]
+  },
+  "es": {
+   "q": "¿Qué mineral es esencial para tener huesos y dientes fuertes?",
+   "c": [
+    "El calcio",
+    "El hierro",
+    "El sodio",
+    "El yodo"
+   ]
+  },
+  "pt": {
+   "q": "Qual mineral é essencial para ossos e dentes fortes?",
+   "c": [
+    "O cálcio",
+    "O ferro",
+    "O sódio",
+    "O iodo"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "À quel groupe d'animaux appartiennent les baleines ?",
+   "c": [
+    "Les poissons",
+    "Les mammifères",
+    "Les reptiles",
+    "Les amphibiens"
+   ]
+  },
+  "en": {
+   "q": "To which animal group do whales belong?",
+   "c": [
+    "Fish",
+    "Mammals",
+    "Reptiles",
+    "Amphibians"
+   ]
+  },
+  "ar": {
+   "q": "إلى أي مجموعة من الحيوانات تنتمي الحيتان؟",
+   "c": [
+    "الأسماك",
+    "الثدييات",
+    "الزواحف",
+    "البرمائيات"
+   ]
+  },
+  "es": {
+   "q": "¿A qué grupo de animales pertenecen las ballenas?",
+   "c": [
+    "Peces",
+    "Mamíferos",
+    "Reptiles",
+    "Anfibios"
+   ]
+  },
+  "pt": {
+   "q": "A que grupo de animais pertencem as baleias?",
+   "c": [
+    "Peixes",
+    "Mamíferos",
+    "Répteis",
+    "Anfíbios"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Qu'est-ce qu'un geyser, comme ceux d'Islande ?",
+   "c": [
+    "Un lac gelé",
+    "Un type de volcan",
+    "Une source chaude qui jaillit",
+    "Une dune de sable"
+   ]
+  },
+  "en": {
+   "q": "What is a geyser, like the ones found in Iceland?",
+   "c": [
+    "A frozen lake",
+    "A type of volcano",
+    "A hot spring that shoots water",
+    "A sand dune"
+   ]
+  },
+  "ar": {
+   "q": "ما الينبوع الحار، كالموجود في آيسلندا؟",
+   "c": [
+    "بحيرة متجمدة",
+    "نوع من البراكين",
+    "ينبوع ساخن يقذف الماء",
+    "كثيب رملي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué es un géiser, como los de Islandia?",
+   "c": [
+    "Un lago helado",
+    "Un tipo de volcán",
+    "Una fuente caliente que lanza agua",
+    "Una duna de arena"
+   ]
+  },
+  "pt": {
+   "q": "O que é um gêiser, como os da Islândia?",
+   "c": [
+    "Um lago congelado",
+    "Um tipo de vulcão",
+    "Uma fonte quente que lança água",
+    "Uma duna de areia"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quel oiseau mange-t-on traditionnellement à Thanksgiving aux États-Unis ?",
+   "c": [
+    "Le canard",
+    "L'oie",
+    "L'autruche",
+    "La dinde"
+   ]
+  },
+  "en": {
+   "q": "Which bird is traditionally eaten at Thanksgiving in the United States?",
+   "c": [
+    "Duck",
+    "Goose",
+    "Ostrich",
+    "Turkey"
+   ]
+  },
+  "ar": {
+   "q": "أي طائر يؤكل تقليديًا في عيد الشكر في الولايات المتحدة؟",
+   "c": [
+    "البطة",
+    "الإوزة",
+    "النعامة",
+    "الديك الرومي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ave se come tradicionalmente en Acción de Gracias en Estados Unidos?",
+   "c": [
+    "El pato",
+    "El ganso",
+    "El avestruz",
+    "El pavo"
+   ]
+  },
+  "pt": {
+   "q": "Qual ave é tradicionalmente comida no Dia de Ação de Graças nos Estados Unidos?",
+   "c": [
+    "O pato",
+    "O ganso",
+    "A avestruz",
+    "O peru"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Dans quelle région du monde le swahili est-il très parlé ?",
+   "c": [
+    "En Afrique de l'Est",
+    "En Amérique du Sud",
+    "En Asie centrale",
+    "En Europe du Nord"
+   ]
+  },
+  "en": {
+   "q": "In which part of the world is Swahili widely spoken?",
+   "c": [
+    "East Africa",
+    "South America",
+    "Central Asia",
+    "Northern Europe"
+   ]
+  },
+  "ar": {
+   "q": "في أي منطقة من العالم تنتشر اللغة السواحلية؟",
+   "c": [
+    "شرق أفريقيا",
+    "أمريكا الجنوبية",
+    "آسيا الوسطى",
+    "شمال أوروبا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué parte del mundo se habla mucho el suajili?",
+   "c": [
+    "África oriental",
+    "Sudamérica",
+    "Asia central",
+    "Europa del Norte"
+   ]
+  },
+  "pt": {
+   "q": "Em que parte do mundo o suaíli é muito falado?",
+   "c": [
+    "África Oriental",
+    "América do Sul",
+    "Ásia Central",
+    "Norte da Europa"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quelle invention les frères Montgolfier ont-ils réalisée en 1783 ?",
+   "c": [
+    "Le parachute",
+    "La montgolfière",
+    "L'hélicoptère",
+    "Le sous-marin"
+   ]
+  },
+  "en": {
+   "q": "Which invention did the Montgolfier brothers make in 1783?",
+   "c": [
+    "Parachute",
+    "Hot-air balloon",
+    "Helicopter",
+    "Submarine"
+   ]
+  },
+  "ar": {
+   "q": "أي اختراع حققه الأخوان مونتغولفييه عام 1783؟",
+   "c": [
+    "المظلة",
+    "منطاد الهواء الساخن",
+    "المروحية",
+    "الغواصة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué invento realizaron los hermanos Montgolfier en 1783?",
+   "c": [
+    "El paracaídas",
+    "El globo aerostático",
+    "El helicóptero",
+    "El submarino"
+   ]
+  },
+  "pt": {
+   "q": "Qual invenção os irmãos Montgolfier realizaram em 1783?",
+   "c": [
+    "O paraquedas",
+    "O balão de ar quente",
+    "O helicóptero",
+    "O submarino"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Qui a inventé le World Wide Web ?",
+   "c": [
+    "Bill Gates",
+    "Steve Jobs",
+    "Tim Berners-Lee",
+    "Alan Turing"
+   ]
+  },
+  "en": {
+   "q": "Who invented the World Wide Web?",
+   "c": [
+    "Bill Gates",
+    "Steve Jobs",
+    "Tim Berners-Lee",
+    "Alan Turing"
+   ]
+  },
+  "ar": {
+   "q": "من اخترع الشبكة العنكبوتية العالمية؟",
+   "c": [
+    "بيل غيتس",
+    "ستيف جوبز",
+    "تيم بيرنرز لي",
+    "آلان تورينغ"
+   ]
+  },
+  "es": {
+   "q": "¿Quién inventó la World Wide Web?",
+   "c": [
+    "Bill Gates",
+    "Steve Jobs",
+    "Tim Berners-Lee",
+    "Alan Turing"
+   ]
+  },
+  "pt": {
+   "q": "Quem inventou a World Wide Web?",
+   "c": [
+    "Bill Gates",
+    "Steve Jobs",
+    "Tim Berners-Lee",
+    "Alan Turing"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelle l'art japonais du pliage du papier ?",
+   "c": [
+    "L'ikebana",
+    "Le bonsaï",
+    "Le haïku",
+    "L'origami"
+   ]
+  },
+  "en": {
+   "q": "What is the Japanese art of folding paper called?",
+   "c": [
+    "Ikebana",
+    "Bonsai",
+    "Haiku",
+    "Origami"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يسمى فن طي الورق الياباني؟",
+   "c": [
+    "الإيكيبانا",
+    "البونساي",
+    "الهايكو",
+    "الأوريغامي"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama el arte japonés de doblar papel?",
+   "c": [
+    "Ikebana",
+    "Bonsái",
+    "Haiku",
+    "Origami"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama a arte japonesa de dobrar papel?",
+   "c": [
+    "Ikebana",
+    "Bonsai",
+    "Haiku",
+    "Origami"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
    "q": "Quel gaz est le plus présent dans l'air ?",
    "c": [
     "L'oxygène",
@@ -6517,7 +9517,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6567,7 +9567,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6617,7 +9617,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6667,7 +9667,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6717,7 +9717,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6767,7 +9767,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6817,7 +9817,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "en": {
@@ -6857,7 +9857,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6907,7 +9907,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6957,7 +9957,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7007,7 +10007,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7057,7 +10057,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7107,7 +10107,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7157,7 +10157,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7207,7 +10207,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7257,7 +10257,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7307,7 +10307,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7357,7 +10357,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7407,7 +10407,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7457,7 +10457,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7507,7 +10507,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7557,7 +10557,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7607,7 +10607,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "en": {
@@ -7647,7 +10647,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "en": {
@@ -7687,7 +10687,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "en": {
@@ -7727,7 +10727,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "en": {
@@ -7767,7 +10767,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7817,7 +10817,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7867,7 +10867,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7917,7 +10917,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7967,7 +10967,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8017,7 +11017,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8067,7 +11067,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8117,7 +11117,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8167,7 +11167,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8217,7 +11217,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8267,7 +11267,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8317,7 +11317,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8367,7 +11367,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8417,7 +11417,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8467,7 +11467,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8517,7 +11517,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8567,7 +11567,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8617,7 +11617,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8667,7 +11667,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8717,7 +11717,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8767,7 +11767,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "en": {
@@ -8807,7 +11807,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "en": {
@@ -8847,7 +11847,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "en": {
@@ -8897,7 +11897,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "en": {
@@ -8947,7 +11947,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "en": {
@@ -8997,6 +11997,6 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  }
 ]

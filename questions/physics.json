@@ -6251,6 +6251,2856 @@
  },
  {
   "fr": {
+   "q": "Quel appareil sert à mesurer une longueur ?",
+   "c": [
+    "Une balance",
+    "Un chronomètre",
+    "Une règle",
+    "Un thermomètre"
+   ]
+  },
+  "en": {
+   "q": "Which tool is used to measure a length?",
+   "c": [
+    "A scale",
+    "A stopwatch",
+    "A ruler",
+    "A thermometer"
+   ]
+  },
+  "ar": {
+   "q": "أي أداة تُستخدم لقياس الطول؟",
+   "c": [
+    "ميزان",
+    "ساعة توقيت",
+    "مسطرة",
+    "ميزان حرارة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué herramienta sirve para medir una longitud?",
+   "c": [
+    "Una balanza",
+    "Un cronómetro",
+    "Una regla",
+    "Un termómetro"
+   ]
+  },
+  "pt": {
+   "q": "Que instrumento serve para medir um comprimento?",
+   "c": [
+    "Uma balança",
+    "Um cronómetro",
+    "Uma régua",
+    "Um termómetro"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel savant italien a observé les lunes de Jupiter avec une lunette ?",
+   "c": [
+    "Galilée",
+    "Newton",
+    "Pasteur",
+    "Darwin"
+   ]
+  },
+  "en": {
+   "q": "Which Italian scholar observed Jupiter's moons with a telescope?",
+   "c": [
+    "Galileo",
+    "Newton",
+    "Pasteur",
+    "Darwin"
+   ]
+  },
+  "ar": {
+   "q": "أي عالم إيطالي رصد أقمار المشتري بالمنظار؟",
+   "c": [
+    "غاليليو",
+    "نيوتن",
+    "باستور",
+    "داروين"
+   ]
+  },
+  "es": {
+   "q": "¿Qué sabio italiano observó las lunas de Júpiter con un telescopio?",
+   "c": [
+    "Galileo",
+    "Newton",
+    "Pasteur",
+    "Darwin"
+   ]
+  },
+  "pt": {
+   "q": "Que sábio italiano observou as luas de Júpiter com um telescópio?",
+   "c": [
+    "Galileu",
+    "Newton",
+    "Pasteur",
+    "Darwin"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel est le symbole chimique de l'oxygène ?",
+   "c": [
+    "Ox",
+    "Om",
+    "Os",
+    "O"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical symbol for oxygen?",
+   "c": [
+    "Ox",
+    "Om",
+    "Os",
+    "O"
+   ]
+  },
+  "ar": {
+   "q": "ما الرمز الكيميائي للأكسجين؟",
+   "c": [
+    "Ox",
+    "Om",
+    "Os",
+    "O"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el símbolo químico del oxígeno?",
+   "c": [
+    "Ox",
+    "Om",
+    "Os",
+    "O"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o símbolo químico do oxigénio?",
+   "c": [
+    "Ox",
+    "Om",
+    "Os",
+    "O"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel gaz les plantes absorbent-elles pour la photosynthèse ?",
+   "c": [
+    "L'hélium",
+    "Le dioxyde de carbone",
+    "Le néon",
+    "Le méthane"
+   ]
+  },
+  "en": {
+   "q": "Which gas do plants absorb for photosynthesis?",
+   "c": [
+    "Helium",
+    "Carbon dioxide",
+    "Neon",
+    "Methane"
+   ]
+  },
+  "ar": {
+   "q": "أي غاز تمتصه النباتات في عملية البناء الضوئي؟",
+   "c": [
+    "الهيليوم",
+    "ثاني أكسيد الكربون",
+    "النيون",
+    "الميثان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué gas absorben las plantas en la fotosíntesis?",
+   "c": [
+    "Helio",
+    "Dióxido de carbono",
+    "Neón",
+    "Metano"
+   ]
+  },
+  "pt": {
+   "q": "Que gás as plantas absorvem na fotossíntese?",
+   "c": [
+    "Hélio",
+    "Dióxido de carbono",
+    "Néon",
+    "Metano"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Que produit-on en frottant très fort ses mains l'une contre l'autre ?",
+   "c": [
+    "Du froid",
+    "De la chaleur",
+    "Un arc-en-ciel",
+    "Un écho"
+   ]
+  },
+  "en": {
+   "q": "What do you produce by rubbing your hands together hard?",
+   "c": [
+    "Cold",
+    "Heat",
+    "A rainbow",
+    "An echo"
+   ]
+  },
+  "ar": {
+   "q": "ماذا ينتج عن فرك اليدين معًا بقوة؟",
+   "c": [
+    "برودة",
+    "حرارة",
+    "قوس قزح",
+    "صدى"
+   ]
+  },
+  "es": {
+   "q": "¿Qué se produce al frotar muy fuerte las manos?",
+   "c": [
+    "Frío",
+    "Calor",
+    "Un arcoíris",
+    "Un eco"
+   ]
+  },
+  "pt": {
+   "q": "O que se produz ao esfregar muito as mãos uma na outra?",
+   "c": [
+    "Frio",
+    "Calor",
+    "Um arco-íris",
+    "Um eco"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays la boussole a-t-elle été inventée ?",
+   "c": [
+    "Au Pérou",
+    "En Australie",
+    "Au Canada",
+    "En Chine"
+   ]
+  },
+  "en": {
+   "q": "In which country was the compass invented?",
+   "c": [
+    "Peru",
+    "Australia",
+    "Canada",
+    "China"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد اختُرعت البوصلة؟",
+   "c": [
+    "بيرو",
+    "أستراليا",
+    "كندا",
+    "الصين"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país se inventó la brújula?",
+   "c": [
+    "Perú",
+    "Australia",
+    "Canadá",
+    "China"
+   ]
+  },
+  "pt": {
+   "q": "Em que país foi inventada a bússola?",
+   "c": [
+    "Peru",
+    "Austrália",
+    "Canadá",
+    "China"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Que obtient-on en faisant passer la lumière blanche dans un prisme ?",
+   "c": [
+    "Un spectre de couleurs",
+    "Du noir",
+    "Un son",
+    "De la chaleur seule"
+   ]
+  },
+  "en": {
+   "q": "What do you get when white light passes through a prism?",
+   "c": [
+    "A spectrum of colors",
+    "Darkness",
+    "A sound",
+    "Heat only"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نحصل عند تمرير الضوء الأبيض عبر منشور زجاجي؟",
+   "c": [
+    "طيف من الألوان",
+    "ظلامًا",
+    "صوتًا",
+    "حرارة فقط"
+   ]
+  },
+  "es": {
+   "q": "¿Qué se obtiene al pasar luz blanca por un prisma?",
+   "c": [
+    "Un espectro de colores",
+    "Oscuridad",
+    "Un sonido",
+    "Solo calor"
+   ]
+  },
+  "pt": {
+   "q": "O que se obtém ao passar luz branca por um prisma?",
+   "c": [
+    "Um espectro de cores",
+    "Escuridão",
+    "Um som",
+    "Só calor"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel appareil transforme la force du vent en électricité ?",
+   "c": [
+    "Un grille-pain",
+    "Une pile",
+    "Une éolienne",
+    "Un thermomètre"
+   ]
+  },
+  "en": {
+   "q": "Which device turns the force of the wind into electricity?",
+   "c": [
+    "A toaster",
+    "A battery",
+    "A wind turbine",
+    "A thermometer"
+   ]
+  },
+  "ar": {
+   "q": "أي جهاز يحوّل قوة الرياح إلى كهرباء؟",
+   "c": [
+    "محمصة خبز",
+    "بطارية",
+    "توربين رياح",
+    "ميزان حرارة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué aparato transforma la fuerza del viento en electricidad?",
+   "c": [
+    "Una tostadora",
+    "Una pila",
+    "Un aerogenerador",
+    "Un termómetro"
+   ]
+  },
+  "pt": {
+   "q": "Que aparelho transforma a força do vento em eletricidade?",
+   "c": [
+    "Uma torradeira",
+    "Uma pilha",
+    "Uma turbina eólica",
+    "Um termómetro"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quelle énergie, très utilisée en Islande, vient de la chaleur du sous-sol ?",
+   "c": [
+    "L'énergie nucléaire",
+    "L'énergie du charbon",
+    "L'énergie marémotrice",
+    "L'énergie géothermique"
+   ]
+  },
+  "en": {
+   "q": "Which energy, widely used in Iceland, comes from the heat underground?",
+   "c": [
+    "Nuclear energy",
+    "Coal energy",
+    "Tidal energy",
+    "Geothermal energy"
+   ]
+  },
+  "ar": {
+   "q": "أي طاقة، تُستخدم كثيرًا في آيسلندا، مصدرها حرارة باطن الأرض؟",
+   "c": [
+    "الطاقة النووية",
+    "طاقة الفحم",
+    "طاقة المد والجزر",
+    "الطاقة الحرارية الأرضية"
+   ]
+  },
+  "es": {
+   "q": "¿Qué energía, muy usada en Islandia, procede del calor del subsuelo?",
+   "c": [
+    "La energía nuclear",
+    "La energía del carbón",
+    "La energía mareomotriz",
+    "La energía geotérmica"
+   ]
+  },
+  "pt": {
+   "q": "Que energia, muito usada na Islândia, vem do calor do subsolo?",
+   "c": [
+    "A energia nuclear",
+    "A energia do carvão",
+    "A energia das marés",
+    "A energia geotérmica"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelle la plus petite particule d'un élément chimique ?",
+   "c": [
+    "La cellule",
+    "L'atome",
+    "La vague",
+    "Le cristal"
+   ]
+  },
+  "en": {
+   "q": "What is the smallest particle of a chemical element called?",
+   "c": [
+    "The cell",
+    "The atom",
+    "The wave",
+    "The crystal"
+   ]
+  },
+  "ar": {
+   "q": "ما اسم أصغر جسيم في العنصر الكيميائي؟",
+   "c": [
+    "الخلية",
+    "الذرة",
+    "الموجة",
+    "البلورة"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama la partícula más pequeña de un elemento químico?",
+   "c": [
+    "La célula",
+    "El átomo",
+    "La onda",
+    "El cristal"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama a menor partícula de um elemento químico?",
+   "c": [
+    "A célula",
+    "O átomo",
+    "A onda",
+    "O cristal"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Dans quel état de la matière est l'air que nous respirons ?",
+   "c": [
+    "Solide",
+    "Liquide",
+    "Gazeux",
+    "Cristallin"
+   ]
+  },
+  "en": {
+   "q": "In which state of matter is the air we breathe?",
+   "c": [
+    "Solid",
+    "Liquid",
+    "Gas",
+    "Crystal"
+   ]
+  },
+  "ar": {
+   "q": "في أي حالة من حالات المادة يكون الهواء الذي نتنفسه؟",
+   "c": [
+    "صلبة",
+    "سائلة",
+    "غازية",
+    "بلورية"
+   ]
+  },
+  "es": {
+   "q": "¿En qué estado de la materia está el aire que respiramos?",
+   "c": [
+    "Sólido",
+    "Líquido",
+    "Gaseoso",
+    "Cristalino"
+   ]
+  },
+  "pt": {
+   "q": "Em que estado da matéria está o ar que respiramos?",
+   "c": [
+    "Sólido",
+    "Líquido",
+    "Gasoso",
+    "Cristalino"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel instrument permet de voir de très petits êtres invisibles à l'œil nu ?",
+   "c": [
+    "Un microscope",
+    "Un télescope",
+    "Un baromètre",
+    "Un sismographe"
+   ]
+  },
+  "en": {
+   "q": "Which instrument lets you see tiny living things invisible to the naked eye?",
+   "c": [
+    "A microscope",
+    "A telescope",
+    "A barometer",
+    "A seismograph"
+   ]
+  },
+  "ar": {
+   "q": "أي أداة تتيح رؤية كائنات صغيرة جدًا لا تُرى بالعين المجردة؟",
+   "c": [
+    "مجهر",
+    "تلسكوب",
+    "مقياس الضغط الجوي",
+    "مقياس الزلازل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué instrumento permite ver seres muy pequeños invisibles a simple vista?",
+   "c": [
+    "Un microscopio",
+    "Un telescopio",
+    "Un barómetro",
+    "Un sismógrafo"
+   ]
+  },
+  "pt": {
+   "q": "Que instrumento permite ver seres muito pequenos, invisíveis a olho nu?",
+   "c": [
+    "Um microscópio",
+    "Um telescópio",
+    "Um barómetro",
+    "Um sismógrafo"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Qui a découvert le radium et le polonium ?",
+   "c": [
+    "Lise Meitner",
+    "Marie Curie",
+    "Rosalind Franklin",
+    "Mae Jemison"
+   ]
+  },
+  "en": {
+   "q": "Who discovered radium and polonium?",
+   "c": [
+    "Lise Meitner",
+    "Marie Curie",
+    "Rosalind Franklin",
+    "Mae Jemison"
+   ]
+  },
+  "ar": {
+   "q": "من اكتشف الراديوم والبولونيوم؟",
+   "c": [
+    "ليزه مايتنر",
+    "ماري كوري",
+    "روزاليند فرانكلين",
+    "ماي جيميسون"
+   ]
+  },
+  "es": {
+   "q": "¿Quién descubrió el radio y el polonio?",
+   "c": [
+    "Lise Meitner",
+    "Marie Curie",
+    "Rosalind Franklin",
+    "Mae Jemison"
+   ]
+  },
+  "pt": {
+   "q": "Quem descobriu o rádio e o polónio?",
+   "c": [
+    "Lise Meitner",
+    "Marie Curie",
+    "Rosalind Franklin",
+    "Mae Jemison"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel savant britannique a découvert l'induction électromagnétique ?",
+   "c": [
+    "Charles Darwin",
+    "Alexander Fleming",
+    "Alan Turing",
+    "Michael Faraday"
+   ]
+  },
+  "en": {
+   "q": "Which British scientist discovered electromagnetic induction?",
+   "c": [
+    "Charles Darwin",
+    "Alexander Fleming",
+    "Alan Turing",
+    "Michael Faraday"
+   ]
+  },
+  "ar": {
+   "q": "أي عالم بريطاني اكتشف الحث الكهرومغناطيسي؟",
+   "c": [
+    "تشارلز داروين",
+    "ألكسندر فلمنغ",
+    "آلان تورينغ",
+    "مايكل فاراداي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué científico británico descubrió la inducción electromagnética?",
+   "c": [
+    "Charles Darwin",
+    "Alexander Fleming",
+    "Alan Turing",
+    "Michael Faraday"
+   ]
+  },
+  "pt": {
+   "q": "Que cientista britânico descobriu a indução eletromagnética?",
+   "c": [
+    "Charles Darwin",
+    "Alexander Fleming",
+    "Alan Turing",
+    "Michael Faraday"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel est le symbole chimique de l'argent ?",
+   "c": [
+    "Ag",
+    "Ar",
+    "Au",
+    "Al"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical symbol for silver?",
+   "c": [
+    "Ag",
+    "Ar",
+    "Au",
+    "Al"
+   ]
+  },
+  "ar": {
+   "q": "ما الرمز الكيميائي للفضة؟",
+   "c": [
+    "Ag",
+    "Ar",
+    "Au",
+    "Al"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el símbolo químico de la plata?",
+   "c": [
+    "Ag",
+    "Ar",
+    "Au",
+    "Al"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o símbolo químico da prata?",
+   "c": [
+    "Ag",
+    "Ar",
+    "Au",
+    "Al"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quelle échelle de température porte le nom d'un astronome suédois ?",
+   "c": [
+    "L'échelle Celsius",
+    "L'échelle Fahrenheit",
+    "L'échelle Kelvin",
+    "L'échelle Réaumur"
+   ]
+  },
+  "en": {
+   "q": "Which temperature scale is named after a Swedish astronomer?",
+   "c": [
+    "Celsius",
+    "Fahrenheit",
+    "Kelvin",
+    "Réaumur"
+   ]
+  },
+  "ar": {
+   "q": "أي مقياس لدرجة الحرارة سُمّي باسم فلكي سويدي؟",
+   "c": [
+    "مقياس سلسيوس",
+    "مقياس فهرنهايت",
+    "مقياس كلفن",
+    "مقياس ريومور"
+   ]
+  },
+  "es": {
+   "q": "¿Qué escala de temperatura lleva el nombre de un astrónomo sueco?",
+   "c": [
+    "La escala Celsius",
+    "La escala Fahrenheit",
+    "La escala Kelvin",
+    "La escala Réaumur"
+   ]
+  },
+  "pt": {
+   "q": "Que escala de temperatura tem o nome de um astrónomo sueco?",
+   "c": [
+    "A escala Celsius",
+    "A escala Fahrenheit",
+    "A escala Kelvin",
+    "A escala Réaumur"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel inventeur d'origine serbe a développé des systèmes à courant alternatif ?",
+   "c": [
+    "Thomas Edison",
+    "Alessandro Volta",
+    "Nikola Tesla",
+    "Guglielmo Marconi"
+   ]
+  },
+  "en": {
+   "q": "Which Serbian-born inventor developed alternating current systems?",
+   "c": [
+    "Thomas Edison",
+    "Alessandro Volta",
+    "Nikola Tesla",
+    "Guglielmo Marconi"
+   ]
+  },
+  "ar": {
+   "q": "أي مخترع من أصل صربي طوّر أنظمة التيار المتناوب؟",
+   "c": [
+    "توماس إديسون",
+    "أليساندرو فولتا",
+    "نيكولا تيسلا",
+    "غوليلمو ماركوني"
+   ]
+  },
+  "es": {
+   "q": "¿Qué inventor de origen serbio desarrolló sistemas de corriente alterna?",
+   "c": [
+    "Thomas Edison",
+    "Alessandro Volta",
+    "Nikola Tesla",
+    "Guglielmo Marconi"
+   ]
+  },
+  "pt": {
+   "q": "Que inventor de origem sérvia desenvolveu sistemas de corrente alternada?",
+   "c": [
+    "Thomas Edison",
+    "Alessandro Volta",
+    "Nikola Tesla",
+    "Guglielmo Marconi"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quelle substance dissoute rend l'eau de mer salée ?",
+   "c": [
+    "Le sucre",
+    "Le sable",
+    "Le plâtre",
+    "Le sel"
+   ]
+  },
+  "en": {
+   "q": "Which dissolved substance makes seawater salty?",
+   "c": [
+    "Sugar",
+    "Sand",
+    "Plaster",
+    "Salt"
+   ]
+  },
+  "ar": {
+   "q": "أي مادة مذابة تجعل ماء البحر مالحًا؟",
+   "c": [
+    "السكر",
+    "الرمل",
+    "الجبس",
+    "الملح"
+   ]
+  },
+  "es": {
+   "q": "¿Qué sustancia disuelta vuelve salada el agua del mar?",
+   "c": [
+    "El azúcar",
+    "La arena",
+    "El yeso",
+    "La sal"
+   ]
+  },
+  "pt": {
+   "q": "Que substância dissolvida torna salgada a água do mar?",
+   "c": [
+    "O açúcar",
+    "A areia",
+    "O gesso",
+    "O sal"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quelle pièce d'un circuit permet de couper le courant quand on l'ouvre ?",
+   "c": [
+    "La pile",
+    "L'interrupteur",
+    "Le fil",
+    "L'ampoule"
+   ]
+  },
+  "en": {
+   "q": "Which part of a circuit cuts the current when it is opened?",
+   "c": [
+    "The battery",
+    "The switch",
+    "The wire",
+    "The bulb"
+   ]
+  },
+  "ar": {
+   "q": "أي جزء في الدارة الكهربائية يقطع التيار عند فتحه؟",
+   "c": [
+    "البطارية",
+    "المفتاح",
+    "السلك",
+    "المصباح"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pieza de un circuito corta la corriente al abrirla?",
+   "c": [
+    "La pila",
+    "El interruptor",
+    "El cable",
+    "La bombilla"
+   ]
+  },
+  "pt": {
+   "q": "Que peça de um circuito corta a corrente quando é aberta?",
+   "c": [
+    "A pilha",
+    "O interruptor",
+    "O fio",
+    "A lâmpada"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quelle énergie un barrage hydroélectrique exploite-t-il ?",
+   "c": [
+    "Le vent",
+    "Le Soleil",
+    "La chute de l'eau",
+    "Le charbon"
+   ]
+  },
+  "en": {
+   "q": "Which energy does a hydroelectric dam use?",
+   "c": [
+    "Wind",
+    "The Sun",
+    "Falling water",
+    "Coal"
+   ]
+  },
+  "ar": {
+   "q": "أي طاقة يستغلها السد الكهرومائي؟",
+   "c": [
+    "الرياح",
+    "الشمس",
+    "سقوط المياه",
+    "الفحم"
+   ]
+  },
+  "es": {
+   "q": "¿Qué energía aprovecha una presa hidroeléctrica?",
+   "c": [
+    "El viento",
+    "El Sol",
+    "La caída del agua",
+    "El carbón"
+   ]
+  },
+  "pt": {
+   "q": "Que energia aproveita uma barragem hidroelétrica?",
+   "c": [
+    "O vento",
+    "O Sol",
+    "A queda da água",
+    "O carvão"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel physicien italien a inventé la première pile électrique ?",
+   "c": [
+    "Alessandro Volta",
+    "Georg Ohm",
+    "James Joule",
+    "Heinrich Hertz"
+   ]
+  },
+  "en": {
+   "q": "Which Italian physicist invented the first electric battery?",
+   "c": [
+    "Alessandro Volta",
+    "Georg Ohm",
+    "James Joule",
+    "Heinrich Hertz"
+   ]
+  },
+  "ar": {
+   "q": "أي فيزيائي إيطالي اخترع أول بطارية كهربائية؟",
+   "c": [
+    "أليساندرو فولتا",
+    "جورج أوم",
+    "جيمس جول",
+    "هاينريش هرتز"
+   ]
+  },
+  "es": {
+   "q": "¿Qué físico italiano inventó la primera pila eléctrica?",
+   "c": [
+    "Alessandro Volta",
+    "Georg Ohm",
+    "James Joule",
+    "Heinrich Hertz"
+   ]
+  },
+  "pt": {
+   "q": "Que físico italiano inventou a primeira pilha elétrica?",
+   "c": [
+    "Alessandro Volta",
+    "Georg Ohm",
+    "James Joule",
+    "Heinrich Hertz"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel physicien allemand a découvert les rayons X en 1895 ?",
+   "c": [
+    "Max Planck",
+    "Wilhelm Röntgen",
+    "Niels Bohr",
+    "Ernest Rutherford"
+   ]
+  },
+  "en": {
+   "q": "Which German physicist discovered X-rays in 1895?",
+   "c": [
+    "Max Planck",
+    "Wilhelm Röntgen",
+    "Niels Bohr",
+    "Ernest Rutherford"
+   ]
+  },
+  "ar": {
+   "q": "أي فيزيائي ألماني اكتشف الأشعة السينية عام 1895؟",
+   "c": [
+    "ماكس بلانك",
+    "فيلهلم رونتغن",
+    "نيلز بور",
+    "إرنست رذرفورد"
+   ]
+  },
+  "es": {
+   "q": "¿Qué físico alemán descubrió los rayos X en 1895?",
+   "c": [
+    "Max Planck",
+    "Wilhelm Röntgen",
+    "Niels Bohr",
+    "Ernest Rutherford"
+   ]
+  },
+  "pt": {
+   "q": "Que físico alemão descobriu os raios X em 1895?",
+   "c": [
+    "Max Planck",
+    "Wilhelm Röntgen",
+    "Niels Bohr",
+    "Ernest Rutherford"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel appareil mesure la tension électrique ?",
+   "c": [
+    "Un ampèremètre",
+    "Un baromètre",
+    "Un thermomètre",
+    "Un voltmètre"
+   ]
+  },
+  "en": {
+   "q": "Which device measures electrical voltage?",
+   "c": [
+    "An ammeter",
+    "A barometer",
+    "A thermometer",
+    "A voltmeter"
+   ]
+  },
+  "ar": {
+   "q": "أي جهاز يقيس الجهد الكهربائي؟",
+   "c": [
+    "أميتر",
+    "مقياس الضغط الجوي",
+    "ميزان حرارة",
+    "فولتميتر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué aparato mide la tensión eléctrica?",
+   "c": [
+    "Un amperímetro",
+    "Un barómetro",
+    "Un termómetro",
+    "Un voltímetro"
+   ]
+  },
+  "pt": {
+   "q": "Que aparelho mede a tensão elétrica?",
+   "c": [
+    "Um amperímetro",
+    "Um barómetro",
+    "Um termómetro",
+    "Um voltímetro"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel est le symbole chimique du calcium ?",
+   "c": [
+    "Cl",
+    "Ca",
+    "Co",
+    "Cs"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical symbol for calcium?",
+   "c": [
+    "Cl",
+    "Ca",
+    "Co",
+    "Cs"
+   ]
+  },
+  "ar": {
+   "q": "ما الرمز الكيميائي للكالسيوم؟",
+   "c": [
+    "Cl",
+    "Ca",
+    "Co",
+    "Cs"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el símbolo químico del calcio?",
+   "c": [
+    "Cl",
+    "Ca",
+    "Co",
+    "Cs"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o símbolo químico do cálcio?",
+   "c": [
+    "Cl",
+    "Ca",
+    "Co",
+    "Cs"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Que se passe-t-il quand on frotte un ballon gonflé sur des cheveux secs ?",
+   "c": [
+    "Il devient un aimant",
+    "Il fond",
+    "Il se charge d'électricité statique",
+    "Il se transforme en liquide"
+   ]
+  },
+  "en": {
+   "q": "What happens when you rub an inflated balloon on dry hair?",
+   "c": [
+    "It becomes a magnet",
+    "It melts",
+    "It gets charged with static electricity",
+    "It turns into a liquid"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يحدث عند فرك بالون منفوخ بشعر جاف؟",
+   "c": [
+    "يصبح مغناطيسًا",
+    "ينصهر",
+    "يشحن بالكهرباء الساكنة",
+    "يتحول إلى سائل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ocurre al frotar un globo inflado con pelo seco?",
+   "c": [
+    "Se vuelve un imán",
+    "Se derrite",
+    "Se carga de electricidad estática",
+    "Se convierte en líquido"
+   ]
+  },
+  "pt": {
+   "q": "O que acontece ao esfregar um balão cheio em cabelo seco?",
+   "c": [
+    "Torna-se um íman",
+    "Derrete",
+    "Fica carregado de eletricidade estática",
+    "Transforma-se em líquido"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quelle échelle de température est courante dans la vie quotidienne aux États-Unis ?",
+   "c": [
+    "Fahrenheit",
+    "Celsius",
+    "Kelvin",
+    "Réaumur"
+   ]
+  },
+  "en": {
+   "q": "Which temperature scale is common in everyday life in the United States?",
+   "c": [
+    "Fahrenheit",
+    "Celsius",
+    "Kelvin",
+    "Réaumur"
+   ]
+  },
+  "ar": {
+   "q": "أي مقياس لدرجة الحرارة شائع في الحياة اليومية في الولايات المتحدة؟",
+   "c": [
+    "فهرنهايت",
+    "سلسيوس",
+    "كلفن",
+    "ريومور"
+   ]
+  },
+  "es": {
+   "q": "¿Qué escala de temperatura es común en la vida diaria en Estados Unidos?",
+   "c": [
+    "Fahrenheit",
+    "Celsius",
+    "Kelvin",
+    "Réaumur"
+   ]
+  },
+  "pt": {
+   "q": "Que escala de temperatura é comum no dia a dia nos Estados Unidos?",
+   "c": [
+    "Fahrenheit",
+    "Celsius",
+    "Kelvin",
+    "Réaumur"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel est le gaz le plus léger de tous ?",
+   "c": [
+    "L'hydrogène",
+    "L'hélium",
+    "L'oxygène",
+    "L'azote"
+   ]
+  },
+  "en": {
+   "q": "Which is the lightest gas of all?",
+   "c": [
+    "Hydrogen",
+    "Helium",
+    "Oxygen",
+    "Nitrogen"
+   ]
+  },
+  "ar": {
+   "q": "ما هو أخف الغازات على الإطلاق؟",
+   "c": [
+    "الهيدروجين",
+    "الهيليوم",
+    "الأكسجين",
+    "النيتروجين"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el gas más ligero de todos?",
+   "c": [
+    "El hidrógeno",
+    "El helio",
+    "El oxígeno",
+    "El nitrógeno"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o gás mais leve de todos?",
+   "c": [
+    "O hidrogénio",
+    "O hélio",
+    "O oxigénio",
+    "O azoto"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quelle énergie possède une pierre immobile en haut d'une falaise ?",
+   "c": [
+    "Cinétique",
+    "Nucléaire",
+    "Potentielle",
+    "Sonore"
+   ]
+  },
+  "en": {
+   "q": "Which energy does a motionless stone at the top of a cliff have?",
+   "c": [
+    "Kinetic",
+    "Nuclear",
+    "Potential",
+    "Sound"
+   ]
+  },
+  "ar": {
+   "q": "أي طاقة يمتلكها حجر ساكن في أعلى جرف؟",
+   "c": [
+    "حركية",
+    "نووية",
+    "كامنة",
+    "صوتية"
+   ]
+  },
+  "es": {
+   "q": "¿Qué energía tiene una piedra inmóvil en lo alto de un acantilado?",
+   "c": [
+    "Cinética",
+    "Nuclear",
+    "Potencial",
+    "Sonora"
+   ]
+  },
+  "pt": {
+   "q": "Que energia tem uma pedra parada no topo de uma falésia?",
+   "c": [
+    "Cinética",
+    "Nuclear",
+    "Potencial",
+    "Sonora"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Le Shinkansen, train à grande vitesse inauguré en 1964, vient de quel pays ?",
+   "c": [
+    "L'Allemagne",
+    "Le Japon",
+    "L'Inde",
+    "Le Brésil"
+   ]
+  },
+  "en": {
+   "q": "The Shinkansen, a high-speed train opened in 1964, comes from which country?",
+   "c": [
+    "Germany",
+    "Japan",
+    "India",
+    "Brazil"
+   ]
+  },
+  "ar": {
+   "q": "القطار فائق السرعة شينكانسن، الذي افتُتح عام 1964، من أي بلد؟",
+   "c": [
+    "ألمانيا",
+    "اليابان",
+    "الهند",
+    "البرازيل"
+   ]
+  },
+  "es": {
+   "q": "El Shinkansen, tren de alta velocidad inaugurado en 1964, es de qué país?",
+   "c": [
+    "Alemania",
+    "Japón",
+    "India",
+    "Brasil"
+   ]
+  },
+  "pt": {
+   "q": "O Shinkansen, comboio de alta velocidade inaugurado em 1964, é de que país?",
+   "c": [
+    "Alemanha",
+    "Japão",
+    "Índia",
+    "Brasil"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Que devient le volume de l'eau quand elle gèle ?",
+   "c": [
+    "Il diminue",
+    "Il reste identique",
+    "Il disparaît",
+    "Il augmente"
+   ]
+  },
+  "en": {
+   "q": "What happens to the volume of water when it freezes?",
+   "c": [
+    "It decreases",
+    "It stays the same",
+    "It disappears",
+    "It increases"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يحدث لحجم الماء عندما يتجمد؟",
+   "c": [
+    "يقل",
+    "يبقى نفسه",
+    "يختفي",
+    "يزداد"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pasa con el volumen del agua cuando se congela?",
+   "c": [
+    "Disminuye",
+    "Se mantiene igual",
+    "Desaparece",
+    "Aumenta"
+   ]
+  },
+  "pt": {
+   "q": "O que acontece ao volume da água quando congela?",
+   "c": [
+    "Diminui",
+    "Fica igual",
+    "Desaparece",
+    "Aumenta"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on un matériau qui laisse passer la lumière sans la diffuser ?",
+   "c": [
+    "Opaque",
+    "Réfléchissant",
+    "Transparent",
+    "Magnétique"
+   ]
+  },
+  "en": {
+   "q": "What do we call a material that lets light through without scattering it?",
+   "c": [
+    "Opaque",
+    "Reflective",
+    "Transparent",
+    "Magnetic"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي مادة تسمح بمرور الضوء دون تشتيته؟",
+   "c": [
+    "معتم",
+    "عاكس",
+    "شفاف",
+    "مغناطيسي"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama un material que deja pasar la luz sin difundirla?",
+   "c": [
+    "Opaco",
+    "Reflectante",
+    "Transparente",
+    "Magnético"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama um material que deixa passar a luz sem a difundir?",
+   "c": [
+    "Opaco",
+    "Refletor",
+    "Transparente",
+    "Magnético"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quelle couleur se trouve au bord extérieur d'un arc-en-ciel principal ?",
+   "c": [
+    "Le rouge",
+    "Le violet",
+    "Le vert",
+    "Le jaune"
+   ]
+  },
+  "en": {
+   "q": "Which color is on the outer edge of a primary rainbow?",
+   "c": [
+    "Red",
+    "Violet",
+    "Green",
+    "Yellow"
+   ]
+  },
+  "ar": {
+   "q": "ما اللون الموجود على الحافة الخارجية لقوس قزح الرئيسي؟",
+   "c": [
+    "الأحمر",
+    "البنفسجي",
+    "الأخضر",
+    "الأصفر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué color está en el borde exterior de un arcoíris principal?",
+   "c": [
+    "El rojo",
+    "El violeta",
+    "El verde",
+    "El amarillo"
+   ]
+  },
+  "pt": {
+   "q": "Que cor está na borda exterior de um arco-íris principal?",
+   "c": [
+    "O vermelho",
+    "O violeta",
+    "O verde",
+    "O amarelo"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quelle force un parachute utilise-t-il pour ralentir la chute ?",
+   "c": [
+    "Le magnétisme",
+    "La résistance de l'air",
+    "L'électricité",
+    "La poussée du Soleil"
+   ]
+  },
+  "en": {
+   "q": "Which force does a parachute use to slow a fall?",
+   "c": [
+    "Magnetism",
+    "Air resistance",
+    "Electricity",
+    "Pressure from the Sun"
+   ]
+  },
+  "ar": {
+   "q": "أي قوة تستخدمها المظلة لإبطاء السقوط؟",
+   "c": [
+    "المغناطيسية",
+    "مقاومة الهواء",
+    "الكهرباء",
+    "ضغط الشمس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué fuerza usa un paracaídas para frenar la caída?",
+   "c": [
+    "El magnetismo",
+    "La resistencia del aire",
+    "La electricidad",
+    "La presión del Sol"
+   ]
+  },
+  "pt": {
+   "q": "Que força usa um paraquedas para travar a queda?",
+   "c": [
+    "O magnetismo",
+    "A resistência do ar",
+    "A eletricidade",
+    "A pressão do Sol"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel savant arabe du XIe siècle est surnommé le père de l'optique moderne ?",
+   "c": [
+    "Ibn al-Haytham",
+    "Al-Khwarizmi",
+    "Ibn Battuta",
+    "Averroès"
+   ]
+  },
+  "en": {
+   "q": "Which 11th-century Arab scholar is called the father of modern optics?",
+   "c": [
+    "Ibn al-Haytham",
+    "Al-Khwarizmi",
+    "Ibn Battuta",
+    "Averroes"
+   ]
+  },
+  "ar": {
+   "q": "أي عالم عربي من القرن الحادي عشر يلقّب بأبي البصريات الحديثة؟",
+   "c": [
+    "ابن الهيثم",
+    "الخوارزمي",
+    "ابن بطوطة",
+    "ابن رشد"
+   ]
+  },
+  "es": {
+   "q": "¿Qué sabio árabe del siglo XI es llamado el padre de la óptica moderna?",
+   "c": [
+    "Ibn al-Haytham",
+    "Al-Juarismi",
+    "Ibn Battuta",
+    "Averroes"
+   ]
+  },
+  "pt": {
+   "q": "Que sábio árabe do século XI é chamado o pai da ótica moderna?",
+   "c": [
+    "Ibn al-Haytham",
+    "Al-Khwarizmi",
+    "Ibn Battuta",
+    "Averróis"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel instrument enregistre les secousses d'un séisme ?",
+   "c": [
+    "Un anémomètre",
+    "Un baromètre",
+    "Un sismographe",
+    "Un hygromètre"
+   ]
+  },
+  "en": {
+   "q": "Which instrument records the shaking of an earthquake?",
+   "c": [
+    "An anemometer",
+    "A barometer",
+    "A seismograph",
+    "A hygrometer"
+   ]
+  },
+  "ar": {
+   "q": "أي جهاز يسجّل اهتزازات الزلزال؟",
+   "c": [
+    "مقياس سرعة الرياح",
+    "مقياس الضغط الجوي",
+    "مقياس الزلازل",
+    "مقياس الرطوبة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué instrumento registra las sacudidas de un terremoto?",
+   "c": [
+    "Un anemómetro",
+    "Un barómetro",
+    "Un sismógrafo",
+    "Un higrómetro"
+   ]
+  },
+  "pt": {
+   "q": "Que instrumento regista os abalos de um sismo?",
+   "c": [
+    "Um anemómetro",
+    "Um barómetro",
+    "Um sismógrafo",
+    "Um higrómetro"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel est le symbole chimique du plomb ?",
+   "c": [
+    "Pl",
+    "Pb",
+    "Pd",
+    "P"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical symbol for lead?",
+   "c": [
+    "Pl",
+    "Pb",
+    "Pd",
+    "P"
+   ]
+  },
+  "ar": {
+   "q": "ما الرمز الكيميائي للرصاص؟",
+   "c": [
+    "Pl",
+    "Pb",
+    "Pd",
+    "P"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el símbolo químico del plomo?",
+   "c": [
+    "Pl",
+    "Pb",
+    "Pd",
+    "P"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o símbolo químico do chumbo?",
+   "c": [
+    "Pl",
+    "Pb",
+    "Pd",
+    "P"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "En 1820, quel physicien a montré qu'un courant crée un champ magnétique ?",
+   "c": [
+    "Georg Ohm",
+    "James Joule",
+    "Heinrich Hertz",
+    "Hans Ørsted"
+   ]
+  },
+  "en": {
+   "q": "In 1820, which physicist showed that a current creates a magnetic field?",
+   "c": [
+    "Georg Ohm",
+    "James Joule",
+    "Heinrich Hertz",
+    "Hans Ørsted"
+   ]
+  },
+  "ar": {
+   "q": "في عام 1820، أي فيزيائي بيّن أن التيار الكهربائي يولّد مجالًا مغناطيسيًا؟",
+   "c": [
+    "جورج أوم",
+    "جيمس جول",
+    "هاينريش هرتز",
+    "هانس أورستد"
+   ]
+  },
+  "es": {
+   "q": "En 1820, ¿qué físico demostró que una corriente crea un campo magnético?",
+   "c": [
+    "Georg Ohm",
+    "James Joule",
+    "Heinrich Hertz",
+    "Hans Ørsted"
+   ]
+  },
+  "pt": {
+   "q": "Em 1820, que físico mostrou que uma corrente cria um campo magnético?",
+   "c": [
+    "Georg Ohm",
+    "James Joule",
+    "Heinrich Hertz",
+    "Hans Ørsted"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "À quoi sert un fusible dans un circuit électrique ?",
+   "c": [
+    "À augmenter la tension",
+    "À stocker de l'énergie",
+    "À produire de la lumière",
+    "À couper un courant trop fort"
+   ]
+  },
+  "en": {
+   "q": "What is a fuse used for in an electric circuit?",
+   "c": [
+    "To increase the voltage",
+    "To store energy",
+    "To produce light",
+    "To cut off too strong a current"
+   ]
+  },
+  "ar": {
+   "q": "ما فائدة المنصهر في الدارة الكهربائية؟",
+   "c": [
+    "رفع الجهد",
+    "تخزين الطاقة",
+    "إنتاج الضوء",
+    "قطع التيار الشديد"
+   ]
+  },
+  "es": {
+   "q": "¿Para qué sirve un fusible en un circuito eléctrico?",
+   "c": [
+    "Para aumentar la tensión",
+    "Para almacenar energía",
+    "Para producir luz",
+    "Para cortar una corriente excesiva"
+   ]
+  },
+  "pt": {
+   "q": "Para que serve um fusível num circuito elétrico?",
+   "c": [
+    "Para aumentar a tensão",
+    "Para armazenar energia",
+    "Para produzir luz",
+    "Para cortar uma corrente excessiva"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel pionnier brésilien de l'aviation a volé avec le 14-bis à Paris en 1906 ?",
+   "c": [
+    "Orville Wright",
+    "Alberto Santos-Dumont",
+    "Otto Lilienthal",
+    "Louis Blériot"
+   ]
+  },
+  "en": {
+   "q": "Which Brazilian aviation pioneer flew the 14-bis in Paris in 1906?",
+   "c": [
+    "Orville Wright",
+    "Alberto Santos-Dumont",
+    "Otto Lilienthal",
+    "Louis Blériot"
+   ]
+  },
+  "ar": {
+   "q": "أي رائد طيران برازيلي حلّق بالطائرة 14-بيس في باريس عام 1906؟",
+   "c": [
+    "أورفيل رايت",
+    "ألبرتو سانتوس دومون",
+    "أوتو ليلينتال",
+    "لويس بليريو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pionero brasileño de la aviación voló el 14-bis en París en 1906?",
+   "c": [
+    "Orville Wright",
+    "Alberto Santos-Dumont",
+    "Otto Lilienthal",
+    "Louis Blériot"
+   ]
+  },
+  "pt": {
+   "q": "Que pioneiro brasileiro da aviação voou o 14-bis em Paris em 1906?",
+   "c": [
+    "Orville Wright",
+    "Alberto Santos-Dumont",
+    "Otto Lilienthal",
+    "Louis Blériot"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quelle est la formule chimique du dioxyde de carbone ?",
+   "c": [
+    "CO",
+    "CH4",
+    "CO2",
+    "O3"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical formula of carbon dioxide?",
+   "c": [
+    "CO",
+    "CH4",
+    "CO2",
+    "O3"
+   ]
+  },
+  "ar": {
+   "q": "ما الصيغة الكيميائية لثاني أكسيد الكربون؟",
+   "c": [
+    "CO",
+    "CH4",
+    "CO2",
+    "O3"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la fórmula química del dióxido de carbono?",
+   "c": [
+    "CO",
+    "CH4",
+    "CO2",
+    "O3"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a fórmula química do dióxido de carbono?",
+   "c": [
+    "CO",
+    "CH4",
+    "CO2",
+    "O3"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel inventeur d'origine écossaise a fait breveter le téléphone en 1876 ?",
+   "c": [
+    "Alexander Graham Bell",
+    "Thomas Edison",
+    "Nikola Tesla",
+    "Samuel Morse"
+   ]
+  },
+  "en": {
+   "q": "Which Scottish-born inventor patented the telephone in 1876?",
+   "c": [
+    "Alexander Graham Bell",
+    "Thomas Edison",
+    "Nikola Tesla",
+    "Samuel Morse"
+   ]
+  },
+  "ar": {
+   "q": "أي مخترع من أصل اسكتلندي سجّل براءة اختراع الهاتف عام 1876؟",
+   "c": [
+    "ألكسندر غراهام بيل",
+    "توماس إديسون",
+    "نيكولا تيسلا",
+    "صامويل مورس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué inventor de origen escocés patentó el teléfono en 1876?",
+   "c": [
+    "Alexander Graham Bell",
+    "Thomas Edison",
+    "Nikola Tesla",
+    "Samuel Morse"
+   ]
+  },
+  "pt": {
+   "q": "Que inventor de origem escocesa patenteou o telefone em 1876?",
+   "c": [
+    "Alexander Graham Bell",
+    "Thomas Edison",
+    "Nikola Tesla",
+    "Samuel Morse"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on un matériau qui conduit mal l'électricité ?",
+   "c": [
+    "Un conducteur",
+    "Un isolant",
+    "Un aimant",
+    "Un catalyseur"
+   ]
+  },
+  "en": {
+   "q": "What do we call a material that conducts electricity poorly?",
+   "c": [
+    "A conductor",
+    "An insulator",
+    "A magnet",
+    "A catalyst"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي مادة توصّل الكهرباء بشكل ضعيف؟",
+   "c": [
+    "موصل",
+    "عازل",
+    "مغناطيس",
+    "حفّاز"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama un material que conduce mal la electricidad?",
+   "c": [
+    "Un conductor",
+    "Un aislante",
+    "Un imán",
+    "Un catalizador"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama um material que conduz mal a eletricidade?",
+   "c": [
+    "Um condutor",
+    "Um isolante",
+    "Um íman",
+    "Um catalisador"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel est le principal composant du gaz naturel ?",
+   "c": [
+    "Le butane",
+    "L'hélium",
+    "Le méthane",
+    "L'azote"
+   ]
+  },
+  "en": {
+   "q": "What is the main component of natural gas?",
+   "c": [
+    "Butane",
+    "Helium",
+    "Methane",
+    "Nitrogen"
+   ]
+  },
+  "ar": {
+   "q": "ما المكوّن الرئيسي للغاز الطبيعي؟",
+   "c": [
+    "البوتان",
+    "الهيليوم",
+    "الميثان",
+    "النيتروجين"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el componente principal del gas natural?",
+   "c": [
+    "El butano",
+    "El helio",
+    "El metano",
+    "El nitrógeno"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o principal componente do gás natural?",
+   "c": [
+    "O butano",
+    "O hélio",
+    "O metano",
+    "O azoto"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel astronome polonais a affirmé que la Terre tourne autour du Soleil ?",
+   "c": [
+    "Nicolas Copernic",
+    "Ptolémée",
+    "Johannes Kepler",
+    "Tycho Brahe"
+   ]
+  },
+  "en": {
+   "q": "Which Polish astronomer stated that the Earth orbits the Sun?",
+   "c": [
+    "Nicolaus Copernicus",
+    "Ptolemy",
+    "Johannes Kepler",
+    "Tycho Brahe"
+   ]
+  },
+  "ar": {
+   "q": "أي فلكي بولندي أكد أن الأرض تدور حول الشمس؟",
+   "c": [
+    "نيكولاس كوبرنيكوس",
+    "بطليموس",
+    "يوهانس كبلر",
+    "تيخو براهي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué astrónomo polaco afirmó que la Tierra gira alrededor del Sol?",
+   "c": [
+    "Nicolás Copérnico",
+    "Ptolomeo",
+    "Johannes Kepler",
+    "Tycho Brahe"
+   ]
+  },
+  "pt": {
+   "q": "Que astrónomo polaco afirmou que a Terra gira em torno do Sol?",
+   "c": [
+    "Nicolau Copérnico",
+    "Ptolomeu",
+    "Johannes Kepler",
+    "Tycho Brahe"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel appareil augmente ou diminue la tension d'un courant alternatif ?",
+   "c": [
+    "Un thermomètre",
+    "Un fusible",
+    "Une pile",
+    "Un transformateur"
+   ]
+  },
+  "en": {
+   "q": "Which device raises or lowers the voltage of an alternating current?",
+   "c": [
+    "A thermometer",
+    "A fuse",
+    "A battery",
+    "A transformer"
+   ]
+  },
+  "ar": {
+   "q": "أي جهاز يرفع أو يخفض جهد التيار المتناوب؟",
+   "c": [
+    "ميزان حرارة",
+    "منصهر",
+    "بطارية",
+    "محوّل كهربائي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué aparato aumenta o reduce la tensión de una corriente alterna?",
+   "c": [
+    "Un termómetro",
+    "Un fusible",
+    "Una pila",
+    "Un transformador"
+   ]
+  },
+  "pt": {
+   "q": "Que aparelho aumenta ou diminui a tensão de uma corrente alternada?",
+   "c": [
+    "Um termómetro",
+    "Um fusível",
+    "Uma pilha",
+    "Um transformador"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quelle est l'unité de la tension électrique ?",
+   "c": [
+    "L'ampère",
+    "Le watt",
+    "Le volt",
+    "Le joule"
+   ]
+  },
+  "en": {
+   "q": "What is the unit of electrical voltage?",
+   "c": [
+    "The ampere",
+    "The watt",
+    "The volt",
+    "The joule"
+   ]
+  },
+  "ar": {
+   "q": "ما وحدة قياس الجهد الكهربائي؟",
+   "c": [
+    "الأمبير",
+    "الواط",
+    "الفولت",
+    "الجول"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la unidad de la tensión eléctrica?",
+   "c": [
+    "El amperio",
+    "El vatio",
+    "El voltio",
+    "El julio"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a unidade da tensão elétrica?",
+   "c": [
+    "O ampere",
+    "O watt",
+    "O volt",
+    "O joule"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quel est le symbole chimique de l'azote ?",
+   "c": [
+    "N",
+    "Na",
+    "Ne",
+    "Ni"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical symbol for nitrogen?",
+   "c": [
+    "N",
+    "Na",
+    "Ne",
+    "Ni"
+   ]
+  },
+  "ar": {
+   "q": "ما الرمز الكيميائي للنيتروجين؟",
+   "c": [
+    "N",
+    "Na",
+    "Ne",
+    "Ni"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el símbolo químico del nitrógeno?",
+   "c": [
+    "N",
+    "Na",
+    "Ne",
+    "Ni"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o símbolo químico do azoto?",
+   "c": [
+    "N",
+    "Na",
+    "Ne",
+    "Ni"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on une substance qui accélère une réaction sans être consommée ?",
+   "c": [
+    "Un isolant",
+    "Un catalyseur",
+    "Un solvant",
+    "Un acide"
+   ]
+  },
+  "en": {
+   "q": "What do we call a substance that speeds up a reaction without being used up?",
+   "c": [
+    "An insulator",
+    "A catalyst",
+    "A solvent",
+    "An acid"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي مادة تسرّع تفاعلًا كيميائيًا دون أن تُستهلك؟",
+   "c": [
+    "عازل",
+    "حفّاز",
+    "مذيب",
+    "حمض"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama una sustancia que acelera una reacción sin consumirse?",
+   "c": [
+    "Un aislante",
+    "Un catalizador",
+    "Un disolvente",
+    "Un ácido"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama uma substância que acelera uma reação sem se consumir?",
+   "c": [
+    "Um isolante",
+    "Um catalisador",
+    "Um solvente",
+    "Um ácido"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quelle est la formule chimique du sel de cuisine ?",
+   "c": [
+    "KCl",
+    "NaOH",
+    "HCl",
+    "NaCl"
+   ]
+  },
+  "en": {
+   "q": "What is the chemical formula of table salt?",
+   "c": [
+    "KCl",
+    "NaOH",
+    "HCl",
+    "NaCl"
+   ]
+  },
+  "ar": {
+   "q": "ما الصيغة الكيميائية لملح الطعام؟",
+   "c": [
+    "KCl",
+    "NaOH",
+    "HCl",
+    "NaCl"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la fórmula química de la sal de mesa?",
+   "c": [
+    "KCl",
+    "NaOH",
+    "HCl",
+    "NaCl"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a fórmula química do sal de cozinha?",
+   "c": [
+    "KCl",
+    "NaOH",
+    "HCl",
+    "NaCl"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quelle particule du noyau de l'atome porte une charge positive ?",
+   "c": [
+    "L'électron",
+    "Le proton",
+    "Le neutron",
+    "Le photon"
+   ]
+  },
+  "en": {
+   "q": "Which particle in the atom's nucleus carries a positive charge?",
+   "c": [
+    "The electron",
+    "The proton",
+    "The neutron",
+    "The photon"
+   ]
+  },
+  "ar": {
+   "q": "أي جسيم في نواة الذرة يحمل شحنة موجبة؟",
+   "c": [
+    "الإلكترون",
+    "البروتون",
+    "النيوترون",
+    "الفوتون"
+   ]
+  },
+  "es": {
+   "q": "¿Qué partícula del núcleo del átomo tiene carga positiva?",
+   "c": [
+    "El electrón",
+    "El protón",
+    "El neutrón",
+    "El fotón"
+   ]
+  },
+  "pt": {
+   "q": "Que partícula do núcleo do átomo tem carga positiva?",
+   "c": [
+    "O eletrão",
+    "O protão",
+    "O neutrão",
+    "O fotão"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quelle est l'unité de masse dans le Système international ?",
+   "c": [
+    "Le gramme",
+    "La livre",
+    "La tonne",
+    "Le kilogramme"
+   ]
+  },
+  "en": {
+   "q": "What is the unit of mass in the International System?",
+   "c": [
+    "The gram",
+    "The pound",
+    "The ton",
+    "The kilogram"
+   ]
+  },
+  "ar": {
+   "q": "ما وحدة الكتلة في النظام الدولي للوحدات؟",
+   "c": [
+    "الغرام",
+    "الرطل",
+    "الطن",
+    "الكيلوغرام"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la unidad de masa en el Sistema Internacional?",
+   "c": [
+    "El gramo",
+    "La libra",
+    "La tonelada",
+    "El kilogramo"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a unidade de massa no Sistema Internacional?",
+   "c": [
+    "O grama",
+    "A libra",
+    "A tonelada",
+    "O quilograma"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quel combustible fossile solide est extrait des mines ?",
+   "c": [
+    "Le charbon",
+    "Le gaz naturel",
+    "Le pétrole",
+    "L'hydrogène"
+   ]
+  },
+  "en": {
+   "q": "Which solid fossil fuel is dug out of mines?",
+   "c": [
+    "Coal",
+    "Natural gas",
+    "Oil",
+    "Hydrogen"
+   ]
+  },
+  "ar": {
+   "q": "أي وقود أحفوري صلب يُستخرج من المناجم؟",
+   "c": [
+    "الفحم",
+    "الغاز الطبيعي",
+    "النفط",
+    "الهيدروجين"
+   ]
+  },
+  "es": {
+   "q": "¿Qué combustible fósil sólido se extrae de las minas?",
+   "c": [
+    "El carbón",
+    "El gas natural",
+    "El petróleo",
+    "El hidrógeno"
+   ]
+  },
+  "pt": {
+   "q": "Que combustível fóssil sólido é extraído das minas?",
+   "c": [
+    "O carvão",
+    "O gás natural",
+    "O petróleo",
+    "O hidrogénio"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelle le rebond d'un rayon de lumière sur un miroir ?",
+   "c": [
+    "La réfraction",
+    "La diffraction",
+    "La réflexion",
+    "La dispersion"
+   ]
+  },
+  "en": {
+   "q": "What is it called when a light ray bounces off a mirror?",
+   "c": [
+    "Refraction",
+    "Diffraction",
+    "Reflection",
+    "Dispersion"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يُسمّى ارتداد شعاع الضوء عن المرآة؟",
+   "c": [
+    "الانكسار",
+    "الحيود",
+    "الانعكاس",
+    "التشتت"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama el rebote de un rayo de luz en un espejo?",
+   "c": [
+    "Refracción",
+    "Difracción",
+    "Reflexión",
+    "Dispersión"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama o ressalto de um raio de luz num espelho?",
+   "c": [
+    "Refração",
+    "Difração",
+    "Reflexão",
+    "Dispersão"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quel matériau tiré du sable sert à fabriquer les panneaux solaires et les puces ?",
+   "c": [
+    "Le silicium",
+    "Le carbone",
+    "Le fer",
+    "Le cuivre"
+   ]
+  },
+  "en": {
+   "q": "Which material, made from sand, is used for solar panels and chips?",
+   "c": [
+    "Silicon",
+    "Carbon",
+    "Iron",
+    "Copper"
+   ]
+  },
+  "ar": {
+   "q": "أي مادة مستخرجة من الرمل تُستخدم في الألواح الشمسية والرقائق؟",
+   "c": [
+    "السيليكون",
+    "الكربون",
+    "الحديد",
+    "النحاس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué material obtenido de la arena se usa en paneles solares y chips?",
+   "c": [
+    "El silicio",
+    "El carbono",
+    "El hierro",
+    "El cobre"
+   ]
+  },
+  "pt": {
+   "q": "Que material obtido da areia se usa em painéis solares e chips?",
+   "c": [
+    "O silício",
+    "O carbono",
+    "O ferro",
+    "O cobre"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quel chimiste suédois a inventé la dynamite ?",
+   "c": [
+    "Anders Celsius",
+    "Jöns Berzelius",
+    "Anders Ångström",
+    "Alfred Nobel"
+   ]
+  },
+  "en": {
+   "q": "Which Swedish chemist invented dynamite?",
+   "c": [
+    "Anders Celsius",
+    "Jöns Berzelius",
+    "Anders Ångström",
+    "Alfred Nobel"
+   ]
+  },
+  "ar": {
+   "q": "أي كيميائي سويدي اخترع الديناميت؟",
+   "c": [
+    "أندرس سلسيوس",
+    "يونس بيرسيليوس",
+    "أندرس أنغستروم",
+    "ألفريد نوبل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué químico sueco inventó la dinamita?",
+   "c": [
+    "Anders Celsius",
+    "Jöns Berzelius",
+    "Anders Ångström",
+    "Alfred Nobel"
+   ]
+  },
+  "pt": {
+   "q": "Que químico sueco inventou a dinamite?",
+   "c": [
+    "Anders Celsius",
+    "Jöns Berzelius",
+    "Anders Ångström",
+    "Alfred Nobel"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Que mesure-t-on en kilomètres par heure ?",
+   "c": [
+    "La force",
+    "La température",
+    "La vitesse",
+    "L'énergie"
+   ]
+  },
+  "en": {
+   "q": "What is measured in kilometers per hour?",
+   "c": [
+    "Force",
+    "Temperature",
+    "Speed",
+    "Energy"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نقيس بالكيلومتر في الساعة؟",
+   "c": [
+    "القوة",
+    "درجة الحرارة",
+    "السرعة",
+    "الطاقة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué se mide en kilómetros por hora?",
+   "c": [
+    "La fuerza",
+    "La temperatura",
+    "La velocidad",
+    "La energía"
+   ]
+  },
+  "pt": {
+   "q": "O que se mede em quilómetros por hora?",
+   "c": [
+    "A força",
+    "A temperatura",
+    "A velocidade",
+    "A energia"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Que mesure un ampèremètre ?",
+   "c": [
+    "La tension",
+    "L'intensité du courant",
+    "La résistance",
+    "La puissance"
+   ]
+  },
+  "en": {
+   "q": "What does an ammeter measure?",
+   "c": [
+    "Voltage",
+    "Current intensity",
+    "Resistance",
+    "Power"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يقيس الأميتر؟",
+   "c": [
+    "الجهد",
+    "شدة التيار",
+    "المقاومة",
+    "القدرة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué mide un amperímetro?",
+   "c": [
+    "La tensión",
+    "La intensidad de la corriente",
+    "La resistencia",
+    "La potencia"
+   ]
+  },
+  "pt": {
+   "q": "O que mede um amperímetro?",
+   "c": [
+    "A tensão",
+    "A intensidade da corrente",
+    "A resistência",
+    "A potência"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
    "q": "Quelle énergie possède un objet en mouvement ?",
    "c": [
     "Cinétique",
@@ -6297,7 +9147,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6347,7 +9197,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6397,7 +9247,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6447,7 +9297,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6497,7 +9347,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6547,7 +9397,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6597,7 +9447,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6647,7 +9497,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6697,7 +9547,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6747,7 +9597,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6797,7 +9647,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6847,11 +9697,11 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "type": "match",
-  "level": 13,
+  "level": 18,
   "image": null,
   "a": 0,
   "fr": {
@@ -7008,7 +9858,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7058,7 +9908,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7108,7 +9958,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7158,7 +10008,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7208,7 +10058,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7258,7 +10108,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7308,7 +10158,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7358,7 +10208,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7408,7 +10258,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7458,7 +10308,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7508,7 +10358,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7558,7 +10408,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7608,7 +10458,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7658,7 +10508,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7708,11 +10558,11 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "type": "order",
-  "level": 14,
+  "level": 19,
   "image": null,
   "a": 0,
   "fr": {
@@ -7809,7 +10659,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7859,7 +10709,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7909,7 +10759,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7959,7 +10809,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8009,7 +10859,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8059,7 +10909,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8109,7 +10959,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8159,7 +11009,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8209,7 +11059,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8259,7 +11109,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8309,7 +11159,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8359,7 +11209,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8409,7 +11259,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8459,7 +11309,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8509,7 +11359,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8559,7 +11409,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8609,7 +11459,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8659,7 +11509,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8709,7 +11559,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8759,7 +11609,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8809,7 +11659,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8859,7 +11709,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8909,7 +11759,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8959,7 +11809,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -9009,11 +11859,11 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "type": "number",
-  "level": 15,
+  "level": 20,
   "image": null,
   "a": 300,
   "min": 100,
@@ -9089,7 +11939,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9139,7 +11989,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9189,7 +12039,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9239,7 +12089,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9289,7 +12139,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9339,7 +12189,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9389,7 +12239,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9439,7 +12289,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9489,7 +12339,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9539,7 +12389,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9589,7 +12439,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9639,7 +12489,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9689,7 +12539,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -9739,7 +12589,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -9789,7 +12639,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -9839,7 +12689,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -9889,7 +12739,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -9939,11 +12789,11 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "type": "match",
-  "level": 16,
+  "level": 21,
   "image": null,
   "a": 0,
   "fr": {
@@ -10100,7 +12950,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10150,7 +13000,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10200,7 +13050,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10250,7 +13100,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10300,7 +13150,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10350,7 +13200,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10400,7 +13250,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10450,7 +13300,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10500,7 +13350,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10550,7 +13400,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10600,7 +13450,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -10650,7 +13500,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -10700,7 +13550,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -10750,7 +13600,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -10800,7 +13650,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -10850,7 +13700,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10900,7 +13750,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10950,7 +13800,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11000,7 +13850,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11050,7 +13900,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11100,7 +13950,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11150,7 +14000,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11200,7 +14050,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11250,7 +14100,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11300,7 +14150,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11350,7 +14200,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11400,7 +14250,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11450,7 +14300,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11500,7 +14350,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11550,7 +14400,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11600,7 +14450,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11650,7 +14500,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11700,7 +14550,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11750,7 +14600,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11800,7 +14650,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11850,7 +14700,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11900,7 +14750,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -11950,7 +14800,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -12000,7 +14850,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -12050,7 +14900,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -12100,7 +14950,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -12150,7 +15000,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -12200,7 +15050,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -12250,7 +15100,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -12300,7 +15150,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -12350,6 +15200,6 @@
   },
   "a": 1,
   "image": null,
-  "level": 20
+  "level": 25
  }
 ]

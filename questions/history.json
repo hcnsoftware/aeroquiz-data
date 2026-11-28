@@ -251,53 +251,54 @@
  },
  {
   "fr": {
-   "q": "Quelles sont les couleurs principales du drapeau de l'Algérie ?",
+   "q": "Quel animal est un symbole de l'Australie ?",
    "c": [
-    "Bleu, blanc et rouge",
-    "Noir, jaune et rouge",
-    "Vert, blanc et rouge",
-    "Orange et violet"
+    "Le panda",
+    "Le coq",
+    "Le chameau",
+    "Le kangourou"
    ]
   },
   "en": {
-   "q": "What are the main colors of the Algerian flag?",
+   "q": "Which animal is a symbol of Australia?",
    "c": [
-    "Blue, white and red",
-    "Black, yellow and red",
-    "Green, white and red",
-    "Orange and purple"
+    "The panda",
+    "The rooster",
+    "The camel",
+    "The kangaroo"
    ]
   },
   "ar": {
-   "q": "ما الألوان الرئيسية لعلم الجزائر؟",
+   "q": "أي حيوان هو رمز لأستراليا؟",
    "c": [
-    "الأزرق والأبيض والأحمر",
-    "الأسود والأصفر والأحمر",
-    "الأخضر والأبيض والأحمر",
-    "البرتقالي والبنفسجي"
+    "الباندا",
+    "الديك",
+    "الجمل",
+    "الكنغر"
    ]
   },
   "es": {
-   "q": "¿Cuáles son los colores principales de la bandera de Argelia?",
+   "q": "¿Qué animal es un símbolo de Australia?",
    "c": [
-    "Azul, blanco y rojo",
-    "Negro, amarillo y rojo",
-    "Verde, blanco y rojo",
-    "Naranja y morado"
+    "El panda",
+    "El gallo",
+    "El camello",
+    "El canguro"
    ]
   },
   "pt": {
-   "q": "Quais são as cores principais da bandeira da Argélia?",
+   "q": "Que animal é um símbolo da Austrália?",
    "c": [
-    "Azul, branco e vermelho",
-    "Preto, amarelo e vermelho",
-    "Verde, branco e vermelho",
-    "Laranja e roxo"
+    "O panda",
+    "O galo",
+    "O camelo",
+    "O canguru"
    ]
   },
-  "a": 2,
+  "a": 3,
   "image": null,
-  "level": 2
+  "level": 2,
+  "type": "choice"
  },
  {
   "fr": {
@@ -6051,6 +6052,3006 @@
  },
  {
   "fr": {
+   "q": "Dans quel pays se trouve le temple d'Angkor Wat ?",
+   "c": [
+    "Thaïlande",
+    "Cambodge",
+    "Viêt Nam",
+    "Indonésie"
+   ]
+  },
+  "en": {
+   "q": "In which country is the Angkor Wat temple?",
+   "c": [
+    "Thailand",
+    "Cambodia",
+    "Vietnam",
+    "Indonesia"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد يوجد معبد أنكور وات؟",
+   "c": [
+    "تايلاند",
+    "كمبوديا",
+    "فيتنام",
+    "إندونيسيا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está el templo de Angkor Wat?",
+   "c": [
+    "Tailandia",
+    "Camboya",
+    "Vietnam",
+    "Indonesia"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica o templo de Angkor Wat?",
+   "c": [
+    "Tailândia",
+    "Camboja",
+    "Vietnã",
+    "Indonésia"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel navire a emmené les Pèlerins en Amérique du Nord en 1620 ?",
+   "c": [
+    "Le Mayflower",
+    "Le Titanic",
+    "Le Santa María",
+    "Le Bounty"
+   ]
+  },
+  "en": {
+   "q": "Which ship carried the Pilgrims to North America in 1620?",
+   "c": [
+    "The Mayflower",
+    "The Titanic",
+    "The Santa María",
+    "The Bounty"
+   ]
+  },
+  "ar": {
+   "q": "ما السفينة التي نقلت المستوطنين الأوائل إلى أمريكا الشمالية عام 1620؟",
+   "c": [
+    "ماي فلاور",
+    "تيتانيك",
+    "سانتا ماريا",
+    "باونتي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué barco llevó a los Padres Peregrinos a Norteamérica en 1620?",
+   "c": [
+    "El Mayflower",
+    "El Titanic",
+    "La Santa María",
+    "El Bounty"
+   ]
+  },
+  "pt": {
+   "q": "Que navio levou os Peregrinos à América do Norte em 1620?",
+   "c": [
+    "O Mayflower",
+    "O Titanic",
+    "A Santa Maria",
+    "O Bounty"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Sur quel continent l'Homo sapiens est-il apparu en premier ?",
+   "c": [
+    "Asie",
+    "Europe",
+    "Afrique",
+    "Amérique du Sud"
+   ]
+  },
+  "en": {
+   "q": "On which continent did Homo sapiens first appear?",
+   "c": [
+    "Asia",
+    "Europe",
+    "Africa",
+    "South America"
+   ]
+  },
+  "ar": {
+   "q": "على أي قارة ظهر الإنسان العاقل لأول مرة؟",
+   "c": [
+    "آسيا",
+    "أوروبا",
+    "أفريقيا",
+    "أمريكا الجنوبية"
+   ]
+  },
+  "es": {
+   "q": "¿En qué continente apareció por primera vez el Homo sapiens?",
+   "c": [
+    "Asia",
+    "Europa",
+    "África",
+    "Sudamérica"
+   ]
+  },
+  "pt": {
+   "q": "Em que continente surgiu o Homo sapiens pela primeira vez?",
+   "c": [
+    "Ásia",
+    "Europa",
+    "África",
+    "América do Sul"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Dans quelle ville se trouve le célèbre Kremlin ?",
+   "c": [
+    "Kiev",
+    "Varsovie",
+    "Istanbul",
+    "Moscou"
+   ]
+  },
+  "en": {
+   "q": "In which city is the famous Kremlin?",
+   "c": [
+    "Kyiv",
+    "Warsaw",
+    "Istanbul",
+    "Moscow"
+   ]
+  },
+  "ar": {
+   "q": "في أي مدينة يقع الكرملين الشهير؟",
+   "c": [
+    "كييف",
+    "وارسو",
+    "إسطنبول",
+    "موسكو"
+   ]
+  },
+  "es": {
+   "q": "¿En qué ciudad está el famoso Kremlin?",
+   "c": [
+    "Kiev",
+    "Varsovia",
+    "Estambul",
+    "Moscú"
+   ]
+  },
+  "pt": {
+   "q": "Em que cidade fica o famoso Kremlin?",
+   "c": [
+    "Kiev",
+    "Varsóvia",
+    "Istambul",
+    "Moscou"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel peuple vit en Australie depuis des dizaines de milliers d'années ?",
+   "c": [
+    "Les Maoris",
+    "Les Aborigènes",
+    "Les Inuits",
+    "Les Massaïs"
+   ]
+  },
+  "en": {
+   "q": "Which people have lived in Australia for tens of thousands of years?",
+   "c": [
+    "The Māori",
+    "Aboriginal Australians",
+    "The Inuit",
+    "The Maasai"
+   ]
+  },
+  "ar": {
+   "q": "أي شعب يعيش في أستراليا منذ عشرات آلاف السنين؟",
+   "c": [
+    "الماوري",
+    "السكان الأصليون",
+    "الإنويت",
+    "الماساي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pueblo vive en Australia desde hace decenas de miles de años?",
+   "c": [
+    "Los maoríes",
+    "Los aborígenes",
+    "Los inuit",
+    "Los masáis"
+   ]
+  },
+  "pt": {
+   "q": "Que povo vive na Austrália há dezenas de milhares de anos?",
+   "c": [
+    "Os maoris",
+    "Os aborígenes",
+    "Os inuítes",
+    "Os masai"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel physicien allemand a découvert les rayons X en 1895 ?",
+   "c": [
+    "Alexander Fleming",
+    "Thomas Edison",
+    "Nikola Tesla",
+    "Wilhelm Röntgen"
+   ]
+  },
+  "en": {
+   "q": "Which German physicist discovered X-rays in 1895?",
+   "c": [
+    "Alexander Fleming",
+    "Thomas Edison",
+    "Nikola Tesla",
+    "Wilhelm Röntgen"
+   ]
+  },
+  "ar": {
+   "q": "من العالم الألماني الذي اكتشف الأشعة السينية عام 1895؟",
+   "c": [
+    "ألكسندر فليمنغ",
+    "توماس إديسون",
+    "نيكولا تسلا",
+    "فيلهلم رونتغن"
+   ]
+  },
+  "es": {
+   "q": "¿Qué físico alemán descubrió los rayos X en 1895?",
+   "c": [
+    "Alexander Fleming",
+    "Thomas Edison",
+    "Nikola Tesla",
+    "Wilhelm Röntgen"
+   ]
+  },
+  "pt": {
+   "q": "Que físico alemão descobriu os raios X em 1895?",
+   "c": [
+    "Alexander Fleming",
+    "Thomas Edison",
+    "Nikola Tesla",
+    "Wilhelm Röntgen"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Les Maoris sont le peuple autochtone de quel pays ?",
+   "c": [
+    "Nouvelle-Zélande",
+    "Canada",
+    "Pérou",
+    "Norvège"
+   ]
+  },
+  "en": {
+   "q": "The Māori are the indigenous people of which country?",
+   "c": [
+    "New Zealand",
+    "Canada",
+    "Peru",
+    "Norway"
+   ]
+  },
+  "ar": {
+   "q": "الماوري هم السكان الأصليون لأي بلد؟",
+   "c": [
+    "نيوزيلندا",
+    "كندا",
+    "بيرو",
+    "النرويج"
+   ]
+  },
+  "es": {
+   "q": "¿Los maoríes son el pueblo indígena de qué país?",
+   "c": [
+    "Nueva Zelanda",
+    "Canadá",
+    "Perú",
+    "Noruega"
+   ]
+  },
+  "pt": {
+   "q": "Os maoris são o povo indígena de que país?",
+   "c": [
+    "Nova Zelândia",
+    "Canadá",
+    "Peru",
+    "Noruega"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quelle ville italienne, bâtie sur des canaux, fut une grande république maritime ?",
+   "c": [
+    "Milan",
+    "Naples",
+    "Venise",
+    "Turin"
+   ]
+  },
+  "en": {
+   "q": "Which Italian city built on canals was a great maritime republic?",
+   "c": [
+    "Milan",
+    "Naples",
+    "Venice",
+    "Turin"
+   ]
+  },
+  "ar": {
+   "q": "أي مدينة إيطالية مبنية على قنوات كانت جمهورية بحرية عظيمة؟",
+   "c": [
+    "ميلانو",
+    "نابولي",
+    "البندقية",
+    "تورينو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ciudad italiana, construida sobre canales, fue una gran república marítima?",
+   "c": [
+    "Milán",
+    "Nápoles",
+    "Venecia",
+    "Turín"
+   ]
+  },
+  "pt": {
+   "q": "Que cidade italiana, construída sobre canais, foi uma grande república marítima?",
+   "c": [
+    "Milão",
+    "Nápoles",
+    "Veneza",
+    "Turim"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel mathématicien grec est célèbre pour son théorème sur les triangles rectangles ?",
+   "c": [
+    "Hippocrate",
+    "Platon",
+    "Homère",
+    "Pythagore"
+   ]
+  },
+  "en": {
+   "q": "Which Greek mathematician is famous for his theorem on right triangles?",
+   "c": [
+    "Hippocrates",
+    "Plato",
+    "Homer",
+    "Pythagoras"
+   ]
+  },
+  "ar": {
+   "q": "أي رياضي يوناني اشتهر بنظريته عن المثلثات القائمة؟",
+   "c": [
+    "أبقراط",
+    "أفلاطون",
+    "هوميروس",
+    "فيثاغورس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué matemático griego es famoso por su teorema sobre los triángulos rectángulos?",
+   "c": [
+    "Hipócrates",
+    "Platón",
+    "Homero",
+    "Pitágoras"
+   ]
+  },
+  "pt": {
+   "q": "Que matemático grego é famoso pelo teorema sobre triângulos retângulos?",
+   "c": [
+    "Hipócrates",
+    "Platão",
+    "Homero",
+    "Pitágoras"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quelle île du Pacifique est célèbre pour ses statues géantes, les moaïs ?",
+   "c": [
+    "L'île de Pâques",
+    "Hawaï",
+    "Tahiti",
+    "Fidji"
+   ]
+  },
+  "en": {
+   "q": "Which Pacific island is famous for its giant moai statues?",
+   "c": [
+    "Easter Island",
+    "Hawaii",
+    "Tahiti",
+    "Fiji"
+   ]
+  },
+  "ar": {
+   "q": "أي جزيرة في المحيط الهادئ تشتهر بتماثيل موآي العملاقة؟",
+   "c": [
+    "جزيرة الفصح",
+    "هاواي",
+    "تاهيتي",
+    "فيجي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué isla del Pacífico es famosa por sus gigantescos moáis?",
+   "c": [
+    "Isla de Pascua",
+    "Hawái",
+    "Tahití",
+    "Fiyi"
+   ]
+  },
+  "pt": {
+   "q": "Que ilha do Pacífico é famosa por suas estátuas gigantes, os moais?",
+   "c": [
+    "Ilha de Páscoa",
+    "Havaí",
+    "Taiti",
+    "Fiji"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Comment s'appellent les tentes rondes des nomades mongols ?",
+   "c": [
+    "Les igloos",
+    "Les tipis",
+    "Les yourtes",
+    "Les pagodes"
+   ]
+  },
+  "en": {
+   "q": "What are the round tents of Mongolian nomads called?",
+   "c": [
+    "Igloos",
+    "Tepees",
+    "Yurts",
+    "Pagodas"
+   ]
+  },
+  "ar": {
+   "q": "ماذا تسمى الخيام المستديرة لدى الرحّل المنغوليين؟",
+   "c": [
+    "الإيغلو",
+    "التيبي",
+    "اليورت",
+    "الباغودا"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llaman las tiendas redondas de los nómadas mongoles?",
+   "c": [
+    "Iglús",
+    "Tipis",
+    "Yurtas",
+    "Pagodas"
+   ]
+  },
+  "pt": {
+   "q": "Como se chamam as tendas redondas dos nômades mongóis?",
+   "c": [
+    "Iglus",
+    "Tipis",
+    "Iurtas",
+    "Pagodes"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve le site préhistorique de Stonehenge ?",
+   "c": [
+    "Égypte",
+    "Royaume-Uni",
+    "Japon",
+    "Mexique"
+   ]
+  },
+  "en": {
+   "q": "In which country is the prehistoric site of Stonehenge?",
+   "c": [
+    "Egypt",
+    "United Kingdom",
+    "Japan",
+    "Mexico"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد يقع موقع ستونهنج ما قبل التاريخ؟",
+   "c": [
+    "مصر",
+    "المملكة المتحدة",
+    "اليابان",
+    "المكسيك"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está el sitio prehistórico de Stonehenge?",
+   "c": [
+    "Egipto",
+    "Reino Unido",
+    "Japón",
+    "México"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica o sítio pré-histórico de Stonehenge?",
+   "c": [
+    "Egito",
+    "Reino Unido",
+    "Japão",
+    "México"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Que cherchaient les explorateurs dans la légende d'El Dorado ?",
+   "c": [
+    "Des épices",
+    "De la soie",
+    "Du pétrole",
+    "De l'or"
+   ]
+  },
+  "en": {
+   "q": "What did explorers hope to find in the legend of El Dorado?",
+   "c": [
+    "Spices",
+    "Silk",
+    "Oil",
+    "Gold"
+   ]
+  },
+  "ar": {
+   "q": "ماذا كان المستكشفون يأملون أن يجدوا في أسطورة إلدورادو؟",
+   "c": [
+    "التوابل",
+    "الحرير",
+    "النفط",
+    "الذهب"
+   ]
+  },
+  "es": {
+   "q": "¿Qué esperaban encontrar los exploradores en la leyenda de El Dorado?",
+   "c": [
+    "Especias",
+    "Seda",
+    "Petróleo",
+    "Oro"
+   ]
+  },
+  "pt": {
+   "q": "O que os exploradores esperavam encontrar na lenda do El Dorado?",
+   "c": [
+    "Especiarias",
+    "Seda",
+    "Petróleo",
+    "Ouro"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quelle était la capitale de l'Empire inca ?",
+   "c": [
+    "Lima",
+    "Quito",
+    "Cuzco",
+    "Bogota"
+   ]
+  },
+  "en": {
+   "q": "What was the capital of the Inca Empire?",
+   "c": [
+    "Lima",
+    "Quito",
+    "Cusco",
+    "Bogotá"
+   ]
+  },
+  "ar": {
+   "q": "ما عاصمة إمبراطورية الإنكا؟",
+   "c": [
+    "ليما",
+    "كيتو",
+    "كوسكو",
+    "بوغوتا"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál era la capital del Imperio inca?",
+   "c": [
+    "Lima",
+    "Quito",
+    "Cusco",
+    "Bogotá"
+   ]
+  },
+  "pt": {
+   "q": "Qual era a capital do Império Inca?",
+   "c": [
+    "Lima",
+    "Quito",
+    "Cusco",
+    "Bogotá"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel empire Cyrus le Grand a-t-il fondé au VIe siècle av. J.-C. ?",
+   "c": [
+    "L'Empire perse",
+    "L'Empire romain",
+    "L'Empire mongol",
+    "L'Empire ottoman"
+   ]
+  },
+  "en": {
+   "q": "Which empire did Cyrus the Great found in the 6th century BC?",
+   "c": [
+    "The Persian Empire",
+    "The Roman Empire",
+    "The Mongol Empire",
+    "The Ottoman Empire"
+   ]
+  },
+  "ar": {
+   "q": "أي إمبراطورية أسسها كورش الكبير في القرن السادس قبل الميلاد؟",
+   "c": [
+    "الإمبراطورية الفارسية",
+    "الإمبراطورية الرومانية",
+    "الإمبراطورية المنغولية",
+    "الإمبراطورية العثمانية"
+   ]
+  },
+  "es": {
+   "q": "¿Qué imperio fundó Ciro el Grande en el siglo VI a. C.?",
+   "c": [
+    "El Imperio persa",
+    "El Imperio romano",
+    "El Imperio mongol",
+    "El Imperio otomano"
+   ]
+  },
+  "pt": {
+   "q": "Que império Ciro, o Grande, fundou no século VI a.C.?",
+   "c": [
+    "O Império Persa",
+    "O Império Romano",
+    "O Império Mongol",
+    "O Império Otomano"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel naturaliste britannique a proposé l'évolution par sélection naturelle ?",
+   "c": [
+    "Michael Faraday",
+    "Charles Darwin",
+    "Alexander Fleming",
+    "Robert Hooke"
+   ]
+  },
+  "en": {
+   "q": "Which British naturalist proposed evolution by natural selection?",
+   "c": [
+    "Michael Faraday",
+    "Charles Darwin",
+    "Alexander Fleming",
+    "Robert Hooke"
+   ]
+  },
+  "ar": {
+   "q": "أي عالم طبيعة بريطاني اقترح التطور بالانتقاء الطبيعي؟",
+   "c": [
+    "مايكل فاراداي",
+    "تشارلز داروين",
+    "ألكسندر فليمنغ",
+    "روبرت هوك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué naturalista británico propuso la evolución por selección natural?",
+   "c": [
+    "Michael Faraday",
+    "Charles Darwin",
+    "Alexander Fleming",
+    "Robert Hooke"
+   ]
+  },
+  "pt": {
+   "q": "Que naturalista britânico propôs a evolução por seleção natural?",
+   "c": [
+    "Michael Faraday",
+    "Charles Darwin",
+    "Alexander Fleming",
+    "Robert Hooke"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel pays européen a colonisé le Brésil à partir de 1500 ?",
+   "c": [
+    "L'Espagne",
+    "La France",
+    "Le Portugal",
+    "Les Pays-Bas"
+   ]
+  },
+  "en": {
+   "q": "Which European country colonized Brazil starting in 1500?",
+   "c": [
+    "Spain",
+    "France",
+    "Portugal",
+    "The Netherlands"
+   ]
+  },
+  "ar": {
+   "q": "أي دولة أوروبية استعمرت البرازيل ابتداءً من عام 1500؟",
+   "c": [
+    "إسبانيا",
+    "فرنسا",
+    "البرتغال",
+    "هولندا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país europeo colonizó Brasil a partir de 1500?",
+   "c": [
+    "España",
+    "Francia",
+    "Portugal",
+    "Países Bajos"
+   ]
+  },
+  "pt": {
+   "q": "Que país europeu colonizou o Brasil a partir de 1500?",
+   "c": [
+    "Espanha",
+    "França",
+    "Portugal",
+    "Países Baixos"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel tsar russe a fondé Saint-Pétersbourg en 1703 ?",
+   "c": [
+    "Pierre le Grand",
+    "Ivan le Terrible",
+    "Nicolas II",
+    "Alexandre Ier"
+   ]
+  },
+  "en": {
+   "q": "Which Russian tsar founded Saint Petersburg in 1703?",
+   "c": [
+    "Peter the Great",
+    "Ivan the Terrible",
+    "Nicholas II",
+    "Alexander I"
+   ]
+  },
+  "ar": {
+   "q": "أي قيصر روسي أسس سانت بطرسبرغ عام 1703؟",
+   "c": [
+    "بطرس الأكبر",
+    "إيفان الرهيب",
+    "نيقولا الثاني",
+    "ألكسندر الأول"
+   ]
+  },
+  "es": {
+   "q": "¿Qué zar ruso fundó San Petersburgo en 1703?",
+   "c": [
+    "Pedro el Grande",
+    "Iván el Terrible",
+    "Nicolás II",
+    "Alejandro I"
+   ]
+  },
+  "pt": {
+   "q": "Que czar russo fundou São Petersburgo em 1703?",
+   "c": [
+    "Pedro, o Grande",
+    "Ivan, o Terrível",
+    "Nicolau II",
+    "Alexandre I"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel peuple de l'Arctique construit traditionnellement des igloos ?",
+   "c": [
+    "Les Massaïs",
+    "Les Aztèques",
+    "Les Bédouins",
+    "Les Inuits"
+   ]
+  },
+  "en": {
+   "q": "Which Arctic people traditionally built igloos?",
+   "c": [
+    "The Maasai",
+    "The Aztecs",
+    "The Bedouin",
+    "The Inuit"
+   ]
+  },
+  "ar": {
+   "q": "أي شعب في القطب الشمالي اعتاد بناء الإيغلو؟",
+   "c": [
+    "الماساي",
+    "الأزتك",
+    "البدو",
+    "الإنويت"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pueblo del Ártico construía tradicionalmente iglús?",
+   "c": [
+    "Los masáis",
+    "Los aztecas",
+    "Los beduinos",
+    "Los inuit"
+   ]
+  },
+  "pt": {
+   "q": "Que povo do Ártico construía tradicionalmente iglus?",
+   "c": [
+    "Os masai",
+    "Os astecas",
+    "Os beduínos",
+    "Os inuítes"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel savant grec aurait crié « Eurêka ! » dans son bain ?",
+   "c": [
+    "Socrate",
+    "Archimède",
+    "Platon",
+    "Homère"
+   ]
+  },
+  "en": {
+   "q": "Which Greek scholar supposedly shouted 'Eureka!' in his bath?",
+   "c": [
+    "Socrates",
+    "Archimedes",
+    "Plato",
+    "Homer"
+   ]
+  },
+  "ar": {
+   "q": "أي عالم يوناني صاح «وجدتها!» وهو في حمّامه حسب الرواية؟",
+   "c": [
+    "سقراط",
+    "أرخميدس",
+    "أفلاطون",
+    "هوميروس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué sabio griego habría gritado «¡Eureka!» en su baño?",
+   "c": [
+    "Sócrates",
+    "Arquímedes",
+    "Platón",
+    "Homero"
+   ]
+  },
+  "pt": {
+   "q": "Que sábio grego teria gritado «Eureka!» no banho?",
+   "c": [
+    "Sócrates",
+    "Arquimedes",
+    "Platão",
+    "Homero"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quelle ville italienne était dirigée par la famille de banquiers des Médicis ?",
+   "c": [
+    "Florence",
+    "Venise",
+    "Rome",
+    "Naples"
+   ]
+  },
+  "en": {
+   "q": "Which Italian city was ruled by the Medici banking family?",
+   "c": [
+    "Florence",
+    "Venice",
+    "Rome",
+    "Naples"
+   ]
+  },
+  "ar": {
+   "q": "أي مدينة إيطالية حكمتها عائلة ميديتشي المصرفية؟",
+   "c": [
+    "فلورنسا",
+    "البندقية",
+    "روما",
+    "نابولي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ciudad italiana gobernó la familia de banqueros Médici?",
+   "c": [
+    "Florencia",
+    "Venecia",
+    "Roma",
+    "Nápoles"
+   ]
+  },
+  "pt": {
+   "q": "Que cidade italiana foi governada pela família de banqueiros Médici?",
+   "c": [
+    "Florença",
+    "Veneza",
+    "Roma",
+    "Nápoles"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel roi a fait des Zoulous une grande puissance d'Afrique australe vers 1820 ?",
+   "c": [
+    "Mansa Moussa",
+    "Ménélik II",
+    "Ramsès II",
+    "Chaka"
+   ]
+  },
+  "en": {
+   "q": "Which king made the Zulu a great power in southern Africa around 1820?",
+   "c": [
+    "Mansa Musa",
+    "Menelik II",
+    "Ramesses II",
+    "Shaka"
+   ]
+  },
+  "ar": {
+   "q": "أي ملك جعل الزولو قوة كبرى في جنوب أفريقيا نحو عام 1820؟",
+   "c": [
+    "منسا موسى",
+    "منليك الثاني",
+    "رمسيس الثاني",
+    "شاكا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué rey convirtió a los zulúes en una gran potencia hacia 1820?",
+   "c": [
+    "Mansa Musa",
+    "Menelik II",
+    "Ramsés II",
+    "Shaka"
+   ]
+  },
+  "pt": {
+   "q": "Que rei fez dos zulus uma grande potência por volta de 1820?",
+   "c": [
+    "Mansa Musa",
+    "Menelique II",
+    "Ramsés II",
+    "Shaka"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quelle ville fut la capitale impériale du Japon pendant plus de mille ans ?",
+   "c": [
+    "Osaka",
+    "Kyoto",
+    "Nagoya",
+    "Yokohama"
+   ]
+  },
+  "en": {
+   "q": "Which city was Japan's imperial capital for over a thousand years?",
+   "c": [
+    "Osaka",
+    "Kyoto",
+    "Nagoya",
+    "Yokohama"
+   ]
+  },
+  "ar": {
+   "q": "أي مدينة كانت العاصمة الإمبراطورية لليابان أكثر من ألف عام؟",
+   "c": [
+    "أوساكا",
+    "كيوتو",
+    "ناغويا",
+    "يوكوهاما"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ciudad fue la capital imperial de Japón durante más de mil años?",
+   "c": [
+    "Osaka",
+    "Kioto",
+    "Nagoya",
+    "Yokohama"
+   ]
+  },
+  "pt": {
+   "q": "Que cidade foi a capital imperial do Japão por mais de mil anos?",
+   "c": [
+    "Osaka",
+    "Quioto",
+    "Nagoia",
+    "Yokohama"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel alphabet coréen a été créé au XVe siècle sous le roi Sejong ?",
+   "c": [
+    "Les kanjis",
+    "Le pinyin",
+    "Le hangeul",
+    "Le devanagari"
+   ]
+  },
+  "en": {
+   "q": "Which Korean alphabet was created in the 15th century under King Sejong?",
+   "c": [
+    "Kanji",
+    "Pinyin",
+    "Hangul",
+    "Devanagari"
+   ]
+  },
+  "ar": {
+   "q": "أي أبجدية كورية ابتُكرت في القرن الخامس عشر في عهد الملك سيجونغ؟",
+   "c": [
+    "الكانجي",
+    "البينيين",
+    "الهانغول",
+    "الديفاناغاري"
+   ]
+  },
+  "es": {
+   "q": "¿Qué alfabeto coreano se creó en el siglo XV bajo el rey Sejong?",
+   "c": [
+    "El kanji",
+    "El pinyin",
+    "El hangul",
+    "El devanagari"
+   ]
+  },
+  "pt": {
+   "q": "Que alfabeto coreano foi criado no século XV sob o rei Sejong?",
+   "c": [
+    "O kanji",
+    "O pinyin",
+    "O hangul",
+    "O devanágari"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel immense temple bouddhiste se dresse sur l'île de Java ?",
+   "c": [
+    "Borobudur",
+    "Angkor Wat",
+    "Bagan",
+    "Ellora"
+   ]
+  },
+  "en": {
+   "q": "Which huge Buddhist temple stands on the island of Java?",
+   "c": [
+    "Borobudur",
+    "Angkor Wat",
+    "Bagan",
+    "Ellora"
+   ]
+  },
+  "ar": {
+   "q": "ما المعبد البوذي الضخم القائم في جزيرة جاوة؟",
+   "c": [
+    "بوروبودور",
+    "أنكور وات",
+    "باغان",
+    "إلورا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué enorme templo budista se alza en la isla de Java?",
+   "c": [
+    "Borobudur",
+    "Angkor Wat",
+    "Bagan",
+    "Ellora"
+   ]
+  },
+  "pt": {
+   "q": "Que enorme templo budista fica na ilha de Java?",
+   "c": [
+    "Borobudur",
+    "Angkor Wat",
+    "Bagan",
+    "Ellora"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays trouve-t-on les églises creusées dans la roche de Lalibela ?",
+   "c": [
+    "Kenya",
+    "Nigeria",
+    "Tanzanie",
+    "Éthiopie"
+   ]
+  },
+  "en": {
+   "q": "In which country are the rock-hewn churches of Lalibela?",
+   "c": [
+    "Kenya",
+    "Nigeria",
+    "Tanzania",
+    "Ethiopia"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد توجد كنائس لاليبيلا المنحوتة في الصخر؟",
+   "c": [
+    "كينيا",
+    "نيجيريا",
+    "تنزانيا",
+    "إثيوبيا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país están las iglesias excavadas en roca de Lalibela?",
+   "c": [
+    "Kenia",
+    "Nigeria",
+    "Tanzania",
+    "Etiopía"
+   ]
+  },
+  "pt": {
+   "q": "Em que país ficam as igrejas escavadas na rocha de Lalibela?",
+   "c": [
+    "Quênia",
+    "Nigéria",
+    "Tanzânia",
+    "Etiópia"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quelle ville a accueilli les premiers Jeux olympiques modernes en 1896 ?",
+   "c": [
+    "Paris",
+    "Athènes",
+    "Rome",
+    "Londres"
+   ]
+  },
+  "en": {
+   "q": "Which city hosted the first modern Olympic Games in 1896?",
+   "c": [
+    "Paris",
+    "Athens",
+    "Rome",
+    "London"
+   ]
+  },
+  "ar": {
+   "q": "أي مدينة استضافت أول دورة ألعاب أولمبية حديثة عام 1896؟",
+   "c": [
+    "باريس",
+    "أثينا",
+    "روما",
+    "لندن"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ciudad acogió los primeros Juegos Olímpicos modernos en 1896?",
+   "c": [
+    "París",
+    "Atenas",
+    "Roma",
+    "Londres"
+   ]
+  },
+  "pt": {
+   "q": "Que cidade sediou os primeiros Jogos Olímpicos modernos em 1896?",
+   "c": [
+    "Paris",
+    "Atenas",
+    "Roma",
+    "Londres"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel prince portugais, surnommé « le Navigateur », a lancé les premiers voyages le long de l'Afrique ?",
+   "c": [
+    "Manuel",
+    "Sébastien",
+    "Henri",
+    "Alphonse"
+   ]
+  },
+  "en": {
+   "q": "Which Portuguese prince, nicknamed 'the Navigator', launched early voyages along Africa's coast?",
+   "c": [
+    "Manuel",
+    "Sebastian",
+    "Henry",
+    "Afonso"
+   ]
+  },
+  "ar": {
+   "q": "أي أمير برتغالي لُقّب بـ«الملاح» وأطلق أولى الرحلات على الساحل الأفريقي؟",
+   "c": [
+    "مانويل",
+    "سيباستيان",
+    "هنري",
+    "أفونسو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué príncipe portugués, apodado «el Navegante», impulsó los primeros viajes por la costa africana?",
+   "c": [
+    "Manuel",
+    "Sebastián",
+    "Enrique",
+    "Alfonso"
+   ]
+  },
+  "pt": {
+   "q": "Que príncipe português, apelidado «o Navegador», impulsionou as primeiras viagens pela costa africana?",
+   "c": [
+    "Manuel",
+    "Sebastião",
+    "Henrique",
+    "Afonso"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel pays l'Invincible Armada espagnole devait-elle envahir en 1588 ?",
+   "c": [
+    "L'Angleterre",
+    "L'Italie",
+    "La Pologne",
+    "Le Mexique"
+   ]
+  },
+  "en": {
+   "q": "Which country was the Spanish Armada sent to invade in 1588?",
+   "c": [
+    "England",
+    "Italy",
+    "Poland",
+    "Mexico"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد أرسلت إسبانيا أسطول «الأرمادا» لغزوه عام 1588؟",
+   "c": [
+    "إنجلترا",
+    "إيطاليا",
+    "بولندا",
+    "المكسيك"
+   ]
+  },
+  "es": {
+   "q": "¿A qué país envió España la Armada Invencible en 1588?",
+   "c": [
+    "Inglaterra",
+    "Italia",
+    "Polonia",
+    "México"
+   ]
+  },
+  "pt": {
+   "q": "A que país a Espanha enviou a Invencível Armada em 1588?",
+   "c": [
+    "Inglaterra",
+    "Itália",
+    "Polônia",
+    "México"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quelle dynastie chinoise Kubilai Khan a-t-il fondée ?",
+   "c": [
+    "Ming",
+    "Tang",
+    "Yuan",
+    "Han"
+   ]
+  },
+  "en": {
+   "q": "Which Chinese dynasty did Kublai Khan found?",
+   "c": [
+    "Ming",
+    "Tang",
+    "Yuan",
+    "Han"
+   ]
+  },
+  "ar": {
+   "q": "أي سلالة صينية أسسها قوبلاي خان؟",
+   "c": [
+    "مينغ",
+    "تانغ",
+    "يوان",
+    "هان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué dinastía china fundó Kublai Khan?",
+   "c": [
+    "Ming",
+    "Tang",
+    "Yuan",
+    "Han"
+   ]
+  },
+  "pt": {
+   "q": "Que dinastia chinesa Kublai Khan fundou?",
+   "c": [
+    "Ming",
+    "Tang",
+    "Yuan",
+    "Han"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quelle cité aztèque est devenue l'actuelle ville de Mexico ?",
+   "c": [
+    "Teotihuacan",
+    "Tenochtitlan",
+    "Cuzco",
+    "Tikal"
+   ]
+  },
+  "en": {
+   "q": "Which Aztec city became modern Mexico City?",
+   "c": [
+    "Teotihuacan",
+    "Tenochtitlan",
+    "Cusco",
+    "Tikal"
+   ]
+  },
+  "ar": {
+   "q": "أي مدينة أزتيكية أصبحت مدينة مكسيكو الحالية؟",
+   "c": [
+    "تيوتيهواكان",
+    "تينوختيتلان",
+    "كوسكو",
+    "تيكال"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ciudad azteca se convirtió en la actual Ciudad de México?",
+   "c": [
+    "Teotihuacán",
+    "Tenochtitlan",
+    "Cusco",
+    "Tikal"
+   ]
+  },
+  "pt": {
+   "q": "Que cidade asteca se tornou a atual Cidade do México?",
+   "c": [
+    "Teotihuacán",
+    "Tenochtitlán",
+    "Cusco",
+    "Tikal"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quelle ville égyptienne fondée par Alexandre le Grand abritait une célèbre bibliothèque ?",
+   "c": [
+    "Le Caire",
+    "Louxor",
+    "Memphis",
+    "Alexandrie"
+   ]
+  },
+  "en": {
+   "q": "Which Egyptian city, founded by Alexander the Great, had a famous library?",
+   "c": [
+    "Cairo",
+    "Luxor",
+    "Memphis",
+    "Alexandria"
+   ]
+  },
+  "ar": {
+   "q": "أي مدينة مصرية أسسها الإسكندر الأكبر وضمت مكتبة شهيرة؟",
+   "c": [
+    "القاهرة",
+    "الأقصر",
+    "منف",
+    "الإسكندرية"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ciudad egipcia, fundada por Alejandro Magno, tenía una famosa biblioteca?",
+   "c": [
+    "El Cairo",
+    "Luxor",
+    "Menfis",
+    "Alejandría"
+   ]
+  },
+  "pt": {
+   "q": "Que cidade egípcia, fundada por Alexandre, o Grande, tinha uma famosa biblioteca?",
+   "c": [
+    "Cairo",
+    "Luxor",
+    "Mênfis",
+    "Alexandria"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quelle cité antique de Jordanie est taillée dans la roche rose ?",
+   "c": [
+    "Palmyre",
+    "Persépolis",
+    "Pétra",
+    "Babylone"
+   ]
+  },
+  "en": {
+   "q": "Which ancient city in Jordan is carved into rose-colored rock?",
+   "c": [
+    "Palmyra",
+    "Persepolis",
+    "Petra",
+    "Babylon"
+   ]
+  },
+  "ar": {
+   "q": "أي مدينة أثرية في الأردن منحوتة في صخر وردي؟",
+   "c": [
+    "تدمر",
+    "برسبوليس",
+    "البتراء",
+    "بابل"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ciudad antigua de Jordania está tallada en roca rosada?",
+   "c": [
+    "Palmira",
+    "Persépolis",
+    "Petra",
+    "Babilonia"
+   ]
+  },
+  "pt": {
+   "q": "Que cidade antiga da Jordânia é esculpida em rocha rosada?",
+   "c": [
+    "Palmira",
+    "Persépolis",
+    "Petra",
+    "Babilônia"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel document de 1776 a proclamé l'indépendance des États-Unis ?",
+   "c": [
+    "Magna Carta",
+    "Déclaration d'indépendance",
+    "Bill of Rights",
+    "Proclamation d'émancipation"
+   ]
+  },
+  "en": {
+   "q": "Which 1776 document declared American independence from Britain?",
+   "c": [
+    "Magna Carta",
+    "Declaration of Independence",
+    "Bill of Rights",
+    "Emancipation Proclamation"
+   ]
+  },
+  "ar": {
+   "q": "أي وثيقة عام 1776 أعلنت استقلال أمريكا عن بريطانيا؟",
+   "c": [
+    "الماغنا كارتا",
+    "إعلان الاستقلال",
+    "وثيقة الحقوق",
+    "إعلان التحرير"
+   ]
+  },
+  "es": {
+   "q": "¿Qué documento de 1776 proclamó la independencia de EE. UU.?",
+   "c": [
+    "Carta Magna",
+    "Declaración de Independencia",
+    "Declaración de Derechos",
+    "Proclamación de Emancipación"
+   ]
+  },
+  "pt": {
+   "q": "Que documento de 1776 proclamou a independência dos EUA?",
+   "c": [
+    "Magna Carta",
+    "Declaração de Independência",
+    "Declaração de Direitos",
+    "Proclamação de Emancipação"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel empereur indien s'est tourné vers le bouddhisme après une guerre sanglante ?",
+   "c": [
+    "Akbar",
+    "Babur",
+    "Shah Jahan",
+    "Ashoka"
+   ]
+  },
+  "en": {
+   "q": "Which Indian emperor embraced Buddhism after a bloody war?",
+   "c": [
+    "Akbar",
+    "Babur",
+    "Shah Jahan",
+    "Ashoka"
+   ]
+  },
+  "ar": {
+   "q": "أي إمبراطور هندي اعتنق البوذية بعد حرب دامية؟",
+   "c": [
+    "أكبر",
+    "بابر",
+    "شاه جهان",
+    "أشوكا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué emperador indio abrazó el budismo tras una guerra sangrienta?",
+   "c": [
+    "Akbar",
+    "Babur",
+    "Shah Jahan",
+    "Ashoka"
+   ]
+  },
+  "pt": {
+   "q": "Que imperador indiano abraçou o budismo após uma guerra sangrenta?",
+   "c": [
+    "Akbar",
+    "Babur",
+    "Shah Jahan",
+    "Ashoka"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel capitaine britannique a exploré le Pacifique et cartographié la Nouvelle-Zélande en 1769 ?",
+   "c": [
+    "James Cook",
+    "Jacques Cartier",
+    "Vasco de Gama",
+    "Francis Drake"
+   ]
+  },
+  "en": {
+   "q": "Which British captain explored the Pacific and charted New Zealand in 1769?",
+   "c": [
+    "James Cook",
+    "Jacques Cartier",
+    "Vasco da Gama",
+    "Francis Drake"
+   ]
+  },
+  "ar": {
+   "q": "أي قبطان بريطاني استكشف المحيط الهادئ ورسم خريطة نيوزيلندا عام 1769؟",
+   "c": [
+    "جيمس كوك",
+    "جاك كارتييه",
+    "فاسكو دا غاما",
+    "فرانسيس دريك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué capitán británico exploró el Pacífico y cartografió Nueva Zelanda en 1769?",
+   "c": [
+    "James Cook",
+    "Jacques Cartier",
+    "Vasco da Gama",
+    "Francis Drake"
+   ]
+  },
+  "pt": {
+   "q": "Que capitão britânico explorou o Pacífico e mapeou a Nova Zelândia em 1769?",
+   "c": [
+    "James Cook",
+    "Jacques Cartier",
+    "Vasco da Gama",
+    "Francis Drake"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quelle femme a régné comme pharaon et bâti le temple de Deir el-Bahari ?",
+   "c": [
+    "Néfertiti",
+    "Cléopâtre",
+    "Hatchepsout",
+    "Néfertari"
+   ]
+  },
+  "en": {
+   "q": "Which woman ruled Egypt as pharaoh and built the temple at Deir el-Bahari?",
+   "c": [
+    "Nefertiti",
+    "Cleopatra",
+    "Hatshepsut",
+    "Nefertari"
+   ]
+  },
+  "ar": {
+   "q": "أي امرأة حكمت مصر كفرعون وبنت معبد الدير البحري؟",
+   "c": [
+    "نفرتيتي",
+    "كليوباترا",
+    "حتشبسوت",
+    "نفرتاري"
+   ]
+  },
+  "es": {
+   "q": "¿Qué mujer gobernó Egipto como faraón y construyó el templo de Deir el-Bahari?",
+   "c": [
+    "Nefertiti",
+    "Cleopatra",
+    "Hatshepsut",
+    "Nefertari"
+   ]
+  },
+  "pt": {
+   "q": "Que mulher governou o Egito como faraó e construiu o templo de Deir el-Bahari?",
+   "c": [
+    "Nefertiti",
+    "Cleópatra",
+    "Hatshepsut",
+    "Nefertari"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel royaume antique du Soudan actuel, au sud de l'Égypte, a aussi bâti des pyramides ?",
+   "c": [
+    "Aksoum",
+    "Koush",
+    "Le Mali",
+    "Le Songhaï"
+   ]
+  },
+  "en": {
+   "q": "Which ancient kingdom of present-day Sudan, south of Egypt, also built pyramids?",
+   "c": [
+    "Aksum",
+    "Kush",
+    "Mali",
+    "Songhai"
+   ]
+  },
+  "ar": {
+   "q": "أي مملكة قديمة في السودان الحالي جنوب مصر بنت أهرامات أيضًا؟",
+   "c": [
+    "أكسوم",
+    "كوش",
+    "مالي",
+    "سونغاي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué antiguo reino del actual Sudán, al sur de Egipto, también construyó pirámides?",
+   "c": [
+    "Aksum",
+    "Kush",
+    "Malí",
+    "Songhai"
+   ]
+  },
+  "pt": {
+   "q": "Que antigo reino do atual Sudão, ao sul do Egito, também construiu pirâmides?",
+   "c": [
+    "Axum",
+    "Kush",
+    "Mali",
+    "Songai"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel amiral chinois a mené d'immenses flottes au début du XVe siècle ?",
+   "c": [
+    "Sun Tzu",
+    "Qin Shi Huang",
+    "Confucius",
+    "Zheng He"
+   ]
+  },
+  "en": {
+   "q": "Which Chinese admiral led huge treasure fleets in the early 15th century?",
+   "c": [
+    "Sun Tzu",
+    "Qin Shi Huang",
+    "Confucius",
+    "Zheng He"
+   ]
+  },
+  "ar": {
+   "q": "أي أدميرال صيني قاد أساطيل الكنوز الضخمة في مطلع القرن الخامس عشر؟",
+   "c": [
+    "صن تزو",
+    "تشين شي هوانغ",
+    "كونفوشيوس",
+    "تشنغ خه"
+   ]
+  },
+  "es": {
+   "q": "¿Qué almirante chino dirigió enormes flotas del tesoro a inicios del siglo XV?",
+   "c": [
+    "Sun Tzu",
+    "Qin Shi Huang",
+    "Confucio",
+    "Zheng He"
+   ]
+  },
+  "pt": {
+   "q": "Que almirante chinês comandou enormes frotas do tesouro no início do século XV?",
+   "c": [
+    "Sun Tzu",
+    "Qin Shi Huang",
+    "Confúcio",
+    "Zheng He"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel canal, ouvert en 1914, relie l'Atlantique au Pacifique ?",
+   "c": [
+    "Le canal de Panama",
+    "Le canal de Suez",
+    "Le canal de Kiel",
+    "Le canal de Corinthe"
+   ]
+  },
+  "en": {
+   "q": "Which canal, opened in 1914, links the Atlantic and Pacific oceans?",
+   "c": [
+    "The Panama Canal",
+    "The Suez Canal",
+    "The Kiel Canal",
+    "The Corinth Canal"
+   ]
+  },
+  "ar": {
+   "q": "أي قناة افتُتحت عام 1914 تربط المحيطين الأطلسي والهادئ؟",
+   "c": [
+    "قناة بنما",
+    "قناة السويس",
+    "قناة كيل",
+    "قناة كورنثوس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué canal, abierto en 1914, une el Atlántico con el Pacífico?",
+   "c": [
+    "El canal de Panamá",
+    "El canal de Suez",
+    "El canal de Kiel",
+    "El canal de Corinto"
+   ]
+  },
+  "pt": {
+   "q": "Que canal, aberto em 1914, liga o Atlântico ao Pacífico?",
+   "c": [
+    "O Canal do Panamá",
+    "O Canal de Suez",
+    "O Canal de Kiel",
+    "O Canal de Corinto"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel leader américain a prononcé le discours « I have a dream » en 1963 ?",
+   "c": [
+    "Malcolm X",
+    "Frederick Douglass",
+    "Barack Obama",
+    "Martin Luther King Jr."
+   ]
+  },
+  "en": {
+   "q": "Which American leader gave the 'I have a dream' speech in 1963?",
+   "c": [
+    "Malcolm X",
+    "Frederick Douglass",
+    "Barack Obama",
+    "Martin Luther King Jr."
+   ]
+  },
+  "ar": {
+   "q": "أي زعيم أمريكي ألقى خطاب «لدي حلم» عام 1963؟",
+   "c": [
+    "مالكوم إكس",
+    "فريدريك دوغلاس",
+    "باراك أوباما",
+    "مارتن لوثر كينغ"
+   ]
+  },
+  "es": {
+   "q": "¿Qué líder estadounidense pronunció el discurso «Tengo un sueño» en 1963?",
+   "c": [
+    "Malcolm X",
+    "Frederick Douglass",
+    "Barack Obama",
+    "Martin Luther King Jr."
+   ]
+  },
+  "pt": {
+   "q": "Que líder americano fez o discurso «Eu tenho um sonho» em 1963?",
+   "c": [
+    "Malcolm X",
+    "Frederick Douglass",
+    "Barack Obama",
+    "Martin Luther King Jr."
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Qui a fondé la République de Turquie en 1923 et en fut le premier président ?",
+   "c": [
+    "Soliman le Magnifique",
+    "Atatürk",
+    "Mehmed II",
+    "Osman Ier"
+   ]
+  },
+  "en": {
+   "q": "Who founded the Republic of Turkey in 1923 and became its first president?",
+   "c": [
+    "Suleiman the Magnificent",
+    "Atatürk",
+    "Mehmed II",
+    "Osman I"
+   ]
+  },
+  "ar": {
+   "q": "من أسّس الجمهورية التركية عام 1923 وكان أول رئيس لها؟",
+   "c": [
+    "سليمان القانوني",
+    "أتاتورك",
+    "محمد الفاتح",
+    "عثمان الأول"
+   ]
+  },
+  "es": {
+   "q": "¿Quién fundó la República de Turquía en 1923 y fue su primer presidente?",
+   "c": [
+    "Solimán el Magnífico",
+    "Atatürk",
+    "Mehmed II",
+    "Osmán I"
+   ]
+  },
+  "pt": {
+   "q": "Quem fundou a República da Turquia em 1923 e foi seu primeiro presidente?",
+   "c": [
+    "Solimão, o Magnífico",
+    "Atatürk",
+    "Mehmed II",
+    "Osman I"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel peuple a peuplé Hawaï, Tahiti et la Nouvelle-Zélande en naviguant en pirogue ?",
+   "c": [
+    "Les Vikings",
+    "Les Phéniciens",
+    "Les Polynésiens",
+    "Les Incas"
+   ]
+  },
+  "en": {
+   "q": "Which people settled Hawaii, Tahiti and New Zealand by sailing in canoes?",
+   "c": [
+    "The Vikings",
+    "The Phoenicians",
+    "The Polynesians",
+    "The Incas"
+   ]
+  },
+  "ar": {
+   "q": "أي شعب استوطن هاواي وتاهيتي ونيوزيلندا بالإبحار في قوارب الكانو؟",
+   "c": [
+    "الفايكنغ",
+    "الفينيقيون",
+    "البولينيزيون",
+    "الإنكا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pueblo pobló Hawái, Tahití y Nueva Zelanda navegando en canoas?",
+   "c": [
+    "Los vikingos",
+    "Los fenicios",
+    "Los polinesios",
+    "Los incas"
+   ]
+  },
+  "pt": {
+   "q": "Que povo colonizou o Havaí, o Taiti e a Nova Zelândia navegando em canoas?",
+   "c": [
+    "Os vikings",
+    "Os fenícios",
+    "Os polinésios",
+    "Os incas"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel ingénieur écossais a perfectionné la machine à vapeur au XVIIIe siècle ?",
+   "c": [
+    "James Watt",
+    "Isaac Newton",
+    "Thomas Edison",
+    "Louis Pasteur"
+   ]
+  },
+  "en": {
+   "q": "Which Scottish engineer greatly improved the steam engine in the 18th century?",
+   "c": [
+    "James Watt",
+    "Isaac Newton",
+    "Thomas Edison",
+    "Louis Pasteur"
+   ]
+  },
+  "ar": {
+   "q": "أي مهندس اسكتلندي حسّن المحرك البخاري كثيرًا في القرن الثامن عشر؟",
+   "c": [
+    "جيمس وات",
+    "إسحاق نيوتن",
+    "توماس إديسون",
+    "لويس باستور"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ingeniero escocés perfeccionó la máquina de vapor en el siglo XVIII?",
+   "c": [
+    "James Watt",
+    "Isaac Newton",
+    "Thomas Edison",
+    "Louis Pasteur"
+   ]
+  },
+  "pt": {
+   "q": "Que engenheiro escocês aperfeiçoou a máquina a vapor no século XVIII?",
+   "c": [
+    "James Watt",
+    "Isaac Newton",
+    "Thomas Edison",
+    "Louis Pasteur"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel général a libéré le Venezuela, la Colombie et d'autres pays de la domination espagnole ?",
+   "c": [
+    "Francisco Pizarro",
+    "Simón Bolívar",
+    "Hernán Cortés",
+    "Pancho Villa"
+   ]
+  },
+  "en": {
+   "q": "Which general freed Venezuela, Colombia and other lands from Spanish rule?",
+   "c": [
+    "Francisco Pizarro",
+    "Simón Bolívar",
+    "Hernán Cortés",
+    "Pancho Villa"
+   ]
+  },
+  "ar": {
+   "q": "أي جنرال حرّر فنزويلا وكولومبيا وبلدانًا أخرى من الحكم الإسباني؟",
+   "c": [
+    "فرانسيسكو بيثارو",
+    "سيمون بوليفار",
+    "هرنان كورتيس",
+    "بانشو فيا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué general liberó a Venezuela, Colombia y otras tierras del dominio español?",
+   "c": [
+    "Francisco Pizarro",
+    "Simón Bolívar",
+    "Hernán Cortés",
+    "Pancho Villa"
+   ]
+  },
+  "pt": {
+   "q": "Que general libertou a Venezuela, a Colômbia e outras terras do domínio espanhol?",
+   "c": [
+    "Francisco Pizarro",
+    "Simón Bolívar",
+    "Hernán Cortés",
+    "Pancho Villa"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel médecin de la Grèce antique est surnommé le « père de la médecine » ?",
+   "c": [
+    "Archimède",
+    "Platon",
+    "Hippocrate",
+    "Homère"
+   ]
+  },
+  "en": {
+   "q": "Which ancient Greek physician is called the 'father of medicine'?",
+   "c": [
+    "Archimedes",
+    "Plato",
+    "Hippocrates",
+    "Homer"
+   ]
+  },
+  "ar": {
+   "q": "أي طبيب يوناني قديم يُلقّب بـ«أبي الطب»؟",
+   "c": [
+    "أرخميدس",
+    "أفلاطون",
+    "أبقراط",
+    "هوميروس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué médico de la Grecia antigua es llamado «el padre de la medicina»?",
+   "c": [
+    "Arquímedes",
+    "Platón",
+    "Hipócrates",
+    "Homero"
+   ]
+  },
+  "pt": {
+   "q": "Que médico da Grécia antiga é chamado de «pai da medicina»?",
+   "c": [
+    "Arquimedes",
+    "Platão",
+    "Hipócrates",
+    "Homero"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel Italien a mis au point la radio sans fil vers 1895 ?",
+   "c": [
+    "Guglielmo Marconi",
+    "Alessandro Volta",
+    "Enrico Fermi",
+    "Léonard de Vinci"
+   ]
+  },
+  "en": {
+   "q": "Which Italian developed wireless radio around 1895?",
+   "c": [
+    "Guglielmo Marconi",
+    "Alessandro Volta",
+    "Enrico Fermi",
+    "Leonardo da Vinci"
+   ]
+  },
+  "ar": {
+   "q": "أي إيطالي طوّر الراديو اللاسلكي نحو عام 1895؟",
+   "c": [
+    "غوليلمو ماركوني",
+    "أليساندرو فولتا",
+    "إنريكو فيرمي",
+    "ليوناردو دا فينشي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué italiano desarrolló la radio inalámbrica hacia 1895?",
+   "c": [
+    "Guglielmo Marconi",
+    "Alessandro Volta",
+    "Enrico Fermi",
+    "Leonardo da Vinci"
+   ]
+  },
+  "pt": {
+   "q": "Que italiano desenvolveu o rádio sem fio por volta de 1895?",
+   "c": [
+    "Guglielmo Marconi",
+    "Alessandro Volta",
+    "Enrico Fermi",
+    "Leonardo da Vinci"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel titre portaient les chefs militaires qui dirigeaient le Japon avant 1868 ?",
+   "c": [
+    "Sultan",
+    "Maharaja",
+    "Khan",
+    "Shogun"
+   ]
+  },
+  "en": {
+   "q": "What title did Japan's military rulers hold before 1868?",
+   "c": [
+    "Sultan",
+    "Maharaja",
+    "Khan",
+    "Shogun"
+   ]
+  },
+  "ar": {
+   "q": "ما اللقب الذي حمله الحكام العسكريون في اليابان قبل عام 1868؟",
+   "c": [
+    "سلطان",
+    "مهراجا",
+    "خان",
+    "شوغون"
+   ]
+  },
+  "es": {
+   "q": "¿Qué título tenían los gobernantes militares de Japón antes de 1868?",
+   "c": [
+    "Sultán",
+    "Maharajá",
+    "Kan",
+    "Shogun"
+   ]
+  },
+  "pt": {
+   "q": "Que título tinham os governantes militares do Japão antes de 1868?",
+   "c": [
+    "Sultão",
+    "Marajá",
+    "Cã",
+    "Xogum"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quelle écriture la pierre de Rosette a-t-elle aidé à déchiffrer ?",
+   "c": [
+    "Le cunéiforme",
+    "Les hiéroglyphes égyptiens",
+    "Les runes vikings",
+    "Les glyphes mayas"
+   ]
+  },
+  "en": {
+   "q": "The Rosetta Stone helped scholars decipher which writing?",
+   "c": [
+    "Cuneiform",
+    "Egyptian hieroglyphs",
+    "Viking runes",
+    "Mayan glyphs"
+   ]
+  },
+  "ar": {
+   "q": "ساعد حجر رشيد العلماء على فك رموز أي كتابة؟",
+   "c": [
+    "المسمارية",
+    "الهيروغليفية المصرية",
+    "رونية الفايكنغ",
+    "كتابة المايا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué escritura ayudó a descifrar la piedra de Rosetta?",
+   "c": [
+    "La escritura cuneiforme",
+    "Los jeroglíficos egipcios",
+    "Las runas vikingas",
+    "Los glifos mayas"
+   ]
+  },
+  "pt": {
+   "q": "Que escrita a Pedra de Roseta ajudou a decifrar?",
+   "c": [
+    "A escrita cuneiforme",
+    "Os hieróglifos egípcios",
+    "As runas vikings",
+    "Os glifos maias"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouvent les géants dessins de Nazca, tracés dans le désert ?",
+   "c": [
+    "Mongolie",
+    "Espagne",
+    "Pérou",
+    "Thaïlande"
+   ]
+  },
+  "en": {
+   "q": "In which country are the giant Nazca Lines drawn in the desert?",
+   "c": [
+    "Mongolia",
+    "Spain",
+    "Peru",
+    "Thailand"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد توجد خطوط نازكا العملاقة المرسومة في الصحراء؟",
+   "c": [
+    "منغوليا",
+    "إسبانيا",
+    "بيرو",
+    "تايلاند"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país están las gigantescas líneas de Nazca, dibujadas en el desierto?",
+   "c": [
+    "Mongolia",
+    "España",
+    "Perú",
+    "Tailandia"
+   ]
+  },
+  "pt": {
+   "q": "Em que país ficam as gigantescas linhas de Nazca, desenhadas no deserto?",
+   "c": [
+    "Mongólia",
+    "Espanha",
+    "Peru",
+    "Tailândia"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Dans quelle ville se trouve la Cité interdite, ancien palais impérial ?",
+   "c": [
+    "Pékin",
+    "Shanghai",
+    "Xi'an",
+    "Nankin"
+   ]
+  },
+  "en": {
+   "q": "In which city is the Forbidden City, the old imperial palace?",
+   "c": [
+    "Beijing",
+    "Shanghai",
+    "Xi'an",
+    "Nanjing"
+   ]
+  },
+  "ar": {
+   "q": "في أي مدينة تقع المدينة المحرّمة، القصر الإمبراطوري القديم؟",
+   "c": [
+    "بكين",
+    "شنغهاي",
+    "شيان",
+    "نانجينغ"
+   ]
+  },
+  "es": {
+   "q": "¿En qué ciudad está la Ciudad Prohibida, el antiguo palacio imperial?",
+   "c": [
+    "Pekín",
+    "Shanghái",
+    "Xi'an",
+    "Nankín"
+   ]
+  },
+  "pt": {
+   "q": "Em que cidade fica a Cidade Proibida, o antigo palácio imperial?",
+   "c": [
+    "Pequim",
+    "Xangai",
+    "Xi'an",
+    "Nanquim"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quel empire, fondé par Babur au XVIe siècle, a dominé une grande partie de l'Inde ?",
+   "c": [
+    "L'Empire ottoman",
+    "L'Empire mongol",
+    "L'Empire perse",
+    "L'Empire moghol"
+   ]
+  },
+  "en": {
+   "q": "Which empire, founded by Babur in the 16th century, ruled much of India?",
+   "c": [
+    "The Ottoman Empire",
+    "The Mongol Empire",
+    "The Persian Empire",
+    "The Mughal Empire"
+   ]
+  },
+  "ar": {
+   "q": "أي إمبراطورية أسسها بابر في القرن السادس عشر وحكمت معظم الهند؟",
+   "c": [
+    "الإمبراطورية العثمانية",
+    "الإمبراطورية المنغولية",
+    "الإمبراطورية الفارسية",
+    "إمبراطورية المغول الهنود"
+   ]
+  },
+  "es": {
+   "q": "¿Qué imperio, fundado por Babur en el siglo XVI, dominó gran parte de la India?",
+   "c": [
+    "El Imperio otomano",
+    "El Imperio mongol",
+    "El Imperio persa",
+    "El Imperio mogol"
+   ]
+  },
+  "pt": {
+   "q": "Que império, fundado por Babur no século XVI, dominou grande parte da Índia?",
+   "c": [
+    "O Império Otomano",
+    "O Império Mongol",
+    "O Império Persa",
+    "O Império Mogol"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quel explorateur écossais a nommé les chutes Victoria en 1855 ?",
+   "c": [
+    "David Livingstone",
+    "Henry Stanley",
+    "Roald Amundsen",
+    "Marco Polo"
+   ]
+  },
+  "en": {
+   "q": "Which Scottish explorer named Victoria Falls in 1855?",
+   "c": [
+    "David Livingstone",
+    "Henry Stanley",
+    "Roald Amundsen",
+    "Marco Polo"
+   ]
+  },
+  "ar": {
+   "q": "أي مستكشف اسكتلندي أطلق اسم شلالات فيكتوريا عام 1855؟",
+   "c": [
+    "ديفيد ليفينغستون",
+    "هنري ستانلي",
+    "روالد أموندسن",
+    "ماركو بولو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué explorador escocés dio nombre a las cataratas Victoria en 1855?",
+   "c": [
+    "David Livingstone",
+    "Henry Stanley",
+    "Roald Amundsen",
+    "Marco Polo"
+   ]
+  },
+  "pt": {
+   "q": "Que explorador escocês deu nome às Cataratas Vitória em 1855?",
+   "c": [
+    "David Livingstone",
+    "Henry Stanley",
+    "Roald Amundsen",
+    "Marco Polo"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quelle ville australienne est née en 1788 comme colonie pénitentiaire britannique ?",
+   "c": [
+    "Melbourne",
+    "Perth",
+    "Brisbane",
+    "Sydney"
+   ]
+  },
+  "en": {
+   "q": "Which Australian city began in 1788 as a British penal colony?",
+   "c": [
+    "Melbourne",
+    "Perth",
+    "Brisbane",
+    "Sydney"
+   ]
+  },
+  "ar": {
+   "q": "أي مدينة أسترالية نشأت عام 1788 كمستعمرة عقابية بريطانية؟",
+   "c": [
+    "ملبورن",
+    "بيرث",
+    "بريزبين",
+    "سيدني"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ciudad australiana nació en 1788 como colonia penal británica?",
+   "c": [
+    "Melbourne",
+    "Perth",
+    "Brisbane",
+    "Sídney"
+   ]
+  },
+  "pt": {
+   "q": "Que cidade australiana nasceu em 1788 como colônia penal britânica?",
+   "c": [
+    "Melbourne",
+    "Perth",
+    "Brisbane",
+    "Sydney"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quel industriel américain a popularisé la chaîne de montage avec la Ford T ?",
+   "c": [
+    "John D. Rockefeller",
+    "Henry Ford",
+    "Andrew Carnegie",
+    "Thomas Edison"
+   ]
+  },
+  "en": {
+   "q": "Which American industrialist popularized the assembly line with the Model T?",
+   "c": [
+    "John D. Rockefeller",
+    "Henry Ford",
+    "Andrew Carnegie",
+    "Thomas Edison"
+   ]
+  },
+  "ar": {
+   "q": "أي صناعي أمريكي نشر خط التجميع مع سيارة موديل تي؟",
+   "c": [
+    "جون روكفلر",
+    "هنري فورد",
+    "أندرو كارنيغي",
+    "توماس إديسون"
+   ]
+  },
+  "es": {
+   "q": "¿Qué industrial estadounidense popularizó la cadena de montaje con el Ford T?",
+   "c": [
+    "John D. Rockefeller",
+    "Henry Ford",
+    "Andrew Carnegie",
+    "Thomas Edison"
+   ]
+  },
+  "pt": {
+   "q": "Que industrial americano popularizou a linha de montagem com o Ford T?",
+   "c": [
+    "John D. Rockefeller",
+    "Henry Ford",
+    "Andrew Carnegie",
+    "Thomas Edison"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Entre quels deux fleuves s'étendait l'ancienne Mésopotamie ?",
+   "c": [
+    "Le Nil et le Congo",
+    "L'Indus et le Gange",
+    "Le Tigre et l'Euphrate",
+    "Le Rhin et le Danube"
+   ]
+  },
+  "en": {
+   "q": "Between which two rivers did ancient Mesopotamia lie?",
+   "c": [
+    "Nile and Congo",
+    "Indus and Ganges",
+    "Tigris and Euphrates",
+    "Rhine and Danube"
+   ]
+  },
+  "ar": {
+   "q": "بين أي نهرين امتدت بلاد الرافدين القديمة؟",
+   "c": [
+    "النيل والكونغو",
+    "السند والغانج",
+    "دجلة والفرات",
+    "الراين والدانوب"
+   ]
+  },
+  "es": {
+   "q": "¿Entre qué dos ríos se extendía la antigua Mesopotamia?",
+   "c": [
+    "Nilo y Congo",
+    "Indo y Ganges",
+    "Tigris y Éufrates",
+    "Rin y Danubio"
+   ]
+  },
+  "pt": {
+   "q": "Entre que dois rios ficava a antiga Mesopotâmia?",
+   "c": [
+    "Nilo e Congo",
+    "Indo e Ganges",
+    "Tigre e Eufrates",
+    "Reno e Danúbio"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quel événement a détruit une grande partie de Londres en 1666 ?",
+   "c": [
+    "La peste noire",
+    "Le Blitz",
+    "La conspiration des Poudres",
+    "Le grand incendie"
+   ]
+  },
+  "en": {
+   "q": "Which event destroyed much of London in 1666?",
+   "c": [
+    "The Black Death",
+    "The Blitz",
+    "The Gunpowder Plot",
+    "The Great Fire"
+   ]
+  },
+  "ar": {
+   "q": "أي حدث دمّر جزءًا كبيرًا من لندن عام 1666؟",
+   "c": [
+    "الموت الأسود",
+    "غارات البليتز",
+    "مؤامرة البارود",
+    "الحريق الكبير"
+   ]
+  },
+  "es": {
+   "q": "¿Qué suceso destruyó gran parte de Londres en 1666?",
+   "c": [
+    "La peste negra",
+    "El Blitz",
+    "La Conspiración de la Pólvora",
+    "El Gran Incendio"
+   ]
+  },
+  "pt": {
+   "q": "Que acontecimento destruiu grande parte de Londres em 1666?",
+   "c": [
+    "A peste negra",
+    "A Blitz",
+    "A Conspiração da Pólvora",
+    "O Grande Incêndio"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Sur quelle colline d'Athènes se dresse le Parthénon ?",
+   "c": [
+    "Le Capitole",
+    "L'Acropole",
+    "Le Palatin",
+    "L'Olympe"
+   ]
+  },
+  "en": {
+   "q": "On which Athenian hill does the Parthenon stand?",
+   "c": [
+    "The Capitoline",
+    "The Acropolis",
+    "The Palatine",
+    "Mount Olympus"
+   ]
+  },
+  "ar": {
+   "q": "على أي تل في أثينا يقف البارثينون؟",
+   "c": [
+    "الكابيتول",
+    "الأكروبوليس",
+    "البالاتين",
+    "جبل الأولمب"
+   ]
+  },
+  "es": {
+   "q": "¿Sobre qué colina de Atenas se alza el Partenón?",
+   "c": [
+    "El Capitolio",
+    "La Acrópolis",
+    "El Palatino",
+    "El Monte Olimpo"
+   ]
+  },
+  "pt": {
+   "q": "Sobre que colina de Atenas se ergue o Partenon?",
+   "c": [
+    "O Capitólio",
+    "A Acrópole",
+    "O Palatino",
+    "O Monte Olimpo"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quel explorateur viking a atteint l'Amérique du Nord vers l'an 1000 ?",
+   "c": [
+    "Leif Erikson",
+    "Christophe Colomb",
+    "Fernand de Magellan",
+    "Marco Polo"
+   ]
+  },
+  "en": {
+   "q": "Which Norse explorer reached North America around the year 1000?",
+   "c": [
+    "Leif Erikson",
+    "Christopher Columbus",
+    "Ferdinand Magellan",
+    "Marco Polo"
+   ]
+  },
+  "ar": {
+   "q": "أي مستكشف من الفايكنغ وصل إلى أمريكا الشمالية نحو عام 1000؟",
+   "c": [
+    "ليف إريكسون",
+    "كريستوفر كولومبوس",
+    "فرديناند ماجلان",
+    "ماركو بولو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué explorador vikingo llegó a Norteamérica hacia el año 1000?",
+   "c": [
+    "Leif Erikson",
+    "Cristóbal Colón",
+    "Fernando de Magallanes",
+    "Marco Polo"
+   ]
+  },
+  "pt": {
+   "q": "Que explorador viking chegou à América do Norte por volta do ano 1000?",
+   "c": [
+    "Leif Erikson",
+    "Cristóvão Colombo",
+    "Fernão de Magalhães",
+    "Marco Polo"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quelle civilisation ancienne a bâti les cités de Harappa et Mohenjo-daro ?",
+   "c": [
+    "Les Minoens",
+    "Les Étrusques",
+    "La civilisation de l'Indus",
+    "Les Olmèques"
+   ]
+  },
+  "en": {
+   "q": "Which ancient civilization built the cities of Harappa and Mohenjo-daro?",
+   "c": [
+    "The Minoans",
+    "The Etruscans",
+    "The Indus Valley civilization",
+    "The Olmecs"
+   ]
+  },
+  "ar": {
+   "q": "أي حضارة قديمة بنت مدينتي هارابا وموهينجو دارو؟",
+   "c": [
+    "المينويون",
+    "الإتروسكان",
+    "حضارة وادي السند",
+    "الأولمك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué civilización antigua construyó las ciudades de Harappa y Mohenjo-Daro?",
+   "c": [
+    "Los minoicos",
+    "Los etruscos",
+    "La civilización del Indo",
+    "Los olmecas"
+   ]
+  },
+  "pt": {
+   "q": "Que civilização antiga construiu as cidades de Harappa e Mohenjo-Daro?",
+   "c": [
+    "Os minoicos",
+    "Os etruscos",
+    "A civilização do Indo",
+    "Os olmecas"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
    "q": "En quelle année s'est terminée la Seconde Guerre mondiale ?",
    "c": [
     "1918",
@@ -6097,7 +9098,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6147,7 +9148,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6197,7 +9198,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6247,7 +9248,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6297,7 +9298,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6347,7 +9348,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6397,7 +9398,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6447,57 +9448,58 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
-  "en": {
-   "q": "Which Algerian city is nicknamed the 'city of bridges'?",
-   "c": [
-    "Oran",
-    "Annaba",
-    "Constantine",
-    "Tlemcen"
-   ]
-  },
   "fr": {
-   "q": "Quelle ville algérienne est surnommée la « ville des ponts » ?",
+   "q": "Comment s'appelait New York à l'époque de la colonie néerlandaise ?",
    "c": [
-    "Oran",
-    "Annaba",
-    "Constantine",
-    "Tlemcen"
+    "La Nouvelle-Orléans",
+    "Nouvelle-Amsterdam",
+    "Nouvelle-Hollande",
+    "New Haven"
    ]
   },
-  "es": {
-   "q": "¿Qué ciudad argelina es apodada la «ciudad de los puentes»?",
+  "en": {
+   "q": "What was New York called under Dutch rule?",
    "c": [
-    "Orán",
-    "Annaba",
-    "Constantina",
-    "Tlemcén"
-   ]
-  },
-  "pt": {
-   "q": "Qual cidade argelina é apelidada de «cidade das pontes»?",
-   "c": [
-    "Orã",
-    "Annaba",
-    "Constantina",
-    "Tlemcen"
+    "New Orleans",
+    "New Amsterdam",
+    "New Holland",
+    "New Haven"
    ]
   },
   "ar": {
-   "q": "أي مدينة جزائرية تُلقَّب بـ«مدينة الجسور»؟",
+   "q": "ماذا كان اسم نيويورك في عهد الهولنديين؟",
    "c": [
-    "وهران",
-    "عنابة",
-    "قسنطينة",
-    "تلمسان"
+    "نيو أورلينز",
+    "نيو أمستردام",
+    "نيو هولاند",
+    "نيو هافن"
    ]
   },
-  "a": 2,
+  "es": {
+   "q": "¿Cómo se llamaba Nueva York bajo dominio holandés?",
+   "c": [
+    "Nueva Orleans",
+    "Nueva Ámsterdam",
+    "Nueva Holanda",
+    "Nueva Haven"
+   ]
+  },
+  "pt": {
+   "q": "Como se chamava Nova York sob domínio holandês?",
+   "c": [
+    "Nova Orleans",
+    "Nova Amsterdã",
+    "Nova Holanda",
+    "Nova Haven"
+   ]
+  },
+  "a": 1,
   "image": null,
-  "level": 13
+  "level": 18,
+  "type": "choice"
  },
  {
   "fr": {
@@ -6547,7 +9549,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6597,7 +9599,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6647,11 +9649,11 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "type": "match",
-  "level": 13,
+  "level": 18,
   "image": null,
   "a": 0,
   "fr": {
@@ -6808,7 +9810,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6858,7 +9860,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6908,7 +9910,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6958,7 +9960,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7008,7 +10010,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7058,7 +10060,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7108,7 +10110,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7158,7 +10160,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7208,7 +10210,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7258,7 +10260,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7308,7 +10310,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7358,7 +10360,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7408,7 +10410,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7458,57 +10460,58 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
-   "q": "Quel grand accord de paix a mis fin à la guerre d'Algérie en mars 1962 ?",
+   "q": "Quel officier de marine américain a forcé le Japon à s'ouvrir au commerce en 1853 ?",
    "c": [
-    "Les accords d'Évian",
-    "Les accords de Genève",
-    "Les accords de San Francisco",
-    "Le traité de Paris"
+    "James Cook",
+    "Horatio Nelson",
+    "Matthew Perry",
+    "Francis Drake"
    ]
   },
   "en": {
-   "q": "Which major peace agreement ended the Algerian War in March 1962?",
+   "q": "Which US naval officer forced Japan to open to trade in 1853?",
    "c": [
-    "The Évian Accords",
-    "The Geneva Accords",
-    "The San Francisco Conference",
-    "The Treaty of Paris"
+    "James Cook",
+    "Horatio Nelson",
+    "Matthew Perry",
+    "Francis Drake"
    ]
   },
   "ar": {
-   "q": "ما هو اتفاق السلام الرئيسي الذي أنهى حرب الجزائر في مارس 1962؟",
+   "q": "أي ضابط بحري أمريكي أجبر اليابان على الانفتاح التجاري عام 1853؟",
    "c": [
-    "اتفاقيات إيفيان",
-    "اتفاقيات جنيف",
-    "مؤتمر سان فرانسيسكو",
-    "معاهدة باريس"
+    "جيمس كوك",
+    "هوراشيو نيلسون",
+    "ماثيو بيري",
+    "فرانسيس دريك"
    ]
   },
   "es": {
-   "q": "¿Qué gran acuerdo de paz puso fin a la guerra de Argelia en marzo de 1962?",
+   "q": "¿Qué oficial naval estadounidense obligó a Japón a abrirse al comercio en 1853?",
    "c": [
-    "Los acuerdos de Évian",
-    "Los acuerdos de Ginebra",
-    "Los acuerdos de San Francisco",
-    "El Tratado de París"
+    "James Cook",
+    "Horatio Nelson",
+    "Matthew Perry",
+    "Francis Drake"
    ]
   },
   "pt": {
-   "q": "Qual grande acordo de paz encerrou a Guerra da Argélia em março de 1962?",
+   "q": "Que oficial naval americano forçou o Japão a abrir-se ao comércio em 1853?",
    "c": [
-    "Os Acordos de Évian",
-    "Os Acordos de Genebra",
-    "Os Acordos de São Francisco",
-    "O Tratado de Paris"
+    "James Cook",
+    "Horatio Nelson",
+    "Matthew Perry",
+    "Francis Drake"
    ]
   },
-  "a": 0,
+  "a": 2,
   "image": null,
-  "level": 14
+  "level": 19,
+  "type": "choice"
  },
  {
   "fr": {
@@ -7558,7 +10561,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7608,7 +10611,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "en": {
@@ -7658,11 +10661,11 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "type": "order",
-  "level": 14,
+  "level": 19,
   "image": null,
   "a": 0,
   "fr": {
@@ -7713,27 +10716,27 @@
  },
  {
   "type": "number",
-  "level": 14,
+  "level": 19,
   "image": null,
-  "a": 1962,
+  "a": 1947,
   "min": 1900,
   "max": 2000,
   "step": 1,
   "tol": 2,
   "fr": {
-   "q": "En quelle année l'Algérie a-t-elle obtenu son indépendance ?"
+   "q": "En quelle année l'Inde a-t-elle obtenu son indépendance ?"
   },
   "en": {
-   "q": "In which year did Algeria gain its independence?"
+   "q": "In which year did India gain its independence?"
   },
   "ar": {
-   "q": "في أي سنة نالت الجزائر استقلالها؟"
+   "q": "في أي سنة نالت الهند استقلالها؟"
   },
   "es": {
-   "q": "¿En qué año obtuvo Argelia su independencia?"
+   "q": "¿En qué año obtuvo la India su independencia?"
   },
   "pt": {
-   "q": "Em que ano a Argélia conquistou sua independência?"
+   "q": "Em que ano a Índia conquistou sua independência?"
   }
  },
  {
@@ -7784,7 +10787,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7834,7 +10837,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7884,7 +10887,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7934,7 +10937,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7984,7 +10987,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8034,7 +11037,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8084,7 +11087,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8134,7 +11137,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8184,7 +11187,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8234,7 +11237,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8284,7 +11287,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8334,7 +11337,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8384,7 +11387,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8434,7 +11437,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8484,7 +11487,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8534,7 +11537,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8584,7 +11587,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8634,7 +11637,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8684,7 +11687,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8734,7 +11737,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8784,7 +11787,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8834,7 +11837,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8884,7 +11887,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8934,7 +11937,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8984,7 +11987,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -9034,7 +12037,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -9084,7 +12087,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -9134,7 +12137,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "en": {
@@ -9184,157 +12187,160 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
-  "en": {
-   "q": "Who led the Algerian resistance against the French conquest in the 1830s and 1840s?",
-   "c": [
-    "Abdelhamid Ben Badis",
-    "Emir Abdelkader",
-    "Ferhat Abbas",
-    "Houari Boumediene"
-   ]
-  },
   "fr": {
-   "q": "Qui a dirigé la résistance algérienne contre la conquête française dans les années 1830-1840 ?",
+   "q": "Quel traité de 1840 entre la Couronne britannique et des chefs maoris est le texte fondateur de la Nouvelle-Zélande ?",
    "c": [
-    "Abdelhamid Ben Badis",
-    "Émir Abdelkader",
-    "Ferhat Abbas",
-    "Houari Boumédiène"
+    "Le traité de Waitangi",
+    "Le traité de Paris",
+    "Le traité de Gand",
+    "Le traité de Nankin"
    ]
   },
-  "es": {
-   "q": "¿Quién lideró la resistencia argelina contra la conquista francesa en las décadas de 1830 y 1840?",
+  "en": {
+   "q": "Which 1840 treaty between the British Crown and Māori chiefs is New Zealand's founding document?",
    "c": [
-    "Abdelhamid Ben Badis",
-    "Emir Abdelkader",
-    "Ferhat Abbas",
-    "Huari Bumedián"
-   ]
-  },
-  "pt": {
-   "q": "Quem liderou a resistência argelina contra a conquista francesa nas décadas de 1830 e 1840?",
-   "c": [
-    "Abdelhamid Ben Badis",
-    "Emir Abdelkader",
-    "Ferhat Abbas",
-    "Houari Boumédiène"
+    "The Treaty of Waitangi",
+    "The Treaty of Paris",
+    "The Treaty of Ghent",
+    "The Treaty of Nanking"
    ]
   },
   "ar": {
-   "q": "من قاد المقاومة الجزائرية ضد الغزو الفرنسي في ثلاثينيات وأربعينيات القرن التاسع عشر؟",
+   "q": "أي معاهدة عام 1840 بين التاج البريطاني وزعماء الماوري هي وثيقة تأسيس نيوزيلندا؟",
    "c": [
-    "عبد الحميد بن باديس",
-    "الأمير عبد القادر",
-    "فرحات عباس",
-    "هواري بومدين"
-   ]
-  },
-  "a": 1,
-  "image": null,
-  "level": 15
- },
- {
-  "en": {
-   "q": "What is the Tassili n'Ajjer, in southern Algeria, famous for?",
-   "c": [
-    "Its prehistoric rock art",
-    "Its active volcanoes",
-    "Its coral reefs",
-    "Its glaciers"
-   ]
-  },
-  "fr": {
-   "q": "Pour quoi le Tassili n'Ajjer, dans le sud de l'Algérie, est-il célèbre ?",
-   "c": [
-    "Son art rupestre préhistorique",
-    "Ses volcans actifs",
-    "Ses récifs coralliens",
-    "Ses glaciers"
+    "معاهدة وايتانغي",
+    "معاهدة باريس",
+    "معاهدة غنت",
+    "معاهدة نانجينغ"
    ]
   },
   "es": {
-   "q": "¿Por qué es famoso el Tassili n'Ajjer, en el sur de Argelia?",
+   "q": "¿Qué tratado de 1840 entre la Corona británica y jefes maoríes es el documento fundacional de Nueva Zelanda?",
    "c": [
-    "Su arte rupestre prehistórico",
-    "Sus volcanes activos",
-    "Sus arrecifes de coral",
-    "Sus glaciares"
+    "El Tratado de Waitangi",
+    "El Tratado de París",
+    "El Tratado de Gante",
+    "El Tratado de Nankín"
    ]
   },
   "pt": {
-   "q": "Pelo que é famoso o Tassili n'Ajjer, no sul da Argélia?",
+   "q": "Que tratado de 1840 entre a Coroa britânica e chefes maoris é o documento fundador da Nova Zelândia?",
    "c": [
-    "Sua arte rupestre pré-histórica",
-    "Seus vulcões ativos",
-    "Seus recifes de coral",
-    "Suas geleiras"
-   ]
-  },
-  "ar": {
-   "q": "بماذا اشتهرت منطقة الطاسيلي ناجر في جنوب الجزائر؟",
-   "c": [
-    "رسومها الصخرية ما قبل التاريخ",
-    "براكينها النشطة",
-    "شعابها المرجانية",
-    "أنهارها الجليدية"
+    "O Tratado de Waitangi",
+    "O Tratado de Paris",
+    "O Tratado de Gante",
+    "O Tratado de Nanquim"
    ]
   },
   "a": 0,
   "image": null,
-  "level": 15
+  "level": 20,
+  "type": "choice"
  },
  {
-  "en": {
-   "q": "Who was the first president of independent Algeria (1963)?",
-   "c": [
-    "Houari Boumediene",
-    "Chadli Bendjedid",
-    "Mohamed Boudiaf",
-    "Ahmed Ben Bella"
-   ]
-  },
   "fr": {
-   "q": "Qui fut le premier président de l'Algérie indépendante (1963) ?",
+   "q": "Pour quoi les gorges d'Olduvai, en Tanzanie, sont-elles célèbres ?",
    "c": [
-    "Houari Boumédiène",
-    "Chadli Bendjedid",
-    "Mohamed Boudiaf",
-    "Ahmed Ben Bella"
+    "Des pyramides antiques",
+    "Des ruines vikings",
+    "Des fossiles d'humains anciens",
+    "Des mines d'or"
    ]
   },
-  "es": {
-   "q": "¿Quién fue el primer presidente de la Argelia independiente (1963)?",
+  "en": {
+   "q": "What is Olduvai Gorge, in Tanzania, famous for?",
    "c": [
-    "Huari Bumedián",
-    "Chadli Bendjedid",
-    "Mohamed Boudiaf",
-    "Ahmed Ben Bella"
-   ]
-  },
-  "pt": {
-   "q": "Quem foi o primeiro presidente da Argélia independente (1963)?",
-   "c": [
-    "Houari Boumédiène",
-    "Chadli Bendjedid",
-    "Mohamed Boudiaf",
-    "Ahmed Ben Bella"
+    "Ancient pyramids",
+    "Viking ruins",
+    "Early human fossils",
+    "Gold mines"
    ]
   },
   "ar": {
-   "q": "من كان أول رئيس للجزائر المستقلة (1963)؟",
+   "q": "بماذا يشتهر أخدود أولدوفاي في تنزانيا؟",
    "c": [
-    "هواري بومدين",
-    "الشاذلي بن جديد",
-    "محمد بوضياف",
-    "أحمد بن بلة"
+    "الأهرامات القديمة",
+    "آثار الفايكنغ",
+    "أحافير البشر الأوائل",
+    "مناجم الذهب"
+   ]
+  },
+  "es": {
+   "q": "¿Por qué es famosa la garganta de Olduvai, en Tanzania?",
+   "c": [
+    "Pirámides antiguas",
+    "Ruinas vikingas",
+    "Fósiles de humanos primitivos",
+    "Minas de oro"
+   ]
+  },
+  "pt": {
+   "q": "Pelo que é famosa a Garganta de Olduvai, na Tanzânia?",
+   "c": [
+    "Pirâmides antigas",
+    "Ruínas vikings",
+    "Fósseis de humanos primitivos",
+    "Minas de ouro"
    ]
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20,
+  "type": "choice"
+ },
+ {
+  "fr": {
+   "q": "Quel prêtre a lancé la lutte pour l'indépendance du Mexique en 1810 ?",
+   "c": [
+    "Miguel Hidalgo",
+    "Emiliano Zapata",
+    "Benito Juárez",
+    "Pancho Villa"
+   ]
+  },
+  "en": {
+   "q": "Which priest launched Mexico's independence struggle in 1810?",
+   "c": [
+    "Miguel Hidalgo",
+    "Emiliano Zapata",
+    "Benito Juárez",
+    "Pancho Villa"
+   ]
+  },
+  "ar": {
+   "q": "أي كاهن أطلق حركة استقلال المكسيك عام 1810؟",
+   "c": [
+    "ميغيل هيدالغو",
+    "إميليانو زاباتا",
+    "بينيتو خواريز",
+    "بانشو فيا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué sacerdote inició la lucha por la independencia de México en 1810?",
+   "c": [
+    "Miguel Hidalgo",
+    "Emiliano Zapata",
+    "Benito Juárez",
+    "Pancho Villa"
+   ]
+  },
+  "pt": {
+   "q": "Que padre iniciou a luta pela independência do México em 1810?",
+   "c": [
+    "Miguel Hidalgo",
+    "Emiliano Zapata",
+    "Benito Juárez",
+    "Pancho Villa"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 20,
+  "type": "choice"
  },
  {
   "fr": {
@@ -9384,7 +12390,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9434,7 +12440,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9484,7 +12490,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9534,7 +12540,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9584,7 +12590,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9634,7 +12640,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9684,7 +12690,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9734,7 +12740,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9784,7 +12790,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9834,7 +12840,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9884,57 +12890,58 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
-  "en": {
-   "q": "Which Algerian Roman city, founded by Trajan around 100 AD, is nicknamed the 'Pompeii of Africa'?",
-   "c": [
-    "Djémila",
-    "Tipasa",
-    "Cherchell",
-    "Timgad"
-   ]
-  },
   "fr": {
-   "q": "Quelle cité romaine d'Algérie, fondée par Trajan vers l'an 100, est surnommée la « Pompéi de l'Afrique » ?",
+   "q": "Quelle grande cité maya, aux temples dressés au-dessus de la jungle, se trouve au Guatemala ?",
    "c": [
-    "Djémila",
-    "Tipasa",
-    "Cherchell",
-    "Timgad"
+    "Teotihuacan",
+    "Tikal",
+    "Machu Picchu",
+    "Cuzco"
    ]
   },
-  "es": {
-   "q": "¿Qué ciudad romana de Argelia, fundada por Trajano hacia el año 100, es apodada la «Pompeya de África»?",
+  "en": {
+   "q": "Which great Maya city, with temples rising above the jungle, is in Guatemala?",
    "c": [
-    "Djémila",
-    "Tipasa",
-    "Cherchell",
-    "Timgad"
-   ]
-  },
-  "pt": {
-   "q": "Qual cidade romana da Argélia, fundada por Trajano por volta do ano 100, é apelidada de «Pompeia da África»?",
-   "c": [
-    "Djémila",
-    "Tipasa",
-    "Cherchell",
-    "Timgad"
+    "Teotihuacan",
+    "Tikal",
+    "Machu Picchu",
+    "Cusco"
    ]
   },
   "ar": {
-   "q": "أي مدينة رومانية جزائرية أسسها تراجان نحو عام 100م تُلقَّب بـ«بومبي أفريقيا»؟",
+   "q": "أي مدينة مايا عظيمة، بمعابدها فوق الغابة، توجد في غواتيمالا؟",
    "c": [
-    "جميلة",
-    "تيبازة",
-    "شرشال",
-    "تيمقاد"
+    "تيوتيهواكان",
+    "تيكال",
+    "ماتشو بيتشو",
+    "كوسكو"
    ]
   },
-  "a": 3,
+  "es": {
+   "q": "¿Qué gran ciudad maya, con templos sobre la selva, está en Guatemala?",
+   "c": [
+    "Teotihuacán",
+    "Tikal",
+    "Machu Picchu",
+    "Cusco"
+   ]
+  },
+  "pt": {
+   "q": "Que grande cidade maia, com templos acima da selva, fica na Guatemala?",
+   "c": [
+    "Teotihuacán",
+    "Tikal",
+    "Machu Picchu",
+    "Cusco"
+   ]
+  },
+  "a": 2,
   "image": null,
-  "level": 16
+  "level": 21,
+  "type": "choice"
  },
  {
   "en": {
@@ -9984,61 +12991,62 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
-  "en": {
-   "q": "Which Nobel laureate in Literature (1957) was born in Algeria?",
-   "c": [
-    "Jean-Paul Sartre",
-    "Albert Camus",
-    "André Gide",
-    "Samuel Beckett"
-   ]
-  },
   "fr": {
-   "q": "Quel prix Nobel de littérature (1957) est né en Algérie ?",
+   "q": "Quel écrivain colombien a reçu le prix Nobel de littérature en 1982 ?",
    "c": [
-    "Jean-Paul Sartre",
-    "Albert Camus",
-    "André Gide",
-    "Samuel Beckett"
+    "Gabriel García Márquez",
+    "Pablo Neruda",
+    "Jorge Luis Borges",
+    "Octavio Paz"
    ]
   },
-  "es": {
-   "q": "¿Qué premio Nobel de Literatura (1957) nació en Argelia?",
+  "en": {
+   "q": "Which Colombian author won the 1982 Nobel Prize in Literature?",
    "c": [
-    "Jean-Paul Sartre",
-    "Albert Camus",
-    "André Gide",
-    "Samuel Beckett"
-   ]
-  },
-  "pt": {
-   "q": "Qual Prêmio Nobel de Literatura (1957) nasceu na Argélia?",
-   "c": [
-    "Jean-Paul Sartre",
-    "Albert Camus",
-    "André Gide",
-    "Samuel Beckett"
+    "Gabriel García Márquez",
+    "Pablo Neruda",
+    "Jorge Luis Borges",
+    "Octavio Paz"
    ]
   },
   "ar": {
-   "q": "أي حائز على جائزة نوبل في الأدب (1957) وُلد في الجزائر؟",
+   "q": "أي كاتب كولومبي نال جائزة نوبل للآداب عام 1982؟",
    "c": [
-    "جان بول سارتر",
-    "ألبير كامو",
-    "أندريه جيد",
-    "صمويل بيكيت"
+    "غابرييل غارسيا ماركيز",
+    "بابلو نيرودا",
+    "خورخي لويس بورخس",
+    "أوكتافيو باث"
    ]
   },
-  "a": 1,
+  "es": {
+   "q": "¿Qué escritor colombiano ganó el Premio Nobel de Literatura en 1982?",
+   "c": [
+    "Gabriel García Márquez",
+    "Pablo Neruda",
+    "Jorge Luis Borges",
+    "Octavio Paz"
+   ]
+  },
+  "pt": {
+   "q": "Que escritor colombiano ganhou o Prêmio Nobel de Literatura em 1982?",
+   "c": [
+    "Gabriel García Márquez",
+    "Pablo Neruda",
+    "Jorge Luis Borges",
+    "Octavio Paz"
+   ]
+  },
+  "a": 0,
   "image": null,
-  "level": 16
+  "level": 21,
+  "type": "choice"
  },
  {
   "type": "number",
-  "level": 16,
+  "level": 21,
   "image": null,
   "a": 1789,
   "min": 1700,
@@ -10109,7 +13117,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10159,7 +13167,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10209,7 +13217,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10259,7 +13267,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10309,7 +13317,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10359,7 +13367,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10409,7 +13417,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10459,7 +13467,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10509,7 +13517,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10559,7 +13567,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -10609,7 +13617,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -10659,11 +13667,11 @@
   },
   "a": 0,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "type": "order",
-  "level": 17,
+  "level": 22,
   "image": null,
   "a": 0,
   "fr": {
@@ -10760,7 +13768,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10810,7 +13818,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10860,7 +13868,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10910,7 +13918,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10960,7 +13968,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11010,7 +14018,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11060,57 +14068,58 @@
   },
   "a": 1,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
-   "q": "Quel émir a dirigé la résistance algérienne contre la conquête française de 1832 à 1847 ?",
+   "q": "Quel chef a unifié les îles Hawaï en un seul royaume en 1810 ?",
    "c": [
-    "L'émir Abdelkader",
-    "Lalla Fatma N'Soumer",
-    "Cheikh El Mokrani",
-    "Ahmed Bey"
+    "Pomare II",
+    "Liliʻuokalani",
+    "Kamehameha Ier",
+    "Kalākaua"
    ]
   },
   "en": {
-   "q": "Which emir led Algerian resistance against the French conquest from 1832 to 1847?",
+   "q": "Which chief united the Hawaiian Islands into one kingdom in 1810?",
    "c": [
-    "Emir Abdelkader",
-    "Lalla Fatma N'Soumer",
-    "Sheikh El Mokrani",
-    "Ahmed Bey"
+    "Pomare II",
+    "Liliʻuokalani",
+    "Kamehameha I",
+    "Kalākaua"
    ]
   },
   "ar": {
-   "q": "أي أمير قاد المقاومة الجزائرية ضد الغزو الفرنسي من 1832 إلى 1847؟",
+   "q": "أي زعيم وحّد جزر هاواي في مملكة واحدة عام 1810؟",
    "c": [
-    "الأمير عبد القادر",
-    "لالة فاطمة نسومر",
-    "الشيخ المقراني",
-    "أحمد باي"
+    "بوماري الثاني",
+    "ليليوكالاني",
+    "كاميهاميها الأول",
+    "كالاكاوا"
    ]
   },
   "es": {
-   "q": "¿Qué emir dirigió la resistencia argelina contra la conquista francesa de 1832 a 1847?",
+   "q": "¿Qué jefe unificó las islas de Hawái en un solo reino en 1810?",
    "c": [
-    "El emir Abdelkader",
-    "Lalla Fatma N'Soumer",
-    "El jeque El Mokrani",
-    "Ahmed Bey"
+    "Pomare II",
+    "Liliʻuokalani",
+    "Kamehameha I",
+    "Kalākaua"
    ]
   },
   "pt": {
-   "q": "Que emir liderou a resistência argelina contra a conquista francesa de 1832 a 1847?",
+   "q": "Que chefe uniu as ilhas do Havaí em um só reino em 1810?",
    "c": [
-    "O emir Abdelkader",
-    "Lalla Fatma N'Soumer",
-    "O xeque El Mokrani",
-    "Ahmed Bey"
+    "Pomare II",
+    "Liliʻuokalani",
+    "Kamehameha I",
+    "Kalākaua"
    ]
   },
-  "a": 0,
+  "a": 3,
   "image": null,
-  "level": 18
+  "level": 23,
+  "type": "choice"
  },
  {
   "fr": {
@@ -11160,7 +14169,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11210,11 +14219,11 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "type": "number",
-  "level": 18,
+  "level": 23,
   "image": null,
   "a": 1453,
   "min": 1200,
@@ -11285,7 +14294,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11335,7 +14344,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11385,7 +14394,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11435,7 +14444,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11485,7 +14494,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11535,7 +14544,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11585,7 +14594,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11635,7 +14644,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11685,7 +14694,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11735,7 +14744,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11785,7 +14794,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -11835,7 +14844,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -11885,7 +14894,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -11935,7 +14944,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -11985,7 +14994,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -12035,7 +15044,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -12085,7 +15094,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -12135,7 +15144,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -12185,7 +15194,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -12235,6 +15244,6 @@
   },
   "a": 3,
   "image": null,
-  "level": 20
+  "level": 25
  }
 ]

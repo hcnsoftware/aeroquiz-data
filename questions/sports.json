@@ -6301,6 +6301,3006 @@
  },
  {
   "fr": {
+   "q": "Au baseball, combien de prises (strikes) éliminent un batteur ?",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  "en": {
+   "q": "In baseball, how many strikes put a batter out?",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  "ar": {
+   "q": "في البيسبول، كم ضربة فاشلة (ستريك) تُخرِج الضارب؟",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  "es": {
+   "q": "En el béisbol, ¿cuántos strikes eliminan a un bateador?",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  "pt": {
+   "q": "No beisebol, quantos strikes eliminam um batedor?",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Sur quelle surface se joue le tournoi de Wimbledon ?",
+   "c": [
+    "Terre battue",
+    "Dur",
+    "Moquette",
+    "Gazon"
+   ]
+  },
+  "en": {
+   "q": "On which surface is Wimbledon played?",
+   "c": [
+    "Clay",
+    "Hard court",
+    "Carpet",
+    "Grass"
+   ]
+  },
+  "ar": {
+   "q": "على أي سطح تُلعب بطولة ويمبلدون؟",
+   "c": [
+    "الملعب الترابي",
+    "الملعب الصلب",
+    "السجاد",
+    "العشب"
+   ]
+  },
+  "es": {
+   "q": "¿En qué superficie se juega Wimbledon?",
+   "c": [
+    "Arcilla",
+    "Pista dura",
+    "Moqueta",
+    "Hierba"
+   ]
+  },
+  "pt": {
+   "q": "Em que superfície se joga Wimbledon?",
+   "c": [
+    "Saibro",
+    "Quadra dura",
+    "Carpete",
+    "Grama"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel sport utilise une batte et des wickets ?",
+   "c": [
+    "Le baseball",
+    "Le golf",
+    "Le cricket",
+    "Le hockey"
+   ]
+  },
+  "en": {
+   "q": "Which sport uses a bat and wickets?",
+   "c": [
+    "Baseball",
+    "Golf",
+    "Cricket",
+    "Hockey"
+   ]
+  },
+  "ar": {
+   "q": "ما الرياضة التي تستخدم مضربًا وويكيت؟",
+   "c": [
+    "البيسبول",
+    "الغولف",
+    "الكريكيت",
+    "الهوكي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué deporte usa un bate y wickets?",
+   "c": [
+    "El béisbol",
+    "El golf",
+    "El críquet",
+    "El hockey"
+   ]
+  },
+  "pt": {
+   "q": "Qual esporte usa um taco e wickets?",
+   "c": [
+    "O beisebol",
+    "O golfe",
+    "O críquete",
+    "O hóquei"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Dans quel sport les pilotes font-ils des arrêts aux stands pour changer de pneus ?",
+   "c": [
+    "La Formule 1",
+    "Le golf",
+    "Le tennis",
+    "La natation"
+   ]
+  },
+  "en": {
+   "q": "In which sport do drivers make pit stops to change tyres?",
+   "c": [
+    "Formula 1",
+    "Golf",
+    "Tennis",
+    "Swimming"
+   ]
+  },
+  "ar": {
+   "q": "في أي رياضة يتوقف السائقون في المرأب لتغيير الإطارات؟",
+   "c": [
+    "الفورمولا 1",
+    "الغولف",
+    "التنس",
+    "السباحة"
+   ]
+  },
+  "es": {
+   "q": "¿En qué deporte los pilotos hacen paradas en boxes para cambiar neumáticos?",
+   "c": [
+    "La Fórmula 1",
+    "El golf",
+    "El tenis",
+    "La natación"
+   ]
+  },
+  "pt": {
+   "q": "Em que esporte os pilotos fazem paradas nos boxes para trocar pneus?",
+   "c": [
+    "A Fórmula 1",
+    "O golfe",
+    "O tênis",
+    "A natação"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel sport utilise les termes « tee », « fairway » et « green » ?",
+   "c": [
+    "Le tennis",
+    "Le golf",
+    "Le rugby",
+    "La boxe"
+   ]
+  },
+  "en": {
+   "q": "Which sport uses the terms tee, fairway and green?",
+   "c": [
+    "Tennis",
+    "Golf",
+    "Rugby",
+    "Boxing"
+   ]
+  },
+  "ar": {
+   "q": "أي رياضة تستخدم مصطلحات «تي» و«فيروي» و«غرين»؟",
+   "c": [
+    "التنس",
+    "الغولف",
+    "الرغبي",
+    "الملاكمة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué deporte usa los términos tee, calle (fairway) y green?",
+   "c": [
+    "El tenis",
+    "El golf",
+    "El rugby",
+    "El boxeo"
+   ]
+  },
+  "pt": {
+   "q": "Qual esporte usa os termos tee, fairway e green?",
+   "c": [
+    "O tênis",
+    "O golfe",
+    "O rúgbi",
+    "O boxe"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "À quel sport jouent les Los Angeles Lakers ?",
+   "c": [
+    "Basket-ball",
+    "Baseball",
+    "Football américain",
+    "Hockey sur glace"
+   ]
+  },
+  "en": {
+   "q": "Which sport do the Los Angeles Lakers play?",
+   "c": [
+    "Basketball",
+    "Baseball",
+    "American football",
+    "Ice hockey"
+   ]
+  },
+  "ar": {
+   "q": "أي رياضة يلعبها فريق لوس أنجلوس ليكرز؟",
+   "c": [
+    "كرة السلة",
+    "البيسبول",
+    "كرة القدم الأمريكية",
+    "الهوكي على الجليد"
+   ]
+  },
+  "es": {
+   "q": "¿Qué deporte practican Los Angeles Lakers?",
+   "c": [
+    "Baloncesto",
+    "Béisbol",
+    "Fútbol americano",
+    "Hockey sobre hielo"
+   ]
+  },
+  "pt": {
+   "q": "Que esporte os Los Angeles Lakers praticam?",
+   "c": [
+    "Basquete",
+    "Beisebol",
+    "Futebol americano",
+    "Hóquei no gelo"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quelle ceinture porte généralement un débutant en karaté ou en judo ?",
+   "c": [
+    "Noire",
+    "Rouge",
+    "Blanche",
+    "Verte"
+   ]
+  },
+  "en": {
+   "q": "What colour belt does a beginner usually wear in karate or judo?",
+   "c": [
+    "Black",
+    "Red",
+    "White",
+    "Green"
+   ]
+  },
+  "ar": {
+   "q": "ما لون الحزام الذي يرتديه المبتدئ عادةً في الكاراتيه أو الجودو؟",
+   "c": [
+    "الأسود",
+    "الأحمر",
+    "الأبيض",
+    "الأخضر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué color de cinturón lleva normalmente un principiante en kárate o judo?",
+   "c": [
+    "Negro",
+    "Rojo",
+    "Blanco",
+    "Verde"
+   ]
+  },
+  "pt": {
+   "q": "Que cor de faixa um iniciante costuma usar no caratê ou no judô?",
+   "c": [
+    "Preta",
+    "Vermelha",
+    "Branca",
+    "Verde"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Pour quel sport Simone Biles est-elle célèbre ?",
+   "c": [
+    "La natation",
+    "Le tennis",
+    "Le golf",
+    "La gymnastique"
+   ]
+  },
+  "en": {
+   "q": "Which sport is Simone Biles famous for?",
+   "c": [
+    "Swimming",
+    "Tennis",
+    "Golf",
+    "Gymnastics"
+   ]
+  },
+  "ar": {
+   "q": "في أي رياضة اشتهرت سيمون بايلز؟",
+   "c": [
+    "السباحة",
+    "التنس",
+    "الغولف",
+    "الجمباز"
+   ]
+  },
+  "es": {
+   "q": "¿Por qué deporte es famosa Simone Biles?",
+   "c": [
+    "La natación",
+    "El tenis",
+    "El golf",
+    "La gimnasia"
+   ]
+  },
+  "pt": {
+   "q": "Por qual esporte Simone Biles é famosa?",
+   "c": [
+    "A natação",
+    "O tênis",
+    "O golfe",
+    "A ginástica"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Dans quel sport utilise-t-on des avirons pour faire avancer un bateau ?",
+   "c": [
+    "L'aviron",
+    "Le cyclisme",
+    "La boxe",
+    "Le golf"
+   ]
+  },
+  "en": {
+   "q": "In which sport do athletes use oars to move a boat?",
+   "c": [
+    "Rowing",
+    "Cycling",
+    "Boxing",
+    "Golf"
+   ]
+  },
+  "ar": {
+   "q": "في أي رياضة تُستخدم المجاديف لتحريك قارب؟",
+   "c": [
+    "التجديف",
+    "ركوب الدراجات",
+    "الملاكمة",
+    "الغولف"
+   ]
+  },
+  "es": {
+   "q": "¿En qué deporte se usan remos para mover un bote?",
+   "c": [
+    "El remo",
+    "El ciclismo",
+    "El boxeo",
+    "El golf"
+   ]
+  },
+  "pt": {
+   "q": "Em que esporte se usam remos para mover um barco?",
+   "c": [
+    "O remo",
+    "O ciclismo",
+    "O boxe",
+    "O golfe"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Combien de joueurs y a-t-il de chaque côté dans un double au tennis ?",
+   "c": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "en": {
+   "q": "How many players are on each side in a tennis doubles match?",
+   "c": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "ar": {
+   "q": "كم لاعبًا في كل جانب في مباراة زوجية بالتنس؟",
+   "c": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos jugadores hay en cada lado en un partido de dobles de tenis?",
+   "c": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "pt": {
+   "q": "Quantos jogadores há de cada lado em uma partida de duplas de tênis?",
+   "c": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Lequel de ces sports est un sport olympique d'hiver ?",
+   "c": [
+    "La natation",
+    "Le cyclisme",
+    "Le tir à l'arc",
+    "Le snowboard"
+   ]
+  },
+  "en": {
+   "q": "Which of these is a Winter Olympic sport?",
+   "c": [
+    "Swimming",
+    "Cycling",
+    "Archery",
+    "Snowboarding"
+   ]
+  },
+  "ar": {
+   "q": "أي من هذه الرياضات رياضة أولمبية شتوية؟",
+   "c": [
+    "السباحة",
+    "ركوب الدراجات",
+    "الرماية بالقوس",
+    "التزلج على اللوح"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál de estos es un deporte olímpico de invierno?",
+   "c": [
+    "La natación",
+    "El ciclismo",
+    "El tiro con arco",
+    "El snowboard"
+   ]
+  },
+  "pt": {
+   "q": "Qual destes é um esporte olímpico de inverno?",
+   "c": [
+    "A natação",
+    "O ciclismo",
+    "O tiro com arco",
+    "O snowboard"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Dans quelle épreuve d'athlétisme saute-t-on dans un bac de sable en un seul saut ?",
+   "c": [
+    "Le saut en hauteur",
+    "Le lancer du javelot",
+    "Le saut en longueur",
+    "Le saut à la perche"
+   ]
+  },
+  "en": {
+   "q": "In which athletics event do you jump into a sandpit with a single leap?",
+   "c": [
+    "High jump",
+    "Javelin throw",
+    "Long jump",
+    "Pole vault"
+   ]
+  },
+  "ar": {
+   "q": "في أي سباق ألعاب قوى يقفز المتسابق إلى حفرة الرمل بقفزة واحدة؟",
+   "c": [
+    "الوثب العالي",
+    "رمي الرمح",
+    "الوثب الطويل",
+    "القفز بالزانة"
+   ]
+  },
+  "es": {
+   "q": "¿En qué prueba de atletismo se salta a un foso de arena con un solo salto?",
+   "c": [
+    "El salto de altura",
+    "El lanzamiento de jabalina",
+    "El salto de longitud",
+    "El salto con pértiga"
+   ]
+  },
+  "pt": {
+   "q": "Em qual prova do atletismo se salta em uma caixa de areia com um único salto?",
+   "c": [
+    "O salto em altura",
+    "O lançamento de dardo",
+    "O salto em distância",
+    "O salto com vara"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays est né le tennisman Rafael Nadal ?",
+   "c": [
+    "Argentine",
+    "Espagne",
+    "Portugal",
+    "Italie"
+   ]
+  },
+  "en": {
+   "q": "In which country was tennis star Rafael Nadal born?",
+   "c": [
+    "Argentina",
+    "Spain",
+    "Portugal",
+    "Italy"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد وُلد نجم التنس رافائيل نادال؟",
+   "c": [
+    "الأرجنتين",
+    "إسبانيا",
+    "البرتغال",
+    "إيطاليا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país nació el tenista Rafael Nadal?",
+   "c": [
+    "Argentina",
+    "España",
+    "Portugal",
+    "Italia"
+   ]
+  },
+  "pt": {
+   "q": "Em que país nasceu o tenista Rafael Nadal?",
+   "c": [
+    "Argentina",
+    "Espanha",
+    "Portugal",
+    "Itália"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Combien de points vaut un touchdown au football américain ?",
+   "c": [
+    "2",
+    "3",
+    "6",
+    "10"
+   ]
+  },
+  "en": {
+   "q": "How many points is a touchdown worth in American football?",
+   "c": [
+    "2",
+    "3",
+    "6",
+    "10"
+   ]
+  },
+  "ar": {
+   "q": "كم نقطة يساوي التاتش داون في كرة القدم الأمريكية؟",
+   "c": [
+    "2",
+    "3",
+    "6",
+    "10"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos puntos vale un touchdown en el fútbol americano?",
+   "c": [
+    "2",
+    "3",
+    "6",
+    "10"
+   ]
+  },
+  "pt": {
+   "q": "Quantos pontos vale um touchdown no futebol americano?",
+   "c": [
+    "2",
+    "3",
+    "6",
+    "10"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel sport comprend les épreuves de slalom et de descente ?",
+   "c": [
+    "Le ski",
+    "Le cyclisme",
+    "La natation",
+    "Le golf"
+   ]
+  },
+  "en": {
+   "q": "Which sport has slalom and downhill events?",
+   "c": [
+    "Skiing",
+    "Cycling",
+    "Swimming",
+    "Golf"
+   ]
+  },
+  "ar": {
+   "q": "أي رياضة تضم سباقَي «السلالوم» والانحدار؟",
+   "c": [
+    "التزلج",
+    "ركوب الدراجات",
+    "السباحة",
+    "الغولف"
+   ]
+  },
+  "es": {
+   "q": "¿Qué deporte tiene pruebas de eslalon y descenso?",
+   "c": [
+    "El esquí",
+    "El ciclismo",
+    "La natación",
+    "El golf"
+   ]
+  },
+  "pt": {
+   "q": "Que esporte tem provas de slalom e de descida?",
+   "c": [
+    "O esqui",
+    "O ciclismo",
+    "A natação",
+    "O golfe"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel sport collectif se joue dans une piscine avec un ballon et deux buts ?",
+   "c": [
+    "Le handball",
+    "Le basket-ball",
+    "Le cricket",
+    "Le water-polo"
+   ]
+  },
+  "en": {
+   "q": "Which team sport is played in a pool with a ball and two goals?",
+   "c": [
+    "Handball",
+    "Basketball",
+    "Cricket",
+    "Water polo"
+   ]
+  },
+  "ar": {
+   "q": "أي رياضة جماعية تُلعب في مسبح بكرة ومرميين؟",
+   "c": [
+    "كرة اليد",
+    "كرة السلة",
+    "الكريكيت",
+    "كرة الماء"
+   ]
+  },
+  "es": {
+   "q": "¿Qué deporte de equipo se juega en una piscina con un balón y dos porterías?",
+   "c": [
+    "El balonmano",
+    "El baloncesto",
+    "El críquet",
+    "El waterpolo"
+   ]
+  },
+  "pt": {
+   "q": "Que esporte coletivo se joga em uma piscina com bola e dois gols?",
+   "c": [
+    "O handebol",
+    "O basquete",
+    "O críquete",
+    "O polo aquático"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Dans quelle ville se sont tenus en 2021 les Jeux d'été reportés de 2020 ?",
+   "c": [
+    "Tokyo",
+    "Séoul",
+    "Osaka",
+    "Shanghai"
+   ]
+  },
+  "en": {
+   "q": "The Summer Olympics postponed from 2020 were held in 2021 in which city?",
+   "c": [
+    "Tokyo",
+    "Seoul",
+    "Osaka",
+    "Shanghai"
+   ]
+  },
+  "ar": {
+   "q": "في أي مدينة أُقيمت عام 2021 الألعاب الأولمبية الصيفية المؤجلة من 2020؟",
+   "c": [
+    "طوكيو",
+    "سيول",
+    "أوساكا",
+    "شنغهاي"
+   ]
+  },
+  "es": {
+   "q": "¿En qué ciudad se celebraron en 2021 los Juegos de verano aplazados de 2020?",
+   "c": [
+    "Tokio",
+    "Seúl",
+    "Osaka",
+    "Shanghái"
+   ]
+  },
+  "pt": {
+   "q": "Em que cidade foram realizados em 2021 os Jogos de verão adiados de 2020?",
+   "c": [
+    "Tóquio",
+    "Seul",
+    "Osaka",
+    "Xangai"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Dans quel sport lance-t-on de petites flèches sur une cible ronde ?",
+   "c": [
+    "Le tir à l'arc",
+    "Le golf",
+    "Les fléchettes",
+    "Le bowling"
+   ]
+  },
+  "en": {
+   "q": "In which game do you throw small arrows at a round board?",
+   "c": [
+    "Archery",
+    "Golf",
+    "Darts",
+    "Bowling"
+   ]
+  },
+  "ar": {
+   "q": "في أي لعبة تُرمى سهام صغيرة على لوحة دائرية؟",
+   "c": [
+    "الرماية بالقوس",
+    "الغولف",
+    "الدارتس",
+    "البولينغ"
+   ]
+  },
+  "es": {
+   "q": "¿En qué juego se lanzan dardos pequeños a una diana redonda?",
+   "c": [
+    "El tiro con arco",
+    "El golf",
+    "Los dardos",
+    "Los bolos"
+   ]
+  },
+  "pt": {
+   "q": "Em que jogo se lançam pequenos dardos em um alvo redondo?",
+   "c": [
+    "O tiro com arco",
+    "O golfe",
+    "Os dardos",
+    "O boliche"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Dans quelle ville brésilienne se trouve le célèbre stade du Maracanã ?",
+   "c": [
+    "São Paulo",
+    "Rio de Janeiro",
+    "Brasilia",
+    "Salvador"
+   ]
+  },
+  "en": {
+   "q": "In which Brazilian city is the famous Maracanã stadium?",
+   "c": [
+    "São Paulo",
+    "Rio de Janeiro",
+    "Brasília",
+    "Salvador"
+   ]
+  },
+  "ar": {
+   "q": "في أي مدينة برازيلية يقع ملعب ماراكانا الشهير؟",
+   "c": [
+    "ساو باولو",
+    "ريو دي جانيرو",
+    "برازيليا",
+    "سلفادور"
+   ]
+  },
+  "es": {
+   "q": "¿En qué ciudad brasileña está el famoso estadio Maracaná?",
+   "c": [
+    "São Paulo",
+    "Río de Janeiro",
+    "Brasilia",
+    "Salvador"
+   ]
+  },
+  "pt": {
+   "q": "Em que cidade brasileira fica o famoso estádio do Maracanã?",
+   "c": [
+    "São Paulo",
+    "Rio de Janeiro",
+    "Brasília",
+    "Salvador"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "De quelle couleur est le maillot traditionnel de l'équipe de football des Pays-Bas ?",
+   "c": [
+    "Orange",
+    "Bleu",
+    "Vert",
+    "Rouge"
+   ]
+  },
+  "en": {
+   "q": "What colour is the traditional home shirt of the Netherlands football team?",
+   "c": [
+    "Orange",
+    "Blue",
+    "Green",
+    "Red"
+   ]
+  },
+  "ar": {
+   "q": "ما لون القميص التقليدي لمنتخب هولندا لكرة القدم؟",
+   "c": [
+    "البرتقالي",
+    "الأزرق",
+    "الأخضر",
+    "الأحمر"
+   ]
+  },
+  "es": {
+   "q": "¿De qué color es la camiseta tradicional de la selección de fútbol de los Países Bajos?",
+   "c": [
+    "Naranja",
+    "Azul",
+    "Verde",
+    "Rojo"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a cor da camisa tradicional da seleção de futebol dos Países Baixos?",
+   "c": [
+    "Laranja",
+    "Azul",
+    "Verde",
+    "Vermelha"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quel sport utilise les termes service, smash et contre ?",
+   "c": [
+    "Le golf",
+    "Le baseball",
+    "La boxe",
+    "Le volley-ball"
+   ]
+  },
+  "en": {
+   "q": "Which sport uses the terms serve, spike and block?",
+   "c": [
+    "Golf",
+    "Baseball",
+    "Boxing",
+    "Volleyball"
+   ]
+  },
+  "ar": {
+   "q": "أي رياضة تستخدم مصطلحات الإرسال والتسديد الساحق والصد؟",
+   "c": [
+    "الغولف",
+    "البيسبول",
+    "الملاكمة",
+    "الكرة الطائرة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué deporte usa los términos saque, remate y bloqueo?",
+   "c": [
+    "El golf",
+    "El béisbol",
+    "El boxeo",
+    "El voleibol"
+   ]
+  },
+  "pt": {
+   "q": "Que esporte usa os termos saque, cortada e bloqueio?",
+   "c": [
+    "O golfe",
+    "O beisebol",
+    "O boxe",
+    "O vôlei"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Les équipes de quel continent disputent surtout la Copa América ?",
+   "c": [
+    "Europe",
+    "Afrique",
+    "Amérique du Sud",
+    "Asie"
+   ]
+  },
+  "en": {
+   "q": "Teams from which continent mainly compete in the Copa América?",
+   "c": [
+    "Europe",
+    "Africa",
+    "South America",
+    "Asia"
+   ]
+  },
+  "ar": {
+   "q": "منتخبات أي قارة تتنافس أساسًا في كوبا أمريكا؟",
+   "c": [
+    "أوروبا",
+    "أفريقيا",
+    "أمريكا الجنوبية",
+    "آسيا"
+   ]
+  },
+  "es": {
+   "q": "¿Las selecciones de qué continente disputan principalmente la Copa América?",
+   "c": [
+    "Europa",
+    "África",
+    "Sudamérica",
+    "Asia"
+   ]
+  },
+  "pt": {
+   "q": "As seleções de qual continente disputam principalmente a Copa América?",
+   "c": [
+    "Europa",
+    "África",
+    "América do Sul",
+    "Ásia"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Dans quel sport exécute-t-on des pirouettes et des sauts sur la glace en musique ?",
+   "c": [
+    "Le curling",
+    "Le patinage artistique",
+    "Le hockey sur glace",
+    "Le bobsleigh"
+   ]
+  },
+  "en": {
+   "q": "In which sport do athletes perform spins and jumps on ice to music?",
+   "c": [
+    "Curling",
+    "Figure skating",
+    "Ice hockey",
+    "Bobsled"
+   ]
+  },
+  "ar": {
+   "q": "في أي رياضة يؤدي اللاعبون دورانات وقفزات على الجليد مع الموسيقى؟",
+   "c": [
+    "الكيرلنغ",
+    "التزلج الفني على الجليد",
+    "الهوكي على الجليد",
+    "البوبسلاي"
+   ]
+  },
+  "es": {
+   "q": "¿En qué deporte se hacen giros y saltos sobre hielo con música?",
+   "c": [
+    "El curling",
+    "El patinaje artístico",
+    "El hockey sobre hielo",
+    "El bobsleigh"
+   ]
+  },
+  "pt": {
+   "q": "Em que esporte se fazem giros e saltos no gelo ao som de música?",
+   "c": [
+    "O curling",
+    "A patinação artística",
+    "O hóquei no gelo",
+    "O bobsled"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Au football, quel est le rôle principal d'un attaquant ?",
+   "c": [
+    "Arrêter les tirs",
+    "Arbitrer le match",
+    "Entraîner l'équipe",
+    "Marquer des buts"
+   ]
+  },
+  "en": {
+   "q": "In football, what is the main job of a striker?",
+   "c": [
+    "To save shots",
+    "To referee the match",
+    "To coach the team",
+    "To score goals"
+   ]
+  },
+  "ar": {
+   "q": "في كرة القدم، ما الدور الرئيسي للمهاجم؟",
+   "c": [
+    "صد التسديدات",
+    "تحكيم المباراة",
+    "تدريب الفريق",
+    "تسجيل الأهداف"
+   ]
+  },
+  "es": {
+   "q": "En el fútbol, ¿cuál es la función principal de un delantero?",
+   "c": [
+    "Detener tiros",
+    "Arbitrar el partido",
+    "Entrenar al equipo",
+    "Marcar goles"
+   ]
+  },
+  "pt": {
+   "q": "No futebol, qual é a função principal de um atacante?",
+   "c": [
+    "Defender chutes",
+    "Apitar a partida",
+    "Treinar a equipe",
+    "Marcar gols"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "De quel pays africain est originaire le marathonien Eliud Kipchoge ?",
+   "c": [
+    "Kenya",
+    "Nigeria",
+    "Afrique du Sud",
+    "Égypte"
+   ]
+  },
+  "en": {
+   "q": "Which African country is marathon star Eliud Kipchoge from?",
+   "c": [
+    "Kenya",
+    "Nigeria",
+    "South Africa",
+    "Egypt"
+   ]
+  },
+  "ar": {
+   "q": "من أي بلد أفريقي ينحدر عدّاء الماراثون إيليود كيبتشوغي؟",
+   "c": [
+    "كينيا",
+    "نيجيريا",
+    "جنوب أفريقيا",
+    "مصر"
+   ]
+  },
+  "es": {
+   "q": "¿De qué país africano es el maratoniano Eliud Kipchoge?",
+   "c": [
+    "Kenia",
+    "Nigeria",
+    "Sudáfrica",
+    "Egipto"
+   ]
+  },
+  "pt": {
+   "q": "De que país africano é o maratonista Eliud Kipchoge?",
+   "c": [
+    "Quênia",
+    "Nigéria",
+    "África do Sul",
+    "Egito"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel art martial japonais se pratique avec des sabres en bambou ?",
+   "c": [
+    "Le karaté",
+    "Le sumo",
+    "Le kendo",
+    "L'aïkido"
+   ]
+  },
+  "en": {
+   "q": "Which Japanese martial art is fought with bamboo swords?",
+   "c": [
+    "Karate",
+    "Sumo",
+    "Kendo",
+    "Aikido"
+   ]
+  },
+  "ar": {
+   "q": "أي فن قتالي ياباني يُمارَس بسيوف من الخيزران؟",
+   "c": [
+    "الكاراتيه",
+    "السومو",
+    "الكندو",
+    "الأيكيدو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué arte marcial japonés se practica con espadas de bambú?",
+   "c": [
+    "El kárate",
+    "El sumo",
+    "El kendo",
+    "El aikido"
+   ]
+  },
+  "pt": {
+   "q": "Qual arte marcial japonesa é praticada com espadas de bambu?",
+   "c": [
+    "O caratê",
+    "O sumô",
+    "O kendô",
+    "O aikidô"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Combien d'épreuves comprend un décathlon olympique ?",
+   "c": [
+    "5",
+    "8",
+    "10",
+    "12"
+   ]
+  },
+  "en": {
+   "q": "How many events make up an Olympic decathlon?",
+   "c": [
+    "5",
+    "8",
+    "10",
+    "12"
+   ]
+  },
+  "ar": {
+   "q": "كم عدد المسابقات في العشاري الأولمبي؟",
+   "c": [
+    "5",
+    "8",
+    "10",
+    "12"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántas pruebas componen un decatlón olímpico?",
+   "c": [
+    "5",
+    "8",
+    "10",
+    "12"
+   ]
+  },
+  "pt": {
+   "q": "Quantas provas compõem um decatlo olímpico?",
+   "c": [
+    "5",
+    "8",
+    "10",
+    "12"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel minuscule État méditerranéen accueille une célèbre course de F1 en ville ?",
+   "c": [
+    "Andorre",
+    "Monaco",
+    "Malte",
+    "Saint-Marin"
+   ]
+  },
+  "en": {
+   "q": "Which tiny Mediterranean state hosts a famous Formula 1 street race?",
+   "c": [
+    "Andorra",
+    "Monaco",
+    "Malta",
+    "San Marino"
+   ]
+  },
+  "ar": {
+   "q": "أي دولة صغيرة على المتوسط تستضيف سباق فورمولا 1 شهيرًا في شوارعها؟",
+   "c": [
+    "أندورا",
+    "موناكو",
+    "مالطا",
+    "سان مارينو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué pequeño Estado mediterráneo acoge un famoso Gran Premio de F1 en sus calles?",
+   "c": [
+    "Andorra",
+    "Mónaco",
+    "Malta",
+    "San Marino"
+   ]
+  },
+  "pt": {
+   "q": "Qual pequeno Estado mediterrâneo recebe um famoso GP de F1 em suas ruas?",
+   "c": [
+    "Andorra",
+    "Mônaco",
+    "Malta",
+    "San Marino"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Dans quel sport dispute-t-on le Kentucky Derby ?",
+   "c": [
+    "Les courses de chevaux",
+    "Le golf",
+    "Le rodéo",
+    "Le polo"
+   ]
+  },
+  "en": {
+   "q": "In which sport is the Kentucky Derby contested?",
+   "c": [
+    "Horse racing",
+    "Golf",
+    "Rodeo",
+    "Polo"
+   ]
+  },
+  "ar": {
+   "q": "في أي رياضة يُقام سباق كنتاكي ديربي؟",
+   "c": [
+    "سباق الخيل",
+    "الغولف",
+    "الروديو",
+    "البولو"
+   ]
+  },
+  "es": {
+   "q": "¿En qué deporte se disputa el Kentucky Derby?",
+   "c": [
+    "Las carreras de caballos",
+    "El golf",
+    "El rodeo",
+    "El polo"
+   ]
+  },
+  "pt": {
+   "q": "Em que esporte se disputa o Kentucky Derby?",
+   "c": [
+    "As corridas de cavalos",
+    "O golfe",
+    "O rodeio",
+    "O polo"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel sport se joue dans la célèbre ligue indienne IPL ?",
+   "c": [
+    "Le football",
+    "Le badminton",
+    "Le cricket",
+    "Le basket-ball"
+   ]
+  },
+  "en": {
+   "q": "Which sport is played in India's famous IPL league?",
+   "c": [
+    "Football",
+    "Badminton",
+    "Cricket",
+    "Basketball"
+   ]
+  },
+  "ar": {
+   "q": "ما الرياضة التي تُلعب في الدوري الهندي الشهير آي بي إل؟",
+   "c": [
+    "كرة القدم",
+    "الريشة الطائرة",
+    "الكريكيت",
+    "كرة السلة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué deporte se juega en la famosa liga india IPL?",
+   "c": [
+    "El fútbol",
+    "El bádminton",
+    "El críquet",
+    "El baloncesto"
+   ]
+  },
+  "pt": {
+   "q": "Que esporte se joga na famosa liga indiana IPL?",
+   "c": [
+    "O futebol",
+    "O badminton",
+    "O críquete",
+    "O basquete"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Le Giro, la Vuelta et le Tour de France sont les trois grands tours de quel sport ?",
+   "c": [
+    "L'athlétisme",
+    "Le sport automobile",
+    "La natation",
+    "Le cyclisme"
+   ]
+  },
+  "en": {
+   "q": "The Giro, the Vuelta and the Tour de France are the three Grand Tours of which sport?",
+   "c": [
+    "Athletics",
+    "Motorsport",
+    "Swimming",
+    "Cycling"
+   ]
+  },
+  "ar": {
+   "q": "جيرو وفويلتا وطواف فرنسا هي الجولات الكبرى الثلاث في أي رياضة؟",
+   "c": [
+    "ألعاب القوى",
+    "سباق السيارات",
+    "السباحة",
+    "ركوب الدراجات"
+   ]
+  },
+  "es": {
+   "q": "El Giro, la Vuelta y el Tour de Francia son las tres grandes vueltas de qué deporte?",
+   "c": [
+    "El atletismo",
+    "El automovilismo",
+    "La natación",
+    "El ciclismo"
+   ]
+  },
+  "pt": {
+   "q": "O Giro, a Vuelta e o Tour de France são as três grandes voltas de qual esporte?",
+   "c": [
+    "O atletismo",
+    "O automobilismo",
+    "A natação",
+    "O ciclismo"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Au golf, comment appelle-t-on le nombre de coups attendu sur un trou ?",
+   "c": [
+    "Birdie",
+    "Par",
+    "Eagle",
+    "Bogey"
+   ]
+  },
+  "en": {
+   "q": "In golf, what is the term for the expected number of strokes on a hole?",
+   "c": [
+    "Birdie",
+    "Par",
+    "Eagle",
+    "Bogey"
+   ]
+  },
+  "ar": {
+   "q": "في الغولف، ما اسم عدد الضربات المتوقع لإنهاء حفرة؟",
+   "c": [
+    "بيردي",
+    "بار",
+    "إيغل",
+    "بوغي"
+   ]
+  },
+  "es": {
+   "q": "En el golf, ¿cómo se llama el número de golpes previsto en un hoyo?",
+   "c": [
+    "Birdie",
+    "Par",
+    "Eagle",
+    "Bogey"
+   ]
+  },
+  "pt": {
+   "q": "No golfe, como se chama o número de tacadas previsto em um buraco?",
+   "c": [
+    "Birdie",
+    "Par",
+    "Eagle",
+    "Bogey"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Dans quelle ville australienne se tient l'Open d'Australie de tennis ?",
+   "c": [
+    "Sydney",
+    "Perth",
+    "Brisbane",
+    "Melbourne"
+   ]
+  },
+  "en": {
+   "q": "In which Australian city is the Australian Open tennis tournament held?",
+   "c": [
+    "Sydney",
+    "Perth",
+    "Brisbane",
+    "Melbourne"
+   ]
+  },
+  "ar": {
+   "q": "في أي مدينة أسترالية تقام بطولة أستراليا المفتوحة للتنس؟",
+   "c": [
+    "سيدني",
+    "بيرث",
+    "بريسبان",
+    "ملبورن"
+   ]
+  },
+  "es": {
+   "q": "¿En qué ciudad australiana se celebra el Abierto de Australia de tenis?",
+   "c": [
+    "Sídney",
+    "Perth",
+    "Brisbane",
+    "Melbourne"
+   ]
+  },
+  "pt": {
+   "q": "Em que cidade australiana é disputado o Aberto da Austrália de tênis?",
+   "c": [
+    "Sydney",
+    "Perth",
+    "Brisbane",
+    "Melbourne"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "De quel pays vient le footballeur Son Heung-min ?",
+   "c": [
+    "Japon",
+    "Corée du Sud",
+    "Chine",
+    "Thaïlande"
+   ]
+  },
+  "en": {
+   "q": "Which country is footballer Son Heung-min from?",
+   "c": [
+    "Japan",
+    "South Korea",
+    "China",
+    "Thailand"
+   ]
+  },
+  "ar": {
+   "q": "من أي بلد ينحدر لاعب كرة القدم سون هيونغ مين؟",
+   "c": [
+    "اليابان",
+    "كوريا الجنوبية",
+    "الصين",
+    "تايلاند"
+   ]
+  },
+  "es": {
+   "q": "¿De qué país es el futbolista Son Heung-min?",
+   "c": [
+    "Japón",
+    "Corea del Sur",
+    "China",
+    "Tailandia"
+   ]
+  },
+  "pt": {
+   "q": "De que país é o jogador Son Heung-min?",
+   "c": [
+    "Japão",
+    "Coreia do Sul",
+    "China",
+    "Tailândia"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel sport olympique comprend les styles gréco-romain et libre ?",
+   "c": [
+    "Le judo",
+    "La boxe",
+    "L'escrime",
+    "La lutte"
+   ]
+  },
+  "en": {
+   "q": "Which Olympic sport has Greco-Roman and freestyle styles?",
+   "c": [
+    "Judo",
+    "Boxing",
+    "Fencing",
+    "Wrestling"
+   ]
+  },
+  "ar": {
+   "q": "أي رياضة أولمبية تضم الأسلوبين الروماني اليوناني والحر؟",
+   "c": [
+    "الجودو",
+    "الملاكمة",
+    "المبارزة",
+    "المصارعة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué deporte olímpico tiene los estilos grecorromano y libre?",
+   "c": [
+    "El judo",
+    "El boxeo",
+    "La esgrima",
+    "La lucha"
+   ]
+  },
+  "pt": {
+   "q": "Que esporte olímpico tem os estilos greco-romano e livre?",
+   "c": [
+    "O judô",
+    "O boxe",
+    "A esgrima",
+    "A luta"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Dans quel sport le Chinois Yao Ming s'est-il illustré ?",
+   "c": [
+    "Le basket-ball",
+    "Le tennis de table",
+    "Le badminton",
+    "Le football"
+   ]
+  },
+  "en": {
+   "q": "Which sport made Chinese star Yao Ming famous?",
+   "c": [
+    "Basketball",
+    "Table tennis",
+    "Badminton",
+    "Football"
+   ]
+  },
+  "ar": {
+   "q": "في أي رياضة اشتهر الصيني ياو مينغ؟",
+   "c": [
+    "كرة السلة",
+    "تنس الطاولة",
+    "الريشة الطائرة",
+    "كرة القدم"
+   ]
+  },
+  "es": {
+   "q": "¿En qué deporte se hizo famoso el chino Yao Ming?",
+   "c": [
+    "Baloncesto",
+    "Tenis de mesa",
+    "Bádminton",
+    "Fútbol"
+   ]
+  },
+  "pt": {
+   "q": "Em que esporte o chinês Yao Ming ficou famoso?",
+   "c": [
+    "Basquete",
+    "Tênis de mesa",
+    "Badminton",
+    "Futebol"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quelle capitale latino-américaine a accueilli les Jeux d'été de 1968 ?",
+   "c": [
+    "Mexico",
+    "Buenos Aires",
+    "Lima",
+    "Bogota"
+   ]
+  },
+  "en": {
+   "q": "Which Latin American capital hosted the 1968 Summer Olympics?",
+   "c": [
+    "Mexico City",
+    "Buenos Aires",
+    "Lima",
+    "Bogotá"
+   ]
+  },
+  "ar": {
+   "q": "أي عاصمة في أمريكا اللاتينية استضافت الألعاب الأولمبية الصيفية عام 1968؟",
+   "c": [
+    "مكسيكو سيتي",
+    "بوينس آيرس",
+    "ليما",
+    "بوغوتا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué capital latinoamericana acogió los Juegos de verano de 1968?",
+   "c": [
+    "Ciudad de México",
+    "Buenos Aires",
+    "Lima",
+    "Bogotá"
+   ]
+  },
+  "pt": {
+   "q": "Qual capital latino-americana sediou os Jogos de verão de 1968?",
+   "c": [
+    "Cidade do México",
+    "Buenos Aires",
+    "Lima",
+    "Bogotá"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Dans quel sport l'Angleterre et l'Australie se disputent-elles « The Ashes » ?",
+   "c": [
+    "Le golf",
+    "Le tennis",
+    "La natation",
+    "Le cricket"
+   ]
+  },
+  "en": {
+   "q": "In which sport do England and Australia compete for The Ashes?",
+   "c": [
+    "Golf",
+    "Tennis",
+    "Swimming",
+    "Cricket"
+   ]
+  },
+  "ar": {
+   "q": "في أي رياضة تتنافس إنجلترا وأستراليا على «ذا آشز»؟",
+   "c": [
+    "الغولف",
+    "التنس",
+    "السباحة",
+    "الكريكيت"
+   ]
+  },
+  "es": {
+   "q": "¿En qué deporte compiten Inglaterra y Australia por «The Ashes»?",
+   "c": [
+    "El golf",
+    "El tenis",
+    "La natación",
+    "El críquet"
+   ]
+  },
+  "pt": {
+   "q": "Em que esporte Inglaterra e Austrália disputam «The Ashes»?",
+   "c": [
+    "O golfe",
+    "O tênis",
+    "A natação",
+    "O críquete"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Combien de sets un homme doit-il gagner pour remporter un match de tennis du Grand Chelem ?",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  "en": {
+   "q": "How many sets must a man win to take a Grand Slam tennis match?",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  "ar": {
+   "q": "كم مجموعة يجب أن يفوز بها الرجل ليكسب مباراة في بطولات التنس الأربع الكبرى؟",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos sets debe ganar un hombre para llevarse un partido de tenis de Grand Slam?",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  "pt": {
+   "q": "Quantos sets um homem precisa vencer para ganhar uma partida de tênis de Grand Slam?",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve le circuit de Suzuka, en Formule 1 ?",
+   "c": [
+    "Chine",
+    "Singapour",
+    "Japon",
+    "Thaïlande"
+   ]
+  },
+  "en": {
+   "q": "In which country is the Suzuka Formula 1 circuit located?",
+   "c": [
+    "China",
+    "Singapore",
+    "Japan",
+    "Thailand"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد تقع حلبة سوزوكا لسباقات الفورمولا 1؟",
+   "c": [
+    "الصين",
+    "سنغافورة",
+    "اليابان",
+    "تايلاند"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está el circuito de Suzuka, de Fórmula 1?",
+   "c": [
+    "China",
+    "Singapur",
+    "Japón",
+    "Tailandia"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica o circuito de Suzuka, da Fórmula 1?",
+   "c": [
+    "China",
+    "Singapura",
+    "Japão",
+    "Tailândia"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel pays est le berceau du football gaélique et du hurling ?",
+   "c": [
+    "L'Écosse",
+    "Le pays de Galles",
+    "L'Islande",
+    "L'Irlande"
+   ]
+  },
+  "en": {
+   "q": "Which country is the home of Gaelic football and hurling?",
+   "c": [
+    "Scotland",
+    "Wales",
+    "Iceland",
+    "Ireland"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد هو موطن كرة القدم الغيلية والهيرلينغ؟",
+   "c": [
+    "اسكتلندا",
+    "ويلز",
+    "آيسلندا",
+    "أيرلندا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país es la cuna del fútbol gaélico y el hurling?",
+   "c": [
+    "Escocia",
+    "Gales",
+    "Islandia",
+    "Irlanda"
+   ]
+  },
+  "pt": {
+   "q": "Qual país é o berço do futebol gaélico e do hurling?",
+   "c": [
+    "Escócia",
+    "País de Gales",
+    "Islândia",
+    "Irlanda"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Combien de points vaut un field goal au football américain ?",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "6"
+   ]
+  },
+  "en": {
+   "q": "How many points is a field goal worth in American football?",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "6"
+   ]
+  },
+  "ar": {
+   "q": "كم نقطة يساوي الفيلد غول في كرة القدم الأمريكية؟",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "6"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos puntos vale un field goal en el fútbol americano?",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "6"
+   ]
+  },
+  "pt": {
+   "q": "Quantos pontos vale um field goal no futebol americano?",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "6"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Dans quel sport dispute-t-on la Coupe Davis ?",
+   "c": [
+    "Le tennis",
+    "Le golf",
+    "Le rugby",
+    "Le cricket"
+   ]
+  },
+  "en": {
+   "q": "In which sport is the Davis Cup contested?",
+   "c": [
+    "Tennis",
+    "Golf",
+    "Rugby",
+    "Cricket"
+   ]
+  },
+  "ar": {
+   "q": "في أي رياضة تُقام كأس ديفيس؟",
+   "c": [
+    "التنس",
+    "الغولف",
+    "الرغبي",
+    "الكريكيت"
+   ]
+  },
+  "es": {
+   "q": "¿En qué deporte se disputa la Copa Davis?",
+   "c": [
+    "El tenis",
+    "El golf",
+    "El rugby",
+    "El críquet"
+   ]
+  },
+  "pt": {
+   "q": "Em que esporte se disputa a Copa Davis?",
+   "c": [
+    "O tênis",
+    "O golfe",
+    "O rúgbi",
+    "O críquete"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "L'équipe de football de quel pays est surnommée « les Éléphants » ?",
+   "c": [
+    "Ghana",
+    "Sénégal",
+    "Côte d'Ivoire",
+    "Cameroun"
+   ]
+  },
+  "en": {
+   "q": "Which country's football team is nicknamed The Elephants?",
+   "c": [
+    "Ghana",
+    "Senegal",
+    "Ivory Coast",
+    "Cameroon"
+   ]
+  },
+  "ar": {
+   "q": "منتخب أي بلد لكرة القدم يُلقَّب بـ«الأفيال»؟",
+   "c": [
+    "غانا",
+    "السنغال",
+    "ساحل العاج",
+    "الكاميرون"
+   ]
+  },
+  "es": {
+   "q": "¿La selección de fútbol de qué país es apodada «Los Elefantes»?",
+   "c": [
+    "Ghana",
+    "Senegal",
+    "Costa de Marfil",
+    "Camerún"
+   ]
+  },
+  "pt": {
+   "q": "A seleção de futebol de qual país é apelidada de «Elefantes»?",
+   "c": [
+    "Gana",
+    "Senegal",
+    "Costa do Marfim",
+    "Camarões"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quelle équipe nationale est surnommée « La Albiceleste » ?",
+   "c": [
+    "Argentine",
+    "Uruguay",
+    "Chili",
+    "Paraguay"
+   ]
+  },
+  "en": {
+   "q": "Which national team is nicknamed La Albiceleste?",
+   "c": [
+    "Argentina",
+    "Uruguay",
+    "Chile",
+    "Paraguay"
+   ]
+  },
+  "ar": {
+   "q": "أي منتخب وطني يُلقَّب بـ«لا ألبيسيليستي»؟",
+   "c": [
+    "الأرجنتين",
+    "الأوروغواي",
+    "تشيلي",
+    "باراغواي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué selección es apodada «La Albiceleste»?",
+   "c": [
+    "Argentina",
+    "Uruguay",
+    "Chile",
+    "Paraguay"
+   ]
+  },
+  "pt": {
+   "q": "Qual seleção é apelidada de «La Albiceleste»?",
+   "c": [
+    "Argentina",
+    "Uruguai",
+    "Chile",
+    "Paraguai"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "L'équipe de rugby de quel pays est surnommée les « Springboks » ?",
+   "c": [
+    "Australie",
+    "Canada",
+    "Fidji",
+    "Afrique du Sud"
+   ]
+  },
+  "en": {
+   "q": "Which country's rugby team is nicknamed the Springboks?",
+   "c": [
+    "Australia",
+    "Canada",
+    "Fiji",
+    "South Africa"
+   ]
+  },
+  "ar": {
+   "q": "منتخب الرغبي في أي بلد يُلقَّب بـ«سبرينغبوكس»؟",
+   "c": [
+    "أستراليا",
+    "كندا",
+    "فيجي",
+    "جنوب أفريقيا"
+   ]
+  },
+  "es": {
+   "q": "¿La selección de rugby de qué país es apodada «Springboks»?",
+   "c": [
+    "Australia",
+    "Canadá",
+    "Fiyi",
+    "Sudáfrica"
+   ]
+  },
+  "pt": {
+   "q": "A seleção de rúgbi de qual país é apelidada de «Springboks»?",
+   "c": [
+    "Austrália",
+    "Canadá",
+    "Fiji",
+    "África do Sul"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel pays a accueilli la Coupe du monde de football 1994 ?",
+   "c": [
+    "Espagne",
+    "États-Unis",
+    "Italie",
+    "Suède"
+   ]
+  },
+  "en": {
+   "q": "Which country hosted the 1994 FIFA World Cup?",
+   "c": [
+    "Spain",
+    "United States",
+    "Italy",
+    "Sweden"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد استضاف كأس العالم لكرة القدم 1994؟",
+   "c": [
+    "إسبانيا",
+    "الولايات المتحدة",
+    "إيطاليا",
+    "السويد"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país organizó el Mundial de fútbol de 1994?",
+   "c": [
+    "España",
+    "Estados Unidos",
+    "Italia",
+    "Suecia"
+   ]
+  },
+  "pt": {
+   "q": "Qual país sediou a Copa do Mundo de futebol de 1994?",
+   "c": [
+    "Espanha",
+    "Estados Unidos",
+    "Itália",
+    "Suécia"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quel est le score maximal avec trois fléchettes en un tour ?",
+   "c": [
+    "120",
+    "150",
+    "180",
+    "200"
+   ]
+  },
+  "en": {
+   "q": "What is the maximum score with three darts in one turn?",
+   "c": [
+    "120",
+    "150",
+    "180",
+    "200"
+   ]
+  },
+  "ar": {
+   "q": "ما أعلى نتيجة ممكنة بثلاثة سهام في دور واحد؟",
+   "c": [
+    "120",
+    "150",
+    "180",
+    "200"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es la puntuación máxima con tres dardos en un turno?",
+   "c": [
+    "120",
+    "150",
+    "180",
+    "200"
+   ]
+  },
+  "pt": {
+   "q": "Qual é a pontuação máxima com três dardos em uma rodada?",
+   "c": [
+    "120",
+    "150",
+    "180",
+    "200"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quelle ville asiatique a accueilli les Jeux d'été de 1988 ?",
+   "c": [
+    "Tokyo",
+    "Pékin",
+    "Séoul",
+    "Bangkok"
+   ]
+  },
+  "en": {
+   "q": "Which Asian city hosted the 1988 Summer Olympics?",
+   "c": [
+    "Tokyo",
+    "Beijing",
+    "Seoul",
+    "Bangkok"
+   ]
+  },
+  "ar": {
+   "q": "أي مدينة آسيوية استضافت الألعاب الأولمبية الصيفية عام 1988؟",
+   "c": [
+    "طوكيو",
+    "بكين",
+    "سيول",
+    "بانكوك"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ciudad asiática acogió los Juegos de verano de 1988?",
+   "c": [
+    "Tokio",
+    "Pekín",
+    "Seúl",
+    "Bangkok"
+   ]
+  },
+  "pt": {
+   "q": "Qual cidade asiática sediou os Jogos de verão de 1988?",
+   "c": [
+    "Tóquio",
+    "Pequim",
+    "Seul",
+    "Bangcoc"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quel pays a remporté la Coupe du monde de football 2006 ?",
+   "c": [
+    "France",
+    "Allemagne",
+    "Portugal",
+    "Italie"
+   ]
+  },
+  "en": {
+   "q": "Which country won the 2006 FIFA World Cup?",
+   "c": [
+    "France",
+    "Germany",
+    "Portugal",
+    "Italy"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد فاز بكأس العالم لكرة القدم 2006؟",
+   "c": [
+    "فرنسا",
+    "ألمانيا",
+    "البرتغال",
+    "إيطاليا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país ganó el Mundial de fútbol de 2006?",
+   "c": [
+    "Francia",
+    "Alemania",
+    "Portugal",
+    "Italia"
+   ]
+  },
+  "pt": {
+   "q": "Qual país venceu a Copa do Mundo de futebol de 2006?",
+   "c": [
+    "França",
+    "Alemanha",
+    "Portugal",
+    "Itália"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quel pays a remporté le plus de médailles d'or olympiques en tennis de table ?",
+   "c": [
+    "Hongrie",
+    "Chine",
+    "Suède",
+    "Allemagne"
+   ]
+  },
+  "en": {
+   "q": "Which country has won the most Olympic table tennis gold medals?",
+   "c": [
+    "Hungary",
+    "China",
+    "Sweden",
+    "Germany"
+   ]
+  },
+  "ar": {
+   "q": "أي بلد حصد أكبر عدد من الميداليات الذهبية الأولمبية في تنس الطاولة؟",
+   "c": [
+    "المجر",
+    "الصين",
+    "السويد",
+    "ألمانيا"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país ha ganado más oros olímpicos en tenis de mesa?",
+   "c": [
+    "Hungría",
+    "China",
+    "Suecia",
+    "Alemania"
+   ]
+  },
+  "pt": {
+   "q": "Qual país conquistou mais ouros olímpicos no tênis de mesa?",
+   "c": [
+    "Hungria",
+    "China",
+    "Suécia",
+    "Alemanha"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quelle ville canadienne a accueilli les Jeux d'hiver de 2010 ?",
+   "c": [
+    "Vancouver",
+    "Toronto",
+    "Calgary",
+    "Montréal"
+   ]
+  },
+  "en": {
+   "q": "Which Canadian city hosted the 2010 Winter Olympics?",
+   "c": [
+    "Vancouver",
+    "Toronto",
+    "Calgary",
+    "Montreal"
+   ]
+  },
+  "ar": {
+   "q": "أي مدينة كندية استضافت الألعاب الأولمبية الشتوية عام 2010؟",
+   "c": [
+    "فانكوفر",
+    "تورونتو",
+    "كالغاري",
+    "مونتريال"
+   ]
+  },
+  "es": {
+   "q": "¿Qué ciudad canadiense acogió los Juegos de invierno de 2010?",
+   "c": [
+    "Vancouver",
+    "Toronto",
+    "Calgary",
+    "Montreal"
+   ]
+  },
+  "pt": {
+   "q": "Qual cidade canadense sediou os Jogos de inverno de 2010?",
+   "c": [
+    "Vancouver",
+    "Toronto",
+    "Calgary",
+    "Montreal"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Dans quelle ville est basé le club de football Boca Juniors ?",
+   "c": [
+    "Santiago",
+    "Lima",
+    "Montevideo",
+    "Buenos Aires"
+   ]
+  },
+  "en": {
+   "q": "In which city is the football club Boca Juniors based?",
+   "c": [
+    "Santiago",
+    "Lima",
+    "Montevideo",
+    "Buenos Aires"
+   ]
+  },
+  "ar": {
+   "q": "في أي مدينة يقع نادي كرة القدم بوكا جونيورز؟",
+   "c": [
+    "سانتياغو",
+    "ليما",
+    "مونتيفيديو",
+    "بوينس آيرس"
+   ]
+  },
+  "es": {
+   "q": "¿En qué ciudad tiene su sede el club Boca Juniors?",
+   "c": [
+    "Santiago",
+    "Lima",
+    "Montevideo",
+    "Buenos Aires"
+   ]
+  },
+  "pt": {
+   "q": "Em que cidade fica o clube Boca Juniors?",
+   "c": [
+    "Santiago",
+    "Lima",
+    "Montevidéu",
+    "Buenos Aires"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve le siège du Comité international olympique ?",
+   "c": [
+    "France",
+    "Suisse",
+    "Autriche",
+    "Belgique"
+   ]
+  },
+  "en": {
+   "q": "In which country is the International Olympic Committee headquartered?",
+   "c": [
+    "France",
+    "Switzerland",
+    "Austria",
+    "Belgium"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد يقع مقر اللجنة الأولمبية الدولية؟",
+   "c": [
+    "فرنسا",
+    "سويسرا",
+    "النمسا",
+    "بلجيكا"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país tiene su sede el Comité Olímpico Internacional?",
+   "c": [
+    "Francia",
+    "Suiza",
+    "Austria",
+    "Bélgica"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica a sede do Comitê Olímpico Internacional?",
+   "c": [
+    "França",
+    "Suíça",
+    "Áustria",
+    "Bélgica"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Combien de jeux faut-il gagner, au minimum, pour remporter un set au tennis ?",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "8"
+   ]
+  },
+  "en": {
+   "q": "How many games must you win, at least, to take a set in tennis?",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "8"
+   ]
+  },
+  "ar": {
+   "q": "كم شوطًا يجب أن تفوز به على الأقل لكسب مجموعة في التنس؟",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "8"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos juegos hay que ganar, como mínimo, para llevarse un set en tenis?",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "8"
+   ]
+  },
+  "pt": {
+   "q": "Quantos games é preciso ganhar, no mínimo, para vencer um set no tênis?",
+   "c": [
+    "4",
+    "5",
+    "6",
+    "8"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Dans quel sport dispute-t-on l'America's Cup ?",
+   "c": [
+    "La voile",
+    "L'aviron",
+    "Le golf",
+    "Le cyclisme"
+   ]
+  },
+  "en": {
+   "q": "In which sport is the America's Cup contested?",
+   "c": [
+    "Sailing",
+    "Rowing",
+    "Golf",
+    "Cycling"
+   ]
+  },
+  "ar": {
+   "q": "في أي رياضة تُقام كأس أمريكا (America's Cup)؟",
+   "c": [
+    "الإبحار الشراعي",
+    "التجديف",
+    "الغولف",
+    "ركوب الدراجات"
+   ]
+  },
+  "es": {
+   "q": "¿En qué deporte se disputa la America's Cup?",
+   "c": [
+    "La vela",
+    "El remo",
+    "El golf",
+    "El ciclismo"
+   ]
+  },
+  "pt": {
+   "q": "Em que esporte se disputa a America's Cup?",
+   "c": [
+    "A vela",
+    "O remo",
+    "O golfe",
+    "O ciclismo"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Dans quel pays se trouve la ville de Marathon, qui a donné son nom à la course ?",
+   "c": [
+    "Espagne",
+    "Turquie",
+    "Grèce",
+    "Égypte"
+   ]
+  },
+  "en": {
+   "q": "Which country is home to the town of Marathon, which gave its name to the race?",
+   "c": [
+    "Spain",
+    "Turkey",
+    "Greece",
+    "Egypt"
+   ]
+  },
+  "ar": {
+   "q": "في أي بلد تقع بلدة ماراثون التي أعطت اسمها للسباق؟",
+   "c": [
+    "إسبانيا",
+    "تركيا",
+    "اليونان",
+    "مصر"
+   ]
+  },
+  "es": {
+   "q": "¿En qué país está la ciudad de Maratón, que dio nombre a la carrera?",
+   "c": [
+    "España",
+    "Turquía",
+    "Grecia",
+    "Egipto"
+   ]
+  },
+  "pt": {
+   "q": "Em que país fica a cidade de Maratona, que deu nome à corrida?",
+   "c": [
+    "Espanha",
+    "Turquia",
+    "Grécia",
+    "Egito"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quel sport olympique d'hiver combine ski de fond et tir à la carabine ?",
+   "c": [
+    "Le triathlon",
+    "Le biathlon",
+    "Le pentathlon",
+    "Le décathlon"
+   ]
+  },
+  "en": {
+   "q": "Which Winter Olympic sport combines cross-country skiing and rifle shooting?",
+   "c": [
+    "Triathlon",
+    "Biathlon",
+    "Pentathlon",
+    "Decathlon"
+   ]
+  },
+  "ar": {
+   "q": "أي رياضة أولمبية شتوية تجمع بين التزلج الريفي والرماية بالبندقية؟",
+   "c": [
+    "الترياثلون",
+    "البياثلون",
+    "الخماسي",
+    "العشاري"
+   ]
+  },
+  "es": {
+   "q": "¿Qué deporte olímpico de invierno combina esquí de fondo y tiro con rifle?",
+   "c": [
+    "El triatlón",
+    "El biatlón",
+    "El pentatlón",
+    "El decatlón"
+   ]
+  },
+  "pt": {
+   "q": "Qual esporte olímpico de inverno combina esqui cross-country e tiro com rifle?",
+   "c": [
+    "O triatlo",
+    "O biatlo",
+    "O pentatlo",
+    "O decatlo"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "L'équipe de football de quel pays est surnommée « Samurai Blue » ?",
+   "c": [
+    "Thaïlande",
+    "Viêt Nam",
+    "Indonésie",
+    "Japon"
+   ]
+  },
+  "en": {
+   "q": "Which country's football team is nicknamed Samurai Blue?",
+   "c": [
+    "Thailand",
+    "Vietnam",
+    "Indonesia",
+    "Japan"
+   ]
+  },
+  "ar": {
+   "q": "منتخب أي بلد لكرة القدم يُلقَّب بـ«الساموراي الأزرق»؟",
+   "c": [
+    "تايلاند",
+    "فيتنام",
+    "إندونيسيا",
+    "اليابان"
+   ]
+  },
+  "es": {
+   "q": "¿La selección de fútbol de qué país es apodada «Samurai Blue»?",
+   "c": [
+    "Tailandia",
+    "Vietnam",
+    "Indonesia",
+    "Japón"
+   ]
+  },
+  "pt": {
+   "q": "A seleção de futebol de qual país é apelidada de «Samurai Blue»?",
+   "c": [
+    "Tailândia",
+    "Vietnã",
+    "Indonésia",
+    "Japão"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Combien de joueurs compte chaque équipe en beach-volley aux Jeux olympiques ?",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "6"
+   ]
+  },
+  "en": {
+   "q": "How many players are on each team in Olympic beach volleyball?",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "6"
+   ]
+  },
+  "ar": {
+   "q": "كم لاعبًا في كل فريق في الكرة الطائرة الشاطئية بالألعاب الأولمبية؟",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "6"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos jugadores tiene cada equipo en voleibol de playa en los Juegos Olímpicos?",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "6"
+   ]
+  },
+  "pt": {
+   "q": "Quantos jogadores tem cada equipe no vôlei de praia nos Jogos Olímpicos?",
+   "c": [
+    "2",
+    "3",
+    "4",
+    "6"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
    "q": "Quel pays a accueilli les Jeux olympiques d'été de 2016 ?",
    "c": [
     "Le Royaume-Uni",
@@ -6347,7 +9347,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6397,7 +9397,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6447,7 +9447,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6497,7 +9497,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6547,7 +9547,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6597,7 +9597,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6647,7 +9647,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6697,7 +9697,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6747,7 +9747,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6797,7 +9797,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6847,7 +9847,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6897,11 +9897,11 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "type": "match",
-  "level": 13,
+  "level": 18,
   "image": null,
   "a": 0,
   "fr": {
@@ -7058,7 +10058,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7108,7 +10108,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7158,7 +10158,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7208,7 +10208,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7258,7 +10258,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7308,7 +10308,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7358,7 +10358,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7408,7 +10408,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7458,7 +10458,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7508,7 +10508,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7558,57 +10558,57 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
-   "q": "Quel footballeur algérien a remporté la Premier League avec Leicester City en 2016 ?",
+   "q": "Quelle joueuse japonaise a battu Serena Williams en finale de l'US Open 2018 ?",
    "c": [
-    "Sofiane Feghouli",
-    "Riyad Mahrez",
-    "Yacine Brahimi",
-    "Baghdad Bounedjah"
+    "Ashleigh Barty",
+    "Li Na",
+    "Naomi Osaka",
+    "Kimiko Date"
    ]
   },
   "en": {
-   "q": "Which Algerian footballer won the Premier League with Leicester City in 2016?",
+   "q": "Which Japanese player beat Serena Williams in the 2018 US Open final?",
    "c": [
-    "Sofiane Feghouli",
-    "Riyad Mahrez",
-    "Yacine Brahimi",
-    "Baghdad Bounedjah"
+    "Ashleigh Barty",
+    "Li Na",
+    "Naomi Osaka",
+    "Kimiko Date"
    ]
   },
   "ar": {
-   "q": "أي لاعب كرة قدم جزائري فاز بالدوري الإنجليزي الممتاز مع ليستر سيتي عام 2016؟",
+   "q": "أي لاعبة يابانية هزمت سيرينا ويليامز في نهائي أمريكا المفتوحة 2018؟",
    "c": [
-    "سفيان فيغولي",
-    "رياض محرز",
-    "ياسين براهيمي",
-    "بغداد بونجاح"
+    "آشلي بارتي",
+    "لي نا",
+    "ناومي أوساكا",
+    "كيميكو داتي"
    ]
   },
   "es": {
-   "q": "¿Qué futbolista argelino ganó la Premier League con el Leicester City en 2016?",
+   "q": "¿Qué tenista japonesa venció a Serena Williams en la final del US Open 2018?",
    "c": [
-    "Sofiane Feghouli",
-    "Riyad Mahrez",
-    "Yacine Brahimi",
-    "Baghdad Bounedjah"
+    "Ashleigh Barty",
+    "Li Na",
+    "Naomi Osaka",
+    "Kimiko Date"
    ]
   },
   "pt": {
-   "q": "Que futebolista argelino venceu a Premier League com o Leicester City em 2016?",
+   "q": "Qual tenista japonesa venceu Serena Williams na final do US Open de 2018?",
    "c": [
-    "Sofiane Feghouli",
-    "Riyad Mahrez",
-    "Yacine Brahimi",
-    "Baghdad Bounedjah"
+    "Ashleigh Barty",
+    "Li Na",
+    "Naomi Osaka",
+    "Kimiko Date"
    ]
   },
-  "a": 1,
+  "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7658,57 +10658,57 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
-   "q": "Quelle athlète algérienne a remporté l'or sur 1500 m aux Jeux olympiques de Barcelone en 1992 ?",
+   "q": "Dans quelle ville se trouve le circuit de Formule 1 de Yas Marina ?",
    "c": [
-    "Hassiba Boulmerka",
-    "Nouria Mérah-Benida",
-    "Souad Aït Salem",
-    "Salima Souakri"
+    "Abou Dabi",
+    "Dubaï",
+    "Doha",
+    "Manama"
    ]
   },
   "en": {
-   "q": "Which Algerian athlete won gold in the 1500 m at the 1992 Barcelona Olympics?",
+   "q": "In which city is the Yas Marina Formula 1 circuit located?",
    "c": [
-    "Hassiba Boulmerka",
-    "Nouria Mérah-Benida",
-    "Souad Aït Salem",
-    "Salima Souakri"
+    "Abu Dhabi",
+    "Dubai",
+    "Doha",
+    "Manama"
    ]
   },
   "ar": {
-   "q": "أي عدّاءة جزائرية فازت بذهبية 1500 متر في أولمبياد برشلونة 1992؟",
+   "q": "في أي مدينة تقع حلبة ياس مارينا للفورمولا 1؟",
    "c": [
-    "حسيبة بولمرقة",
-    "نورية مراح بن يدة",
-    "سعاد آيت سالم",
-    "سليمة سواكري"
+    "أبوظبي",
+    "دبي",
+    "الدوحة",
+    "المنامة"
    ]
   },
   "es": {
-   "q": "¿Qué atleta argelina ganó el oro en los 1500 m en los Juegos Olímpicos de Barcelona 1992?",
+   "q": "¿En qué ciudad está el circuito de Fórmula 1 de Yas Marina?",
    "c": [
-    "Hassiba Boulmerka",
-    "Nouria Mérah-Benida",
-    "Souad Aït Salem",
-    "Salima Souakri"
+    "Abu Dabi",
+    "Dubái",
+    "Doha",
+    "Manama"
    ]
   },
   "pt": {
-   "q": "Que atleta argelina ganhou o ouro nos 1500 m nos Jogos Olímpicos de Barcelona 1992?",
+   "q": "Em que cidade fica o circuito de Fórmula 1 de Yas Marina?",
    "c": [
-    "Hassiba Boulmerka",
-    "Nouria Mérah-Benida",
-    "Souad Aït Salem",
-    "Salima Souakri"
+    "Abu Dhabi",
+    "Dubai",
+    "Doha",
+    "Manama"
    ]
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7758,7 +10758,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7808,61 +10808,61 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
-   "q": "Quelle équipe a remporté la Coupe d'Afrique des nations 2019 en Égypte ?",
+   "q": "Quel nageur australien était surnommé « The Thorpedo » ?",
    "c": [
-    "Le Nigeria",
-    "L'Algérie",
-    "Le Sénégal",
-    "L'Égypte"
+    "Grant Hackett",
+    "Kyle Chalmers",
+    "Michael Klim",
+    "Ian Thorpe"
    ]
   },
   "en": {
-   "q": "Which team won the 2019 Africa Cup of Nations in Egypt?",
+   "q": "Which Australian swimmer was nicknamed The Thorpedo?",
    "c": [
-    "Nigeria",
-    "Algeria",
-    "Senegal",
-    "Egypt"
+    "Grant Hackett",
+    "Kyle Chalmers",
+    "Michael Klim",
+    "Ian Thorpe"
    ]
   },
   "ar": {
-   "q": "أي منتخب فاز بكأس أمم أفريقيا 2019 في مصر؟",
+   "q": "أي سبّاح أسترالي لُقِّب بـ«ذا ثوربيدو»؟",
    "c": [
-    "نيجيريا",
-    "الجزائر",
-    "السنغال",
-    "مصر"
+    "غرانت هاكيت",
+    "كايل تشالمرز",
+    "مايكل كليم",
+    "إيان ثورب"
    ]
   },
   "es": {
-   "q": "¿Qué selección ganó la Copa Africana de Naciones 2019 en Egipto?",
+   "q": "¿Qué nadador australiano era apodado «The Thorpedo»?",
    "c": [
-    "Nigeria",
-    "Argelia",
-    "Senegal",
-    "Egipto"
+    "Grant Hackett",
+    "Kyle Chalmers",
+    "Michael Klim",
+    "Ian Thorpe"
    ]
   },
   "pt": {
-   "q": "Que seleção venceu a Taça das Nações Africanas de 2019 no Egito?",
+   "q": "Que nadador australiano era apelidado de «The Thorpedo»?",
    "c": [
-    "A Nigéria",
-    "A Argélia",
-    "O Senegal",
-    "O Egito"
+    "Grant Hackett",
+    "Kyle Chalmers",
+    "Michael Klim",
+    "Ian Thorpe"
    ]
   },
-  "a": 1,
+  "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "type": "order",
-  "level": 14,
+  "level": 19,
   "image": null,
   "a": 0,
   "fr": {
@@ -7913,7 +10913,7 @@
  },
  {
   "type": "number",
-  "level": 14,
+  "level": 19,
   "image": null,
   "a": 42,
   "min": 20,
@@ -7989,7 +10989,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8039,7 +11039,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8089,7 +11089,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8139,7 +11139,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8189,7 +11189,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8239,7 +11239,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8289,7 +11289,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8339,7 +11339,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8389,7 +11389,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8439,7 +11439,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8489,7 +11489,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8539,7 +11539,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8589,7 +11589,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8639,7 +11639,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8689,7 +11689,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8739,7 +11739,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8789,7 +11789,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8839,61 +11839,61 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
-  "en": {
-   "q": "Which Algerian runner won the 1500 m gold medal at the 1996 Atlanta Olympics?",
-   "c": [
-    "Taoufik Makhloufi",
-    "Noureddine Morceli",
-    "Hicham El Guerrouj",
-    "Said Aouita"
-   ]
-  },
   "fr": {
-   "q": "Quel coureur algérien a remporté l'or sur 1500 m aux Jeux olympiques d'Atlanta en 1996 ?",
+   "q": "L'équipe nationale de rugby de quel pays est surnommée « Los Pumas » ?",
    "c": [
-    "Taoufik Makhloufi",
-    "Noureddine Morceli",
-    "Hicham El Guerrouj",
-    "Said Aouita"
+    "Chili",
+    "Argentine",
+    "Uruguay",
+    "Mexique"
    ]
   },
-  "es": {
-   "q": "¿Qué corredor argelino ganó el oro en 1500 m en los Juegos Olímpicos de Atlanta 1996?",
+  "en": {
+   "q": "Which country's national rugby team is nicknamed Los Pumas?",
    "c": [
-    "Taoufik Makhloufi",
-    "Noureddine Morceli",
-    "Hicham El Guerrouj",
-    "Said Aouita"
-   ]
-  },
-  "pt": {
-   "q": "Qual corredor argelino conquistou o ouro nos 1500 m nos Jogos Olímpicos de Atlanta 1996?",
-   "c": [
-    "Taoufik Makhloufi",
-    "Noureddine Morceli",
-    "Hicham El Guerrouj",
-    "Said Aouita"
+    "Chile",
+    "Argentina",
+    "Uruguay",
+    "Mexico"
    ]
   },
   "ar": {
-   "q": "أي عدّاء جزائري فاز بذهبية 1500 متر في أولمبياد أتلانتا 1996؟",
+   "q": "منتخب الرغبي في أي بلد يُلقَّب بـ«لوس بوماس»؟",
    "c": [
-    "توفيق مخلوفي",
-    "نور الدين مرسلي",
-    "هشام الكروج",
-    "سعيد عويطة"
+    "تشيلي",
+    "الأرجنتين",
+    "الأوروغواي",
+    "المكسيك"
+   ]
+  },
+  "es": {
+   "q": "¿La selección de rugby de qué país es apodada «Los Pumas»?",
+   "c": [
+    "Chile",
+    "Argentina",
+    "Uruguay",
+    "México"
+   ]
+  },
+  "pt": {
+   "q": "A seleção de rúgbi de qual país é apelidada de «Los Pumas»?",
+   "c": [
+    "Chile",
+    "Argentina",
+    "Uruguai",
+    "México"
    ]
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "type": "number",
-  "level": 15,
+  "level": 20,
   "image": null,
   "a": 1896,
   "min": 1850,
@@ -8964,7 +11964,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9014,7 +12014,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9064,7 +12064,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9114,7 +12114,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9164,7 +12164,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9214,7 +12214,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9264,7 +12264,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9314,7 +12314,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9364,7 +12364,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9414,7 +12414,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9464,57 +12464,57 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
-  "en": {
-   "q": "Which Algerian footballer scored a famous backheel goal in the 1987 European Cup final for FC Porto?",
-   "c": [
-    "Lakhdar Belloumi",
-    "Rabah Madjer",
-    "Riyad Mahrez",
-    "Ali Benarbia"
-   ]
-  },
   "fr": {
-   "q": "Quel footballeur algérien a marqué un célèbre but du talon en finale de la Coupe d'Europe 1987 avec le FC Porto ?",
+   "q": "Quel attaquant camerounais a dansé autour du poteau de corner au Mondial 1990 ?",
    "c": [
-    "Lakhdar Belloumi",
-    "Rabah Madjer",
-    "Riyad Mahrez",
-    "Ali Benarbia"
+    "Samuel Eto'o",
+    "Didier Drogba",
+    "Roger Milla",
+    "George Weah"
    ]
   },
-  "es": {
-   "q": "¿Qué futbolista argelino marcó un famoso gol de tacón en la final de la Copa de Europa de 1987 con el FC Oporto?",
+  "en": {
+   "q": "Which Cameroonian striker famously danced at the corner flag at the 1990 World Cup?",
    "c": [
-    "Lakhdar Belloumi",
-    "Rabah Madjer",
-    "Riyad Mahrez",
-    "Ali Benarbia"
-   ]
-  },
-  "pt": {
-   "q": "Qual futebolista argelino marcou um famoso gol de calcanhar na final da Copa dos Campeões de 1987 pelo FC Porto?",
-   "c": [
-    "Lakhdar Belloumi",
-    "Rabah Madjer",
-    "Riyad Mahrez",
-    "Ali Benarbia"
+    "Samuel Eto'o",
+    "Didier Drogba",
+    "Roger Milla",
+    "George Weah"
    ]
   },
   "ar": {
-   "q": "أي لاعب كرة قدم جزائري سجّل هدفًا شهيرًا بالكعب في نهائي كأس أوروبا 1987 مع بورتو؟",
+   "q": "أي مهاجم كاميروني رقص عند راية الركنية في كأس العالم 1990؟",
    "c": [
-    "لخضر بلومي",
-    "رابح ماجر",
-    "رياض محرز",
-    "علي بن عربية"
+    "صامويل إيتو",
+    "ديدييه دروغبا",
+    "روجيه ميلا",
+    "جورج ويا"
    ]
   },
-  "a": 1,
+  "es": {
+   "q": "¿Qué delantero camerunés bailó junto al banderín de córner en el Mundial de 1990?",
+   "c": [
+    "Samuel Eto'o",
+    "Didier Drogba",
+    "Roger Milla",
+    "George Weah"
+   ]
+  },
+  "pt": {
+   "q": "Qual atacante camaronês dançou junto à bandeirinha de escanteio na Copa de 1990?",
+   "c": [
+    "Samuel Eto'o",
+    "Didier Drogba",
+    "Roger Milla",
+    "George Weah"
+   ]
+  },
+  "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9564,7 +12564,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -9614,7 +12614,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -9664,7 +12664,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -9714,7 +12714,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -9764,7 +12764,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -9814,7 +12814,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -9864,7 +12864,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -9914,7 +12914,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -9964,7 +12964,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10014,7 +13014,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10064,7 +13064,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10114,7 +13114,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10164,7 +13164,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10214,7 +13214,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10264,7 +13264,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "en": {
@@ -10314,7 +13314,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10364,7 +13364,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10414,7 +13414,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10464,7 +13464,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10514,7 +13514,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -10564,7 +13564,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -10614,7 +13614,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -10664,7 +13664,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -10714,7 +13714,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -10764,7 +13764,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -10814,7 +13814,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -10864,7 +13864,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -10914,7 +13914,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -10964,7 +13964,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11014,7 +14014,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11064,7 +14064,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -11114,7 +14114,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -11164,7 +14164,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "en": {
@@ -11214,7 +14214,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -11264,7 +14264,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -11314,7 +14314,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -11364,7 +14364,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -11414,7 +14414,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -11464,7 +14464,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -11514,6 +14514,6 @@
   },
   "a": 2,
   "image": null,
-  "level": 20
+  "level": 25
  }
 ]

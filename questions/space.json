@@ -6462,6 +6462,2956 @@
  },
  {
   "fr": {
+   "q": "L'Agence spatiale européenne (ESA) représente quel continent ?",
+   "c": [
+    "Asie",
+    "Afrique",
+    "Europe",
+    "Amérique du Sud"
+   ]
+  },
+  "en": {
+   "q": "The European Space Agency (ESA) represents which continent?",
+   "c": [
+    "Asia",
+    "Africa",
+    "Europe",
+    "South America"
+   ]
+  },
+  "ar": {
+   "q": "وكالة الفضاء الأوروبية (ESA) تمثل أي قارة؟",
+   "c": [
+    "آسيا",
+    "أفريقيا",
+    "أوروبا",
+    "أمريكا الجنوبية"
+   ]
+  },
+  "es": {
+   "q": "¿A qué continente representa la Agencia Espacial Europea (ESA)?",
+   "c": [
+    "Asia",
+    "África",
+    "Europa",
+    "Sudamérica"
+   ]
+  },
+  "pt": {
+   "q": "A Agência Espacial Europeia (ESA) representa que continente?",
+   "c": [
+    "Ásia",
+    "África",
+    "Europa",
+    "América do Sul"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quelle planète porte le nom de la déesse romaine de l'amour ?",
+   "c": [
+    "Mercure",
+    "Vénus",
+    "Saturne",
+    "Jupiter"
+   ]
+  },
+  "en": {
+   "q": "Which planet is named after the Roman goddess of love?",
+   "c": [
+    "Mercury",
+    "Venus",
+    "Saturn",
+    "Jupiter"
+   ]
+  },
+  "ar": {
+   "q": "أي كوكب سمي على اسم إلهة الحب الرومانية؟",
+   "c": [
+    "عطارد",
+    "الزهرة",
+    "زحل",
+    "المشتري"
+   ]
+  },
+  "es": {
+   "q": "¿Qué planeta lleva el nombre de la diosa romana del amor?",
+   "c": [
+    "Mercurio",
+    "Venus",
+    "Saturno",
+    "Júpiter"
+   ]
+  },
+  "pt": {
+   "q": "Que planeta tem o nome da deusa romana do amor?",
+   "c": [
+    "Mercúrio",
+    "Vênus",
+    "Saturno",
+    "Júpiter"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Qu'est-ce qu'une étoile filante en réalité ?",
+   "c": [
+    "Un météore qui brûle",
+    "Une étoile qui tombe",
+    "Une planète lointaine",
+    "Un satellite perdu"
+   ]
+  },
+  "en": {
+   "q": "What is a shooting star really?",
+   "c": [
+    "A meteor burning up",
+    "A falling star",
+    "A distant planet",
+    "A lost satellite"
+   ]
+  },
+  "ar": {
+   "q": "ما هو النجم المتساقط في الحقيقة؟",
+   "c": [
+    "شهاب يحترق",
+    "نجم يسقط",
+    "كوكب بعيد",
+    "قمر صناعي ضائع"
+   ]
+  },
+  "es": {
+   "q": "¿Qué es realmente una estrella fugaz?",
+   "c": [
+    "Un meteoro que se quema",
+    "Una estrella que cae",
+    "Un planeta lejano",
+    "Un satélite perdido"
+   ]
+  },
+  "pt": {
+   "q": "O que é realmente uma estrela cadente?",
+   "c": [
+    "Um meteoro que queima",
+    "Uma estrela que cai",
+    "Um planeta distante",
+    "Um satélite perdido"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Qu'est-ce qui cause une éclipse de Lune ?",
+   "c": [
+    "L'ombre de la Terre sur la Lune",
+    "La Lune devant le Soleil",
+    "Des nuages devant la Lune",
+    "Le Soleil qui s'éteint"
+   ]
+  },
+  "en": {
+   "q": "What causes a lunar eclipse?",
+   "c": [
+    "Earth's shadow on the Moon",
+    "The Moon in front of the Sun",
+    "Clouds covering the Moon",
+    "The Sun going out"
+   ]
+  },
+  "ar": {
+   "q": "ما سبب خسوف القمر؟",
+   "c": [
+    "ظل الأرض على القمر",
+    "مرور القمر أمام الشمس",
+    "سحب تغطي القمر",
+    "انطفاء الشمس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué causa un eclipse lunar?",
+   "c": [
+    "La sombra de la Tierra sobre la Luna",
+    "La Luna delante del Sol",
+    "Nubes que cubren la Luna",
+    "El Sol que se apaga"
+   ]
+  },
+  "pt": {
+   "q": "O que causa um eclipse lunar?",
+   "c": [
+    "A sombra da Terra sobre a Lua",
+    "A Lua na frente do Sol",
+    "Nuvens cobrindo a Lua",
+    "O Sol se apagando"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "De quoi le Soleil est-il surtout fait ?",
+   "c": [
+    "Roche et fer",
+    "Eau et glace",
+    "Oxygène et azote",
+    "Hydrogène et hélium"
+   ]
+  },
+  "en": {
+   "q": "What is the Sun mainly made of?",
+   "c": [
+    "Rock and iron",
+    "Water and ice",
+    "Oxygen and nitrogen",
+    "Hydrogen and helium"
+   ]
+  },
+  "ar": {
+   "q": "مم تتكون الشمس بشكل أساسي؟",
+   "c": [
+    "الصخور والحديد",
+    "الماء والجليد",
+    "الأكسجين والنيتروجين",
+    "الهيدروجين والهيليوم"
+   ]
+  },
+  "es": {
+   "q": "¿De qué está hecho principalmente el Sol?",
+   "c": [
+    "Roca y hierro",
+    "Agua y hielo",
+    "Oxígeno y nitrógeno",
+    "Hidrógeno y helio"
+   ]
+  },
+  "pt": {
+   "q": "Do que o Sol é feito principalmente?",
+   "c": [
+    "Rocha e ferro",
+    "Água e gelo",
+    "Oxigênio e nitrogênio",
+    "Hidrogênio e hélio"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on un engin robotisé envoyé explorer d'autres mondes ?",
+   "c": [
+    "Un taxi spatial",
+    "Une sonde spatiale",
+    "Un ballon météo",
+    "Un planeur"
+   ]
+  },
+  "en": {
+   "q": "What do we call a robotic spacecraft sent to explore other worlds?",
+   "c": [
+    "A space taxi",
+    "A space probe",
+    "A weather balloon",
+    "A glider"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي مركبة آلية ترسل لاستكشاف عوالم أخرى؟",
+   "c": [
+    "سيارة أجرة فضائية",
+    "مسبار فضائي",
+    "منطاد أرصاد",
+    "طائرة شراعية"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama una nave robótica enviada a explorar otros mundos?",
+   "c": [
+    "Un taxi espacial",
+    "Una sonda espacial",
+    "Un globo meteorológico",
+    "Un planeador"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama uma nave robótica enviada para explorar outros mundos?",
+   "c": [
+    "Um táxi espacial",
+    "Uma sonda espacial",
+    "Um balão meteorológico",
+    "Um planador"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quelle partie d'un vaisseau ramène les astronautes sur Terre ?",
+   "c": [
+    "Le réservoir",
+    "L'antenne",
+    "Le panneau solaire",
+    "La capsule"
+   ]
+  },
+  "en": {
+   "q": "Which part of a spacecraft brings astronauts back to Earth?",
+   "c": [
+    "The fuel tank",
+    "The antenna",
+    "The solar panel",
+    "The capsule"
+   ]
+  },
+  "ar": {
+   "q": "أي جزء من المركبة يعيد رواد الفضاء إلى الأرض؟",
+   "c": [
+    "خزان الوقود",
+    "الهوائي",
+    "اللوح الشمسي",
+    "الكبسولة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué parte de una nave devuelve a los astronautas a la Tierra?",
+   "c": [
+    "El tanque de combustible",
+    "La antena",
+    "El panel solar",
+    "La cápsula"
+   ]
+  },
+  "pt": {
+   "q": "Que parte de uma nave traz os astronautas de volta à Terra?",
+   "c": [
+    "O tanque de combustível",
+    "A antena",
+    "O painel solar",
+    "A cápsula"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Que signifie le sigle anglais ISS ?",
+   "c": [
+    "Système solaire interne",
+    "Vaisseau interstellaire secret",
+    "Satellite spatial indien",
+    "Station spatiale internationale"
+   ]
+  },
+  "en": {
+   "q": "What does the acronym ISS stand for?",
+   "c": [
+    "Inner Solar System",
+    "Interstellar Secret Ship",
+    "Indian Space Satellite",
+    "International Space Station"
+   ]
+  },
+  "ar": {
+   "q": "ماذا تعني ISS في الإنجليزية؟",
+   "c": [
+    "المجموعة الشمسية الداخلية",
+    "مركبة سرية بين النجوم",
+    "قمر فضائي هندي",
+    "محطة الفضاء الدولية"
+   ]
+  },
+  "es": {
+   "q": "¿Qué significa la sigla inglesa ISS?",
+   "c": [
+    "Sistema Solar Interior",
+    "Nave Interestelar Secreta",
+    "Satélite Espacial Indio",
+    "Estación Espacial Internacional"
+   ]
+  },
+  "pt": {
+   "q": "O que significa a sigla inglesa ISS?",
+   "c": [
+    "Sistema Solar Interno",
+    "Nave Interestelar Secreta",
+    "Satélite Espacial Indiano",
+    "Estação Espacial Internacional"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Quel corps du système solaire a la gravité la plus forte ?",
+   "c": [
+    "Jupiter",
+    "La Terre",
+    "Le Soleil",
+    "La Lune"
+   ]
+  },
+  "en": {
+   "q": "Which body in the solar system has the strongest gravity?",
+   "c": [
+    "Jupiter",
+    "The Earth",
+    "The Sun",
+    "The Moon"
+   ]
+  },
+  "ar": {
+   "q": "أي جرم في المجموعة الشمسية له أقوى جاذبية؟",
+   "c": [
+    "المشتري",
+    "الأرض",
+    "الشمس",
+    "القمر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cuerpo del sistema solar tiene la gravedad más fuerte?",
+   "c": [
+    "Júpiter",
+    "La Tierra",
+    "El Sol",
+    "La Luna"
+   ]
+  },
+  "pt": {
+   "q": "Que corpo do sistema solar tem a gravidade mais forte?",
+   "c": [
+    "Júpiter",
+    "A Terra",
+    "O Sol",
+    "A Lua"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Combien de jours y a-t-il environ dans une année terrestre ?",
+   "c": [
+    "365",
+    "30",
+    "100",
+    "500"
+   ]
+  },
+  "en": {
+   "q": "About how many days are in one Earth year?",
+   "c": [
+    "365",
+    "30",
+    "100",
+    "500"
+   ]
+  },
+  "ar": {
+   "q": "كم يوما تقريبا في السنة الأرضية؟",
+   "c": [
+    "365",
+    "30",
+    "100",
+    "500"
+   ]
+  },
+  "es": {
+   "q": "¿Cuántos días tiene aproximadamente un año terrestre?",
+   "c": [
+    "365",
+    "30",
+    "100",
+    "500"
+   ]
+  },
+  "pt": {
+   "q": "Quantos dias tem aproximadamente um ano terrestre?",
+   "c": [
+    "365",
+    "30",
+    "100",
+    "500"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "En Russie, les astronautes sont traditionnellement appelés…",
+   "c": [
+    "taïkonautes",
+    "aquanautes",
+    "cosmonautes",
+    "pilotes"
+   ]
+  },
+  "en": {
+   "q": "In Russia, astronauts are traditionally called…",
+   "c": [
+    "taikonauts",
+    "aquanauts",
+    "cosmonauts",
+    "pilots"
+   ]
+  },
+  "ar": {
+   "q": "في روسيا، يسمى رواد الفضاء تقليديا…",
+   "c": [
+    "تايكونوت",
+    "أكوانوت",
+    "كوزمونوت",
+    "طيارين"
+   ]
+  },
+  "es": {
+   "q": "En Rusia, a los astronautas se les llama tradicionalmente…",
+   "c": [
+    "taikonautas",
+    "acuanautas",
+    "cosmonautas",
+    "pilotos"
+   ]
+  },
+  "pt": {
+   "q": "Na Rússia, os astronautas são tradicionalmente chamados de…",
+   "c": [
+    "taikonautas",
+    "aquanautas",
+    "cosmonautas",
+    "pilotos"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "Lequel de ces objets est une étoile ?",
+   "c": [
+    "Vénus",
+    "Sirius",
+    "Titan",
+    "Phobos"
+   ]
+  },
+  "en": {
+   "q": "Which of these objects is a star?",
+   "c": [
+    "Venus",
+    "Sirius",
+    "Titan",
+    "Phobos"
+   ]
+  },
+  "ar": {
+   "q": "أي من هذه الأجرام نجم؟",
+   "c": [
+    "الزهرة",
+    "الشعرى اليمانية",
+    "تيتان",
+    "فوبوس"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál de estos objetos es una estrella?",
+   "c": [
+    "Venus",
+    "Sirio",
+    "Titán",
+    "Fobos"
+   ]
+  },
+  "pt": {
+   "q": "Qual destes objetos é uma estrela?",
+   "c": [
+    "Vênus",
+    "Sirius",
+    "Titã",
+    "Fobos"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 13
+ },
+ {
+  "fr": {
+   "q": "JAXA est l'agence spatiale de quel pays ?",
+   "c": [
+    "Japon",
+    "Chine",
+    "Inde",
+    "Corée du Sud"
+   ]
+  },
+  "en": {
+   "q": "JAXA is the space agency of which country?",
+   "c": [
+    "Japan",
+    "China",
+    "India",
+    "South Korea"
+   ]
+  },
+  "ar": {
+   "q": "وكالة جاكسا (JAXA) هي وكالة الفضاء في أي دولة؟",
+   "c": [
+    "اليابان",
+    "الصين",
+    "الهند",
+    "كوريا الجنوبية"
+   ]
+  },
+  "es": {
+   "q": "¿JAXA es la agencia espacial de qué país?",
+   "c": [
+    "Japón",
+    "China",
+    "India",
+    "Corea del Sur"
+   ]
+  },
+  "pt": {
+   "q": "A JAXA é a agência espacial de qual país?",
+   "c": [
+    "Japão",
+    "China",
+    "Índia",
+    "Coreia do Sul"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "La gravité sur la Lune vaut environ quelle fraction de celle de la Terre ?",
+   "c": [
+    "Un sixième",
+    "La moitié",
+    "La même",
+    "Un centième"
+   ]
+  },
+  "en": {
+   "q": "Gravity on the Moon is about what fraction of Earth's?",
+   "c": [
+    "One sixth",
+    "Half",
+    "The same",
+    "One hundredth"
+   ]
+  },
+  "ar": {
+   "q": "ما كسر جاذبية الأرض الموجود على القمر تقريبا؟",
+   "c": [
+    "السدس",
+    "النصف",
+    "نفسها",
+    "جزء من مئة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué fracción de la gravedad terrestre hay en la Luna?",
+   "c": [
+    "Una sexta parte",
+    "La mitad",
+    "La misma",
+    "Una centésima parte"
+   ]
+  },
+  "pt": {
+   "q": "Que fração da gravidade da Terra existe na Lua?",
+   "c": [
+    "Um sexto",
+    "Metade",
+    "A mesma",
+    "Um centésimo"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "La sonde indienne Mangalyaan, lancée en 2013, est partie vers quelle planète ?",
+   "c": [
+    "Vénus",
+    "Mars",
+    "Saturne",
+    "Mercure"
+   ]
+  },
+  "en": {
+   "q": "India's Mangalyaan probe, launched in 2013, went to which planet?",
+   "c": [
+    "Venus",
+    "Mars",
+    "Saturn",
+    "Mercury"
+   ]
+  },
+  "ar": {
+   "q": "إلى أي كوكب ذهب المسبار الهندي مانغاليان المطلق عام 2013؟",
+   "c": [
+    "الزهرة",
+    "المريخ",
+    "زحل",
+    "عطارد"
+   ]
+  },
+  "es": {
+   "q": "¿A qué planeta viajó la sonda india Mangalyaan, lanzada en 2013?",
+   "c": [
+    "Venus",
+    "Marte",
+    "Saturno",
+    "Mercurio"
+   ]
+  },
+  "pt": {
+   "q": "A sonda indiana Mangalyaan, lançada em 2013, foi a que planeta?",
+   "c": [
+    "Vênus",
+    "Marte",
+    "Saturno",
+    "Mercúrio"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Phobos et Deimos sont les deux lunes de quelle planète ?",
+   "c": [
+    "Jupiter",
+    "Neptune",
+    "Mars",
+    "Vénus"
+   ]
+  },
+  "en": {
+   "q": "Phobos and Deimos are the two moons of which planet?",
+   "c": [
+    "Jupiter",
+    "Neptune",
+    "Mars",
+    "Venus"
+   ]
+  },
+  "ar": {
+   "q": "فوبوس وديموس هما قمرا أي كوكب؟",
+   "c": [
+    "المشتري",
+    "نبتون",
+    "المريخ",
+    "الزهرة"
+   ]
+  },
+  "es": {
+   "q": "¿De qué planeta son lunas Fobos y Deimos?",
+   "c": [
+    "Júpiter",
+    "Neptuno",
+    "Marte",
+    "Venus"
+   ]
+  },
+  "pt": {
+   "q": "Fobos e Deimos são as duas luas de que planeta?",
+   "c": [
+    "Júpiter",
+    "Netuno",
+    "Marte",
+    "Vênus"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on les taches sombres à la surface du Soleil ?",
+   "c": [
+    "Les cratères",
+    "Les mers",
+    "Les nuages",
+    "Les taches solaires"
+   ]
+  },
+  "en": {
+   "q": "What are the dark patches on the Sun's surface called?",
+   "c": [
+    "Craters",
+    "Seas",
+    "Clouds",
+    "Sunspots"
+   ]
+  },
+  "ar": {
+   "q": "ماذا تسمى البقع الداكنة على سطح الشمس؟",
+   "c": [
+    "الفوهات",
+    "البحار",
+    "السحب",
+    "البقع الشمسية"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llaman las manchas oscuras en la superficie del Sol?",
+   "c": [
+    "Cráteres",
+    "Mares",
+    "Nubes",
+    "Manchas solares"
+   ]
+  },
+  "pt": {
+   "q": "Como se chamam as manchas escuras na superfície do Sol?",
+   "c": [
+    "Crateras",
+    "Mares",
+    "Nuvens",
+    "Manchas solares"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Qu'est-ce qu'une nébuleuse ?",
+   "c": [
+    "Un nuage de gaz et de poussière",
+    "Une petite planète",
+    "Un type de fusée",
+    "Une lune glacée"
+   ]
+  },
+  "en": {
+   "q": "What is a nebula?",
+   "c": [
+    "A cloud of gas and dust",
+    "A tiny planet",
+    "A kind of rocket",
+    "A frozen moon"
+   ]
+  },
+  "ar": {
+   "q": "ما هو السديم؟",
+   "c": [
+    "سحابة من الغاز والغبار",
+    "كوكب صغير",
+    "نوع من الصواريخ",
+    "قمر متجمد"
+   ]
+  },
+  "es": {
+   "q": "¿Qué es una nebulosa?",
+   "c": [
+    "Una nube de gas y polvo",
+    "Un planeta pequeño",
+    "Un tipo de cohete",
+    "Una luna helada"
+   ]
+  },
+  "pt": {
+   "q": "O que é uma nebulosa?",
+   "c": [
+    "Uma nuvem de gás e poeira",
+    "Um planeta pequeno",
+    "Um tipo de foguete",
+    "Uma lua gelada"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quelle est la plus grande des quatre planètes rocheuses ?",
+   "c": [
+    "Mars",
+    "La Terre",
+    "Vénus",
+    "Mercure"
+   ]
+  },
+  "en": {
+   "q": "Which is the largest of the four rocky planets?",
+   "c": [
+    "Mars",
+    "Earth",
+    "Venus",
+    "Mercury"
+   ]
+  },
+  "ar": {
+   "q": "ما أكبر الكواكب الصخرية الأربعة؟",
+   "c": [
+    "المريخ",
+    "الأرض",
+    "الزهرة",
+    "عطارد"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál es el mayor de los cuatro planetas rocosos?",
+   "c": [
+    "Marte",
+    "La Tierra",
+    "Venus",
+    "Mercurio"
+   ]
+  },
+  "pt": {
+   "q": "Qual é o maior dos quatro planetas rochosos?",
+   "c": [
+    "Marte",
+    "A Terra",
+    "Vênus",
+    "Mercúrio"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Laquelle de ces planètes est plus petite que la Terre ?",
+   "c": [
+    "Neptune",
+    "Saturne",
+    "Jupiter",
+    "Mars"
+   ]
+  },
+  "en": {
+   "q": "Which of these planets is smaller than Earth?",
+   "c": [
+    "Neptune",
+    "Saturn",
+    "Jupiter",
+    "Mars"
+   ]
+  },
+  "ar": {
+   "q": "أي من هذه الكواكب أصغر من الأرض؟",
+   "c": [
+    "نبتون",
+    "زحل",
+    "المشتري",
+    "المريخ"
+   ]
+  },
+  "es": {
+   "q": "¿Cuál de estos planetas es más pequeño que la Tierra?",
+   "c": [
+    "Neptuno",
+    "Saturno",
+    "Júpiter",
+    "Marte"
+   ]
+  },
+  "pt": {
+   "q": "Qual destes planetas é menor que a Terra?",
+   "c": [
+    "Netuno",
+    "Saturno",
+    "Júpiter",
+    "Marte"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on la charge qu'une fusée emporte dans l'espace ?",
+   "c": [
+    "Le propulseur",
+    "La charge utile",
+    "Le compte à rebours",
+    "La tuyère"
+   ]
+  },
+  "en": {
+   "q": "What do we call the cargo a rocket carries into space?",
+   "c": [
+    "The booster",
+    "The payload",
+    "The countdown",
+    "The nozzle"
+   ]
+  },
+  "ar": {
+   "q": "ماذا نسمي الحمولة التي يحملها الصاروخ إلى الفضاء؟",
+   "c": [
+    "الدافع",
+    "الحمولة",
+    "العد التنازلي",
+    "فوهة العادم"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama la carga que lleva un cohete al espacio?",
+   "c": [
+    "El propulsor",
+    "La carga útil",
+    "La cuenta atrás",
+    "La tobera"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama a carga que um foguete leva ao espaço?",
+   "c": [
+    "O propulsor",
+    "A carga útil",
+    "A contagem regressiva",
+    "O bocal"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quelle planète a l'année la plus courte, environ 88 jours ?",
+   "c": [
+    "Vénus",
+    "Mars",
+    "La Terre",
+    "Mercure"
+   ]
+  },
+  "en": {
+   "q": "Which planet has the shortest year, about 88 days?",
+   "c": [
+    "Venus",
+    "Mars",
+    "Earth",
+    "Mercury"
+   ]
+  },
+  "ar": {
+   "q": "أي كوكب له أقصر سنة، نحو 88 يوما؟",
+   "c": [
+    "الزهرة",
+    "المريخ",
+    "الأرض",
+    "عطارد"
+   ]
+  },
+  "es": {
+   "q": "¿Qué planeta tiene el año más corto, de unos 88 días?",
+   "c": [
+    "Venus",
+    "Marte",
+    "La Tierra",
+    "Mercurio"
+   ]
+  },
+  "pt": {
+   "q": "Que planeta tem o ano mais curto, de cerca de 88 dias?",
+   "c": [
+    "Vênus",
+    "Marte",
+    "A Terra",
+    "Mercúrio"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Un vaisseau qui tourne autour d'une planète sans se poser s'appelle…",
+   "c": [
+    "un atterrisseur",
+    "un rover",
+    "un orbiteur",
+    "un parachute"
+   ]
+  },
+  "en": {
+   "q": "A spacecraft that circles a planet without landing is called…",
+   "c": [
+    "a lander",
+    "a rover",
+    "an orbiter",
+    "a parachute"
+   ]
+  },
+  "ar": {
+   "q": "تسمى المركبة التي تدور حول كوكب دون أن تهبط عليه…",
+   "c": [
+    "مركبة هبوط",
+    "مركبة جوالة",
+    "مركبة مدارية",
+    "مظلة"
+   ]
+  },
+  "es": {
+   "q": "Una nave que gira alrededor de un planeta sin aterrizar se llama…",
+   "c": [
+    "módulo de aterrizaje",
+    "róver",
+    "orbitador",
+    "paracaídas"
+   ]
+  },
+  "pt": {
+   "q": "Uma nave que gira em torno de um planeta sem pousar chama-se…",
+   "c": [
+    "módulo de pouso",
+    "rover",
+    "orbitador",
+    "paraquedas"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Pourquoi le son ne se propage-t-il pas dans l'espace ?",
+   "c": [
+    "Il y fait trop froid",
+    "Il y a trop de lumière",
+    "Il n'y a presque pas d'air",
+    "La gravité est trop forte"
+   ]
+  },
+  "en": {
+   "q": "Why can't sound travel through space?",
+   "c": [
+    "It is too cold",
+    "There is too much light",
+    "There is almost no air",
+    "Gravity is too strong"
+   ]
+  },
+  "ar": {
+   "q": "لماذا لا ينتقل الصوت في الفضاء؟",
+   "c": [
+    "الجو شديد البرودة",
+    "الضوء كثير جدا",
+    "لا يوجد هواء تقريبا",
+    "الجاذبية قوية جدا"
+   ]
+  },
+  "es": {
+   "q": "¿Por qué el sonido no viaja por el espacio?",
+   "c": [
+    "Hace demasiado frío",
+    "Hay demasiada luz",
+    "Casi no hay aire",
+    "La gravedad es muy fuerte"
+   ]
+  },
+  "pt": {
+   "q": "Por que o som não viaja pelo espaço?",
+   "c": [
+    "Faz frio demais",
+    "Há luz demais",
+    "Quase não há ar",
+    "A gravidade é forte demais"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 14
+ },
+ {
+  "fr": {
+   "q": "Quelle constellation figure sur les drapeaux de l'Australie et du Brésil ?",
+   "c": [
+    "Orion",
+    "Cassiopée",
+    "Le Scorpion",
+    "La Croix du Sud"
+   ]
+  },
+  "en": {
+   "q": "Which constellation appears on the flags of Australia and Brazil?",
+   "c": [
+    "Orion",
+    "Cassiopeia",
+    "Scorpius",
+    "The Southern Cross"
+   ]
+  },
+  "ar": {
+   "q": "أي كوكبة تظهر على علمي أستراليا والبرازيل؟",
+   "c": [
+    "الجبار",
+    "ذات الكرسي",
+    "العقرب",
+    "الصليب الجنوبي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué constelación aparece en las banderas de Australia y Brasil?",
+   "c": [
+    "Orión",
+    "Casiopea",
+    "Escorpio",
+    "La Cruz del Sur"
+   ]
+  },
+  "pt": {
+   "q": "Que constelação aparece nas bandeiras da Austrália e do Brasil?",
+   "c": [
+    "Órion",
+    "Cassiopeia",
+    "Escorpião",
+    "O Cruzeiro do Sul"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quel désert du Chili abrite de grands télescopes grâce à son ciel sec et clair ?",
+   "c": [
+    "Atacama",
+    "Gobi",
+    "Kalahari",
+    "Mojave"
+   ]
+  },
+  "en": {
+   "q": "Which desert in Chile hosts major telescopes thanks to its dry, clear sky?",
+   "c": [
+    "Atacama",
+    "Gobi",
+    "Kalahari",
+    "Mojave"
+   ]
+  },
+  "ar": {
+   "q": "أي صحراء في تشيلي تضم تلسكوبات كبرى بفضل سمائها الجافة الصافية؟",
+   "c": [
+    "أتاكاما",
+    "غوبي",
+    "كالاهاري",
+    "موهافي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué desierto de Chile alberga grandes telescopios por su cielo seco y limpio?",
+   "c": [
+    "Atacama",
+    "Gobi",
+    "Kalahari",
+    "Mojave"
+   ]
+  },
+  "pt": {
+   "q": "Que deserto do Chile abriga grandes telescópios por seu céu seco e limpo?",
+   "c": [
+    "Atacama",
+    "Gobi",
+    "Kalahari",
+    "Mojave"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Comment appelle-t-on la face de la Lune qui ne regarde jamais la Terre ?",
+   "c": [
+    "La face cachée",
+    "La face chaude",
+    "La face océanique",
+    "La face polaire"
+   ]
+  },
+  "en": {
+   "q": "What is the side of the Moon that never faces Earth called?",
+   "c": [
+    "The far side",
+    "The hot side",
+    "The ocean side",
+    "The polar side"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يسمى وجه القمر الذي لا يواجه الأرض أبدا؟",
+   "c": [
+    "الوجه الخفي",
+    "الوجه الحار",
+    "الوجه المحيطي",
+    "الوجه القطبي"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama la cara de la Luna que nunca mira a la Tierra?",
+   "c": [
+    "La cara oculta",
+    "La cara caliente",
+    "La cara oceánica",
+    "La cara polar"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama o lado da Lua que nunca está voltado para a Terra?",
+   "c": [
+    "O lado oculto",
+    "O lado quente",
+    "O lado oceânico",
+    "O lado polar"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Qu'est-ce qui cause les phases de la Lune ?",
+   "c": [
+    "L'ombre de la Terre sur elle",
+    "Des nuages devant elle",
+    "Notre vue changeante de sa face éclairée",
+    "Sa taille qui varie"
+   ]
+  },
+  "en": {
+   "q": "What causes the phases of the Moon?",
+   "c": [
+    "Earth's shadow on it",
+    "Clouds passing in front",
+    "Our changing view of its sunlit half",
+    "The Moon growing and shrinking"
+   ]
+  },
+  "ar": {
+   "q": "ما سبب أطوار القمر؟",
+   "c": [
+    "ظل الأرض عليه",
+    "سحب تمر أمامه",
+    "اختلاف ما نراه من نصفه المضاء",
+    "القمر يكبر ويصغر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué causa las fases de la Luna?",
+   "c": [
+    "La sombra de la Tierra sobre ella",
+    "Nubes que pasan delante",
+    "Nuestra vista cambiante de su cara iluminada",
+    "Que la Luna crece y se encoge"
+   ]
+  },
+  "pt": {
+   "q": "O que causa as fases da Lua?",
+   "c": [
+    "A sombra da Terra sobre ela",
+    "Nuvens passando na frente",
+    "Nossa visão mutável de sua face iluminada",
+    "A Lua crescendo e encolhendo"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "À quoi servent les satellites GPS ?",
+   "c": [
+    "À prévoir le temps sur Mars",
+    "À mesurer l'âge des étoiles",
+    "À suivre les phases de la Lune",
+    "À nous localiser sur Terre"
+   ]
+  },
+  "en": {
+   "q": "What are GPS satellites used for?",
+   "c": [
+    "Forecasting weather on Mars",
+    "Measuring the age of stars",
+    "Tracking the Moon's phases",
+    "Finding our position on Earth"
+   ]
+  },
+  "ar": {
+   "q": "فيمَ تستخدم أقمار GPS الصناعية؟",
+   "c": [
+    "في توقع طقس المريخ",
+    "في قياس عمر النجوم",
+    "في تتبع أطوار القمر",
+    "في تحديد موقعنا على الأرض"
+   ]
+  },
+  "es": {
+   "q": "¿Para qué sirven los satélites GPS?",
+   "c": [
+    "Para predecir el clima de Marte",
+    "Para medir la edad de las estrellas",
+    "Para seguir las fases de la Luna",
+    "Para ubicarnos en la Tierra"
+   ]
+  },
+  "pt": {
+   "q": "Para que servem os satélites GPS?",
+   "c": [
+    "Para prever o tempo em Marte",
+    "Para medir a idade das estrelas",
+    "Para seguir as fases da Lua",
+    "Para nos localizar na Terra"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Dans quelle constellation se trouve le Grand Chariot ?",
+   "c": [
+    "Le Lion",
+    "La Grande Ourse",
+    "Le Taureau",
+    "Le Cygne"
+   ]
+  },
+  "en": {
+   "q": "In which constellation is the Big Dipper found?",
+   "c": [
+    "Leo",
+    "Ursa Major",
+    "Taurus",
+    "Cygnus"
+   ]
+  },
+  "ar": {
+   "q": "في أي كوكبة توجد «بنات نعش»؟",
+   "c": [
+    "الأسد",
+    "الدب الأكبر",
+    "الثور",
+    "الدجاجة"
+   ]
+  },
+  "es": {
+   "q": "¿En qué constelación se encuentra el Gran Carro?",
+   "c": [
+    "Leo",
+    "La Osa Mayor",
+    "Tauro",
+    "Cisne"
+   ]
+  },
+  "pt": {
+   "q": "Em que constelação fica o Grande Carro?",
+   "c": [
+    "Leão",
+    "A Ursa Maior",
+    "Touro",
+    "Cisne"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quelle planète est appelée « jumelle de la Terre » pour sa taille proche ?",
+   "c": [
+    "Mars",
+    "Mercure",
+    "Neptune",
+    "Vénus"
+   ]
+  },
+  "en": {
+   "q": "Which planet is often called Earth's twin because of its similar size?",
+   "c": [
+    "Mars",
+    "Mercury",
+    "Neptune",
+    "Venus"
+   ]
+  },
+  "ar": {
+   "q": "أي كوكب يلقب بـ«توأم الأرض» لتقارب حجمه؟",
+   "c": [
+    "المريخ",
+    "عطارد",
+    "نبتون",
+    "الزهرة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué planeta se llama «gemelo de la Tierra» por su tamaño parecido?",
+   "c": [
+    "Marte",
+    "Mercurio",
+    "Neptuno",
+    "Venus"
+   ]
+  },
+  "pt": {
+   "q": "Que planeta é chamado de «gêmeo da Terra» pelo tamanho parecido?",
+   "c": [
+    "Marte",
+    "Mercúrio",
+    "Netuno",
+    "Vênus"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quelle est la forme de l'orbite des planètes autour du Soleil ?",
+   "c": [
+    "Des ellipses (cercles allongés)",
+    "Des carrés parfaits",
+    "Des lignes droites",
+    "Des spirales"
+   ]
+  },
+  "en": {
+   "q": "What shape are the orbits of planets around the Sun?",
+   "c": [
+    "Ellipses (stretched circles)",
+    "Perfect squares",
+    "Straight lines",
+    "Spirals"
+   ]
+  },
+  "ar": {
+   "q": "ما شكل مدارات الكواكب حول الشمس؟",
+   "c": [
+    "قطوع ناقصة (دوائر مستطيلة)",
+    "مربعات تامة",
+    "خطوط مستقيمة",
+    "حلزونات"
+   ]
+  },
+  "es": {
+   "q": "¿Qué forma tienen las órbitas de los planetas alrededor del Sol?",
+   "c": [
+    "Elipses (círculos alargados)",
+    "Cuadrados perfectos",
+    "Líneas rectas",
+    "Espirales"
+   ]
+  },
+  "pt": {
+   "q": "Que forma têm as órbitas dos planetas ao redor do Sol?",
+   "c": [
+    "Elipses (círculos alongados)",
+    "Quadrados perfeitos",
+    "Linhas retas",
+    "Espirais"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Dans quel État américain se trouve Cap Canaveral, célèbre site de lancement ?",
+   "c": [
+    "Texas",
+    "Alaska",
+    "Floride",
+    "Hawaï"
+   ]
+  },
+  "en": {
+   "q": "In which US state is Cape Canaveral, a famous launch site?",
+   "c": [
+    "Texas",
+    "Alaska",
+    "Florida",
+    "Hawaii"
+   ]
+  },
+  "ar": {
+   "q": "في أي ولاية أمريكية يقع كيب كانافيرال، موقع الإطلاق الشهير؟",
+   "c": [
+    "تكساس",
+    "ألاسكا",
+    "فلوريدا",
+    "هاواي"
+   ]
+  },
+  "es": {
+   "q": "¿En qué estado de EE. UU. está Cabo Cañaveral, famoso sitio de lanzamiento?",
+   "c": [
+    "Texas",
+    "Alaska",
+    "Florida",
+    "Hawái"
+   ]
+  },
+  "pt": {
+   "q": "Em que estado dos EUA fica Cabo Canaveral, famoso local de lançamentos?",
+   "c": [
+    "Texas",
+    "Alasca",
+    "Flórida",
+    "Havaí"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelle la station spatiale chinoise ?",
+   "c": [
+    "Skylab",
+    "Tiangong",
+    "Saliout",
+    "Freedom"
+   ]
+  },
+  "en": {
+   "q": "What is the name of China's space station?",
+   "c": [
+    "Skylab",
+    "Tiangong",
+    "Salyut",
+    "Freedom"
+   ]
+  },
+  "ar": {
+   "q": "ما اسم محطة الفضاء الصينية؟",
+   "c": [
+    "سكاي لاب",
+    "تيانقونغ",
+    "ساليوت",
+    "فريدم"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama la estación espacial china?",
+   "c": [
+    "Skylab",
+    "Tiangong",
+    "Salyut",
+    "Freedom"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama a estação espacial chinesa?",
+   "c": [
+    "Skylab",
+    "Tiangong",
+    "Salyut",
+    "Freedom"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Quelle couleur indique les étoiles les plus chaudes ?",
+   "c": [
+    "Rouge",
+    "Jaune",
+    "Bleue",
+    "Orange"
+   ]
+  },
+  "en": {
+   "q": "Which star color indicates the hottest stars?",
+   "c": [
+    "Red",
+    "Yellow",
+    "Blue",
+    "Orange"
+   ]
+  },
+  "ar": {
+   "q": "أي لون يدل على أكثر النجوم حرارة؟",
+   "c": [
+    "الأحمر",
+    "الأصفر",
+    "الأزرق",
+    "البرتقالي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué color indica las estrellas más calientes?",
+   "c": [
+    "Rojo",
+    "Amarillo",
+    "Azul",
+    "Naranja"
+   ]
+  },
+  "pt": {
+   "q": "Que cor indica as estrelas mais quentes?",
+   "c": [
+    "Vermelho",
+    "Amarelo",
+    "Azul",
+    "Laranja"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 15
+ },
+ {
+  "fr": {
+   "q": "Qu'est-ce qui provoque les aurores polaires ?",
+   "c": [
+    "Des particules du Soleil frappant l'atmosphère",
+    "Le reflet de la Lune sur la glace",
+    "Des gaz volcaniques",
+    "Le reflet de la mer"
+   ]
+  },
+  "en": {
+   "q": "What causes the polar auroras (northern and southern lights)?",
+   "c": [
+    "Solar particles hitting our atmosphere",
+    "Moonlight on ice",
+    "Volcanic gases",
+    "Reflections from the sea"
+   ]
+  },
+  "ar": {
+   "q": "ما سبب الشفق القطبي؟",
+   "c": [
+    "جسيمات من الشمس تصطدم بالغلاف الجوي",
+    "ضوء القمر على الجليد",
+    "غازات بركانية",
+    "انعكاس البحر"
+   ]
+  },
+  "es": {
+   "q": "¿Qué provoca las auroras polares?",
+   "c": [
+    "Partículas del Sol que chocan con la atmósfera",
+    "La luz de la Luna sobre el hielo",
+    "Gases volcánicos",
+    "El reflejo del mar"
+   ]
+  },
+  "pt": {
+   "q": "O que provoca as auroras polares?",
+   "c": [
+    "Partículas do Sol colidindo com a atmosfera",
+    "A luz da Lua sobre o gelo",
+    "Gases vulcânicos",
+    "O reflexo do mar"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Tous les combien la comète de Halley repasse-t-elle près de la Terre ?",
+   "c": [
+    "Tous les 7 ans",
+    "Tous les 200 ans",
+    "Tous les 76 ans",
+    "Tous les 1000 ans"
+   ]
+  },
+  "en": {
+   "q": "About how often does Halley's Comet return near Earth?",
+   "c": [
+    "Every 7 years",
+    "Every 200 years",
+    "Every 76 years",
+    "Every 1000 years"
+   ]
+  },
+  "ar": {
+   "q": "كل كم سنة يقترب مذنب هالي من الأرض؟",
+   "c": [
+    "كل 7 سنوات",
+    "كل 200 سنة",
+    "كل 76 سنة",
+    "كل 1000 سنة"
+   ]
+  },
+  "es": {
+   "q": "¿Cada cuánto vuelve el cometa Halley cerca de la Tierra?",
+   "c": [
+    "Cada 7 años",
+    "Cada 200 años",
+    "Cada 76 años",
+    "Cada 1000 años"
+   ]
+  },
+  "pt": {
+   "q": "De quanto em quanto tempo o cometa Halley volta perto da Terra?",
+   "c": [
+    "A cada 7 anos",
+    "A cada 200 anos",
+    "A cada 76 anos",
+    "A cada 1000 anos"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Pourquoi les astronautes flottent-ils dans l'ISS ?",
+   "c": [
+    "Il n'y a pas de gravité",
+    "La station tourne très vite",
+    "Ils sont en chute libre permanente",
+    "L'air les pousse vers le haut"
+   ]
+  },
+  "en": {
+   "q": "Why do astronauts float inside the ISS?",
+   "c": [
+    "There is no gravity there",
+    "The station spins very fast",
+    "They are in constant free fall",
+    "Air pushes them up"
+   ]
+  },
+  "ar": {
+   "q": "لماذا يطفو رواد الفضاء داخل محطة الفضاء الدولية؟",
+   "c": [
+    "لا توجد جاذبية هناك",
+    "المحطة تدور بسرعة كبيرة",
+    "لأنهم في سقوط حر مستمر",
+    "الهواء يدفعهم للأعلى"
+   ]
+  },
+  "es": {
+   "q": "¿Por qué flotan los astronautas dentro de la ISS?",
+   "c": [
+    "Allí no hay gravedad",
+    "La estación gira muy rápido",
+    "Están en caída libre constante",
+    "El aire los empuja hacia arriba"
+   ]
+  },
+  "pt": {
+   "q": "Por que os astronautas flutuam dentro da ISS?",
+   "c": [
+    "Lá não há gravidade",
+    "A estação gira muito rápido",
+    "Estão em queda livre constante",
+    "O ar os empurra para cima"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelle l'atmosphère externe du Soleil, visible lors d'une éclipse totale ?",
+   "c": [
+    "La croûte",
+    "Le noyau",
+    "Le manteau",
+    "La couronne"
+   ]
+  },
+  "en": {
+   "q": "What is the Sun's outer atmosphere, seen in total eclipses, called?",
+   "c": [
+    "The crust",
+    "The core",
+    "The mantle",
+    "The corona"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يسمى الغلاف الخارجي للشمس الذي يُرى أثناء الكسوف الكلي؟",
+   "c": [
+    "القشرة",
+    "اللب",
+    "الوشاح",
+    "الإكليل"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama la atmósfera externa del Sol, visible en un eclipse total?",
+   "c": [
+    "La corteza",
+    "El núcleo",
+    "El manto",
+    "La corona"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama a atmosfera externa do Sol, visível num eclipse total?",
+   "c": [
+    "A crosta",
+    "O núcleo",
+    "O manto",
+    "A coroa"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quelle planète étudie la sonde Juno de la NASA ?",
+   "c": [
+    "Saturne",
+    "Mars",
+    "Vénus",
+    "Jupiter"
+   ]
+  },
+  "en": {
+   "q": "NASA's Juno probe studies which planet?",
+   "c": [
+    "Saturn",
+    "Mars",
+    "Venus",
+    "Jupiter"
+   ]
+  },
+  "ar": {
+   "q": "أي كوكب يدرسه المسبار جونو التابع لناسا؟",
+   "c": [
+    "زحل",
+    "المريخ",
+    "الزهرة",
+    "المشتري"
+   ]
+  },
+  "es": {
+   "q": "¿Qué planeta estudia la sonda Juno de la NASA?",
+   "c": [
+    "Saturno",
+    "Marte",
+    "Venus",
+    "Júpiter"
+   ]
+  },
+  "pt": {
+   "q": "Que planeta a sonda Juno da NASA estuda?",
+   "c": [
+    "Saturno",
+    "Marte",
+    "Vênus",
+    "Júpiter"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Chandrayaan-3, posée près du pôle sud lunaire en 2023, vient de quel pays ?",
+   "c": [
+    "Inde",
+    "Japon",
+    "Israël",
+    "Brésil"
+   ]
+  },
+  "en": {
+   "q": "Which country's Chandrayaan-3 landed near the Moon's south pole in 2023?",
+   "c": [
+    "India",
+    "Japan",
+    "Israel",
+    "Brazil"
+   ]
+  },
+  "ar": {
+   "q": "من أي دولة مركبة تشاندرايان-3 التي هبطت قرب القطب الجنوبي للقمر عام 2023؟",
+   "c": [
+    "الهند",
+    "اليابان",
+    "إسرائيل",
+    "البرازيل"
+   ]
+  },
+  "es": {
+   "q": "¿De qué país es Chandrayaan-3, que aterrizó cerca del polo sur lunar en 2023?",
+   "c": [
+    "India",
+    "Japón",
+    "Israel",
+    "Brasil"
+   ]
+  },
+  "pt": {
+   "q": "De que país é a Chandrayaan-3, que pousou perto do polo sul lunar em 2023?",
+   "c": [
+    "Índia",
+    "Japão",
+    "Israel",
+    "Brasil"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelle la science de l'origine et de l'évolution de l'Univers ?",
+   "c": [
+    "La géologie",
+    "La cosmologie",
+    "La météorologie",
+    "L'écologie"
+   ]
+  },
+  "en": {
+   "q": "What is the science of the universe's origin and evolution called?",
+   "c": [
+    "Geology",
+    "Cosmology",
+    "Meteorology",
+    "Ecology"
+   ]
+  },
+  "ar": {
+   "q": "ماذا يسمى علم نشأة الكون وتطوره؟",
+   "c": [
+    "الجيولوجيا",
+    "علم الكونيات",
+    "الأرصاد الجوية",
+    "علم البيئة"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llama la ciencia del origen y la evolución del Universo?",
+   "c": [
+    "La geología",
+    "La cosmología",
+    "La meteorología",
+    "La ecología"
+   ]
+  },
+  "pt": {
+   "q": "Como se chama a ciência da origem e evolução do Universo?",
+   "c": [
+    "A geologia",
+    "A cosmologia",
+    "A meteorologia",
+    "A ecologia"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quelle station spatiale, en orbite de 1986 à 2001, était soviétique puis russe ?",
+   "c": [
+    "Skylab",
+    "Mir",
+    "Freedom",
+    "Columbus"
+   ]
+  },
+  "en": {
+   "q": "Which space station, orbiting from 1986 to 2001, was Soviet then Russian?",
+   "c": [
+    "Skylab",
+    "Mir",
+    "Freedom",
+    "Columbus"
+   ]
+  },
+  "ar": {
+   "q": "أي محطة فضائية دارت حول الأرض من 1986 إلى 2001 وكانت سوفيتية ثم روسية؟",
+   "c": [
+    "سكاي لاب",
+    "مير",
+    "فريدم",
+    "كولومبوس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué estación espacial, en órbita de 1986 a 2001, fue soviética y luego rusa?",
+   "c": [
+    "Skylab",
+    "Mir",
+    "Freedom",
+    "Columbus"
+   ]
+  },
+  "pt": {
+   "q": "Que estação espacial, em órbita de 1986 a 2001, foi soviética e depois russa?",
+   "c": [
+    "Skylab",
+    "Mir",
+    "Freedom",
+    "Columbus"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "De quel type d'étoile le Soleil fait-il partie ?",
+   "c": [
+    "Une géante rouge",
+    "Une naine jaune",
+    "Une géante bleue",
+    "Une étoile à neutrons"
+   ]
+  },
+  "en": {
+   "q": "Our Sun is classified as what type of star?",
+   "c": [
+    "A red giant",
+    "A yellow dwarf",
+    "A blue giant",
+    "A neutron star"
+   ]
+  },
+  "ar": {
+   "q": "ما نوع النجم الذي تنتمي إليه الشمس؟",
+   "c": [
+    "عملاق أحمر",
+    "قزم أصفر",
+    "عملاق أزرق",
+    "نجم نيوتروني"
+   ]
+  },
+  "es": {
+   "q": "¿Qué tipo de estrella es el Sol?",
+   "c": [
+    "Una gigante roja",
+    "Una enana amarilla",
+    "Una gigante azul",
+    "Una estrella de neutrones"
+   ]
+  },
+  "pt": {
+   "q": "Que tipo de estrela é o Sol?",
+   "c": [
+    "Uma gigante vermelha",
+    "Uma anã amarela",
+    "Uma gigante azul",
+    "Uma estrela de nêutrons"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "En combien de temps l'ISS fait-elle environ un tour de la Terre ?",
+   "c": [
+    "Environ 24 heures",
+    "Environ une semaine",
+    "Environ 10 minutes",
+    "Environ 90 minutes"
+   ]
+  },
+  "en": {
+   "q": "About how long does the ISS take to orbit the Earth once?",
+   "c": [
+    "About 24 hours",
+    "About one week",
+    "About 10 minutes",
+    "About 90 minutes"
+   ]
+  },
+  "ar": {
+   "q": "كم تستغرق محطة الفضاء الدولية تقريبا لتدور حول الأرض دورة واحدة؟",
+   "c": [
+    "نحو 24 ساعة",
+    "نحو أسبوع",
+    "نحو 10 دقائق",
+    "نحو 90 دقيقة"
+   ]
+  },
+  "es": {
+   "q": "¿Cuánto tarda aproximadamente la ISS en dar una vuelta a la Tierra?",
+   "c": [
+    "Unas 24 horas",
+    "Una semana",
+    "Unos 10 minutos",
+    "Unos 90 minutos"
+   ]
+  },
+  "pt": {
+   "q": "Quanto tempo a ISS leva, aproximadamente, para dar uma volta na Terra?",
+   "c": [
+    "Cerca de 24 horas",
+    "Cerca de uma semana",
+    "Cerca de 10 minutos",
+    "Cerca de 90 minutos"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quelle planète naine se trouve dans la ceinture d'astéroïdes ?",
+   "c": [
+    "Pluton",
+    "Triton",
+    "Cérès",
+    "Titan"
+   ]
+  },
+  "en": {
+   "q": "Which dwarf planet lies in the asteroid belt?",
+   "c": [
+    "Pluto",
+    "Triton",
+    "Ceres",
+    "Titan"
+   ]
+  },
+  "ar": {
+   "q": "أي كوكب قزم يقع في حزام الكويكبات؟",
+   "c": [
+    "بلوتو",
+    "تريتون",
+    "سيريس",
+    "تيتان"
+   ]
+  },
+  "es": {
+   "q": "¿Qué planeta enano está en el cinturón de asteroides?",
+   "c": [
+    "Plutón",
+    "Tritón",
+    "Ceres",
+    "Titán"
+   ]
+  },
+  "pt": {
+   "q": "Que planeta anão fica no cinturão de asteroides?",
+   "c": [
+    "Plutão",
+    "Tritão",
+    "Ceres",
+    "Titã"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Quelle sonde de la NASA a survolé Pluton en 2015 ?",
+   "c": [
+    "New Horizons",
+    "Voyager 2",
+    "Magellan",
+    "Galileo"
+   ]
+  },
+  "en": {
+   "q": "Which NASA probe flew past Pluto in 2015?",
+   "c": [
+    "New Horizons",
+    "Voyager 2",
+    "Magellan",
+    "Galileo"
+   ]
+  },
+  "ar": {
+   "q": "أي مسبار تابع لناسا حلق قرب بلوتو عام 2015؟",
+   "c": [
+    "نيو هورايزنز",
+    "فوييجر 2",
+    "ماجلان",
+    "غاليليو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué sonda de la NASA sobrevoló Plutón en 2015?",
+   "c": [
+    "New Horizons",
+    "Voyager 2",
+    "Magellan",
+    "Galileo"
+   ]
+  },
+  "pt": {
+   "q": "Qual sonda da NASA sobrevoou Plutão em 2015?",
+   "c": [
+    "New Horizons",
+    "Voyager 2",
+    "Magellan",
+    "Galileo"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 16
+ },
+ {
+  "fr": {
+   "q": "Pourquoi les astronomes construisent-ils des télescopes à très grands miroirs ?",
+   "c": [
+    "Pour capter plus de lumière",
+    "Pour peser les étoiles",
+    "Pour se protéger du Soleil",
+    "Pour amplifier les sons"
+   ]
+  },
+  "en": {
+   "q": "Why do astronomers build telescopes with huge mirrors?",
+   "c": [
+    "To collect more light",
+    "To weigh stars",
+    "To hide from the Sun",
+    "To amplify sounds"
+   ]
+  },
+  "ar": {
+   "q": "لماذا يبني الفلكيون تلسكوبات بمرايا ضخمة؟",
+   "c": [
+    "لجمع مزيد من الضوء",
+    "لوزن النجوم",
+    "للاحتماء من الشمس",
+    "لتضخيم الأصوات"
+   ]
+  },
+  "es": {
+   "q": "¿Por qué los astrónomos construyen telescopios con espejos enormes?",
+   "c": [
+    "Para captar más luz",
+    "Para pesar las estrellas",
+    "Para protegerse del Sol",
+    "Para amplificar sonidos"
+   ]
+  },
+  "pt": {
+   "q": "Por que os astrônomos constroem telescópios com espelhos enormes?",
+   "c": [
+    "Para captar mais luz",
+    "Para pesar as estrelas",
+    "Para se proteger do Sol",
+    "Para amplificar sons"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quel astronome polonais a publié en 1543 le modèle du monde centré sur le Soleil ?",
+   "c": [
+    "Ptolémée",
+    "Copernic",
+    "Tycho Brahe",
+    "Edmond Halley"
+   ]
+  },
+  "en": {
+   "q": "Which Polish astronomer published the Sun-centered model of the universe in 1543?",
+   "c": [
+    "Ptolemy",
+    "Copernicus",
+    "Tycho Brahe",
+    "Edmond Halley"
+   ]
+  },
+  "ar": {
+   "q": "أي فلكي بولندي نشر عام 1543 نموذج الكون الذي تتوسطه الشمس؟",
+   "c": [
+    "بطليموس",
+    "كوبرنيكوس",
+    "تيخو براهي",
+    "إدموند هالي"
+   ]
+  },
+  "es": {
+   "q": "¿Qué astrónomo polaco publicó en 1543 el modelo del universo centrado en el Sol?",
+   "c": [
+    "Ptolomeo",
+    "Copérnico",
+    "Tycho Brahe",
+    "Edmond Halley"
+   ]
+  },
+  "pt": {
+   "q": "Que astrônomo polonês publicou em 1543 o modelo do universo centrado no Sol?",
+   "c": [
+    "Ptolomeu",
+    "Copérnico",
+    "Tycho Brahe",
+    "Edmond Halley"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "En quoi le Soleil se transformera-t-il à la fin de sa vie ?",
+   "c": [
+    "Un trou noir",
+    "Une supernova",
+    "Une comète",
+    "Une naine blanche"
+   ]
+  },
+  "en": {
+   "q": "What will the Sun become at the end of its life?",
+   "c": [
+    "A black hole",
+    "A supernova",
+    "A comet",
+    "A white dwarf"
+   ]
+  },
+  "ar": {
+   "q": "ماذا ستصبح الشمس في نهاية حياتها؟",
+   "c": [
+    "ثقب أسود",
+    "مستعر أعظم",
+    "مذنب",
+    "قزم أبيض"
+   ]
+  },
+  "es": {
+   "q": "¿En qué se convertirá el Sol al final de su vida?",
+   "c": [
+    "Un agujero negro",
+    "Una supernova",
+    "Un cometa",
+    "Una enana blanca"
+   ]
+  },
+  "pt": {
+   "q": "No que o Sol se transformará no fim da vida?",
+   "c": [
+    "Um buraco negro",
+    "Uma supernova",
+    "Um cometa",
+    "Uma anã branca"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quelles sont les deux planètes appelées géantes de glaces ?",
+   "c": [
+    "Uranus et Neptune",
+    "Jupiter et Saturne",
+    "Mars et Vénus",
+    "Mercure et Pluton"
+   ]
+  },
+  "en": {
+   "q": "Which two planets are called ice giants?",
+   "c": [
+    "Uranus and Neptune",
+    "Jupiter and Saturn",
+    "Mars and Venus",
+    "Mercury and Pluto"
+   ]
+  },
+  "ar": {
+   "q": "ما الكوكبان اللذان يسميان العملاقين الجليديين؟",
+   "c": [
+    "أورانوس ونبتون",
+    "المشتري وزحل",
+    "المريخ والزهرة",
+    "عطارد وبلوتو"
+   ]
+  },
+  "es": {
+   "q": "¿Qué dos planetas se llaman gigantes helados?",
+   "c": [
+    "Urano y Neptuno",
+    "Júpiter y Saturno",
+    "Marte y Venus",
+    "Mercurio y Plutón"
+   ]
+  },
+  "pt": {
+   "q": "Quais dois planetas são chamados de gigantes gelados?",
+   "c": [
+    "Urano e Netuno",
+    "Júpiter e Saturno",
+    "Marte e Vênus",
+    "Mercúrio e Plutão"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Les sondes japonaises Hayabusa ont rapporté des échantillons de quel type d'objet ?",
+   "c": [
+    "Des comètes",
+    "De Mars",
+    "Des lunes de Jupiter",
+    "Des astéroïdes"
+   ]
+  },
+  "en": {
+   "q": "Japan's Hayabusa probes brought back samples from what kind of object?",
+   "c": [
+    "Comets",
+    "Mars",
+    "Jupiter's moons",
+    "Asteroids"
+   ]
+  },
+  "ar": {
+   "q": "من أي نوع من الأجرام أحضرت المسابير اليابانية هايابوسا عينات؟",
+   "c": [
+    "المذنبات",
+    "المريخ",
+    "أقمار المشتري",
+    "الكويكبات"
+   ]
+  },
+  "es": {
+   "q": "¿De qué tipo de objeto trajeron muestras las sondas japonesas Hayabusa?",
+   "c": [
+    "Cometas",
+    "Marte",
+    "Lunas de Júpiter",
+    "Asteroides"
+   ]
+  },
+  "pt": {
+   "q": "De que tipo de objeto as sondas japonesas Hayabusa trouxeram amostras?",
+   "c": [
+    "Cometas",
+    "Marte",
+    "Luas de Júpiter",
+    "Asteroides"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "La mission Rosetta de l'ESA a posé son atterrisseur Philae sur quoi ?",
+   "c": [
+    "Mars",
+    "La Lune",
+    "Une comète",
+    "Vénus"
+   ]
+  },
+  "en": {
+   "q": "ESA's Rosetta mission put its lander Philae on what?",
+   "c": [
+    "Mars",
+    "The Moon",
+    "A comet",
+    "Venus"
+   ]
+  },
+  "ar": {
+   "q": "على ماذا أنزلت مهمة روزيتا التابعة لوكالة ESA مسبارها فيلة؟",
+   "c": [
+    "المريخ",
+    "القمر",
+    "مذنب",
+    "الزهرة"
+   ]
+  },
+  "es": {
+   "q": "¿Sobre qué posó la misión Rosetta de la ESA su módulo Philae?",
+   "c": [
+    "Marte",
+    "La Luna",
+    "Un cometa",
+    "Venus"
+   ]
+  },
+  "pt": {
+   "q": "Onde a missão Rosetta, da ESA, pousou seu módulo Philae?",
+   "c": [
+    "Em Marte",
+    "Na Lua",
+    "Num cometa",
+    "Em Vênus"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quel astre le rover chinois Zhurong a-t-il exploré à partir de 2021 ?",
+   "c": [
+    "Vénus",
+    "La Lune",
+    "Mars",
+    "Mercure"
+   ]
+  },
+  "en": {
+   "q": "Which world did China's Zhurong rover explore from 2021?",
+   "c": [
+    "Venus",
+    "The Moon",
+    "Mars",
+    "Mercury"
+   ]
+  },
+  "ar": {
+   "q": "أي عالم استكشفته المركبة الصينية جورونغ منذ عام 2021؟",
+   "c": [
+    "الزهرة",
+    "القمر",
+    "المريخ",
+    "عطارد"
+   ]
+  },
+  "es": {
+   "q": "¿Qué mundo exploró el róver chino Zhurong desde 2021?",
+   "c": [
+    "Venus",
+    "La Luna",
+    "Marte",
+    "Mercurio"
+   ]
+  },
+  "pt": {
+   "q": "Que mundo o rover chinês Zhurong explorou a partir de 2021?",
+   "c": [
+    "Vênus",
+    "A Lua",
+    "Marte",
+    "Mercúrio"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quel pays arabe a envoyé la sonde « Hope » vers Mars en 2020 ?",
+   "c": [
+    "Égypte",
+    "Qatar",
+    "Jordanie",
+    "Émirats arabes unis"
+   ]
+  },
+  "en": {
+   "q": "Which Arab country sent the \"Hope\" probe to Mars in 2020?",
+   "c": [
+    "Egypt",
+    "Qatar",
+    "Jordan",
+    "United Arab Emirates"
+   ]
+  },
+  "ar": {
+   "q": "أي دولة عربية أرسلت مسبار «الأمل» إلى المريخ عام 2020؟",
+   "c": [
+    "مصر",
+    "قطر",
+    "الأردن",
+    "الإمارات العربية المتحدة"
+   ]
+  },
+  "es": {
+   "q": "¿Qué país árabe envió la sonda «Hope» a Marte en 2020?",
+   "c": [
+    "Egipto",
+    "Catar",
+    "Jordania",
+    "Emiratos Árabes Unidos"
+   ]
+  },
+  "pt": {
+   "q": "Que país árabe enviou a sonda «Hope» a Marte em 2020?",
+   "c": [
+    "Egito",
+    "Catar",
+    "Jordânia",
+    "Emirados Árabes Unidos"
+   ]
+  },
+  "a": 3,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Comment s'appelle le petit hélicoptère qui a volé sur Mars en 2021 ?",
+   "c": [
+    "Sojourner",
+    "Viking",
+    "Ingenuity",
+    "Opportunity"
+   ]
+  },
+  "en": {
+   "q": "What was the small helicopter that flew on Mars in 2021 called?",
+   "c": [
+    "Sojourner",
+    "Viking",
+    "Ingenuity",
+    "Opportunity"
+   ]
+  },
+  "ar": {
+   "q": "ما اسم المروحية الصغيرة التي حلقت على المريخ عام 2021؟",
+   "c": [
+    "سوجورنر",
+    "فايكينغ",
+    "إنجينيويتي",
+    "أوبورتيونيتي"
+   ]
+  },
+  "es": {
+   "q": "¿Cómo se llamaba el pequeño helicóptero que voló en Marte en 2021?",
+   "c": [
+    "Sojourner",
+    "Viking",
+    "Ingenuity",
+    "Opportunity"
+   ]
+  },
+  "pt": {
+   "q": "Como se chamava o pequeno helicóptero que voou em Marte em 2021?",
+   "c": [
+    "Sojourner",
+    "Viking",
+    "Ingenuity",
+    "Opportunity"
+   ]
+  },
+  "a": 2,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quelle fusée géante a emporté les astronautes d'Apollo vers la Lune ?",
+   "c": [
+    "Saturn V",
+    "Falcon 9",
+    "Soyouz",
+    "Ariane 5"
+   ]
+  },
+  "en": {
+   "q": "Which giant rocket carried Apollo astronauts toward the Moon?",
+   "c": [
+    "Saturn V",
+    "Falcon 9",
+    "Soyuz",
+    "Ariane 5"
+   ]
+  },
+  "ar": {
+   "q": "أي صاروخ عملاق حمل رواد أبولو نحو القمر؟",
+   "c": [
+    "ساتورن 5",
+    "فالكون 9",
+    "سويوز",
+    "أريان 5"
+   ]
+  },
+  "es": {
+   "q": "¿Qué cohete gigante llevó a los astronautas del Apolo hacia la Luna?",
+   "c": [
+    "Saturno V",
+    "Falcon 9",
+    "Soyuz",
+    "Ariane 5"
+   ]
+  },
+  "pt": {
+   "q": "Que foguete gigante levou os astronautas da Apollo rumo à Lua?",
+   "c": [
+    "Saturno V",
+    "Falcon 9",
+    "Soyuz",
+    "Ariane 5"
+   ]
+  },
+  "a": 0,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Les plaines sombres de la Lune ont longtemps été prises pour des…",
+   "c": [
+    "forêts",
+    "mers",
+    "villes",
+    "déserts"
+   ]
+  },
+  "en": {
+   "q": "The Moon's dark plains were long mistaken for…",
+   "c": [
+    "forests",
+    "seas",
+    "cities",
+    "deserts"
+   ]
+  },
+  "ar": {
+   "q": "ظلت السهول المظلمة على القمر تُحسب طويلا…",
+   "c": [
+    "غابات",
+    "بحارا",
+    "مدنا",
+    "صحارى"
+   ]
+  },
+  "es": {
+   "q": "Las llanuras oscuras de la Luna se tomaron durante siglos por…",
+   "c": [
+    "bosques",
+    "mares",
+    "ciudades",
+    "desiertos"
+   ]
+  },
+  "pt": {
+   "q": "As planícies escuras da Lua foram por muito tempo confundidas com…",
+   "c": [
+    "florestas",
+    "mares",
+    "cidades",
+    "desertos"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
+   "q": "Quelle planète la sonde Cassini a-t-elle explorée ?",
+   "c": [
+    "Jupiter",
+    "Saturne",
+    "Neptune",
+    "Uranus"
+   ]
+  },
+  "en": {
+   "q": "Which planet did the Cassini probe explore?",
+   "c": [
+    "Jupiter",
+    "Saturn",
+    "Neptune",
+    "Uranus"
+   ]
+  },
+  "ar": {
+   "q": "أي كوكب استكشفه المسبار كاسيني؟",
+   "c": [
+    "المشتري",
+    "زحل",
+    "نبتون",
+    "أورانوس"
+   ]
+  },
+  "es": {
+   "q": "¿Qué planeta exploró la sonda Cassini?",
+   "c": [
+    "Júpiter",
+    "Saturno",
+    "Neptuno",
+    "Urano"
+   ]
+  },
+  "pt": {
+   "q": "Que planeta a sonda Cassini explorou?",
+   "c": [
+    "Júpiter",
+    "Saturno",
+    "Netuno",
+    "Urano"
+   ]
+  },
+  "a": 1,
+  "image": null,
+  "level": 17
+ },
+ {
+  "fr": {
    "q": "En quelle année l'homme a-t-il marché sur la Lune ?",
    "c": [
     "1959",
@@ -6508,7 +9458,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6558,7 +9508,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6608,7 +9558,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6658,7 +9608,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6708,7 +9658,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6758,7 +9708,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6808,7 +9758,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6858,7 +9808,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6908,7 +9858,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -6958,7 +9908,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7008,7 +9958,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7058,11 +10008,11 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "type": "order",
-  "level": 13,
+  "level": 18,
   "image": null,
   "a": 0,
   "fr": {
@@ -7159,7 +10109,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7209,7 +10159,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7259,7 +10209,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7309,7 +10259,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7359,7 +10309,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7409,7 +10359,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 13
+  "level": 18
  },
  {
   "fr": {
@@ -7459,7 +10409,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7509,7 +10459,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7559,7 +10509,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7609,7 +10559,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7659,7 +10609,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7709,7 +10659,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7759,7 +10709,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7809,7 +10759,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7859,7 +10809,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -7909,11 +10859,11 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "type": "number",
-  "level": 14,
+  "level": 19,
   "image": null,
   "a": 8,
   "min": 1,
@@ -7989,7 +10939,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8039,7 +10989,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8089,7 +11039,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8139,7 +11089,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8189,7 +11139,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8239,7 +11189,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 14
+  "level": 19
  },
  {
   "fr": {
@@ -8289,7 +11239,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8339,7 +11289,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8389,7 +11339,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8439,7 +11389,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8489,7 +11439,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8539,7 +11489,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8589,7 +11539,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8639,7 +11589,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8689,7 +11639,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8739,7 +11689,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8789,7 +11739,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8839,7 +11789,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8889,7 +11839,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8939,7 +11889,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -8989,7 +11939,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -9039,7 +11989,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "fr": {
@@ -9089,11 +12039,11 @@
   },
   "a": 2,
   "image": null,
-  "level": 15
+  "level": 20
  },
  {
   "type": "order",
-  "level": 15,
+  "level": 20,
   "image": null,
   "a": 0,
   "fr": {
@@ -9144,7 +12094,7 @@
  },
  {
   "type": "number",
-  "level": 15,
+  "level": 20,
   "image": null,
   "a": 1969,
   "min": 1940,
@@ -9215,7 +12165,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9265,7 +12215,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9315,7 +12265,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9365,7 +12315,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9415,7 +12365,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9465,7 +12415,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9515,7 +12465,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9565,7 +12515,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9615,7 +12565,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9665,7 +12615,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9715,7 +12665,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9765,7 +12715,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9815,7 +12765,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9865,7 +12815,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9915,7 +12865,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -9965,7 +12915,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "fr": {
@@ -10015,7 +12965,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -10065,7 +13015,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -10115,7 +13065,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -10165,7 +13115,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -10215,7 +13165,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "en": {
@@ -10265,11 +13215,11 @@
   },
   "a": 2,
   "image": null,
-  "level": 16
+  "level": 21
  },
  {
   "type": "order",
-  "level": 16,
+  "level": 21,
   "image": null,
   "a": 0,
   "fr": {
@@ -10320,7 +13270,7 @@
  },
  {
   "type": "number",
-  "level": 16,
+  "level": 21,
   "image": null,
   "a": 384,
   "min": 100,
@@ -10396,7 +13346,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10446,7 +13396,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10496,7 +13446,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10546,7 +13496,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10596,7 +13546,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10646,7 +13596,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10696,7 +13646,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10746,7 +13696,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10796,7 +13746,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10846,7 +13796,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10896,7 +13846,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -10946,7 +13896,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -10996,7 +13946,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -11046,7 +13996,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -11096,7 +14046,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -11146,7 +14096,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "en": {
@@ -11196,7 +14146,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 17
+  "level": 22
  },
  {
   "fr": {
@@ -11246,7 +14196,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11296,7 +14246,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11346,7 +14296,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11396,7 +14346,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11446,7 +14396,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11497,7 +14447,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11547,7 +14497,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11597,7 +14547,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11647,7 +14597,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11697,7 +14647,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11747,7 +14697,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11797,7 +14747,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 18
+  "level": 23
  },
  {
   "fr": {
@@ -11847,7 +14797,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11897,7 +14847,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11947,7 +14897,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -11997,7 +14947,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -12047,7 +14997,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -12097,7 +15047,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -12147,7 +15097,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -12197,7 +15147,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -12247,7 +15197,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -12297,7 +15247,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 19
+  "level": 24
  },
  {
   "fr": {
@@ -12347,7 +15297,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -12397,7 +15347,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -12447,7 +15397,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -12497,7 +15447,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -12547,7 +15497,7 @@
   },
   "a": 2,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -12597,7 +15547,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -12647,7 +15597,7 @@
   },
   "a": 3,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -12697,7 +15647,7 @@
   },
   "a": 1,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -12747,7 +15697,7 @@
   },
   "a": 0,
   "image": null,
-  "level": 20
+  "level": 25
  },
  {
   "fr": {
@@ -12797,6 +15747,6 @@
   },
   "a": 3,
   "image": null,
-  "level": 20
+  "level": 25
  }
 ]
